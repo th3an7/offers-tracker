@@ -1,16 +1,16 @@
 {
-  "id": "8fd1e71c6fc24e75b38d0f297bf3fef2",
+  "id": "7a365a8479704d9aa86e8c036237257f",
   "namespace": "d5241c76f178492ea1540fce45616757",
-  "title": "Oddworld: New 'n' Tasty",
-  "description": "Oddworld: New 'n' Tasty",
+  "title": "Mystery Game",
+  "description": "Mystery Game (December 20)",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "oddworld-new-n-tasty",
-  "urlSlug": "december18mysterygame",
-  "creationDate": "2020-12-14T20:22:17.554Z",
-  "lastModifiedDate": "2020-12-19T16:00:04.653Z",
+  "productSlug": "[]",
+  "urlSlug": "december20mysterygame",
+  "creationDate": "2020-12-14T20:25:41.938Z",
+  "lastModifiedDate": "2020-12-16T19:37:27.923Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2020-12-17T15:25:00.000Z",
+  "viewableDate": "2020-12-19T15:25:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "freegames/vaulted"
+    },
+    {
+      "path": "freegames"
+    },
     {
       "path": "games"
     },
@@ -47,37 +53,24 @@
     },
     {
       "key": "publisherName",
-      "value": "Oddworld Inhabitants, Inc."
+      "value": "[]"
     },
     {
       "key": "com.epicgames.app.freegames.vault.open",
       "value": "[]"
     },
     {
-      "key": "developerName",
-      "value": "Just Add Water"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
-      "value": "oddworld-new-n-tasty"
+      "value": "[]"
     }
   ],
   "keyImages": [
     {
       "type": "VaultClosed",
-      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_18_1920x1080_Teaser-1920x1080-fa363f9ed8c09db6576b993e27e02c8e.jpg",
-      "md5": "fa363f9ed8c09db6576b993e27e02c8e",
-      "size": 2937259,
-      "uploadedDate": "2020-12-16T19:01:12.927Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_Oddworld_1920x1080_Teaser-R-1920x1080-2ca053d0ab9e0f79645d9eaab8d477b6.jpg",
-      "md5": "2ca053d0ab9e0f79645d9eaab8d477b6",
-      "size": 1686840,
-      "uploadedDate": "2020-12-17T00:59:31.628Z",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_20_1920x1080_Teaser-1920x1080-2e7949eeff1afbe4b442471318f5be8a.jpg",
+      "md5": "2e7949eeff1afbe4b442471318f5be8a",
+      "size": 2378398,
+      "uploadedDate": "2020-12-16T19:03:47.333Z",
       "width": 1920,
       "height": 1080
     }
