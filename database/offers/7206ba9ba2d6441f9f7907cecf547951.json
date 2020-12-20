@@ -1,14 +1,14 @@
 {
-  "id": "cae9b411f608482a9c646f00daac9e46",
+  "id": "7206ba9ba2d6441f9f7907cecf547951",
   "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
-  "title": "Defense Grid: The Awakening",
-  "description": "Defense Grid: The Awakening",
+  "title": "Defense Grid: DLC Bundle",
+  "description": "Defense Grid: DLC Bundle",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "defense-grid",
-  "urlSlug": "amaryllisgeneralaudience",
-  "creationDate": "2020-04-15T17:08:42.734Z",
-  "lastModifiedDate": "2020-12-20T15:08:50.427Z",
+  "productSlug": "defense-grid/dlc-bundle",
+  "urlSlug": "defense-grid--dlc-bundle",
+  "creationDate": "2020-09-03T19:58:46.154Z",
+  "lastModifiedDate": "2020-12-20T15:08:50.492Z",
   "effectiveDate": "2020-12-20T16:00:00.000Z",
   "viewableDate": "2020-12-20T16:00:00.000Z",
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
     },
     {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -110,68 +107,68 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "defense-grid"
+      "value": "defense-grid/dlc-bundle"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
-      "md5": "7b6cc3b4533d512f4e58800527b1c0a0",
-      "size": 542121,
-      "uploadedDate": "2020-12-18T01:36:59.447Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S1-2560x1440-e3026e7e857b5fa910a2e1d2e225b644.jpg",
+      "md5": "e3026e7e857b5fa910a2e1d2e225b644",
+      "size": 783027,
+      "uploadedDate": "2020-12-18T02:22:53.324Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
-      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
-      "size": 475389,
-      "uploadedDate": "2020-12-18T01:37:11.253Z",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S2-1200x1600-fa42b40f0ec83781b95cf22331805b9e.jpg",
+      "md5": "fa42b40f0ec83781b95cf22331805b9e",
+      "size": 544220,
+      "uploadedDate": "2020-12-18T02:23:03.511Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
-      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
-      "size": 475389,
-      "uploadedDate": "2020-12-18T01:37:26.939Z",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S2-1200x1600-fa42b40f0ec83781b95cf22331805b9e.jpg",
+      "md5": "fa42b40f0ec83781b95cf22331805b9e",
+      "size": 544220,
+      "uploadedDate": "2020-12-18T02:23:14.446Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
-      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
-      "size": 475389,
-      "uploadedDate": "2020-12-18T01:37:39.164Z",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S2-1200x1600-fa42b40f0ec83781b95cf22331805b9e.jpg",
+      "md5": "fa42b40f0ec83781b95cf22331805b9e",
+      "size": 544220,
+      "uploadedDate": "2020-12-18T02:23:22.228Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
-      "md5": "7b6cc3b4533d512f4e58800527b1c0a0",
-      "size": 542121,
-      "uploadedDate": "2020-12-18T01:37:56.095Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S1-2560x1440-e3026e7e857b5fa910a2e1d2e225b644.jpg",
+      "md5": "e3026e7e857b5fa910a2e1d2e225b644",
+      "size": 783027,
+      "uploadedDate": "2020-12-18T02:23:33.474Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
-      "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
-      "size": 475389,
-      "uploadedDate": "2020-12-18T01:38:07.360Z",
+      "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/offer/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S2-1200x1600-fa42b40f0ec83781b95cf22331805b9e.jpg",
+      "md5": "fa42b40f0ec83781b95cf22331805b9e",
+      "size": 544220,
+      "uploadedDate": "2020-12-18T02:23:41.546Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "dd2f150f062f4d9eaea1079022ddc30c"
+      "id": "ab4d97af5623469fb74b4a08cc4fd46a"
     }
   ],
   "catalogNs": null
