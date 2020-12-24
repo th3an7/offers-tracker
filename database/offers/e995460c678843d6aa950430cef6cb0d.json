@@ -1,14 +1,14 @@
 {
-  "id": "a178c2b75e20434696533628d8fdb296",
-  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
-  "title": "Tropico 5",
-  "description": "Tropico 5",
+  "id": "e995460c678843d6aa950430cef6cb0d",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "title": "Tropico 6 - El Prez Edition",
+  "description": "Tropico 6 - El Prez Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "tropico-5/home",
-  "urlSlug": "siamesegeneralaudience",
-  "creationDate": "2020-05-08T17:14:52.956Z",
-  "lastModifiedDate": "2020-12-16T18:21:42.651Z",
+  "productSlug": "tropico-6/el-prez-edition",
+  "urlSlug": "devsiberianaudience-02",
+  "creationDate": "2020-06-29T13:58:15.926Z",
+  "lastModifiedDate": "2020-12-16T17:10:05.360Z",
   "effectiveDate": "2020-12-23T16:00:00.000Z",
   "viewableDate": "2020-12-23T16:00:00.000Z",
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -63,15 +60,15 @@
       "comment": null
     },
     {
-      "id": "1367",
-      "name": "RPG",
+      "id": "1146",
+      "name": "CITY BUILDER",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-12-15T01:46:33.012Z",
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-12-15T01:49:29.181Z",
       "status": "ACTIVE",
-      "referenceCount": 43,
+      "referenceCount": 9,
       "comment": null
     },
     {
@@ -121,6 +118,20 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-12-15T01:43:22.719Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -134,75 +145,78 @@
     },
     {
       "key": "developerName",
-      "value": "Haemimont Games"
+      "value": "Limbic Entertainment"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "tropico-5/home"
+      "value": "tropico-6/el-prez-edition"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5_HaemimontGames_S5-1920x1080-bc07360268fcba08b9368670d7d8a40b.jpg",
-      "md5": "bc07360268fcba08b9368670d7d8a40b",
-      "size": 928326,
-      "uploadedDate": "2020-11-16T15:12:47.692Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6ElPrezEdition_LimbicEntertainment_Editions_S1-2560x1440-72cbb35f9176cd1cdf0064584af932df.jpg",
+      "md5": "72cbb35f9176cd1cdf0064584af932df",
+      "size": 804615,
+      "uploadedDate": "2020-11-16T20:22:40.896Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
-      "md5": "e61be120538ecdbc6e43c24605d8eac5",
-      "size": 946922,
-      "uploadedDate": "2020-11-16T15:12:54.327Z",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6ElPrezEdition_LimbicEntertainment_Editions_S2-1200x1600-0ac5b88d7bf76949d8f0057e4ca62413.jpg",
+      "md5": "0ac5b88d7bf76949d8f0057e4ca62413",
+      "size": 750766,
+      "uploadedDate": "2020-11-16T20:22:49.014Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5_HaemimontGames_S5-1920x1080-bc07360268fcba08b9368670d7d8a40b.jpg",
-      "md5": "bc07360268fcba08b9368670d7d8a40b",
-      "size": 928326,
-      "uploadedDate": "2020-11-16T15:13:01.986Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6ElPrezEdition_LimbicEntertainment_Editions_S1-2560x1440-72cbb35f9176cd1cdf0064584af932df.jpg",
+      "md5": "72cbb35f9176cd1cdf0064584af932df",
+      "size": 804615,
+      "uploadedDate": "2020-11-16T20:22:55.780Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
-      "md5": "e61be120538ecdbc6e43c24605d8eac5",
-      "size": 946922,
-      "uploadedDate": "2020-11-16T15:13:09.186Z",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6ElPrezEdition_LimbicEntertainment_Editions_S2-1200x1600-0ac5b88d7bf76949d8f0057e4ca62413.jpg",
+      "md5": "0ac5b88d7bf76949d8f0057e4ca62413",
+      "size": 750766,
+      "uploadedDate": "2020-11-16T20:23:02.452Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
-      "md5": "e61be120538ecdbc6e43c24605d8eac5",
-      "size": 946922,
-      "uploadedDate": "2020-11-16T15:13:17.333Z",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6ElPrezEdition_LimbicEntertainment_Editions_S2-1200x1600-0ac5b88d7bf76949d8f0057e4ca62413.jpg",
+      "md5": "0ac5b88d7bf76949d8f0057e4ca62413",
+      "size": 750766,
+      "uploadedDate": "2020-11-16T20:23:10.237Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/offer/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
-      "md5": "e61be120538ecdbc6e43c24605d8eac5",
-      "size": 946922,
-      "uploadedDate": "2020-11-16T15:13:25.654Z",
+      "url": "https://cdn1.epicgames.com/e1055bf1e5654b93a27e19e6bb86cb2a/offer/EGS_Tropico6ElPrezEdition_LimbicEntertainment_Editions_S2-1200x1600-0ac5b88d7bf76949d8f0057e4ca62413.jpg",
+      "md5": "0ac5b88d7bf76949d8f0057e4ca62413",
+      "size": 750766,
+      "uploadedDate": "2020-11-16T20:23:17.046Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "b3f71fdd0f6744c49b864d9598216893"
+      "id": "22c7a15501c14e6dba04daaf3e0838bb"
     },
     {
-      "id": "fa47d5f474dc42df9e59ec179b9d831f"
+      "id": "3c6194035ecc4f76b1b1fabdea534a9b"
+    },
+    {
+      "id": "22c327586a39448b844b90ea0b3d0231"
     }
   ],
   "catalogNs": null
