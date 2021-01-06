@@ -8,8 +8,8 @@
   "productSlug": "gods-will-fall",
   "urlSlug": "gods-will-fall-pre-purchase",
   "creationDate": "2020-11-11T20:09:57.118Z",
-  "lastModifiedDate": "2020-11-24T15:00:34.590Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-01-05T17:24:31.665Z",
+  "effectiveDate": "2021-01-05T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -102,11 +102,19 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
       "value": "Deep Silver"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1611946800"
     },
     {
       "key": "developerName",
