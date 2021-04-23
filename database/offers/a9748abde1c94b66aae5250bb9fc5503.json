@@ -8,7 +8,7 @@
   "productSlug": "idle-champions-of-the-forgotten-realms",
   "urlSlug": "banegeneralaudience",
   "creationDate": "2020-10-15T12:56:50.731Z",
-  "lastModifiedDate": "2021-02-16T16:06:11.950Z",
+  "lastModifiedDate": "2021-04-22T18:00:45.135Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -24,6 +24,9 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "freegames"
+    },
     {
       "path": "games"
     },
@@ -90,7 +93,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -143,20 +146,29 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1-2560x1440-a890c6157dce97993be432cb8338cb79.jpg",
-      "md5": "a890c6157dce97993be432cb8338cb79",
-      "size": 536899,
-      "uploadedDate": "2021-02-11T17:16:42.451Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "DieselStoreFrontTall",
       "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg",
       "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
       "size": 254582,
       "uploadedDate": "2021-02-11T17:16:51.247Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Landscape - Apr 22_2560x1440-32ae46a677bc229456d5e40bd65f2fe8",
+      "md5": "32ae46a677bc229456d5e40bd65f2fe8",
+      "size": 1006526,
+      "uploadedDate": "2021-04-20T20:07:04.540Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Portrait - Apr 22_1200x1600-76d1bf39ee28ab0e32933f304f4a0e4c",
+      "md5": "76d1bf39ee28ab0e32933f304f4a0e4c",
+      "size": 1021690,
+      "uploadedDate": "2021-04-20T20:07:17.039Z",
       "width": 1200,
       "height": 1600
     }
