@@ -1,14 +1,14 @@
 {
-  "id": "d37f3694e7a04edb8347f3cb6320f9d3",
+  "id": "cda595b26c5044e193784600de1a749b",
   "namespace": "df37f065c3f14eadbf011177396e2966",
   "title": "Alien: Isolation",
   "description": "Alien: Isolation",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "alien-isolation",
-  "urlSlug": "lethegeneralaudience",
-  "creationDate": "2020-10-26T16:28:13.978Z",
-  "lastModifiedDate": "2021-04-23T16:43:27.707Z",
+  "urlSlug": "lethegeneralaudience-freegameedition",
+  "creationDate": "2021-04-23T16:18:03.630Z",
+  "lastModifiedDate": "2021-04-23T16:18:03.630Z",
   "effectiveDate": "2020-12-21T16:00:00.000Z",
   "viewableDate": "2020-12-21T16:00:00.000Z",
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
@@ -172,7 +178,7 @@
   ],
   "items": [
     {
-      "id": "4646166ab44c49b0a83e00ab59df5292"
+      "id": "d2e7ad31d59d464bbc163357ee1b0e4b"
     }
   ],
   "catalogNs": {
