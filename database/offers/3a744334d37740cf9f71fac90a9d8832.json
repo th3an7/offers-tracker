@@ -8,9 +8,9 @@
   "productSlug": "knockout-city",
   "urlSlug": "jalapenos-general-audience",
   "creationDate": "2021-03-23T01:36:44.632Z",
-  "lastModifiedDate": "2021-05-26T15:58:27.766Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-05-29T23:12:52.177Z",
+  "effectiveDate": "2021-05-30T12:00:00.000Z",
+  "viewableDate": "2021-05-30T12:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -87,7 +90,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "CN,HK,MO"
     },
     {
       "key": "publisherName",
