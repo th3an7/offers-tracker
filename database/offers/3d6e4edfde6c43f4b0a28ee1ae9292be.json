@@ -1,14 +1,14 @@
 {
-  "id": "972849b01e744bddb496223c8ac5c7b7",
+  "id": "3d6e4edfde6c43f4b0a28ee1ae9292be",
   "namespace": "0a84818055e740a7be21a2e5b6162703",
-  "title": "Watch Dogs: Legion",
-  "description": "Watch Dogs: Legion Standard Edition",
-  "longDescription": null,
+  "title": "Watch Dogs: Legion - Season Pass",
+  "description": "The season pass includes one major expansion with two episodes, extra missions, four iconic heroes and more!",
+  "longDescription": "The Watch Dogs: Legion season pass includes one major expansion with two episodes, and new content for Watch Dogs: Legion - extra missions, four iconic heroes with unique abilities, a Dedsec car skin and immediate access to the Original Watch Dogs Complete edition!",
   "status": "ACTIVE",
-  "productSlug": "watch-dogs-legion",
-  "urlSlug": "hawkgeneralaudience",
-  "creationDate": "2019-06-03T15:04:21.511Z",
-  "lastModifiedDate": "2021-06-02T20:54:59.447Z",
+  "productSlug": null,
+  "urlSlug": "watch-dogs-legion--season-pass",
+  "creationDate": "2021-06-02T20:22:52.181Z",
+  "lastModifiedDate": "2021-06-02T21:40:25.835Z",
   "effectiveDate": "2019-06-14T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
     },
     {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -162,86 +159,88 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN"
+      "value": "CN,JP"
     },
     {
-      "key": "availableDate",
-      "value": "1603983600"
-    },
-    {
-      "key": "developerName",
+      "key": "publisherName",
       "value": "Ubisoft"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "watch-dogs-legion"
+      "key": "developerName",
+      "value": "Ubisoft Toronto"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Portrait_1200x1600-1200x1600-a6b2d4cce489aeeb87bad4a6db168bed.jpg",
-      "md5": "a6b2d4cce489aeeb87bad4a6db168bed",
-      "size": 854184,
-      "uploadedDate": "2020-10-30T14:27:45.603Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Landscape_2560x1440-2560x1440-6564aab7daeb17650e7fc190714bba76.jpg",
-      "md5": "6564aab7daeb17650e7fc190714bba76",
-      "size": 951200,
-      "uploadedDate": "2020-10-30T14:27:49.095Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/wdl-sp-store-landscape-2560x1440-2560x1440-406881421_2560x1440-14d459d11e71676ce7dff68a4e11bd50",
+      "md5": "14d459d11e71676ce7dff68a4e11bd50",
+      "size": 206939,
+      "uploadedDate": "2021-06-02T20:26:56.100Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Portrait_1200x1600-1200x1600-a6b2d4cce489aeeb87bad4a6db168bed.jpg",
-      "md5": "a6b2d4cce489aeeb87bad4a6db168bed",
-      "size": 854184,
-      "uploadedDate": "2020-10-30T14:27:53.228Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Landscape_2560x1440-2560x1440-6564aab7daeb17650e7fc190714bba76.jpg",
-      "md5": "6564aab7daeb17650e7fc190714bba76",
-      "size": 951200,
-      "uploadedDate": "2020-10-30T14:27:57.200Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Portrait_1200x1600-1200x1600-a6b2d4cce489aeeb87bad4a6db168bed.jpg",
-      "md5": "a6b2d4cce489aeeb87bad4a6db168bed",
-      "size": 854184,
-      "uploadedDate": "2020-10-30T14:28:00.092Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/wdl-sp-store-portrait-1200x1600-1200x1600-406881227_1200x1600-19551521d61f01536089ad1df07fd983",
+      "md5": "19551521d61f01536089ad1df07fd983",
+      "size": 162041,
+      "uploadedDate": "2021-06-02T20:27:05.606Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Portrait_1200x1600-1200x1600-a6b2d4cce489aeeb87bad4a6db168bed.jpg",
-      "md5": "a6b2d4cce489aeeb87bad4a6db168bed",
-      "size": 854184,
-      "uploadedDate": "2020-10-30T14:28:04.625Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/wdl-sp-store-portrait-1200x1600-1200x1600-406881227_1200x1600-19551521d61f01536089ad1df07fd983",
+      "md5": "19551521d61f01536089ad1df07fd983",
+      "size": 162041,
+      "uploadedDate": "2021-06-02T20:27:15.994Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/wdl-sp-store-portrait-1200x1600-1200x1600-406881227_1200x1600-19551521d61f01536089ad1df07fd983",
+      "md5": "19551521d61f01536089ad1df07fd983",
+      "size": 162041,
+      "uploadedDate": "2021-06-02T20:27:27.430Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/wdl-sp-logo-color-400x150-400x150-406880963_400x150-362b0ea76b0ee21fd78ad8bb55d9f6ac",
+      "md5": "362b0ea76b0ee21fd78ad8bb55d9f6ac",
+      "size": 14113,
+      "uploadedDate": "2021-06-02T20:27:39.497Z",
+      "width": 400,
+      "height": 150
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/wdl-season-pass-mockup-wide-source-uk-1920x1080-330557971_1920x1080-0578be747fb25b987d5e19eaa73c9812",
+      "md5": "0578be747fb25b987d5e19eaa73c9812",
+      "size": 780903,
+      "uploadedDate": "2021-06-02T20:27:49.133Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
     {
-      "id": "1ce4e55cd01841ae90df7a51fb4420d4"
+      "id": "89ca33783a0342579c41d5abb3d111cf"
     },
     {
-      "id": "d77e53f7886a4c618b9fa6582112330b"
+      "id": "5da97d9d6bed46a8be8797f818aefea9"
     },
     {
-      "id": "0a023e68a68140419ed3fb7e29855cf0"
+      "id": "1dd6d61f0c364fae972313329495657d"
+    },
+    {
+      "id": "3dff4c1d1abe4d96943e6f6f63af0318"
+    },
+    {
+      "id": "52fe48f721cc4137ac3f2e94e303435d"
     }
   ],
   "catalogNs": {
