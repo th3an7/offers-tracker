@@ -1,16 +1,16 @@
 {
   "id": "0d0066ee2bdd40feab491b76f5387a5b",
   "namespace": "5493b8894a4b4f49984240f298a8ef06",
-  "title": "LanthanumGeneralAudience",
-  "description": "LanthanumGeneralAudience",
+  "title": "Crystal Crisis",
+  "description": "Crystal Crisis",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "lanthanumgeneralaudience",
+  "productSlug": "crystal-crisis",
+  "urlSlug": "crystal-crisis",
   "creationDate": "2021-01-27T19:47:34.578Z",
-  "lastModifiedDate": "2021-03-05T23:21:34.133Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2021-07-08T08:20:49.849Z",
+  "effectiveDate": "2021-07-08T15:00:00.000Z",
+  "viewableDate": "2021-07-08T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
@@ -28,25 +28,147 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2021-02-10T17:34:06.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2021-02-05T16:13:20.502Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2021-02-05T16:07:21.852Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Nicalis"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "crystal-crisis"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S1_2560x1440-9664b4aead711c660e8db2e58d44d333",
+      "md5": "9664b4aead711c660e8db2e58d44d333",
+      "size": 969123,
+      "uploadedDate": "2021-06-25T19:46:47.601Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S2_1200x1600-5151871a0a4f248d070a0b18acf4e8af",
+      "md5": "5151871a0a4f248d070a0b18acf4e8af",
+      "size": 962359,
+      "uploadedDate": "2021-06-25T19:46:50.207Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S1_2560x1440-9664b4aead711c660e8db2e58d44d333",
+      "md5": "9664b4aead711c660e8db2e58d44d333",
+      "size": 969123,
+      "uploadedDate": "2021-06-25T19:46:54.196Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S2_1200x1600-5151871a0a4f248d070a0b18acf4e8af",
+      "md5": "5151871a0a4f248d070a0b18acf4e8af",
+      "size": 962359,
+      "uploadedDate": "2021-06-25T19:46:57.135Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S2_1200x1600-5151871a0a4f248d070a0b18acf4e8af",
+      "md5": "5151871a0a4f248d070a0b18acf4e8af",
+      "size": 962359,
+      "uploadedDate": "2021-06-25T19:47:00.227Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CrystalCrisis_NicalisInc_S2_1200x1600-5151871a0a4f248d070a0b18acf4e8af",
+      "md5": "5151871a0a4f248d070a0b18acf4e8af",
+      "size": 962359,
+      "uploadedDate": "2021-06-25T19:47:06.689Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "0a8ef443c8d740abb2cf37d87a822538"
