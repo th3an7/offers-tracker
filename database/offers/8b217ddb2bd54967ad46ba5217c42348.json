@@ -8,7 +8,7 @@
   "productSlug": "against-the-storm",
   "urlSlug": "against-the-storm-prepurchase",
   "creationDate": "2021-05-12T23:22:23.263Z",
-  "lastModifiedDate": "2021-08-25T23:49:32.409Z",
+  "lastModifiedDate": "2021-08-26T18:25:39.029Z",
   "effectiveDate": "2021-08-26T18:30:00.000Z",
   "viewableDate": "2021-07-15T04:00:00.000Z",
   "developer": null,
@@ -97,6 +97,18 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -182,5 +194,7 @@
       "id": "15d17043a2eb44b8879a4528b11b4e30"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "93eeeab14a3d45b8bf5586a900137733"
+  }
 }
