@@ -8,8 +8,8 @@
   "productSlug": "tinytopia",
   "urlSlug": "tinytopia",
   "creationDate": "2021-07-29T21:29:15.860Z",
-  "lastModifiedDate": "2021-08-26T19:03:16.300Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-08-27T19:57:12.133Z",
+  "effectiveDate": "2021-08-30T12:00:00.000Z",
   "viewableDate": "2021-08-24T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -99,6 +99,18 @@
       "comment": null
     },
     {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2021-02-10T17:35:19.827Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -111,18 +123,6 @@
       "updated": "2021-02-10T17:26:31.125Z",
       "status": "ACTIVE",
       "referenceCount": 19,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2021-02-10T17:35:19.827Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
@@ -205,5 +205,7 @@
       "id": "7663b65ed1654b5290285cd9d63b0ae8"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "5f3d58af886e4cf98a8f9e87ad9d2e2b"
+  }
 }
