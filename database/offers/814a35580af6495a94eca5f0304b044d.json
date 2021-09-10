@@ -1,16 +1,16 @@
 {
   "id": "814a35580af6495a94eca5f0304b044d",
   "namespace": "ab2f9078bcb04065a5c6c2fede9cb3b0",
-  "title": "MtAugustaGeneralAudience",
-  "description": "MtAugustaGeneralAudience",
+  "title": "Baldur's Gate: Enhanced Edition",
+  "description": "Baldur’s Gate: Enhanced Edition is the classic 90s RPG— enhanced for modern adventurers. Customize your hero, gather your party, and venture forth in this open-world epic where every choice matters.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "mtaugustageneralaudience",
+  "productSlug": "baldurs-gate-enhanced-edition",
+  "urlSlug": "baldurs-gate-enhanced-edition",
   "creationDate": "2020-11-11T23:19:06.274Z",
-  "lastModifiedDate": "2021-01-29T21:18:43.457Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-09-09T22:34:13.905Z",
+  "effectiveDate": "2021-09-28T15:00:00.000Z",
+  "viewableDate": "2021-09-09T22:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
@@ -28,6 +28,12 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -35,22 +41,83 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Beamdog"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Beamdog"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "baldurs-gate-enhanced-edition"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateEnhancedEdition_Beamdog_S2_1200x1600-2fa94fa8014289e64b34d4d080599d92",
+      "md5": "2fa94fa8014289e64b34d4d080599d92",
+      "size": 586500,
+      "uploadedDate": "2021-08-31T23:24:48.702Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateEnhancedEdition_Beamdog_S2_1200x1600-2fa94fa8014289e64b34d4d080599d92",
+      "md5": "2fa94fa8014289e64b34d4d080599d92",
+      "size": 586500,
+      "uploadedDate": "2021-08-31T23:24:52.434Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateEnhancedEdition_Beamdog_S1_2560x1440-20831a6a763fc2056d3f9ac33f9a341e",
+      "md5": "20831a6a763fc2056d3f9ac33f9a341e",
+      "size": 781646,
+      "uploadedDate": "2021-08-31T23:25:05.879Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateEnhancedEdition_Beamdog_S2_1200x1600-2fa94fa8014289e64b34d4d080599d92",
+      "md5": "2fa94fa8014289e64b34d4d080599d92",
+      "size": 586500,
+      "uploadedDate": "2021-08-31T23:24:56.151Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateEnhancedEdition_Beamdog_S1_2560x1440-20831a6a763fc2056d3f9ac33f9a341e",
+      "md5": "20831a6a763fc2056d3f9ac33f9a341e",
+      "size": 781646,
+      "uploadedDate": "2021-08-31T23:25:09.278Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BaldursGateEnhancedEdition_Beamdog_S2_1200x1600-2fa94fa8014289e64b34d4d080599d92",
+      "md5": "2fa94fa8014289e64b34d4d080599d92",
+      "size": 586500,
+      "uploadedDate": "2021-08-31T23:25:00.532Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "12bfc258dc1743cc9f19164266f5a3ae"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ab2f9078bcb04065a5c6c2fede9cb3b0"
+  }
 }
