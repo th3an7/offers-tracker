@@ -1,16 +1,16 @@
 {
   "id": "48bb8979d7e6469a9a5adcbca67c2abb",
   "namespace": "57dfd95548214a138218e56cd9e5b9d8",
-  "title": "FluorineGeneralAudience",
-  "description": "FluorineGeneralAudience",
+  "title": "Back 4 Blood: Standard Edition",
+  "description": "Back 4 Blood is a thrilling cooperative first-person shooter with an intense 4 player co-op narrative campaign, competitive multiplayer as human or Ridden, and frenetic gameplay that keeps you in the action.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "back-4-blood/home",
-  "urlSlug": "fluorinegeneralaudience",
+  "urlSlug": "back-4-blood",
   "creationDate": "2020-11-20T19:27:03.740Z",
-  "lastModifiedDate": "2020-12-17T04:16:23.213Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-10-12T14:26:53.425Z",
+  "effectiveDate": "2021-10-12T15:00:00.000Z",
+  "viewableDate": "2021-10-12T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
@@ -28,14 +28,26 @@
       "path": "games"
     },
     {
-      "path": "applications"
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
     }
   ],
-  "tags": [],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -111,5 +123,7 @@
       "id": "7022e7ac45be42b385df85b131d0de12"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": null
+  }
 }
