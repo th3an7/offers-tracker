@@ -1,16 +1,16 @@
 {
-  "id": "4263703f1f5c4cfc8a676de33d8d7c81",
-  "namespace": "195d0bec22bf4b63aab10e4b40f5bf2e",
-  "title": "Dread Templar",
-  "description": "Dread Templar is a fast-paced retro FPS that combines 90s classic shooter elements with modern skill-based FPS controls. You are a Dread Templar who entered Hell seeking revenge. But in order to get it, you have to fight your way through the dark realm!",
+  "id": "85bfdee581d0415f9aa25862dd1c430e",
+  "namespace": "6ee03ef340e641a781eb375192bfa105",
+  "title": "Forgive Me Father",
+  "description": "Forgive Me Father is a dark retro horror FPS set in a comic book style world inspired by the novels of H.P. Lovecraft. As the only one left with full senses, you begin a journey in search of answers and relief. How long can you last?",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "a5ab6e5089a947f58b40866feb7dd5f7",
-  "creationDate": "2021-09-16T19:18:34.747Z",
-  "lastModifiedDate": "2021-09-29T22:38:14.483Z",
-  "effectiveDate": "2021-09-28T17:00:00.000Z",
-  "viewableDate": "2021-09-28T17:00:00.000Z",
+  "urlSlug": "cc668518cf5646be97ebc79c1ef35a64",
+  "creationDate": "2021-10-22T05:52:18.839Z",
+  "lastModifiedDate": "2021-10-22T05:52:18.839Z",
+  "effectiveDate": "2021-10-26T17:00:00.000Z",
+  "viewableDate": "2021-10-21T22:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-n4d8bf5e8fnr4kujuut9j6v4d29muc",
@@ -35,6 +35,18 @@
     }
   ],
   "tags": [
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2021-02-10T17:14:06.043Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "Shooter",
@@ -94,18 +106,6 @@
       "status": "ACTIVE",
       "referenceCount": 0,
       "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2021-02-10T17:35:19.827Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -117,63 +117,65 @@
   "keyImages": [
     {
       "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/spt-assets/dc8e75b2b1494fc59d69456cdd426c65/dread-templar-offer-logo-st39k.png",
-      "md5": "76dcea9d3f8bc9f0ceee3d85fe9c0e51",
-      "size": 49052,
-      "uploadedDate": "2021-09-17T11:47:51.299Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d594ee454c9c4c55ad76a6734477f3fc/forgive-me-father-offer-logo-10gpv.png",
+      "md5": "124089e265faaa4ff0ac2d0d24e16354",
+      "size": 36186,
+      "uploadedDate": "2021-10-19T09:36:21.036Z",
       "width": 400,
       "height": 400
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/dc8e75b2b1494fc59d69456cdd426c65/download-dread-templar-offer-xdoe1.jpg",
-      "md5": "174f2ed970bff212816ed3d43b36c2e4",
-      "size": 930072,
-      "uploadedDate": "2021-09-17T11:48:03.934Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/dc8e75b2b1494fc59d69456cdd426c65/dread-templar-offer-6ncpz.jpg",
-      "md5": "f93e66aa5a9a77f1cd65507b36bb25e1",
-      "size": 2681407,
-      "uploadedDate": "2021-09-17T11:48:09.139Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d594ee454c9c4c55ad76a6734477f3fc/forgive-me-father-offer-1sta3.jpg",
+      "md5": "bd93d5bd91ae4e5ecca623356f36b703",
+      "size": 1140551,
+      "uploadedDate": "2021-10-19T09:36:35.860Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/d594ee454c9c4c55ad76a6734477f3fc/download-forgive-me-father-offer-2qjun.jpg",
+      "md5": "9333d246b6486043efac3b39f2079ef7",
+      "size": 888673,
+      "uploadedDate": "2021-10-19T09:36:40.389Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/dc8e75b2b1494fc59d69456cdd426c65/download-dread-templar-offer-1nphi.jpg",
-      "md5": "174f2ed970bff212816ed3d43b36c2e4",
-      "size": 930072,
-      "uploadedDate": "2021-09-17T11:48:19.663Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d594ee454c9c4c55ad76a6734477f3fc/download-forgive-me-father-offer-f3fj9.jpg",
+      "md5": "9333d246b6486043efac3b39f2079ef7",
+      "size": 888673,
+      "uploadedDate": "2021-10-19T09:36:49.517Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/dc8e75b2b1494fc59d69456cdd426c65/dread-templar-offer-w6vla.jpg",
-      "md5": "f93e66aa5a9a77f1cd65507b36bb25e1",
-      "size": 2681407,
-      "uploadedDate": "2021-09-17T11:48:20.745Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d594ee454c9c4c55ad76a6734477f3fc/forgive-me-father-offer-edb7h.jpg",
+      "md5": "bd93d5bd91ae4e5ecca623356f36b703",
+      "size": 1140551,
+      "uploadedDate": "2021-10-19T09:36:49.814Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/dc8e75b2b1494fc59d69456cdd426c65/download-dread-templar-offer-xdoe1.jpg",
-      "md5": "174f2ed970bff212816ed3d43b36c2e4",
-      "size": 930072,
-      "uploadedDate": "2021-09-17T11:48:03.934Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d594ee454c9c4c55ad76a6734477f3fc/download-forgive-me-father-offer-2qjun.jpg",
+      "md5": "9333d246b6486043efac3b39f2079ef7",
+      "size": 888673,
+      "uploadedDate": "2021-10-19T09:36:40.389Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "1845ec9c76d5489da74668d9fd55fa59"
+      "id": "607b315458554804a82793e64403f7aa"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "6ee03ef340e641a781eb375192bfa105"
+  }
 }
