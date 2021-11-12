@@ -8,8 +8,8 @@
   "productSlug": "kid-a-mnesia-exhibition",
   "urlSlug": "kid-a-mnesia-exhibition",
   "creationDate": "2021-04-07T11:47:39.903Z",
-  "lastModifiedDate": "2021-09-09T20:40:29.442Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-11-11T16:01:33.482Z",
+  "effectiveDate": "2021-11-18T16:00:00.000Z",
   "viewableDate": "2021-09-09T21:00:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -48,18 +51,6 @@
       "updated": "2021-02-05T16:20:12.282Z",
       "status": "ACTIVE",
       "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1129",
-      "name": "Music",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:22.582Z",
-      "updated": "2021-09-23T01:10:07.393Z",
-      "status": "ACTIVE",
-      "referenceCount": 0,
       "comment": null
     },
     {
