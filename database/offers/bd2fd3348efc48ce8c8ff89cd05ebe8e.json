@@ -34,7 +34,20 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2021-11-22T16:46:52.133Z",
+      "status": "ACTIVE",
+      "referenceCount": 1103,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -106,7 +119,5 @@
       "id": "832af65ab0ba45ed8686b68dde474907"
     }
   ],
-  "catalogNs": {
-    "name": "fa9812acd30f46f8a69a75bf27addb5c"
-  }
+  "catalogNs": null
 }
