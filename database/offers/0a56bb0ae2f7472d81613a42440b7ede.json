@@ -8,8 +8,8 @@
   "productSlug": "forspoken",
   "urlSlug": "forspoken-pre-purchase",
   "creationDate": "2021-11-02T22:15:53.291Z",
-  "lastModifiedDate": "2021-11-11T16:49:50.785Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2021-12-10T23:18:17.665Z",
+  "effectiveDate": "2021-12-09T23:00:00.000Z",
   "viewableDate": "2021-11-11T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -90,11 +90,15 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR,SA,TW,UAE"
     },
     {
       "key": "publisherName",
       "value": "Square Enix"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     },
     {
       "key": "developerName",
@@ -107,49 +111,40 @@
   ],
   "keyImages": [
     {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S4_1200x1600-abb961a2dcaf400bd196547608fb7083",
+      "md5": "abb961a2dcaf400bd196547608fb7083",
+      "size": 800900,
+      "uploadedDate": "2021-12-08T19:43:36.798Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S2_1200x1600-c439669db8b0e0eab197ee6e1c0beb44",
-      "md5": "c439669db8b0e0eab197ee6e1c0beb44",
-      "size": 414042,
-      "uploadedDate": "2021-11-03T13:56:09.345Z",
+      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S4_1200x1600-abb961a2dcaf400bd196547608fb7083",
+      "md5": "abb961a2dcaf400bd196547608fb7083",
+      "size": 800900,
+      "uploadedDate": "2021-12-08T19:44:01.798Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S1_2560x1440-d8095e069b0ec7e88deafbca07ff5f46",
-      "md5": "d8095e069b0ec7e88deafbca07ff5f46",
-      "size": 915120,
-      "uploadedDate": "2021-11-03T13:56:12.709Z",
+      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S3_2560x1440-2933c8c2377b4f509a08d03c4a5804a8",
+      "md5": "2933c8c2377b4f509a08d03c4a5804a8",
+      "size": 961331,
+      "uploadedDate": "2021-12-08T19:43:58.485Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S2_1200x1600-c439669db8b0e0eab197ee6e1c0beb44",
-      "md5": "c439669db8b0e0eab197ee6e1c0beb44",
-      "size": 414042,
-      "uploadedDate": "2021-11-03T13:56:24.119Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S2_1200x1600-c439669db8b0e0eab197ee6e1c0beb44",
-      "md5": "c439669db8b0e0eab197ee6e1c0beb44",
-      "size": 414042,
-      "uploadedDate": "2021-11-03T13:56:26.808Z",
+      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S4_1200x1600-abb961a2dcaf400bd196547608fb7083",
+      "md5": "abb961a2dcaf400bd196547608fb7083",
+      "size": 800900,
+      "uploadedDate": "2021-12-08T19:43:54.614Z",
       "width": 1200,
       "height": 1600
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_IC1_400x400-f014ba393250505771c1dc8d2eda25a2",
-      "md5": "f014ba393250505771c1dc8d2eda25a2",
-      "size": 49858,
-      "uploadedDate": "2021-11-03T13:56:31.509Z",
-      "width": 400,
-      "height": 400
     }
   ],
   "items": [
@@ -157,5 +152,7 @@
       "id": "78c45f9459af45fc81e59882f16ade8f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "a472b0f2f2a5493d960a941f01cf3393"
+  }
 }
