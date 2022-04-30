@@ -8,7 +8,7 @@
   "productSlug": "sands-of-aura",
   "urlSlug": "sands-of-aura",
   "creationDate": "2021-02-25T00:32:10.516Z",
-  "lastModifiedDate": "2021-10-20T23:27:30.180Z",
+  "lastModifiedDate": "2022-04-29T20:50:59.139Z",
   "effectiveDate": "2021-10-21T13:00:00.000Z",
   "viewableDate": "2021-10-21T13:00:00.000Z",
   "developer": null,
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-04-28T18:02:04.401Z",
+      "updated": "2022-04-29T13:44:58.881Z",
       "status": "ACTIVE",
-      "referenceCount": 3484,
+      "referenceCount": 3530,
       "comment": null
     },
     {
@@ -87,39 +87,15 @@
       "comment": null
     },
     {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-04-27T21:51:29.474Z",
-      "status": "ACTIVE",
-      "referenceCount": 1315,
-      "comment": ""
-    },
-    {
-      "id": "19242",
-      "name": "Lunar New Year Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-04-28T16:54:29.046Z",
-      "status": "ACTIVE",
-      "referenceCount": 1291,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-04-28T22:06:52.314Z",
+      "updated": "2022-04-29T19:34:56.354Z",
       "status": "ACTIVE",
-      "referenceCount": 8987,
+      "referenceCount": 9005,
       "comment": null
     },
     {
@@ -153,34 +129,10 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2022-04-28T15:40:50.146Z",
+      "updated": "2022-04-28T16:54:29.747Z",
       "status": "ACTIVE",
-      "referenceCount": 191,
+      "referenceCount": 190,
       "comment": null
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-04-27T21:51:29.126Z",
-      "status": "ACTIVE",
-      "referenceCount": 1092,
-      "comment": ""
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2022-04-27T21:51:30.490Z",
-      "status": "ACTIVE",
-      "referenceCount": 1266,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -203,15 +155,6 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-0e11330cf2be78c33451912706374b75",
-      "md5": "0e11330cf2be78c33451912706374b75",
-      "size": 171486,
-      "uploadedDate": "2021-10-07T10:41:21.146Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SandsofAura_ChashuEntertainment_S1_2560x1440-7bb684675529b8272ca61630af0fe24b",
       "md5": "7bb684675529b8272ca61630af0fe24b",
@@ -219,15 +162,6 @@
       "uploadedDate": "2021-10-07T10:41:29.178Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-0e11330cf2be78c33451912706374b75",
-      "md5": "0e11330cf2be78c33451912706374b75",
-      "size": 171486,
-      "uploadedDate": "2021-10-07T10:41:39.026Z",
-      "width": 1200,
-      "height": 1600
     },
     {
       "type": "OfferImageWide",
@@ -239,20 +173,38 @@
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-0e11330cf2be78c33451912706374b75",
-      "md5": "0e11330cf2be78c33451912706374b75",
-      "size": 171486,
-      "uploadedDate": "2021-10-07T10:41:56.040Z",
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/offer/ef02301060454cfd8345fae625743294/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-4535eba3a4095303f14345a528ba1fb9",
+      "md5": "4535eba3a4095303f14345a528ba1fb9",
+      "size": 287822,
+      "uploadedDate": "2022-04-29T20:48:45.504Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-0e11330cf2be78c33451912706374b75_1200x1600-0e11330cf2be78c33451912706374b75",
-      "md5": "0e11330cf2be78c33451912706374b75",
-      "size": 171486,
-      "uploadedDate": "2021-10-13T03:41:41.502Z",
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/offer/ef02301060454cfd8345fae625743294/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-4535eba3a4095303f14345a528ba1fb9",
+      "md5": "4535eba3a4095303f14345a528ba1fb9",
+      "size": 287822,
+      "uploadedDate": "2022-04-29T20:48:48.887Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/ef02301060454cfd8345fae625743294/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-4535eba3a4095303f14345a528ba1fb9",
+      "md5": "4535eba3a4095303f14345a528ba1fb9",
+      "size": 287822,
+      "uploadedDate": "2022-04-29T20:48:52.349Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/ef02301060454cfd8345fae625743294/EGS_SandsofAura_ChashuEntertainment_S2_1200x1600-4535eba3a4095303f14345a528ba1fb9",
+      "md5": "4535eba3a4095303f14345a528ba1fb9",
+      "size": 287822,
+      "uploadedDate": "2022-04-29T20:48:55.885Z",
       "width": 1200,
       "height": 1600
     }
