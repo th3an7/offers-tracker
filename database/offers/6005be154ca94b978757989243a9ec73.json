@@ -8,7 +8,7 @@
   "productSlug": "paladins",
   "urlSlug": "paladins",
   "creationDate": "2019-10-18T01:57:09.917Z",
-  "lastModifiedDate": "2022-03-23T11:07:33.300Z",
+  "lastModifiedDate": "2022-05-11T11:00:07.209Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-05-10T21:18:55.495Z",
+      "updated": "2022-05-11T11:00:08.596Z",
       "status": "ACTIVE",
       "referenceCount": 1463,
       "comment": null
@@ -57,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-05-11T00:11:04.437Z",
+      "updated": "2022-05-11T19:23:26.674Z",
       "status": "ACTIVE",
-      "referenceCount": 2264,
+      "referenceCount": 2319,
       "comment": null
     },
     {
@@ -69,9 +69,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2022-05-10T17:19:52.601Z",
+      "updated": "2022-05-11T22:29:43.701Z",
       "status": "ACTIVE",
-      "referenceCount": 428,
+      "referenceCount": 429,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-05-11T21:24:27.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 9207,
       "comment": null
     },
     {
@@ -81,22 +93,10 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-05-10T10:58:04.829Z",
+      "updated": "2022-05-11T11:00:08.957Z",
       "status": "ACTIVE",
       "referenceCount": 740,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-05-11T00:10:53.349Z",
-      "status": "ACTIVE",
-      "referenceCount": 9178,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -120,28 +120,28 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins_22p2_BoxArt_BettyLaBomba_EGS_PortraitImage_860x1148_860x1148-16e178ddd19f8df481eeb8e709f8ed16",
-      "md5": "16e178ddd19f8df481eeb8e709f8ed16",
-      "size": 580609,
-      "uploadedDate": "2022-03-15T14:06:26.896Z",
+      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins_22p3_BoxArt_Lillith_EGS_PortraitImage_860x1148_860x1148-0a44ee1a665696ba1c9a3e1e92963c09",
+      "md5": "0a44ee1a665696ba1c9a3e1e92963c09",
+      "size": 279644,
+      "uploadedDate": "2022-05-09T18:36:05.367Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins_22p2_BoxArt_BettyLaBomba_EGS_LandscapeImage_2560x1440_2560x1440-e33ee38c191f8c6d9cb7b806b1c361f5",
-      "md5": "e33ee38c191f8c6d9cb7b806b1c361f5",
-      "size": 526653,
-      "uploadedDate": "2022-03-15T14:06:31.562Z",
+      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins_22p3_BoxArt_Lillith_EGS_LandscapeImage_2560x1440_2560x1440-a6263338ca9c730372958f8ee03b628f",
+      "md5": "a6263338ca9c730372958f8ee03b628f",
+      "size": 372631,
+      "uploadedDate": "2022-05-09T18:36:10.160Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins_22p2_BoxArt_BettyLaBomba_EGS_PortraitImage_860x1148_860x1148-16e178ddd19f8df481eeb8e709f8ed16",
-      "md5": "16e178ddd19f8df481eeb8e709f8ed16",
-      "size": 580609,
-      "uploadedDate": "2022-03-15T14:06:34.174Z",
+      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins_22p3_BoxArt_Lillith_EGS_PortraitImage_860x1148_860x1148-0a44ee1a665696ba1c9a3e1e92963c09",
+      "md5": "0a44ee1a665696ba1c9a3e1e92963c09",
+      "size": 279644,
+      "uploadedDate": "2022-05-09T18:36:07.696Z",
       "width": 860,
       "height": 1148
     }
