@@ -39,18 +39,6 @@
   ],
   "tags": [
     {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2022-05-18T07:52:35.055Z",
-      "status": "ACTIVE",
-      "referenceCount": 325,
-      "comment": null
-    },
-    {
       "id": "18051",
       "name": "Halloween Sale",
       "namespace": null,
@@ -60,42 +48,6 @@
       "updated": "2022-05-17T16:32:30.625Z",
       "status": "ACTIVE",
       "referenceCount": 763,
-      "comment": ""
-    },
-    {
-      "id": "18777",
-      "name": "The Game Awards Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:01:42.000Z",
-      "updated": "2022-05-17T16:32:30.992Z",
-      "status": "ACTIVE",
-      "referenceCount": 796,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-05-19T00:03:01.400Z",
-      "status": "ACTIVE",
-      "referenceCount": 3656,
-      "comment": null
-    },
-    {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-05-17T16:32:35.140Z",
-      "status": "ACTIVE",
-      "referenceCount": 1312,
       "comment": ""
     },
     {
@@ -117,22 +69,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-05-18T23:19:38.137Z",
+      "updated": "2022-05-19T23:32:39.062Z",
       "status": "ACTIVE",
-      "referenceCount": 9307,
+      "referenceCount": 9339,
       "comment": null
     },
     {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-05-18T16:53:23.411Z",
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2022-05-19T15:56:45.580Z",
       "status": "ACTIVE",
-      "referenceCount": 1364,
-      "comment": null
+      "referenceCount": 1634,
+      "comment": ""
     },
     {
       "id": "1294",
@@ -141,24 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2022-05-18T16:53:23.418Z",
+      "updated": "2022-05-19T00:28:00.093Z",
       "status": "ACTIVE",
-      "referenceCount": 281,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-05-18T23:19:26.139Z",
-      "status": "ACTIVE",
-      "referenceCount": 1436,
+      "referenceCount": 283,
       "comment": null
     },
     {
@@ -184,6 +121,81 @@
       "status": "ACTIVE",
       "referenceCount": 1261,
       "comment": ""
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2022-05-19T10:37:48.659Z",
+      "status": "ACTIVE",
+      "referenceCount": 325,
+      "comment": null
+    },
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-05-17T16:32:30.992Z",
+      "status": "ACTIVE",
+      "referenceCount": 796,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-05-19T16:36:28.707Z",
+      "status": "ACTIVE",
+      "referenceCount": 3670,
+      "comment": null
+    },
+    {
+      "id": "18778",
+      "name": "Holiday Sale 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:04:11.086Z",
+      "updated": "2022-05-17T16:32:35.140Z",
+      "status": "ACTIVE",
+      "referenceCount": 1312,
+      "comment": ""
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2022-05-19T16:36:28.717Z",
+      "status": "ACTIVE",
+      "referenceCount": 1374,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2022-05-19T17:58:33.180Z",
+      "status": "ACTIVE",
+      "referenceCount": 1446,
+      "comment": null
     }
   ],
   "customAttributes": [

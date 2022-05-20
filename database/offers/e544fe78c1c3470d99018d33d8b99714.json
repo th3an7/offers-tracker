@@ -39,18 +39,6 @@
   ],
   "tags": [
     {
-      "id": "16979",
-      "name": "Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-07-14T15:58:17.560Z",
-      "updated": "2022-05-17T16:32:34.453Z",
-      "status": "ACTIVE",
-      "referenceCount": 809,
-      "comment": ""
-    },
-    {
       "id": "18051",
       "name": "Halloween Sale",
       "namespace": null,
@@ -60,42 +48,6 @@
       "updated": "2022-05-17T16:32:30.625Z",
       "status": "ACTIVE",
       "referenceCount": 763,
-      "comment": ""
-    },
-    {
-      "id": "17493",
-      "name": "September Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-08-25T14:44:49.018Z",
-      "updated": "2022-05-17T16:32:29.895Z",
-      "status": "ACTIVE",
-      "referenceCount": 707,
-      "comment": ""
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2022-05-18T12:47:42.141Z",
-      "status": "ACTIVE",
-      "referenceCount": 916,
-      "comment": null
-    },
-    {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-05-17T16:32:35.140Z",
-      "status": "ACTIVE",
-      "referenceCount": 1312,
       "comment": ""
     },
     {
@@ -111,40 +63,28 @@
       "comment": ""
     },
     {
-      "id": "1083",
-      "name": "Rogue-Lite",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2022-05-18T17:38:41.141Z",
-      "status": "ACTIVE",
-      "referenceCount": 156,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-05-19T00:03:01.409Z",
-      "status": "ACTIVE",
-      "referenceCount": 773,
-      "comment": null
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-05-18T23:19:38.137Z",
+      "updated": "2022-05-19T23:32:39.062Z",
       "status": "ACTIVE",
-      "referenceCount": 9307,
+      "referenceCount": 9339,
       "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2022-05-19T15:56:45.580Z",
+      "status": "ACTIVE",
+      "referenceCount": 1634,
+      "comment": ""
     },
     {
       "id": "1263",
@@ -153,9 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-05-18T14:12:28.537Z",
+      "updated": "2022-05-19T10:17:36.320Z",
       "status": "ACTIVE",
-      "referenceCount": 973,
+      "referenceCount": 976,
       "comment": null
     },
     {
@@ -181,6 +121,78 @@
       "status": "ACTIVE",
       "referenceCount": 1261,
       "comment": ""
+    },
+    {
+      "id": "16979",
+      "name": "Summer Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2022-05-17T16:32:34.453Z",
+      "status": "ACTIVE",
+      "referenceCount": 809,
+      "comment": ""
+    },
+    {
+      "id": "17493",
+      "name": "September Savings",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-08-25T14:44:49.018Z",
+      "updated": "2022-05-17T16:32:29.895Z",
+      "status": "ACTIVE",
+      "referenceCount": 707,
+      "comment": ""
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2022-05-19T15:41:11.014Z",
+      "status": "ACTIVE",
+      "referenceCount": 924,
+      "comment": null
+    },
+    {
+      "id": "18778",
+      "name": "Holiday Sale 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:04:11.086Z",
+      "updated": "2022-05-17T16:32:35.140Z",
+      "status": "ACTIVE",
+      "referenceCount": 1312,
+      "comment": ""
+    },
+    {
+      "id": "1083",
+      "name": "Rogue-Lite",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2022-05-19T18:11:27.972Z",
+      "status": "ACTIVE",
+      "referenceCount": 156,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2022-05-19T22:15:58.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 776,
+      "comment": null
     }
   ],
   "customAttributes": [
