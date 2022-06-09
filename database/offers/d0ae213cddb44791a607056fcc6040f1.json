@@ -8,7 +8,7 @@
   "productSlug": "the-big-con",
   "urlSlug": "the-big-con",
   "creationDate": "2021-07-26T17:26:34.273Z",
-  "lastModifiedDate": "2021-08-31T11:54:36.033Z",
+  "lastModifiedDate": "2022-06-08T14:40:18.033Z",
   "effectiveDate": "2021-08-31T12:00:00.000Z",
   "viewableDate": "2021-08-31T12:00:00.000Z",
   "developer": null,
@@ -39,27 +39,15 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-06-07T14:51:39.121Z",
-      "status": "ACTIVE",
-      "referenceCount": 3694,
-      "comment": null
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-06-07T16:34:08.069Z",
+      "updated": "2022-06-08T19:33:39.832Z",
       "status": "ACTIVE",
-      "referenceCount": 3868,
+      "referenceCount": 3880,
       "comment": null
     },
     {
@@ -93,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-06-07T21:58:59.186Z",
+      "updated": "2022-06-08T21:00:50.520Z",
       "status": "ACTIVE",
-      "referenceCount": 9600,
+      "referenceCount": 9622,
       "comment": null
     },
     {
@@ -117,9 +105,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2022-05-27T03:42:39.358Z",
+      "updated": "2022-06-09T00:12:43.723Z",
       "status": "ACTIVE",
-      "referenceCount": 296,
+      "referenceCount": 298,
       "comment": null
     },
     {
@@ -129,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-06-07T14:50:56.424Z",
+      "updated": "2022-06-08T19:30:43.094Z",
       "status": "ACTIVE",
-      "referenceCount": 1417,
+      "referenceCount": 1425,
       "comment": null
     },
     {
@@ -141,22 +129,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-06-07T14:51:39.147Z",
+      "updated": "2022-06-08T02:59:18.083Z",
       "status": "ACTIVE",
-      "referenceCount": 1024,
+      "referenceCount": 1029,
       "comment": null
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-06-02T17:45:50.758Z",
-      "status": "ACTIVE",
-      "referenceCount": 1089,
-      "comment": ""
     },
     {
       "id": "15375",
@@ -169,6 +145,18 @@
       "status": "ACTIVE",
       "referenceCount": 1255,
       "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-06-02T17:45:50.758Z",
+      "status": "ACTIVE",
+      "referenceCount": 1089,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -177,70 +165,35 @@
       "value": "[]"
     },
     {
-      "key": "publisherName",
-      "value": "Skybound Interactive"
-    },
-    {
-      "key": "developerName",
-      "value": "Skybound Interactive"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "the-big-con"
     }
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheBigCon_MightyYell_S2_1200x1600-e18e20f2941019cb77ad2a022d88e38c",
-      "md5": "e18e20f2941019cb77ad2a022d88e38c",
-      "size": 1017566,
-      "uploadedDate": "2021-08-17T05:55:41.411Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheBigCon_MightyYell_S2_1200x1600-e18e20f2941019cb77ad2a022d88e38c",
-      "md5": "e18e20f2941019cb77ad2a022d88e38c",
-      "size": 1017566,
-      "uploadedDate": "2021-08-17T05:55:55.218Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheBigCon_MightyYell_S3_2560x1440-0c70d089229c5c4404734ad38a0dcc4a",
-      "md5": "0c70d089229c5c4404734ad38a0dcc4a",
-      "size": 709302,
-      "uploadedDate": "2021-08-17T05:56:16.334Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheBigCon_MightyYell_S2_1200x1600-e18e20f2941019cb77ad2a022d88e38c",
-      "md5": "e18e20f2941019cb77ad2a022d88e38c",
-      "size": 1017566,
-      "uploadedDate": "2021-08-17T05:56:35.056Z",
+      "url": "https://cdn1.epicgames.com/offer/a1f2a672b08f45d28bb6b65eef6ffe41/EGS_TheBigCon_MightyYell_S2_1200x1600-c7fcd5da3c2904f83644165f4e7c1bc9",
+      "md5": "c7fcd5da3c2904f83644165f4e7c1bc9",
+      "size": 316065,
+      "uploadedDate": "2022-06-08T14:39:40.448Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheBigCon_MightyYell_S1_2560x1440-855546a30f0bb222acb973c05c5d8fd3",
-      "md5": "855546a30f0bb222acb973c05c5d8fd3",
-      "size": 709289,
-      "uploadedDate": "2021-08-17T05:56:47.108Z",
+      "url": "https://cdn1.epicgames.com/offer/a1f2a672b08f45d28bb6b65eef6ffe41/EGS_TheBigCon_MightyYell_S1_2560x1440-532e70014a0082daf975946d402a4c85",
+      "md5": "532e70014a0082daf975946d402a4c85",
+      "size": 486934,
+      "uploadedDate": "2022-06-08T14:39:34.942Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheBigCon_MightyYell_S2_1200x1600-e18e20f2941019cb77ad2a022d88e38c",
-      "md5": "e18e20f2941019cb77ad2a022d88e38c",
-      "size": 1017566,
-      "uploadedDate": "2021-08-17T05:56:59.649Z",
+      "url": "https://cdn1.epicgames.com/offer/a1f2a672b08f45d28bb6b65eef6ffe41/EGS_TheBigCon_MightyYell_S2_1200x1600-c7fcd5da3c2904f83644165f4e7c1bc9",
+      "md5": "c7fcd5da3c2904f83644165f4e7c1bc9",
+      "size": 316065,
+      "uploadedDate": "2022-06-08T14:39:48.082Z",
       "width": 1200,
       "height": 1600
     }
