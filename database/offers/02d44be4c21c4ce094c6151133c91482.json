@@ -8,7 +8,7 @@
   "productSlug": "rocket-league",
   "urlSlug": "rocket-league",
   "creationDate": "2019-07-17T15:21:47.960Z",
-  "lastModifiedDate": "2022-03-28T20:43:42.963Z",
+  "lastModifiedDate": "2022-06-10T00:38:28.450Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,13 +39,37 @@
   ],
   "tags": [
     {
+      "id": "21120",
+      "name": "Great for Younger Audiences",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:04:12.620Z",
+      "updated": "2022-06-10T00:39:04.372Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": "From Ratings & Polls results."
+    },
+    {
+      "id": "21121",
+      "name": "Great for Quick Sessions",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:06:21.330Z",
+      "updated": "2022-06-09T17:01:26.097Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": "From Ratings & Polls results."
+    },
+    {
       "id": "1283",
       "name": "Sports",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2022-06-07T15:46:25.948Z",
+      "updated": "2022-06-08T23:56:13.783Z",
       "status": "ACTIVE",
       "referenceCount": 142,
       "comment": null
@@ -75,16 +99,16 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
+      "id": "21129",
+      "name": "Challenging Combat",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-06-08T21:00:50.520Z",
+      "created": "2022-05-17T21:19:41.315Z",
+      "updated": "2022-06-09T20:13:14.391Z",
       "status": "ACTIVE",
-      "referenceCount": 9622,
-      "comment": null
+      "referenceCount": 69,
+      "comment": ""
     },
     {
       "id": "16011",
@@ -93,10 +117,22 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-06-02T23:43:17.251Z",
+      "updated": "2022-06-08T10:59:19.858Z",
       "status": "ACTIVE",
-      "referenceCount": 1638,
+      "referenceCount": 1636,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-06-09T20:36:48.413Z",
+      "status": "ACTIVE",
+      "referenceCount": 9644,
+      "comment": null
     },
     {
       "id": "18607",
@@ -105,7 +141,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-06-02T17:45:50.758Z",
+      "updated": "2022-06-08T15:44:38.501Z",
       "status": "ACTIVE",
       "referenceCount": 1089,
       "comment": ""
@@ -117,10 +153,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2022-06-08T08:31:20.299Z",
+      "updated": "2022-06-09T17:42:00.237Z",
       "status": "ACTIVE",
-      "referenceCount": 1274,
+      "referenceCount": 1281,
       "comment": null
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2022-06-09T23:53:35.036Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": ""
     },
     {
       "id": "1203",
@@ -129,9 +177,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-06-08T18:41:15.027Z",
+      "updated": "2022-06-09T17:42:00.247Z",
       "status": "ACTIVE",
-      "referenceCount": 1541,
+      "referenceCount": 1549,
       "comment": null
     },
     {
@@ -141,9 +189,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-06-08T20:49:36.460Z",
+      "updated": "2022-06-09T16:08:33.333Z",
       "status": "ACTIVE",
-      "referenceCount": 3066,
+      "referenceCount": 3083,
       "comment": null
     },
     {
@@ -171,15 +219,27 @@
       "comment": null
     },
     {
+      "id": "21141",
+      "name": "Extremely Fun",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2022-06-10T00:28:43.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-06-08T19:33:39.832Z",
+      "updated": "2022-06-09T19:53:05.077Z",
       "status": "ACTIVE",
-      "referenceCount": 3880,
+      "referenceCount": 3898,
       "comment": null
     },
     {
@@ -189,10 +249,46 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2022-06-07T22:44:19.851Z",
+      "updated": "2022-06-08T18:49:13.414Z",
       "status": "ACTIVE",
       "referenceCount": 156,
       "comment": null
+    },
+    {
+      "id": "21148",
+      "name": "Play Obsessively",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:07.494Z",
+      "updated": "2022-06-09T15:04:50.119Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": ""
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2022-06-10T00:38:28.471Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": ""
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2022-06-09T22:42:18.871Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
