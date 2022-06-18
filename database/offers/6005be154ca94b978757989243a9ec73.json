@@ -8,7 +8,7 @@
   "productSlug": "paladins",
   "urlSlug": "paladins",
   "creationDate": "2019-10-18T01:57:09.917Z",
-  "lastModifiedDate": "2022-05-11T11:00:07.209Z",
+  "lastModifiedDate": "2022-06-17T03:38:12.848Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,15 +39,27 @@
   ],
   "tags": [
     {
+      "id": "21122",
+      "name": "Diverse Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:12:59.057Z",
+      "updated": "2022-06-17T18:41:13.587Z",
+      "status": "ACTIVE",
+      "referenceCount": 17,
+      "comment": ""
+    },
+    {
       "id": "1203",
       "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-06-16T12:25:24.850Z",
+      "updated": "2022-06-17T10:19:02.123Z",
       "status": "ACTIVE",
-      "referenceCount": 1569,
+      "referenceCount": 1588,
       "comment": null
     },
     {
@@ -57,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-06-16T16:32:18.076Z",
+      "updated": "2022-06-17T17:32:40.200Z",
       "status": "ACTIVE",
-      "referenceCount": 3234,
+      "referenceCount": 3252,
       "comment": null
     },
     {
@@ -69,21 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2022-06-14T22:48:15.149Z",
+      "updated": "2022-06-16T19:14:26.499Z",
       "status": "ACTIVE",
-      "referenceCount": 470,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-06-16T16:32:05.336Z",
-      "status": "ACTIVE",
-      "referenceCount": 9770,
+      "referenceCount": 471,
       "comment": null
     },
     {
@@ -97,6 +97,18 @@
       "status": "ACTIVE",
       "referenceCount": 1625,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-06-17T18:27:45.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 9782,
+      "comment": null
     }
   ],
   "customAttributes": [
