@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "a-plague-tale-requiem",
-  "urlSlug": "projectoutburstgeneralaudience",
+  "urlSlug": "projectoutburstprepurchaseaudience",
   "creationDate": "2021-06-25T01:09:20.392Z",
-  "lastModifiedDate": "2022-04-06T12:42:18.168Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2022-06-23T16:37:34.506Z",
+  "effectiveDate": "2022-06-23T16:00:00.000Z",
   "viewableDate": "2021-08-05T15:00:00.000Z",
   "developer": null,
   "seller": {
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-06-22T19:58:49.607Z",
+      "updated": "2022-06-23T22:52:46.686Z",
       "status": "ACTIVE",
-      "referenceCount": 3774,
+      "referenceCount": 3781,
       "comment": null
     },
     {
@@ -57,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-06-22T19:50:57.074Z",
+      "updated": "2022-06-24T00:26:29.881Z",
       "status": "ACTIVE",
-      "referenceCount": 4037,
+      "referenceCount": 4046,
       "comment": null
     },
     {
@@ -69,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-06-22T19:50:47.934Z",
+      "updated": "2022-06-24T00:26:29.885Z",
       "status": "ACTIVE",
-      "referenceCount": 9855,
+      "referenceCount": 9874,
       "comment": null
     },
     {
@@ -81,16 +81,24 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-06-22T18:23:48.622Z",
+      "updated": "2022-06-23T19:33:08.579Z",
       "status": "ACTIVE",
-      "referenceCount": 1494,
+      "referenceCount": 1496,
       "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "[KR]"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1666094400"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -155,7 +163,7 @@
   ],
   "items": [
     {
-      "id": "dd2e549d5c474f21ae04aa76f185f9fd"
+      "id": "493499e4498d44fe9074231c3580b7ae"
     }
   ],
   "catalogNs": {
