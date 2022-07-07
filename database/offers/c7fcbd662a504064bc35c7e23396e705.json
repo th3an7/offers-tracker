@@ -8,7 +8,7 @@
   "productSlug": "subnautica-below-zero",
   "urlSlug": "subnautica-below-zero",
   "creationDate": "2019-01-24T20:22:23.047Z",
-  "lastModifiedDate": "2022-07-05T13:57:24.045Z",
+  "lastModifiedDate": "2022-07-06T22:28:10.180Z",
   "effectiveDate": "2021-05-14T00:00:00.000Z",
   "viewableDate": "2021-05-14T00:00:00.000Z",
   "developer": null,
@@ -39,28 +39,16 @@
   ],
   "tags": [
     {
-      "id": "1080",
-      "name": "Survival",
-      "namespace": "epic",
+      "id": "21122",
+      "name": "Diverse Characters",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2022-07-04T15:24:06.826Z",
+      "created": "2022-05-17T21:12:59.057Z",
+      "updated": "2022-07-06T22:28:10.313Z",
       "status": "ACTIVE",
-      "referenceCount": 673,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-07-06T00:27:33.663Z",
-      "status": "ACTIVE",
-      "referenceCount": 4623,
-      "comment": null
+      "referenceCount": 103,
+      "comment": ""
     },
     {
       "id": "19242",
@@ -73,18 +61,6 @@
       "status": "ACTIVE",
       "referenceCount": 1286,
       "comment": ""
-    },
-    {
-      "id": "1307",
-      "name": "Open World",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2022-07-04T15:24:06.862Z",
-      "status": "ACTIVE",
-      "referenceCount": 306,
-      "comment": null
     },
     {
       "id": "16011",
@@ -105,48 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-07-06T00:12:20.284Z",
+      "updated": "2022-07-06T23:06:16.511Z",
       "status": "ACTIVE",
-      "referenceCount": 10986,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-07-05T07:19:38.154Z",
-      "status": "ACTIVE",
-      "referenceCount": 1742,
-      "comment": null
-    },
-    {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2022-07-05T13:57:24.199Z",
-      "status": "ACTIVE",
-      "referenceCount": 117,
-      "comment": ""
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-07-05T20:19:26.421Z",
-      "status": "ACTIVE",
-      "referenceCount": 2078,
+      "referenceCount": 11006,
       "comment": null
     },
     {
@@ -172,6 +109,93 @@
       "status": "ACTIVE",
       "referenceCount": 1088,
       "comment": ""
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2022-07-04T15:24:06.826Z",
+      "status": "ACTIVE",
+      "referenceCount": 673,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-07-07T01:20:51.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 4650,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2022-07-04T15:24:06.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 306,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2022-07-07T00:25:17.879Z",
+      "status": "ACTIVE",
+      "referenceCount": 1748,
+      "comment": null
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2022-07-07T00:51:07.973Z",
+      "status": "ACTIVE",
+      "referenceCount": 124,
+      "comment": ""
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2022-07-06T22:46:28.255Z",
+      "status": "ACTIVE",
+      "referenceCount": 2079,
+      "comment": null
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2022-07-06T20:08:36.814Z",
+      "status": "ACTIVE",
+      "referenceCount": 67,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
