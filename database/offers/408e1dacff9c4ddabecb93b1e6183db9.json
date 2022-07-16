@@ -8,7 +8,7 @@
   "productSlug": "aven-colony",
   "urlSlug": "aven-colony",
   "creationDate": "2020-10-06T21:41:50.256Z",
-  "lastModifiedDate": "2022-07-12T23:40:52.601Z",
+  "lastModifiedDate": "2022-07-15T14:49:22.036Z",
   "effectiveDate": "2021-11-04T15:00:00.000Z",
   "viewableDate": "2021-10-28T14:25:00.000Z",
   "developer": null,
@@ -39,28 +39,76 @@
   ],
   "tags": [
     {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2022-07-14T16:00:29.681Z",
-      "status": "ACTIVE",
-      "referenceCount": 759,
-      "comment": null
-    },
-    {
       "id": "21955",
       "name": "Summer Sale 2022",
       "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2022-07-13T18:14:15.733Z",
-      "updated": "2022-07-14T19:20:39.708Z",
+      "updated": "2022-07-15T15:55:37.558Z",
       "status": "ACTIVE",
-      "referenceCount": 1836,
+      "referenceCount": 1843,
       "comment": ""
+    },
+    {
+      "id": "19242",
+      "name": "Lunar New Year Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-01-13T19:24:05.305Z",
+      "updated": "2022-07-15T15:55:36.207Z",
+      "status": "ACTIVE",
+      "referenceCount": 1282,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-07-16T00:30:08.413Z",
+      "status": "ACTIVE",
+      "referenceCount": 11190,
+      "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2022-07-15T15:55:36.244Z",
+      "status": "ACTIVE",
+      "referenceCount": 1251,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-07-12T10:57:04.589Z",
+      "status": "ACTIVE",
+      "referenceCount": 1086,
+      "comment": ""
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2022-07-15T23:31:07.888Z",
+      "status": "ACTIVE",
+      "referenceCount": 765,
+      "comment": null
     },
     {
       "id": "21140",
@@ -69,7 +117,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2022-07-14T19:47:00.490Z",
+      "updated": "2022-07-15T15:06:33.994Z",
       "status": "ACTIVE",
       "referenceCount": 142,
       "comment": ""
@@ -93,7 +141,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2022-07-07T19:39:16.801Z",
+      "updated": "2022-07-15T15:37:23.201Z",
       "status": "ACTIVE",
       "referenceCount": 324,
       "comment": null
@@ -105,9 +153,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-07-15T00:55:47.400Z",
+      "updated": "2022-07-16T00:30:08.392Z",
       "status": "ACTIVE",
-      "referenceCount": 4737,
+      "referenceCount": 4811,
       "comment": null
     },
     {
@@ -123,64 +171,28 @@
       "comment": ""
     },
     {
-      "id": "19242",
-      "name": "Lunar New Year Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-07-13T13:00:01.467Z",
-      "status": "ACTIVE",
-      "referenceCount": 1282,
-      "comment": ""
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-07-14T15:05:01.128Z",
+      "updated": "2022-07-15T15:37:24.879Z",
       "status": "ACTIVE",
-      "referenceCount": 982,
+      "referenceCount": 985,
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-07-14T22:50:01.308Z",
-      "status": "ACTIVE",
-      "referenceCount": 11135,
-      "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
+      "id": "21119",
+      "name": "Great for Beginners",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2022-07-07T16:13:19.115Z",
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2022-07-15T17:20:58.743Z",
       "status": "ACTIVE",
-      "referenceCount": 1253,
-      "comment": ""
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-07-12T10:57:04.589Z",
-      "status": "ACTIVE",
-      "referenceCount": 1086,
-      "comment": ""
+      "referenceCount": 82,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
