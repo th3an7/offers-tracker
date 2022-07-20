@@ -8,7 +8,7 @@
   "productSlug": "tomb-raider",
   "urlSlug": "tomb-raider",
   "creationDate": "2021-05-13T16:32:14.379Z",
-  "lastModifiedDate": "2022-07-17T01:38:37.502Z",
+  "lastModifiedDate": "2022-07-19T12:12:25.330Z",
   "effectiveDate": "2021-12-30T16:00:00.000Z",
   "viewableDate": "2021-12-30T15:25:00.000Z",
   "developer": null,
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-07-18T23:28:07.800Z",
+      "updated": "2022-07-19T20:04:24.810Z",
       "status": "ACTIVE",
-      "referenceCount": 4385,
+      "referenceCount": 4389,
       "comment": null
     },
     {
@@ -57,21 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2022-07-18T14:59:29.964Z",
+      "updated": "2022-07-19T23:24:21.892Z",
       "status": "ACTIVE",
-      "referenceCount": 114,
-      "comment": ""
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2022-07-18T05:54:18.024Z",
-      "status": "ACTIVE",
-      "referenceCount": 146,
+      "referenceCount": 115,
       "comment": ""
     },
     {
@@ -87,27 +75,15 @@
       "comment": ""
     },
     {
-      "id": "21109",
-      "name": "Great Boss Battles",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T18:56:51.047Z",
-      "updated": "2022-07-18T16:41:45.347Z",
-      "status": "ACTIVE",
-      "referenceCount": 106,
-      "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
+      "id": "1188",
+      "name": "RELAXING",
       "namespace": "epic",
-      "aliases": [],
+      "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-07-19T00:36:42.321Z",
+      "created": "2019-06-20T11:59:51.840Z",
+      "updated": "2022-07-19T23:24:21.856Z",
       "status": "ACTIVE",
-      "referenceCount": 4821,
+      "referenceCount": 121,
       "comment": null
     },
     {
@@ -117,21 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-07-19T00:36:42.350Z",
+      "updated": "2022-07-19T23:45:01.760Z",
       "status": "ACTIVE",
-      "referenceCount": 11217,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-07-18T22:04:27.230Z",
-      "status": "ACTIVE",
-      "referenceCount": 1786,
+      "referenceCount": 11262,
       "comment": null
     },
     {
@@ -147,28 +111,76 @@
       "comment": ""
     },
     {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2022-07-17T08:06:22.793Z",
-      "status": "ACTIVE",
-      "referenceCount": 149,
-      "comment": ""
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-07-18T23:28:07.876Z",
+      "updated": "2022-07-19T18:59:21.439Z",
       "status": "ACTIVE",
-      "referenceCount": 2370,
+      "referenceCount": 2376,
       "comment": null
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2022-07-19T23:24:21.727Z",
+      "status": "ACTIVE",
+      "referenceCount": 146,
+      "comment": ""
+    },
+    {
+      "id": "21109",
+      "name": "Great Boss Battles",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T18:56:51.047Z",
+      "updated": "2022-07-19T23:57:41.111Z",
+      "status": "ACTIVE",
+      "referenceCount": 105,
+      "comment": "From Ratings & Polls results."
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-07-19T23:45:01.739Z",
+      "status": "ACTIVE",
+      "referenceCount": 4829,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2022-07-19T23:39:06.668Z",
+      "status": "ACTIVE",
+      "referenceCount": 1786,
+      "comment": null
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2022-07-19T23:24:21.766Z",
+      "status": "ACTIVE",
+      "referenceCount": 150,
+      "comment": ""
     },
     {
       "id": "21119",
@@ -177,9 +189,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:03:45.609Z",
-      "updated": "2022-07-18T21:32:25.101Z",
+      "updated": "2022-07-19T12:35:00.943Z",
       "status": "ACTIVE",
-      "referenceCount": 85,
+      "referenceCount": 86,
       "comment": "From Ratings & Polls results."
     }
   ],
