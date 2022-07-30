@@ -8,7 +8,7 @@
   "productSlug": "timberborn",
   "urlSlug": "timberborn",
   "creationDate": "2021-04-27T23:08:49.310Z",
-  "lastModifiedDate": "2022-01-27T23:55:18.647Z",
+  "lastModifiedDate": "2022-07-29T11:13:07.542Z",
   "effectiveDate": "2021-09-15T15:00:00.000Z",
   "viewableDate": "2021-06-17T15:00:00.000Z",
   "developer": null,
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2022-07-26T15:59:19.668Z",
+      "updated": "2022-07-29T20:52:57.910Z",
       "status": "ACTIVE",
-      "referenceCount": 332,
+      "referenceCount": 333,
       "comment": null
     },
     {
@@ -57,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-07-28T23:21:15.894Z",
+      "updated": "2022-07-29T20:52:57.916Z",
       "status": "ACTIVE",
-      "referenceCount": 4889,
+      "referenceCount": 4894,
       "comment": null
     },
     {
@@ -87,18 +87,6 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-07-28T23:41:13.264Z",
-      "status": "ACTIVE",
-      "referenceCount": 11376,
-      "comment": null
-    },
-    {
       "id": "16011",
       "name": "Epic MEGA Sale",
       "namespace": null,
@@ -111,15 +99,39 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-07-29T19:15:41.062Z",
+      "status": "ACTIVE",
+      "referenceCount": 11376,
+      "comment": null
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2022-07-30T00:15:32.433Z",
+      "status": "ACTIVE",
+      "referenceCount": 176,
+      "comment": ""
+    },
+    {
       "id": "1310",
       "name": "EARLY ACCESS",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2022-07-27T20:35:50.772Z",
+      "updated": "2022-07-29T15:19:17.532Z",
       "status": "ACTIVE",
-      "referenceCount": 235,
+      "referenceCount": 236,
       "comment": null
     },
     {
@@ -144,22 +156,10 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-07-28T19:54:50.065Z",
+      "updated": "2022-07-29T13:42:09.430Z",
       "status": "ACTIVE",
-      "referenceCount": 2204,
+      "referenceCount": 2206,
       "comment": null
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-07-27T15:44:49.404Z",
-      "status": "ACTIVE",
-      "referenceCount": 1083,
-      "comment": ""
     },
     {
       "id": "15375",
@@ -171,6 +171,18 @@
       "updated": "2022-07-19T23:24:21.781Z",
       "status": "ACTIVE",
       "referenceCount": 1252,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-07-27T15:44:49.404Z",
+      "status": "ACTIVE",
+      "referenceCount": 1083,
       "comment": ""
     }
   ],
