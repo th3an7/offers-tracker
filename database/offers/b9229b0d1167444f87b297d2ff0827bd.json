@@ -1,14 +1,14 @@
 {
   "id": "b9229b0d1167444f87b297d2ff0827bd",
   "namespace": "conanexiles",
-  "title": "Conan Exiles - Standard Edition",
-  "description": "An online multiplayer survival game, now with mounts and mounted combat, set in the lands of Conan the Barbarian. Survive in a vast open world sandbox, build a home and kingdom, dominate your enemies in single or multiplayer.",
+  "title": "Conan Exiles",
+  "description": "An online multiplayer survival game, now with sorcery, set in the lands of Conan the Barbarian. Survive in a vast open world sandbox, build your home into a kingdom, and dominate your enemies in single or multiplayer.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "conan-exiles",
   "urlSlug": "conan-exiles",
   "creationDate": "2020-03-09T19:51:59.604Z",
-  "lastModifiedDate": "2022-08-14T11:46:58.005Z",
+  "lastModifiedDate": "2022-09-01T22:32:49.053Z",
   "effectiveDate": "2021-11-23T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,15 +39,27 @@
   ],
   "tags": [
     {
-      "id": "21122",
-      "name": "Diverse Characters",
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2022-09-01T22:46:55.104Z",
+      "status": "ACTIVE",
+      "referenceCount": 2111,
+      "comment": null
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2022-08-31T19:17:56.220Z",
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2022-09-01T16:46:23.200Z",
       "status": "ACTIVE",
-      "referenceCount": 173,
+      "referenceCount": 208,
       "comment": ""
     },
     {
@@ -57,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2022-08-31T23:03:23.081Z",
+      "updated": "2022-09-01T18:59:03.723Z",
       "status": "ACTIVE",
       "referenceCount": 181,
       "comment": null
@@ -69,105 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:16:58.023Z",
-      "updated": "2022-08-31T20:51:02.470Z",
+      "updated": "2022-09-01T22:32:49.067Z",
       "status": "ACTIVE",
-      "referenceCount": 93,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-09-01T00:55:50.268Z",
-      "status": "ACTIVE",
-      "referenceCount": 11539,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-09-01T00:53:21.181Z",
-      "status": "ACTIVE",
-      "referenceCount": 2489,
-      "comment": null
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2022-08-31T17:56:40.118Z",
-      "status": "ACTIVE",
-      "referenceCount": 229,
-      "comment": ""
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-08-31T20:51:43.148Z",
-      "status": "ACTIVE",
-      "referenceCount": 2109,
-      "comment": null
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2022-09-01T01:13:33.576Z",
-      "status": "ACTIVE",
-      "referenceCount": 209,
-      "comment": ""
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2022-08-31T22:26:15.319Z",
-      "status": "ACTIVE",
-      "referenceCount": 212,
-      "comment": ""
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2022-08-31T13:48:37.081Z",
-      "status": "ACTIVE",
-      "referenceCount": 223,
-      "comment": ""
-    },
-    {
-      "id": "22485",
-      "name": "August Event Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-08-23T13:22:53.223Z",
-      "updated": "2022-08-30T19:01:54.864Z",
-      "status": "ACTIVE",
-      "referenceCount": 1224,
+      "referenceCount": 94,
       "comment": ""
     },
     {
@@ -177,7 +93,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2022-08-31T17:51:39.404Z",
+      "updated": "2022-09-01T14:02:13.082Z",
       "status": "ACTIVE",
       "referenceCount": 696,
       "comment": null
@@ -189,9 +105,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-01T00:53:21.122Z",
+      "updated": "2022-09-02T00:56:14.185Z",
       "status": "ACTIVE",
-      "referenceCount": 5010,
+      "referenceCount": 5015,
       "comment": null
     },
     {
@@ -201,22 +117,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2022-08-31T17:51:39.433Z",
+      "updated": "2022-09-01T13:59:12.442Z",
       "status": "ACTIVE",
-      "referenceCount": 315,
+      "referenceCount": 316,
       "comment": null
     },
     {
-      "id": "21148",
-      "name": "Play Obsessively",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:39:07.494Z",
-      "updated": "2022-08-31T22:53:02.075Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-09-02T00:56:14.210Z",
       "status": "ACTIVE",
-      "referenceCount": 141,
-      "comment": ""
+      "referenceCount": 11544,
+      "comment": null
     },
     {
       "id": "21149",
@@ -225,10 +141,22 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2022-08-31T17:56:31.971Z",
+      "updated": "2022-09-01T22:30:18.341Z",
       "status": "ACTIVE",
       "referenceCount": 219,
       "comment": ""
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2022-09-01T22:46:55.141Z",
+      "status": "ACTIVE",
+      "referenceCount": 2491,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -247,56 +175,56 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S5-1920x1080-80181a084cf786f9aa8e81190f8725be.jpg",
-      "md5": "80181a084cf786f9aa8e81190f8725be",
-      "size": 849966,
-      "uploadedDate": "2020-06-12T17:08:03.501Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
-      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
-      "size": 955277,
-      "uploadedDate": "2020-06-12T17:08:13.793Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
-      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
-      "size": 955277,
-      "uploadedDate": "2020-06-12T17:08:24.334Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
-      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
-      "size": 955277,
-      "uploadedDate": "2020-06-12T17:08:37.667Z",
+      "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+      "md5": "9ea137ed00375045b01fd5df036e9404",
+      "size": 603168,
+      "uploadedDate": "2022-08-31T19:01:47.972Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+      "md5": "9ea137ed00375045b01fd5df036e9404",
+      "size": 603168,
+      "uploadedDate": "2022-08-31T19:01:50.847Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S5-1920x1080-80181a084cf786f9aa8e81190f8725be.jpg",
-      "md5": "80181a084cf786f9aa8e81190f8725be",
-      "size": 849966,
-      "uploadedDate": "2020-06-12T17:08:48.958Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68",
+      "md5": "5664d4d48160d882c4f1b25d96dd9b68",
+      "size": 598543,
+      "uploadedDate": "2022-08-31T19:01:53.598Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg",
-      "md5": "5454011d5e70ab9d4a0ebe27c5054a85",
-      "size": 955277,
-      "uploadedDate": "2020-06-12T17:08:59.313Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+      "md5": "9ea137ed00375045b01fd5df036e9404",
+      "size": 603168,
+      "uploadedDate": "2022-08-31T19:01:58.623Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68",
+      "md5": "5664d4d48160d882c4f1b25d96dd9b68",
+      "size": 598543,
+      "uploadedDate": "2022-08-31T19:02:03.781Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S2_1200x1600-9ea137ed00375045b01fd5df036e9404",
+      "md5": "9ea137ed00375045b01fd5df036e9404",
+      "size": 603168,
+      "uploadedDate": "2022-08-31T19:02:06.284Z",
       "width": 1200,
       "height": 1600
     }
