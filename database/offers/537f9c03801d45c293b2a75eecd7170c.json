@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2022-09-09T15:00:06.514Z",
+      "updated": "2022-09-15T14:50:40.670Z",
       "status": "ACTIVE",
       "referenceCount": 306,
       "comment": null
@@ -83,7 +83,18 @@
       "referenceCount": 1261,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-09-15T22:59:27.947Z",
+      "status": "ACTIVE",
+      "referenceCount": 11627,
+      "comment": null
+    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -115,9 +126,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-09-14T18:16:40.845Z",
+      "updated": "2022-09-15T15:47:08.572Z",
       "status": "ACTIVE",
-      "referenceCount": 1883,
+      "referenceCount": 1888,
       "comment": null
     },
     {
@@ -127,12 +138,26 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-09-14T23:31:49.083Z",
+      "updated": "2022-09-15T20:57:21.661Z",
       "status": "ACTIVE",
-      "referenceCount": 2510,
+      "referenceCount": 2515,
       "comment": null
     },
-    null,
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2022-09-15T20:57:21.674Z",
+      "status": "ACTIVE",
+      "referenceCount": 2242,
+      "comment": null
+    },
     {
       "id": "15375",
       "name": "Spring Sale",

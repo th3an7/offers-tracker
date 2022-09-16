@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "uncharted-legacy-of-thieves-collection",
-  "urlSlug": "uncharted-legacy-of-thieves-collection",
+  "urlSlug": "uncharted-legacy-of-thieves-collection-pre-purchase",
   "creationDate": "2021-07-31T18:08:32.877Z",
-  "lastModifiedDate": "2022-01-11T20:45:34.551Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2022-09-15T15:08:00.632Z",
+  "effectiveDate": "2022-09-15T15:00:00.000Z",
   "viewableDate": "2021-12-03T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-09-14T23:31:48.993Z",
+      "updated": "2022-09-15T22:59:27.974Z",
       "status": "ACTIVE",
-      "referenceCount": 4503,
+      "referenceCount": 4508,
       "comment": null
     },
     {
@@ -57,12 +57,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-15T01:24:07.004Z",
+      "updated": "2022-09-15T22:59:27.961Z",
       "status": "ACTIVE",
-      "referenceCount": 5073,
+      "referenceCount": 5093,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-09-15T22:59:27.947Z",
+      "status": "ACTIVE",
+      "referenceCount": 11627,
+      "comment": null
+    },
     {
       "id": "1117",
       "name": "Adventure",
@@ -70,24 +81,20 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-09-14T18:16:40.845Z",
+      "updated": "2022-09-15T15:47:08.572Z",
       "status": "ACTIVE",
-      "referenceCount": 1883,
+      "referenceCount": 1888,
       "comment": null
     }
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "key": "isPrepurchase",
+      "value": "True"
     },
     {
-      "key": "publisherName",
-      "value": "PlayStation PC LLC"
-    },
-    {
-      "key": "developerName",
-      "value": "Naughty Dog LLC"
+      "key": "availableDate",
+      "value": "1666191600"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -152,7 +159,10 @@
   ],
   "items": [
     {
-      "id": "97d813c006da43aaab151c28c71f4393"
+      "id": "f18c39287d4b4c44a3c5b41d1edc59b2"
+    },
+    {
+      "id": "32c6e6aff03e4af682ecde75ddc36682"
     }
   ],
   "catalogNs": {
