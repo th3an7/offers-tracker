@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "6c2ba2fd172b49ed8435bace991184e0",
   "creationDate": "2022-04-08T00:24:16.043Z",
-  "lastModifiedDate": "2022-04-08T00:24:16.043Z",
+  "lastModifiedDate": "2022-09-19T17:08:51.855Z",
   "effectiveDate": "2022-04-15T00:00:00.000Z",
   "viewableDate": "2022-04-08T00:00:00.000Z",
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2022-09-19T20:52:22.107Z",
+      "status": "ACTIVE",
+      "referenceCount": 524,
+      "comment": ""
+    },
+    {
       "id": "1080",
       "name": "Survival",
       "namespace": "epic",
@@ -54,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2022-09-18T08:09:06.057Z",
+      "updated": "2022-09-19T17:38:45.022Z",
       "status": "ACTIVE",
-      "referenceCount": 2786,
+      "referenceCount": 2787,
       "comment": null
     },
     {
@@ -66,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-19T00:01:41.771Z",
+      "updated": "2022-09-19T22:49:19.332Z",
       "status": "ACTIVE",
-      "referenceCount": 5100,
+      "referenceCount": 5101,
       "comment": null
     },
     {
@@ -78,9 +90,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-09-18T13:20:46.154Z",
+      "updated": "2022-09-20T00:47:55.895Z",
       "status": "ACTIVE",
-      "referenceCount": 11629,
+      "referenceCount": 11630,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2022-09-19T17:38:45.036Z",
+      "status": "ACTIVE",
+      "referenceCount": 1344,
       "comment": null
     },
     {
@@ -93,21 +117,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-09-16T19:24:30.024Z",
+      "updated": "2022-09-19T19:59:23.240Z",
       "status": "ACTIVE",
       "referenceCount": 2244,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-09-17T14:08:34.645Z",
-      "status": "ACTIVE",
-      "referenceCount": 1342,
       "comment": null
     }
   ],

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "d5c52dd48fcc444b84e8df40813abd4b",
   "creationDate": "2022-02-16T04:04:40.593Z",
-  "lastModifiedDate": "2022-03-28T11:59:01.682Z",
+  "lastModifiedDate": "2022-09-19T17:06:03.480Z",
   "effectiveDate": "2022-04-01T00:00:00.000Z",
   "viewableDate": "2022-03-25T00:00:00.000Z",
   "developer": null,
@@ -48,15 +48,27 @@
       "comment": null
     },
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2022-09-19T20:52:22.107Z",
+      "status": "ACTIVE",
+      "referenceCount": 524,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-19T00:01:41.771Z",
+      "updated": "2022-09-19T22:49:19.332Z",
       "status": "ACTIVE",
-      "referenceCount": 5100,
+      "referenceCount": 5101,
       "comment": null
     },
     {
@@ -66,9 +78,33 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-09-18T13:20:46.154Z",
+      "updated": "2022-09-20T00:47:55.895Z",
       "status": "ACTIVE",
-      "referenceCount": 11629,
+      "referenceCount": 11630,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2022-09-19T22:49:19.356Z",
+      "status": "ACTIVE",
+      "referenceCount": 385,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2022-09-19T17:38:45.036Z",
+      "status": "ACTIVE",
+      "referenceCount": 1344,
       "comment": null
     },
     {
@@ -81,33 +117,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-09-16T19:24:30.024Z",
+      "updated": "2022-09-19T19:59:23.240Z",
       "status": "ACTIVE",
       "referenceCount": 2244,
-      "comment": null
-    },
-    {
-      "id": "1151",
-      "name": "Platformer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2022-09-16T18:57:17.354Z",
-      "status": "ACTIVE",
-      "referenceCount": 385,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-09-17T14:08:34.645Z",
-      "status": "ACTIVE",
-      "referenceCount": 1342,
       "comment": null
     }
   ],
