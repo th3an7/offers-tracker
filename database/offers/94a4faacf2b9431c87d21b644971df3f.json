@@ -39,15 +39,27 @@
   ],
   "tags": [
     {
-      "id": "18051",
-      "name": "Halloween Sale",
+      "id": "16979",
+      "name": "Summer Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2022-10-20T14:51:41.936Z",
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2022-11-02T00:12:50.803Z",
       "status": "ACTIVE",
-      "referenceCount": 1526,
+      "referenceCount": 799,
+      "comment": ""
+    },
+    {
+      "id": "22485",
+      "name": "August Event Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-08-23T13:22:53.223Z",
+      "updated": "2022-11-02T00:12:50.664Z",
+      "status": "ACTIVE",
+      "referenceCount": 1146,
       "comment": ""
     },
     {
@@ -63,15 +75,39 @@
       "comment": ""
     },
     {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-11-02T00:12:50.750Z",
+      "status": "ACTIVE",
+      "referenceCount": 782,
+      "comment": ""
+    },
+    {
       "id": "14346",
       "name": "Holiday Sale 2020",
       "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2022-10-25T06:59:08.542Z",
+      "updated": "2022-11-02T00:12:50.742Z",
       "status": "ACTIVE",
       "referenceCount": 543,
+      "comment": ""
+    },
+    {
+      "id": "18778",
+      "name": "Holiday Sale 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:04:11.086Z",
+      "updated": "2022-11-02T00:12:50.732Z",
+      "status": "ACTIVE",
+      "referenceCount": 1265,
       "comment": ""
     },
     {
@@ -81,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-10-25T06:59:08.484Z",
+      "updated": "2022-11-02T00:12:50.639Z",
       "status": "ACTIVE",
-      "referenceCount": 1246,
+      "referenceCount": 1244,
       "comment": ""
     },
     {
@@ -93,9 +129,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-10-31T22:22:07.825Z",
+      "updated": "2022-11-02T00:12:50.791Z",
       "status": "ACTIVE",
-      "referenceCount": 11842,
+      "referenceCount": 11848,
       "comment": null
     },
     {
@@ -105,7 +141,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-10-25T06:59:08.476Z",
+      "updated": "2022-11-02T00:12:50.685Z",
       "status": "ACTIVE",
       "referenceCount": 1580,
       "comment": ""
@@ -117,69 +153,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2022-10-25T06:59:08.491Z",
+      "updated": "2022-11-02T00:12:50.759Z",
       "status": "ACTIVE",
-      "referenceCount": 1221,
-      "comment": ""
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-10-25T06:59:08.562Z",
-      "status": "ACTIVE",
-      "referenceCount": 1064,
-      "comment": ""
-    },
-    {
-      "id": "16979",
-      "name": "Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-07-14T15:58:17.560Z",
-      "updated": "2022-10-25T06:59:08.424Z",
-      "status": "ACTIVE",
-      "referenceCount": 799,
-      "comment": ""
-    },
-    {
-      "id": "22485",
-      "name": "August Event Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-08-23T13:22:53.223Z",
-      "updated": "2022-10-27T20:01:54.671Z",
-      "status": "ACTIVE",
-      "referenceCount": 1149,
-      "comment": ""
-    },
-    {
-      "id": "18777",
-      "name": "The Game Awards Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:01:42.000Z",
-      "updated": "2022-10-24T15:17:08.044Z",
-      "status": "ACTIVE",
-      "referenceCount": 783,
-      "comment": ""
-    },
-    {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-10-25T06:59:08.329Z",
-      "status": "ACTIVE",
-      "referenceCount": 1266,
+      "referenceCount": 1220,
       "comment": ""
     },
     {
@@ -192,6 +168,18 @@
       "updated": "2022-06-30T18:24:17.399Z",
       "status": "ACTIVE",
       "referenceCount": 22,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-11-02T00:12:50.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 1064,
       "comment": ""
     }
   ],

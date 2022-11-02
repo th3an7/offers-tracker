@@ -8,7 +8,7 @@
   "productSlug": "crayta",
   "urlSlug": "crayta",
   "creationDate": "2020-09-25T19:53:46.343Z",
-  "lastModifiedDate": "2022-10-27T00:32:49.588Z",
+  "lastModifiedDate": "2022-11-01T14:16:24.728Z",
   "effectiveDate": "2021-03-10T12:00:00.000Z",
   "viewableDate": "2021-03-10T12:00:00.000Z",
   "developer": null,
@@ -45,22 +45,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-10-31T19:18:19.709Z",
+      "updated": "2022-11-01T21:48:07.078Z",
       "status": "ACTIVE",
-      "referenceCount": 4574,
+      "referenceCount": 4579,
       "comment": null
-    },
-    {
-      "id": "21136",
-      "name": "Playful Visuals",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:27:25.710Z",
-      "updated": "2022-10-30T16:13:33.152Z",
-      "status": "ACTIVE",
-      "referenceCount": 24,
-      "comment": ""
     },
     {
       "id": "21122",
@@ -69,34 +57,10 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2022-10-30T15:57:45.192Z",
+      "updated": "2022-11-01T21:30:42.010Z",
       "status": "ACTIVE",
-      "referenceCount": 204,
+      "referenceCount": 205,
       "comment": ""
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2022-10-31T20:18:42.981Z",
-      "status": "ACTIVE",
-      "referenceCount": 276,
-      "comment": ""
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-10-31T22:22:07.839Z",
-      "status": "ACTIVE",
-      "referenceCount": 2214,
-      "comment": null
     },
     {
       "id": "1188",
@@ -105,22 +69,10 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2022-10-31T19:02:59.151Z",
+      "updated": "2022-11-01T19:44:12.796Z",
       "status": "ACTIVE",
       "referenceCount": 227,
       "comment": null
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2022-10-31T13:10:42.598Z",
-      "status": "ACTIVE",
-      "referenceCount": 272,
-      "comment": ""
     },
     {
       "id": "19847",
@@ -129,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2022-10-31T17:57:42.677Z",
+      "updated": "2022-11-01T17:22:08.338Z",
       "status": "ACTIVE",
-      "referenceCount": 651,
+      "referenceCount": 655,
       "comment": ""
     },
     {
@@ -147,28 +99,76 @@
       "comment": ""
     },
     {
-      "id": "21146",
-      "name": "Educational",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:35:29.234Z",
-      "updated": "2022-10-31T19:23:29.164Z",
-      "status": "ACTIVE",
-      "referenceCount": 50,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-10-31T22:22:07.825Z",
+      "updated": "2022-11-02T00:12:50.791Z",
       "status": "ACTIVE",
-      "referenceCount": 11842,
+      "referenceCount": 11848,
       "comment": null
+    },
+    {
+      "id": "21136",
+      "name": "Playful Visuals",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:27:25.710Z",
+      "updated": "2022-10-30T16:13:33.152Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": ""
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2022-11-01T20:58:40.492Z",
+      "status": "ACTIVE",
+      "referenceCount": 278,
+      "comment": ""
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2022-11-01T21:30:46.381Z",
+      "status": "ACTIVE",
+      "referenceCount": 2216,
+      "comment": null
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2022-11-01T14:33:23.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 274,
+      "comment": ""
+    },
+    {
+      "id": "21146",
+      "name": "Educational",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:35:29.234Z",
+      "updated": "2022-11-01T09:38:30.755Z",
+      "status": "ACTIVE",
+      "referenceCount": 51,
+      "comment": ""
     },
     {
       "id": "21149",
@@ -177,10 +177,22 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2022-10-31T04:54:27.736Z",
+      "updated": "2022-11-01T15:01:57.741Z",
       "status": "ACTIVE",
-      "referenceCount": 269,
+      "referenceCount": 270,
       "comment": ""
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2022-11-02T00:24:59.116Z",
+      "status": "ACTIVE",
+      "referenceCount": 163,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [

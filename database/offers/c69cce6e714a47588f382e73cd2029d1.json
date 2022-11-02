@@ -36,15 +36,39 @@
   ],
   "tags": [
     {
-      "id": "18051",
-      "name": "Halloween Sale",
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2022-11-01T21:30:46.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 871,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2022-11-01T09:03:28.672Z",
+      "status": "ACTIVE",
+      "referenceCount": 415,
+      "comment": null
+    },
+    {
+      "id": "22485",
+      "name": "August Event Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2022-10-20T14:51:41.936Z",
+      "created": "2022-08-23T13:22:53.223Z",
+      "updated": "2022-11-02T00:12:50.664Z",
       "status": "ACTIVE",
-      "referenceCount": 1526,
+      "referenceCount": 1146,
       "comment": ""
     },
     {
@@ -54,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2022-10-29T08:44:41.506Z",
+      "updated": "2022-11-01T21:54:05.028Z",
       "status": "ACTIVE",
-      "referenceCount": 1437,
+      "referenceCount": 1440,
       "comment": ""
     },
     {
@@ -66,10 +90,22 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2022-10-31T17:57:42.677Z",
+      "updated": "2022-11-01T17:22:08.338Z",
       "status": "ACTIVE",
-      "referenceCount": 651,
+      "referenceCount": 655,
       "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-11-02T00:14:14.503Z",
+      "status": "ACTIVE",
+      "referenceCount": 5302,
+      "comment": null
     },
     {
       "id": "19242",
@@ -78,9 +114,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-10-25T06:59:08.484Z",
+      "updated": "2022-11-02T00:12:50.639Z",
       "status": "ACTIVE",
-      "referenceCount": 1246,
+      "referenceCount": 1244,
       "comment": ""
     },
     {
@@ -90,9 +126,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-10-31T22:22:07.825Z",
+      "updated": "2022-11-02T00:12:50.791Z",
       "status": "ACTIVE",
-      "referenceCount": 11842,
+      "referenceCount": 11848,
       "comment": null
     },
     {
@@ -102,7 +138,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-10-25T06:59:08.476Z",
+      "updated": "2022-11-02T00:12:50.685Z",
       "status": "ACTIVE",
       "referenceCount": 1580,
       "comment": ""
@@ -120,66 +156,6 @@
       "comment": null
     },
     {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2022-10-25T06:59:08.491Z",
-      "status": "ACTIVE",
-      "referenceCount": 1221,
-      "comment": ""
-    },
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2022-10-31T19:00:36.351Z",
-      "status": "ACTIVE",
-      "referenceCount": 871,
-      "comment": null
-    },
-    {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2022-10-31T17:43:40.102Z",
-      "status": "ACTIVE",
-      "referenceCount": 415,
-      "comment": null
-    },
-    {
-      "id": "22485",
-      "name": "August Event Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-08-23T13:22:53.223Z",
-      "updated": "2022-10-27T20:01:54.671Z",
-      "status": "ACTIVE",
-      "referenceCount": 1149,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-10-31T22:22:07.868Z",
-      "status": "ACTIVE",
-      "referenceCount": 5297,
-      "comment": null
-    },
-    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -189,10 +165,22 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-10-31T03:08:27.109Z",
+      "updated": "2022-11-01T22:59:10.145Z",
       "status": "ACTIVE",
       "referenceCount": 2262,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2022-11-02T00:12:50.759Z",
+      "status": "ACTIVE",
+      "referenceCount": 1220,
+      "comment": ""
     }
   ],
   "customAttributes": [
