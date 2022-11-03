@@ -8,7 +8,7 @@
   "productSlug": "transport-fever-2",
   "urlSlug": "transport-fever-2",
   "creationDate": "2021-03-16T22:59:38.760Z",
-  "lastModifiedDate": "2022-10-12T08:10:11.352Z",
+  "lastModifiedDate": "2022-11-02T14:56:48.667Z",
   "effectiveDate": "2021-08-18T14:00:00.000Z",
   "viewableDate": "2021-08-18T14:00:00.000Z",
   "developer": null,
@@ -39,15 +39,63 @@
   ],
   "tags": [
     {
+      "id": "1188",
+      "name": "RELAXING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.840Z",
+      "updated": "2022-11-02T19:02:58.011Z",
+      "status": "ACTIVE",
+      "referenceCount": 231,
+      "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2022-11-02T19:02:58.045Z",
+      "status": "ACTIVE",
+      "referenceCount": 1581,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-11-03T00:11:53.637Z",
+      "status": "ACTIVE",
+      "referenceCount": 11854,
+      "comment": null
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-11-02T19:02:58.062Z",
+      "status": "ACTIVE",
+      "referenceCount": 1065,
+      "comment": ""
+    },
+    {
       "id": "1393",
       "name": "Simulation",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2022-11-01T21:30:46.367Z",
+      "updated": "2022-11-03T00:02:00.924Z",
       "status": "ACTIVE",
-      "referenceCount": 871,
+      "referenceCount": 877,
       "comment": null
     },
     {
@@ -57,9 +105,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2022-11-01T20:58:40.492Z",
+      "updated": "2022-11-02T19:48:21.603Z",
       "status": "ACTIVE",
-      "referenceCount": 278,
+      "referenceCount": 280,
       "comment": ""
     },
     {
@@ -69,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2022-11-01T14:58:26.117Z",
+      "updated": "2022-11-02T22:24:41.537Z",
       "status": "ACTIVE",
-      "referenceCount": 264,
+      "referenceCount": 268,
       "comment": ""
     },
     {
@@ -81,7 +129,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2022-11-01T14:33:23.095Z",
+      "updated": "2022-11-02T20:58:42.131Z",
       "status": "ACTIVE",
       "referenceCount": 274,
       "comment": ""
@@ -105,9 +153,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-11-02T00:14:14.503Z",
+      "updated": "2022-11-03T00:02:00.969Z",
       "status": "ACTIVE",
-      "referenceCount": 5302,
+      "referenceCount": 5310,
       "comment": null
     },
     {
@@ -117,34 +165,10 @@
       "aliases": [],
       "operator": null,
       "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-11-02T00:12:50.732Z",
+      "updated": "2022-11-02T19:02:58.030Z",
       "status": "ACTIVE",
-      "referenceCount": 1265,
+      "referenceCount": 1266,
       "comment": ""
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-11-02T00:12:50.685Z",
-      "status": "ACTIVE",
-      "referenceCount": 1580,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-11-02T00:12:50.791Z",
-      "status": "ACTIVE",
-      "referenceCount": 11848,
-      "comment": null
     },
     {
       "id": "21148",
@@ -168,22 +192,10 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-11-01T22:59:10.145Z",
+      "updated": "2022-11-02T16:01:39.308Z",
       "status": "ACTIVE",
-      "referenceCount": 2262,
+      "referenceCount": 2261,
       "comment": null
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-11-02T00:12:50.824Z",
-      "status": "ACTIVE",
-      "referenceCount": 1064,
-      "comment": ""
     }
   ],
   "customAttributes": [
