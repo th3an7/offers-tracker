@@ -8,7 +8,7 @@
   "productSlug": "toem",
   "urlSlug": "toem",
   "creationDate": "2021-08-26T22:02:12.331Z",
-  "lastModifiedDate": "2021-09-17T05:10:26.687Z",
+  "lastModifiedDate": "2022-11-10T20:05:12.164Z",
   "effectiveDate": "2021-09-17T13:00:00.000Z",
   "viewableDate": "2021-09-17T13:00:00.000Z",
   "developer": null,
@@ -39,6 +39,18 @@
   ],
   "tags": [
     {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2022-11-10T17:35:27.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 420,
+      "comment": null
+    },
+    {
       "id": "1381",
       "name": "Exploration",
       "namespace": "epic",
@@ -49,6 +61,18 @@
       "status": "ACTIVE",
       "referenceCount": 314,
       "comment": null
+    },
+    {
+      "id": "22485",
+      "name": "August Event Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-08-23T13:22:53.223Z",
+      "updated": "2022-11-04T16:19:36.556Z",
+      "status": "ACTIVE",
+      "referenceCount": 1145,
+      "comment": ""
     },
     {
       "id": "19242",
@@ -63,15 +87,39 @@
       "comment": ""
     },
     {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-11-10T23:52:01.482Z",
+      "status": "ACTIVE",
+      "referenceCount": 5333,
+      "comment": null
+    },
+    {
+      "id": "18778",
+      "name": "Holiday Sale 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:04:11.086Z",
+      "updated": "2022-11-04T16:19:36.372Z",
+      "status": "ACTIVE",
+      "referenceCount": 1266,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-11-09T23:15:36.284Z",
+      "updated": "2022-11-10T23:52:01.505Z",
       "status": "ACTIVE",
-      "referenceCount": 11882,
+      "referenceCount": 11884,
       "comment": null
     },
     {
@@ -93,22 +141,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-11-09T23:15:36.260Z",
+      "updated": "2022-11-10T23:25:11.728Z",
       "status": "ACTIVE",
-      "referenceCount": 2627,
+      "referenceCount": 2628,
       "comment": null
     },
     {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-11-09T19:01:51.660Z",
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2022-11-10T17:35:05.603Z",
       "status": "ACTIVE",
-      "referenceCount": 1065,
-      "comment": ""
+      "referenceCount": 1970,
+      "comment": null
     },
     {
       "id": "15375",
@@ -123,66 +171,6 @@
       "comment": ""
     },
     {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2022-11-09T22:20:43.897Z",
-      "status": "ACTIVE",
-      "referenceCount": 421,
-      "comment": null
-    },
-    {
-      "id": "22485",
-      "name": "August Event Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-08-23T13:22:53.223Z",
-      "updated": "2022-11-04T16:19:36.556Z",
-      "status": "ACTIVE",
-      "referenceCount": 1145,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-11-09T23:15:36.232Z",
-      "status": "ACTIVE",
-      "referenceCount": 5331,
-      "comment": null
-    },
-    {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-11-04T16:19:36.372Z",
-      "status": "ACTIVE",
-      "referenceCount": 1266,
-      "comment": ""
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-11-09T22:23:40.883Z",
-      "status": "ACTIVE",
-      "referenceCount": 1969,
-      "comment": null
-    },
-    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -192,7 +180,7 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-11-09T17:25:37.170Z",
+      "updated": "2022-11-10T13:35:43.183Z",
       "status": "ACTIVE",
       "referenceCount": 2263,
       "comment": null

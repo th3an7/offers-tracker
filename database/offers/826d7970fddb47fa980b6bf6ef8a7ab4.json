@@ -8,7 +8,7 @@
   "productSlug": "kenshape",
   "urlSlug": "kenshape-general-audience",
   "creationDate": "2021-04-05T22:21:25.956Z",
-  "lastModifiedDate": "2021-08-25T16:43:41.809Z",
+  "lastModifiedDate": "2022-11-10T19:10:19.397Z",
   "effectiveDate": "2021-04-22T13:45:00.000Z",
   "viewableDate": "2021-04-22T13:45:00.000Z",
   "developer": null,
@@ -56,15 +56,27 @@
       "comment": ""
     },
     {
+      "id": "1110",
+      "name": "Party",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2022-11-10T23:25:11.706Z",
+      "status": "ACTIVE",
+      "referenceCount": 130,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-11-09T23:15:36.284Z",
+      "updated": "2022-11-10T23:52:01.505Z",
       "status": "ACTIVE",
-      "referenceCount": 11882,
+      "referenceCount": 11884,
       "comment": null
     }
   ],
@@ -72,10 +84,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "Kenney"
     },
     {
       "key": "com.epicgames.app.productSlug",
