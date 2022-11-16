@@ -8,7 +8,7 @@
   "productSlug": "f1-manager-2022",
   "urlSlug": "f1-manager-2022-01",
   "creationDate": "2022-05-31T20:26:40.273Z",
-  "lastModifiedDate": "2022-11-11T14:22:30.215Z",
+  "lastModifiedDate": "2022-11-15T13:39:07.153Z",
   "effectiveDate": "2022-08-30T14:00:00.000Z",
   "viewableDate": "2022-08-30T14:00:00.000Z",
   "developer": null,
@@ -39,63 +39,15 @@
   ],
   "tags": [
     {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2022-11-14T23:57:11.443Z",
-      "status": "ACTIVE",
-      "referenceCount": 890,
-      "comment": null
-    },
-    {
       "id": "21122",
       "name": "Diverse Characters",
       "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2022-11-14T22:14:52.737Z",
+      "updated": "2022-11-15T21:32:06.809Z",
       "status": "ACTIVE",
       "referenceCount": 209,
-      "comment": ""
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2022-11-14T15:29:34.201Z",
-      "status": "ACTIVE",
-      "referenceCount": 288,
-      "comment": ""
-    },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-11-14T15:58:12.331Z",
-      "status": "ACTIVE",
-      "referenceCount": 4469,
-      "comment": null
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2022-11-14T15:29:34.192Z",
-      "status": "ACTIVE",
-      "referenceCount": 265,
       "comment": ""
     },
     {
@@ -111,30 +63,6 @@
       "comment": null
     },
     {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2022-11-14T15:29:34.366Z",
-      "status": "ACTIVE",
-      "referenceCount": 272,
-      "comment": ""
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2022-11-14T15:29:34.374Z",
-      "status": "ACTIVE",
-      "referenceCount": 277,
-      "comment": ""
-    },
-    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
@@ -147,27 +75,99 @@
       "comment": ""
     },
     {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-11-14T17:11:51.365Z",
-      "status": "ACTIVE",
-      "referenceCount": 1080,
-      "comment": null
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-11-14T23:57:11.467Z",
+      "updated": "2022-11-15T20:01:27.046Z",
       "status": "ACTIVE",
-      "referenceCount": 11900,
+      "referenceCount": 7415,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2022-11-15T20:01:26.992Z",
+      "status": "ACTIVE",
+      "referenceCount": 545,
+      "comment": null
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2022-11-15T17:59:46.177Z",
+      "status": "ACTIVE",
+      "referenceCount": 286,
+      "comment": ""
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2022-11-15T22:22:07.815Z",
+      "status": "ACTIVE",
+      "referenceCount": 255,
+      "comment": null
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2022-11-15T21:47:17.093Z",
+      "status": "ACTIVE",
+      "referenceCount": 265,
+      "comment": ""
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2022-11-15T21:57:28.024Z",
+      "status": "ACTIVE",
+      "referenceCount": 273,
+      "comment": ""
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2022-11-15T17:59:46.214Z",
+      "status": "ACTIVE",
+      "referenceCount": 275,
+      "comment": ""
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2022-11-15T20:01:27.025Z",
+      "status": "ACTIVE",
+      "referenceCount": 685,
       "comment": null
     },
     {
@@ -177,10 +177,22 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2022-11-14T18:10:24.624Z",
+      "updated": "2022-11-15T21:03:29.790Z",
       "status": "ACTIVE",
-      "referenceCount": 277,
+      "referenceCount": 276,
       "comment": ""
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2022-11-15T17:59:46.150Z",
+      "status": "ACTIVE",
+      "referenceCount": 175,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
