@@ -8,7 +8,7 @@
   "productSlug": "yooka-laylee",
   "urlSlug": "yooka-laylee",
   "creationDate": "2020-10-06T21:22:48.918Z",
-  "lastModifiedDate": "2022-11-11T20:48:49.849Z",
+  "lastModifiedDate": "2022-11-22T04:01:25.374Z",
   "effectiveDate": "2021-08-19T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,39 +39,15 @@
   ],
   "tags": [
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-11-22T01:06:49.954Z",
-      "status": "ACTIVE",
-      "referenceCount": 1306,
-      "comment": null
-    },
-    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2022-11-21T21:51:26.828Z",
+      "updated": "2022-11-22T21:58:48.520Z",
       "status": "ACTIVE",
-      "referenceCount": 1071,
-      "comment": ""
-    },
-    {
-      "id": "18777",
-      "name": "The Game Awards Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:01:42.000Z",
-      "updated": "2022-11-21T18:24:41.135Z",
-      "status": "ACTIVE",
-      "referenceCount": 775,
+      "referenceCount": 1072,
       "comment": ""
     },
     {
@@ -87,39 +63,15 @@
       "comment": ""
     },
     {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-11-21T21:51:26.853Z",
-      "status": "ACTIVE",
-      "referenceCount": 3140,
-      "comment": null
-    },
-    {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-11-21T18:24:41.126Z",
-      "status": "ACTIVE",
-      "referenceCount": 1253,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-11-22T01:06:49.988Z",
+      "updated": "2022-11-23T00:02:04.337Z",
       "status": "ACTIVE",
-      "referenceCount": 7427,
+      "referenceCount": 7433,
       "comment": null
     },
     {
@@ -129,21 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-11-22T01:06:49.967Z",
+      "updated": "2022-11-23T00:12:28.875Z",
       "status": "ACTIVE",
-      "referenceCount": 1133,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-11-21T19:18:59.108Z",
-      "status": "ACTIVE",
-      "referenceCount": 1083,
+      "referenceCount": 1137,
       "comment": null
     },
     {
@@ -153,9 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-11-21T19:18:59.135Z",
+      "updated": "2022-11-23T00:12:28.883Z",
       "status": "ACTIVE",
-      "referenceCount": 742,
+      "referenceCount": 743,
       "comment": null
     },
     {
@@ -171,15 +111,87 @@
       "comment": ""
     },
     {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-11-22T18:03:55.799Z",
+      "status": "ACTIVE",
+      "referenceCount": 1894,
+      "comment": ""
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2022-11-23T00:02:06.583Z",
+      "status": "ACTIVE",
+      "referenceCount": 1311,
+      "comment": null
+    },
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-11-21T18:24:41.135Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-11-23T00:12:28.860Z",
+      "status": "ACTIVE",
+      "referenceCount": 3144,
+      "comment": null
+    },
+    {
+      "id": "18778",
+      "name": "Holiday Sale 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:04:11.086Z",
+      "updated": "2022-11-21T18:24:41.126Z",
+      "status": "ACTIVE",
+      "referenceCount": 1253,
+      "comment": ""
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2022-11-23T00:12:28.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 1086,
+      "comment": null
+    },
+    {
       "id": "1151",
       "name": "Platformer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2022-11-21T14:10:07.643Z",
+      "updated": "2022-11-22T22:57:22.146Z",
       "status": "ACTIVE",
-      "referenceCount": 235,
+      "referenceCount": 237,
       "comment": null
     }
   ],
