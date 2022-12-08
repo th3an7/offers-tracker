@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "f0c8ea8e486648da951973e66be6cfcc",
   "creationDate": "2021-09-29T19:56:30.357Z",
-  "lastModifiedDate": "2022-11-22T00:25:06.208Z",
+  "lastModifiedDate": "2022-12-07T19:28:04.269Z",
   "effectiveDate": "2022-04-25T07:00:00.000Z",
   "viewableDate": "2022-04-25T07:00:00.000Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2022-12-08T00:53:53.177Z",
+      "status": "ACTIVE",
+      "referenceCount": 1570,
+      "comment": null
+    },
     {
       "id": "1265",
       "name": "Dungeon Crawler",
@@ -43,10 +54,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:30.259Z",
-      "updated": "2022-12-01T16:34:00.662Z",
+      "updated": "2022-12-07T23:46:51.725Z",
       "status": "ACTIVE",
-      "referenceCount": 673,
+      "referenceCount": 674,
       "comment": null
+    },
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-12-07T21:21:41.448Z",
+      "status": "ACTIVE",
+      "referenceCount": 944,
+      "comment": ""
     },
     {
       "id": "1083",
@@ -55,12 +78,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2022-12-05T06:46:03.015Z",
+      "updated": "2022-12-07T13:22:24.247Z",
       "status": "ACTIVE",
       "referenceCount": 123,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-08T00:53:51.891Z",
+      "status": "ACTIVE",
+      "referenceCount": 7539,
+      "comment": null
+    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -68,7 +102,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-12-06T23:10:23.329Z",
+      "updated": "2022-12-07T21:21:41.412Z",
       "status": "ACTIVE",
       "referenceCount": 1535,
       "comment": ""
@@ -80,9 +114,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-12-06T23:10:23.340Z",
+      "updated": "2022-12-07T23:46:51.745Z",
       "status": "ACTIVE",
-      "referenceCount": 1162,
+      "referenceCount": 1166,
       "comment": null
     },
     {
@@ -92,9 +126,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-06T23:10:23.357Z",
+      "updated": "2022-12-07T21:21:41.438Z",
       "status": "ACTIVE",
-      "referenceCount": 1981,
+      "referenceCount": 1979,
       "comment": ""
     }
   ],

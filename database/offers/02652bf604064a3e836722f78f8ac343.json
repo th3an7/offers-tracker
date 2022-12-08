@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "sherlock-holmes-chapter-one--m-for-mystery",
   "creationDate": "2021-06-16T05:14:05.902Z",
-  "lastModifiedDate": "2022-11-22T00:42:31.076Z",
+  "lastModifiedDate": "2022-12-07T19:25:23.907Z",
   "effectiveDate": "2022-03-22T15:00:00.000Z",
   "viewableDate": "2022-03-22T15:00:00.000Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2022-12-08T00:53:53.177Z",
+      "status": "ACTIVE",
+      "referenceCount": 1570,
+      "comment": null
+    },
     {
       "id": "22485",
       "name": "August Event Sale",
@@ -67,12 +78,35 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2022-12-06T16:14:41.496Z",
+      "updated": "2022-12-08T00:53:51.847Z",
       "status": "ACTIVE",
-      "referenceCount": 321,
+      "referenceCount": 317,
       "comment": null
     },
-    null,
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-12-07T21:21:41.448Z",
+      "status": "ACTIVE",
+      "referenceCount": 944,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-08T00:53:51.891Z",
+      "status": "ACTIVE",
+      "referenceCount": 7539,
+      "comment": null
+    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -80,7 +114,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-12-06T23:10:23.329Z",
+      "updated": "2022-12-07T21:21:41.412Z",
       "status": "ACTIVE",
       "referenceCount": 1535,
       "comment": ""
@@ -92,9 +126,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-06T23:10:23.357Z",
+      "updated": "2022-12-07T21:21:41.438Z",
       "status": "ACTIVE",
-      "referenceCount": 1981,
+      "referenceCount": 1979,
       "comment": ""
     }
   ],

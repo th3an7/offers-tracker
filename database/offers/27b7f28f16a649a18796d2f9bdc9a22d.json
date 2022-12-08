@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "wrc-8--wrc-8-ford-escort-mkii1800",
   "creationDate": "2019-08-30T20:36:50.632Z",
-  "lastModifiedDate": "2022-12-01T23:57:29.931Z",
+  "lastModifiedDate": "2022-12-07T19:34:33.421Z",
   "effectiveDate": "2019-08-30T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -36,15 +36,87 @@
   ],
   "tags": [
     {
+      "id": "21865",
+      "name": "Nacon Connect Event",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-05T15:21:06.943Z",
+      "updated": "2022-11-02T00:12:50.722Z",
+      "status": "ACTIVE",
+      "referenceCount": 53,
+      "comment": ""
+    },
+    {
+      "id": "19242",
+      "name": "Lunar New Year Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-01-13T19:24:05.305Z",
+      "updated": "2022-12-07T21:21:41.388Z",
+      "status": "ACTIVE",
+      "referenceCount": 1221,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-08T00:53:51.891Z",
+      "status": "ACTIVE",
+      "referenceCount": 7539,
+      "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2022-12-07T21:21:41.412Z",
+      "status": "ACTIVE",
+      "referenceCount": 1535,
+      "comment": ""
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2022-12-07T21:21:41.429Z",
+      "status": "ACTIVE",
+      "referenceCount": 1191,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-12-07T21:21:41.438Z",
+      "status": "ACTIVE",
+      "referenceCount": 1979,
+      "comment": ""
+    },
+    {
       "id": "1203",
       "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-12-07T00:27:19.655Z",
+      "updated": "2022-12-08T00:53:53.201Z",
       "status": "ACTIVE",
-      "referenceCount": 1357,
+      "referenceCount": 1376,
       "comment": null
     },
     {
@@ -66,7 +138,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-08-25T14:44:49.018Z",
-      "updated": "2022-12-06T23:10:23.364Z",
+      "updated": "2022-12-07T21:21:41.443Z",
       "status": "ACTIVE",
       "referenceCount": 697,
       "comment": ""
@@ -84,27 +156,15 @@
       "comment": ""
     },
     {
-      "id": "21865",
-      "name": "Nacon Connect Event",
+      "id": "18777",
+      "name": "The Game Awards Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-07-05T15:21:06.943Z",
-      "updated": "2022-11-02T00:12:50.722Z",
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-12-07T21:21:41.448Z",
       "status": "ACTIVE",
-      "referenceCount": 53,
-      "comment": ""
-    },
-    {
-      "id": "19242",
-      "name": "Lunar New Year Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-12-06T23:10:23.303Z",
-      "status": "ACTIVE",
-      "referenceCount": 1221,
+      "referenceCount": 944,
       "comment": ""
     },
     {
@@ -114,33 +174,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-12-06T23:10:23.387Z",
+      "updated": "2022-12-07T21:21:41.468Z",
       "status": "ACTIVE",
       "referenceCount": 1248,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-12-07T00:27:19.687Z",
-      "status": "ACTIVE",
-      "referenceCount": 7523,
-      "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-12-06T23:10:23.329Z",
-      "status": "ACTIVE",
-      "referenceCount": 1535,
       "comment": ""
     },
     {
@@ -150,34 +186,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2022-12-05T14:01:58.106Z",
+      "updated": "2022-12-07T11:16:38.686Z",
       "status": "ACTIVE",
-      "referenceCount": 162,
+      "referenceCount": 170,
       "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2022-12-06T23:10:23.350Z",
-      "status": "ACTIVE",
-      "referenceCount": 1191,
-      "comment": ""
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-06T23:10:23.357Z",
-      "status": "ACTIVE",
-      "referenceCount": 1981,
-      "comment": ""
     }
   ],
   "customAttributes": [

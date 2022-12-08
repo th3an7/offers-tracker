@@ -8,7 +8,7 @@
   "productSlug": "mechwarrior-5/heroes-of-the-inner-sphere",
   "urlSlug": "mechwarrior-5--heroes-of-the-inner-sphere",
   "creationDate": "2020-11-06T13:36:32.324Z",
-  "lastModifiedDate": "2022-11-22T03:25:10.381Z",
+  "lastModifiedDate": "2022-12-07T19:29:54.143Z",
   "effectiveDate": "2021-05-27T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2022-12-08T00:53:53.177Z",
+      "status": "ACTIVE",
+      "referenceCount": 1570,
+      "comment": null
+    },
     {
       "id": "1393",
       "name": "Simulation",
@@ -43,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2022-12-06T19:20:54.398Z",
+      "updated": "2022-12-07T17:37:18.547Z",
       "status": "ACTIVE",
-      "referenceCount": 559,
+      "referenceCount": 560,
       "comment": null
     },
     {
@@ -55,10 +66,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-12-07T00:27:19.655Z",
+      "updated": "2022-12-08T00:53:53.201Z",
       "status": "ACTIVE",
-      "referenceCount": 1357,
+      "referenceCount": 1376,
       "comment": null
+    },
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-12-07T21:21:41.448Z",
+      "status": "ACTIVE",
+      "referenceCount": 944,
+      "comment": ""
     },
     {
       "id": "1210",
@@ -67,9 +90,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2022-12-07T00:27:19.663Z",
+      "updated": "2022-12-07T23:52:46.483Z",
       "status": "ACTIVE",
-      "referenceCount": 502,
+      "referenceCount": 504,
       "comment": null
     },
     {
@@ -79,9 +102,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-06T23:10:23.377Z",
+      "updated": "2022-12-08T00:53:53.229Z",
       "status": "ACTIVE",
-      "referenceCount": 3200,
+      "referenceCount": 3222,
       "comment": null
     },
     {
@@ -91,12 +114,23 @@
       "aliases": [],
       "operator": null,
       "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2022-12-06T23:10:23.387Z",
+      "updated": "2022-12-07T21:21:41.468Z",
       "status": "ACTIVE",
       "referenceCount": 1248,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-08T00:53:51.891Z",
+      "status": "ACTIVE",
+      "referenceCount": 7539,
+      "comment": null
+    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -104,7 +138,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-12-06T23:10:23.329Z",
+      "updated": "2022-12-07T21:21:41.412Z",
       "status": "ACTIVE",
       "referenceCount": 1535,
       "comment": ""
@@ -128,9 +162,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-06T23:10:23.357Z",
+      "updated": "2022-12-07T21:21:41.438Z",
       "status": "ACTIVE",
-      "referenceCount": 1981,
+      "referenceCount": 1979,
       "comment": ""
     }
   ],

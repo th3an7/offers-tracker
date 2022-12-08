@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "re-legion-deluxe-edition",
   "creationDate": "2022-05-05T14:55:09.120Z",
-  "lastModifiedDate": "2022-11-22T03:33:50.977Z",
+  "lastModifiedDate": "2022-12-07T19:31:10.184Z",
   "effectiveDate": "2022-05-19T14:00:00.000Z",
   "viewableDate": "2022-05-19T14:00:00.000Z",
   "developer": null,
@@ -32,7 +32,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2022-12-08T00:53:53.177Z",
+      "status": "ACTIVE",
+      "referenceCount": 1570,
+      "comment": null
+    },
     {
       "id": "22485",
       "name": "August Event Sale",
@@ -58,15 +69,27 @@
       "comment": null
     },
     {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-12-07T21:21:41.448Z",
+      "status": "ACTIVE",
+      "referenceCount": 944,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-06T23:10:23.377Z",
+      "updated": "2022-12-08T00:53:53.229Z",
       "status": "ACTIVE",
-      "referenceCount": 3200,
+      "referenceCount": 3222,
       "comment": null
     },
     {
@@ -76,12 +99,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-12-06T20:41:16.799Z",
+      "updated": "2022-12-08T00:53:53.238Z",
       "status": "ACTIVE",
-      "referenceCount": 718,
+      "referenceCount": 729,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-08T00:53:51.891Z",
+      "status": "ACTIVE",
+      "referenceCount": 7539,
+      "comment": null
+    },
     {
       "id": "18607",
       "name": "Black Friday Sale",
@@ -89,9 +123,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-06T23:10:23.357Z",
+      "updated": "2022-12-07T21:21:41.438Z",
       "status": "ACTIVE",
-      "referenceCount": 1981,
+      "referenceCount": 1979,
       "comment": ""
     }
   ],

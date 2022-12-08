@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "584478402b084e8aa89f0b1e5aed5eb8",
   "creationDate": "2021-10-28T13:37:39.385Z",
-  "lastModifiedDate": "2022-11-22T03:54:49.477Z",
+  "lastModifiedDate": "2022-12-07T19:33:58.119Z",
   "effectiveDate": "2021-11-18T18:00:00.000Z",
   "viewableDate": "2021-11-18T18:00:00.000Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2022-12-08T00:53:53.177Z",
+      "status": "ACTIVE",
+      "referenceCount": 1570,
+      "comment": null
+    },
     {
       "id": "21894",
       "name": "Cloud Saves",
@@ -43,9 +54,21 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2022-12-06T23:10:23.290Z",
+      "updated": "2022-12-07T21:21:41.377Z",
       "status": "ACTIVE",
-      "referenceCount": 1072,
+      "referenceCount": 1074,
+      "comment": ""
+    },
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-12-07T21:21:41.448Z",
+      "status": "ACTIVE",
+      "referenceCount": 944,
       "comment": ""
     },
     {
@@ -55,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-06T23:10:23.377Z",
+      "updated": "2022-12-08T00:53:53.229Z",
       "status": "ACTIVE",
-      "referenceCount": 3200,
+      "referenceCount": 3222,
       "comment": null
     },
     {
@@ -67,12 +90,23 @@
       "aliases": [],
       "operator": null,
       "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-12-06T23:10:23.303Z",
+      "updated": "2022-12-07T21:21:41.388Z",
       "status": "ACTIVE",
       "referenceCount": 1221,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-08T00:53:51.891Z",
+      "status": "ACTIVE",
+      "referenceCount": 7539,
+      "comment": null
+    },
     {
       "id": "1117",
       "name": "Adventure",
@@ -80,9 +114,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-12-06T16:22:30.593Z",
+      "updated": "2022-12-07T21:12:29.036Z",
       "status": "ACTIVE",
-      "referenceCount": 1107,
+      "referenceCount": 1109,
       "comment": null
     },
     {
@@ -92,9 +126,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-12-06T23:10:23.340Z",
+      "updated": "2022-12-07T23:46:51.745Z",
       "status": "ACTIVE",
-      "referenceCount": 1162,
+      "referenceCount": 1166,
       "comment": null
     },
     {
@@ -104,9 +138,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-12-06T17:58:46.762Z",
+      "updated": "2022-12-07T15:30:21.422Z",
       "status": "ACTIVE",
-      "referenceCount": 744,
+      "referenceCount": 745,
       "comment": null
     },
     {
@@ -116,9 +150,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-06T23:10:23.357Z",
+      "updated": "2022-12-07T21:21:41.438Z",
       "status": "ACTIVE",
-      "referenceCount": 1981,
+      "referenceCount": 1979,
       "comment": ""
     }
   ],
