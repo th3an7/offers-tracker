@@ -8,7 +8,7 @@
   "productSlug": "smite",
   "urlSlug": "smite",
   "creationDate": "2019-10-18T01:53:04.996Z",
-  "lastModifiedDate": "2022-12-13T17:27:32.869Z",
+  "lastModifiedDate": "2022-12-14T23:32:35.448Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,15 +39,87 @@
   ],
   "tags": [
     {
+      "id": "21122",
+      "name": "Diverse Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:12:59.057Z",
+      "updated": "2022-12-14T23:32:35.465Z",
+      "status": "ACTIVE",
+      "referenceCount": 225,
+      "comment": ""
+    },
+    {
+      "id": "21125",
+      "name": "Competitive Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:32.830Z",
+      "updated": "2022-12-14T19:47:23.460Z",
+      "status": "ACTIVE",
+      "referenceCount": 42,
+      "comment": ""
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2022-12-14T19:47:23.501Z",
+      "status": "ACTIVE",
+      "referenceCount": 1534,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-14T23:45:02.732Z",
+      "status": "ACTIVE",
+      "referenceCount": 7592,
+      "comment": null
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2022-12-14T19:47:23.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 1975,
+      "comment": ""
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2022-12-14T22:35:43.829Z",
+      "status": "ACTIVE",
+      "referenceCount": 309,
+      "comment": ""
+    },
+    {
       "id": "1203",
       "name": "Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-12-13T21:38:13.189Z",
+      "updated": "2022-12-14T23:30:54.005Z",
       "status": "ACTIVE",
-      "referenceCount": 1383,
+      "referenceCount": 1386,
       "comment": null
     },
     {
@@ -57,7 +129,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-12-13T15:59:24.335Z",
+      "updated": "2022-12-14T23:30:53.983Z",
       "status": "ACTIVE",
       "referenceCount": 275,
       "comment": null
@@ -75,15 +147,39 @@
       "comment": ""
     },
     {
-      "id": "21125",
-      "name": "Competitive Community",
+      "id": "21139",
+      "name": "Amazing Characters",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2022-12-13T17:10:25.634Z",
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2022-12-14T19:47:23.478Z",
       "status": "ACTIVE",
-      "referenceCount": 43,
+      "referenceCount": 276,
+      "comment": ""
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2022-12-14T19:47:23.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 282,
+      "comment": ""
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2022-12-14T19:47:23.344Z",
+      "status": "ACTIVE",
+      "referenceCount": 292,
       "comment": ""
     },
     {
@@ -93,33 +189,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-13T21:48:48.857Z",
+      "updated": "2022-12-14T23:45:02.762Z",
       "status": "ACTIVE",
-      "referenceCount": 3254,
-      "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-12-13T21:48:48.769Z",
-      "status": "ACTIVE",
-      "referenceCount": 1535,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-12-13T21:48:48.722Z",
-      "status": "ACTIVE",
-      "referenceCount": 7581,
+      "referenceCount": 3260,
       "comment": null
     },
     {
@@ -129,7 +201,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2022-12-13T21:48:48.777Z",
+      "updated": "2022-12-14T19:47:23.518Z",
       "status": "ACTIVE",
       "referenceCount": 287,
       "comment": ""
@@ -141,22 +213,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2022-12-13T12:02:20.745Z",
+      "updated": "2022-12-14T19:47:23.452Z",
       "status": "ACTIVE",
       "referenceCount": 227,
       "comment": null
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-13T21:48:48.695Z",
-      "status": "ACTIVE",
-      "referenceCount": 1975,
-      "comment": ""
     }
   ],
   "customAttributes": [
