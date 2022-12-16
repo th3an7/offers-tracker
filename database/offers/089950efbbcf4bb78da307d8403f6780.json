@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "8d0f7e9a15c1476b829ea2e1616b759a",
   "creationDate": "2022-03-04T18:35:03.905Z",
-  "lastModifiedDate": "2022-12-07T19:27:03.226Z",
+  "lastModifiedDate": "2022-12-15T18:12:45.753Z",
   "effectiveDate": "2022-03-11T14:00:00.000Z",
   "viewableDate": "2022-03-05T14:00:00.000Z",
   "developer": null,
@@ -36,40 +36,16 @@
   ],
   "tags": [
     {
-      "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2022-12-08T23:56:50.147Z",
-      "status": "ACTIVE",
-      "referenceCount": 193,
-      "comment": null
-    },
-    {
       "id": "1381",
       "name": "Exploration",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2022-12-14T20:19:31.773Z",
+      "updated": "2022-12-15T13:15:32.484Z",
       "status": "ACTIVE",
       "referenceCount": 140,
       "comment": null
-    },
-    {
-      "id": "22485",
-      "name": "August Event Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-08-23T13:22:53.223Z",
-      "updated": "2022-12-08T09:53:17.778Z",
-      "status": "ACTIVE",
-      "referenceCount": 1123,
-      "comment": ""
     },
     {
       "id": "21894",
@@ -78,34 +54,10 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2022-12-14T19:35:01.655Z",
+      "updated": "2022-12-15T22:14:53.631Z",
       "status": "ACTIVE",
-      "referenceCount": 1077,
+      "referenceCount": 1080,
       "comment": ""
-    },
-    {
-      "id": "18777",
-      "name": "The Game Awards Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:01:42.000Z",
-      "updated": "2022-12-13T21:48:48.732Z",
-      "status": "ACTIVE",
-      "referenceCount": 941,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-14T23:45:02.762Z",
-      "status": "ACTIVE",
-      "referenceCount": 3260,
-      "comment": null
     },
     {
       "id": "9547",
@@ -114,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-12-14T23:45:02.732Z",
+      "updated": "2022-12-16T00:04:17.903Z",
       "status": "ACTIVE",
-      "referenceCount": 7592,
+      "referenceCount": 7599,
       "comment": null
     },
     {
@@ -126,22 +78,10 @@
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2022-12-14T19:47:23.501Z",
+      "updated": "2022-12-15T17:04:48.734Z",
       "status": "ACTIVE",
-      "referenceCount": 1534,
+      "referenceCount": 1533,
       "comment": ""
-    },
-    {
-      "id": "1084",
-      "name": "Stealth",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2022-12-14T19:35:01.702Z",
-      "status": "ACTIVE",
-      "referenceCount": 118,
-      "comment": null
     },
     {
       "id": "19949",
@@ -162,7 +102,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2022-12-14T19:47:23.421Z",
+      "updated": "2022-12-15T17:04:48.822Z",
       "status": "ACTIVE",
       "referenceCount": 1191,
       "comment": ""
@@ -174,10 +114,82 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2022-12-14T19:47:23.367Z",
+      "updated": "2022-12-15T17:04:48.830Z",
       "status": "ACTIVE",
-      "referenceCount": 1975,
+      "referenceCount": 1973,
       "comment": ""
+    },
+    {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2022-12-08T23:56:50.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 193,
+      "comment": null
+    },
+    {
+      "id": "22485",
+      "name": "August Event Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-08-23T13:22:53.223Z",
+      "updated": "2022-12-08T09:53:17.778Z",
+      "status": "ACTIVE",
+      "referenceCount": 1123,
+      "comment": ""
+    },
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2022-12-15T17:04:48.766Z",
+      "status": "ACTIVE",
+      "referenceCount": 937,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-12-16T00:04:17.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 3265,
+      "comment": null
+    },
+    {
+      "id": "24570",
+      "name": "Holiday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-12-14T20:45:17.902Z",
+      "updated": "2022-12-15T21:02:14.363Z",
+      "status": "ACTIVE",
+      "referenceCount": 2408,
+      "comment": ""
+    },
+    {
+      "id": "1084",
+      "name": "Stealth",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2022-12-14T19:35:01.702Z",
+      "status": "ACTIVE",
+      "referenceCount": 118,
+      "comment": null
     }
   ],
   "customAttributes": [
