@@ -8,7 +8,7 @@
   "productSlug": "encased",
   "urlSlug": "encased",
   "creationDate": "2021-04-16T21:11:19.800Z",
-  "lastModifiedDate": "2022-12-18T16:41:06.013Z",
+  "lastModifiedDate": "2022-12-23T15:11:00.920Z",
   "effectiveDate": "2021-09-07T17:00:00.000Z",
   "viewableDate": "2021-09-07T17:00:00.000Z",
   "developer": null,
@@ -75,6 +75,18 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-12-23T05:19:57.465Z",
+      "status": "ACTIVE",
+      "referenceCount": 7607,
+      "comment": null
+    },
+    {
       "id": "16011",
       "name": "Epic MEGA Sale",
       "namespace": null,
@@ -85,18 +97,6 @@
       "status": "ACTIVE",
       "referenceCount": 1532,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-12-22T15:56:20.054Z",
-      "status": "ACTIVE",
-      "referenceCount": 7606,
-      "comment": null
     },
     {
       "id": "15375",
@@ -153,9 +153,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2022-12-22T18:00:55.370Z",
+      "updated": "2022-12-23T14:16:01.869Z",
       "status": "ACTIVE",
-      "referenceCount": 369,
+      "referenceCount": 379,
       "comment": null
     },
     {
@@ -232,10 +232,6 @@
     }
   ],
   "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
     {
       "key": "publisherName",
       "value": "Prime Matter"
