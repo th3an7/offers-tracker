@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "c7a20e2478444b48a2fa6b734c847c32",
   "creationDate": "2022-04-08T14:29:56.814Z",
-  "lastModifiedDate": "2022-12-15T18:50:06.198Z",
+  "lastModifiedDate": "2023-01-04T14:53:41.129Z",
   "effectiveDate": "2022-10-20T13:00:00.000Z",
   "viewableDate": "2022-09-29T13:30:00.000Z",
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-01-04T22:57:08.151Z",
+      "status": "ACTIVE",
+      "referenceCount": 869,
+      "comment": ""
+    },
+    {
       "id": "1146",
       "name": "City Builder",
       "namespace": "epic",
@@ -54,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-01-04T00:51:58.717Z",
+      "updated": "2023-01-05T00:33:08.329Z",
       "status": "ACTIVE",
-      "referenceCount": 3271,
+      "referenceCount": 3275,
       "comment": null
     },
     {
@@ -78,9 +90,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-01-04T00:51:58.747Z",
+      "updated": "2023-01-05T00:33:08.350Z",
       "status": "ACTIVE",
-      "referenceCount": 7610,
+      "referenceCount": 7621,
       "comment": null
     }
   ],
@@ -92,6 +104,10 @@
     {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "null"
     }
   ],
   "keyImages": [
