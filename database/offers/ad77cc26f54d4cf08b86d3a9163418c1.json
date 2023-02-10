@@ -7,10 +7,10 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "f64d048330d949038324c62024d93b08",
-  "creationDate": "2022-12-09T20:45:50.333Z",
-  "lastModifiedDate": "2022-12-09T20:45:50.333Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2022-12-09T18:00:00.000Z",
+  "creationDate": "2022-05-12T22:15:57.670Z",
+  "lastModifiedDate": "2023-02-06T23:54:24.913Z",
+  "effectiveDate": "2023-02-16T08:00:00.000Z",
+  "viewableDate": "2023-02-06T08:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-uf2lr9jar96m9qssppdgmal3j6alyq",
@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-02-08T22:40:08.837Z",
+      "updated": "2023-02-09T17:41:27.179Z",
       "status": "ACTIVE",
-      "referenceCount": 1638,
+      "referenceCount": 1640,
       "comment": null
     },
     {
@@ -54,7 +54,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-02-09T00:59:43.922Z",
+      "updated": "2023-02-09T16:39:29.804Z",
       "status": "ACTIVE",
       "referenceCount": 936,
       "comment": null
@@ -66,7 +66,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-02-08T23:00:49.711Z",
+      "updated": "2023-02-09T20:17:34.689Z",
       "status": "ACTIVE",
       "referenceCount": 518,
       "comment": null
@@ -78,9 +78,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-08T23:06:07.403Z",
+      "updated": "2023-02-09T22:30:31.673Z",
       "status": "ACTIVE",
-      "referenceCount": 3443,
+      "referenceCount": 3452,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-02-09T21:06:29.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 7808,
       "comment": null
     }
   ],
@@ -91,10 +103,14 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
+      "value": "false"
+    },
+    {
+      "key": "isBlockchainUsed",
       "value": "false"
     }
   ],
