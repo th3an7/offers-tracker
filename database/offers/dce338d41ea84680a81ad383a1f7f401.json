@@ -5,10 +5,10 @@
   "description": "A challenging 3D puzzle game about music, machines, and dreams",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "kine/home",
-  "urlSlug": "rosegeneralaudience",
+  "productSlug": "kine",
+  "urlSlug": "kine",
   "creationDate": "2019-03-18T16:22:05.168Z",
-  "lastModifiedDate": "2023-02-07T09:10:34.607Z",
+  "lastModifiedDate": "2023-02-10T18:44:00.646Z",
   "effectiveDate": "2019-10-11T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-02-09T18:21:18.058Z",
-      "status": "ACTIVE",
-      "referenceCount": 260,
-      "comment": null
-    },
+    null,
     {
       "id": "1395",
       "name": "Narration",
@@ -57,23 +46,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-02-09T06:06:29.247Z",
+      "updated": "2023-02-10T03:09:58.936Z",
       "status": "ACTIVE",
       "referenceCount": 163,
       "comment": null
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-02-08T23:05:38.388Z",
-      "status": "ACTIVE",
-      "referenceCount": 1089,
-      "comment": ""
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -81,23 +59,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-09T22:30:31.673Z",
+      "updated": "2023-02-10T22:37:38.445Z",
       "status": "ACTIVE",
       "referenceCount": 3452,
       "comment": null
     },
-    {
-      "id": "25898",
-      "name": "February Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-01-19T20:08:31.658Z",
-      "updated": "2023-02-08T22:40:08.826Z",
-      "status": "ACTIVE",
-      "referenceCount": 1753,
-      "comment": ""
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -105,99 +72,43 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-02-09T17:16:08.029Z",
+      "updated": "2023-02-10T17:41:38.598Z",
       "status": "ACTIVE",
-      "referenceCount": 773,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-09T21:06:29.324Z",
-      "status": "ACTIVE",
-      "referenceCount": 7808,
+      "referenceCount": 774,
       "comment": null
     }
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    },
-    {
-      "key": "developerName",
-      "value": "Gwen Frey"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
-      "value": "kine/home"
+      "value": "kine"
     }
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Kine_Primary_Promo-2580x1450-dbae2448ed2180f3a70ddcb16a285d3a.jpg",
-      "md5": "dbae2448ed2180f3a70ddcb16a285d3a",
-      "size": 238561,
-      "uploadedDate": "2019-03-18T17:27:50.719Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png",
-      "md5": "d5d82b37397158bd63866bb9ad1c8adb",
-      "size": 19522,
-      "uploadedDate": "2019-08-14T19:43:13.175Z",
-      "width": 1181,
-      "height": 651
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg",
-      "md5": "d6654569827accce959ef0f9c97b0da8",
-      "size": 151630,
-      "uploadedDate": "2019-09-17T22:04:57.669Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg",
-      "md5": "d6654569827accce959ef0f9c97b0da8",
-      "size": 151630,
-      "uploadedDate": "2019-09-17T22:04:57.669Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/offer/rose/BrandedPortrait_1200x1600-edd893141f34b46b64c2b140778f7c6c",
+      "md5": "edd893141f34b46b64c2b140778f7c6c",
+      "size": 2300116,
+      "uploadedDate": "2023-02-10T18:30:37.264Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/rose/offer/Kine_branded_16x9-2560x1440-0d9b3a600780d040b3388e7c1c581c4a.jpg",
-      "md5": "0d9b3a600780d040b3388e7c1c581c4a",
-      "size": 1382623,
-      "uploadedDate": "2020-02-24T20:37:40.911Z",
+      "url": "https://cdn1.epicgames.com/offer/rose/BrandedLandscape_2560x1440-e617a391cf56f5d69c83262c3a5bfc8a",
+      "md5": "e617a391cf56f5d69c83262c3a5bfc8a",
+      "size": 4467273,
+      "uploadedDate": "2023-02-10T18:30:29.095Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rose/offer/EGS_PurchaseFlow_FullGame-1200x1600-c5f945e52b5ff337eabafd526c132b56.png",
-      "md5": "c5f945e52b5ff337eabafd526c132b56",
-      "size": 2107553,
-      "uploadedDate": "2020-08-27T14:08:37.232Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rose/offer/EGS_PurchaseFlow_FullGame-1200x1600-c5f945e52b5ff337eabafd526c132b56.png",
-      "md5": "c5f945e52b5ff337eabafd526c132b56",
-      "size": 2107553,
-      "uploadedDate": "2020-08-27T14:08:55.917Z",
+      "url": "https://cdn1.epicgames.com/offer/rose/BrandedPortrait_1200x1600-edd893141f34b46b64c2b140778f7c6c",
+      "md5": "edd893141f34b46b64c2b140778f7c6c",
+      "size": 2300116,
+      "uploadedDate": "2023-02-10T18:30:24.138Z",
       "width": 1200,
       "height": 1600
     }
