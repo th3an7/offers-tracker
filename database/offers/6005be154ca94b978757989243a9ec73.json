@@ -8,7 +8,7 @@
   "productSlug": "paladins",
   "urlSlug": "paladins",
   "creationDate": "2019-10-18T01:57:09.917Z",
-  "lastModifiedDate": "2023-02-07T09:17:51.940Z",
+  "lastModifiedDate": "2023-02-23T20:23:19.066Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -45,34 +45,10 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:06:21.330Z",
-      "updated": "2023-02-21T22:29:41.104Z",
+      "updated": "2023-02-23T20:23:19.077Z",
       "status": "ACTIVE",
       "referenceCount": 53,
       "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "21122",
-      "name": "Diverse Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-02-21T15:51:28.416Z",
-      "status": "ACTIVE",
-      "referenceCount": 235,
-      "comment": ""
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-02-22T17:28:56.089Z",
-      "status": "ACTIVE",
-      "referenceCount": 321,
-      "comment": ""
     },
     {
       "id": "1203",
@@ -81,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-02-22T20:39:18.085Z",
+      "updated": "2023-02-23T20:11:33.575Z",
       "status": "ACTIVE",
-      "referenceCount": 1466,
+      "referenceCount": 1469,
       "comment": null
     },
     {
@@ -93,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-02-22T20:39:18.074Z",
+      "updated": "2023-02-23T18:51:24.372Z",
       "status": "ACTIVE",
-      "referenceCount": 294,
+      "referenceCount": 310,
       "comment": null
     },
     {
@@ -105,21 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-02-22T17:28:56.107Z",
+      "updated": "2023-02-23T23:42:21.498Z",
       "status": "ACTIVE",
       "referenceCount": 295,
-      "comment": ""
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-02-22T17:28:56.113Z",
-      "status": "ACTIVE",
-      "referenceCount": 297,
       "comment": ""
     },
     {
@@ -129,9 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2023-02-22T13:33:33.060Z",
+      "updated": "2023-02-23T23:09:27.845Z",
       "status": "ACTIVE",
-      "referenceCount": 48,
+      "referenceCount": 49,
       "comment": ""
     },
     {
@@ -141,7 +105,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-02-22T17:28:56.119Z",
+      "updated": "2023-02-23T18:53:47.848Z",
       "status": "ACTIVE",
       "referenceCount": 309,
       "comment": ""
@@ -153,10 +117,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-02-22T12:03:52.579Z",
+      "updated": "2023-02-23T12:05:30.083Z",
       "status": "ACTIVE",
       "referenceCount": 520,
       "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2023-02-23T16:59:24.187Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": ""
     },
     {
       "id": "9547",
@@ -165,22 +141,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-22T22:52:57.568Z",
+      "updated": "2023-02-24T00:17:46.865Z",
       "status": "ACTIVE",
-      "referenceCount": 7858,
+      "referenceCount": 7865,
       "comment": null
-    },
-    {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-02-22T17:28:56.147Z",
-      "status": "ACTIVE",
-      "referenceCount": 299,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -203,31 +167,31 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/EGS_PortraitImage_860x1148_860x1148-b9b418bb9564d90a45d86ba3829f72f1",
+      "md5": "b9b418bb9564d90a45d86ba3829f72f1",
+      "size": 305880,
+      "uploadedDate": "2023-02-22T07:54:49.813Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins-Tyra-BoxArt-EGS-22_2560x1440-7807c6f505c78f2914eb2e6e45c27a35",
-      "md5": "7807c6f505c78f2914eb2e6e45c27a35",
-      "size": 422948,
-      "uploadedDate": "2022-11-07T12:32:02.665Z",
+      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/EGS_LandscapeImage_2560x1440_2560x1440-ecb64f8b93b8d6eada1b58804f934b77",
+      "md5": "ecb64f8b93b8d6eada1b58804f934b77",
+      "size": 355259,
+      "uploadedDate": "2023-02-22T07:54:52.384Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins-Tyra-Portrait-ProductImage-1200x1600_1200x1600-d76b4142feb4c14030d8910476c6a151",
-      "md5": "d76b4142feb4c14030d8910476c6a151",
-      "size": 469263,
-      "uploadedDate": "2022-11-07T12:32:13.573Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/Paladins-Tyra-Portrait-ProductImage-1200x1600_1200x1600-d76b4142feb4c14030d8910476c6a151",
-      "md5": "d76b4142feb4c14030d8910476c6a151",
-      "size": 469263,
-      "uploadedDate": "2022-11-07T12:32:17.439Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/offer/badb0ee71b474ed591ec43212547cfc8/EGS_PortraitImage_860x1148_860x1148-b9b418bb9564d90a45d86ba3829f72f1",
+      "md5": "b9b418bb9564d90a45d86ba3829f72f1",
+      "size": 305880,
+      "uploadedDate": "2023-02-22T07:54:54.778Z",
+      "width": 860,
+      "height": 1148
     }
   ],
   "items": [

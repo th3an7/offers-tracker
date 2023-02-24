@@ -8,7 +8,7 @@
   "productSlug": "the-division/home",
   "urlSlug": "cymricgeneralaudience",
   "creationDate": "2020-04-30T23:34:03.588Z",
-  "lastModifiedDate": "2023-02-10T19:06:57.663Z",
+  "lastModifiedDate": "2023-02-23T23:42:21.478Z",
   "effectiveDate": "2020-07-14T15:00:00.000Z",
   "viewableDate": "2020-07-14T15:00:00.000Z",
   "developer": null,
@@ -45,22 +45,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-02-22T18:59:45.796Z",
+      "updated": "2023-02-23T17:21:37.750Z",
       "status": "ACTIVE",
-      "referenceCount": 1659,
+      "referenceCount": 1660,
       "comment": null
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-02-22T17:28:56.089Z",
-      "status": "ACTIVE",
-      "referenceCount": 321,
-      "comment": ""
     },
     {
       "id": "23778",
@@ -73,66 +61,6 @@
       "status": "ACTIVE",
       "referenceCount": 22,
       "comment": ""
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-02-22T20:39:18.085Z",
-      "status": "ACTIVE",
-      "referenceCount": 1466,
-      "comment": null
-    },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-02-22T20:39:18.074Z",
-      "status": "ACTIVE",
-      "referenceCount": 294,
-      "comment": null
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-02-22T17:28:56.113Z",
-      "status": "ACTIVE",
-      "referenceCount": 297,
-      "comment": ""
-    },
-    {
-      "id": "21109",
-      "name": "Great Boss Battles",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T18:56:51.047Z",
-      "updated": "2023-02-12T14:50:15.288Z",
-      "status": "ACTIVE",
-      "referenceCount": 161,
-      "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-02-22T20:39:18.104Z",
-      "status": "ACTIVE",
-      "referenceCount": 942,
-      "comment": null
     },
     {
       "id": "21129",
@@ -159,6 +87,102 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-02-24T00:17:46.865Z",
+      "status": "ACTIVE",
+      "referenceCount": 7865,
+      "comment": null
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-02-23T12:05:29.979Z",
+      "status": "ACTIVE",
+      "referenceCount": 320,
+      "comment": ""
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-02-23T20:11:33.575Z",
+      "status": "ACTIVE",
+      "referenceCount": 1469,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2023-02-23T18:51:24.372Z",
+      "status": "ACTIVE",
+      "referenceCount": 310,
+      "comment": null
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2023-02-23T23:42:21.498Z",
+      "status": "ACTIVE",
+      "referenceCount": 295,
+      "comment": ""
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-02-23T21:53:38.444Z",
+      "status": "ACTIVE",
+      "referenceCount": 297,
+      "comment": ""
+    },
+    {
+      "id": "21109",
+      "name": "Great Boss Battles",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T18:56:51.047Z",
+      "updated": "2023-02-12T14:50:15.288Z",
+      "status": "ACTIVE",
+      "referenceCount": 161,
+      "comment": "From Ratings & Polls results."
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2023-02-23T15:47:55.801Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
       "id": "21147",
       "name": "Inclusive Character Customization",
       "namespace": null,
@@ -169,18 +193,6 @@
       "status": "ACTIVE",
       "referenceCount": 101,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-22T22:52:57.568Z",
-      "status": "ACTIVE",
-      "referenceCount": 7858,
-      "comment": null
     }
   ],
   "customAttributes": [
