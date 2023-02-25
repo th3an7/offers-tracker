@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "1b24f6b60ba7456ebbfccceb0027bbc2",
   "creationDate": "2022-01-03T22:02:55.482Z",
-  "lastModifiedDate": "2023-01-19T22:10:36.904Z",
+  "lastModifiedDate": "2023-02-24T14:00:47.752Z",
   "effectiveDate": "2022-01-25T18:00:00.000Z",
   "viewableDate": "2022-01-17T10:00:00.000Z",
   "developer": null,
@@ -36,15 +36,27 @@
   ],
   "tags": [
     {
+      "id": "26789",
+      "name": "End of Winter Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-02-23T10:34:05.463Z",
+      "updated": "2023-02-24T14:10:16.399Z",
+      "status": "ACTIVE",
+      "referenceCount": 2045,
+      "comment": ""
+    },
+    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-02-23T23:02:31.528Z",
+      "updated": "2023-02-24T18:01:33.745Z",
       "status": "ACTIVE",
-      "referenceCount": 1107,
+      "referenceCount": 1106,
       "comment": ""
     },
     {
@@ -54,21 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-02-23T15:47:55.801Z",
+      "updated": "2023-02-24T21:19:08.473Z",
       "status": "ACTIVE",
       "referenceCount": 943,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-02-23T20:11:33.586Z",
-      "status": "ACTIVE",
-      "referenceCount": 159,
       "comment": null
     },
     {
@@ -78,9 +78,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-24T00:17:46.909Z",
+      "updated": "2023-02-24T22:38:22.858Z",
       "status": "ACTIVE",
-      "referenceCount": 3508,
+      "referenceCount": 3515,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-02-24T21:19:08.515Z",
+      "status": "ACTIVE",
+      "referenceCount": 159,
       "comment": null
     },
     {
@@ -90,21 +102,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-24T00:17:46.865Z",
+      "updated": "2023-02-24T21:19:08.535Z",
       "status": "ACTIVE",
-      "referenceCount": 7865,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-02-24T00:15:11.332Z",
-      "status": "ACTIVE",
-      "referenceCount": 793,
+      "referenceCount": 7867,
       "comment": null
     },
     {
@@ -117,9 +117,21 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-02-23T20:11:33.646Z",
+      "updated": "2023-02-24T21:13:58.120Z",
       "status": "ACTIVE",
-      "referenceCount": 565,
+      "referenceCount": 566,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-02-24T09:02:46.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 793,
       "comment": null
     }
   ],
