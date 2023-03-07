@@ -42,13 +42,35 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-03-04T20:02:02.328Z",
+      "updated": "2023-03-06T23:53:31.113Z",
       "status": "ACTIVE",
-      "referenceCount": 1675,
+      "referenceCount": 1677,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-03-06T20:16:26.131Z",
+      "status": "ACTIVE",
+      "referenceCount": 1483,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-06T23:53:31.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 3546,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "Strategy",
@@ -56,12 +78,38 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-03-04T20:02:02.369Z",
+      "updated": "2023-03-06T23:03:14.075Z",
       "status": "ACTIVE",
       "referenceCount": 795,
       "comment": null
     },
-    null
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-06T23:53:31.098Z",
+      "status": "ACTIVE",
+      "referenceCount": 7903,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-03-06T23:03:16.293Z",
+      "status": "ACTIVE",
+      "referenceCount": 567,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
