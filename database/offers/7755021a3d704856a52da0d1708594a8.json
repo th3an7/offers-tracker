@@ -1,16 +1,16 @@
 {
   "id": "7755021a3d704856a52da0d1708594a8",
   "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
-  "title": "Disney Speedstorm",
-  "description": "Disney Speedstorm",
+  "title": "Disney Speedstorm - Standard Founder’s Pack",
+  "description": "Disney Speedstorm - Standard Founder’s Pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "iowa-prepurchase-audience",
+  "urlSlug": "disney-speedstorm-standard-founders-pack-prepurchase",
   "creationDate": "2021-08-02T17:46:03.034Z",
-  "lastModifiedDate": "2023-02-23T14:52:51.188Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "viewableDate": "2022-05-18T12:00:00.000Z",
+  "lastModifiedDate": "2023-03-16T15:55:38.388Z",
+  "effectiveDate": "2023-03-16T16:00:00.000Z",
+  "viewableDate": "2023-03-16T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
@@ -31,9 +31,6 @@
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
-    },
-    {
       "path": "applications"
     }
   ],
@@ -45,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-03-15T22:28:52.937Z",
+      "updated": "2023-03-16T20:33:42.924Z",
       "status": "ACTIVE",
-      "referenceCount": 844,
+      "referenceCount": 850,
       "comment": null
     },
     {
@@ -57,10 +54,34 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-03-15T22:54:36.261Z",
+      "updated": "2023-03-16T23:46:38.377Z",
       "status": "ACTIVE",
-      "referenceCount": 1503,
+      "referenceCount": 1522,
       "comment": null
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-03-16T18:01:04.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 1422,
+      "comment": ""
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-03-16T23:46:38.400Z",
+      "status": "ACTIVE",
+      "referenceCount": 29,
+      "comment": ""
     },
     {
       "id": "1370",
@@ -69,9 +90,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-16T00:47:20.181Z",
+      "updated": "2023-03-16T23:49:42.232Z",
       "status": "ACTIVE",
-      "referenceCount": 3614,
+      "referenceCount": 3629,
       "comment": null
     },
     {
@@ -81,9 +102,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-16T00:41:38.759Z",
+      "updated": "2023-03-17T00:03:38.907Z",
       "status": "ACTIVE",
-      "referenceCount": 7973,
+      "referenceCount": 7997,
       "comment": null
     },
     {
@@ -93,9 +114,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2023-03-15T15:43:36.548Z",
+      "updated": "2023-03-16T15:55:38.872Z",
       "status": "ACTIVE",
-      "referenceCount": 171,
+      "referenceCount": 176,
       "comment": null
     },
     {
@@ -105,60 +126,38 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-03-16T00:47:20.194Z",
+      "updated": "2023-03-16T23:49:42.285Z",
       "status": "ACTIVE",
-      "referenceCount": 1297,
+      "referenceCount": 1318,
       "comment": null
     }
   ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "Gameloft SE"
-    },
-    {
-      "key": "developerName",
-      "value": "Gameloft SE"
-    }
-  ],
+  "customAttributes": [],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S2_1200x1600-c6ea539d688767a32db247f951875ace1_1200x1600-c6ea539d688767a32db247f951875ace",
-      "md5": "c6ea539d688767a32db247f951875ace",
-      "size": 365086,
-      "uploadedDate": "2022-09-09T16:46:57.459Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S1_2560x1440-9e0165dff7337fb0892391918e8504cd1_2560x1440-9e0165dff7337fb0892391918e8504cd",
-      "md5": "9e0165dff7337fb0892391918e8504cd",
-      "size": 737469,
-      "uploadedDate": "2022-09-09T16:47:00.668Z",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstormStandardFoundersPack_Gameloft_Editions_S1_2560x1440-06517fb3d370796b60e6b29ec08d09f9",
+      "md5": "06517fb3d370796b60e6b29ec08d09f9",
+      "size": 952550,
+      "uploadedDate": "2023-03-15T11:12:27.167Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S2_1200x1600-c6ea539d688767a32db247f951875ace1_1200x1600-c6ea539d688767a32db247f951875ace",
-      "md5": "c6ea539d688767a32db247f951875ace",
-      "size": 365086,
-      "uploadedDate": "2022-09-09T16:47:03.773Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstormStandardFoundersPack_Gameloft_Editions_S2_1200x1600-9364b78850be151f925118dca4622a36",
+      "md5": "9364b78850be151f925118dca4622a36",
+      "size": 1020889,
+      "uploadedDate": "2023-03-15T11:12:30.103Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S2_1200x1600-c6ea539d688767a32db247f951875ace1_1200x1600-c6ea539d688767a32db247f951875ace",
-      "md5": "c6ea539d688767a32db247f951875ace",
-      "size": 365086,
-      "uploadedDate": "2022-09-09T16:47:06.615Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstormStandardFoundersPack_Gameloft_Editions_S2_1200x1600-9364b78850be151f925118dca4622a36",
+      "md5": "9364b78850be151f925118dca4622a36",
+      "size": 1020889,
+      "uploadedDate": "2023-03-15T11:12:33.510Z",
       "width": 1200,
       "height": 1600
     }
