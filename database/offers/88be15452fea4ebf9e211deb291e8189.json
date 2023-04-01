@@ -8,7 +8,7 @@
   "productSlug": "watch-dogs/home",
   "urlSlug": "jaspergeneralaudience",
   "creationDate": "2020-02-13T19:28:26.380Z",
-  "lastModifiedDate": "2023-03-17T09:12:39.498Z",
+  "lastModifiedDate": "2023-03-31T18:06:39.365Z",
   "effectiveDate": "2020-03-19T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-03-30T19:08:44.613Z",
+      "updated": "2023-03-31T21:12:51.312Z",
       "status": "ACTIVE",
-      "referenceCount": 1747,
+      "referenceCount": 1751,
       "comment": null
     },
     {
@@ -69,9 +69,9 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-03-30T14:17:54.553Z",
+      "updated": "2023-03-31T20:37:07.625Z",
       "status": "ACTIVE",
-      "referenceCount": 277,
+      "referenceCount": 278,
       "comment": null
     },
     {
@@ -81,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2023-03-29T16:01:30.737Z",
+      "updated": "2023-03-31T12:10:07.141Z",
       "status": "ACTIVE",
-      "referenceCount": 51,
+      "referenceCount": 52,
       "comment": ""
     },
     {
@@ -105,9 +105,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-31T00:35:24.581Z",
+      "updated": "2023-03-31T23:15:30.427Z",
       "status": "ACTIVE",
-      "referenceCount": 8147,
+      "referenceCount": 8152,
       "comment": null
     },
     {
@@ -117,7 +117,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-03-30T16:30:33.461Z",
+      "updated": "2023-03-31T19:39:12.015Z",
       "status": "ACTIVE",
       "referenceCount": 875,
       "comment": null
@@ -129,9 +129,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-03-30T14:17:54.570Z",
+      "updated": "2023-03-31T20:53:59.593Z",
       "status": "ACTIVE",
-      "referenceCount": 321,
+      "referenceCount": 322,
       "comment": ""
     },
     {
@@ -177,9 +177,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-31T00:35:24.552Z",
+      "updated": "2023-03-31T23:15:30.410Z",
       "status": "ACTIVE",
-      "referenceCount": 3807,
+      "referenceCount": 3826,
       "comment": null
     },
     {
@@ -189,9 +189,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-03-30T22:51:47.019Z",
+      "updated": "2023-03-31T21:15:15.528Z",
       "status": "ACTIVE",
-      "referenceCount": 1268,
+      "referenceCount": 1276,
       "comment": null
     },
     {
@@ -201,9 +201,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-03-30T16:55:46.010Z",
+      "updated": "2023-03-31T08:12:01.984Z",
       "status": "ACTIVE",
-      "referenceCount": 301,
+      "referenceCount": 302,
       "comment": ""
     },
     {
@@ -213,7 +213,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:03:45.609Z",
-      "updated": "2023-03-30T14:17:54.662Z",
+      "updated": "2023-04-01T00:19:44.269Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": "From Ratings & Polls results."
@@ -235,6 +235,15 @@
   ],
   "keyImages": [
     {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/offer/ecebf45065bc4993abfe0e84c40ff18e/WDOG_StorePortrait_1200x1600_1200x1600-784cb50255584d5f17da73f3f8b62fe0",
+      "md5": "784cb50255584d5f17da73f3f8b62fe0",
+      "size": 705097,
+      "uploadedDate": "2023-03-31T18:06:27.462Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Landscape_2560x1440-2560x1440-93e9e269fcee8681c8ded689197ebc03.jpg",
       "md5": "93e9e269fcee8681c8ded689197ebc03",
@@ -244,24 +253,6 @@
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Portrait_1280x1420-1280x1420-7678e6c2b81692027935c7c2b685438d.jpg",
-      "md5": "7678e6c2b81692027935c7c2b685438d",
-      "size": 487998,
-      "uploadedDate": "2020-03-10T17:01:00.337Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Portrait_1280x1420-1280x1420-7678e6c2b81692027935c7c2b685438d.jpg",
-      "md5": "7678e6c2b81692027935c7c2b685438d",
-      "size": 487998,
-      "uploadedDate": "2020-03-10T17:01:00.337Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
       "type": "ESRB",
       "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg",
       "md5": "2e363bffdd57ed8fe6f5cb493e1ac58e",
@@ -269,6 +260,15 @@
       "uploadedDate": "2020-03-10T03:34:17.023Z",
       "width": 398,
       "height": 190
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/ecebf45065bc4993abfe0e84c40ff18e/WDOG_StorePortrait_1200x1600_1200x1600-784cb50255584d5f17da73f3f8b62fe0",
+      "md5": "784cb50255584d5f17da73f3f8b62fe0",
+      "size": 705097,
+      "uploadedDate": "2023-03-31T18:06:31.011Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
@@ -281,12 +281,12 @@
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_STD_Store_Landscape_2580x1450-2580x1450-3fd07dcc02e65aca288d794c177c7512.jpg",
-      "md5": "3fd07dcc02e65aca288d794c177c7512",
-      "size": 485271,
-      "uploadedDate": "2020-03-18T22:07:40.760Z",
-      "width": 2580,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/offer/ecebf45065bc4993abfe0e84c40ff18e/WDOG_StorePortrait_1200x1600_1200x1600-784cb50255584d5f17da73f3f8b62fe0",
+      "md5": "784cb50255584d5f17da73f3f8b62fe0",
+      "size": 705097,
+      "uploadedDate": "2023-03-31T18:06:34.283Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
