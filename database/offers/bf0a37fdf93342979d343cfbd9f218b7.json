@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "c6d9f9f66df54f7d99a2bc6545803c8c",
   "creationDate": "2021-11-17T12:59:44.399Z",
-  "lastModifiedDate": "2023-04-06T08:09:57.185Z",
+  "lastModifiedDate": "2023-04-13T21:28:07.950Z",
   "effectiveDate": "2022-06-02T13:00:00.000Z",
   "viewableDate": "2022-05-11T22:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-04-12T21:21:15.045Z",
+      "updated": "2023-04-13T23:46:13.968Z",
       "status": "ACTIVE",
       "referenceCount": 1186,
       "comment": ""
@@ -54,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-04-12T21:28:44.930Z",
+      "updated": "2023-04-13T23:46:13.989Z",
       "status": "ACTIVE",
-      "referenceCount": 400,
+      "referenceCount": 405,
       "comment": null
     },
     {
@@ -66,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-13T00:46:22.089Z",
+      "updated": "2023-04-14T00:45:22.372Z",
       "status": "ACTIVE",
-      "referenceCount": 3914,
+      "referenceCount": 3930,
       "comment": null
     },
     {
@@ -78,10 +78,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-13T00:46:22.109Z",
+      "updated": "2023-04-14T00:45:22.391Z",
       "status": "ACTIVE",
-      "referenceCount": 8258,
+      "referenceCount": 8277,
       "comment": null
+    },
+    {
+      "id": "20475",
+      "name": "Plug in Digital Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-04-05T16:31:59.501Z",
+      "updated": "2023-04-13T21:40:16.557Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": ""
     }
   ],
   "customAttributes": [

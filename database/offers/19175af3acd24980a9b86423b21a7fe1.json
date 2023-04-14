@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a58521cc87494dc38ca2621a88e91dba",
   "creationDate": "2021-10-12T19:10:51.324Z",
-  "lastModifiedDate": "2023-04-06T08:09:55.402Z",
+  "lastModifiedDate": "2023-04-13T21:34:59.642Z",
   "effectiveDate": "2022-10-05T15:00:00.000Z",
   "viewableDate": "2022-01-28T00:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-04-12T22:51:06.245Z",
+      "updated": "2023-04-13T20:19:19.859Z",
       "status": "ACTIVE",
-      "referenceCount": 1784,
+      "referenceCount": 1785,
       "comment": null
     },
     {
@@ -54,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-13T00:46:22.089Z",
+      "updated": "2023-04-14T00:45:22.372Z",
       "status": "ACTIVE",
-      "referenceCount": 3914,
+      "referenceCount": 3930,
       "comment": null
     },
     {
@@ -66,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-04-12T18:30:59.246Z",
+      "updated": "2023-04-13T17:20:54.496Z",
       "status": "ACTIVE",
-      "referenceCount": 162,
+      "referenceCount": 163,
       "comment": null
     },
     {
@@ -78,10 +78,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-13T00:46:22.109Z",
+      "updated": "2023-04-14T00:45:22.391Z",
       "status": "ACTIVE",
-      "referenceCount": 8258,
+      "referenceCount": 8277,
       "comment": null
+    },
+    {
+      "id": "20475",
+      "name": "Plug in Digital Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-04-05T16:31:59.501Z",
+      "updated": "2023-04-13T21:40:16.557Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": ""
     }
   ],
   "customAttributes": [

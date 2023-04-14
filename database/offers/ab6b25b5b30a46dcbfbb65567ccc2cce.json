@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "7e385246feb84a678cc6853aaebf6ca7",
   "creationDate": "2022-04-28T12:47:50.229Z",
-  "lastModifiedDate": "2023-03-05T05:50:18.230Z",
+  "lastModifiedDate": "2023-04-13T21:18:43.209Z",
   "effectiveDate": "2022-05-19T15:00:00.000Z",
   "viewableDate": "2022-05-13T09:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-13T00:46:22.089Z",
+      "updated": "2023-04-14T00:45:22.372Z",
       "status": "ACTIVE",
-      "referenceCount": 3914,
+      "referenceCount": 3930,
       "comment": null
     },
     {
@@ -54,10 +54,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-13T00:46:22.109Z",
+      "updated": "2023-04-14T00:45:22.391Z",
       "status": "ACTIVE",
-      "referenceCount": 8258,
+      "referenceCount": 8277,
       "comment": null
+    },
+    {
+      "id": "20475",
+      "name": "Plug in Digital Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-04-05T16:31:59.501Z",
+      "updated": "2023-04-13T21:40:16.557Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": ""
     },
     {
       "id": "1117",
@@ -66,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-04-12T22:51:06.259Z",
+      "updated": "2023-04-13T22:00:23.930Z",
       "status": "ACTIVE",
-      "referenceCount": 1291,
+      "referenceCount": 1293,
       "comment": null
     }
   ],
