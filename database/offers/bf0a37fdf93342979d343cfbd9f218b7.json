@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "c6d9f9f66df54f7d99a2bc6545803c8c",
   "creationDate": "2021-11-17T12:59:44.399Z",
-  "lastModifiedDate": "2023-04-13T21:28:07.950Z",
+  "lastModifiedDate": "2023-04-05T08:48:47.544Z",
   "effectiveDate": "2022-06-02T13:00:00.000Z",
   "viewableDate": "2022-05-11T22:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-04-16T23:32:06.393Z",
+      "updated": "2023-04-18T00:46:30.096Z",
       "status": "ACTIVE",
-      "referenceCount": 1191,
+      "referenceCount": 1195,
       "comment": ""
     },
     {
@@ -54,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-04-16T14:34:21.822Z",
+      "updated": "2023-04-17T21:49:24.726Z",
       "status": "ACTIVE",
-      "referenceCount": 407,
+      "referenceCount": 412,
       "comment": null
     },
     {
@@ -66,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-16T23:47:24.860Z",
+      "updated": "2023-04-18T00:46:30.109Z",
       "status": "ACTIVE",
-      "referenceCount": 3942,
+      "referenceCount": 3953,
       "comment": null
     },
     {
@@ -78,22 +78,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-16T23:47:24.881Z",
+      "updated": "2023-04-18T00:46:30.128Z",
       "status": "ACTIVE",
-      "referenceCount": 8289,
+      "referenceCount": 8299,
       "comment": null
-    },
-    {
-      "id": "20475",
-      "name": "Plug in Digital Publisher Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-04-05T16:31:59.501Z",
-      "updated": "2023-04-13T21:40:16.557Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -103,6 +91,10 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
+      "value": "false"
+    },
+    {
+      "key": "isBlockchainUsed",
       "value": "false"
     }
   ],
