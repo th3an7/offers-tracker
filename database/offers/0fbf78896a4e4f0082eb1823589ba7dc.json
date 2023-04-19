@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "59a7e75cdb3747f193345198f290e091",
   "creationDate": "2021-11-04T22:39:29.295Z",
-  "lastModifiedDate": "2022-08-31T20:49:53.939Z",
+  "lastModifiedDate": "2023-03-13T14:52:16.223Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2022-01-13T15:00:00.000Z",
   "developer": null,
@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-04-18T00:56:24.976Z",
+      "updated": "2023-04-18T21:24:32.356Z",
       "status": "ACTIVE",
       "referenceCount": 243,
       "comment": null
@@ -54,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-18T00:46:30.109Z",
+      "updated": "2023-04-18T23:30:08.575Z",
       "status": "ACTIVE",
-      "referenceCount": 3953,
+      "referenceCount": 3963,
       "comment": null
     },
     {
@@ -66,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-18T00:46:30.128Z",
+      "updated": "2023-04-19T00:53:06.675Z",
       "status": "ACTIVE",
-      "referenceCount": 8299,
+      "referenceCount": 8316,
       "comment": null
     },
     {
@@ -78,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-04-18T00:25:07.664Z",
+      "updated": "2023-04-18T22:23:02.945Z",
       "status": "ACTIVE",
-      "referenceCount": 1299,
+      "referenceCount": 1302,
       "comment": null
     },
     {
@@ -90,9 +90,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-04-18T00:46:30.147Z",
+      "updated": "2023-04-18T21:43:39.882Z",
       "status": "ACTIVE",
-      "referenceCount": 922,
+      "referenceCount": 924,
       "comment": null
     }
   ],
@@ -104,33 +104,37 @@
     {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/883ca52f7d514f9fa29f412936600c9e/download-puzzles-for-clef-offer-1ldus.png",
-      "md5": "bc6e05c690e256892a6fa57ed4620ea5",
-      "size": 3816654,
-      "uploadedDate": "2021-12-03T16:01:51.630Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/883ca52f7d514f9fa29f412936600c9e/puzzles-for-clef-offer-1xiy1.png",
-      "md5": "29e3f023e005707dacfe250d493d46af",
-      "size": 2182530,
-      "uploadedDate": "2021-12-03T17:32:07.050Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/883ca52f7d514f9fa29f412936600c9e/puzzles-for-clef-x2rjo.png",
+      "md5": "46a40bcf67159a3ca6fb1387b8c51048",
+      "size": 2128284,
+      "uploadedDate": "2023-03-13T06:54:37.657Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/883ca52f7d514f9fa29f412936600c9e/puzzles-for-clef-1fl3a.png",
+      "md5": "a177d468be5e51f2e54c5108816e3092",
+      "size": 963867,
+      "uploadedDate": "2023-03-13T06:54:49.167Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/883ca52f7d514f9fa29f412936600c9e/download-puzzles-for-clef-offer-1ldus.png",
-      "md5": "bc6e05c690e256892a6fa57ed4620ea5",
-      "size": 3816654,
-      "uploadedDate": "2021-12-03T16:01:51.630Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/883ca52f7d514f9fa29f412936600c9e/puzzles-for-clef-1fl3a.png",
+      "md5": "a177d468be5e51f2e54c5108816e3092",
+      "size": 963867,
+      "uploadedDate": "2023-03-13T06:54:49.167Z",
       "width": 1200,
       "height": 1600
     }
