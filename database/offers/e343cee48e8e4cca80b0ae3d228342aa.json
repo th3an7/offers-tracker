@@ -8,7 +8,7 @@
   "productSlug": "rogue-legacy-2",
   "urlSlug": "rogue-legacy-2",
   "creationDate": "2020-06-23T12:42:06.065Z",
-  "lastModifiedDate": "2023-04-20T15:04:04.647Z",
+  "lastModifiedDate": "2023-04-28T15:48:38.459Z",
   "effectiveDate": "2020-08-18T17:00:00.000Z",
   "viewableDate": "2020-07-18T17:00:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -39,28 +39,16 @@
   ],
   "tags": [
     {
-      "id": "21122",
-      "name": "Diverse Characters",
+      "id": "14944",
+      "name": "The Showcase Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-04-27T21:06:12.277Z",
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2023-04-28T15:48:38.496Z",
       "status": "ACTIVE",
-      "referenceCount": 245,
+      "referenceCount": 4,
       "comment": ""
-    },
-    {
-      "id": "1188",
-      "name": "RELAXING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-04-27T18:23:17.211Z",
-      "status": "ACTIVE",
-      "referenceCount": 291,
-      "comment": null
     },
     {
       "id": "21894",
@@ -69,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-04-27T22:00:35.384Z",
+      "updated": "2023-04-28T22:04:51.483Z",
       "status": "ACTIVE",
       "referenceCount": 1181,
       "comment": ""
@@ -81,21 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-04-27T22:00:35.391Z",
+      "updated": "2023-04-28T16:34:42.576Z",
       "status": "ACTIVE",
-      "referenceCount": 1687,
-      "comment": ""
-    },
-    {
-      "id": "21129",
-      "name": "Challenging Combat",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:19:41.315Z",
-      "updated": "2023-04-27T20:12:59.918Z",
-      "status": "ACTIVE",
-      "referenceCount": 129,
+      "referenceCount": 1701,
       "comment": ""
     },
     {
@@ -105,10 +81,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-28T00:12:35.071Z",
+      "updated": "2023-04-28T20:55:37.669Z",
       "status": "ACTIVE",
-      "referenceCount": 8516,
+      "referenceCount": 8518,
       "comment": null
+    },
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2023-04-28T15:48:38.562Z",
+      "status": "ACTIVE",
+      "referenceCount": 7,
+      "comment": ""
     },
     {
       "id": "9549",
@@ -117,9 +105,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-04-28T00:12:35.103Z",
+      "updated": "2023-04-28T22:02:14.408Z",
       "status": "ACTIVE",
-      "referenceCount": 1498,
+      "referenceCount": 1499,
       "comment": null
     },
     {
@@ -129,72 +117,71 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-04-27T19:33:30.366Z",
+      "updated": "2023-04-28T22:00:35.441Z",
       "status": "ACTIVE",
-      "referenceCount": 959,
+      "referenceCount": 961,
       "comment": null
     },
     {
-      "id": "21136",
-      "name": "Playful Visuals",
+      "id": "15375",
+      "name": "Spring Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:27:25.710Z",
-      "updated": "2023-04-23T14:37:04.722Z",
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-04-28T15:48:38.541Z",
       "status": "ACTIVE",
-      "referenceCount": 27,
+      "referenceCount": 125,
       "comment": ""
     },
     {
-      "id": "21138",
-      "name": "Recommend this Game",
+      "id": "18607",
+      "name": "Black Friday Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-04-27T18:23:17.153Z",
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2023-04-28T15:48:38.511Z",
       "status": "ACTIVE",
-      "referenceCount": 325,
+      "referenceCount": 18,
       "comment": ""
     },
     {
-      "id": "21139",
-      "name": "Amazing Characters",
+      "id": "16979",
+      "name": "Summer Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-04-27T22:16:24.403Z",
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2023-04-28T15:48:38.504Z",
       "status": "ACTIVE",
-      "referenceCount": 303,
+      "referenceCount": 26,
       "comment": ""
     },
     {
-      "id": "21140",
-      "name": "Amazing Storytelling",
+      "id": "17493",
+      "name": "September Savings",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-04-27T18:23:17.229Z",
+      "created": "2021-08-25T14:44:49.018Z",
+      "updated": "2023-04-28T15:48:38.584Z",
       "status": "ACTIVE",
-      "referenceCount": 302,
+      "referenceCount": 19,
       "comment": ""
     },
     {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-04-27T22:42:18.880Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-04-28T23:10:24.936Z",
       "status": "ACTIVE",
-      "referenceCount": 315,
-      "comment": ""
+      "referenceCount": 4065,
+      "comment": null
     },
-    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -202,22 +189,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-04-27T17:54:14.873Z",
+      "updated": "2023-04-28T15:48:38.653Z",
       "status": "ACTIVE",
       "referenceCount": 171,
       "comment": null
-    },
-    {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-04-27T19:52:23.819Z",
-      "status": "ACTIVE",
-      "referenceCount": 305,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -240,58 +215,31 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/RL2tall_1200x1600-7ce135f08c7d29b93e77f6dd853e72ae",
-      "md5": "7ce135f08c7d29b93e77f6dd853e72ae",
-      "size": 275253,
-      "uploadedDate": "2022-11-29T00:44:21.192Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/EGS_RogueLegacy2_CellarDoorGames_S1_2560x1440-ef7a194aa6599659475289bc2fa9bfd0",
+      "md5": "ef7a194aa6599659475289bc2fa9bfd0",
+      "size": 981576,
+      "uploadedDate": "2023-04-27T12:44:37.266Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-849995ee49ae434171bf746d71a26415",
+      "md5": "849995ee49ae434171bf746d71a26415",
+      "size": 979504,
+      "uploadedDate": "2023-04-27T12:44:43.665Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/RL2tall_1200x1600-7ce135f08c7d29b93e77f6dd853e72ae",
-      "md5": "7ce135f08c7d29b93e77f6dd853e72ae",
-      "size": 275253,
-      "uploadedDate": "2022-11-29T00:44:24.067Z",
+      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/EGS_RogueLegacy2_CellarDoorGames_S2_1200x1600-849995ee49ae434171bf746d71a26415",
+      "md5": "849995ee49ae434171bf746d71a26415",
+      "size": 979504,
+      "uploadedDate": "2023-04-27T12:44:51.062Z",
       "width": 1200,
       "height": 1600
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/RL2tall_1200x1600-7ce135f08c7d29b93e77f6dd853e72ae",
-      "md5": "7ce135f08c7d29b93e77f6dd853e72ae",
-      "size": 275253,
-      "uploadedDate": "2022-11-29T00:44:26.831Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/RL2wide_2560x1440-c4a1a4bd16f3b4a05e766b81ee4a1232",
-      "md5": "c4a1a4bd16f3b4a05e766b81ee4a1232",
-      "size": 448461,
-      "uploadedDate": "2022-11-29T00:44:32.990Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/RL2tall_1200x1600-7ce135f08c7d29b93e77f6dd853e72ae",
-      "md5": "7ce135f08c7d29b93e77f6dd853e72ae",
-      "size": 275253,
-      "uploadedDate": "2022-11-29T00:44:35.767Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/4966d5da285c4f2c876937844b0e23ee/RL2wide_2560x1440-c4a1a4bd16f3b4a05e766b81ee4a1232",
-      "md5": "c4a1a4bd16f3b4a05e766b81ee4a1232",
-      "size": 448461,
-      "uploadedDate": "2022-11-29T00:44:39.018Z",
-      "width": 2560,
-      "height": 1440
     }
   ],
   "items": [
