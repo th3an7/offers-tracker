@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "dead-cells--soundtrack",
   "creationDate": "2020-10-30T12:23:15.274Z",
-  "lastModifiedDate": "2021-01-26T16:58:33.240Z",
+  "lastModifiedDate": "2023-05-15T15:31:37.585Z",
   "effectiveDate": "2020-11-11T14:00:00.000Z",
   "viewableDate": "2020-11-11T13:55:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "addons/durable"
     },
     {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
       "path": "applications"
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-15T00:06:20.368Z",
+      "updated": "2023-05-16T00:45:31.181Z",
       "status": "ACTIVE",
-      "referenceCount": 4184,
+      "referenceCount": 4200,
       "comment": null
     },
     {
@@ -57,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-05-13T13:46:03.447Z",
+      "updated": "2023-05-15T12:55:41.165Z",
       "status": "ACTIVE",
-      "referenceCount": 179,
+      "referenceCount": 180,
       "comment": null
     },
     {
@@ -69,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-15T00:06:20.388Z",
+      "updated": "2023-05-16T00:45:31.202Z",
       "status": "ACTIVE",
-      "referenceCount": 8645,
+      "referenceCount": 8657,
       "comment": null
     },
     {
@@ -93,35 +93,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-05-15T00:06:20.415Z",
+      "updated": "2023-05-15T20:41:45.234Z",
       "status": "ACTIVE",
-      "referenceCount": 988,
+      "referenceCount": 991,
       "comment": null
     }
   ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "Motion Twin"
-    },
-    {
-      "key": "developerName",
-      "value": "Motion Twin"
-    }
-  ],
+  "customAttributes": [],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S1-2560x1440-2e20893d2c7e81e051ba1d65ca418fcb.jpg",
-      "md5": "2e20893d2c7e81e051ba1d65ca418fcb",
-      "size": 978672,
-      "uploadedDate": "2020-11-05T13:04:38.778Z",
-      "width": 2560,
-      "height": 1440
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S2-1200x1600-60838e14ea9b4dc55a5e253d7909af14.jpg",
+      "md5": "60838e14ea9b4dc55a5e253d7909af14",
+      "size": 892069,
+      "uploadedDate": "2020-11-05T13:05:14.051Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageTall",
@@ -133,22 +120,22 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
+      "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S1-2560x1440-2e20893d2c7e81e051ba1d65ca418fcb.jpg",
       "md5": "2e20893d2c7e81e051ba1d65ca418fcb",
       "size": 978672,
-      "uploadedDate": "2020-11-05T13:04:53.212Z",
+      "uploadedDate": "2020-11-05T13:04:38.778Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S2-1200x1600-60838e14ea9b4dc55a5e253d7909af14.jpg",
-      "md5": "60838e14ea9b4dc55a5e253d7909af14",
-      "size": 892069,
-      "uploadedDate": "2020-11-05T13:05:00.054Z",
-      "width": 1200,
-      "height": 1600
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/1368a7f14c3344bbaededbae528fafed/EGS_DeadCellsTheQueenandtheSea_MotionTwin_DLC_IC1_200x63-ec38749819fb8b6973b2d09df112b68c_200x63-ec38749819fb8b6973b2d09df112b68c",
+      "md5": "ec38749819fb8b6973b2d09df112b68c",
+      "size": 39041,
+      "uploadedDate": "2023-05-15T15:31:33.098Z",
+      "width": 200,
+      "height": 63
     },
     {
       "type": "Thumbnail",
@@ -156,15 +143,6 @@
       "md5": "60838e14ea9b4dc55a5e253d7909af14",
       "size": 892069,
       "uploadedDate": "2020-11-05T13:05:07.214Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsSoundtrack_YoannLaulan_DigitalExtras_S2-1200x1600-60838e14ea9b4dc55a5e253d7909af14.jpg",
-      "md5": "60838e14ea9b4dc55a5e253d7909af14",
-      "size": 892069,
-      "uploadedDate": "2020-11-05T13:05:14.051Z",
       "width": 1200,
       "height": 1600
     }
