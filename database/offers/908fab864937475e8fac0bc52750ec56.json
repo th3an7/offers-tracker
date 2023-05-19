@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-05-18T23:54:45.931Z",
+      "status": "ACTIVE",
+      "referenceCount": 1861,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "Shooter",
@@ -43,12 +54,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-05-17T20:46:05.378Z",
+      "updated": "2023-05-18T23:43:46.323Z",
       "status": "ACTIVE",
-      "referenceCount": 607,
+      "referenceCount": 609,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-05-19T00:38:32.262Z",
+      "status": "ACTIVE",
+      "referenceCount": 4232,
+      "comment": null
+    },
     {
       "id": "1263",
       "name": "Indie",
@@ -56,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-05-18T00:28:27.649Z",
+      "updated": "2023-05-18T22:50:29.404Z",
       "status": "ACTIVE",
-      "referenceCount": 997,
+      "referenceCount": 998,
       "comment": null
     }
   ],

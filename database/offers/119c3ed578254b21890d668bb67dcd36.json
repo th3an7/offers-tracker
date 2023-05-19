@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-05-18T23:54:45.931Z",
+      "status": "ACTIVE",
+      "referenceCount": 1861,
+      "comment": null
+    },
     {
       "id": "1170",
       "name": "Tower Defense",
@@ -43,13 +54,35 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:43.018Z",
-      "updated": "2023-05-16T12:16:33.038Z",
+      "updated": "2023-05-18T05:28:36.735Z",
       "status": "ACTIVE",
-      "referenceCount": 23,
+      "referenceCount": 22,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-05-19T00:42:09.283Z",
+      "status": "ACTIVE",
+      "referenceCount": 1656,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2023-05-19T00:38:32.245Z",
+      "status": "ACTIVE",
+      "referenceCount": 378,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -57,12 +90,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-05-17T19:24:42.785Z",
+      "updated": "2023-05-18T20:15:33.103Z",
       "status": "ACTIVE",
-      "referenceCount": 1033,
+      "referenceCount": 1042,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-05-19T00:38:32.262Z",
+      "status": "ACTIVE",
+      "referenceCount": 4232,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -70,9 +114,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-18T00:46:54.580Z",
+      "updated": "2023-05-19T00:38:32.283Z",
       "status": "ACTIVE",
-      "referenceCount": 8696,
+      "referenceCount": 8716,
       "comment": null
     },
     {
@@ -82,7 +126,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2023-05-17T14:06:59.223Z",
+      "updated": "2023-05-18T14:28:33.556Z",
       "status": "ACTIVE",
       "referenceCount": 23,
       "comment": ""

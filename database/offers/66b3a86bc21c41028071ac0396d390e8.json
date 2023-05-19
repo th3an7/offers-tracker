@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-05-18T23:54:45.931Z",
+      "status": "ACTIVE",
+      "referenceCount": 1861,
+      "comment": null
+    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -43,14 +54,47 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-05-17T19:14:51.132Z",
+      "updated": "2023-05-19T00:42:09.278Z",
       "status": "ACTIVE",
-      "referenceCount": 938,
+      "referenceCount": 943,
       "comment": null
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-05-19T00:42:09.283Z",
+      "status": "ACTIVE",
+      "referenceCount": 1656,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-05-19T00:38:32.262Z",
+      "status": "ACTIVE",
+      "referenceCount": 4232,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "Rogue-Lite",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2023-05-18T18:38:02.923Z",
+      "status": "ACTIVE",
+      "referenceCount": 183,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -58,9 +102,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-18T00:46:54.580Z",
+      "updated": "2023-05-19T00:38:32.283Z",
       "status": "ACTIVE",
-      "referenceCount": 8696,
+      "referenceCount": 8716,
       "comment": null
     }
   ],
