@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "ba9fdb7b5b44453ba8e126a537a2c671",
   "creationDate": "2022-01-14T15:55:17.314Z",
-  "lastModifiedDate": "2023-05-11T12:47:25.060Z",
+  "lastModifiedDate": "2023-05-25T14:21:30.694Z",
   "effectiveDate": "2022-09-12T22:00:00.000Z",
   "viewableDate": "2022-09-12T22:00:00.000Z",
   "developer": null,
@@ -42,23 +42,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-05-25T00:00:02.075Z",
+      "updated": "2023-05-26T00:46:56.287Z",
       "status": "ACTIVE",
-      "referenceCount": 1888,
+      "referenceCount": 1896,
       "comment": null
     },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-05-24T23:07:20.829Z",
-      "status": "ACTIVE",
-      "referenceCount": 1684,
-      "comment": null
-    },
+    null,
     {
       "id": "21894",
       "name": "Cloud Saves",
@@ -66,9 +55,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-05-24T22:11:54.427Z",
+      "updated": "2023-05-25T22:33:45.762Z",
       "status": "ACTIVE",
-      "referenceCount": 1252,
+      "referenceCount": 1253,
       "comment": ""
     },
     {
@@ -78,22 +67,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-25T00:48:44.643Z",
+      "updated": "2023-05-26T00:46:56.296Z",
       "status": "ACTIVE",
-      "referenceCount": 4295,
+      "referenceCount": 4316,
       "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2023-05-24T07:58:52.986Z",
-      "status": "ACTIVE",
-      "referenceCount": 2575,
-      "comment": ""
     },
     {
       "id": "9547",
@@ -102,9 +79,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-25T00:48:44.662Z",
+      "updated": "2023-05-26T00:48:13.599Z",
       "status": "ACTIVE",
-      "referenceCount": 8795,
+      "referenceCount": 8840,
       "comment": null
     }
   ],
@@ -116,6 +93,10 @@
     {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
