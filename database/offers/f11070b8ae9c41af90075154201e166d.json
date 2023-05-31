@@ -1,16 +1,16 @@
 {
   "id": "f11070b8ae9c41af90075154201e166d",
   "namespace": "e49aaa31c1324e398e0b1029a0c6d390",
-  "title": "GrunterGeneralAudience",
-  "description": "GrunterGeneralAudience",
+  "title": "System Shock",
+  "description": "System Shock",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "gruntergeneralaudience",
+  "productSlug": "system-shock",
+  "urlSlug": "system-shock",
   "creationDate": "2021-02-12T23:40:17.756Z",
-  "lastModifiedDate": "2023-03-14T23:24:59.391Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2023-05-30T15:58:48.840Z",
+  "effectiveDate": "2023-05-30T15:00:00.000Z",
+  "viewableDate": "2023-05-30T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
@@ -28,17 +28,148 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
-  "customAttributes": [
+  "tags": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2023-05-30T15:58:49.058Z",
+      "status": "ACTIVE",
+      "referenceCount": 127,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2023-05-30T16:08:56.746Z",
+      "status": "ACTIVE",
+      "referenceCount": 369,
+      "comment": null
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-05-30T23:00:37.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 1263,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-05-30T23:00:37.935Z",
+      "status": "ACTIVE",
+      "referenceCount": 1896,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-05-31T00:33:43.294Z",
+      "status": "ACTIVE",
+      "referenceCount": 4340,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-05-31T00:33:43.251Z",
+      "status": "ACTIVE",
+      "referenceCount": 8874,
+      "comment": null
+    },
+    {
+      "id": "1132",
+      "name": "SCI-FI",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:24.043Z",
+      "updated": "2023-05-30T15:58:49.086Z",
+      "status": "ACTIVE",
+      "referenceCount": 118,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-05-30T23:00:38.000Z",
+      "status": "ACTIVE",
+      "referenceCount": 1605,
+      "comment": null
     }
   ],
-  "keyImages": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "system-shock"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0_1200x1600-45f2ccbf4fcbf71a059499d0742229f0",
+      "md5": "45f2ccbf4fcbf71a059499d0742229f0",
+      "size": 797332,
+      "uploadedDate": "2023-05-17T14:10:50.068Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S3-2560x1440-955046ca7b8e5ad70907c1380d1687bd_2560x1440-955046ca7b8e5ad70907c1380d1687bd",
+      "md5": "955046ca7b8e5ad70907c1380d1687bd",
+      "size": 835023,
+      "uploadedDate": "2023-05-17T14:10:55.651Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/e49aaa31c1324e398e0b1029a0c6d390/EGS_Afighttothedeathinthedepthsofspace_NightdiveStudios_S4-1200x1600-45f2ccbf4fcbf71a059499d0742229f0_1200x1600-45f2ccbf4fcbf71a059499d0742229f0",
+      "md5": "45f2ccbf4fcbf71a059499d0742229f0",
+      "size": 797332,
+      "uploadedDate": "2023-05-17T14:10:59.065Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "08436a6ec0e7443da0a4323b938cd36d"
