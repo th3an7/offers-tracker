@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-07-04T16:05:57.722Z",
+      "status": "ACTIVE",
+      "referenceCount": 1103,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -46,12 +57,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-07-03T12:59:03.917Z",
+      "updated": "2023-07-04T06:54:15.266Z",
       "status": "ACTIVE",
-      "referenceCount": 1098,
+      "referenceCount": 1099,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-07-04T23:45:57.893Z",
+      "status": "ACTIVE",
+      "referenceCount": 4714,
+      "comment": null
+    },
     {
       "id": "21147",
       "name": "Inclusive Character Customization",
@@ -59,13 +81,35 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:36:07.333Z",
-      "updated": "2023-07-02T21:41:32.909Z",
+      "updated": "2023-07-04T04:32:01.642Z",
       "status": "ACTIVE",
-      "referenceCount": 107,
+      "referenceCount": 108,
       "comment": ""
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-07-04T23:45:57.914Z",
+      "status": "ACTIVE",
+      "referenceCount": 9274,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-07-04T15:19:12.887Z",
+      "status": "ACTIVE",
+      "referenceCount": 1431,
+      "comment": null
+    },
     {
       "id": "10719",
       "name": "Mac OS",
@@ -76,9 +120,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-07-03T22:51:17.930Z",
+      "updated": "2023-07-04T19:58:11.971Z",
       "status": "ACTIVE",
-      "referenceCount": 677,
+      "referenceCount": 678,
       "comment": null
     }
   ],
