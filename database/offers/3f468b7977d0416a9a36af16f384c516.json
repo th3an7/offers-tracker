@@ -8,7 +8,7 @@
   "productSlug": "grime",
   "urlSlug": "grime",
   "creationDate": "2023-06-06T17:33:19.341Z",
-  "lastModifiedDate": "2023-06-29T14:18:56.826Z",
+  "lastModifiedDate": "2023-07-13T15:02:15.469Z",
   "effectiveDate": "2021-08-02T13:00:00.000Z",
   "viewableDate": "2021-06-24T15:00:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
@@ -48,12 +45,23 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-07-12T18:29:12.986Z",
+      "updated": "2023-07-13T23:29:45.483Z",
       "status": "ACTIVE",
-      "referenceCount": 1330,
+      "referenceCount": 1334,
       "comment": ""
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-07-13T23:29:45.491Z",
+      "status": "ACTIVE",
+      "referenceCount": 2078,
+      "comment": ""
+    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -61,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-12T23:23:48.391Z",
+      "updated": "2023-07-13T23:29:45.511Z",
       "status": "ACTIVE",
-      "referenceCount": 4736,
+      "referenceCount": 4742,
       "comment": null
     },
     {
@@ -85,12 +93,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-12T23:33:54.283Z",
+      "updated": "2023-07-14T01:05:33.713Z",
       "status": "ACTIVE",
-      "referenceCount": 9300,
+      "referenceCount": 9311,
       "comment": null
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-07-14T00:56:38.895Z",
+      "status": "ACTIVE",
+      "referenceCount": 1728,
+      "comment": null
+    },
     {
       "id": "1151",
       "name": "Platformer",
@@ -98,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-07-12T20:38:29.230Z",
+      "updated": "2023-07-13T11:21:13.558Z",
       "status": "ACTIVE",
-      "referenceCount": 366,
+      "referenceCount": 367,
       "comment": null
     },
     {

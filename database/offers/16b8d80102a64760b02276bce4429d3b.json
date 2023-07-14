@@ -8,7 +8,7 @@
   "productSlug": "yaga/home",
   "urlSlug": "yaga",
   "creationDate": "2019-06-14T18:13:11.353Z",
-  "lastModifiedDate": "2023-06-20T13:04:07.888Z",
+  "lastModifiedDate": "2023-07-13T13:04:40.394Z",
   "effectiveDate": "2019-11-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-07-12T22:16:49.185Z",
+      "updated": "2023-07-13T21:07:33.782Z",
       "status": "ACTIVE",
-      "referenceCount": 2097,
+      "referenceCount": 2099,
       "comment": null
     },
     {
@@ -69,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-07-12T18:29:12.986Z",
+      "updated": "2023-07-13T23:29:45.483Z",
       "status": "ACTIVE",
-      "referenceCount": 1330,
+      "referenceCount": 1334,
       "comment": ""
     },
     {
@@ -81,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-07-12T06:50:27.885Z",
+      "updated": "2023-07-14T00:56:38.861Z",
       "status": "ACTIVE",
-      "referenceCount": 1103,
+      "referenceCount": 1105,
       "comment": null
     },
     {
@@ -93,9 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-12T23:23:48.391Z",
+      "updated": "2023-07-13T23:29:45.511Z",
       "status": "ACTIVE",
-      "referenceCount": 4736,
+      "referenceCount": 4742,
       "comment": null
     },
     {
@@ -105,9 +105,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-12T23:33:54.283Z",
+      "updated": "2023-07-14T01:05:33.713Z",
       "status": "ACTIVE",
-      "referenceCount": 9300,
+      "referenceCount": 9311,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-07-13T18:43:25.621Z",
+      "status": "ACTIVE",
+      "referenceCount": 1108,
       "comment": null
     }
   ],
@@ -127,58 +139,31 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
-      "md5": "19d2291a8636b3ce1f246d68045411d8",
-      "size": 476971,
-      "uploadedDate": "2019-11-15T19:56:43.583Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_Primary-2560x1440-bf9599c91ef87274fc002f48af90e831.jpg",
-      "md5": "bf9599c91ef87274fc002f48af90e831",
-      "size": 118942,
-      "uploadedDate": "2019-11-23T03:11:34.338Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
-      "md5": "19d2291a8636b3ce1f246d68045411d8",
-      "size": 476971,
-      "uploadedDate": "2019-11-15T19:56:43.583Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/offer/bec57b5341ad4294b005a7dd18691419/yagas2_1200x1600-d1ec3f8af1c97a7041bd660c745d21ce",
+      "md5": "d1ec3f8af1c97a7041bd660c745d21ce",
+      "size": 350598,
+      "uploadedDate": "2023-07-13T13:04:18.083Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_MainGame_EpicGamesStore_S1_Store_Primary-2560x1440-b4b65ed4de8e386c9594c0f1deb9735446f9faec.jpg",
-      "md5": "bf9599c91ef87274fc002f48af90e831",
-      "size": 118942,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "url": "https://cdn1.epicgames.com/offer/bec57b5341ad4294b005a7dd18691419/yagas1_2560x1440-1c9f65e55a5c0697d362843eaf996f52",
+      "md5": "1c9f65e55a5c0697d362843eaf996f52",
+      "size": 418403,
+      "uploadedDate": "2023-07-13T13:04:22.783Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
-      "md5": "19d2291a8636b3ce1f246d68045411d8",
-      "size": 476971,
-      "uploadedDate": "2020-04-20T15:17:49.969Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
-      "md5": "19d2291a8636b3ce1f246d68045411d8",
-      "size": 476971,
-      "uploadedDate": "2020-04-20T15:18:09.088Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/offer/bec57b5341ad4294b005a7dd18691419/yagas2_1200x1600-d1ec3f8af1c97a7041bd660c745d21ce",
+      "md5": "d1ec3f8af1c97a7041bd660c745d21ce",
+      "size": 350598,
+      "uploadedDate": "2023-07-13T13:04:33.770Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
