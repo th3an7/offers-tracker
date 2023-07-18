@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a58521cc87494dc38ca2621a88e91dba",
   "creationDate": "2021-10-12T19:10:51.324Z",
-  "lastModifiedDate": "2023-04-13T21:34:59.642Z",
+  "lastModifiedDate": "2023-07-17T20:29:42.233Z",
   "effectiveDate": "2022-10-05T15:00:00.000Z",
   "viewableDate": "2022-01-28T00:00:00.000Z",
   "developer": null,
@@ -42,12 +42,35 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-07-16T18:33:07.163Z",
+      "updated": "2023-07-17T23:29:23.054Z",
       "status": "ACTIVE",
-      "referenceCount": 2098,
+      "referenceCount": 2099,
       "comment": null
     },
-    null,
+    {
+      "id": "16979",
+      "name": "Summer Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2023-07-17T20:58:05.755Z",
+      "status": "ACTIVE",
+      "referenceCount": 2116,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-07-17T23:29:23.077Z",
+      "status": "ACTIVE",
+      "referenceCount": 4757,
+      "comment": null
+    },
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -55,21 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-07-14T18:56:02.730Z",
+      "updated": "2023-07-17T23:29:23.086Z",
       "status": "ACTIVE",
-      "referenceCount": 194,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-17T01:08:36.506Z",
-      "status": "ACTIVE",
-      "referenceCount": 9319,
+      "referenceCount": 195,
       "comment": null
     },
     {
@@ -79,10 +90,22 @@
       "aliases": [],
       "operator": null,
       "created": "2022-04-05T16:31:59.501Z",
-      "updated": "2023-06-29T09:14:37.175Z",
+      "updated": "2023-07-17T20:49:55.767Z",
       "status": "ACTIVE",
-      "referenceCount": 29,
+      "referenceCount": 39,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-07-17T23:29:23.112Z",
+      "status": "ACTIVE",
+      "referenceCount": 9326,
+      "comment": null
     }
   ],
   "customAttributes": [
