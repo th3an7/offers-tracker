@@ -8,7 +8,7 @@
   "productSlug": "league-of-legends",
   "urlSlug": "bluejeans-general-audience",
   "creationDate": "2021-05-05T02:10:23.457Z",
-  "lastModifiedDate": "2023-02-17T22:37:40.483Z",
+  "lastModifiedDate": "2023-07-20T16:57:15.696Z",
   "effectiveDate": "2021-11-04T16:30:00.000Z",
   "viewableDate": "2021-11-04T16:30:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-07-20T19:55:48.362Z",
+      "status": "ACTIVE",
+      "referenceCount": 2100,
+      "comment": null
+    },
     {
       "id": "21122",
       "name": "Diverse Characters",
@@ -75,7 +86,18 @@
       "referenceCount": 131,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-07-21T00:45:07.193Z",
+      "status": "ACTIVE",
+      "referenceCount": 9441,
+      "comment": null
+    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -83,7 +105,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-07-19T22:18:23.215Z",
+      "updated": "2023-07-20T16:48:37.855Z",
       "status": "ACTIVE",
       "referenceCount": 1117,
       "comment": null
@@ -95,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-07-19T23:27:30.869Z",
+      "updated": "2023-07-20T21:21:47.604Z",
       "status": "ACTIVE",
-      "referenceCount": 1906,
+      "referenceCount": 1907,
       "comment": null
     },
     {
@@ -107,7 +129,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-07-19T23:27:30.856Z",
+      "updated": "2023-07-20T22:47:38.116Z",
       "status": "ACTIVE",
       "referenceCount": 418,
       "comment": null
@@ -119,7 +141,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-07-19T13:25:54.167Z",
+      "updated": "2023-07-20T09:12:47.080Z",
       "status": "ACTIVE",
       "referenceCount": 322,
       "comment": ""
@@ -131,7 +153,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-07-19T13:25:54.287Z",
+      "updated": "2023-07-20T09:12:47.084Z",
       "status": "ACTIVE",
       "referenceCount": 320,
       "comment": ""
@@ -143,12 +165,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-07-19T22:18:23.192Z",
+      "updated": "2023-07-20T20:05:56.409Z",
       "status": "ACTIVE",
-      "referenceCount": 1114,
+      "referenceCount": 1115,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-07-21T00:45:07.167Z",
+      "status": "ACTIVE",
+      "referenceCount": 4774,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "Strategy",
@@ -156,9 +189,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-07-19T23:27:30.902Z",
+      "updated": "2023-07-20T21:06:08.905Z",
       "status": "ACTIVE",
-      "referenceCount": 1033,
+      "referenceCount": 1034,
       "comment": null
     },
     {
@@ -172,6 +205,21 @@
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": ""
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-07-20T20:02:18.533Z",
+      "status": "ACTIVE",
+      "referenceCount": 689,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -195,28 +243,28 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LoL_1200x1600-15ad6c981af8d98f50e833eac7843986",
-      "md5": "15ad6c981af8d98f50e833eac7843986",
-      "size": 396018,
-      "uploadedDate": "2023-02-15T18:37:55.764Z",
+      "url": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S2_1200x1600-aadefb3e74e59e34155e5805aa3a54d6",
+      "md5": "aadefb3e74e59e34155e5805aa3a54d6",
+      "size": 999256,
+      "uploadedDate": "2023-07-20T16:46:08.168Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LOL_2560x1440-98749e0d718e82d27a084941939bc9d3",
-      "md5": "98749e0d718e82d27a084941939bc9d3",
-      "size": 613595,
-      "uploadedDate": "2023-02-15T18:38:01.730Z",
+      "url": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-2935d0a3e332decb8e727fe56789b6ab",
+      "md5": "2935d0a3e332decb8e727fe56789b6ab",
+      "size": 964137,
+      "uploadedDate": "2023-07-20T16:46:12.111Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/LoL_1200x1600-15ad6c981af8d98f50e833eac7843986",
-      "md5": "15ad6c981af8d98f50e833eac7843986",
-      "size": 396018,
-      "uploadedDate": "2023-02-15T18:38:07.906Z",
+      "url": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S2_1200x1600-aadefb3e74e59e34155e5805aa3a54d6",
+      "md5": "aadefb3e74e59e34155e5805aa3a54d6",
+      "size": 999256,
+      "uploadedDate": "2023-07-20T16:46:15.174Z",
       "width": 1200,
       "height": 1600
     }
