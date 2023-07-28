@@ -5,10 +5,10 @@
   "description": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "loop-hero",
-  "urlSlug": "dysprosiumgeneralaudience",
+  "productSlug": null,
+  "urlSlug": "loop-hero",
   "creationDate": "2021-01-27T17:17:11.358Z",
-  "lastModifiedDate": "2023-07-17T20:23:32.676Z",
+  "lastModifiedDate": "2023-07-27T15:06:27.573Z",
   "effectiveDate": "2021-03-04T18:00:00.000Z",
   "viewableDate": "2021-03-04T18:00:00.000Z",
   "developer": null,
@@ -25,13 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -39,28 +42,16 @@
   ],
   "tags": [
     {
-      "id": "21122",
-      "name": "Diverse Characters",
+      "id": "16979",
+      "name": "Summer Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-07-26T17:13:23.685Z",
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2023-07-27T15:06:27.722Z",
       "status": "ACTIVE",
-      "referenceCount": 257,
+      "referenceCount": 2524,
       "comment": ""
-    },
-    {
-      "id": "1188",
-      "name": "RELAXING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-07-26T17:13:23.702Z",
-      "status": "ACTIVE",
-      "referenceCount": 340,
-      "comment": null
     },
     {
       "id": "21894",
@@ -69,117 +60,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-07-26T23:38:57.861Z",
+      "updated": "2023-07-27T15:30:10.255Z",
       "status": "ACTIVE",
-      "referenceCount": 1349,
-      "comment": ""
-    },
-    {
-      "id": "21127",
-      "name": "Creative Community",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:16:58.023Z",
-      "updated": "2023-07-26T17:13:23.720Z",
-      "status": "ACTIVE",
-      "referenceCount": 154,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-27T00:56:10.104Z",
-      "status": "ACTIVE",
-      "referenceCount": 9481,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-07-26T23:51:22.015Z",
-      "status": "ACTIVE",
-      "referenceCount": 1127,
-      "comment": null
-    },
-    {
-      "id": "21137",
-      "name": "Unique Visuals",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:27:42.043Z",
-      "updated": "2023-07-26T17:56:08.313Z",
-      "status": "ACTIVE",
-      "referenceCount": 57,
-      "comment": ""
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-07-26T17:13:23.690Z",
-      "status": "ACTIVE",
-      "referenceCount": 345,
-      "comment": ""
-    },
-    {
-      "id": "16979",
-      "name": "Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-07-14T15:58:17.560Z",
-      "updated": "2023-07-24T16:34:41.130Z",
-      "status": "ACTIVE",
-      "referenceCount": 2524,
-      "comment": ""
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-07-26T17:13:23.696Z",
-      "status": "ACTIVE",
-      "referenceCount": 324,
-      "comment": ""
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-07-26T17:13:23.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 323,
-      "comment": ""
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-07-26T17:13:23.715Z",
-      "status": "ACTIVE",
-      "referenceCount": 334,
+      "referenceCount": 1351,
       "comment": ""
     },
     {
@@ -189,9 +72,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-27T00:56:10.085Z",
+      "updated": "2023-07-28T00:57:35.543Z",
       "status": "ACTIVE",
-      "referenceCount": 4812,
+      "referenceCount": 4818,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-07-28T00:57:35.562Z",
+      "status": "ACTIVE",
+      "referenceCount": 9491,
       "comment": null
     },
     {
@@ -201,22 +96,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2023-07-25T23:54:50.441Z",
+      "updated": "2023-07-27T23:49:38.974Z",
       "status": "ACTIVE",
-      "referenceCount": 88,
+      "referenceCount": 87,
       "comment": null
     },
     {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-07-26T17:13:23.727Z",
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-07-27T16:31:48.389Z",
       "status": "ACTIVE",
-      "referenceCount": 326,
-      "comment": ""
+      "referenceCount": 1128,
+      "comment": null
     },
     {
       "id": "10719",
@@ -228,42 +123,13 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-07-26T16:37:30.242Z",
+      "updated": "2023-07-27T19:01:14.611Z",
       "status": "ACTIVE",
-      "referenceCount": 691,
+      "referenceCount": 693,
       "comment": null
-    },
-    {
-      "id": "21119",
-      "name": "Great for Beginners",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:03:45.609Z",
-      "updated": "2023-07-26T17:13:23.732Z",
-      "status": "ACTIVE",
-      "referenceCount": 218,
-      "comment": "From Ratings & Polls results."
     }
   ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "Devolver Digital"
-    },
-    {
-      "key": "developerName",
-      "value": "Four Quarters"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "loop-hero"
-    }
-  ],
+  "customAttributes": [],
   "keyImages": [
     {
       "type": "OfferImageWide",

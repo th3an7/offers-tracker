@@ -8,7 +8,7 @@
   "productSlug": "murder-by-numbers",
   "urlSlug": "murder-by-numbers",
   "creationDate": "2021-03-12T15:13:29.854Z",
-  "lastModifiedDate": "2023-07-13T14:29:55.854Z",
+  "lastModifiedDate": "2023-07-27T15:01:10.535Z",
   "effectiveDate": "2021-03-23T17:00:00.000Z",
   "viewableDate": "2021-03-23T17:00:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
@@ -48,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-07-26T23:38:57.851Z",
+      "updated": "2023-07-27T19:40:29.400Z",
       "status": "ACTIVE",
-      "referenceCount": 400,
+      "referenceCount": 401,
       "comment": null
     },
     {
@@ -60,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-07-26T23:38:57.861Z",
+      "updated": "2023-07-27T15:30:10.255Z",
       "status": "ACTIVE",
-      "referenceCount": 1349,
+      "referenceCount": 1351,
       "comment": ""
     },
     {
@@ -72,12 +69,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-27T00:56:10.104Z",
+      "updated": "2023-07-28T00:57:35.562Z",
       "status": "ACTIVE",
-      "referenceCount": 9481,
+      "referenceCount": 9491,
       "comment": null
     },
-    null,
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-07-27T15:30:10.294Z",
+      "status": "ACTIVE",
+      "referenceCount": 1444,
+      "comment": null
+    },
     {
       "id": "1263",
       "name": "Indie",
@@ -85,9 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-07-26T23:51:22.015Z",
+      "updated": "2023-07-27T16:31:48.389Z",
       "status": "ACTIVE",
-      "referenceCount": 1127,
+      "referenceCount": 1128,
       "comment": null
     }
   ],
