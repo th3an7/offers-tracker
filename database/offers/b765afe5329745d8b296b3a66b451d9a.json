@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "football-manager-2022--in-game-editor",
   "creationDate": "2021-08-27T19:40:02.301Z",
-  "lastModifiedDate": "2022-11-08T00:02:07.688Z",
+  "lastModifiedDate": "2023-08-01T14:16:41.545Z",
   "effectiveDate": "2021-11-08T20:00:00.000Z",
   "viewableDate": "2021-11-08T20:00:00.000Z",
   "developer": null,
@@ -36,16 +36,52 @@
   ],
   "tags": [
     {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-01T18:43:18.803Z",
+      "status": "ACTIVE",
+      "referenceCount": 911,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-08-01T18:38:13.052Z",
+      "status": "ACTIVE",
+      "referenceCount": 1915,
+      "comment": null
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-07-31T23:38:05.002Z",
+      "updated": "2023-08-02T00:32:19.572Z",
       "status": "ACTIVE",
-      "referenceCount": 2163,
+      "referenceCount": 2162,
       "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-02T00:28:46.675Z",
+      "status": "ACTIVE",
+      "referenceCount": 4847,
+      "comment": null
     },
     {
       "id": "9547",
@@ -54,9 +90,24 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-01T01:03:18.778Z",
+      "updated": "2023-08-02T00:54:14.140Z",
       "status": "ACTIVE",
-      "referenceCount": 9537,
+      "referenceCount": 9556,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-02T00:16:40.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 699,
       "comment": null
     }
   ],
