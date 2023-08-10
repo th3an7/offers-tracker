@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "0a93bd41a64c4854a7d797cc2d784f96",
   "creationDate": "2022-04-12T14:42:48.483Z",
-  "lastModifiedDate": "2023-08-08T08:10:07.739Z",
+  "lastModifiedDate": "2023-08-09T23:33:00.852Z",
   "effectiveDate": "2022-04-26T15:00:00.000Z",
   "viewableDate": "2022-04-24T15:00:00.000Z",
   "developer": null,
@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-09T00:58:10.875Z",
+      "updated": "2023-08-09T23:33:00.885Z",
       "status": "ACTIVE",
-      "referenceCount": 1366,
+      "referenceCount": 1370,
       "comment": ""
     },
     {
@@ -54,9 +54,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-09T00:58:10.896Z",
+      "updated": "2023-08-09T23:33:00.898Z",
       "status": "ACTIVE",
-      "referenceCount": 4894,
+      "referenceCount": 4904,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-10T00:08:21.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 9621,
       "comment": null
     },
     {
@@ -66,22 +78,10 @@
       "aliases": [],
       "operator": null,
       "created": "2023-07-26T14:41:48.253Z",
-      "updated": "2023-08-08T15:00:06.610Z",
+      "updated": "2023-08-09T23:33:00.922Z",
       "status": "ACTIVE",
       "referenceCount": 112,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-09T00:58:10.917Z",
-      "status": "ACTIVE",
-      "referenceCount": 9610,
-      "comment": null
     },
     {
       "id": "1117",
@@ -90,9 +90,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-09T00:40:48.951Z",
+      "updated": "2023-08-09T23:33:00.930Z",
       "status": "ACTIVE",
-      "referenceCount": 1455,
+      "referenceCount": 1456,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2023-08-09T23:33:00.939Z",
+      "status": "ACTIVE",
+      "referenceCount": 383,
       "comment": null
     },
     {
@@ -105,21 +117,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-08T16:11:55.085Z",
+      "updated": "2023-08-09T23:33:00.949Z",
       "status": "ACTIVE",
-      "referenceCount": 704,
-      "comment": null
-    },
-    {
-      "id": "1151",
-      "name": "Platformer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-08-09T00:40:48.972Z",
-      "status": "ACTIVE",
-      "referenceCount": 381,
+      "referenceCount": 706,
       "comment": null
     }
   ],
@@ -134,7 +134,7 @@
     },
     {
       "key": "isBlockchainUsed",
-      "value": "null"
+      "value": "false"
     }
   ],
   "keyImages": [
