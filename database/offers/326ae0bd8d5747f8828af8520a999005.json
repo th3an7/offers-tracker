@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "jaws-of-the-lion-expansion",
   "creationDate": "2022-04-06T12:17:06.165Z",
-  "lastModifiedDate": "2023-09-18T11:11:57.042Z",
+  "lastModifiedDate": "2023-09-20T13:21:02.505Z",
   "effectiveDate": "2022-09-22T15:00:00.000Z",
   "viewableDate": "2022-09-22T15:00:00.000Z",
   "developer": null,
@@ -32,6 +32,78 @@
     }
   ],
   "tags": [
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2023-08-23T04:55:54.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 52,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 2508,
+      "comment": ""
+    },
+    {
+      "id": "21129",
+      "name": "Challenging Combat",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:19:41.315Z",
+      "updated": "2023-08-22T23:38:34.180Z",
+      "status": "ACTIVE",
+      "referenceCount": 133,
+      "comment": ""
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 188,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 10677,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 1918,
+      "comment": null
+    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -65,7 +137,7 @@
       "created": "2021-07-14T15:58:17.560Z",
       "updated": "2023-09-14T11:08:40.563Z",
       "status": "ACTIVE",
-      "referenceCount": 49,
+      "referenceCount": 3,
       "comment": ""
     },
     {
@@ -81,40 +153,16 @@
       "comment": null
     },
     {
-      "id": "19847",
-      "name": "Achievements",
+      "id": "22776",
+      "name": "Cross Platform",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 2484,
+      "referenceCount": 272,
       "comment": ""
-    },
-    {
-      "id": "21129",
-      "name": "Challenging Combat",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:19:41.315Z",
-      "updated": "2023-08-22T23:38:34.180Z",
-      "status": "ACTIVE",
-      "referenceCount": 133,
-      "comment": ""
-    },
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
     },
     {
       "id": "1370",
@@ -129,18 +177,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 10651,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -150,18 +186,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 1909,
       "comment": null
     }
   ],
