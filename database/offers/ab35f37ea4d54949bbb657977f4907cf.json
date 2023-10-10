@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "a168f9d03b3b4962888b674806aa65c4",
-  "creationDate": "2023-10-05T15:25:13.224Z",
-  "lastModifiedDate": "2023-10-05T15:34:14.298Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-09-02T02:07:17.049Z",
+  "lastModifiedDate": "2023-10-09T17:56:30.297Z",
+  "effectiveDate": "2023-10-16T07:00:00.000Z",
   "viewableDate": "2023-09-07T05:30:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2023-08-23T04:55:54.805Z",
       "status": "ACTIVE",
-      "referenceCount": 128,
+      "referenceCount": 129,
       "comment": ""
     },
     {
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 10961,
+      "comment": null
+    },
+    {
       "id": "21739",
       "name": "NFT BLOCKCHAIN",
       "namespace": null,
@@ -106,18 +118,6 @@
       "status": "ACTIVE",
       "referenceCount": 72,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 10945,
-      "comment": null
     },
     {
       "id": "1212",
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 1961,
+      "referenceCount": 1962,
       "comment": null
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
