@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "68621af956534439a7f8de5a0e5873e5",
   "creationDate": "2022-03-23T02:09:11.098Z",
-  "lastModifiedDate": "2023-08-10T15:00:17.560Z",
+  "lastModifiedDate": "2023-10-10T19:41:43.059Z",
   "effectiveDate": "2022-07-19T12:00:00.000Z",
   "viewableDate": "2022-04-30T00:00:00.000Z",
   "developer": null,
@@ -25,16 +25,28 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2023-08-23T04:55:54.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 137,
+      "comment": ""
+    },
     {
       "id": "21122",
       "name": "Diverse Characters",
@@ -44,7 +56,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 277,
+      "referenceCount": 276,
       "comment": ""
     },
     {
@@ -68,7 +80,7 @@
       "created": "2022-05-17T21:16:58.023Z",
       "updated": "2023-08-22T10:58:47.680Z",
       "status": "ACTIVE",
-      "referenceCount": 154,
+      "referenceCount": 155,
       "comment": ""
     },
     {
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 10961,
+      "referenceCount": 10971,
       "comment": null
     },
     {
@@ -116,20 +128,8 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 364,
+      "referenceCount": 363,
       "comment": ""
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-08-23T03:55:35.370Z",
-      "status": "ACTIVE",
-      "referenceCount": 1947,
-      "comment": null
     },
     {
       "id": "21139",
@@ -140,7 +140,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 334,
+      "referenceCount": 335,
       "comment": ""
     },
     {
@@ -152,7 +152,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 339,
+      "referenceCount": 338,
       "comment": ""
     },
     {
@@ -164,7 +164,19 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 354,
+      "referenceCount": 355,
+      "comment": ""
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 292,
       "comment": ""
     },
     {
@@ -200,7 +212,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 351,
+      "referenceCount": 352,
       "comment": ""
     },
     {
@@ -212,7 +224,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 231,
+      "referenceCount": 230,
       "comment": "From Ratings & Polls results."
     }
   ],
