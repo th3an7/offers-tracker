@@ -8,7 +8,7 @@
   "productSlug": "viscerafest",
   "urlSlug": "kilo-general-audience",
   "creationDate": "2021-03-09T22:42:13.746Z",
-  "lastModifiedDate": "2023-08-03T15:19:54.107Z",
+  "lastModifiedDate": "2023-12-12T14:41:39.851Z",
   "effectiveDate": "2021-05-20T17:00:00.000Z",
   "viewableDate": "2021-05-20T17:00:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "21894",
       "name": "Cloud Saves",
@@ -48,10 +59,21 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1516,
+      "referenceCount": 1519,
       "comment": ""
     },
-    null,
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2023-08-23T00:14:55.836Z",
+      "status": "ACTIVE",
+      "referenceCount": 799,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -65,6 +87,18 @@
       "comment": null
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-12-14T20:45:17.902Z",
+      "updated": "2023-12-12T14:43:18.832Z",
+      "status": "ACTIVE",
+      "referenceCount": 3425,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -73,7 +107,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11756,
+      "referenceCount": 11807,
       "comment": null
     },
     {

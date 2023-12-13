@@ -8,7 +8,7 @@
   "productSlug": "windbound",
   "urlSlug": "windbound",
   "creationDate": "2020-05-28T23:45:28.999Z",
-  "lastModifiedDate": "2023-08-03T15:12:55.396Z",
+  "lastModifiedDate": "2023-12-12T14:41:39.914Z",
   "effectiveDate": "2020-08-28T12:00:00.000Z",
   "viewableDate": "2020-08-28T11:55:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "21894",
       "name": "Cloud Saves",
@@ -48,7 +59,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1516,
+      "referenceCount": 1519,
       "comment": ""
     },
     {
@@ -112,6 +123,18 @@
       "comment": null
     },
     {
+      "id": "24570",
+      "name": "Holiday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-12-14T20:45:17.902Z",
+      "updated": "2023-12-12T14:43:18.832Z",
+      "status": "ACTIVE",
+      "referenceCount": 3425,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -120,7 +143,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11756,
+      "referenceCount": 11807,
       "comment": null
     },
     {
