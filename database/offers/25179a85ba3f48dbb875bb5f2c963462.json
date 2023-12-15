@@ -8,7 +8,7 @@
   "productSlug": "the-settlers/home",
   "urlSlug": "the-settlers-general-audience-launch",
   "creationDate": "2022-01-06T17:57:08.925Z",
-  "lastModifiedDate": "2023-12-12T14:41:39.895Z",
+  "lastModifiedDate": "2023-12-14T17:21:43.517Z",
   "effectiveDate": "2023-02-17T09:00:00.000Z",
   "viewableDate": "2023-02-17T09:00:00.000Z",
   "developer": null,
@@ -28,16 +28,28 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
   "tags": [
+    {
+      "id": "1120",
+      "name": "RTS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:18.078Z",
+      "updated": "2023-08-23T05:08:24.551Z",
+      "status": "ACTIVE",
+      "referenceCount": 87,
+      "comment": null
+    },
     {
       "id": "1393",
       "name": "Simulation",
@@ -107,7 +119,7 @@
       "created": "2022-12-14T20:45:17.902Z",
       "updated": "2023-12-13T15:58:44.228Z",
       "status": "ACTIVE",
-      "referenceCount": 3414,
+      "referenceCount": 3413,
       "comment": ""
     },
     {
@@ -131,7 +143,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11838,
+      "referenceCount": 11856,
       "comment": null
     },
     {
@@ -167,7 +179,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 251,
+      "referenceCount": 254,
       "comment": "From Ratings & Polls results."
     }
   ],
