@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "0d48da287df14493a7415b560ec1bbb3",
   "creationDate": "2022-03-21T17:48:11.650Z",
-  "lastModifiedDate": "2023-12-12T14:41:39.928Z",
+  "lastModifiedDate": "2023-12-20T00:15:24.740Z",
   "effectiveDate": "2022-09-22T15:00:00.000Z",
   "viewableDate": "2022-09-22T15:00:00.000Z",
   "developer": null,
@@ -25,16 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "freegames"
-    },
-    {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -47,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2023-08-23T04:55:54.805Z",
       "status": "ACTIVE",
-      "referenceCount": 401,
+      "referenceCount": 404,
       "comment": ""
     },
     {
@@ -75,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3048,
+      "comment": ""
+    },
+    {
       "id": "21127",
       "name": "Creative Community",
       "namespace": null,
@@ -87,18 +96,6 @@
       "comment": ""
     },
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3045,
-      "comment": ""
-    },
-    {
       "id": "21129",
       "name": "Challenging Combat",
       "namespace": null,
@@ -107,7 +104,7 @@
       "created": "2022-05-17T21:19:41.315Z",
       "updated": "2023-08-22T23:38:34.180Z",
       "status": "ACTIVE",
-      "referenceCount": 142,
+      "referenceCount": 141,
       "comment": ""
     },
     {
@@ -131,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11886,
+      "referenceCount": 11895,
       "comment": null
     },
     {
@@ -143,7 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2128,
+      "referenceCount": 2130,
       "comment": null
     },
     {
@@ -203,7 +200,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 361,
+      "referenceCount": 362,
       "comment": ""
     },
     {
@@ -239,7 +236,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 334,
+      "referenceCount": 335,
       "comment": ""
     },
     {
@@ -263,7 +260,7 @@
       "created": "2022-12-14T20:45:17.902Z",
       "updated": "2023-12-13T15:58:44.228Z",
       "status": "ACTIVE",
-      "referenceCount": 3487,
+      "referenceCount": 3486,
       "comment": ""
     },
     {
@@ -287,7 +284,7 @@
       "created": "2022-05-17T21:36:07.333Z",
       "updated": "2023-08-22T16:40:57.276Z",
       "status": "ACTIVE",
-      "referenceCount": 113,
+      "referenceCount": 114,
       "comment": ""
     },
     {
@@ -299,7 +296,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 377,
+      "referenceCount": 379,
       "comment": ""
     }
   ],
