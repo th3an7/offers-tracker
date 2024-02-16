@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a20922cfbb894a3bb690164a380c78d9",
   "creationDate": "2024-01-31T04:14:46.787Z",
-  "lastModifiedDate": "2024-02-14T07:29:44.980Z",
+  "lastModifiedDate": "2024-02-15T16:04:03.706Z",
   "effectiveDate": "2024-02-08T16:00:00.000Z",
   "viewableDate": "2024-02-01T16:00:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
@@ -71,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1650,
+      "referenceCount": 1652,
       "comment": ""
     },
     {
@@ -111,6 +108,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 12483,
+      "comment": null
+    },
+    {
       "id": "21147",
       "name": "Inclusive Character Customization",
       "namespace": null,
@@ -123,18 +132,6 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 12462,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -143,7 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2271,
+      "referenceCount": 2273,
       "comment": null
     }
   ],
