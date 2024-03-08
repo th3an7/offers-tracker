@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "86523d9526fc4226b4b7efa869372ff9",
-  "creationDate": "2023-10-10T09:52:09.770Z",
-  "lastModifiedDate": "2024-02-01T19:23:59.506Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-08-10T13:59:58.182Z",
+  "lastModifiedDate": "2024-03-07T17:08:40.350Z",
+  "effectiveDate": "2024-03-07T18:00:00.000Z",
   "viewableDate": "2023-08-17T11:30:00.000Z",
   "developer": null,
   "seller": {
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 1674,
+      "comment": ""
+    },
+    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -46,6 +58,18 @@
       "status": "ACTIVE",
       "referenceCount": 1144,
       "comment": null
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3344,
+      "comment": ""
     },
     {
       "id": "1386",
@@ -80,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12646,
+      "referenceCount": 12657,
       "comment": null
     }
   ],
@@ -91,7 +115,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
