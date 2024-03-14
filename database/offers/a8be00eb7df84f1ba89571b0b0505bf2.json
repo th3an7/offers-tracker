@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "30e0dded231048e5bb33552c1dc8a409",
   "creationDate": "2022-07-05T21:15:43.717Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.542Z",
+  "lastModifiedDate": "2024-03-13T14:21:27.721Z",
   "effectiveDate": "2022-07-08T16:00:00.000Z",
   "viewableDate": "2022-07-07T21:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1674,
+      "referenceCount": 1677,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3353,
+      "referenceCount": 3357,
       "comment": ""
     },
     {
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 12695,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -108,18 +120,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 12684,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2324,
+      "referenceCount": 2327,
       "comment": null
     },
     {
@@ -150,8 +150,16 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
