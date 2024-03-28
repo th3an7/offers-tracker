@@ -2,13 +2,13 @@
   "id": "c04a2ab8ff4442cba0a41fb83453e701",
   "namespace": "9f101e25b1a9427a9e6971d2b21c5f82",
   "title": "Rise of Industry",
-  "description": "Put your entrepreneurial skills to the test as you create & optimise intricate production lines whilst keeping an eye on the all-important bottom line. As an early 20th Century industrialist, grow your empire & adapt to unexpected events that could lead to boom…or bust.",
+  "description": "Test your entrepreneurial skills in the first title in the ROI series as you create & optimise production lines. As an early 20th Century industrialist, grow your empire & adapt to an ever-changing business landscape with unexpected events that could lead to boom…or bust.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "f88fedc022fe488caaedaa5c782ff90d",
   "creationDate": "2022-03-21T10:46:47.881Z",
-  "lastModifiedDate": "2024-03-17T13:39:40.583Z",
+  "lastModifiedDate": "2024-03-27T14:03:49.824Z",
   "effectiveDate": "2022-08-11T11:00:00.000Z",
   "viewableDate": "2022-06-27T23:00:00.000Z",
   "developer": null,
@@ -72,6 +72,18 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 12828,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -81,18 +93,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 12815,
       "comment": null
     },
     {
@@ -107,7 +107,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 980,
+      "referenceCount": 982,
       "comment": null
     },
     {
@@ -119,7 +119,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 288,
+      "referenceCount": 286,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -129,8 +129,16 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
