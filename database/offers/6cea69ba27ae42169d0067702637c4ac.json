@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "d45aff4a965f41d5a727f5ce4b652150",
   "creationDate": "2024-03-13T19:08:44.844Z",
-  "lastModifiedDate": "2024-03-27T09:22:12.768Z",
+  "lastModifiedDate": "2024-03-28T13:04:19.792Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-03-23T20:57:06.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "1287",
+      "name": "Fantasy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2023-08-23T02:59:53.929Z",
+      "status": "ACTIVE",
+      "referenceCount": 95,
+      "comment": null
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12828,
+      "referenceCount": 12837,
       "comment": null
     },
     {
@@ -107,7 +119,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 982,
+      "referenceCount": 983,
       "comment": null
     }
   ],
