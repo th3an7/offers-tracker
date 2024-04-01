@@ -8,7 +8,7 @@
   "productSlug": "octopath-traveler",
   "urlSlug": "octopath-traveler",
   "creationDate": "2020-02-18T15:16:25.261Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.646Z",
+  "lastModifiedDate": "2024-03-31T15:13:14.407Z",
   "effectiveDate": "2021-03-25T00:00:00.000Z",
   "viewableDate": "2021-03-25T00:00:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -75,6 +75,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 12849,
+      "comment": null
+    },
+    {
       "id": "21147",
       "name": "Inclusive Character Customization",
       "namespace": null,
@@ -87,29 +99,16 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
+      "id": "9549",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 12847,
+      "referenceCount": 2372,
       "comment": null
-    },
-    null,
-    {
-      "id": "20237",
-      "name": "Square Enix Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-03-18T19:36:36.460Z",
-      "updated": "2024-03-21T17:54:12.041Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": ""
     }
   ],
   "customAttributes": [
