@@ -8,7 +8,7 @@
   "productSlug": "south-park-the-fractured-but-whole",
   "urlSlug": "alewifegeneralaudience",
   "creationDate": "2019-10-28T21:43:21.201Z",
-  "lastModifiedDate": "2024-03-14T09:09:29.325Z",
+  "lastModifiedDate": "2024-04-03T15:01:35.721Z",
   "effectiveDate": "2019-12-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -75,6 +75,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 12912,
+      "comment": null
+    },
+    {
       "id": "21147",
       "name": "Inclusive Character Customization",
       "namespace": null,
@@ -85,18 +97,6 @@
       "status": "ACTIVE",
       "referenceCount": 127,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 12906,
-      "comment": null
     },
     {
       "id": "1116",
@@ -119,7 +119,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2373,
+      "referenceCount": 2374,
       "comment": null
     },
     {
