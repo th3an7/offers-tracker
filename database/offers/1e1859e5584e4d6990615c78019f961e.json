@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "7fb475d2335f4a90a84b461cfaaeaca1",
   "creationDate": "2024-04-10T16:26:47.926Z",
-  "lastModifiedDate": "2024-04-10T16:26:47.926Z",
+  "lastModifiedDate": "2024-04-16T00:22:46.999Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-04-10T16:26:39.112Z",
+  "viewableDate": "2024-04-10T16:26:39.000Z",
   "developer": null,
   "seller": {
     "id": "o-q5nlmhxdwpmwzy529zkl2r4gzna7mu",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 691,
+      "referenceCount": 698,
       "comment": ""
     },
     {
@@ -58,18 +58,6 @@
       "status": "ACTIVE",
       "referenceCount": 943,
       "comment": null
-    },
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 196,
-      "comment": ""
     },
     {
       "id": "1283",
@@ -104,7 +92,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 428,
+      "referenceCount": 435,
       "comment": ""
     },
     {
@@ -128,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13123,
+      "referenceCount": 13160,
       "comment": null
     },
     {
@@ -152,7 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2410,
+      "referenceCount": 2420,
       "comment": null
     }
   ],
