@@ -8,7 +8,7 @@
   "productSlug": "lego-star-wars-the-skywalker-saga--deluxe-edition",
   "urlSlug": "lego-star-wars-the-skywalker-saga--deluxe-edition",
   "creationDate": "2022-03-09T14:24:56.476Z",
-  "lastModifiedDate": "2024-03-14T09:09:29.397Z",
+  "lastModifiedDate": "2024-04-19T12:26:16.126Z",
   "effectiveDate": "2022-04-05T17:00:00.000Z",
   "viewableDate": "2022-04-05T17:00:00.000Z",
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition"
+      "path": "games"
     },
     {
-      "path": "games"
+      "path": "games/edition"
     },
     {
       "path": "applications"
@@ -72,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "16005",
+      "name": "STAR WARS May The 4th",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-26T12:36:10.637Z",
+      "updated": "2024-04-10T10:30:44.378Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": ""
+    },
+    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
@@ -80,7 +92,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1718,
+      "referenceCount": 1733,
       "comment": ""
     },
     {
@@ -92,7 +104,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3504,
+      "referenceCount": 3520,
       "comment": ""
     },
     {
@@ -116,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13211,
+      "referenceCount": 13236,
       "comment": null
     },
     {
@@ -130,18 +142,6 @@
       "status": "ACTIVE",
       "referenceCount": 1473,
       "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2024-03-28T15:02:53.376Z",
-      "status": "ACTIVE",
-      "referenceCount": 2889,
-      "comment": ""
     }
   ],
   "customAttributes": [
