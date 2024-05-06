@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "7292d6fef84f4d03924b6457338d86d8",
   "creationDate": "2023-12-13T07:45:55.487Z",
-  "lastModifiedDate": "2024-03-18T13:38:36.364Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-05-05T15:06:10.689Z",
+  "effectiveDate": "2024-05-10T12:00:00.000Z",
   "viewableDate": "2023-12-22T03:58:24.583Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3565,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13398,
+      "referenceCount": 13402,
       "comment": null
     },
     {
@@ -122,7 +134,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
