@@ -8,7 +8,7 @@
   "productSlug": "naraka-bladepoint",
   "urlSlug": "naraka-bladepoint",
   "creationDate": "2024-04-15T06:52:46.591Z",
-  "lastModifiedDate": "2024-05-17T10:05:45.568Z",
+  "lastModifiedDate": "2024-05-18T10:38:42.471Z",
   "effectiveDate": "2021-12-08T16:00:00.000Z",
   "viewableDate": "2021-06-13T16:00:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer",
@@ -48,7 +59,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 792,
+      "referenceCount": 793,
       "comment": ""
     },
     {
@@ -96,10 +107,21 @@
       "created": "2022-05-17T18:56:51.047Z",
       "updated": "2023-08-03T18:31:17.357Z",
       "status": "ACTIVE",
-      "referenceCount": 205,
+      "referenceCount": 206,
       "comment": "From Ratings & Polls results."
     },
-    null,
+    {
+      "id": "21125",
+      "name": "Competitive Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:32.830Z",
+      "updated": "2023-09-26T16:06:19.633Z",
+      "status": "ACTIVE",
+      "referenceCount": 96,
+      "comment": ""
+    },
     {
       "id": "22776",
       "name": "Cross Platform",
@@ -109,8 +131,20 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 483,
+      "referenceCount": 484,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 13560,
+      "comment": null
     }
   ],
   "customAttributes": [
