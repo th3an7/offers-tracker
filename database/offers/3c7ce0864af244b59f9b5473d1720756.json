@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "44e1b7b905fb4d35a24e743ac5ea8d64",
   "creationDate": "2024-02-07T16:10:09.902Z",
-  "lastModifiedDate": "2024-02-07T16:10:09.902Z",
+  "lastModifiedDate": "2024-05-20T20:18:22.061Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-02-07T16:09:51.962Z",
+  "viewableDate": "2024-02-07T16:09:51.000Z",
   "developer": null,
   "seller": {
     "id": "o-wc7ex43ujth2dba3zbaxhe7nqe96ca",
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 202,
-      "comment": ""
-    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -68,7 +56,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13564,
+      "referenceCount": 13492,
       "comment": null
     },
     {
