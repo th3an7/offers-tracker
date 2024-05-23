@@ -8,7 +8,7 @@
   "productSlug": "the-colonists",
   "urlSlug": "the-colonists",
   "creationDate": "2020-12-09T08:29:44.919Z",
-  "lastModifiedDate": "2021-08-25T16:43:46.873Z",
+  "lastModifiedDate": "2024-05-22T11:25:04.055Z",
   "effectiveDate": "2021-02-24T18:00:00.000Z",
   "viewableDate": "2021-02-24T18:00:00.000Z",
   "developer": null,
@@ -28,16 +28,28 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
   "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2024-03-28T21:49:29.573Z",
+      "status": "ACTIVE",
+      "referenceCount": 1846,
+      "comment": null
+    },
     {
       "id": "1146",
       "name": "City Builder",
@@ -71,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13605,
+      "referenceCount": 13616,
       "comment": null
     },
     {

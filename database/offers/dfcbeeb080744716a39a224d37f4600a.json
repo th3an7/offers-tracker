@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "c63216c165c6472798801a57c2b5d6fb",
   "creationDate": "2024-02-27T18:14:34.508Z",
-  "lastModifiedDate": "2024-04-12T23:39:50.402Z",
+  "lastModifiedDate": "2024-05-22T17:24:56.177Z",
   "effectiveDate": "2024-04-09T17:00:00.000Z",
   "viewableDate": "2024-04-09T17:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -80,19 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13605,
-      "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
+      "referenceCount": 13616,
       "comment": null
     },
     {
@@ -133,28 +121,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/94d6f668611641ac9e779fe54571ca34/phantom-watcher-70f2q.png",
-      "md5": "e7b119e6e04cb2e719953403c9887d54",
-      "size": 3603357,
-      "uploadedDate": "2024-03-27T19:36:53.005Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/94d6f668611641ac9e779fe54571ca34/phantom-watcher-11hto.png",
+      "md5": "19203b10fe941dfa8b6f6e5d865f2f1b",
+      "size": 3433105,
+      "uploadedDate": "2024-05-15T19:30:18.335Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/94d6f668611641ac9e779fe54571ca34/phantom-watcher-p3t9m.png",
-      "md5": "1253bc2f7094056a606df14a1ae8c5e4",
-      "size": 2068466,
-      "uploadedDate": "2024-03-27T19:36:54.116Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/94d6f668611641ac9e779fe54571ca34/phantom-watcher-v3vvj.png",
+      "md5": "c211978b532d97374ddfd3fa3936937c",
+      "size": 2255571,
+      "uploadedDate": "2024-05-15T19:30:21.969Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/94d6f668611641ac9e779fe54571ca34/phantom-watcher-p3t9m.png",
-      "md5": "1253bc2f7094056a606df14a1ae8c5e4",
-      "size": 2068466,
-      "uploadedDate": "2024-03-27T19:36:54.116Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/94d6f668611641ac9e779fe54571ca34/phantom-watcher-v3vvj.png",
+      "md5": "c211978b532d97374ddfd3fa3936937c",
+      "size": 2255571,
+      "uploadedDate": "2024-05-15T19:30:21.969Z",
       "width": 1200,
       "height": 1600
     }
