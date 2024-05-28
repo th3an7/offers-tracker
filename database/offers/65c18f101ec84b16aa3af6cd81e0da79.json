@@ -3,12 +3,12 @@
   "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
   "title": "theHunter: Call of the Wild™ - Yukon Valley",
   "description": "Hunt Gray Wolves and more as you trek through burned down forests in the open world of Yukon Valley. Stretching over 25 square miles (64 square kilometer), experience 9 new narrative missions and 40 side missions that can be played alone or with friends.",
-  "longDescription": "With its breathtaking environments; Yukon Valley is spectacular to behold. \n\n# YUKON VALLEY’S FAUNA\n\nThis dazzling park lets you hunt Gray Wolves, Grizzly Bears, Plains Bison, Caribou, Moose, Red Foxesand Harlequin Ducks. \n\n# LUSH AND VIBRANT FLORA\n\nTrek through the stumps of the burnt forest, rolling foothills,  crimson fields and the crisp yellow leaves of the woodlands as you take in the splendor of the Alaskan night sky.\n\n# .300 CANNING MAGNUM\n\nFavored by marksmen and hunters alike for its accuracy, the .300 Magnum cartridge is effective for long-range hunting up to a distance of 400 meters. \n\n# MISSIONS AND MEASURES\n\nYukon Valley measures a dramatic 25 square miles (64 square kilometer) where you can follow the new story with warden Jim, containing 9 new narrative missions, and 40 side missions. \n\n# SHARE THE EXPERIENCE\n\nTry out the reserve without owning it by simply joining a multiplayer session of another player who owns the reserve. You will have access to everything but the narrative missions.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nWith its breathtaking environments; Yukon Valley is spectacular to behold.\n\n<!--textBlock-->\n<!--title-->\n# YUKON VALLEY’S FAUNA\n<!--text-->\n\nThis dazzling park lets you hunt Gray Wolves, Grizzly Bears, Plains Bison, Caribou, Moose, Red Foxesand Harlequin Ducks.\n\n<!--textBlock-->\n<!--title-->\n# LUSH AND VIBRANT FLORA\n<!--text-->\n\nTrek through the stumps of the burnt forest, rolling foothills,  crimson fields and the crisp yellow leaves of the woodlands as you take in the splendor of the Alaskan night sky.\n\n<!--textBlock-->\n<!--title-->\n# .300 CANNING MAGNUM\n<!--text-->\n\nFavored by marksmen and hunters alike for its accuracy, the .300 Magnum cartridge is effective for long-range hunting up to a distance of 400 meters.\n\n<!--textBlock-->\n<!--title-->\n# MISSIONS AND MEASURES\n<!--text-->\n\nYukon Valley measures a dramatic 25 square miles (64 square kilometer) where you can follow the new story with warden Jim, containing 9 new narrative missions, and 40 side missions.\n\n<!--textBlock-->\n<!--title-->\n# SHARE THE EXPERIENCE\n<!--text-->\n\nTry out the reserve without owning it by simply joining a multiplayer session of another player who owns the reserve. You will have access to everything but the narrative missions.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "thehunter-call-of-the-wild--yukon-valley",
-  "creationDate": "2021-06-03T22:40:42.221Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.569Z",
+  "creationDate": "2024-04-01T20:33:59.878Z",
+  "lastModifiedDate": "2024-05-27T07:13:37.071Z",
   "effectiveDate": "2021-11-25T16:00:00.000Z",
   "viewableDate": "2021-11-18T15:25:00.000Z",
   "developer": null,
@@ -33,6 +33,54 @@
   ],
   "tags": [
     {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 893,
+      "comment": ""
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 558,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -41,11 +89,51 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13661,
+      "referenceCount": 13665,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2023-08-21T17:22:53.154Z",
+      "status": "ACTIVE",
+      "referenceCount": 416,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "First Person",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2023-08-23T00:14:55.884Z",
+      "status": "ACTIVE",
+      "referenceCount": 481,
       "comment": null
     }
   ],
   "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
     {
       "key": "publisherName",
       "value": "Expansive Worlds"
@@ -53,17 +141,39 @@
     {
       "key": "developerName",
       "value": "Expansive Worlds"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
     {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_IC1_200x200-20c596f42410e61d9d53882983cfd957",
-      "md5": "20c596f42410e61d9d53882983cfd957",
-      "size": 92550,
-      "uploadedDate": "2021-10-21T12:44:29.143Z",
-      "width": 200,
-      "height": 200
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_S1_2560x1440-33abd797ee24930a9d88ad4c4321eddd",
+      "md5": "33abd797ee24930a9d88ad4c4321eddd",
+      "size": 938976,
+      "uploadedDate": "2021-10-21T12:45:47.640Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_S2_1200x1600-ae428dcf6556ede00a9e6d7ac3929bde",
+      "md5": "ae428dcf6556ede00a9e6d7ac3929bde",
+      "size": 820379,
+      "uploadedDate": "2021-10-21T12:45:51.396Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_S2_1200x1600-ae428dcf6556ede00a9e6d7ac3929bde",
+      "md5": "ae428dcf6556ede00a9e6d7ac3929bde",
+      "size": 820379,
+      "uploadedDate": "2021-10-21T12:45:51.396Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "featuredMedia",
@@ -118,42 +228,6 @@
       "uploadedDate": "2021-10-21T12:45:29.715Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_S1_2560x1440-33abd797ee24930a9d88ad4c4321eddd",
-      "md5": "33abd797ee24930a9d88ad4c4321eddd",
-      "size": 938976,
-      "uploadedDate": "2021-10-21T12:45:47.640Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_S2_1200x1600-ae428dcf6556ede00a9e6d7ac3929bde",
-      "md5": "ae428dcf6556ede00a9e6d7ac3929bde",
-      "size": 820379,
-      "uploadedDate": "2021-10-21T12:45:51.396Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_S2_1200x1600-ae428dcf6556ede00a9e6d7ac3929bde",
-      "md5": "ae428dcf6556ede00a9e6d7ac3929bde",
-      "size": 820379,
-      "uploadedDate": "2021-10-21T12:45:58.192Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWildYukonValley_ExpansiveWorlds_AddOn_S2_1200x1600-ae428dcf6556ede00a9e6d7ac3929bde",
-      "md5": "ae428dcf6556ede00a9e6d7ac3929bde",
-      "size": 820379,
-      "uploadedDate": "2021-10-21T12:46:08.080Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

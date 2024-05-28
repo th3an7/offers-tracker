@@ -3,12 +3,12 @@
   "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
   "title": "theHunter: Call of the Wild™ - Greenhorn Bundle",
   "description": "The Greenhorn Bundle is perfect for Hunters who are looking for a head-start on the hunting trail. Explore the reserves of theHunter: Call of the Wild in an ATV, get to know your faithful Bloodhound, and explore the variety of gear available.",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe Greenhorn Bundle is perfect for Hunters who are looking for a head-start on the hunting trail. \n\nExplore the reserves of theHunter: Call of the Wild in an ATV, get to know your faithful Bloodhound, and explore the variety of gear available across the Modern Rifle Pack, Weapon Packs 1 and 2, and the High-Tech Hunting Pack. Get ready for whatever the reserve brings!\n\n<!--textBlock-->\n<!--title-->\n# This Bundle Contains:\n<!--text-->\n\ntheHunter: Call of the Wild - Base Game:\nNever before have you experienced a hunting game like theHunter: Call of the Wild. Plunge into an atmospheric open world, teeming with life: from the majestic true-to-life animals to the rustling of leaves above you as you stalk your prey. You can decide to hunt on your own or join up and hunt together with friends. Just remember, you are not just a visitor in this world, you are a living and breathing part of it.\n\n<!--textBlock-->\n<!--title-->\n# ATV:\n<!--text-->\n\nTo encourage full exploration of the reserves, the wardens have approved the use of All Terrain Vehicles (ATVs). Using an ATV, hunters and hikers alike will be able to discover more of the hidden beauty lying in wait – and have a great time doing it!\n\n<!--textBlock-->\n<!--title-->\n# Bloodhound:\n<!--text-->\n\nForge a bond that will last a lifetime with a new companion! Let your furry friend help you track the scent of blood from injured prey as they keep you company on the trail.\n\n<!--textBlock-->\n<!--title-->\n# Tents & Ground Blinds:\n<!--text-->\n\nThe reserve wardens Conni and Doc have received a new shipment of equipment – including a Tent and Ground Blind! Perfect for hunting in both Hirschfelden and Layton Lake District.\n\n<!--textBlock-->\n<!--title-->\n# Modern Rifle Pack:\n<!--text-->\n\nExpand your weapon arsenal with a brand-new collection of modern rifles! Whether you’re hunting small game or fierce apex predators, these versatile semi-automatic rifles have all the firepower you need. Each rifle is available in two distinctive skins and compatible with a wide range of scopes.\n\n<!--textBlock-->\n<!--title-->\n# Weapon Pack 1:\n<!--text-->\n\nThe wardens Connie, Doc, and Alena have received a shipment of weapons – the Virant .22LR Semi-Automatic Rifle, the Crosspoint CB-165, and the Houyi Recurve Bow!\n\n<!--textBlock-->\n<!--title-->\n# Weapon Pack 2:\n<!--text-->\n\nAnother shipment of weapons has just been delivered to our wardens, and they’re excited to present three awesome additions to your arsenal. Try out the Grelck Drilling Gun, the Solokhin MN1890, and the Mangiafico 410 / 45 Colt Revolver.\n\n<!--textBlock-->\n<!--title-->\n# High-Tech Hunting Pack:\n<!--text-->\n\nHunting in a stealthy fashion has never been easier thanks to the Night Hunting Pack. Through a selected mix of high-quality tools, you can now track your target with precision in the dark.\n",
   "status": "ACTIVE",
   "productSlug": "p/thehunter-call-of-the-wild--greenhorn-bundle",
   "urlSlug": "paris-gb",
-  "creationDate": "2022-11-09T14:21:34.581Z",
-  "lastModifiedDate": "2024-03-26T14:59:25.754Z",
+  "creationDate": "2024-04-01T20:33:59.916Z",
+  "lastModifiedDate": "2024-05-27T07:13:32.375Z",
   "effectiveDate": "2022-11-21T10:00:00.000Z",
   "viewableDate": "2022-11-21T10:00:00.000Z",
   "developer": null,
@@ -36,6 +36,66 @@
   ],
   "tags": [
     {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 893,
+      "comment": ""
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 558,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -44,11 +104,47 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13661,
+      "referenceCount": 13665,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2023-08-21T17:22:53.154Z",
+      "status": "ACTIVE",
+      "referenceCount": 416,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "First Person",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2023-08-23T00:14:55.884Z",
+      "status": "ACTIVE",
+      "referenceCount": 481,
       "comment": null
     }
   ],
   "customAttributes": [
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
     {
       "key": "publisherName",
       "value": "Expansive Worlds"
@@ -58,37 +154,122 @@
       "value": "Expansive Worlds"
     },
     {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    },
+    {
       "key": "com.epicgames.app.productSlug",
       "value": "p/thehunter-call-of-the-wild--greenhorn-bundle"
     }
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/c7f9346e3db148fca6dd63e9dd8451bd/EGS_theHunterCalloftheWildGreenhornBundle_ExpansiveWorlds_Bundles_S2_1200x1600-69bc00d3d3dd43910bbe54902f8cab66",
-      "md5": "69bc00d3d3dd43910bbe54902f8cab66",
-      "size": 764998,
-      "uploadedDate": "2022-11-09T16:11:11.771Z",
-      "width": 1200,
-      "height": 1600
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-00-1920x1080-ffccaf736d32.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-01-1920x1080-ec8e1fb78fd7.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-02-1920x1080-9412a788a3ab.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-03-1920x1080-085cae3e8949.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-04-1920x1080-b8d8d4b4386e.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-05-1920x1080-1554e9c337df.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-06-1920x1080-5d2c39ddf3ef.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-07-1920x1080-4b71327fe48f.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-g1a-08-1920x1080-e3326f762209.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.562Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/c7f9346e3db148fca6dd63e9dd8451bd/EGS_theHunterCalloftheWildGreenhornBundle_ExpansiveWorlds_Bundles_S2_1200x1600-69bc00d3d3dd43910bbe54902f8cab66",
-      "md5": "69bc00d3d3dd43910bbe54902f8cab66",
-      "size": 764998,
-      "uploadedDate": "2022-11-09T16:11:15.491Z",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-s2-1200x1600-6a5bd4ac5789.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.564Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/c7f9346e3db148fca6dd63e9dd8451bd/EGS_theHunterCalloftheWildGreenhornBundle_ExpansiveWorlds_Bundles_S1_2560x1440-9514752f19aba3360dfbc67ce0b9ff3c",
-      "md5": "9514752f19aba3360dfbc67ce0b9ff3c",
-      "size": 943250,
-      "uploadedDate": "2022-11-09T16:11:19.251Z",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-s1-2560x1440-f6ec0fb4adf2.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.564Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn2.unrealengine.com/egs-thehuntercallofthewildgreenhornbundle-expansiveworlds-bundles-s2-1200x1600-6a5bd4ac5789.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-01T20:33:57.564Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
