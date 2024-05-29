@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dead-by-daylight--silent-hill-chapter",
-  "creationDate": "2024-04-23T19:54:53.627Z",
-  "lastModifiedDate": "2024-05-14T17:49:21.455Z",
+  "creationDate": "2021-08-12T00:08:25.030Z",
+  "lastModifiedDate": "2024-05-28T22:09:16.768Z",
   "effectiveDate": "2021-12-02T16:00:00.000Z",
   "viewableDate": "2021-11-25T16:00:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer",
@@ -48,7 +59,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 893,
+      "referenceCount": 900,
       "comment": ""
     },
     {
@@ -72,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13665,
+      "referenceCount": 13688,
       "comment": null
     },
     {
@@ -99,7 +110,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -112,6 +123,10 @@
     {
       "key": "publisherName",
       "value": "Behaviour Interactive"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "false"
     },
     {
       "key": "developerName",
@@ -201,15 +216,6 @@
       "md5": "6dd886ef1c962ef96c9a0199316dbe86",
       "size": 253134,
       "uploadedDate": "2021-11-19T11:11:13.026Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadByDaylightSilentHillChapter_BehaviourInteractive_DLC_G1A_07_1920x1080-ce396a364426aa1a70a26515e38b30d1",
-      "md5": "ce396a364426aa1a70a26515e38b30d1",
-      "size": 623762,
-      "uploadedDate": "2021-11-19T11:11:15.990Z",
       "width": 1920,
       "height": 1080
     }

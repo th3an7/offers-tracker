@@ -1,16 +1,16 @@
 {
   "id": "c6b26b2c7086456a9270cb983b316982",
   "namespace": "3a212c0da4f1438e840c21565df4b6fe",
-  "title": "Dokken SP2",
-  "description": "Dokken SP2",
-  "longDescription": "Dokken SP2",
+  "title": "MultiVersus Ultimate Launchpad",
+  "description": "The MultiVersus Starter Packs offer three different tiers of in-game content and Gleamium for you to further customize your profile and boost your gameplay at a valued price.",
+  "longDescription": "The MultiVersus Starter Pack offers three different tiers of in-game content and Gleamium for you to boost your gameplay at a valued price.\n\nUltimate Launchpad includes 6,000 Character Currency, 1,000 Gleamium, Epic Jungle Jam Ringout, and a Rare Showdown Shaggy Skin.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "multiversus--sp1-01",
+  "urlSlug": "mvs-ultimate-launchpad",
   "creationDate": "2023-01-23T18:25:59.198Z",
-  "lastModifiedDate": "2023-08-02T23:14:46.040Z",
-  "effectiveDate": "2099-01-01T16:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-05-28T16:59:26.049Z",
+  "effectiveDate": "2024-05-28T17:00:00.000Z",
+  "viewableDate": "2024-05-28T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/consumable"
     },
     {
       "path": "applications"
@@ -36,20 +36,66 @@
   ],
   "tags": [
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 3656,
-      "comment": ""
+      "referenceCount": 13688,
+      "comment": null
     }
   ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusUltimateLaunchpad_PlayerFirstGames_DLC_S2_1200x1600-c108646f89f6db3de681ef042413f63f",
+      "md5": "c108646f89f6db3de681ef042413f63f",
+      "size": 908277,
+      "uploadedDate": "2024-05-22T18:04:47.096Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusUltimateLaunchpad_PlayerFirstGames_DLC_S1_2560x1440-d675da56563cf5f1949378e7a978bdef",
+      "md5": "d675da56563cf5f1949378e7a978bdef",
+      "size": 987265,
+      "uploadedDate": "2024-05-22T18:04:51.222Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusUltimateLaunchpad_PlayerFirstGames_DLC_S2_1200x1600-c108646f89f6db3de681ef042413f63f",
+      "md5": "c108646f89f6db3de681ef042413f63f",
+      "size": 908277,
+      "uploadedDate": "2024-05-22T18:04:55.201Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusUltimateLaunchpad_PlayerFirstGames_DLC_IC1_200x200-8435a0dd6bf33cf6dbb0f0aa39f26201",
+      "md5": "8435a0dd6bf33cf6dbb0f0aa39f26201",
+      "size": 7573,
+      "uploadedDate": "2024-05-22T18:04:57.703Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusUltimateLaunchpad_PlayerFirstGames_DLC_G1A_00_1920x1080-557f8534edd610b356894b5a198b6c1a",
+      "md5": "557f8534edd610b356894b5a198b6c1a",
+      "size": 854821,
+      "uploadedDate": "2024-05-22T18:05:01.090Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "281638e36db94686be2076cffa9b85b6"

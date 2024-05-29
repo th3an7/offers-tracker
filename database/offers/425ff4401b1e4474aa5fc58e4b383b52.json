@@ -1,16 +1,16 @@
 {
   "id": "425ff4401b1e4474aa5fc58e4b383b52",
   "namespace": "3a212c0da4f1438e840c21565df4b6fe",
-  "title": "Dokken SP1",
-  "description": "Dokken SP1",
-  "longDescription": "Dokken SP1",
+  "title": "MultiVersus Starter Slasher",
+  "description": "The MultiVersus Starter Packs offer three different tiers of in-game content and Gleamium for you to further customize your profile and boost your gameplay at a valued price. ",
+  "longDescription": "The MultiVersus Starter Pack offers three different tiers of in-game content and Gleamium for you to boost your gameplay at a valued price.\n\nStarter Slasher includes 4,500 Character Currency, 750 Gleamium, and an Epic Slashed Ringout.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "multiversus--sp1",
+  "urlSlug": "mvs-starter-slasher",
   "creationDate": "2023-01-23T18:25:17.468Z",
-  "lastModifiedDate": "2023-08-02T23:14:45.776Z",
-  "effectiveDate": "2099-01-01T16:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-05-28T16:59:25.995Z",
+  "effectiveDate": "2024-05-28T17:00:00.000Z",
+  "viewableDate": "2024-05-28T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/consumable"
     },
     {
       "path": "applications"
@@ -36,20 +36,66 @@
   ],
   "tags": [
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 3656,
-      "comment": ""
+      "referenceCount": 13688,
+      "comment": null
     }
   ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusStarterSlasher_PlayerFirstGames_DLC_S2_1200x1600-783c50879e9443f260d9acd73d3af8b8",
+      "md5": "783c50879e9443f260d9acd73d3af8b8",
+      "size": 712972,
+      "uploadedDate": "2024-05-22T18:02:09.019Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusStarterSlasher_PlayerFirstGames_DLC_S1_2560x1440-dd96f51a936644715da8e18bf203fd42",
+      "md5": "dd96f51a936644715da8e18bf203fd42",
+      "size": 947804,
+      "uploadedDate": "2024-05-22T18:02:17.610Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusStarterSlasher_PlayerFirstGames_DLC_S2_1200x1600-783c50879e9443f260d9acd73d3af8b8",
+      "md5": "783c50879e9443f260d9acd73d3af8b8",
+      "size": 712972,
+      "uploadedDate": "2024-05-22T18:02:22.303Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusStarterSlasher_PlayerFirstGames_DLC_IC1_200x200-8435a0dd6bf33cf6dbb0f0aa39f26201",
+      "md5": "8435a0dd6bf33cf6dbb0f0aa39f26201",
+      "size": 7573,
+      "uploadedDate": "2024-05-22T18:02:25.252Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusStarterSlasher_PlayerFirstGames_DLC_G1A_00_1920x1080-0a04e1c7f9e4cb6bdac8d1e0fcd8da7e",
+      "md5": "0a04e1c7f9e4cb6bdac8d1e0fcd8da7e",
+      "size": 805299,
+      "uploadedDate": "2024-05-22T18:02:29.933Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "fb6da57b90f44d1fa9e355b0c6b5f64c"
