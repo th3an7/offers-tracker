@@ -1,14 +1,14 @@
 {
   "id": "90239b7148d74c0ca8ae214e850dced6",
   "namespace": "1368a7f14c3344bbaededbae528fafed",
-  "title": "The Bad Seed",
-  "description": "Explore a relaxing Arboretum, wade through a noxious Swamp and take on a new boss in this new early game content designed to expand the Dead Cells universe and add variety to runs for people who want to support the development of the game.",
-  "longDescription": "Explore a relaxing Arboretum, wade through a noxious Swamp and take on a new boss in this early game content, designed to add run variety for those who want to support the game's development.\n\nThe Arboretum: A relaxing and peaceful greenhouse inhabited by a peaceful clan of mushrooms, with an understandable desire to murder the Beheaded.\nThe Swamp: A noxious environment ruled by a band of tree dwelling mutants with pointy sticks, sneaky dart shooting frogmen and a bunch of deadly bloodsuckers.\nThe Heart of the Swamp: Domain of Mama Tick, if you’ve seen Starship Troopers, you get the idea...",
+  "title": "Dead Cells: The Bad Seed",
+  "description": "Explore a relaxing Arboretum, wade through a noxious Swamp and take on a new boss in this early game content designed to expand the Dead Cells universe.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nExplore a relaxing Arboretum, wade through a noxious Swamp and take on a new boss in this early game content designed to expand the Dead Cells universe.\n\nSo you’ll be able to play through:\n- The Dilapidated Arboretum: a relaxing and peaceful greenhouse inhabited by a peaceful clan of mushrooms, with an understandable desire to murder The Beheaded.\n- The Morass of The Banished: a noxious environment ruled by a band of tree dwelling mutants with pointy sticks, sneaky dart shooting frogmen and a bunch of deadly bloodsuckers.\n- The Nest: Domain of Mama Tick, if you’ve seen Starship Troopers, you get the idea...\n\nThe two new levels and their monsters are alternatives to Promenade of the Condemned/Toxic Sewers and Ramparts/Ossuary/Ancient Sewers, with the boss designed to be on par with The Concierge, so hopefully it’ll spice up your early game runs once you’ve played through the base game.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dead-cells---the-bad-seed",
-  "creationDate": "2020-08-28T15:45:01.380Z",
-  "lastModifiedDate": "2024-05-28T15:06:54.297Z",
+  "creationDate": "2024-03-26T15:12:45.309Z",
+  "lastModifiedDate": "2024-06-03T10:59:19.172Z",
   "effectiveDate": "2020-10-22T16:00:00.000Z",
   "viewableDate": "2020-10-22T16:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 13761,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -57,54 +69,6 @@
       "updated": "2023-08-23T05:17:12.960Z",
       "status": "ACTIVE",
       "referenceCount": 204,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13745,
-      "comment": null
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-07-26T14:41:48.253Z",
-      "updated": "2023-08-22T15:03:06.981Z",
-      "status": "ACTIVE",
-      "referenceCount": 91,
-      "comment": ""
-    },
-    {
-      "id": "35244",
-      "name": "Epic Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-04-04T07:10:15.490Z",
-      "updated": "2024-04-25T15:00:11.094Z",
-      "status": "ACTIVE",
-      "referenceCount": 510,
-      "comment": ""
-    },
-    {
-      "id": "1247",
-      "name": "Metroidvania",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:21.277Z",
-      "updated": "2023-07-31T20:24:00.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 257,
       "comment": null
     },
     {
@@ -118,54 +82,86 @@
       "status": "ACTIVE",
       "referenceCount": 1176,
       "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "Motion Twin"
+    },
+    {
+      "key": "developerName",
+      "value": "Motion Twin"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/b9c56502-d99e-46f1-8f03-8f234ce89fd6-1200x1600-92d38ba772e72fe0fd3a4e71b72a0eb4.jpg",
-      "md5": "92d38ba772e72fe0fd3a4e71b72a0eb4",
-      "size": 1022980,
-      "uploadedDate": "2020-10-21T14:29:03.014Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/0654508725ca490a812544f795164cf6/dead-cells-1krgd.jpg",
+      "md5": "ca1f4fce3cae7316266f50403fae6439",
+      "size": 418529,
+      "uploadedDate": "2024-05-29T11:51:58.482Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/b9c56502-d99e-46f1-8f03-8f234ce89fd6-1200x1600-92d38ba772e72fe0fd3a4e71b72a0eb4.jpg",
-      "md5": "92d38ba772e72fe0fd3a4e71b72a0eb4",
-      "size": 1022980,
-      "uploadedDate": "2020-10-21T14:28:37.947Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/0654508725ca490a812544f795164cf6/dead-cells-5vx69.jpg",
+      "md5": "ee1bcc03b2252a8a3ccc7f2120cf5b73",
+      "size": 577689,
+      "uploadedDate": "2024-05-29T11:52:01.768Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/0654508725ca490a812544f795164cf6/dead-cells-5vx69.jpg",
+      "md5": "ee1bcc03b2252a8a3ccc7f2120cf5b73",
+      "size": 577689,
+      "uploadedDate": "2024-05-29T11:52:01.768Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCellsTheBadSeed_MotionTwin_DLC_G1C_00-1920x1080-23e8cce6011f8c89017adf350e67b419.jpg",
       "md5": "23e8cce6011f8c89017adf350e67b419",
       "size": 1006888,
       "uploadedDate": "2020-10-19T20:52:52.546Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/1368a7f14c3344bbaededbae528fafed/EGS_DeadCellsTheQueenandtheSea_MotionTwin_DLC_IC1_200x63-ec38749819fb8b6973b2d09df112b68c_200x63-ec38749819fb8b6973b2d09df112b68c",
-      "md5": "ec38749819fb8b6973b2d09df112b68c",
-      "size": 39041,
-      "uploadedDate": "2023-05-15T15:29:38.741Z",
-      "width": 200,
-      "height": 63
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/b9c56502-d99e-46f1-8f03-8f234ce89fd6-1200x1600-92d38ba772e72fe0fd3a4e71b72a0eb4.jpg",
-      "md5": "92d38ba772e72fe0fd3a4e71b72a0eb4",
-      "size": 1022980,
-      "uploadedDate": "2020-10-21T14:28:55.502Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [
