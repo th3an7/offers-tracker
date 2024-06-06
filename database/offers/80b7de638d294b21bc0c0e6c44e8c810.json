@@ -1,16 +1,16 @@
 {
   "id": "80b7de638d294b21bc0c0e6c44e8c810",
   "namespace": "3a212c0da4f1438e840c21565df4b6fe",
-  "title": "DokkenVC5",
-  "description": "DokkenVC5",
-  "longDescription": null,
+  "title": "MultiVersus Chest of Gleamium",
+  "description": "The MultiVersus Gleamium packs offer five different tiers of Gleamium to purchase for in-game use. Use Gleamium to unlock unique content in-game and further customize your play! ",
+  "longDescription": "The MultiVersus Gleamium packs offer five different tiers of Gleamium to purchase for in-game use.\n\nChest of Gleamium offers 12,500 Gleamium for you to enjoy.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "dokkenvc5",
+  "urlSlug": "multiversus--chest-of-gleamium",
   "creationDate": "2022-06-06T20:28:00.951Z",
-  "lastModifiedDate": "2023-08-02T23:14:46.803Z",
-  "effectiveDate": "2099-01-01T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-06-05T16:01:07.663Z",
+  "effectiveDate": "2024-06-05T16:00:00.000Z",
+  "viewableDate": "2024-06-05T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "addons"
     },
     {
-      "path": "spthidden"
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -44,12 +44,70 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3676,
+      "referenceCount": 3681,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 13812,
+      "comment": null
     }
   ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusChestofGleamium_PlayerFirstGames_DLC_S2_1200x1600-998f2e84fd896ef50ca9f099f008d697",
+      "md5": "998f2e84fd896ef50ca9f099f008d697",
+      "size": 628813,
+      "uploadedDate": "2024-05-27T13:52:53.650Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusChestofGleamium_PlayerFirstGames_DLC_S1_2560x1440-4f40d8c7321591b95403e3d4018b1a39",
+      "md5": "4f40d8c7321591b95403e3d4018b1a39",
+      "size": 814241,
+      "uploadedDate": "2024-05-27T13:52:58.754Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusChestofGleamium_PlayerFirstGames_DLC_S2_1200x1600-998f2e84fd896ef50ca9f099f008d697",
+      "md5": "998f2e84fd896ef50ca9f099f008d697",
+      "size": 628813,
+      "uploadedDate": "2024-05-27T13:53:03.494Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusChestofGleamium_PlayerFirstGames_DLC_IC1_200x200-8435a0dd6bf33cf6dbb0f0aa39f26201",
+      "md5": "8435a0dd6bf33cf6dbb0f0aa39f26201",
+      "size": 7573,
+      "uploadedDate": "2024-05-27T13:53:06.085Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/3a212c0da4f1438e840c21565df4b6fe/EGS_MultiVersusChestofGleamium_PlayerFirstGames_DLC_G1A_00_1920x1080-3d00dd596afb34cfd79d0b7a6111bea4",
+      "md5": "3d00dd596afb34cfd79d0b7a6111bea4",
+      "size": 553910,
+      "uploadedDate": "2024-05-27T13:53:11.409Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "27dc640446bd49c0af012bd22d3a6025"
