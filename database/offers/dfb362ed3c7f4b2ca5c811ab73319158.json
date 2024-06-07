@@ -3,12 +3,12 @@
   "namespace": "d2d162953fec40e381867d7af8371362",
   "title": "6,600 B-Chips",
   "description": "6,600 B-Chips",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# 6,600 B-Chips\n<!--text-->\n6,600 B-Chips\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "globalmcointier60",
-  "creationDate": "2024-04-18T08:38:45.783Z",
-  "lastModifiedDate": "2024-05-21T05:22:04.865Z",
+  "creationDate": "2024-03-30T16:52:06.279Z",
+  "lastModifiedDate": "2024-06-06T04:30:19.650Z",
   "effectiveDate": "2022-10-27T06:00:00.000Z",
   "viewableDate": "2022-10-27T06:00:00.000Z",
   "developer": null,
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2579,
-      "comment": null
-    },
-    {
       "id": "1117",
       "name": "Adventure",
       "namespace": "epic",
@@ -105,6 +93,18 @@
       "updated": "2023-08-23T02:16:39.269Z",
       "status": "ACTIVE",
       "referenceCount": 1473,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 2585,
       "comment": null
     }
   ],
@@ -122,6 +122,10 @@
       "value": "miHoYo Limited"
     },
     {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "false"
+    },
+    {
       "key": "developerName",
       "value": "miHoYo Limited"
     },
@@ -131,15 +135,6 @@
     }
   ],
   "keyImages": [
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn2.unrealengine.com/egs-honkaiimpact3rd-mihoyolimited-s1-2560x1440-bba3636f7a5c.jpg",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-30T16:52:03.169Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn2.unrealengine.com/egs-honkaiimpact3rd-mihoyolimited-s2-1200x1600-aab51eb2220a.jpg",
@@ -166,6 +161,15 @@
       "uploadedDate": "2024-03-30T16:52:03.169Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-honkaiimpact3rd-mihoyolimited-s1-2560x1440-bba3636f7a5c.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-30T16:52:03.169Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
