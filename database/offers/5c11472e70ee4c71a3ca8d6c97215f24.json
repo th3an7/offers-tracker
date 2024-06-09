@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "68c71d52d8264da1b710e6082992928a",
   "creationDate": "2024-03-27T02:28:31.697Z",
-  "lastModifiedDate": "2024-06-05T03:00:19.498Z",
+  "lastModifiedDate": "2024-06-08T22:12:12.030Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-04-24T16:00:01.744Z",
+  "viewableDate": "2024-04-24T16:00:01.000Z",
   "developer": null,
   "seller": {
     "id": "o-gu4vm2ewcmjpsfj73h5az9j6y8pwej",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -96,6 +96,18 @@
       "comment": ""
     },
     {
+      "id": "36825",
+      "name": "Future Games Show",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-06-04T17:14:51.489Z",
+      "updated": "2024-06-08T21:01:28.662Z",
+      "status": "ACTIVE",
+      "referenceCount": 10,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -128,7 +140,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13871,
+      "referenceCount": 13876,
       "comment": null
     },
     {
@@ -140,7 +152,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2600,
+      "referenceCount": 2604,
       "comment": null
     }
   ],
