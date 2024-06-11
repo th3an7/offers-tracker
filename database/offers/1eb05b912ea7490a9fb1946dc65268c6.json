@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "fb8406ced53547a781284e8e6df9710c",
   "creationDate": "2024-06-08T20:00:20.695Z",
-  "lastModifiedDate": "2024-06-08T20:00:20.695Z",
+  "lastModifiedDate": "2024-06-10T15:31:17.615Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-06-08T20:00:01.924Z",
+  "viewableDate": "2024-06-08T20:00:01.000Z",
   "developer": null,
   "seller": {
     "id": "o-q6cdbfpcbjub728pzlab6wedbt6btq",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -46,6 +46,18 @@
       "status": "ACTIVE",
       "referenceCount": 519,
       "comment": null
+    },
+    {
+      "id": "36825",
+      "name": "Future Games Show",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-06-04T17:14:51.489Z",
+      "updated": "2024-06-08T21:01:28.662Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": ""
     },
     {
       "id": "1370",
@@ -68,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13881,
+      "referenceCount": 13893,
       "comment": null
     },
     {
@@ -92,7 +104,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2606,
+      "referenceCount": 2610,
       "comment": null
     }
   ],

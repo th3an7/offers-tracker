@@ -3,12 +3,12 @@
   "namespace": "d5cbd232ad304c91aacc20f31849435c",
   "title": "House Flipper - Farm DLC",
   "description": "Old McDonald had a farm. Now it has new owners, who want to completely renovate it. Extend houses, change roofs, buy animals, grow plants, fly a drone, complete jobs and enjoy the weather. The spring 2023 will be busy in the countryside!",
-  "longDescription": "# The cows go moo!\n\nExperience fresh farm vibes, thanks to the latest addition to the House Flipper family. Let your surroundings be filled with the sounds of the life of your animal companions! Build homesteads and look after swine,\nsheep, chickens, and more! Your very own farming adventure begins now!\n\n# How about more space\n\nWouldn’t an extra room in your perfectly designed house be a handy addition? Do you dream of a garage for your brand new car? It’s now all possible, thanks to the Farm DLC. A revolutionary house extension mechanic will forever change your everyday renovations.\n\n# Plant, harvest, repeat\n\nHungry? It's thyme for dinner! Lettuce celebrate!\nNo matter what you plant, you better take care of creating the right conditions for your vegetation!\nA selection of unique tools and a set of farming skills will help you with that!\nPrepare the soil, spare no water, and you shall be harvesting plentiful crops in a blink of an eye!\n\n# Hop on your horse!\n\nKeeping your farm in check is not just a responsibility, but also a pleasure!\nWhistle for your favorite steed, hop in the saddle, and go for a ride around your land.\nKeep in mind that this is just the beginning of your adventure, farmer.\nMaplebloom Village awaits you!\n\n# Farm DLC includes:\n\n- Multiple farm properties\n- Dozens of different farm-themed items\n- New story orders\n- Farm animals such as cows, sheep, chickens, and more\n- Crop plants that you need to take care of\n- More space with the possibility to build extensions of your house\n- Horse riding\n...And many, many more!\n\n\n\n\n",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# The cows go moo!\n<!--text-->\n\nExperience fresh farm vibes, thanks to the latest addition to the House Flipper family. Let your surroundings be filled with the sounds of the life of your animal companions! Build homesteads and look after swine,\nsheep, chickens, and more! Your very own farming adventure begins now!\n\n<!--textBlock-->\n<!--title-->\n# How about more space\n<!--text-->\n\nWouldn’t an extra room in your perfectly designed house be a handy addition? Do you dream of a garage for your brand new car? It’s now all possible, thanks to the Farm DLC. A revolutionary house extension mechanic will forever change your everyday renovations.\n\n<!--textBlock-->\n<!--title-->\n# Plant, harvest, repeat\n<!--text-->\n\nHungry? It's thyme for dinner! Lettuce celebrate!\nNo matter what you plant, you better take care of creating the right conditions for your vegetation!\nA selection of unique tools and a set of farming skills will help you with that!\nPrepare the soil, spare no water, and you shall be harvesting plentiful crops in a blink of an eye!\n\n<!--textBlock-->\n<!--title-->\n# Hop on your horse!\n<!--text-->\n\nKeeping your farm in check is not just a responsibility, but also a pleasure!\nWhistle for your favorite steed, hop in the saddle, and go for a ride around your land.\nKeep in mind that this is just the beginning of your adventure, farmer.\nMaplebloom Village awaits you!\n\n<!--textBlock-->\n<!--title-->\n# Farm DLC includes:\n<!--text-->\n\n- Multiple farm properties\n- Dozens of different farm-themed items\n- New story orders\n- Farm animals such as cows, sheep, chickens, and more\n- Crop plants that you need to take care of\n- More space with the possibility to build extensions of your house\n- Horse riding\n...And many, many more!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "house-flipper--farm-dlc",
-  "creationDate": "2022-04-10T19:52:35.521Z",
-  "lastModifiedDate": "2024-04-12T13:51:28.626Z",
+  "creationDate": "2024-03-25T22:07:49.001Z",
+  "lastModifiedDate": "2024-06-10T07:32:06.090Z",
   "effectiveDate": "2023-05-18T16:00:00.000Z",
   "viewableDate": "2023-05-18T16:00:00.000Z",
   "developer": null,
@@ -36,6 +36,30 @@
   ],
   "tags": [
     {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2023-08-23T04:55:54.798Z",
+      "status": "ACTIVE",
+      "referenceCount": 423,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -44,8 +68,20 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3701,
+      "referenceCount": 3704,
       "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
     },
     {
       "id": "9547",
@@ -56,33 +92,65 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13881,
+      "referenceCount": 13893,
       "comment": null
     },
     {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3085,
-      "comment": ""
+      "referenceCount": 2610,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
     }
   ],
-  "customAttributes": [],
-  "keyImages": [
+  "customAttributes": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/d5cbd232ad304c91aacc20f31849435c/EGS_HouseFlipperFarmDLC_FrozenWayFrozenDistrict_DLC_S2_1200x1600-a027556803597fa6b371febe3f9a830c",
-      "md5": "a027556803597fa6b371febe3f9a830c",
-      "size": 783309,
-      "uploadedDate": "2023-04-19T15:52:12.301Z",
-      "width": 1200,
-      "height": 1600
+      "key": "isManuallySetRefundableType",
+      "value": "true"
     },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frozen District"
+    },
+    {
+      "key": "developerName",
+      "value": "Empyrean"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
+  "keyImages": [
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/offer/d5cbd232ad304c91aacc20f31849435c/EGS_HouseFlipperFarmDLC_FrozenWayFrozenDistrict_DLC_S2_1200x1600-a027556803597fa6b371febe3f9a830c",
@@ -100,15 +168,6 @@
       "uploadedDate": "2023-04-19T15:52:09.446Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/d5cbd232ad304c91aacc20f31849435c/EGS_HouseFlipperFarmDLC_FrozenWayFrozenDistrict_DLC_IC1_200x200-cf7ba95e2ef265c7df8b53915ef2a05a",
-      "md5": "cf7ba95e2ef265c7df8b53915ef2a05a",
-      "size": 81460,
-      "uploadedDate": "2023-04-19T15:52:18.175Z",
-      "width": 200,
-      "height": 200
     },
     {
       "type": "Thumbnail",

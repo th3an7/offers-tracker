@@ -3,12 +3,12 @@
   "namespace": "d5cbd232ad304c91aacc20f31849435c",
   "title": "House Flipper - Pets DLC",
   "description": "It's finally time to find your perfect renovation partner! Max, Phil, Bella? It's up to you to decide what's the name of your adopted companion. Take in an adorable pet and let him help you on your flipping journey in the friendly area of Cozy Village!",
-  "longDescription": "# Adopt a Pet\n\nWill you find a place for someone special in your recently renovated property? Thanks to Pets DLC you'll have a chance to take care of a lovely companion and have a wonderful time together!\n\nYour new furry buddy represents one of ten popular dog or cat breeds, but that's not the end of great news! The DLC will also allow you to choose between other animal species like rabbits, turtles, parrots or hamsters!\n\n# A unique style\n\nAccess an exclusive set of items and decor elements, which will let you design a cozy countryside house for you and your pet. Comfortable sofas, plushy pillows, and tons of decorations will help you on your journey!\n\nDon't forget about preparing a nice and warm spot for your sweet companion! A specially designed room and a play zone in the backyard should be wonderful. The new location and large open spaces will bring lots of pleasant memories. Discover new properties, from houses with cozy attics and terraces to huge 2-story countryside homes!\n\n# Your own animal hotel\n\nPets DLC contains:\n\n- 10 popular dog and cat breeds available!\n- Other domestic animal species like rabbits, turtles, parrots, and guinea pigs.\n- More than 700 new unique items.\n- 11 new ranch-themed properties and orders.\n\nWere you always dreaming of standing in front of your cozy countryside home with an adorable pet by your side? If the answer is \"yes\", then this DLC is here for you!\n",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Adopt a Pet\n<!--text-->\n\nWill you find a place for someone special in your recently renovated property? Thanks to Pets DLC you'll have a chance to take care of a lovely companion and have a wonderful time together!\n\nYour new furry buddy represents one of ten popular dog or cat breeds, but that's not the end of great news! The DLC will also allow you to choose between other animal species like rabbits, turtles, parrots or hamsters!\n\n<!--textBlock-->\n<!--title-->\n# A unique style\n<!--text-->\n\nAccess an exclusive set of items and decor elements, which will let you design a cozy countryside house for you and your pet. Comfortable sofas, plushy pillows, and tons of decorations will help you on your journey!\n\nDon't forget about preparing a nice and warm spot for your sweet companion! A specially designed room and a play zone in the backyard should be wonderful. The new location and large open spaces will bring lots of pleasant memories. Discover new properties, from houses with cozy attics and terraces to huge 2-story countryside homes!\n\n<!--textBlock-->\n<!--title-->\n# Your own animal hotel\n<!--text-->\n\nPets DLC contains:\n\n- 10 popular dog and cat breeds available!\n- Other domestic animal species like rabbits, turtles, parrots, and guinea pigs.\n- More than 700 new unique items.\n- 11 new ranch-themed properties and orders.\n\nWere you always dreaming of standing in front of your cozy countryside home with an adorable pet by your side? If the answer is \"yes\", then this DLC is here for you!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "house-flipper--pets-dlc",
-  "creationDate": "2022-04-10T19:52:03.535Z",
-  "lastModifiedDate": "2024-04-12T13:51:36.578Z",
+  "creationDate": "2024-03-25T22:07:48.993Z",
+  "lastModifiedDate": "2024-06-10T07:32:06.090Z",
   "effectiveDate": "2022-06-16T16:00:00.000Z",
   "viewableDate": "2022-06-16T16:00:00.000Z",
   "developer": null,
@@ -36,6 +36,30 @@
   ],
   "tags": [
     {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2023-08-23T04:55:54.798Z",
+      "status": "ACTIVE",
+      "referenceCount": 423,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -44,23 +68,76 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3701,
+      "referenceCount": 3704,
       "comment": ""
     },
     {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
-      "referenceCount": 3085,
-      "comment": ""
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 2610,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frozen District"
+    },
+    {
+      "key": "developerName",
+      "value": "Empyrean"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "Thumbnail",

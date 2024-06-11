@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "panzer-corps-2--axis-operations-1946",
   "creationDate": "2023-09-21T12:22:45.163Z",
-  "lastModifiedDate": "2024-03-13T22:31:20.988Z",
+  "lastModifiedDate": "2024-06-10T16:46:49.718Z",
   "effectiveDate": "2023-11-30T14:00:00.000Z",
   "viewableDate": "2023-10-02T14:00:00.000Z",
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 952,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -44,7 +56,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13881,
+      "referenceCount": 13893,
+      "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
       "comment": null
     }
   ],

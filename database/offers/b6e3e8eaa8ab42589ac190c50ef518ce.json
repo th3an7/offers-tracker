@@ -3,12 +3,12 @@
   "namespace": "d5cbd232ad304c91aacc20f31849435c",
   "title": "House Flipper - Luxury DLC",
   "description": "Restore antiques or choose something from the many luxury furniture items available in the store! When decorating a smart home, look for new solutions - maybe a swimming pool in the living room? Visit Moonrise Bay!",
-  "longDescription": "# All you need is... space!\n\nNo more small houses with dozens of little rooms - size is what really counts!\nGlass roofs, plate glass windows for walls and a ceiling many feet above your head - this is how kings live!\nTake run-down tenement houses and old industrial buildings - factories, large commercial buildings and warehouses - and turn them into luxury apartments.\n\n# New jobs - new opportunities\n\nMoonrise Bay residents are customers that have high expectations. They are willing to invest a lot of money in a home that will make them proud.\nAs well as adhering to the highest standards, you will have to get a feel for the specific tastes of your customers even if they don’t already have any. With new possibilities to insert windows or create swimming pools inside houses, you will be able to design interiors by making your wildest dreams come true - nothing will stand in your way!\n\n# Luxurious but modest\n\nIf modern furniture is not your cup of tea, you can try to renovate furniture from past centuries.\nIt will not be an easy job, but the end result will bring you a lot of satisfaction.\nUtilizing classic furniture doesn't mean giving up comfort. With smart devices, you can control your entire home!\nChange the colors of the lights, close and open the doors - everything without getting up out of your chair!\n\n# More options\n\nWith the Luxury Flipper game expansion, we are putting right into your hands dozens of types of new furniture: classic contemporary, antique and modern. The multitude of varieties of color and modular sets will allow you to modify any room to fit your vision of the perfect home.\n\nIt's time to visit Moonrise Bay!",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# All you need is... space!\n<!--text-->\n\nNo more small houses with dozens of little rooms - size is what really counts!\nGlass roofs, plate glass windows for walls and a ceiling many feet above your head - this is how kings live!\nTake run-down tenement houses and old industrial buildings - factories, large commercial buildings and warehouses - and turn them into luxury apartments.\n\n<!--textBlock-->\n<!--title-->\n# New jobs - new opportunities\n<!--text-->\n\nMoonrise Bay residents are customers that have high expectations. They are willing to invest a lot of money in a home that will make them proud.\nAs well as adhering to the highest standards, you will have to get a feel for the specific tastes of your customers even if they don’t already have any. With new possibilities to insert windows or create swimming pools inside houses, you will be able to design interiors by making your wildest dreams come true - nothing will stand in your way!\n\n<!--textBlock-->\n<!--title-->\n# Luxurious but modest\n<!--text-->\n\nIf modern furniture is not your cup of tea, you can try to renovate furniture from past centuries.\nIt will not be an easy job, but the end result will bring you a lot of satisfaction.\nUtilizing classic furniture doesn't mean giving up comfort. With smart devices, you can control your entire home!\nChange the colors of the lights, close and open the doors - everything without getting up out of your chair!\n\n<!--textBlock-->\n<!--title-->\n# More options\n<!--text-->\n\nWith the Luxury Flipper game expansion, we are putting right into your hands dozens of types of new furniture: classic contemporary, antique and modern. The multitude of varieties of color and modular sets will allow you to modify any room to fit your vision of the perfect home.\n\nIt's time to visit Moonrise Bay!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "house-flipper--luxury-dlc",
-  "creationDate": "2021-11-09T23:06:50.399Z",
-  "lastModifiedDate": "2024-04-12T13:51:44.825Z",
+  "creationDate": "2024-06-05T14:05:05.067Z",
+  "lastModifiedDate": "2024-06-10T07:32:06.090Z",
   "effectiveDate": "2021-12-08T17:00:00.000Z",
   "viewableDate": "2021-12-08T17:00:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "addons"
     },
     {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
-      "path": "games"
+      "path": "addons/durable"
     },
     {
       "path": "addons/dlc"
@@ -71,7 +71,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3701,
+      "referenceCount": 3704,
       "comment": ""
     },
     {
@@ -95,20 +95,8 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 13881,
+      "referenceCount": 13893,
       "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
-      "status": "ACTIVE",
-      "referenceCount": 3085,
-      "comment": ""
     },
     {
       "id": "9549",
@@ -119,7 +107,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2606,
+      "referenceCount": 2610,
       "comment": null
     },
     {
@@ -135,7 +123,36 @@
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frozen District"
+    },
+    {
+      "key": "developerName",
+      "value": "Empyrean"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "featuredMedia",
@@ -264,15 +281,6 @@
       "height": 1080
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/d5cbd232ad304c91aacc20f31849435c/EGS_HouseFlipperLuxuryDLC_FrozenDistrict_DLC_S2_1200x1600-4a252ea156e2a86c5ce34619f4c823c9",
-      "md5": "4a252ea156e2a86c5ce34619f4c823c9",
-      "size": 712645,
-      "uploadedDate": "2021-11-23T13:34:41.060Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/offer/d5cbd232ad304c91aacc20f31849435c/EGS_HouseFlipperLuxuryDLC_FrozenDistrict_DLC_S2_1200x1600-4a252ea156e2a86c5ce34619f4c823c9",
       "md5": "4a252ea156e2a86c5ce34619f4c823c9",
@@ -298,15 +306,6 @@
       "uploadedDate": "2021-11-23T13:34:56.670Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/d5cbd232ad304c91aacc20f31849435c/EGS_HouseFlipperLuxuryDLC_FrozenDistrict_DLC_IC1_200x200-4398e8b1ed0026fc6a179768f7d4e54b",
-      "md5": "4398e8b1ed0026fc6a179768f7d4e54b",
-      "size": 43052,
-      "uploadedDate": "2021-11-23T13:34:58.834Z",
-      "width": 200,
-      "height": 200
     }
   ],
   "items": [

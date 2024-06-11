@@ -1,14 +1,14 @@
 {
   "id": "aff5a361a63a4d9faddc64c569bd67e8",
   "namespace": "a60b160cb14c4c258b70299310b63e56",
-  "title": "DevCulebraAudience",
-  "description": "DevCulebraAudience",
+  "title": "DevCulebraAudience dev audience",
+  "description": "DevCulebraAudience dev audience",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "devculebraaudience-01",
   "creationDate": "2020-09-23T02:23:38.576Z",
-  "lastModifiedDate": "2021-04-27T13:49:54.368Z",
+  "lastModifiedDate": "2024-06-10T16:46:49.718Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -31,7 +31,32 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 952,
+      "comment": ""
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
