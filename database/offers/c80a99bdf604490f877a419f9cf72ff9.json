@@ -2,15 +2,15 @@
   "id": "c80a99bdf604490f877a419f9cf72ff9",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
   "title": "Rocket League® - Season 15 Elite Pack",
-  "description": "Rocket League® - Season 15 Elite Pack",
+  "description": "Unlock the Mamba car (Titanium White), Gernot Wheel (Black), Hellfire Goal Explosion, the Candyfloss Boost (Titanium White), and the Huntress, Ombre, and Trigon (Titanium White) Decals in the S15 Elite Pack!",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "rocketleague-season15elitepack",
+  "urlSlug": "rocket-league--season-15-elite-pack",
   "creationDate": "2024-04-15T22:04:24.098Z",
-  "lastModifiedDate": "2024-05-21T22:08:52.220Z",
-  "effectiveDate": "2099-04-15T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-06-11T20:14:57.464Z",
+  "effectiveDate": "2024-06-12T16:00:00.000Z",
+  "viewableDate": "2024-06-12T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
@@ -25,12 +25,77 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 13985,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15ElitePack_PsyonixLLC_DLC_G1A_00_1920x1080-9f093beec2e05a1b504fe753a19e6ee3",
+      "md5": "9f093beec2e05a1b504fe753a19e6ee3",
+      "size": 557362,
+      "uploadedDate": "2024-05-20T21:27:02.237Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15ElitePack_PsyonixLLC_DLC_S1_2560x1440-0e14eb357937b37473fa09174818c3b1",
+      "md5": "0e14eb357937b37473fa09174818c3b1",
+      "size": 867688,
+      "uploadedDate": "2024-05-20T21:27:10.324Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15ElitePack_PsyonixLLC_DLC_S2_1200x1600-57fbae973da3d937344ac35253180622",
+      "md5": "57fbae973da3d937344ac35253180622",
+      "size": 565353,
+      "uploadedDate": "2024-05-20T21:27:16.352Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15ElitePack_PsyonixLLC_DLC_S2_1200x1600-57fbae973da3d937344ac35253180622",
+      "md5": "57fbae973da3d937344ac35253180622",
+      "size": 565353,
+      "uploadedDate": "2024-05-20T21:27:20.595Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15ElitePack_PsyonixLLC_DLC_IC1_200x200-c88d31641b2b39199f6a005d6a789e4c",
+      "md5": "c88d31641b2b39199f6a005d6a789e4c",
+      "size": 4548,
+      "uploadedDate": "2024-05-20T21:27:25.182Z",
+      "width": 200,
+      "height": 200
+    }
+  ],
   "items": [
     {
       "id": "1e07312990f342619bdaa229eb32c1d3"

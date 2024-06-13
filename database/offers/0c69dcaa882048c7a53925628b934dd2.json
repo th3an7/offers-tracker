@@ -8,7 +8,7 @@
   "productSlug": "pinball-fx",
   "urlSlug": "pinball-fx",
   "creationDate": "2020-07-03T21:54:59.368Z",
-  "lastModifiedDate": "2023-02-25T01:37:47.978Z",
+  "lastModifiedDate": "2024-06-12T13:53:45.018Z",
   "effectiveDate": "2022-03-31T15:00:00.000Z",
   "viewableDate": "2022-03-30T15:00:00.000Z",
   "developer": null,
@@ -28,112 +28,16 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
   "tags": [
-    {
-      "id": "21121",
-      "name": "Great for Quick Sessions",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:06:21.330Z",
-      "updated": "2023-08-16T00:30:02.340Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "1188",
-      "name": "RELAXING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-08-22T13:54:28.456Z",
-      "status": "ACTIVE",
-      "referenceCount": 344,
-      "comment": null
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2023-09-26T16:06:19.633Z",
-      "status": "ACTIVE",
-      "referenceCount": 96,
-      "comment": ""
-    },
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-23T02:20:12.228Z",
-      "status": "ACTIVE",
-      "referenceCount": 1800,
-      "comment": ""
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3709,
-      "comment": ""
-    },
-    {
-      "id": "21129",
-      "name": "Challenging Combat",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:19:41.315Z",
-      "updated": "2023-08-22T23:38:34.180Z",
-      "status": "ACTIVE",
-      "referenceCount": 160,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13913,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2611,
-      "comment": null
-    },
     {
       "id": "1393",
       "name": "Simulation",
@@ -145,18 +49,6 @@
       "status": "ACTIVE",
       "referenceCount": 943,
       "comment": null
-    },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-08-22T10:58:47.687Z",
-      "status": "ACTIVE",
-      "referenceCount": 469,
-      "comment": ""
     },
     {
       "id": "1203",
@@ -183,39 +75,27 @@
       "comment": null
     },
     {
-      "id": "21139",
-      "name": "Amazing Characters",
+      "id": "21894",
+      "name": "Cloud Saves",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-08-22T10:58:47.673Z",
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 424,
+      "referenceCount": 1800,
       "comment": ""
     },
     {
-      "id": "21140",
-      "name": "Amazing Storytelling",
+      "id": "19847",
+      "name": "Achievements",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-08-22T14:02:04.254Z",
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 427,
-      "comment": ""
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-08-22T20:28:22.857Z",
-      "status": "ACTIVE",
-      "referenceCount": 447,
+      "referenceCount": 3704,
       "comment": ""
     },
     {
@@ -231,28 +111,28 @@
       "comment": null
     },
     {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-08-22T10:58:47.694Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 450,
-      "comment": ""
+      "referenceCount": 13985,
+      "comment": null
     },
     {
-      "id": "21119",
-      "name": "Great for Beginners",
-      "namespace": null,
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:03:45.609Z",
-      "updated": "2023-08-22T21:49:10.904Z",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 309,
-      "comment": "From Ratings & Polls results."
+      "referenceCount": 2613,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -263,56 +143,29 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S2_1200x1600-2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "md5": "2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "size": 931004,
-      "uploadedDate": "2021-12-03T17:41:20.715Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S1_2560x1440-d55f48f2b98953bf5a418983e42b0507",
-      "md5": "d55f48f2b98953bf5a418983e42b0507",
-      "size": 580040,
-      "uploadedDate": "2021-12-03T17:41:25.100Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S1_2560x1440-ae93c79584d28ea29167892040d2bd15",
+      "md5": "ae93c79584d28ea29167892040d2bd15",
+      "size": 688349,
+      "uploadedDate": "2024-06-12T11:07:46.303Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S2_1200x1600-2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "md5": "2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "size": 931004,
-      "uploadedDate": "2021-12-03T17:41:30.153Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S1_2560x1440-d55f48f2b98953bf5a418983e42b0507",
-      "md5": "d55f48f2b98953bf5a418983e42b0507",
-      "size": 580040,
-      "uploadedDate": "2021-12-03T17:41:33.869Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S2_1200x1600-2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "md5": "2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "size": 931004,
-      "uploadedDate": "2021-12-03T17:41:37.763Z",
+      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S2_1200x1600-5828295208578366ff8ca48dd3c88913",
+      "md5": "5828295208578366ff8ca48dd3c88913",
+      "size": 423255,
+      "uploadedDate": "2024-06-12T11:07:50.710Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S2_1200x1600-2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "md5": "2f1b7a78e6ed9701e96c49c6d082a8b9",
-      "size": 931004,
-      "uploadedDate": "2021-12-03T17:41:42.202Z",
+      "url": "https://cdn1.epicgames.com/offer/c11f80fe3b674a2bbf60e4c46d588a54/EGS_PinballFX_ZenStudios_S2_1200x1600-5828295208578366ff8ca48dd3c88913",
+      "md5": "5828295208578366ff8ca48dd3c88913",
+      "size": 423255,
+      "uploadedDate": "2024-06-12T11:07:54.837Z",
       "width": 1200,
       "height": 1600
     }
