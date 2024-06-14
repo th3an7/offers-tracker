@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "vagrus-the-riven-realms-centurion-edition",
   "creationDate": "2023-03-10T12:03:49.156Z",
-  "lastModifiedDate": "2024-06-04T02:38:03.328Z",
+  "lastModifiedDate": "2024-06-13T19:10:22.874Z",
   "effectiveDate": "2023-04-04T12:00:00.000Z",
   "viewableDate": "2023-03-22T14:00:00.000Z",
   "developer": null,
@@ -53,7 +53,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3704,
+      "referenceCount": 3705,
       "comment": ""
     },
     {
@@ -69,6 +69,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14167,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -81,27 +93,15 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 13985,
-      "comment": null
-    },
-    {
       "id": "16011",
       "name": "Epic MEGA Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2024-05-16T14:58:02.941Z",
+      "updated": "2024-06-13T15:00:07.255Z",
       "status": "ACTIVE",
-      "referenceCount": 3081,
+      "referenceCount": 154,
       "comment": ""
     },
     {
@@ -113,7 +113,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2613,
+      "referenceCount": 2615,
       "comment": null
     },
     {
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1170,
+      "referenceCount": 1174,
       "comment": null
     }
   ],
@@ -152,6 +152,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

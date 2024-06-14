@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "vagrus-the-riven-realms-prologue",
   "creationDate": "2023-03-10T12:19:25.390Z",
-  "lastModifiedDate": "2024-06-04T02:38:03.359Z",
+  "lastModifiedDate": "2024-06-13T19:10:23.560Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-06-30T15:00:00.000Z",
   "developer": null,
@@ -45,6 +45,18 @@
       "comment": null
     },
     {
+      "id": "1287",
+      "name": "Fantasy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2023-08-23T02:59:53.929Z",
+      "status": "ACTIVE",
+      "referenceCount": 95,
+      "comment": null
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -53,7 +65,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3704,
+      "referenceCount": 3705,
       "comment": ""
     },
     {
@@ -81,6 +93,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14167,
+      "comment": null
+    },
+    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -89,19 +113,22 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2613,
+      "referenceCount": 2615,
       "comment": null
     },
     {
-      "id": "1263",
-      "name": "Indie",
+      "id": "10719",
+      "name": "Mac OS",
       "namespace": "epic",
-      "aliases": [],
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
       "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1176,
+      "referenceCount": 1174,
       "comment": null
     }
   ],
@@ -115,6 +142,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -126,28 +157,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-pepuh.jpg",
-      "md5": "ddf0fbc2e51e015942f984e41056f61f",
-      "size": 360998,
-      "uploadedDate": "2023-03-10T14:09:42.742Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-grlnl.jpg",
+      "md5": "0036d6b94aaabc8f439fb5e676e722e3",
+      "size": 366522,
+      "uploadedDate": "2024-01-12T13:17:44.571Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-mxhq8.jpg",
-      "md5": "12fa56cf5855086be523682e58bc3336",
-      "size": 214386,
-      "uploadedDate": "2023-03-10T14:09:39.417Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-15d24.jpg",
+      "md5": "b928e7df08ed79109a1a8041ed9e998e",
+      "size": 217136,
+      "uploadedDate": "2024-01-12T13:22:10.162Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-mxhq8.jpg",
-      "md5": "12fa56cf5855086be523682e58bc3336",
-      "size": 214386,
-      "uploadedDate": "2023-03-10T14:09:39.417Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c97e0e794e5f4aeba4b670c16125124a/vagrus--the-riven-realms-15d24.jpg",
+      "md5": "b928e7df08ed79109a1a8041ed9e998e",
+      "size": 217136,
+      "uploadedDate": "2024-01-12T13:22:10.162Z",
       "width": 1200,
       "height": 1600
     },

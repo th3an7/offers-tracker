@@ -1,16 +1,16 @@
 {
   "id": "a6185a45dcda46aebf6d36d20c1e8bc2",
   "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
-  "title": "VPB - M",
-  "description": "VPB - M",
+  "title": "VAULT PASS BUNDLE - MICKEY",
+  "description": "VAULT PASS BUNDLE - MICKEY",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "vpb-m",
   "creationDate": "2024-05-30T14:19:37.432Z",
-  "lastModifiedDate": "2024-05-31T10:04:35.261Z",
-  "effectiveDate": "2099-05-30T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-06-12T19:11:54.965Z",
+  "effectiveDate": "2024-06-13T08:00:00.000Z",
+  "viewableDate": "2024-06-13T08:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
@@ -28,22 +28,37 @@
       "path": "applications"
     }
   ],
-  "tags": [
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3709,
-      "comment": ""
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/DS_VaultSeasonsIAPPacks_Epic_1200x1600_1200x1600-81ed0c9fd63eca2116ebe168097931ff",
+      "md5": "81ed0c9fd63eca2116ebe168097931ff",
+      "size": 776638,
+      "uploadedDate": "2024-06-12T17:05:30.594Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/DS_VaultSeasonsIAPPacks_Epic_2560x1440_2560x1440-37c491f42d5d73d14ff82fb59018c046",
+      "md5": "37c491f42d5d73d14ff82fb59018c046",
+      "size": 945342,
+      "uploadedDate": "2024-06-12T17:05:33.501Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/DS_VaultSeasonsIAPPacks_Epic_1200x1600_1200x1600-81ed0c9fd63eca2116ebe168097931ff",
+      "md5": "81ed0c9fd63eca2116ebe168097931ff",
+      "size": 776638,
+      "uploadedDate": "2024-06-12T17:05:36.979Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "customAttributes": [],
-  "keyImages": [],
   "items": [
     {
       "id": "fc54d323d1ac48cb835bf7f548c40c17"
