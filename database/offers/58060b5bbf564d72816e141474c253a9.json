@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "86a37e7055724074a063f4bdff042192",
   "creationDate": "2022-11-23T16:15:00.544Z",
-  "lastModifiedDate": "2024-05-21T15:02:43.911Z",
+  "lastModifiedDate": "2024-06-17T19:04:02.984Z",
   "effectiveDate": "2023-03-17T14:00:00.000Z",
   "viewableDate": "2022-12-02T16:30:00.000Z",
   "developer": null,
@@ -84,6 +84,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14193,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -93,30 +105,6 @@
       "updated": "2023-08-23T05:17:12.960Z",
       "status": "ACTIVE",
       "referenceCount": 204,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14173,
-      "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -128,6 +116,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
