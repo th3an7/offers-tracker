@@ -3,12 +3,12 @@
   "namespace": "f774d8b9a9324124892868e7b5c71169",
   "title": "The Riftbreaker: Metal Terror",
   "description": "Explore an entirely new area of Galatea 37 in this Story Campaign expansion for The Riftbreaker. Catalog new species. Craft new and unique weapons. Fight hordes of aliens, unlike anything you've seen before.",
-  "longDescription": "# About The Expansion:\nMetal Terror is the first World Expansion for The Riftbreaker, introducing an entirely new part of the Story Campaign, playing out in a previously unexplored biome. A unique astronomical event takes place during Ashley’s Riftbreaking mission. Its aftermath reveals that Galatea 37 was hiding a dark secret the whole time. Driven by your scientific curiosity, explore the previously hidden corners of the planet. Study the new ecosystem. Find useful resources and adapt your technology to make use of them. Face new enemies, both natural and unnatural.\n\n![Image1](https://cdn2.unrealengine.com/egs-theriftbreakermetalterror-exorstudios-dlc-g2-00-1920x1080-47784c536ca7.jpg)\n\n# Features:\n- Discover a new branch of the Story Campaign, that will take you on a journey into the unknown.\n- Establish an Outpost in a brand-new area of the planet - if you dare.\n- Scan, analyze, and catalog the unique fauna and flora of the new biome.\n- Face several new enemy species, each posing a different kind of challenge.\n- Research new additions to the technology tree, utilizing the curiosities you discover in the new biome: buildings, weapons, and equipment.\n- Solve the mystery that remained hidden for millennia.\n\n![Image2](https://cdn2.unrealengine.com/egs-theriftbreakermetalterror-exorstudios-dlc-g2-01-1920x1080-be9456ecf6a5.jpg)\n\n# Contents of this Expansion:\nThe Story portion of this Expansion is integrated with the Main Campaign from the base edition of The Riftbreaker. The new branch and the contents of the expansion will unlock as you progress through the game. If you have previously completed The Riftbreaker Story Campaign, you can continue your adventure where you left off. The additional part of the Story will unlock immediately, giving you the option to explore the new part of the world. \n\n![Image3](https://cdn2.unrealengine.com/egs-theriftbreakermetalterror-exorstudios-dlc-g2-02-1920x1080-180d6eeb5a61.jpg)",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# About The Expansion:\n<!--text-->\nMetal Terror is the first World Expansion for The Riftbreaker, introducing an entirely new part of the Story Campaign, playing out in a previously unexplored biome. A unique astronomical event takes place during Ashley’s Riftbreaking mission. Its aftermath reveals that Galatea 37 was hiding a dark secret the whole time. Driven by your scientific curiosity, explore the previously hidden corners of the planet. Study the new ecosystem. Find useful resources and adapt your technology to make use of them. Face new enemies, both natural and unnatural.\n\n<!--image-->\n![Image1](https://cdn2.unrealengine.com/egs-theriftbreakermetalterror-exorstudios-dlc-g2-00-1920x1080-47784c536ca7.jpg)\n\n<!--textBlock-->\n<!--title-->\n# Features:\n<!--text-->\n- Discover a new branch of the Story Campaign, that will take you on a journey into the unknown.\n- Establish an Outpost in a brand-new area of the planet - if you dare.\n- Scan, analyze, and catalog the unique fauna and flora of the new biome.\n- Face several new enemy species, each posing a different kind of challenge.\n- Research new additions to the technology tree, utilizing the curiosities you discover in the new biome: buildings, weapons, and equipment.\n- Solve the mystery that remained hidden for millennia.\n\n<!--image-->\n![Image2](https://cdn2.unrealengine.com/egs-theriftbreakermetalterror-exorstudios-dlc-g2-01-1920x1080-be9456ecf6a5.jpg)\n\n<!--textBlock-->\n<!--title-->\n# Contents of this Expansion:\n<!--text-->\nThe Story portion of this Expansion is integrated with the Main Campaign from the base edition of The Riftbreaker. The new branch and the contents of the expansion will unlock as you progress through the game. If you have previously completed The Riftbreaker Story Campaign, you can continue your adventure where you left off. The additional part of the Story will unlock immediately, giving you the option to explore the new part of the world.\n\n<!--image-->\n![Image3](https://cdn2.unrealengine.com/egs-theriftbreakermetalterror-exorstudios-dlc-g2-02-1920x1080-180d6eeb5a61.jpg)\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "the-riftbreaker--metal-terror",
-  "creationDate": "2022-07-07T21:14:21.566Z",
-  "lastModifiedDate": "2024-04-19T13:41:03.808Z",
+  "creationDate": "2024-06-18T19:39:25.290Z",
+  "lastModifiedDate": "2024-06-21T16:17:20.182Z",
   "effectiveDate": "2022-07-18T17:00:00.000Z",
   "viewableDate": "2022-07-18T17:00:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14253,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -70,49 +82,39 @@
       "status": "ACTIVE",
       "referenceCount": 1068,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14224,
-      "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "EXOR Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "EXOR Studios"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/f774d8b9a9324124892868e7b5c71169/EGS_TheRiftbreakerMetalTerror_EXORStudios_DLC_S2_1200x1600-f0c3e33993cea940db537a3de86673e6",
-      "md5": "f0c3e33993cea940db537a3de86673e6",
-      "size": 651650,
-      "uploadedDate": "2022-07-15T20:33:12.189Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/f774d8b9a9324124892868e7b5c71169/EGS_TheRiftbreakerMetalTerror_EXORStudios_DLC_S2_1200x1600-f0c3e33993cea940db537a3de86673e6",
-      "md5": "f0c3e33993cea940db537a3de86673e6",
-      "size": 651650,
-      "uploadedDate": "2022-07-15T20:33:20.146Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/f774d8b9a9324124892868e7b5c71169/EGS_TheRiftbreakerMetalTerror_EXORStudios_DLC_S1_2560x1440-9a33e7ae6f6cca165bc4ea99cb262498",
-      "md5": "9a33e7ae6f6cca165bc4ea99cb262498",
-      "size": 972867,
-      "uploadedDate": "2022-07-15T20:33:23.329Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/offer/f774d8b9a9324124892868e7b5c71169/EGS_TheRiftbreakerMetalTerror_EXORStudios_DLC_S2_1200x1600-f0c3e33993cea940db537a3de86673e6",
@@ -130,15 +132,6 @@
       "uploadedDate": "2022-07-15T20:33:30.509Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/f774d8b9a9324124892868e7b5c71169/EGS_TheRiftbreakerMetalTerror_EXORStudios_DLC_IC1_200x200-a31451ac6324fdced2b88349e7562db6",
-      "md5": "a31451ac6324fdced2b88349e7562db6",
-      "size": 29639,
-      "uploadedDate": "2023-05-26T17:34:34.420Z",
-      "width": 200,
-      "height": 200
     },
     {
       "type": "Thumbnail",
@@ -256,6 +249,24 @@
       "uploadedDate": "2022-07-15T20:34:47.832Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/offer/f774d8b9a9324124892868e7b5c71169/EGS_TheRiftbreakerMetalTerror_EXORStudios_DLC_S1_2560x1440-9a33e7ae6f6cca165bc4ea99cb262498",
+      "md5": "9a33e7ae6f6cca165bc4ea99cb262498",
+      "size": 972867,
+      "uploadedDate": "2022-07-15T20:33:30.509Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/offer/f774d8b9a9324124892868e7b5c71169/EGS_TheRiftbreakerMetalTerror_EXORStudios_DLC_S2_1200x1600-f0c3e33993cea940db537a3de86673e6",
+      "md5": "f0c3e33993cea940db537a3de86673e6",
+      "size": 651650,
+      "uploadedDate": "2022-07-15T20:33:26.756Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
