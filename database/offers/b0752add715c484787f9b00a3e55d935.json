@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "335ea9dfa84c4b5d94fb369c6a445798",
   "creationDate": "2023-04-03T23:30:31.337Z",
-  "lastModifiedDate": "2024-06-16T17:58:44.577Z",
+  "lastModifiedDate": "2024-06-22T18:27:25.394Z",
   "effectiveDate": "2024-01-30T13:00:00.000Z",
   "viewableDate": "2024-01-11T09:44:20.778Z",
   "developer": null,
@@ -44,8 +44,68 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 993,
+      "referenceCount": 994,
       "comment": ""
+    },
+    {
+      "id": "1283",
+      "name": "Sports",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2023-08-18T14:35:48.351Z",
+      "status": "ACTIVE",
+      "referenceCount": 148,
+      "comment": null
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3742,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14257,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 2666,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "First Person",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2023-08-23T00:14:55.884Z",
+      "status": "ACTIVE",
+      "referenceCount": 481,
+      "comment": null
     },
     {
       "id": "1393",
@@ -72,18 +132,6 @@
       "comment": ""
     },
     {
-      "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2023-08-18T14:35:48.351Z",
-      "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
-    },
-    {
       "id": "1299",
       "name": "Competitive",
       "namespace": "epic",
@@ -94,18 +142,6 @@
       "status": "ACTIVE",
       "referenceCount": 452,
       "comment": null
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3741,
-      "comment": ""
     },
     {
       "id": "22775",
@@ -132,40 +168,16 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
+      "id": "21146",
+      "name": "Educational",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2022-05-17T21:35:29.234Z",
+      "updated": "2023-08-22T10:58:47.726Z",
       "status": "ACTIVE",
-      "referenceCount": 14253,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2666,
-      "comment": null
-    },
-    {
-      "id": "1294",
-      "name": "First Person",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-08-23T00:14:55.884Z",
-      "status": "ACTIVE",
-      "referenceCount": 481,
-      "comment": null
+      "referenceCount": 78,
+      "comment": ""
     },
     {
       "id": "21119",

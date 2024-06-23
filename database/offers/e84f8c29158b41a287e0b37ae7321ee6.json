@@ -2,14 +2,14 @@
   "id": "e84f8c29158b41a287e0b37ae7321ee6",
   "namespace": "df9c3614f9e44c0ea9b70d4aa01a1de5",
   "title": "The Assault: Survivor",
-  "description": "The Assault Survivor is an exciting action game that takes you into the world of the apocalypse. You play as survivors, where every step is fraught with danger. You will have to fight mutants, look for resources to level up and try to survive in this cruel world.",
+  "description": "The Assault Survivor is an exciting action game that takes you into the world of the apocalypse. You play as survivors, where every step is fraught with danger. You will have to fight mutants, look for resources to level up and try to survive in this cruel world",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "7ddc5e306b24473089d68fb58e0161f2",
   "creationDate": "2023-05-07T22:26:50.790Z",
-  "lastModifiedDate": "2024-06-21T19:56:04.839Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-06-22T21:25:46.466Z",
+  "effectiveDate": "2024-06-23T20:00:00.000Z",
   "viewableDate": "2024-05-20T14:12:24.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 993,
+      "referenceCount": 994,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 221,
+      "referenceCount": 220,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3741,
+      "referenceCount": 3742,
       "comment": ""
     },
     {
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14253,
+      "referenceCount": 14257,
       "comment": null
     },
     {
@@ -144,18 +144,6 @@
       "comment": null
     },
     {
-      "id": "1183",
-      "name": "Local Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:49.408Z",
-      "updated": "2024-03-28T21:48:38.999Z",
-      "status": "ACTIVE",
-      "referenceCount": 168,
-      "comment": null
-    },
-    {
       "id": "1263",
       "name": "Indie",
       "namespace": "epic",
@@ -166,6 +154,18 @@
       "status": "ACTIVE",
       "referenceCount": 1176,
       "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -175,7 +175,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
