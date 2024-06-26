@@ -8,7 +8,7 @@
   "productSlug": "control",
   "urlSlug": "control",
   "creationDate": "2019-02-28T14:15:02.157Z",
-  "lastModifiedDate": "2024-06-13T14:51:39.998Z",
+  "lastModifiedDate": "2024-06-25T15:01:17.810Z",
   "effectiveDate": "2019-08-26T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
-    },
+    null,
     {
       "id": "21122",
       "name": "Diverse Characters",
@@ -62,7 +51,18 @@
       "referenceCount": 355,
       "comment": ""
     },
-    null,
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 1821,
+      "comment": ""
+    },
     {
       "id": "21127",
       "name": "Creative Community",
@@ -72,7 +72,7 @@
       "created": "2022-05-17T21:16:58.023Z",
       "updated": "2023-08-22T10:58:47.680Z",
       "status": "ACTIVE",
-      "referenceCount": 193,
+      "referenceCount": 192,
       "comment": ""
     },
     {
@@ -96,8 +96,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14272,
+      "referenceCount": 14283,
       "comment": null
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-07-26T14:41:48.253Z",
+      "updated": "2023-08-22T15:03:06.981Z",
+      "status": "ACTIVE",
+      "referenceCount": 78,
+      "comment": ""
     },
     {
       "id": "21137",
@@ -108,7 +120,7 @@
       "created": "2022-05-17T21:27:42.043Z",
       "updated": "2023-08-17T19:40:36.201Z",
       "status": "ACTIVE",
-      "referenceCount": 88,
+      "referenceCount": 89,
       "comment": ""
     },
     {
@@ -120,7 +132,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 475,
+      "referenceCount": 477,
       "comment": ""
     },
     {
@@ -132,7 +144,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 430,
+      "referenceCount": 431,
       "comment": ""
     },
     {
@@ -144,7 +156,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 431,
+      "referenceCount": 430,
       "comment": ""
     },
     {
@@ -156,7 +168,7 @@
       "created": "2022-05-17T18:56:51.047Z",
       "updated": "2023-08-03T18:31:17.357Z",
       "status": "ACTIVE",
-      "referenceCount": 210,
+      "referenceCount": 211,
       "comment": "From Ratings & Polls results."
     },
     {

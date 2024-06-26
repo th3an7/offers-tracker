@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "d11bf12e456a4c0c91eaec9ff9d1694c",
-  "creationDate": "2024-06-11T15:17:09.552Z",
-  "lastModifiedDate": "2024-06-11T15:17:09.552Z",
+  "creationDate": "2023-09-23T14:27:04.397Z",
+  "lastModifiedDate": "2024-06-25T09:41:00.546Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-06-11T15:17:07.895Z",
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2023-08-23T04:55:54.798Z",
+      "status": "ACTIVE",
+      "referenceCount": 423,
+      "comment": null
+    },
+    {
       "id": "1264",
       "name": "Co-op",
       "namespace": "epic",
@@ -56,7 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1001,
+      "referenceCount": 1008,
       "comment": ""
     },
     {
@@ -71,40 +83,17 @@
       "referenceCount": 943,
       "comment": null
     },
+    null,
     {
-      "id": "1283",
-      "name": "Sports",
+      "id": "1336",
+      "name": "Action-Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2023-08-18T14:35:48.351Z",
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-08-23T03:24:56.304Z",
       "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
-    },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
-      "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": null
-    },
-    {
-      "id": "1287",
-      "name": "Fantasy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:41.164Z",
-      "updated": "2023-08-23T02:59:53.929Z",
-      "status": "ACTIVE",
-      "referenceCount": 95,
+      "referenceCount": 519,
       "comment": null
     },
     {
@@ -128,7 +117,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14272,
+      "referenceCount": 14283,
       "comment": null
     },
     {
@@ -169,28 +158,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/3c818f379c704456b717a6cce4e581d3/homaysa-14cg3.png",
-      "md5": "bba9904ec9cc79d1daefa601875eb759",
-      "size": 1981128,
-      "uploadedDate": "2024-03-02T20:36:59.252Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c818f379c704456b717a6cce4e581d3/homaysa-b5sxn.png",
+      "md5": "5928c8a0fa5d4bdc1c55696d0081922a",
+      "size": 2819597,
+      "uploadedDate": "2024-06-24T05:56:43.768Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/3c818f379c704456b717a6cce4e581d3/homaysa-64a2f.png",
-      "md5": "06a82757ec9055885471973238616eca",
-      "size": 872373,
-      "uploadedDate": "2024-03-02T20:39:42.415Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c818f379c704456b717a6cce4e581d3/homaysa-1iddb.png",
+      "md5": "9d608bb2783f6614ebf4f19944a40d29",
+      "size": 1814234,
+      "uploadedDate": "2024-06-24T06:04:07.956Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/3c818f379c704456b717a6cce4e581d3/homaysa-64a2f.png",
-      "md5": "06a82757ec9055885471973238616eca",
-      "size": 872373,
-      "uploadedDate": "2024-03-02T20:39:42.415Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/3c818f379c704456b717a6cce4e581d3/homaysa-1iddb.png",
+      "md5": "9d608bb2783f6614ebf4f19944a40d29",
+      "size": 1814234,
+      "uploadedDate": "2024-06-24T06:04:07.956Z",
       "width": 1200,
       "height": 1600
     }
