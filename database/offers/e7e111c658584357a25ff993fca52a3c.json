@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "aef870d9d1a846d9ad6e751cba409434",
   "creationDate": "2022-04-14T08:19:01.683Z",
-  "lastModifiedDate": "2024-06-24T16:59:58.629Z",
+  "lastModifiedDate": "2024-06-26T19:30:59.182Z",
   "effectiveDate": "2024-07-23T17:00:00.000Z",
   "viewableDate": "2022-04-21T14:00:00.000Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer",
@@ -48,7 +59,18 @@
       "referenceCount": 1008,
       "comment": ""
     },
-    null,
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2023-08-23T04:55:54.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 452,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "Shooter",
@@ -70,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14283,
+      "referenceCount": 14297,
       "comment": null
     },
     {
@@ -82,7 +104,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2677,
+      "referenceCount": 2679,
       "comment": null
     },
     {
@@ -119,28 +141,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1kpx8.png",
-      "md5": "c040408b7150177a33eaccd48d90a2ea",
-      "size": 3009131,
-      "uploadedDate": "2024-06-18T09:01:40.487Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1o1xj.png",
+      "md5": "598c823623cff529a8ae055dd3184a1d",
+      "size": 2861616,
+      "uploadedDate": "2024-06-26T15:31:31.018Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-7pbdz.png",
-      "md5": "d2beef45466410a1256ca76d8168ca00",
-      "size": 1348324,
-      "uploadedDate": "2024-06-18T09:01:34.326Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1rkp0.png",
+      "md5": "b9964ed3522d865914f504d96aabacf4",
+      "size": 1606433,
+      "uploadedDate": "2024-06-26T15:31:35.737Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-7pbdz.png",
-      "md5": "d2beef45466410a1256ca76d8168ca00",
-      "size": 1348324,
-      "uploadedDate": "2024-06-18T09:01:34.326Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-1rkp0.png",
+      "md5": "b9964ed3522d865914f504d96aabacf4",
+      "size": 1606433,
+      "uploadedDate": "2024-06-26T15:31:35.737Z",
       "width": 1200,
       "height": 1600
     }

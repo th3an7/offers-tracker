@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "03e5dd09947b4694afeff073a0672398",
-  "creationDate": "2024-06-25T14:08:53.215Z",
-  "lastModifiedDate": "2024-06-25T14:08:53.215Z",
+  "creationDate": "2024-05-29T14:34:10.399Z",
+  "lastModifiedDate": "2024-06-26T11:30:49.989Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-06-25T14:08:34.922Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "1296",
       "name": "Casual",
@@ -93,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14283,
+      "referenceCount": 14297,
       "comment": null
     },
     {
@@ -105,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2677,
+      "referenceCount": 2679,
       "comment": null
     },
     {
@@ -120,7 +131,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1179,
+      "referenceCount": 1180,
       "comment": null
     }
   ],
@@ -139,7 +150,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isBlockchainUsed",
