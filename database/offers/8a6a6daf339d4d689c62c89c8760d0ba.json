@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "27dd9bed0cd34ecfa7fb12d320dd6867",
   "creationDate": "2023-08-10T17:14:09.823Z",
-  "lastModifiedDate": "2024-04-29T12:57:29.435Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-07-01T12:49:04.592Z",
+  "effectiveDate": "2024-07-01T14:00:00.000Z",
   "viewableDate": "2023-09-09T19:30:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1016,
+      "referenceCount": 1018,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14346,
-      "comment": null
-    },
-    {
       "id": "21739",
       "name": "NFT BLOCKCHAIN",
       "namespace": null,
@@ -108,6 +96,18 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14362,
+      "comment": null
+    },
+    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2683,
+      "referenceCount": 2691,
       "comment": null
     },
     {
@@ -139,7 +139,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
