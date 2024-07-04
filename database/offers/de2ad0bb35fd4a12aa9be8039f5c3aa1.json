@@ -7,10 +7,10 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "d83a11b86fba47cbb73201532b37e960",
-  "creationDate": "2024-05-29T16:01:12.674Z",
-  "lastModifiedDate": "2024-05-29T16:01:12.674Z",
+  "creationDate": "2024-04-26T17:15:00.145Z",
+  "lastModifiedDate": "2024-07-03T18:16:48.687Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-05-29T16:01:11.178Z",
+  "viewableDate": "2024-05-29T16:01:11.000Z",
   "developer": null,
   "seller": {
     "id": "o-3y6sfg9lzfyyc2ulhmgdrvuhw388lk",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -92,7 +92,7 @@
       "created": "2024-01-30T16:42:20.388Z",
       "updated": "2024-02-05T20:14:29.988Z",
       "status": "ACTIVE",
-      "referenceCount": 51,
+      "referenceCount": 52,
       "comment": ""
     },
     {
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14381,
+      "referenceCount": 14389,
       "comment": null
     },
     {
@@ -140,19 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2692,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
+      "referenceCount": 2694,
       "comment": null
     },
     {
@@ -168,6 +156,18 @@
       "comment": null
     },
     {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
+    },
+    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -179,7 +179,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1184,
+      "referenceCount": 1185,
       "comment": null
     }
   ],
@@ -208,28 +208,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-5uipu.png",
-      "md5": "0d7fbf4e221457074e5a5e925f1fa2df",
-      "size": 140908,
-      "uploadedDate": "2024-05-16T19:30:49.714Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-1redo.png",
+      "md5": "ca40e6cf05497843978724c20afdf0d7",
+      "size": 2367054,
+      "uploadedDate": "2024-07-02T16:46:52.316Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-8fr88.png",
-      "md5": "e48ccfc1bb08d83310e299fabb5ca0f5",
-      "size": 108810,
-      "uploadedDate": "2024-05-16T19:31:26.733Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-15ts0.png",
+      "md5": "76030176c934710caaca85883689b091",
+      "size": 2164688,
+      "uploadedDate": "2024-07-02T16:45:41.039Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-8fr88.png",
-      "md5": "e48ccfc1bb08d83310e299fabb5ca0f5",
-      "size": 108810,
-      "uploadedDate": "2024-05-16T19:31:26.733Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-15ts0.png",
+      "md5": "76030176c934710caaca85883689b091",
+      "size": 2164688,
+      "uploadedDate": "2024-07-02T16:45:41.039Z",
       "width": 1200,
       "height": 1600
     }

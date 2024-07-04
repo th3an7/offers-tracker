@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "2ea77a6e57e74dfc949521a3cd2c0873",
-  "creationDate": "2023-08-28T14:28:51.476Z",
-  "lastModifiedDate": "2023-08-28T14:28:51.476Z",
+  "creationDate": "2023-08-04T14:33:07.488Z",
+  "lastModifiedDate": "2024-07-03T16:33:21.850Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-08-28T03:00:00.000Z",
   "developer": null,
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-08-22T09:59:03.727Z",
-      "status": "ACTIVE",
-      "referenceCount": 412,
-      "comment": null
-    },
     {
       "id": "1218",
       "name": "Horror",
@@ -57,6 +45,18 @@
       "updated": "2023-08-22T19:55:04.197Z",
       "status": "ACTIVE",
       "referenceCount": 414,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2023-08-22T09:59:03.727Z",
+      "status": "ACTIVE",
+      "referenceCount": 412,
       "comment": null
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14381,
+      "referenceCount": 14389,
       "comment": null
     },
     {
