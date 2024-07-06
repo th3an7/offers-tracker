@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "ad3c39ff3a294aeba5bac0eaa3fa7d9f",
   "creationDate": "2023-11-15T06:11:13.026Z",
-  "lastModifiedDate": "2024-07-02T02:01:22.398Z",
-  "effectiveDate": "2024-07-02T02:01:03.968Z",
-  "viewableDate": "2023-12-04T03:00:01.446Z",
+  "lastModifiedDate": "2024-07-05T11:07:36.623Z",
+  "effectiveDate": "2024-07-02T02:01:03.000Z",
+  "viewableDate": "2023-12-04T03:00:01.000Z",
   "developer": null,
   "seller": {
     "id": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -72,17 +72,18 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
+      "id": "21147",
+      "name": "Inclusive Character Customization",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2022-05-17T21:36:07.333Z",
+      "updated": "2023-08-22T16:40:57.276Z",
       "status": "ACTIVE",
-      "referenceCount": 14395,
-      "comment": null
+      "referenceCount": 142,
+      "comment": ""
     },
+    null,
     {
       "id": "1117",
       "name": "Adventure",
