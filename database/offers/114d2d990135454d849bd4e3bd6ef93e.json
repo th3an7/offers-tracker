@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "efe86d44a4ff4955bc3c8e6d26d5bb56",
   "creationDate": "2023-05-02T21:35:08.800Z",
-  "lastModifiedDate": "2023-11-24T16:59:39.585Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-07-10T11:44:54.520Z",
+  "effectiveDate": "2024-07-10T12:00:00.000Z",
   "viewableDate": "2023-06-06T08:00:00.000Z",
   "developer": null,
   "seller": {
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1035,
+      "referenceCount": 1056,
       "comment": ""
     },
     {
@@ -104,7 +104,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14443,
+      "referenceCount": 14457,
+      "comment": null
+    },
+    {
+      "id": "1179",
+      "name": "VR",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:47.428Z",
+      "updated": "2023-08-21T22:57:04.729Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
       "comment": null
     },
     {
@@ -128,7 +140,19 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2718,
+      "referenceCount": 2724,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -142,6 +166,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -153,28 +181,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-1s3z8.png",
-      "md5": "23ff14dcfee6661061b74591ceff9c39",
-      "size": 2215415,
-      "uploadedDate": "2023-05-26T13:21:24.632Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-rqb2x.png",
+      "md5": "3a478641885026e1eb03aafcc44865d8",
+      "size": 708264,
+      "uploadedDate": "2024-06-26T17:33:52.568Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-1s8b7.png",
-      "md5": "0e437140f3508532d5fcd3816b927c91",
-      "size": 656779,
-      "uploadedDate": "2023-05-26T13:21:30.411Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-1c5i1.png",
+      "md5": "a709b808a9bf767b3c088b5093924bec",
+      "size": 415731,
+      "uploadedDate": "2024-06-26T17:37:01.618Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-1s8b7.png",
-      "md5": "0e437140f3508532d5fcd3816b927c91",
-      "size": 656779,
-      "uploadedDate": "2023-05-26T13:21:30.411Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/876bd39e4c1c40c7bfeaa079e816ed6d/rennsport-1c5i1.png",
+      "md5": "a709b808a9bf767b3c088b5093924bec",
+      "size": 415731,
+      "uploadedDate": "2024-06-26T17:37:01.618Z",
       "width": 1200,
       "height": 1600
     }
