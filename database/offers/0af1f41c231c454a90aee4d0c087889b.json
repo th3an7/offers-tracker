@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "411fa13370b244578f617f1515c7ffd5",
   "creationDate": "2024-03-25T12:24:12.179Z",
-  "lastModifiedDate": "2024-07-09T15:10:10.481Z",
+  "lastModifiedDate": "2024-07-11T19:22:37.201Z",
   "effectiveDate": "2024-04-13T15:00:00.000Z",
-  "viewableDate": "2024-04-10T18:19:48.893Z",
+  "viewableDate": "2024-04-10T18:19:48.000Z",
   "developer": null,
   "seller": {
     "id": "o-8l9vtu9z5wkljrfa7h4e9n58dpu73p",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -92,20 +92,8 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14457,
+      "referenceCount": 14515,
       "comment": null
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-07-26T14:41:48.253Z",
-      "updated": "2023-08-22T15:03:06.981Z",
-      "status": "ACTIVE",
-      "referenceCount": 120,
-      "comment": ""
     },
     {
       "id": "10719",
@@ -119,7 +107,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1187,
+      "referenceCount": 1188,
       "comment": null
     }
   ],
