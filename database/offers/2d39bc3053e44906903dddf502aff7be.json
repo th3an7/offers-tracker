@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "e82b5adbbdfc42f98a67a3412c193d9b",
   "creationDate": "2023-01-09T13:00:55.016Z",
-  "lastModifiedDate": "2024-03-13T17:21:11.982Z",
+  "lastModifiedDate": "2024-07-12T13:00:44.392Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-01-12T14:00:00.000Z",
   "developer": null,
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14515,
+      "referenceCount": 14532,
       "comment": null
     },
     {
@@ -94,6 +94,18 @@
       "status": "ACTIVE",
       "referenceCount": 95,
       "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -104,6 +116,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -117,28 +133,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/683b6385907c42c2bbd3e549f05f925f/breachway-19znr.jpg",
-      "md5": "f66d6d8ef2514dc949f2fe8276bcbe4a",
-      "size": 1949184,
-      "uploadedDate": "2023-01-11T16:14:39.795Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/683b6385907c42c2bbd3e549f05f925f/breachway-51zxn.png",
+      "md5": "db3ad8c385e439c7b488d0dd5820a34c",
+      "size": 2807827,
+      "uploadedDate": "2024-06-27T16:45:48.686Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/683b6385907c42c2bbd3e549f05f925f/breachway-1gtrp.png",
-      "md5": "854055468888aa88dd29abeb42ee3c69",
-      "size": 2303620,
-      "uploadedDate": "2023-12-14T15:31:32.011Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/683b6385907c42c2bbd3e549f05f925f/breachway-s4ia0.png",
+      "md5": "7bbd40fc4a0f79c28a40921913339ada",
+      "size": 1152215,
+      "uploadedDate": "2024-06-27T16:46:00.723Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/683b6385907c42c2bbd3e549f05f925f/breachway-1gtrp.png",
-      "md5": "854055468888aa88dd29abeb42ee3c69",
-      "size": 2303620,
-      "uploadedDate": "2023-12-14T15:31:32.011Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/683b6385907c42c2bbd3e549f05f925f/breachway-s4ia0.png",
+      "md5": "7bbd40fc4a0f79c28a40921913339ada",
+      "size": 1152215,
+      "uploadedDate": "2024-06-27T16:46:00.723Z",
       "width": 1200,
       "height": 1600
     }
