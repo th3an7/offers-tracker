@@ -1,14 +1,14 @@
 {
   "id": "706b00c017a9407ba186e9ee99f0f4a8",
   "namespace": "6732880ea603405698daad12f6011d79",
-  "title": "Astralium: Game Modes",
-  "description": "Featuring Astralium's unique game modes: 'Only Up,' a parkour challenge focusing on movement dynamics, and the upcoming 'Eliminator,' an FFA TPS emphasizing combat skills. These modes pave the way for the anticipated Web3 battle royale, shaping gameplay based on your experience.",
+  "title": "Skybound: Only Up",
+  "description": "Navigate through the diverse landscape, jumping between structures in this parkour game. Challenge yourself to reach the summit by skillfully hopping between different objects. Can you climb the highest and finish with the fastest time?",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "cefdd894034d40d5b17809a7a7d83144",
   "creationDate": "2023-12-11T18:34:28.220Z",
-  "lastModifiedDate": "2024-06-30T18:57:58.399Z",
+  "lastModifiedDate": "2024-07-14T16:32:01.701Z",
   "effectiveDate": "2024-07-01T16:00:00.000Z",
   "viewableDate": "2024-06-22T06:24:59.037Z",
   "developer": null,
@@ -36,52 +36,16 @@
   ],
   "tags": [
     {
-      "id": "29088",
-      "name": "Online Multiplayer",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-06-19T16:23:12.748Z",
-      "updated": "2024-03-28T21:49:30.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 1060,
-      "comment": ""
-    },
-    {
-      "id": "1299",
-      "name": "Competitive",
+      "id": "1370",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
-      "referenceCount": 452,
+      "referenceCount": 5001,
       "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-08-23T00:14:55.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 799,
-      "comment": null
-    },
-    {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2023-08-22T18:09:40.655Z",
-      "status": "ACTIVE",
-      "referenceCount": 173,
-      "comment": ""
     },
     {
       "id": "9547",
@@ -92,7 +56,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14539,
+      "referenceCount": 14540,
       "comment": null
     },
     {
@@ -139,34 +103,34 @@
     },
     {
       "key": "isBlockchainUsed",
-      "value": "true"
+      "value": "false"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/b31041ff2f934d19954ee76213cf8266/astralium-s353x.png",
-      "md5": "fabf33bebf297ee39bef2c95343b0334",
-      "size": 3286835,
-      "uploadedDate": "2024-06-18T23:49:56.791Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/b31041ff2f934d19954ee76213cf8266/astralium-tunkh.png",
+      "md5": "127a241ade2ce39abce9f1bfafe00e79",
+      "size": 3869958,
+      "uploadedDate": "2024-07-14T00:41:32.075Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/b31041ff2f934d19954ee76213cf8266/astralium-1j7py.png",
-      "md5": "9b08661d643f17c6e082d575a75059de",
-      "size": 1981190,
-      "uploadedDate": "2024-06-18T23:50:08.015Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/b31041ff2f934d19954ee76213cf8266/astralium-v3x1t.png",
+      "md5": "fd2f41bb1b832684ed59284f26f55a87",
+      "size": 2314104,
+      "uploadedDate": "2024-07-14T00:41:36.069Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/b31041ff2f934d19954ee76213cf8266/astralium-1j7py.png",
-      "md5": "9b08661d643f17c6e082d575a75059de",
-      "size": 1981190,
-      "uploadedDate": "2024-06-18T23:50:08.015Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/b31041ff2f934d19954ee76213cf8266/astralium-v3x1t.png",
+      "md5": "fd2f41bb1b832684ed59284f26f55a87",
+      "size": 2314104,
+      "uploadedDate": "2024-07-14T00:41:36.069Z",
       "width": 1200,
       "height": 1600
     }
