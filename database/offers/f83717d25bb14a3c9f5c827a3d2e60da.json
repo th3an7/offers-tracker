@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "1cf54fe723fb4a8c84d2aa2f1ec1dd05",
   "creationDate": "2024-02-27T18:23:00.755Z",
-  "lastModifiedDate": "2024-06-16T16:45:27.619Z",
+  "lastModifiedDate": "2024-07-16T13:37:28.965Z",
   "effectiveDate": "2024-03-05T22:00:00.000Z",
-  "viewableDate": "2024-03-03T06:39:05.414Z",
+  "viewableDate": "2024-03-03T06:39:05.000Z",
   "developer": null,
   "seller": {
     "id": "o-z8ex63yvz4ye54cfgwhdu3zxz4tpja",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "16979",
+      "name": "Summer Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2024-03-27T08:59:25.734Z",
+      "status": "ACTIVE",
+      "referenceCount": 3085,
+      "comment": ""
+    },
+    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
@@ -56,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1860,
+      "referenceCount": 1869,
       "comment": ""
     },
     {
@@ -94,7 +106,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14545,
+      "referenceCount": 14629,
       "comment": null
     },
     {
