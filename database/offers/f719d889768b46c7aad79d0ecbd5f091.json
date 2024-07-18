@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "fb22203ee5344e5db3177d6bdaf61942",
   "creationDate": "2023-05-15T23:45:45.151Z",
-  "lastModifiedDate": "2024-04-29T12:00:47.748Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-07-18T00:54:12.426Z",
+  "effectiveDate": "2024-08-09T16:00:00.000Z",
   "viewableDate": "2023-10-27T20:30:00.000Z",
   "developer": null,
   "seller": {
@@ -48,6 +48,30 @@
       "comment": null
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 1871,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3847,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -68,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14629,
+      "referenceCount": 14640,
       "comment": null
     },
     {
@@ -80,7 +104,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2740,
+      "referenceCount": 2745,
       "comment": null
     },
     {
@@ -123,7 +147,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
