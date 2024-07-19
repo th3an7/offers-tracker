@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "33f0116d7af74607832b296d799040d5",
   "creationDate": "2024-01-27T09:04:53.024Z",
-  "lastModifiedDate": "2024-07-16T14:59:37.573Z",
+  "lastModifiedDate": "2024-07-18T20:29:53.400Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-02-28T16:24:06.364Z",
+  "viewableDate": "2024-02-28T16:24:06.000Z",
   "developer": null,
   "seller": {
     "id": "o-7hev95k8gc2uq7e233nx9gwm22te5u",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 251,
-      "comment": ""
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -92,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14640,
+      "referenceCount": 14669,
       "comment": null
     },
     {
