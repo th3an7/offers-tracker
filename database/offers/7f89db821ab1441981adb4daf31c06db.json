@@ -8,7 +8,7 @@
   "productSlug": "mordhau",
   "urlSlug": "mordhau",
   "creationDate": "2020-04-24T16:05:42.913Z",
-  "lastModifiedDate": "2024-07-16T09:06:03.628Z",
+  "lastModifiedDate": "2024-07-19T11:18:08.825Z",
   "effectiveDate": "2023-04-13T15:00:00.000Z",
   "viewableDate": "2023-04-06T14:55:00.000Z",
   "developer": null,
@@ -119,7 +119,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 433,
+      "referenceCount": 435,
       "comment": ""
     },
     {
@@ -134,7 +134,18 @@
       "referenceCount": 455,
       "comment": ""
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3858,
+      "comment": ""
+    },
     {
       "id": "21129",
       "name": "Challenging Combat",
@@ -144,8 +155,20 @@
       "created": "2022-05-17T21:19:41.315Z",
       "updated": "2023-08-22T23:38:34.180Z",
       "status": "ACTIVE",
-      "referenceCount": 167,
+      "referenceCount": 168,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14690,
+      "comment": null
     }
   ],
   "customAttributes": [
