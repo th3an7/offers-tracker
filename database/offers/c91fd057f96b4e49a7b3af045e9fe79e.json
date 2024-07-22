@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "pc-outfits",
   "creationDate": "2024-05-28T20:41:21.452Z",
-  "lastModifiedDate": "2024-07-20T20:35:57.935Z",
+  "lastModifiedDate": "2024-07-21T18:02:18.143Z",
   "effectiveDate": "2024-06-07T22:18:11.000Z",
   "viewableDate": "2024-06-07T22:18:11.000Z",
   "developer": null,
@@ -25,13 +25,28 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "spthidden"
+    },
+    {
       "path": "spthidden/consumable"
     },
     {
-      "path": "spthidden"
+      "path": "freegames"
     }
   ],
   "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3861,
+      "comment": ""
+    },
     {
       "id": "33639",
       "name": "Promotional Content",
@@ -45,18 +60,6 @@
       "comment": ""
     },
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3860,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -65,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14692,
+      "referenceCount": 14698,
       "comment": null
     }
   ],
