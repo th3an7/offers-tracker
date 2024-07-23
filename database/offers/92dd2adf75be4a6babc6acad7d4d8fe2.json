@@ -3,12 +3,12 @@
   "namespace": "611482b8586142cda48a0786eb8a127c",
   "title": "Dead by Daylight - A Nightmare on Elm Street™",
   "description": "A Nightmare on Elm Street is a Chapter for Dead by Daylight. It includes a new Killer, a Survivor and a Map. Who would have thought that dreams could actually do harm? Fear and pain stemming from a scarred soul who seeks revenge for a punishment he deserved.",
-  "longDescription": "There are boogey men, and they do live under your bed. They are inside your room, and inside your mind - your dreams and sometimes dreams come true. Freddy Krueger knows the true meaning of haunting. The true meaning of pushing someone into that dream state where you are uncertain whether you are awake or asleep - alive or on the verge of death. Some more than others will resist sleep, like young Quentin, who is forced to head back where Freddy learned about revenge. Back to Badham Preschool.\n\nHow will you stop someone who hunts you in your dreams? Someone who will never let you rest. Someone who intentionally deprives you of sleep to diminish your resilience. Someone who sees himself as a victim desperate for payback. He can’t see your pain and suffering… all he sees is… his metal claws closing in on your neck. \n\nQuentin Smith will never run out of pills to keep him awake, of energy drinks to make him go another mile or another hour. He will never stop, and hopefully he will never sleep. Ever again. Or at least until he’s managed to stop Freddy. Fear poses an option: head into the storm and ride it out, or accept the inevitability of death and just go to bed. Quentin chooses the first one. But how long can he avoid sleep? And how will he manage in this place? Where even death can’t provide any kind of tranquility.\n\nA NIGHTMARE ON ELM STREET and all related characters and elements © & ™ New Line Productions, Inc. All other trademarks are properties of their respective owners.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThere are boogey men, and they do live under your bed. They are inside your room, and inside your mind - your dreams and sometimes dreams come true. Freddy Krueger knows the true meaning of haunting. The true meaning of pushing someone into that dream state where you are uncertain whether you are awake or asleep - alive or on the verge of death. Some more than others will resist sleep, like young Quentin, who is forced to head back where Freddy learned about revenge. Back to Badham Preschool.\n\nHow will you stop someone who hunts you in your dreams? Someone who will never let you rest. Someone who intentionally deprives you of sleep to diminish your resilience. Someone who sees himself as a victim desperate for payback. He can’t see your pain and suffering… all he sees is… his metal claws closing in on your neck. \n\nQuentin Smith will never run out of pills to keep him awake, of energy drinks to make him go another mile or another hour. He will never stop, and hopefully he will never sleep. Ever again. Or at least until he’s managed to stop Freddy. Fear poses an option: head into the storm and ride it out, or accept the inevitability of death and just go to bed. Quentin chooses the first one. But how long can he avoid sleep? And how will he manage in this place? Where even death can’t provide any kind of tranquility.\n\nA NIGHTMARE ON ELM STREET and all related characters and elements © & ™ New Line Productions, Inc. All other trademarks are properties of their respective owners.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dead-by-daylight--a-nightmare-on-elm-street",
-  "creationDate": "2021-08-12T00:25:46.693Z",
-  "lastModifiedDate": "2024-06-13T15:22:28.672Z",
+  "creationDate": "2024-07-22T17:36:21.432Z",
+  "lastModifiedDate": "2024-07-22T19:41:01.780Z",
   "effectiveDate": "2021-12-02T16:00:00.000Z",
   "viewableDate": "2021-11-25T16:00:00.000Z",
   "developer": null,
@@ -39,6 +39,42 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1080,
+      "comment": ""
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -47,11 +83,27 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14698,
+      "referenceCount": 14716,
       "comment": null
     }
   ],
   "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
@@ -63,17 +115,39 @@
     {
       "key": "developerName",
       "value": "Behaviour Interactive"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
     {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_IC1_200x200-47bfb5b79b3f29f09ce7837ab668e7ef",
-      "md5": "47bfb5b79b3f29f09ce7837ab668e7ef",
-      "size": 44635,
-      "uploadedDate": "2021-11-19T13:54:00.521Z",
-      "width": 200,
-      "height": 200
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S1_2560x1440-5f1b358d9e1ebcf3e62533974bb103cd",
+      "md5": "5f1b358d9e1ebcf3e62533974bb103cd",
+      "size": 996447,
+      "uploadedDate": "2021-11-19T13:54:53.573Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281",
+      "md5": "7b774eb61728934ec4144ace12038281",
+      "size": 956401,
+      "uploadedDate": "2021-11-19T13:54:48.087Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281",
+      "md5": "7b774eb61728934ec4144ace12038281",
+      "size": 956401,
+      "uploadedDate": "2021-11-19T13:54:48.087Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "featuredMedia",
@@ -137,42 +211,6 @@
       "uploadedDate": "2021-11-19T13:54:39.669Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281",
-      "md5": "7b774eb61728934ec4144ace12038281",
-      "size": 956401,
-      "uploadedDate": "2021-11-19T13:54:48.087Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S1_2560x1440-5f1b358d9e1ebcf3e62533974bb103cd",
-      "md5": "5f1b358d9e1ebcf3e62533974bb103cd",
-      "size": 996447,
-      "uploadedDate": "2021-11-19T13:54:53.573Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281",
-      "md5": "7b774eb61728934ec4144ace12038281",
-      "size": 956401,
-      "uploadedDate": "2021-11-19T13:55:04.290Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281",
-      "md5": "7b774eb61728934ec4144ace12038281",
-      "size": 956401,
-      "uploadedDate": "2021-11-19T13:55:07.811Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

@@ -3,12 +3,12 @@
   "namespace": "89b9c510e8d74b9da34c447915b1ffb1",
   "title": "Arcade Paradise - Coin-Op Pack 2",
   "description": "Level up your arcade with the Coin-Op Pack 2! Featuring three BRAND NEW cabinets to put in your arcade, with new daily challenges and arcade games to keep your customers pumping quarters! \n\nIncludes the ‘R.O.G.E.R’, ‘Penguin Push’ and ‘Summer of Sports’ DLC",
-  "longDescription": "# R.O.G.E.R\n\nStrap yourself in and prepare to enter the DANGER ZONE! You are Rocket and Ordinance, Guidance and Evasion Robot 2.0 (Or R.O.G.E.R for short) – your mission? To survive waves of deadly missiles and push your aerial evasive abilities to the LIMIT!\n\nExperience the thrilling rush of being an AI Pilot! Keep your reflexes and nerves sharp as you dodge missiles in your top of the line jet plane to skilfully outwit your adversaries in the chaotic intense action of R.O.G.E.R\n\n# Penguin Push\n\nWalruses are invading the penguins’ home!\n\nWaddle and hop your way around your enemies, utilising power blocks and platforms to flip the script on the invaders and stop them in their tracks, just be careful of stray birds, cold waters, and angry walruses that haven’t been disposed of – there’s no fury like a walrus scorned!\n\nPenguin Push is a fast and furious action platformer that will test your cunning, reflexes and bravery for one to two players, and includes Global Leader boards!\n\n# Summer of Sports\n\nOn your marks, get set, GO!\nCompete in the Summer of Sports to become the most decorated athlete in the arcade. Break and set new records in this button mashing and joystick waggling classic.\n\nTake part in numerous summer events, including:\n- Sprints\n- Hurdles\n- Long Jump\n- Javelin\n- A combination of all the above in a winner takes all challenge!\n\nCompete against your friends in local multiplayer of up to four players, or play solo and challenge yourself to bring home the gold!",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# R.O.G.E.R\n<!--text-->\n\nStrap yourself in and prepare to enter the DANGER ZONE! You are Rocket and Ordinance, Guidance and Evasion Robot 2.0 (Or R.O.G.E.R for short) – your mission? To survive waves of deadly missiles and push your aerial evasive abilities to the LIMIT!\n\nExperience the thrilling rush of being an AI Pilot! Keep your reflexes and nerves sharp as you dodge missiles in your top of the line jet plane to skilfully outwit your adversaries in the chaotic intense action of R.O.G.E.R\n\n<!--textBlock-->\n<!--title-->\n# Penguin Push\n<!--text-->\n\nWalruses are invading the penguins’ home!\n\nWaddle and hop your way around your enemies, utilising power blocks and platforms to flip the script on the invaders and stop them in their tracks, just be careful of stray birds, cold waters, and angry walruses that haven’t been disposed of – there’s no fury like a walrus scorned!\n\nPenguin Push is a fast and furious action platformer that will test your cunning, reflexes and bravery for one to two players, and includes Global Leader boards!\n\n<!--textBlock-->\n<!--title-->\n# Summer of Sports\n<!--text-->\n\nOn your marks, get set, GO!\nCompete in the Summer of Sports to become the most decorated athlete in the arcade. Break and set new records in this button mashing and joystick waggling classic.\n\nTake part in numerous summer events, including:\n- Sprints\n- Hurdles\n- Long Jump\n- Javelin\n- A combination of all the above in a winner takes all challenge!\n\nCompete against your friends in local multiplayer of up to four players, or play solo and challenge yourself to bring home the gold!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "arcade-paradise--coin-op-pack-2",
-  "creationDate": "2023-02-13T21:06:41.844Z",
-  "lastModifiedDate": "2024-03-27T18:28:44.476Z",
+  "creationDate": "2024-07-22T09:41:46.921Z",
+  "lastModifiedDate": "2024-07-22T13:02:32.514Z",
   "effectiveDate": "2023-02-23T09:00:00.000Z",
   "viewableDate": "2023-02-23T09:00:00.000Z",
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -71,7 +59,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3861,
+      "referenceCount": 3878,
       "comment": ""
     },
     {
@@ -95,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14698,
+      "referenceCount": 14716,
       "comment": null
     },
     {
@@ -109,9 +97,46 @@
       "status": "ACTIVE",
       "referenceCount": 1176,
       "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
+      "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Wired Productions"
+    },
+    {
+      "key": "developerName",
+      "value": "Nosebleed Interactive"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -130,15 +155,6 @@
       "uploadedDate": "2023-02-13T21:13:48.998Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadiseCoinOpPack2_NosebleedInteractive_Bundles_IC1_200x132-ec3e5b94ae0984bcd84b76eaef7335f8",
-      "md5": "ec3e5b94ae0984bcd84b76eaef7335f8",
-      "size": 16928,
-      "uploadedDate": "2023-02-13T21:13:52.160Z",
-      "width": 200,
-      "height": 132
     },
     {
       "type": "Thumbnail",
