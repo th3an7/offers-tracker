@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "852850fe2e5e40eebc318c8be43261cd",
   "creationDate": "2024-04-26T09:07:52.594Z",
-  "lastModifiedDate": "2024-07-02T12:37:14.097Z",
+  "lastModifiedDate": "2024-07-23T19:01:35.040Z",
   "effectiveDate": "2024-07-10T14:00:00.000Z",
   "viewableDate": "2024-06-10T09:35:57.310Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "29088",
       "name": "Online Multiplayer",
@@ -45,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1080,
+      "referenceCount": 1095,
       "comment": ""
     },
     {
@@ -59,6 +70,18 @@
       "status": "ACTIVE",
       "referenceCount": 452,
       "comment": null
+    },
+    {
+      "id": "21109",
+      "name": "Great Boss Battles",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T18:56:51.047Z",
+      "updated": "2023-08-03T18:31:17.357Z",
+      "status": "ACTIVE",
+      "referenceCount": 214,
+      "comment": "From Ratings & Polls results."
     },
     {
       "id": "22776",
@@ -105,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14716,
+      "referenceCount": 14750,
       "comment": null
     },
     {
@@ -132,7 +155,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1199,
+      "referenceCount": 1201,
       "comment": null
     }
   ],
