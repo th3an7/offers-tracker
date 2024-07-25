@@ -2,15 +2,15 @@
   "id": "7b9607d98f9444d49f4d1cd9d4dfa5c3",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
   "title": "Dr. Buzz Watson the Bee Familiar Pack",
-  "description": "Dr. Buzz Watson the Bee Familiar Pack",
-  "longDescription": null,
+  "description": "Familiar packs contain an exclusive familiar, as well as a collection of potions that can help you progress further and faster! Familiars are NPCs that you can assign to certain tasks, such as leveling up Champions, clicking the monsters, or using Ultimates.",
+  "longDescription": "# In This Pack:\n- Dr. Buzz Watson the Bee Familiar\n- 2 Epic Potions of Speed\n- 2 Epic Potions of Giant's Strength\n- 2 Epic Potions of Clairvoyance",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "drbuzzwatsonthebeefamiliarpack",
+  "urlSlug": "idle-champions-of-the-forgotten-realms--dr-buzz-watson-the-bee-familiar-pack",
   "creationDate": "2024-06-10T23:20:02.350Z",
-  "lastModifiedDate": "2024-06-12T14:08:05.761Z",
+  "lastModifiedDate": "2024-07-24T18:53:44.459Z",
   "effectiveDate": "2024-07-24T19:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2024-07-24T19:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
@@ -25,12 +25,89 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3907,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14769,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_DrBuzzWatsontheBeeFamiliarPack_CodenameEntertainment_AddOn_S2_1200x1600-603fdbf9589e4d4c3732b08112619a3e",
+      "md5": "603fdbf9589e4d4c3732b08112619a3e",
+      "size": 146953,
+      "uploadedDate": "2024-07-24T12:01:03.835Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_DrBuzzWatsontheBeeFamiliarPack_CodenameEntertainment_AddOn_S2_1200x1600-603fdbf9589e4d4c3732b08112619a3e",
+      "md5": "603fdbf9589e4d4c3732b08112619a3e",
+      "size": 146953,
+      "uploadedDate": "2024-07-24T12:01:06.935Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_DrBuzzWatsontheBeeFamiliarPack_CodenameEntertainment_AddOn_S1_2560x1440-aa1f7fd804dd7dbb8839e8e0c17e8ef6",
+      "md5": "aa1f7fd804dd7dbb8839e8e0c17e8ef6",
+      "size": 380328,
+      "uploadedDate": "2024-07-24T12:01:10.197Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_DrBuzzWatsontheBeeFamiliarPack_CodenameEntertainment_AddOn_IC1_200x200-7321cfa8a8862f9a551c04921617c1db",
+      "md5": "7321cfa8a8862f9a551c04921617c1db",
+      "size": 26870,
+      "uploadedDate": "2024-07-24T12:01:13.614Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_DrBuzzWatsontheBeeFamiliarPack_CodenameEntertainment_AddOn_G1A_00_1920x1080-1719e5749d21591dcf47c2861d8d32be",
+      "md5": "1719e5749d21591dcf47c2861d8d32be",
+      "size": 256729,
+      "uploadedDate": "2024-07-24T12:01:16.878Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "12ca4c70413a476d8c9c79ed7440d563"

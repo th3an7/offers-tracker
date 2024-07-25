@@ -2,15 +2,15 @@
   "id": "be8a2681f138495eb421b015cb3a5d06",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
   "title": "Rocket League® - Season 15 Veteran Pack",
-  "description": "Rocket League® - Season 15 Veteran Pack",
+  "description": "Unlock the X-Devil car (Crimson), Nucleon Clutch Wheel, Grim Weeper and Smokescreen Decals, Hypernova Boost, and 500 Credits in the S15 Veteran Pack!",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "rocketleague-season15veteranpack",
+  "urlSlug": "rocket-league--season-15-veteran-pack",
   "creationDate": "2024-04-15T22:03:01.625Z",
-  "lastModifiedDate": "2024-04-15T22:12:57.609Z",
-  "effectiveDate": "2099-04-15T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-07-23T21:58:18.592Z",
+  "effectiveDate": "2024-07-24T16:00:00.000Z",
+  "viewableDate": "2024-07-24T16:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
@@ -25,12 +25,77 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14769,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15VeteranPack_PsyonixLLC_DLC_G1A_00_1920x1080-9e8d56e45f448ddd94c8c371fccfb73a",
+      "md5": "9e8d56e45f448ddd94c8c371fccfb73a",
+      "size": 435672,
+      "uploadedDate": "2024-05-20T20:18:23.898Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15VeteranPack_PsyonixLLC_DLC_S1_2560x1440-ec345cbd0da90114de952412f38111aa",
+      "md5": "ec345cbd0da90114de952412f38111aa",
+      "size": 694995,
+      "uploadedDate": "2024-05-20T20:18:32.578Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15VeteranPack_PsyonixLLC_DLC_S2_1200x1600-4a3975aa5ade9d2123115146bf3b3abd",
+      "md5": "4a3975aa5ade9d2123115146bf3b3abd",
+      "size": 384598,
+      "uploadedDate": "2024-05-20T20:18:41.030Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15VeteranPack_PsyonixLLC_DLC_IC1_200x200-1c2f6a890a9bb3beeb8454e39d2a4597",
+      "md5": "1c2f6a890a9bb3beeb8454e39d2a4597",
+      "size": 3630,
+      "uploadedDate": "2024-05-20T20:18:46.330Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeagueSeason15VeteranPack_PsyonixLLC_DLC_S2_1200x1600-4a3975aa5ade9d2123115146bf3b3abd",
+      "md5": "4a3975aa5ade9d2123115146bf3b3abd",
+      "size": 384598,
+      "uploadedDate": "2024-05-20T20:18:51.414Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "9e3fecfdf195451380b6a8e2db593013"
