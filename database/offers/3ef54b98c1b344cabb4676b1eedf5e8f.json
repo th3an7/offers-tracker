@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "endless-offer-1",
   "creationDate": "2024-05-23T19:28:11.702Z",
-  "lastModifiedDate": "2024-07-20T20:35:57.935Z",
-  "effectiveDate": "2024-06-07T22:18:11.274Z",
-  "viewableDate": "2024-06-07T22:18:11.274Z",
+  "lastModifiedDate": "2024-07-25T22:38:06.939Z",
+  "effectiveDate": "2024-06-07T22:18:11.000Z",
+  "viewableDate": "2024-06-07T22:18:11.000Z",
   "developer": null,
   "seller": {
     "id": "o-3b9lq6lykgmvkg39dxcdpswydl9vl6",
@@ -25,13 +25,25 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/consumable"
     }
   ],
   "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3926,
+      "comment": ""
+    },
     {
       "id": "33639",
       "name": "Promotional Content",
@@ -45,18 +57,6 @@
       "comment": ""
     },
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3907,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -65,7 +65,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14769,
+      "referenceCount": 14818,
       "comment": null
     }
   ],
@@ -76,7 +76,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -84,7 +84,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isBlockchainUsed",
