@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "ca3a6b01f6014d3f9c96aebd8509df91",
-  "creationDate": "2024-02-08T16:00:11.234Z",
-  "lastModifiedDate": "2024-02-08T16:00:11.234Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-01-02T11:28:33.336Z",
+  "lastModifiedDate": "2024-07-29T15:06:24.010Z",
+  "effectiveDate": "2024-10-29T16:00:00.000Z",
   "viewableDate": "2024-02-08T16:00:02.158Z",
   "developer": null,
   "seller": {
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3935,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -68,7 +80,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14825,
+      "referenceCount": 14850,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -79,11 +103,15 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -93,28 +121,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/c226cae91f7d43e493b0aaf3af32e7ba/city-transport-simulator-tram-zg2cs.jpg",
-      "md5": "7e483a6c19fc797b2559901539cb8efb",
-      "size": 306035,
-      "uploadedDate": "2024-01-15T14:08:52.812Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c226cae91f7d43e493b0aaf3af32e7ba/city-transport-simulator-tram-1kaoq.jpg",
+      "md5": "016e8493807fd19f2faeb55266c97790",
+      "size": 1161208,
+      "uploadedDate": "2024-05-30T13:56:01.383Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/c226cae91f7d43e493b0aaf3af32e7ba/city-transport-simulator-tram-7bbnt.jpg",
-      "md5": "98601fc9583f43ff50cc6db10283f204",
-      "size": 170280,
-      "uploadedDate": "2024-01-15T14:09:00.489Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c226cae91f7d43e493b0aaf3af32e7ba/city-transport-simulator-tram-18xvw.jpg",
+      "md5": "1628d296dc90f8d62ea83689b6bd0000",
+      "size": 400187,
+      "uploadedDate": "2024-05-30T13:56:14.737Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/c226cae91f7d43e493b0aaf3af32e7ba/city-transport-simulator-tram-7bbnt.jpg",
-      "md5": "98601fc9583f43ff50cc6db10283f204",
-      "size": 170280,
-      "uploadedDate": "2024-01-15T14:09:00.489Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c226cae91f7d43e493b0aaf3af32e7ba/city-transport-simulator-tram-18xvw.jpg",
+      "md5": "1628d296dc90f8d62ea83689b6bd0000",
+      "size": 400187,
+      "uploadedDate": "2024-05-30T13:56:14.737Z",
       "width": 1200,
       "height": 1600
     }

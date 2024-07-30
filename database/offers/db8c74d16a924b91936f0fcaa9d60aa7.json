@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "55d36d11e0e04ef5aa89b0357b982c87",
   "creationDate": "2023-05-24T12:21:32.814Z",
-  "lastModifiedDate": "2024-07-26T16:46:25.498Z",
+  "lastModifiedDate": "2024-07-29T16:17:53.278Z",
   "effectiveDate": "2024-07-29T17:00:00.000Z",
   "viewableDate": "2023-10-30T15:00:00.000Z",
   "developer": null,
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-08-22T09:59:03.727Z",
-      "status": "ACTIVE",
-      "referenceCount": 412,
-      "comment": null
-    },
     {
       "id": "1170",
       "name": "Tower Defense",
@@ -57,6 +45,18 @@
       "updated": "2023-08-22T18:15:29.482Z",
       "status": "ACTIVE",
       "referenceCount": 35,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2023-08-22T09:59:03.727Z",
+      "status": "ACTIVE",
+      "referenceCount": 412,
       "comment": null
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14825,
+      "referenceCount": 14850,
       "comment": null
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2788,
+      "referenceCount": 2807,
       "comment": null
     },
     {
