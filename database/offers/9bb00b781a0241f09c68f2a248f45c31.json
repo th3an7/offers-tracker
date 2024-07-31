@@ -3,14 +3,14 @@
   "namespace": "0d89655f53884b09b241b60c07e684af",
   "title": "Warhammer 40,000: Gladius - Chaos Space Marines",
   "description": "Warhammer 40,000: Gladius is back with a new playable faction, the Chaos Space Marines.\n\nFueled by their hatred for the Imperium, they will stop at nothing before they exact their revenge.",
-  "longDescription": "# A new playable faction, the Chaos Space Marines.\nFueled by their hatred for the Imperium, they will stop at nothing before they exact their revenge. Fielding hellish machines, wielding Warp powers and possessing the experience of a thousand wars, these ancient warriors are ready to conquer Gladius Prime, killing and enslaving all who oppose them. In the name of the Warmaster, and their Dark Gods.\n\n# BOONS OF CHAOS\nChampions who prove themselves in battle might find boons bestowed upon them by the Dark Gods, and even rise to the rank of Daemon Prince. But beware, for the Gods are fickle, and those who they do not consider worthy will be transformed into Chaos Spawns instead.\n\n# VETERANS OF THE LONG WAR\nChaos Space Marines have fought a 10,000 years long war on the Imperium and its Corpse-Emperor. All servants of the Imperium are their arch-enemy: as thus all Chaos Space Marines units have experience in fighting against Space Marine units and gain increased morale and melee accuracy.\n\n# UNHOLY RITES\nChaos cities are designed to glorify the Dark Gods and torture their inhabitants in the Gods’ name. Population is a resource that Chaos Space Marines can use for unholy rites, granting significant temporary boosts depending on the God which is being worshipped.\n\n# MARKS OF CHAOS\nWorship any of the four Chaos Gods, and spend influence to gain unique permanent buffs to individual units. The Dark Gods are generous!",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# A new playable faction, the Chaos Space Marines.\n<!--text-->\nFueled by their hatred for the Imperium, they will stop at nothing before they exact their revenge. Fielding hellish machines, wielding Warp powers and possessing the experience of a thousand wars, these ancient warriors are ready to conquer Gladius Prime, killing and enslaving all who oppose them. In the name of the Warmaster, and their Dark Gods.\n\n<!--textBlock-->\n<!--title-->\n# BOONS OF CHAOS\n<!--text-->\nChampions who prove themselves in battle might find boons bestowed upon them by the Dark Gods, and even rise to the rank of Daemon Prince. But beware, for the Gods are fickle, and those who they do not consider worthy will be transformed into Chaos Spawns instead.\n\n<!--textBlock-->\n<!--title-->\n# VETERANS OF THE LONG WAR\n<!--text-->\nChaos Space Marines have fought a 10,000 years long war on the Imperium and its Corpse-Emperor. All servants of the Imperium are their arch-enemy: as thus all Chaos Space Marines units have experience in fighting against Space Marine units and gain increased morale and melee accuracy.\n\n<!--textBlock-->\n<!--title-->\n# UNHOLY RITES\n<!--text-->\nChaos cities are designed to glorify the Dark Gods and torture their inhabitants in the Gods’ name. Population is a resource that Chaos Space Marines can use for unholy rites, granting significant temporary boosts depending on the God which is being worshipped.\n\n<!--textBlock-->\n<!--title-->\n# MARKS OF CHAOS\n<!--text-->\nWorship any of the four Chaos Gods, and spend influence to gain unique permanent buffs to individual units. The Dark Gods are generous!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "warhammer-40000-gladius-relics-of-war--chaos-space-marines",
-  "creationDate": "2020-11-10T16:24:21.578Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.484Z",
+  "creationDate": "2024-07-29T15:47:39.540Z",
+  "lastModifiedDate": "2024-07-30T09:04:22.121Z",
   "effectiveDate": "2020-11-12T16:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2024-07-30T09:04:09.510Z",
   "developer": null,
   "seller": {
     "id": "o-h4mg4jfen23pupwq2dzpvw7vbf5s5z",
@@ -36,6 +36,42 @@
   ],
   "tags": [
     {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1120,
+      "comment": ""
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 188,
+      "comment": null
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -48,15 +84,15 @@
       "comment": null
     },
     {
-      "id": "1386",
-      "name": "Turn-Based",
+      "id": "9547",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 188,
+      "referenceCount": 14869,
       "comment": null
     },
     {
@@ -72,18 +108,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14850,
-      "comment": null
-    },
-    {
       "id": "1166",
       "name": "4X",
       "namespace": "epic",
@@ -96,8 +120,46 @@
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Slitherine Ltd."
+    },
+    {
+      "key": "developerName",
+      "value": "Proxy Studios"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusChaosSpaceMarines_ProxyStudios_DLC_S1-2560x1440-efa41cc5828f163c7d9ed47a80488eee.jpg",
+      "md5": "efa41cc5828f163c7d9ed47a80488eee",
+      "size": 843122,
+      "uploadedDate": "2020-11-10T18:02:46.265Z",
+      "width": 2560,
+      "height": 1440
+    },
     {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusChaosSpaceMarines_ProxyStudios_DLC_S1-2560x1440-efa41cc5828f163c7d9ed47a80488eee.jpg",
@@ -122,15 +184,6 @@
       "md5": "27d95ef0d95008cc51d954d5e13fc12c",
       "size": 574163,
       "uploadedDate": "2020-11-10T18:03:06.130Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/0d89655f53884b09b241b60c07e684af/offer/EGS_Warhammer40000GladiusChaosSpaceMarines_ProxyStudios_DLC_S2-1200x1600-27d95ef0d95008cc51d954d5e13fc12c.jpg",
-      "md5": "27d95ef0d95008cc51d954d5e13fc12c",
-      "size": 574163,
-      "uploadedDate": "2020-11-10T18:03:09.934Z",
       "width": 1200,
       "height": 1600
     }

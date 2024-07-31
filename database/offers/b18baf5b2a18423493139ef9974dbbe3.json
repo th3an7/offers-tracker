@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "227fefdce66b4a6c84ccc877bb42659b",
   "creationDate": "2022-01-27T20:27:22.693Z",
-  "lastModifiedDate": "2024-07-16T15:39:57.674Z",
+  "lastModifiedDate": "2024-07-30T09:52:50.441Z",
   "effectiveDate": "2023-04-27T15:00:00.000Z",
   "viewableDate": "2023-04-20T15:00:00.000Z",
   "developer": null,
@@ -36,6 +36,78 @@
   ],
   "tags": [
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1120,
+      "comment": ""
+    },
+    {
+      "id": "1283",
+      "name": "Sports",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2023-08-18T14:35:48.351Z",
+      "status": "ACTIVE",
+      "referenceCount": 148,
+      "comment": null
+    },
+    {
+      "id": "21125",
+      "name": "Competitive Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:32.830Z",
+      "updated": "2023-09-26T16:06:19.633Z",
+      "status": "ACTIVE",
+      "referenceCount": 92,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3945,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14869,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 2809,
+      "comment": null
+    },
+    {
       "id": "1296",
       "name": "Casual",
       "namespace": "epic",
@@ -46,18 +118,6 @@
       "status": "ACTIVE",
       "referenceCount": 423,
       "comment": null
-    },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-06-19T16:23:12.748Z",
-      "updated": "2024-03-28T21:49:30.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 1104,
-      "comment": ""
     },
     {
       "id": "1393",
@@ -80,20 +140,8 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 484,
+      "referenceCount": 485,
       "comment": ""
-    },
-    {
-      "id": "1283",
-      "name": "Sports",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2023-08-18T14:35:48.351Z",
-      "status": "ACTIVE",
-      "referenceCount": 148,
-      "comment": null
     },
     {
       "id": "16979",
@@ -105,30 +153,6 @@
       "updated": "2024-07-18T15:00:10.854Z",
       "status": "ACTIVE",
       "referenceCount": 3078,
-      "comment": ""
-    },
-    {
-      "id": "21125",
-      "name": "Competitive Community",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2023-09-26T16:06:19.633Z",
-      "status": "ACTIVE",
-      "referenceCount": 96,
-      "comment": ""
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3935,
       "comment": ""
     },
     {
@@ -144,18 +168,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14850,
-      "comment": null
-    },
-    {
       "id": "21149",
       "name": "Quickly Understand the Controls",
       "namespace": null,
@@ -164,20 +176,20 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 465,
+      "referenceCount": 467,
       "comment": ""
     },
     {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 2807,
-      "comment": null
+      "referenceCount": 334,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
