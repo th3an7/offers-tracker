@@ -3,12 +3,12 @@
   "namespace": "a60b160cb14c4c258b70299310b63e56",
   "title": "Panzer Corps 2: Frontlines - Bulge",
   "description": "The game introduces players to the first downloadable content, immersing them in a dynamic and engaging narrative battlefield that unfolds during the epic Battle of the Bulge, starting a few days before the fateful date of December 16th, 1944",
-  "longDescription": "# MISSIONS FROM HISTORY\n\nThe campaign kicks off with a smaller-scale US attack along the border region between Belgium and Germany, providing a compelling starting point for players. This historical conflict, which raged on for 4-6 weeks, comes to life with a unique twist that ensures an engaging gameplay experience.\n\nThis introductory battle serves as a manageable yet thrilling experience, allowing players to acclimate to the game's mechanics and storyline. As the campaign progresses, it sets the stage for a dramatic turn of events—a surprise German offensive that adds layers of complexity and excitement to the gameplay.\nRather than cramming the entire Battle of the Bulge into a single scenario, it has been divided into smaller battles, each representing just a few days of in-game time and covering a limited geographic area, typically spanning a few dozen miles. This approach grants players an unprecedented level of detail, allowing them to relive key moments of this monumental battle.\n\n# NEW CHALLENGES\n\nPanzer Corps 2: Frontlines - Bulge introduces a new layer of challenges. In the early stages of the German offensive, you'll be outgunned and outnumbered. Additionally, the adverse weather conditions limit the main Allied strength – airpower. To ensure an enjoyable and balanced gaming experience, you can earn rewards, including heroes and extra units, and select from different scenarios three times during the campaign, enabling you to choose between different areas of the battle.\n\n# FEATURES\n\n- Experience the Battle of the Bulge within a more zoomed-in scale, featuring the famous Siege of Bastogne\n- Unique Campaign Structure divided into smaller battles for detailed, focused gameplay.\n- Adverse weather conditions limit Allied airpower.\n- Earn heroes and extra units as rewards.\n- Tailor the experience by selecting easier or more challenging battles.\n- Enjoy a balanced gaming experience with rewards and scenario selection.\n- Adapt difficulty to individual skill levels and preferences.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# MISSIONS FROM HISTORY\n<!--text-->\n\nThe campaign kicks off with a smaller-scale US attack along the border region between Belgium and Germany, providing a compelling starting point for players. This historical conflict, which raged on for 4-6 weeks, comes to life with a unique twist that ensures an engaging gameplay experience.\n\nThis introductory battle serves as a manageable yet thrilling experience, allowing players to acclimate to the game's mechanics and storyline. As the campaign progresses, it sets the stage for a dramatic turn of events—a surprise German offensive that adds layers of complexity and excitement to the gameplay.\nRather than cramming the entire Battle of the Bulge into a single scenario, it has been divided into smaller battles, each representing just a few days of in-game time and covering a limited geographic area, typically spanning a few dozen miles. This approach grants players an unprecedented level of detail, allowing them to relive key moments of this monumental battle.\n\n<!--textBlock-->\n<!--title-->\n# NEW CHALLENGES\n<!--text-->\n\nPanzer Corps 2: Frontlines - Bulge introduces a new layer of challenges. In the early stages of the German offensive, you'll be outgunned and outnumbered. Additionally, the adverse weather conditions limit the main Allied strength – airpower. To ensure an enjoyable and balanced gaming experience, you can earn rewards, including heroes and extra units, and select from different scenarios three times during the campaign, enabling you to choose between different areas of the battle.\n\n<!--textBlock-->\n<!--title-->\n# FEATURES\n<!--text-->\n\n- Experience the Battle of the Bulge within a more zoomed-in scale, featuring the famous Siege of Bastogne\n- Unique Campaign Structure divided into smaller battles for detailed, focused gameplay.\n- Adverse weather conditions limit Allied airpower.\n- Earn heroes and extra units as rewards.\n- Tailor the experience by selecting easier or more challenging battles.\n- Enjoy a balanced gaming experience with rewards and scenario selection.\n- Adapt difficulty to individual skill levels and preferences.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "panzer-corps-2--frontlines-bulge",
-  "creationDate": "2024-01-29T12:11:15.465Z",
-  "lastModifiedDate": "2024-06-10T16:46:49.718Z",
+  "creationDate": "2024-07-29T15:58:54.494Z",
+  "lastModifiedDate": "2024-08-01T12:06:33.976Z",
   "effectiveDate": "2024-03-21T15:00:00.000Z",
   "viewableDate": "2024-02-08T08:00:00.000Z",
   "developer": null,
@@ -44,24 +44,76 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1121,
+      "referenceCount": 1120,
       "comment": ""
     },
-    null,
     {
-      "id": "1183",
-      "name": "Local Multiplayer",
+      "id": "1370",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:49.408Z",
-      "updated": "2024-03-28T21:48:38.999Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
-      "referenceCount": 168,
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14891,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-08-23T05:08:24.575Z",
+      "status": "ACTIVE",
+      "referenceCount": 1068,
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Slitherine Ltd."
+    },
+    {
+      "key": "developerName",
+      "value": "Flashback Games"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -80,15 +132,6 @@
       "uploadedDate": "2024-02-27T09:48:12.712Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/a60b160cb14c4c258b70299310b63e56/EGS_PanzerCorps2FrontlinesBulge_FlashbackGames_DLC_IC1_200x200-4520be76b1fc022f61a7ccc6eb9d748e",
-      "md5": "4520be76b1fc022f61a7ccc6eb9d748e",
-      "size": 48408,
-      "uploadedDate": "2024-02-27T09:48:18.365Z",
-      "width": 200,
-      "height": 200
     },
     {
       "type": "Thumbnail",
