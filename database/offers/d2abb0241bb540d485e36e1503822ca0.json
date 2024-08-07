@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dead-by-daylight--the-halloween-chapter",
-  "creationDate": "2024-07-22T17:36:21.441Z",
-  "lastModifiedDate": "2024-07-22T19:41:01.783Z",
+  "creationDate": "2021-08-12T00:24:07.024Z",
+  "lastModifiedDate": "2024-08-06T12:53:08.834Z",
   "effectiveDate": "2021-12-02T16:00:00.000Z",
   "viewableDate": "2021-11-25T16:00:00.000Z",
   "developer": null,
@@ -59,7 +59,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1128,
+      "referenceCount": 1129,
       "comment": ""
     },
     {
@@ -72,6 +72,18 @@
       "updated": "2023-08-22T19:55:04.175Z",
       "status": "ACTIVE",
       "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14923,
       "comment": null
     }
   ],
@@ -99,6 +111,10 @@
     {
       "key": "publisherName",
       "value": "Behaviour Interactive"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "false"
     },
     {
       "key": "developerName",
