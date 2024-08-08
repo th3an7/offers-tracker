@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "c079a9002fb04e0298d63b604379f2df",
   "creationDate": "2024-04-27T11:53:52.278Z",
-  "lastModifiedDate": "2024-06-03T07:26:02.341Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-08-08T00:31:29.766Z",
+  "effectiveDate": "2024-08-08T15:30:00.000Z",
   "viewableDate": "2024-05-04T17:27:34.581Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1129,
+      "referenceCount": 1130,
       "comment": ""
     },
     {
@@ -80,8 +80,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14923,
+      "referenceCount": 14939,
       "comment": null
+    },
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-06-24T20:06:43.344Z",
+      "updated": "2023-08-22T18:09:40.655Z",
+      "status": "ACTIVE",
+      "referenceCount": 180,
+      "comment": ""
     },
     {
       "id": "1310",
@@ -103,7 +115,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -115,16 +127,16 @@
     },
     {
       "key": "isBlockchainUsed",
-      "value": "false"
+      "value": "true"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/8eb5406cb66b437a8d771f89701f92c2/radiantarena-1rg84.png",
-      "md5": "cf2c6fcd402463706ba95a031a88e6b5",
-      "size": 3864515,
-      "uploadedDate": "2024-05-02T08:34:02.299Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/8eb5406cb66b437a8d771f89701f92c2/radiantarena-1wh7k.jpg",
+      "md5": "001f13e0b613e27c58423fb5f52e3f1f",
+      "size": 1952466,
+      "uploadedDate": "2024-07-26T08:13:11.138Z",
       "width": 2560,
       "height": 1440
     },

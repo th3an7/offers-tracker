@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "b6a963d299904bd297e528027b3034ec",
   "creationDate": "2024-01-07T10:01:36.208Z",
-  "lastModifiedDate": "2024-04-16T14:47:42.048Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-08-07T19:28:11.943Z",
+  "effectiveDate": "2024-08-08T13:30:00.000Z",
   "viewableDate": "2024-02-26T05:27:45.339Z",
   "developer": null,
   "seller": {
@@ -56,7 +56,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3964,
+      "referenceCount": 3965,
       "comment": ""
     },
     {
@@ -72,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14939,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -84,18 +96,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14923,
-      "comment": null
-    },
-    {
       "id": "1294",
       "name": "First Person",
       "namespace": "epic",
@@ -105,18 +105,6 @@
       "updated": "2023-08-23T00:14:55.884Z",
       "status": "ACTIVE",
       "referenceCount": 481,
-      "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -135,7 +123,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -145,28 +133,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/061eb4b68c164aa28e6bf3500e45cb9b/unholy-village-1eb3s.png",
-      "md5": "474cc956b33a35b6f7a7a4be06028b07",
-      "size": 3750113,
-      "uploadedDate": "2024-02-25T08:39:06.486Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/061eb4b68c164aa28e6bf3500e45cb9b/unholy-village-tt156.png",
+      "md5": "01d0cdfb722b6da7713bfdda8fdceca1",
+      "size": 1418196,
+      "uploadedDate": "2024-07-19T19:53:17.752Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/061eb4b68c164aa28e6bf3500e45cb9b/unholy-village-1e6v2.png",
-      "md5": "82f1b9e958d6774239106da8654f0f49",
-      "size": 1523004,
-      "uploadedDate": "2024-03-07T13:26:02.794Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/061eb4b68c164aa28e6bf3500e45cb9b/unholy-village-ze6rb.png",
+      "md5": "f731a4c14f63a3a4f96e81efc990b3ca",
+      "size": 1378882,
+      "uploadedDate": "2024-07-19T20:00:37.279Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/061eb4b68c164aa28e6bf3500e45cb9b/unholy-village-1e6v2.png",
-      "md5": "82f1b9e958d6774239106da8654f0f49",
-      "size": 1523004,
-      "uploadedDate": "2024-03-07T13:26:02.794Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/061eb4b68c164aa28e6bf3500e45cb9b/unholy-village-ze6rb.png",
+      "md5": "f731a4c14f63a3a4f96e81efc990b3ca",
+      "size": 1378882,
+      "uploadedDate": "2024-07-19T20:00:37.279Z",
       "width": 1200,
       "height": 1600
     }
