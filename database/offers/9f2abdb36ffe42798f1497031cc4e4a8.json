@@ -2,13 +2,13 @@
   "id": "9f2abdb36ffe42798f1497031cc4e4a8",
   "namespace": "61dbcd85808d4125ba873ba90385949b",
   "title": "Spotify Music and Podcasts",
-  "description": "With Spotify, you can play millions of songs for free. Listen to the songs you love and enjoy music from all over the world. • Search for your favourite song, artist, or album. • Discover a world of new music, videos, and podcasts.",
+  "description": "With Spotify, you have access to a world of music and podcasts. You can listen to albums, or watch episodes from your favorite creators, or create your own playlists for any moment. Want to discover new music? Choose a ready-made playlist that suits your mood or get personalized recommendations.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "spotify",
   "urlSlug": "spotify",
   "creationDate": "2020-11-19T20:59:43.173Z",
-  "lastModifiedDate": "2024-04-24T18:46:34.413Z",
+  "lastModifiedDate": "2024-08-08T11:33:58.861Z",
   "effectiveDate": "2020-12-17T15:00:00.000Z",
   "viewableDate": "2020-12-17T14:55:00.000Z",
   "developer": null,
@@ -68,20 +68,6 @@
       "comment": null
     },
     {
-      "id": "1129",
-      "name": "Music",
-      "namespace": null,
-      "aliases": [
-        "MUSIC"
-      ],
-      "operator": null,
-      "created": "2019-06-20T11:59:22.582Z",
-      "updated": "2023-08-21T12:33:06.348Z",
-      "status": "ACTIVE",
-      "referenceCount": 81,
-      "comment": null
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -90,7 +76,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14939,
+      "referenceCount": 14988,
       "comment": null
     },
     {
@@ -121,56 +107,29 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S1_2560x1440-aee46a0586da12280c7937642e39cd50",
-      "md5": "aee46a0586da12280c7937642e39cd50",
-      "size": 473396,
-      "uploadedDate": "2022-08-19T16:49:50.483Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S2_1200x1600-467115f64313c85e32cbd4147902207a",
-      "md5": "467115f64313c85e32cbd4147902207a",
-      "size": 689847,
-      "uploadedDate": "2022-08-19T16:50:03.706Z",
+      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S2_1200x1600-83d4e1bec1d324f9295dc414df69a19e",
+      "md5": "83d4e1bec1d324f9295dc414df69a19e",
+      "size": 505680,
+      "uploadedDate": "2024-03-01T12:05:57.264Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S1_2560x1440-d7982d5a8a8d53c49e4c8d9e41e35aaa",
+      "md5": "d7982d5a8a8d53c49e4c8d9e41e35aaa",
+      "size": 539581,
+      "uploadedDate": "2024-03-01T12:05:49.532Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S2_1200x1600-467115f64313c85e32cbd4147902207a",
-      "md5": "467115f64313c85e32cbd4147902207a",
-      "size": 689847,
-      "uploadedDate": "2022-08-19T16:50:10.484Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S2_1200x1600-467115f64313c85e32cbd4147902207a",
-      "md5": "467115f64313c85e32cbd4147902207a",
-      "size": 689847,
-      "uploadedDate": "2022-08-19T16:50:16.784Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S1_2560x1440-aee46a0586da12280c7937642e39cd50",
-      "md5": "aee46a0586da12280c7937642e39cd50",
-      "size": 473396,
-      "uploadedDate": "2022-08-19T16:50:21.845Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S2_1200x1600-467115f64313c85e32cbd4147902207a",
-      "md5": "467115f64313c85e32cbd4147902207a",
-      "size": 689847,
-      "uploadedDate": "2022-08-19T16:50:27.883Z",
+      "url": "https://cdn1.epicgames.com/offer/61dbcd85808d4125ba873ba90385949b/EGS_SpotifyMusicandPodcasts_SpotifyAB_S4_1200x1600-83d4e1bec1d324f9295dc414df69a19e",
+      "md5": "83d4e1bec1d324f9295dc414df69a19e",
+      "size": 505680,
+      "uploadedDate": "2024-03-01T12:06:01.176Z",
       "width": 1200,
       "height": 1600
     }
