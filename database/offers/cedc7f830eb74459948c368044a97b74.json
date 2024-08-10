@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "de229a542a4d4247bc36043c911d9e68",
   "creationDate": "2023-04-08T20:16:59.596Z",
-  "lastModifiedDate": "2023-10-04T13:41:06.962Z",
+  "lastModifiedDate": "2024-08-09T13:27:10.295Z",
   "effectiveDate": "2023-08-18T15:00:00.000Z",
   "viewableDate": "2023-06-06T07:30:00.000Z",
   "developer": null,
@@ -80,7 +80,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 632,
+      "referenceCount": 634,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14988,
+      "referenceCount": 14995,
       "comment": null
     },
     {
@@ -118,18 +118,6 @@
       "status": "ACTIVE",
       "referenceCount": 481,
       "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -140,6 +128,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
