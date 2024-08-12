@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "34df18d190ca4728a7b3150fb0a9632d",
   "creationDate": "2023-11-07T02:44:30.490Z",
-  "lastModifiedDate": "2024-07-29T19:00:18.648Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-08-11T05:32:05.772Z",
+  "effectiveDate": "2099-12-08T08:00:00.000Z",
   "viewableDate": "2023-11-16T21:30:00.000Z",
   "developer": null,
   "seller": {
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1131,
+      "referenceCount": 1132,
       "comment": ""
     },
     {
@@ -56,7 +56,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 185,
+      "referenceCount": 186,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1904,
+      "referenceCount": 1905,
       "comment": ""
     },
     {
@@ -83,7 +83,18 @@
       "referenceCount": 95,
       "comment": null
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2023-08-23T03:10:10.001Z",
+      "status": "ACTIVE",
+      "referenceCount": 1144,
+      "comment": null
+    },
     {
       "id": "22776",
       "name": "Cross Platform",
@@ -96,8 +107,30 @@
       "referenceCount": 634,
       "comment": ""
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15000,
+      "comment": null
+    },
     {
       "id": "1263",
       "name": "Indie",
