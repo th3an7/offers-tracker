@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "skin-pack-dlc",
   "creationDate": "2024-07-15T12:59:21.159Z",
-  "lastModifiedDate": "2024-08-01T11:49:08.630Z",
+  "lastModifiedDate": "2024-08-12T22:34:42.309Z",
   "effectiveDate": "2024-08-08T16:00:00.000Z",
   "viewableDate": "2024-08-01T10:12:30.878Z",
   "developer": null,
@@ -69,6 +69,18 @@
       "comment": null
     },
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 3968,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -80,18 +92,7 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15000,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -101,7 +102,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2837,
+      "referenceCount": 2840,
       "comment": null
     }
   ],

@@ -1,14 +1,14 @@
 {
   "id": "986f204929194a9da47c3d7fe8db8a3c",
   "namespace": "fa7346c113ff48d8b9a1b48f44a3a48e",
-  "title": "Shoulders of Giants",
+  "title": "Shoulders of Giants: Ultimate",
   "description": "Simultaneously control a sword-wielding robot and a gunslinging space frog in Shoulders of Giants, an explosively colorful sci-fi roguelike. Play alone, with a friend, or as part of a four-person team, cutting through waves of enemies on a quest to rescue the galaxy!",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "992fe24788b54887a6bb867e8dfd3c6d-06",
+  "urlSlug": "992fe24788b54887a6bb867e8dfd3c6d-07",
   "creationDate": "2023-01-09T19:07:56.481Z",
-  "lastModifiedDate": "2023-06-20T12:56:36.975Z",
+  "lastModifiedDate": "2024-08-12T14:10:29.430Z",
   "effectiveDate": "2023-01-26T06:00:00.000Z",
   "viewableDate": "2023-01-26T06:00:00.000Z",
   "developer": null,
@@ -48,16 +48,16 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "referenceCount": 1135,
+      "comment": ""
     },
     {
       "id": "1381",
@@ -80,7 +80,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1905,
+      "referenceCount": 1904,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3964,
+      "referenceCount": 3968,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 634,
+      "referenceCount": 636,
       "comment": ""
     },
     {
@@ -131,6 +131,7 @@
       "referenceCount": 5001,
       "comment": null
     },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -144,18 +145,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15000,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -164,7 +153,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2837,
+      "referenceCount": 2840,
       "comment": null
     }
   ],
@@ -178,6 +167,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -189,28 +182,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/5afb45717a7b492da9727b3e7a3cd64a/shoulders-of-giants-18tv2.png",
-      "md5": "40744c112eb8f7ce0c82ebf6f2fa8760",
-      "size": 3398740,
-      "uploadedDate": "2023-01-02T18:25:41.368Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/5afb45717a7b492da9727b3e7a3cd64a/shoulders-of-giants-ffs8z.jpg",
+      "md5": "1cf413ad45c649c29c406c6dfce42129",
+      "size": 872989,
+      "uploadedDate": "2024-08-06T15:28:24.478Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/5afb45717a7b492da9727b3e7a3cd64a/shoulders-of-giants-ohz8f.png",
-      "md5": "5fc87d4503a77bf38158097dde1101e3",
-      "size": 2090792,
-      "uploadedDate": "2023-01-02T18:25:52.226Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/5afb45717a7b492da9727b3e7a3cd64a/shoulders-of-giants-m2prs.jpg",
+      "md5": "cec77d2103f0dfea0e68a8329eddfb21",
+      "size": 614088,
+      "uploadedDate": "2024-08-06T15:30:44.501Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/5afb45717a7b492da9727b3e7a3cd64a/shoulders-of-giants-ohz8f.png",
-      "md5": "5fc87d4503a77bf38158097dde1101e3",
-      "size": 2090792,
-      "uploadedDate": "2023-01-02T18:25:52.226Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/5afb45717a7b492da9727b3e7a3cd64a/shoulders-of-giants-m2prs.jpg",
+      "md5": "cec77d2103f0dfea0e68a8329eddfb21",
+      "size": 614088,
+      "uploadedDate": "2024-08-06T15:30:44.501Z",
       "width": 1200,
       "height": 1600
     }

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "gems-pack-1",
   "creationDate": "2024-04-10T18:18:08.665Z",
-  "lastModifiedDate": "2024-07-25T22:38:06.936Z",
+  "lastModifiedDate": "2024-08-12T20:28:08.206Z",
   "effectiveDate": "2024-06-07T22:18:11.274Z",
   "viewableDate": "2024-06-07T22:18:11.274Z",
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/consumable"
     }
   ],
   "tags": [
@@ -41,20 +41,8 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3964,
+      "referenceCount": 3968,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15000,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -72,7 +60,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
