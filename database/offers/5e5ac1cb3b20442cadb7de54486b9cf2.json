@@ -8,7 +8,7 @@
   "productSlug": "god-of-war",
   "urlSlug": "god-of-war",
   "creationDate": "2021-04-19T22:47:07.322Z",
-  "lastModifiedDate": "2024-08-12T12:22:37.515Z",
+  "lastModifiedDate": "2024-08-13T15:00:23.206Z",
   "effectiveDate": "2022-01-14T16:00:00.000Z",
   "viewableDate": "2022-01-14T16:00:00.000Z",
   "developer": null,
@@ -59,10 +59,21 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 370,
+      "referenceCount": 371,
       "comment": ""
     },
-    null,
+    {
+      "id": "1188",
+      "name": "RELAXING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.840Z",
+      "updated": "2023-08-22T13:54:28.456Z",
+      "status": "ACTIVE",
+      "referenceCount": 344,
+      "comment": null
+    },
     {
       "id": "21125",
       "name": "Competitive Community",
@@ -84,10 +95,21 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1904,
+      "referenceCount": 1905,
       "comment": ""
     },
-    null,
+    {
+      "id": "21127",
+      "name": "Creative Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:58.023Z",
+      "updated": "2023-08-22T10:58:47.680Z",
+      "status": "ACTIVE",
+      "referenceCount": 208,
+      "comment": ""
+    },
     {
       "id": "21129",
       "name": "Challenging Combat",
@@ -101,20 +123,41 @@
       "comment": ""
     },
     {
-      "id": "29899",
-      "name": "Deals of the Week",
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15018,
+      "comment": null
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2023-07-26T14:41:48.253Z",
-      "updated": "2023-08-22T15:03:06.981Z",
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 60,
+      "referenceCount": 492,
       "comment": ""
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2023-08-23T04:55:54.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 452,
+      "comment": null
+    },
     {
       "id": "21139",
       "name": "Amazing Characters",
@@ -124,7 +167,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 448,
+      "referenceCount": 447,
       "comment": ""
     },
     {
@@ -148,7 +191,7 @@
       "created": "2022-05-17T18:56:51.047Z",
       "updated": "2023-08-03T18:31:17.357Z",
       "status": "ACTIVE",
-      "referenceCount": 216,
+      "referenceCount": 217,
       "comment": "From Ratings & Polls results."
     },
     {

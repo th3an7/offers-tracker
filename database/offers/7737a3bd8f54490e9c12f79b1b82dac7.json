@@ -2,13 +2,13 @@
   "id": "7737a3bd8f54490e9c12f79b1b82dac7",
   "namespace": "879a4b6564b4491e9f523c634d181756",
   "title": "Awaken",
-  "description": "Awaken is a Fighting game & Open-world metaverse. Within Awaken immersive gaming world, players will have a chance to immerse themselves in the traditional combat domain with real interactions seamlessly integrated into the metaverse.",
+  "description": "Awaken is a Fighting game & Asgard world built with Web3 infrastructure. Within Awaken, players will have a chance to immerse themselves in the traditional combat domain with real interactions seamlessly integrated into the space.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "8a54b9f19f024fd2bf6119a557e7cbc8",
   "creationDate": "2023-11-29T03:34:00.801Z",
-  "lastModifiedDate": "2024-02-05T07:05:05.772Z",
+  "lastModifiedDate": "2024-08-13T15:12:43.458Z",
   "effectiveDate": "2024-02-05T07:04:49.498Z",
   "viewableDate": "2023-12-27T02:21:39.606Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1135,
+      "referenceCount": 1140,
       "comment": ""
     },
     {
@@ -69,6 +69,18 @@
       "updated": "2023-08-23T04:55:54.821Z",
       "status": "ACTIVE",
       "referenceCount": 452,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15018,
       "comment": null
     },
     {
@@ -94,18 +106,6 @@
       "status": "ACTIVE",
       "referenceCount": 180,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15010,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -116,6 +116,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",

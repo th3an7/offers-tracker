@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "artofrallydeluxeedition",
   "creationDate": "2020-09-17T22:02:52.981Z",
-  "lastModifiedDate": "2024-08-08T15:04:22.289Z",
+  "lastModifiedDate": "2024-08-13T13:00:09.997Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": "2024-04-17T12:57:12.869Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1904,
+      "referenceCount": 1905,
       "comment": ""
     },
     {
@@ -56,10 +56,21 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3968,
+      "referenceCount": 3969,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15018,
+      "comment": null
+    },
     {
       "id": "1212",
       "name": "Racing",
@@ -81,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2840,
+      "referenceCount": 2847,
       "comment": null
     }
   ],
@@ -121,13 +132,31 @@
   ],
   "keyImages": [
     {
-      "type": "featuredMedia",
-      "url": "https://cdn2.unrealengine.com/egs-artofrallydeluxeedition-funselektor-bundles-g1a-00-1920x1080-072348325.jpg",
+      "type": "OfferImageTall",
+      "url": "https://cdn2.unrealengine.com/egs-artofrallydeluxeedition-funselektor-bundles-s2-1200x1600-072347723.jpg",
       "md5": "7810e895485e11f704d4fee66e07af9c",
       "size": 1,
-      "uploadedDate": "2024-03-25T19:34:47.248Z",
-      "width": 1920,
-      "height": 1080
+      "uploadedDate": "2024-03-25T19:34:47.346Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn2.unrealengine.com/egs-artofrallydeluxeedition-funselektor-bundles-s1-2560x1440-072347956.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-25T19:34:47.346Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn2.unrealengine.com/egs-artofrallydeluxeedition-funselektor-bundles-s2-1200x1600-072347723.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-25T19:34:47.346Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "heroCarouselVideo",
@@ -281,33 +310,6 @@
       "uploadedDate": "2024-03-25T19:34:47.252Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn2.unrealengine.com/egs-artofrallydeluxeedition-funselektor-bundles-s2-1200x1600-072347723.jpg",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-25T19:34:47.346Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn2.unrealengine.com/egs-artofrallydeluxeedition-funselektor-bundles-s1-2560x1440-072347956.jpg",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-25T19:34:47.346Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn2.unrealengine.com/egs-artofrallydeluxeedition-funselektor-bundles-s2-1200x1600-072347723.jpg",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-25T19:34:47.346Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [
