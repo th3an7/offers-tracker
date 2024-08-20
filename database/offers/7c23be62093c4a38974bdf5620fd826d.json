@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "fb59cad25cae43f7b12cb7f4dd0280ad",
   "creationDate": "2024-06-11T01:20:27.965Z",
-  "lastModifiedDate": "2024-07-29T00:52:12.954Z",
+  "lastModifiedDate": "2024-08-19T19:43:48.184Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-07-23T14:33:19.861Z",
+  "viewableDate": "2024-07-23T14:33:19.000Z",
   "developer": null,
   "seller": {
     "id": "o-fb2mtvmgjaa5qkfp5s723h5vtymkpv",
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 192,
-      "comment": ""
-    },
     {
       "id": "1381",
       "name": "Exploration",
@@ -116,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15049,
+      "referenceCount": 15060,
       "comment": null
     }
   ],
