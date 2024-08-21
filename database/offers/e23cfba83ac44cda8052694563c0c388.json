@@ -1,15 +1,15 @@
 {
   "id": "e23cfba83ac44cda8052694563c0c388",
   "namespace": "6ce9cadbab474f07928e3035473289d2",
-  "title": "FATAL FURY: City of the Wolves",
+  "title": "FATAL FURY: City of the Wolves Special Edition",
   "description": "After 26 years, FATAL FURY is back!",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "67b9e11b3df04bc4bacd3da3c5fd38df",
-  "creationDate": "2024-06-07T20:00:19.292Z",
-  "lastModifiedDate": "2024-06-07T20:00:19.292Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-04-16T10:44:40.270Z",
+  "lastModifiedDate": "2024-08-20T16:41:28.445Z",
+  "effectiveDate": "2024-08-20T18:00:00.000Z",
   "viewableDate": "2024-06-07T20:00:00.637Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2024-01-30T16:42:20.388Z",
       "updated": "2024-02-05T20:14:29.988Z",
       "status": "ACTIVE",
-      "referenceCount": 59,
+      "referenceCount": 60,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15062,
+      "referenceCount": 15108,
       "comment": null
     },
     {
@@ -92,7 +92,19 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2873,
+      "referenceCount": 2897,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -103,7 +115,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -121,35 +133,35 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-1sxv8.jpg",
-      "md5": "30838ac16145cc20f9f987a75db1961e",
-      "size": 1842020,
-      "uploadedDate": "2024-05-27T04:37:40.536Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-1vmxv.jpg",
+      "md5": "c1fde378361041275a5dd9ce3556d45b",
+      "size": 1951008,
+      "uploadedDate": "2024-08-20T08:37:51.702Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-xg49x.jpg",
-      "md5": "f3e5ec00dec4cad9770b2c5b5106e2d7",
-      "size": 684250,
-      "uploadedDate": "2024-05-31T00:44:10.654Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-kucjz.jpg",
+      "md5": "31be2f7eb51fccdaf3af880a931c233d",
+      "size": 1124920,
+      "uploadedDate": "2024-08-20T08:37:28.793Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-xg49x.jpg",
-      "md5": "f3e5ec00dec4cad9770b2c5b5106e2d7",
-      "size": 684250,
-      "uploadedDate": "2024-05-31T00:44:10.654Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/ae53204637354f019489f0148c950ce1/garou-city-of-the-wolves-kucjz.jpg",
+      "md5": "31be2f7eb51fccdaf3af880a931c233d",
+      "size": 1124920,
+      "uploadedDate": "2024-08-20T08:37:28.793Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "90ff66bec45a438e9cd23955f25ffe44"
+      "id": "fe651731d0ca4f0684428969d63a6aaa"
     }
   ],
   "catalogNs": {
