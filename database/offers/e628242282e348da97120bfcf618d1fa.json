@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "b3d8f1361b0648ea98249cc5e23cceda",
   "creationDate": "2023-09-21T20:36:26.584Z",
-  "lastModifiedDate": "2024-08-16T18:56:27.918Z",
+  "lastModifiedDate": "2024-08-26T20:44:02.617Z",
   "effectiveDate": "2024-08-16T19:00:00.000Z",
-  "viewableDate": "2024-04-24T18:01:26.157Z",
+  "viewableDate": "2024-04-24T18:01:26.000Z",
   "developer": null,
   "seller": {
     "id": "o-29ymspjwydgnlalndhxxcnugdprwg9",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1923,
+      "referenceCount": 1926,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4008,
+      "referenceCount": 4018,
       "comment": ""
     },
     {
@@ -108,18 +108,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15142,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -132,6 +120,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15157,
+      "comment": null
+    },
+    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2903,
+      "referenceCount": 2906,
       "comment": null
     },
     {
