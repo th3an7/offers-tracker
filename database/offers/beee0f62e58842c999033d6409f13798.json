@@ -6,11 +6,11 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "acff7f587e244445beedbb58c8f88563",
+  "urlSlug": "beyond-galaxyland",
   "creationDate": "2023-11-16T16:22:17.802Z",
-  "lastModifiedDate": "2024-08-26T11:38:54.245Z",
-  "effectiveDate": "2024-08-27T15:00:00.000Z",
-  "viewableDate": "2024-04-29T18:00:01.055Z",
+  "lastModifiedDate": "2024-08-27T14:33:24.614Z",
+  "effectiveDate": "2024-09-24T15:00:00.000Z",
+  "viewableDate": "2024-04-29T18:00:01.000Z",
   "developer": null,
   "seller": {
     "id": "o-2w466jcy8qfum5kv5drctwrsft632w",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 188,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15157,
+      "referenceCount": 15166,
       "comment": null
     }
   ],
@@ -137,7 +137,7 @@
   ],
   "items": [
     {
-      "id": "77008f4144ff40ba922e71c253e0088e"
+      "id": "0320d017ae484e72b193b3e3fd7bd34b"
     }
   ],
   "catalogNs": {

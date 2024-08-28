@@ -1,16 +1,16 @@
 {
   "id": "1a30008ef94244a69e8fd18bdcf425fe",
   "namespace": "16ed9f15b1b449ccb59cb610b13df5b8",
-  "title": "hemingway S2 DFE",
-  "description": "hemingway S2 DFE",
+  "title": "SMITE 2 Deluxe Founder's Edition",
+  "description": "SMITE 2 Deluxe Founder's Edition",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "hemingways2dfe",
+  "urlSlug": "smite-2-deluxe-founders-edition",
   "creationDate": "2024-02-28T11:55:25.728Z",
-  "lastModifiedDate": "2024-04-03T14:01:21.397Z",
-  "effectiveDate": "2099-02-01T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-08-27T13:27:07.581Z",
+  "effectiveDate": "2024-08-27T11:00:00.000Z",
+  "viewableDate": "2024-08-27T11:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
@@ -25,12 +25,107 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2024-03-28T21:49:29.573Z",
+      "status": "ACTIVE",
+      "referenceCount": 1846,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2023-08-23T04:55:54.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 452,
+      "comment": null
+    },
+    {
+      "id": "1275",
+      "name": "MOBA",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:35.244Z",
+      "updated": "2023-08-22T10:15:50.003Z",
+      "status": "ACTIVE",
+      "referenceCount": 7,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15166,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/16ed9f15b1b449ccb59cb610b13df5b8/EGS-SMITE2-UltimateFoundersEdition-LandscapeOfferImage-2560x1440_2560x1440-1380b20ec04452da4b555a06a975937c",
+      "md5": "1380b20ec04452da4b555a06a975937c",
+      "size": 824957,
+      "uploadedDate": "2024-04-10T15:19:24.853Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/16ed9f15b1b449ccb59cb610b13df5b8/EGS-SMITE2-UltimateFoundersEdition-PortraitOfferImage-1200x1600_1200x1600-0f707caf64e7703cc041467fe3c887f6",
+      "md5": "0f707caf64e7703cc041467fe3c887f6",
+      "size": 541911,
+      "uploadedDate": "2024-04-10T15:19:29.177Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/16ed9f15b1b449ccb59cb610b13df5b8/EGS-SMITE2-UltimateFoundersEdition-PortraitOfferImage-1200x1600_1200x1600-0f707caf64e7703cc041467fe3c887f6",
+      "md5": "0f707caf64e7703cc041467fe3c887f6",
+      "size": 541911,
+      "uploadedDate": "2024-04-10T15:19:32.001Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "551d41d2ded44988a3e160b5f1feb043"
