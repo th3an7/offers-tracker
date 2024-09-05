@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "f329c43423114548be9f640b4b872092",
   "creationDate": "2022-04-07T14:38:21.877Z",
-  "lastModifiedDate": "2024-09-03T13:51:33.380Z",
-  "effectiveDate": "2024-09-06T00:00:00.000Z",
-  "viewableDate": "2024-02-15T14:00:01.226Z",
+  "lastModifiedDate": "2024-09-04T14:58:09.246Z",
+  "effectiveDate": "2024-09-06T07:00:00.000Z",
+  "viewableDate": "2024-02-15T14:00:01.000Z",
   "developer": null,
   "seller": {
     "id": "o-9uf2bsrkptwqbkpy867grcbj5jxrta",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1980,
+      "referenceCount": 1981,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 649,
+      "referenceCount": 651,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2022-05-17T21:19:41.315Z",
       "updated": "2023-08-22T23:38:34.180Z",
       "status": "ACTIVE",
-      "referenceCount": 176,
+      "referenceCount": 175,
       "comment": ""
     },
     {
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15292,
+      "referenceCount": 15306,
       "comment": null
     },
     {
@@ -152,7 +152,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2924,
+      "referenceCount": 2925,
       "comment": null
     }
   ],
@@ -171,7 +171,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isBlockchainUsed",

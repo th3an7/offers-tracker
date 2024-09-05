@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "19fddd0dc6734c81b29ebe05b97f79d9",
   "creationDate": "2024-06-28T03:02:18.983Z",
-  "lastModifiedDate": "2024-07-26T05:32:26.202Z",
+  "lastModifiedDate": "2024-09-04T15:30:06.287Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-07-24T09:34:28.043Z",
+  "viewableDate": "2024-07-24T09:34:28.000Z",
   "developer": null,
   "seller": {
     "id": "o-amqbehx48y526shlja9w8y46z66gjz",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
-    },
-    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-08-23T05:08:24.575Z",
+      "status": "ACTIVE",
+      "referenceCount": 1068,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15292,
+      "referenceCount": 15306,
       "comment": null
     }
   ],
