@@ -2,13 +2,13 @@
   "id": "4809839022a44d1b99135c6a5cab008d",
   "namespace": "64543c9227724068970bd85bc4e73e9e",
   "title": "Farlight 84",
-  "description": "Fast-paced Hero Battle Royale. Your Farlight, your highlight!",
+  "description": "1st Pet Capture Battle Royale",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "42783c39ca7741fb8ccf71789aeaca8e",
   "creationDate": "2023-05-09T07:17:26.333Z",
-  "lastModifiedDate": "2024-05-25T08:31:53.421Z",
+  "lastModifiedDate": "2024-09-12T00:25:48.838Z",
   "effectiveDate": "2023-10-26T06:00:00.000Z",
   "viewableDate": "2023-08-20T11:00:00.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2022-05-17T21:16:32.830Z",
       "updated": "2023-09-26T16:06:19.633Z",
       "status": "ACTIVE",
-      "referenceCount": 113,
+      "referenceCount": 110,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15382,
+      "referenceCount": 15402,
       "comment": null
     },
     {
@@ -92,8 +92,20 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2957,
+      "referenceCount": 2960,
       "comment": null
+    },
+    {
+      "id": "21136",
+      "name": "Playful Visuals",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:27:25.710Z",
+      "updated": "2023-08-15T21:51:42.494Z",
+      "status": "ACTIVE",
+      "referenceCount": 47,
+      "comment": ""
     },
     {
       "id": "21138",
@@ -104,7 +116,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 514,
+      "referenceCount": 516,
       "comment": ""
     },
     {
@@ -200,7 +212,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 484,
+      "referenceCount": 486,
       "comment": ""
     },
     {
@@ -212,7 +224,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 351,
+      "referenceCount": 354,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -226,6 +238,10 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -237,28 +253,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/c5a4635b61354f8d8fd49520f58d5ece/farlight-84-16mbi.jpg",
-      "md5": "1db361092b88cc48b68f26f50fa198b9",
-      "size": 2752407,
-      "uploadedDate": "2024-01-23T07:20:51.506Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c5a4635b61354f8d8fd49520f58d5ece/farlight-84-co4an.png",
+      "md5": "9c2f266878e57d2b03c52ae9c41bf272",
+      "size": 3347765,
+      "uploadedDate": "2024-09-10T07:12:28.585Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/c5a4635b61354f8d8fd49520f58d5ece/farlight-84-gk09c.jpg",
-      "md5": "e7b30bae8dd2b58ceae4c912b8403bcc",
-      "size": 1819628,
-      "uploadedDate": "2024-01-23T07:21:22.427Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c5a4635b61354f8d8fd49520f58d5ece/farlight-84-19n7w.png",
+      "md5": "90a128db6fc9ff92b28079806c7c2a15",
+      "size": 1963831,
+      "uploadedDate": "2024-09-10T07:12:32.276Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/c5a4635b61354f8d8fd49520f58d5ece/farlight-84-gk09c.jpg",
-      "md5": "e7b30bae8dd2b58ceae4c912b8403bcc",
-      "size": 1819628,
-      "uploadedDate": "2024-01-23T07:21:22.427Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c5a4635b61354f8d8fd49520f58d5ece/farlight-84-19n7w.png",
+      "md5": "90a128db6fc9ff92b28079806c7c2a15",
+      "size": 1963831,
+      "uploadedDate": "2024-09-10T07:12:32.276Z",
       "width": 1200,
       "height": 1600
     }
