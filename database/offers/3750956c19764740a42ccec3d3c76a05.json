@@ -3,12 +3,12 @@
   "namespace": "611482b8586142cda48a0786eb8a127c",
   "title": "Dead by Daylight - Leatherface™",
   "description": "Leatherface is a Character DLC for Dead by Daylight. As the chainsaw starts, you know what is coming. Pain and fear in a combination of panic as you understand that death isn’t the end. You will also end up on someone’s plate.",
-  "longDescription": "**As the saw starts...**\nWhat happens when the body grows but the mind can’t keep up? A child’s fears and anxiety, but trapped inside a fully grown man’s body. A furious body wielding a chainsaw? Someone who knows what happens as you disobey your family. What happens if anyone finds out what’s in the stew.\n\nLeatherface is not only the skin clad maniac with a disturbed mind. He seeks acceptance and appreciation. He’s learned the hard way and was molded to what he now is. A watchdog, a guardian, a blind gate keeper who never questions. And all problems can be solved with his chainsaw.\n\n**Killer Power - Leatherface: Bubba’s Chainsaw**\nAn incredibly powerful and heavy Chainsaw which sank its teeth in countless victims. A suiting birthday gift to The Cannibal. The Chainsaw is Leatherface's most deadly weapon. He can use it at will, doing devastating sweeping  attacks with it. \n\nLeatherface comes with 3 new Perks:\n\n**Knock Out**\nThe trauma caused by your brutal attacks makes crying for help painfully difficult. Dying survivors' auras are not revealed to other survivors when they are standing out of range.\n\n**Barbecue & Chili**\nA deep bond with The Entity unlocks potential in one's aura reading ability. After hooking a Survivor, all other Survivors' aura are revealed to you for 3 seconds when they are further than 36 meters from the hook. Grants bonus Bloodpoints on any scoring event while a Survivor is on the hook.\n\n**Franklin's Demise**\nYour vicious attacks make the Survivors drop their item on impact. The lost item is damaged in the fall, losing a portion of its base amount of charges.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\n**As the saw starts...**\nWhat happens when the body grows but the mind can’t keep up? A child’s fears and anxiety, but trapped inside a fully grown man’s body. A furious body wielding a chainsaw? Someone who knows what happens as you disobey your family. What happens if anyone finds out what’s in the stew.\n\nLeatherface is not only the skin clad maniac with a disturbed mind. He seeks acceptance and appreciation. He’s learned the hard way and was molded to what he now is. A watchdog, a guardian, a blind gate keeper who never questions. And all problems can be solved with his chainsaw.\n\n**Killer Power - Leatherface: Bubba’s Chainsaw**\nAn incredibly powerful and heavy Chainsaw which sank its teeth in countless victims. A suiting birthday gift to The Cannibal. The Chainsaw is Leatherface's most deadly weapon. He can use it at will, doing devastating sweeping  attacks with it. \n\nLeatherface comes with 3 new Perks:\n\n**Knock Out**\nThe trauma caused by your brutal attacks makes crying for help painfully difficult. Dying survivors' auras are not revealed to other survivors when they are standing out of range.\n\n**Barbecue & Chili**\nA deep bond with The Entity unlocks potential in one's aura reading ability. After hooking a Survivor, all other Survivors' aura are revealed to you for 3 seconds when they are further than 36 meters from the hook. Grants bonus Bloodpoints on any scoring event while a Survivor is on the hook.\n\n**Franklin's Demise**\nYour vicious attacks make the Survivors drop their item on impact. The lost item is damaged in the fall, losing a portion of its base amount of charges.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dead-by-daylight--leatherface",
-  "creationDate": "2021-08-12T00:20:39.126Z",
-  "lastModifiedDate": "2024-08-30T09:12:50.758Z",
+  "creationDate": "2024-09-16T17:33:19.219Z",
+  "lastModifiedDate": "2024-09-16T22:54:13.018Z",
   "effectiveDate": "2021-12-02T16:00:00.000Z",
   "viewableDate": "2021-11-25T16:00:00.000Z",
   "developer": null,
@@ -39,6 +39,42 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1261,
+      "comment": ""
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -47,23 +83,27 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15526,
+      "referenceCount": 15535,
       "comment": null
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-08-19T07:48:32.677Z",
-      "updated": "2024-09-02T15:01:34.149Z",
-      "status": "ACTIVE",
-      "referenceCount": 2158,
-      "comment": ""
     }
   ],
   "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
@@ -75,9 +115,40 @@
     {
       "key": "developerName",
       "value": "Behaviour Interactive"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S1_2560x1440-69d111274b5f988914765c3d2cbf474b",
+      "md5": "69d111274b5f988914765c3d2cbf474b",
+      "size": 773248,
+      "uploadedDate": "2021-11-19T17:15:08.584Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d",
+      "md5": "be62dccbaad182dc7aa601983e7e491d",
+      "size": 589137,
+      "uploadedDate": "2021-11-19T17:15:14.686Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d",
+      "md5": "be62dccbaad182dc7aa601983e7e491d",
+      "size": 589137,
+      "uploadedDate": "2021-11-19T17:15:14.686Z",
+      "width": 1200,
+      "height": 1600
+    },
     {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_G1A_01_1920x1080-b13b093f7d978118f5abf6b7036ff41c",
@@ -122,51 +193,6 @@
       "uploadedDate": "2021-11-19T17:15:21.221Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d",
-      "md5": "be62dccbaad182dc7aa601983e7e491d",
-      "size": 589137,
-      "uploadedDate": "2021-11-19T17:15:14.686Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S1_2560x1440-69d111274b5f988914765c3d2cbf474b",
-      "md5": "69d111274b5f988914765c3d2cbf474b",
-      "size": 773248,
-      "uploadedDate": "2021-11-19T17:15:08.584Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d",
-      "md5": "be62dccbaad182dc7aa601983e7e491d",
-      "size": 589137,
-      "uploadedDate": "2021-11-19T17:15:01.255Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_S2_1200x1600-be62dccbaad182dc7aa601983e7e491d",
-      "md5": "be62dccbaad182dc7aa601983e7e491d",
-      "size": 589137,
-      "uploadedDate": "2021-11-19T17:14:56.076Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightLeatherface_BehaviourInteractive_DLC_IC1_200x200-0296b425359118eb7b156a3f6c63c393",
-      "md5": "0296b425359118eb7b156a3f6c63c393",
-      "size": 17962,
-      "uploadedDate": "2021-11-19T17:14:49.401Z",
-      "width": 200,
-      "height": 200
     }
   ],
   "items": [
