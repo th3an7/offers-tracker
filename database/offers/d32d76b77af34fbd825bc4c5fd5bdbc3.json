@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "b0c948107a0b47ce97302db23ebd217d",
   "creationDate": "2024-01-13T16:03:12.318Z",
-  "lastModifiedDate": "2024-09-13T21:42:44.588Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-01-31T12:03:38.709Z",
+  "lastModifiedDate": "2024-09-18T14:58:12.856Z",
+  "effectiveDate": "2024-09-18T14:58:04.015Z",
+  "viewableDate": "2024-01-31T12:03:38.000Z",
   "developer": null,
   "seller": {
     "id": "o-ncaj4fqb8zwwbs2gh6ku9m9f2qhngs",
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": ""
-    },
     {
       "id": "1218",
       "name": "Horror",
@@ -60,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
-    },
-    {
       "id": "1080",
       "name": "Survival",
       "namespace": "epic",
@@ -81,6 +57,18 @@
       "updated": "2023-08-22T19:55:04.175Z",
       "status": "ACTIVE",
       "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-08-23T03:24:56.304Z",
+      "status": "ACTIVE",
+      "referenceCount": 519,
       "comment": null
     },
     {
@@ -104,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15556,
+      "referenceCount": 15565,
       "comment": null
     },
     {

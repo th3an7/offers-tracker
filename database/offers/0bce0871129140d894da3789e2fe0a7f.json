@@ -8,7 +8,7 @@
   "productSlug": "black-book",
   "urlSlug": "tommes-general-audience",
   "creationDate": "2021-04-13T19:31:53.432Z",
-  "lastModifiedDate": "2024-09-16T15:02:03.111Z",
+  "lastModifiedDate": "2024-09-18T18:57:47.663Z",
   "effectiveDate": "2021-08-10T17:00:00.000Z",
   "viewableDate": "2021-08-10T17:00:00.000Z",
   "developer": null,
@@ -36,42 +36,6 @@
   ],
   "tags": [
     {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-08-22T10:58:47.687Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": ""
-    },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-08-22T14:02:04.254Z",
-      "status": "ACTIVE",
-      "referenceCount": 462,
-      "comment": ""
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-08-22T20:28:22.857Z",
-      "status": "ACTIVE",
-      "referenceCount": 490,
-      "comment": ""
-    },
-    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
@@ -80,7 +44,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1997,
+      "referenceCount": 1999,
       "comment": ""
     },
     {
@@ -92,7 +56,79 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4182,
+      "referenceCount": 4191,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15565,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 2967,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-08-22T10:58:47.687Z",
+      "status": "ACTIVE",
+      "referenceCount": 518,
+      "comment": ""
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-08-22T14:02:04.254Z",
+      "status": "ACTIVE",
+      "referenceCount": 464,
+      "comment": ""
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2023-08-22T20:28:22.857Z",
+      "status": "ACTIVE",
+      "referenceCount": 491,
       "comment": ""
     },
     {
@@ -120,30 +156,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15556,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2967,
-      "comment": null
-    },
-    {
       "id": "1117",
       "name": "Adventure",
       "namespace": "epic",
@@ -156,16 +168,16 @@
       "comment": null
     },
     {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
+      "referenceCount": 489,
+      "comment": ""
     },
     {
       "id": "21119",
@@ -176,7 +188,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 359,
+      "referenceCount": 362,
       "comment": "From Ratings & Polls results."
     }
   ],
