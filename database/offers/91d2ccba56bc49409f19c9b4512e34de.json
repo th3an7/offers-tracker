@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "demo",
   "creationDate": "2023-04-18T17:38:55.306Z",
-  "lastModifiedDate": "2023-11-05T18:10:05.636Z",
+  "lastModifiedDate": "2024-09-22T08:00:22.544Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-08-31T23:00:00.000Z",
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden"
+      "path": "games"
     },
     {
-      "path": "spthidden/demo"
+      "path": "games/demo"
     }
   ],
   "tags": [
@@ -101,7 +101,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15587,
+      "referenceCount": 15589,
       "comment": null
     },
     {
@@ -125,6 +125,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
