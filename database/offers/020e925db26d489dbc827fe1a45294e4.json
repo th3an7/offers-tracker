@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "0b02011f864d4871a1b752beee421b11",
   "creationDate": "2024-02-03T20:22:06.376Z",
-  "lastModifiedDate": "2024-09-22T14:54:37.246Z",
-  "effectiveDate": "2024-09-22T14:54:18.491Z",
-  "viewableDate": "2024-03-04T12:17:07.837Z",
+  "lastModifiedDate": "2024-09-24T14:18:15.573Z",
+  "effectiveDate": "2024-09-22T14:54:18.000Z",
+  "viewableDate": "2024-03-04T12:17:07.000Z",
   "developer": null,
   "seller": {
     "id": "o-6xlrjkpnsknrn2gueme9lnp2xua535",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -46,18 +46,6 @@
       "status": "ACTIVE",
       "referenceCount": 2167,
       "comment": null
-    },
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 187,
-      "comment": ""
     },
     {
       "id": "1287",
@@ -80,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4213,
+      "referenceCount": 4225,
       "comment": ""
     },
     {
@@ -116,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15603,
+      "referenceCount": 15618,
       "comment": null
     }
   ],
