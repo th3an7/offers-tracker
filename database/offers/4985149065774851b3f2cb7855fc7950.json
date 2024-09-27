@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "phillips-general-audience",
   "creationDate": "2024-05-29T14:51:09.834Z",
-  "lastModifiedDate": "2024-06-10T20:01:49.104Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-09-26T13:59:04.901Z",
+  "effectiveDate": "2024-09-26T14:00:00.000Z",
   "viewableDate": "2024-06-10T20:00:00.000Z",
   "developer": null,
   "seller": {
@@ -39,6 +39,54 @@
   ],
   "tags": [
     {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2023-08-23T04:55:54.798Z",
+      "status": "ACTIVE",
+      "referenceCount": 423,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2024-03-28T21:49:29.573Z",
+      "status": "ACTIVE",
+      "referenceCount": 1846,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "Party",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2023-08-23T04:55:54.831Z",
+      "status": "ACTIVE",
+      "referenceCount": 123,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -47,7 +95,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15650,
+      "referenceCount": 15661,
       "comment": null
     }
   ],
@@ -68,28 +116,28 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/2730f9e6c3d442c6bb3ceb93027c9ba3/EGST_StorePortrait_1200x1600_1200x1600-15ecfb7d9222b6b7686a6176ddd0a532",
-      "md5": "15ecfb7d9222b6b7686a6176ddd0a532",
-      "size": 91557,
-      "uploadedDate": "2024-06-10T20:01:40.951Z",
+      "url": "https://cdn1.epicgames.com/offer/2730f9e6c3d442c6bb3ceb93027c9ba3/EGST_StorePortrait_1200x1600_1200x1600-15a1897a00e0fcd9664d4b782378c892",
+      "md5": "15a1897a00e0fcd9664d4b782378c892",
+      "size": 655958,
+      "uploadedDate": "2024-09-19T15:13:50.570Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/2730f9e6c3d442c6bb3ceb93027c9ba3/EGST_StoreLandscape_2560x1440_2560x1440-39fa4eaa74be562f02b23652e43d9d03",
-      "md5": "39fa4eaa74be562f02b23652e43d9d03",
-      "size": 138307,
-      "uploadedDate": "2024-06-10T20:01:43.476Z",
+      "url": "https://cdn1.epicgames.com/offer/2730f9e6c3d442c6bb3ceb93027c9ba3/EGST_StoreLandscape_2560x1440_2560x1440-ffe3f54beeacebf626280ca641a54284",
+      "md5": "ffe3f54beeacebf626280ca641a54284",
+      "size": 1097187,
+      "uploadedDate": "2024-09-19T15:13:54.253Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/2730f9e6c3d442c6bb3ceb93027c9ba3/EGST_StorePortrait_1200x1600_1200x1600-15ecfb7d9222b6b7686a6176ddd0a532",
-      "md5": "15ecfb7d9222b6b7686a6176ddd0a532",
-      "size": 91557,
-      "uploadedDate": "2024-06-10T20:01:45.921Z",
+      "url": "https://cdn1.epicgames.com/offer/2730f9e6c3d442c6bb3ceb93027c9ba3/EGST_StorePortrait_1200x1600_1200x1600-15a1897a00e0fcd9664d4b782378c892",
+      "md5": "15a1897a00e0fcd9664d4b782378c892",
+      "size": 655958,
+      "uploadedDate": "2024-09-19T15:13:56.879Z",
       "width": 1200,
       "height": 1600
     }
