@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "c2443545cc9046aca3375069d04e729e",
-  "creationDate": "2024-10-01T12:20:09.598Z",
-  "lastModifiedDate": "2024-10-01T12:20:09.598Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-08-08T09:08:56.258Z",
+  "lastModifiedDate": "2024-10-06T13:02:56.293Z",
+  "effectiveDate": "2024-10-06T13:02:54.736Z",
   "viewableDate": "2024-10-01T12:20:01.099Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15830,
+      "referenceCount": 15832,
       "comment": null
     }
   ],
@@ -79,7 +79,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
