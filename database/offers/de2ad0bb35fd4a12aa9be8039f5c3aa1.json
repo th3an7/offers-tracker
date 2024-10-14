@@ -1,14 +1,14 @@
 {
   "id": "de2ad0bb35fd4a12aa9be8039f5c3aa1",
   "namespace": "42f7c7174a8a45d4a1189b3d0a267f43",
-  "title": "The Shadows Within: Nightmare's Games",
+  "title": "The Shadows Within: Nightmare's Game",
   "description": "In this survival horror game, players guide Andrea after she receives a call from her ex-girlfriend, setting off a chain of events resulting in her abduction. Stranded in the enigmatic Ebonvale, Andrea fights for survival against.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "d83a11b86fba47cbb73201532b37e960",
   "creationDate": "2024-04-26T17:15:00.145Z",
-  "lastModifiedDate": "2024-08-16T14:30:08.509Z",
+  "lastModifiedDate": "2024-10-13T10:16:19.446Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-05-29T16:01:11.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -84,16 +84,16 @@
       "comment": null
     },
     {
-      "id": "33639",
-      "name": "Promotional Content",
-      "namespace": null,
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2024-01-30T16:42:20.388Z",
-      "updated": "2024-02-05T20:14:29.988Z",
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
       "status": "ACTIVE",
-      "referenceCount": 85,
-      "comment": ""
+      "referenceCount": 763,
+      "comment": null
     },
     {
       "id": "22776",
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15906,
+      "referenceCount": 15907,
       "comment": null
     },
     {
@@ -140,31 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3028,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
-    },
-    {
-      "id": "1183",
-      "name": "Local Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:49.408Z",
-      "updated": "2024-03-28T21:48:38.999Z",
-      "status": "ACTIVE",
-      "referenceCount": 168,
+      "referenceCount": 3029,
       "comment": null
     },
     {
@@ -179,7 +155,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1275,
+      "referenceCount": 1276,
       "comment": null
     }
   ],
@@ -194,7 +170,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -208,28 +184,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-1redo.png",
-      "md5": "ca40e6cf05497843978724c20afdf0d7",
-      "size": 2367054,
-      "uploadedDate": "2024-07-02T16:46:52.316Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-1qg2e.png",
+      "md5": "4f832ca47b60c16468b2b965444ebba3",
+      "size": 1414420,
+      "uploadedDate": "2024-10-09T20:59:18.562Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-15ts0.png",
-      "md5": "76030176c934710caaca85883689b091",
-      "size": 2164688,
-      "uploadedDate": "2024-07-02T16:45:41.039Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-1nbqt.png",
+      "md5": "21180733a7239b3b5f55e83cdd7240db",
+      "size": 988600,
+      "uploadedDate": "2024-10-09T21:00:43.626Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-15ts0.png",
-      "md5": "76030176c934710caaca85883689b091",
-      "size": 2164688,
-      "uploadedDate": "2024-07-02T16:45:41.039Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/31fbabab90b94e2ab24261aefbdc6c19/the-shadows-within-nightmares-games-1nbqt.png",
+      "md5": "21180733a7239b3b5f55e83cdd7240db",
+      "size": 988600,
+      "uploadedDate": "2024-10-09T21:00:43.626Z",
       "width": 1200,
       "height": 1600
     }
