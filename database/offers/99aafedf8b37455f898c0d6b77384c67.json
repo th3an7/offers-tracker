@@ -8,13 +8,13 @@
   "productSlug": "predator-hunting-grounds/home",
   "urlSlug": "predator-hunting-grounds",
   "creationDate": "2019-11-12T23:31:21.431Z",
-  "lastModifiedDate": "2024-10-14T20:24:22.609Z",
+  "lastModifiedDate": "2024-10-15T20:37:33.866Z",
   "effectiveDate": "2020-04-23T23:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
-    "name": "Sony Interactive Entertainment"
+    "id": "o-93q5dt93b5gscqsj927vaqntszq9qc",
+    "name": "IllFonic"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -83,7 +83,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 400,
+      "referenceCount": 401,
       "comment": ""
     },
     {
@@ -95,11 +95,33 @@
       "created": "2022-05-17T21:16:32.830Z",
       "updated": "2023-09-26T16:06:19.633Z",
       "status": "ACTIVE",
-      "referenceCount": 125,
+      "referenceCount": 122,
       "comment": ""
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15922,
+      "comment": null
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-08-22T10:58:47.687Z",
+      "status": "ACTIVE",
+      "referenceCount": 538,
+      "comment": ""
+    },
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -124,7 +146,18 @@
       "referenceCount": 452,
       "comment": null
     },
-    null,
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2023-08-22T10:58:47.673Z",
+      "status": "ACTIVE",
+      "referenceCount": 490,
+      "comment": ""
+    },
     {
       "id": "21140",
       "name": "Amazing Storytelling",
@@ -134,7 +167,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 481,
+      "referenceCount": 483,
       "comment": ""
     },
     {

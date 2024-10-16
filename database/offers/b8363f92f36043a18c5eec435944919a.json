@@ -1,16 +1,16 @@
 {
   "id": "b8363f92f36043a18c5eec435944919a",
   "namespace": "50118b7f954e450f8823df1614b24e80",
-  "title": "pici StSp Audience",
-  "description": "pici StSp Audience",
-  "longDescription": "",
+  "title": "Fall Guys - Steampunk Sprocket Pack",
+  "description": "Move like clockwork with these steampunk treasures! Cogs and rivets, steam and sprockets!\n\nIncludes:\nSteampunk Sprocket (Costume)\nWelded Wave (Emote)\n1000 x Show-Bucks\n",
+  "longDescription": "Move like clockwork with these steampunk treasures! Cogs and rivets, steam and sprockets!\n\nIncludes:\nSteampunk Sprocket (Costume)\nWelded Wave (Emote)\n1000 x Show-Bucks\n",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "pici-stsp-audience",
+  "urlSlug": "fall-guys--steampunk-sprocket-pack",
   "creationDate": "2024-10-02T22:54:19.369Z",
-  "lastModifiedDate": "2024-10-02T22:58:30.144Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-10-15T15:55:36.744Z",
+  "effectiveDate": "2024-10-15T10:00:00.000Z",
+  "viewableDate": "2024-10-15T10:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf",
@@ -25,10 +25,52 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
   "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2024-03-28T21:49:29.573Z",
+      "status": "ACTIVE",
+      "referenceCount": 1846,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2023-08-23T04:55:54.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 452,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "Party",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2023-08-23T04:55:54.831Z",
+      "status": "ACTIVE",
+      "referenceCount": 123,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -38,12 +80,70 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15907,
+      "referenceCount": 15922,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3034,
       "comment": null
     }
   ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/FallGuys_Logo_400x400-87f5f19c4955718799dd4f5724889c9d_400x400-87f5f19c4955718799dd4f5724889c9d_400x400-87f5f19c4955718799dd4f5724889c9d",
+      "md5": "87f5f19c4955718799dd4f5724889c9d",
+      "size": 42030,
+      "uploadedDate": "2024-10-14T22:12:27.238Z",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/SS11RMT_SteampunkLongguy_SFImage_1200x1600_1200x1600-76b0a1dcf720c5e8fc307e11819ae1f4",
+      "md5": "76b0a1dcf720c5e8fc307e11819ae1f4",
+      "size": 611067,
+      "uploadedDate": "2024-10-14T22:12:35.301Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/SS11RMT_SteampunkLongguy_C_1920x1080_1920x1080-75124308108a798064e9a19a796fd71a",
+      "md5": "75124308108a798064e9a19a796fd71a",
+      "size": 573925,
+      "uploadedDate": "2024-10-14T22:12:39.711Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/SS11RMT_SteampunkLongguy_SFImage_1200x1600_1200x1600-76b0a1dcf720c5e8fc307e11819ae1f4",
+      "md5": "76b0a1dcf720c5e8fc307e11819ae1f4",
+      "size": 611067,
+      "uploadedDate": "2024-10-14T22:13:04.036Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/SS11RMT_SteampunkLongguy_C_2580x1450_2580x1450-9ef18fee7077a00aa13f75b71d50594b",
+      "md5": "9ef18fee7077a00aa13f75b71d50594b",
+      "size": 865356,
+      "uploadedDate": "2024-10-14T22:13:09.395Z",
+      "width": 2580,
+      "height": 1450
+    }
+  ],
   "items": [
     {
       "id": "03751afa5bc94df68015d9d54fd4cd12"

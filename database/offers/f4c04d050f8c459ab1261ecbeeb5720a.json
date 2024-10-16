@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a",
   "creationDate": "2023-09-05T17:43:03.802Z",
-  "lastModifiedDate": "2024-10-12T20:08:55.152Z",
+  "lastModifiedDate": "2024-10-15T18:53:05.290Z",
   "effectiveDate": "2024-04-18T15:00:00.000Z",
   "viewableDate": "2024-04-11T15:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1325,
+      "referenceCount": 1326,
       "comment": ""
     },
     {
@@ -56,22 +56,21 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 400,
+      "referenceCount": 401,
       "comment": ""
     },
     {
-      "id": "21125",
-      "name": "Competitive Community",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2023-09-26T16:06:19.633Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 125,
-      "comment": ""
+      "referenceCount": 15922,
+      "comment": null
     },
-    null,
     {
       "id": "1264",
       "name": "Co-op",
@@ -105,10 +104,21 @@
       "created": "2022-05-17T21:27:25.710Z",
       "updated": "2023-08-15T21:51:42.494Z",
       "status": "ACTIVE",
-      "referenceCount": 51,
+      "referenceCount": 52,
       "comment": ""
     },
-    null,
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-08-22T10:58:47.687Z",
+      "status": "ACTIVE",
+      "referenceCount": 538,
+      "comment": ""
+    },
     {
       "id": "1299",
       "name": "Competitive",
@@ -121,7 +131,18 @@
       "referenceCount": 452,
       "comment": null
     },
-    null,
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2023-08-22T10:58:47.673Z",
+      "status": "ACTIVE",
+      "referenceCount": 490,
+      "comment": ""
+    },
     {
       "id": "21140",
       "name": "Amazing Storytelling",
@@ -131,7 +152,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 481,
+      "referenceCount": 483,
       "comment": ""
     },
     {
@@ -167,7 +188,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 705,
+      "referenceCount": 706,
       "comment": ""
     },
     {
@@ -193,6 +214,21 @@
       "status": "ACTIVE",
       "referenceCount": 503,
       "comment": ""
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1280,
+      "comment": null
     }
   ],
   "customAttributes": [

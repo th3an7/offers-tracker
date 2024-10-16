@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "37b001690e2a4d6f872567cdd06f0c6f",
   "creationDate": "2021-09-22T23:58:51.058Z",
-  "lastModifiedDate": "2024-10-07T01:37:31.405Z",
+  "lastModifiedDate": "2024-10-15T14:09:08.700Z",
   "effectiveDate": "2022-04-21T17:00:00.000Z",
   "viewableDate": "2022-03-28T18:00:00.000Z",
   "developer": null,
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "21136",
-      "name": "Playful Visuals",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:27:25.710Z",
-      "updated": "2023-08-15T21:51:42.494Z",
-      "status": "ACTIVE",
-      "referenceCount": 51,
-      "comment": ""
-    },
-    {
       "id": "21121",
       "name": "Great for Quick Sessions",
       "namespace": null,
@@ -72,15 +60,15 @@
       "comment": "From Ratings & Polls results."
     },
     {
-      "id": "21140",
-      "name": "Amazing Storytelling",
+      "id": "18051",
+      "name": "Halloween Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-08-22T14:02:04.254Z",
+      "created": "2021-10-06T19:14:15.572Z",
+      "updated": "2023-11-01T15:00:05.687Z",
       "status": "ACTIVE",
-      "referenceCount": 481,
+      "referenceCount": 1612,
       "comment": ""
     },
     {
@@ -92,7 +80,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2038,
+      "referenceCount": 2039,
       "comment": ""
     },
     {
@@ -104,7 +92,67 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4329,
+      "referenceCount": 4328,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15922,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3034,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
+    },
+    {
+      "id": "21136",
+      "name": "Playful Visuals",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:27:25.710Z",
+      "updated": "2023-08-15T21:51:42.494Z",
+      "status": "ACTIVE",
+      "referenceCount": 52,
+      "comment": ""
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-08-22T14:02:04.254Z",
+      "status": "ACTIVE",
+      "referenceCount": 483,
       "comment": ""
     },
     {
@@ -119,30 +167,19 @@
       "referenceCount": 204,
       "comment": null
     },
-    null,
     {
-      "id": "9549",
-      "name": "Controller Support",
+      "id": "10719",
+      "name": "Mac OS",
       "namespace": "epic",
-      "aliases": [],
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
       "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 3031,
-      "comment": null
-    },
-    null,
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
+      "referenceCount": 1280,
       "comment": null
     },
     {
@@ -154,7 +191,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 376,
+      "referenceCount": 377,
       "comment": "From Ratings & Polls results."
     }
   ],
