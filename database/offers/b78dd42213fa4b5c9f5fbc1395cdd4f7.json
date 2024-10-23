@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "fc752db8b7d6415c9b4cc689086d21ad",
-  "creationDate": "2024-06-06T09:30:23.490Z",
-  "lastModifiedDate": "2024-09-03T17:10:55.280Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-03-25T16:57:27.556Z",
+  "lastModifiedDate": "2024-10-22T15:31:07.077Z",
+  "effectiveDate": "2024-10-22T15:31:04.000Z",
   "viewableDate": "2024-06-06T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -25,16 +25,28 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
+    {
+      "id": "39040",
+      "name": "The MIX Seattle",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-08-28T10:56:16.630Z",
+      "updated": "2024-09-03T17:00:09.877Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": ""
+    },
     {
       "id": "36804",
       "name": "Guerilla Collective Showcase",
@@ -58,6 +70,18 @@
       "status": "ACTIVE",
       "referenceCount": 1144,
       "comment": null
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4402,
+      "comment": ""
     },
     {
       "id": "1336",
@@ -92,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15992,
+      "referenceCount": 16022,
       "comment": null
     },
     {
@@ -104,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3051,
+      "referenceCount": 3058,
       "comment": null
     },
     {
