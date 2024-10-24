@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a",
   "creationDate": "2023-09-05T17:43:03.802Z",
-  "lastModifiedDate": "2024-10-22T14:59:36.598Z",
+  "lastModifiedDate": "2024-10-23T16:05:35.278Z",
   "effectiveDate": "2024-04-18T15:00:00.000Z",
   "viewableDate": "2024-04-11T15:00:00.000Z",
   "developer": null,
@@ -44,8 +44,20 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1336,
+      "referenceCount": 1337,
       "comment": ""
+    },
+    {
+      "id": "21121",
+      "name": "Great for Quick Sessions",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:06:21.330Z",
+      "updated": "2023-08-16T00:30:02.340Z",
+      "status": "ACTIVE",
+      "referenceCount": 119,
+      "comment": "From Ratings & Polls results."
     },
     {
       "id": "21122",
@@ -60,6 +72,18 @@
       "comment": ""
     },
     {
+      "id": "21125",
+      "name": "Competitive Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:32.830Z",
+      "updated": "2023-09-26T16:06:19.633Z",
+      "status": "ACTIVE",
+      "referenceCount": 131,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -68,19 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16022,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
+      "referenceCount": 16046,
       "comment": null
     },
     {
@@ -93,6 +105,18 @@
       "updated": "2023-08-23T04:55:54.798Z",
       "status": "ACTIVE",
       "referenceCount": 423,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
       "comment": null
     },
     {
@@ -116,7 +140,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 545,
+      "referenceCount": 546,
       "comment": ""
     },
     {
@@ -140,7 +164,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 496,
+      "referenceCount": 497,
       "comment": ""
     },
     {
@@ -188,7 +212,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 711,
+      "referenceCount": 720,
       "comment": ""
     },
     {
@@ -227,7 +251,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1287,
+      "referenceCount": 1288,
       "comment": null
     }
   ],
@@ -242,7 +266,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
