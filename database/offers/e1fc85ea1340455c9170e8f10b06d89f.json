@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "29298364be714f2bb88db150559d2b92",
   "creationDate": "2021-11-14T22:06:45.682Z",
-  "lastModifiedDate": "2024-10-15T07:19:37.275Z",
+  "lastModifiedDate": "2024-10-29T12:24:44.174Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-01-06T17:30:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16175,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -69,18 +81,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16121,
       "comment": null
     },
     {
@@ -94,6 +94,18 @@
       "status": "ACTIVE",
       "referenceCount": 1473,
       "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3111,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -103,6 +115,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "false"
     },
     {
