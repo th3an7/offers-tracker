@@ -2,13 +2,13 @@
   "id": "f9efc7944326450cadc0242c67ec5088",
   "namespace": "709faa9ea4674456b63e06e56b4c96b9",
   "title": "Empire of the Ants",
-  "description": "Embark on an epic journey into the infinitesimal in this photorealistic strategy game. Play as a fearless ant and guide your colony through the dangers of the forest.",
+  "description": "Conquer enemy nests and lead your colony through the perils of the forest in this groundbreaking RTS. Empire of the Ants is a photorealistic, third-person real-time strategy game where you command your insect legions in epic battles.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "bfdc14b4a8c247eaaea148ec9c119b38",
   "creationDate": "2023-01-19T14:53:09.923Z",
-  "lastModifiedDate": "2024-10-31T10:04:35.776Z",
+  "lastModifiedDate": "2024-11-01T21:33:42.055Z",
   "effectiveDate": "2024-08-21T07:00:00.000Z",
   "viewableDate": "2023-01-25T23:00:00.000Z",
   "developer": null,
@@ -36,6 +36,30 @@
   ],
   "tags": [
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1362,
+      "comment": ""
+    },
+    {
+      "id": "1299",
+      "name": "Competitive",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2023-08-23T04:55:54.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 452,
+      "comment": null
+    },
+    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
@@ -45,6 +69,18 @@
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
       "referenceCount": 2073,
+      "comment": ""
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 731,
       "comment": ""
     },
     {
@@ -80,19 +116,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16204,
+      "referenceCount": 16210,
       "comment": null
     },
     {
-      "id": "1183",
-      "name": "Local Multiplayer",
+      "id": "9549",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:49.408Z",
-      "updated": "2024-03-28T21:48:38.999Z",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 168,
+      "referenceCount": 3125,
       "comment": null
     }
   ],

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "b07532f41a554600862f9751c4f2a0f9",
   "creationDate": "2023-10-05T21:21:14.193Z",
-  "lastModifiedDate": "2024-01-19T12:38:36.720Z",
+  "lastModifiedDate": "2024-11-01T18:10:04.621Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-01-15T06:31:25.247Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1357,
+      "referenceCount": 1362,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 213,
+      "referenceCount": 212,
       "comment": ""
     },
     {
@@ -104,7 +104,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16204,
+      "referenceCount": 16210,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -118,6 +130,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -129,10 +145,10 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-1xovl.png",
-      "md5": "8c47fb372814ecf043789c4a097eff8c",
-      "size": 49744,
-      "uploadedDate": "2024-01-03T21:04:06.881Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-1qfg5.jpg",
+      "md5": "74bcef1e0eb93c41ccaa4573fda66b33",
+      "size": 201709,
+      "uploadedDate": "2024-11-01T05:27:20.734Z",
       "width": 2560,
       "height": 1440
     },
@@ -153,6 +169,105 @@
       "uploadedDate": "2024-01-03T21:05:07.478Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-jat3s.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1972250,
+      "uploadedDate": "2024-11-01T13:23:11.626Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-me5us.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2162784,
+      "uploadedDate": "2024-11-01T13:23:53.755Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-jol8j.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2090590,
+      "uploadedDate": "2024-11-01T13:24:08.004Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-1lenc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 861523,
+      "uploadedDate": "2024-11-01T13:24:42.237Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-1hani.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2090590,
+      "uploadedDate": "2024-11-01T13:24:47.829Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-aspii.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2162784,
+      "uploadedDate": "2024-11-01T13:24:49.820Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-rc0q0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1972250,
+      "uploadedDate": "2024-11-01T13:24:48.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-19rfe.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 95154,
+      "uploadedDate": "2024-11-01T13:25:33.617Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-arh14.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2314718,
+      "uploadedDate": "2024-11-01T13:26:46.183Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-1oow8.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3289397,
+      "uploadedDate": "2024-11-01T13:27:36.650Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/209d0bd3bc5442c999d9cc8d91f26243/realife-simulator-1rxlb.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2993703,
+      "uploadedDate": "2024-11-01T13:29:26.865Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
