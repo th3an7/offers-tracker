@@ -2,13 +2,13 @@
   "id": "20054e44ae3649159b0298a25e5a1a38",
   "namespace": "8043f063b6b34cbb94af0882052ebd80",
   "title": "Spirit of the Island - Adventureland",
-  "description": "Adventureland adds a brand new way to entertain your visitors! With 8 new buildings — attractions for your park — you can create a whole entertainment resort with fancy hotels, beaches, shops, and amusements! ",
-  "longDescription": "# Your own park\n\nMaintain your attractions, decorate your park, attract new tourists, and create a resort that will make even the most picky visitors drop their jaws in excitement!\n\n# NEON LIGHTS, FANCY SIGHTS\n\nBuilding your attractions is only part of the job. After all, everyone likes fancy and beautiful places so your new park has to live up to the standards. The more you decorate your shiny new park, the more enjoyable it will look to the tourists. And that means only one thing: more profits to you. Unlock your creativity and create the fanciest amusement park possible!\n\n![Adventureland](https://cdn2.unrealengine.com/egs-spiritoftheislandadventureland-1mbitshorde-dlc-g2-00-1920x1080-945749bb3b3f.jpg)\n\n# MEANINGFUL CHOICES\n\nBut all new things mean that there are more decisions to make. Depending on your island — a small one or a big one — you might need to pick between what you want to make: an amusement park or a fancy resort with shops. Manage your lands efficiently and get the most that you can out of them.",
+  "description": "Adventureland adds a brand new way to entertain your visitors! With 8 new buildings — attractions for your park — you can create a whole entertainment resort with fancy hotels, beaches, shops, and amusements!",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Your own park\n<!--text-->\n\nMaintain your attractions, decorate your park, attract new tourists, and create a resort that will make even the most picky visitors drop their jaws in excitement!\n\n<!--textBlock-->\n<!--title-->\n# NEON LIGHTS, FANCY SIGHTS\n<!--text-->\n\nBuilding your attractions is only part of the job. After all, everyone likes fancy and beautiful places so your new park has to live up to the standards. The more you decorate your shiny new park, the more enjoyable it will look to the tourists. And that means only one thing: more profits to you. Unlock your creativity and create the fanciest amusement park possible!\n\n<!--image-->\n![Adventureland](https://cdn2.unrealengine.com/egs-spiritoftheislandadventureland-1mbitshorde-dlc-g2-00-1920x1080-945749bb3b3f.jpg)\n\n<!--textBlock-->\n<!--title-->\n# MEANINGFUL CHOICES\n<!--text-->\n\nBut all new things mean that there are more decisions to make. Depending on your island — a small one or a big one — you might need to pick between what you want to make: an amusement park or a fancy resort with shops. Manage your lands efficiently and get the most that you can out of them.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "spirit-of-the-island--adventureland",
-  "creationDate": "2023-09-08T16:04:51.915Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.532Z",
+  "creationDate": "2024-11-01T17:23:15.905Z",
+  "lastModifiedDate": "2024-11-02T07:10:12.263Z",
   "effectiveDate": "2023-10-03T14:00:00.000Z",
   "viewableDate": "2023-10-03T14:00:00.000Z",
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
+    {
       "id": "1264",
       "name": "Co-op",
       "namespace": "epic",
@@ -48,16 +60,16 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
+      "id": "18051",
+      "name": "Halloween Sale",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
+      "created": "2021-10-06T19:14:15.572Z",
+      "updated": "2024-11-01T15:00:33.182Z",
       "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "referenceCount": 25,
+      "comment": ""
     },
     {
       "id": "19847",
@@ -68,7 +80,19 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4470,
+      "referenceCount": 4471,
+      "comment": ""
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 733,
       "comment": ""
     },
     {
@@ -92,11 +116,40 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16210,
+      "referenceCount": 16212,
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "META Publishing"
+    },
+    {
+      "key": "developerName",
+      "value": "1M Bits Horde"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -115,15 +168,6 @@
       "uploadedDate": "2023-09-08T16:21:40.301Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/8043f063b6b34cbb94af0882052ebd80/EGS_SpiritoftheIslandAdventureland_1MBitsHorde_DLC_IC1_200x200-87af639966b283238f382c4e3497e333",
-      "md5": "87af639966b283238f382c4e3497e333",
-      "size": 41902,
-      "uploadedDate": "2023-09-08T16:21:58.148Z",
-      "width": 200,
-      "height": 200
     },
     {
       "type": "Thumbnail",
