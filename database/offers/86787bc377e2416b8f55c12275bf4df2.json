@@ -1,14 +1,14 @@
 {
   "id": "86787bc377e2416b8f55c12275bf4df2",
   "namespace": "sundrop",
-  "title": "For Honor Gryphon Hero DLC",
-  "description": "For Honor Gryphon Hero DLC",
-  "longDescription": "",
+  "title": "Gryphon – Hero – FOR HONOR",
+  "description": "A well-known veteran has returned! Wield the mighty bardiche as Gryphon, a new playable hero.",
+  "longDescription": "Gryphon, a new playable hero has arrived!\n\nAfter travelling all across Heathmoor learning from the best, a well-known veteran has returned to help bring peace to the land. \n\nWield the mighty bardiche and utilize draconite-powered feats as you aid your allies and lead them to victory!\n\nThe Gryphon Hero offer includes:\n- One New Hero: Gryphon\n- One Exclusive Ornament\n- One Elite Outfit\n- Seven-Day Champion Status (Extra XP, Extra Loot, and More)\n- Three Scavenger Crates with Random Gear",
   "status": "ACTIVE",
   "productSlug": "for-honor/gryphon-hero",
   "urlSlug": "for-honor--gryphon-hero",
   "creationDate": "2020-12-04T23:32:19.449Z",
-  "lastModifiedDate": "2020-12-10T15:56:57.498Z",
+  "lastModifiedDate": "2024-11-04T13:09:35.201Z",
   "effectiveDate": "2020-12-10T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -21,17 +21,17 @@
   "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
-  "technicalDetails": "Non-refundable!  (Included in page descriptions)",
+  "technicalDetails": "",
   "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "addons/durable"
     },
     {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
       "path": "applications"
@@ -47,7 +47,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16212,
+      "referenceCount": 16219,
       "comment": null
     }
   ],
@@ -67,38 +67,20 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Landscape_2560x1440-2560x1440-ec6ba789877960b2d19c58101bb8279e.jpg",
-      "md5": "ec6ba789877960b2d19c58101bb8279e",
-      "size": 990640,
-      "uploadedDate": "2020-12-09T22:29:08.471Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Portrait_1200x1600-1200x1600-336b81784a7fb11b9903b23dbc7ff722.jpg",
-      "md5": "336b81784a7fb11b9903b23dbc7ff722",
-      "size": 917759,
-      "uploadedDate": "2020-12-09T22:29:21.433Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Portrait_1200x1600-1200x1600-336b81784a7fb11b9903b23dbc7ff722.jpg",
-      "md5": "336b81784a7fb11b9903b23dbc7ff722",
-      "size": 917759,
-      "uploadedDate": "2020-12-09T22:29:39.443Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "CodeRedemption_340x440",
       "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Portrait_1200x1600-1200x1600-336b81784a7fb11b9903b23dbc7ff722.jpg",
       "md5": "336b81784a7fb11b9903b23dbc7ff722",
       "size": 917759,
       "uploadedDate": "2020-12-09T22:29:49.277Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Portrait_1200x1600-1200x1600-336b81784a7fb11b9903b23dbc7ff722.jpg",
+      "md5": "336b81784a7fb11b9903b23dbc7ff722",
+      "size": 917759,
+      "uploadedDate": "2020-12-09T22:30:13.446Z",
       "width": 1200,
       "height": 1600
     },
@@ -112,11 +94,29 @@
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
+      "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Portrait_1200x1600-1200x1600-336b81784a7fb11b9903b23dbc7ff722.jpg",
       "md5": "336b81784a7fb11b9903b23dbc7ff722",
       "size": 917759,
-      "uploadedDate": "2020-12-09T22:30:13.446Z",
+      "uploadedDate": "2020-12-09T22:29:21.433Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Landscape_2560x1440-2560x1440-ec6ba789877960b2d19c58101bb8279e.jpg",
+      "md5": "ec6ba789877960b2d19c58101bb8279e",
+      "size": 990640,
+      "uploadedDate": "2020-12-09T22:29:08.471Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_Gryphon_Store_Portrait_1200x1600-1200x1600-336b81784a7fb11b9903b23dbc7ff722.jpg",
+      "md5": "336b81784a7fb11b9903b23dbc7ff722",
+      "size": 917759,
+      "uploadedDate": "2020-12-09T22:29:39.443Z",
       "width": 1200,
       "height": 1600
     }
