@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "nayelisstarterpack",
   "creationDate": "2023-01-23T15:02:57.544Z",
-  "lastModifiedDate": "2024-06-13T14:51:40.001Z",
+  "lastModifiedDate": "2024-11-05T13:48:56.312Z",
   "effectiveDate": "2023-02-01T20:00:00.000Z",
   "viewableDate": "2023-02-01T20:00:00.000Z",
   "developer": null,
@@ -37,17 +37,48 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16234,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
   "keyImages": [
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23_1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23",
-      "md5": "c67f1998f4ed6ba79d9e5e71cfb30b23",
-      "size": 254582,
-      "uploadedDate": "2024-02-07T21:01:19.480Z",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608",
+      "md5": "bb05a14cce4561f02643dd70d893e608",
+      "size": 571053,
+      "uploadedDate": "2024-11-05T13:48:46.521Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608",
+      "md5": "bb05a14cce4561f02643dd70d893e608",
+      "size": 571053,
+      "uploadedDate": "2024-11-05T13:48:49.204Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-6c23d0f0576846fc88d1356df3a0c1cf",
+      "md5": "6c23d0f0576846fc88d1356df3a0c1cf",
+      "size": 306085,
+      "uploadedDate": "2024-11-05T13:48:51.843Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
