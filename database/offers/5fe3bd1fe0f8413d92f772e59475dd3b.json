@@ -1,16 +1,16 @@
 {
   "id": "5fe3bd1fe0f8413d92f772e59475dd3b",
   "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
-  "title": "DE",
-  "description": "DE",
+  "title": "MORDHAU - Diamond Edition",
+  "description": "MORDHAU Diamond Edition contains the Main game and 8 DLC packs:\n-MORDHAU main game\n-Adventurer pack\n-Archduke Armor set\n-Dragon Armor set \n-Lion Armor set\n-Grotesque Armor set\n-Continental Voice pack 1\n-Continental Voice pack 2\n-Banisher Weapon pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "de-01",
+  "urlSlug": "mordhau--diamond-edition",
   "creationDate": "2024-10-07T16:01:25.470Z",
-  "lastModifiedDate": "2024-10-07T19:04:01.776Z",
-  "effectiveDate": "2099-04-29T11:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-11-06T06:59:09.844Z",
+  "effectiveDate": "2024-11-06T07:00:00.000Z",
+  "viewableDate": "2024-11-06T07:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-tvu5xuu383665htjt4wez2tgl45exq",
@@ -24,6 +24,12 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
     {
       "path": "applications"
     }
@@ -74,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4458,
+      "referenceCount": 4509,
       "comment": ""
     },
     {
@@ -86,12 +92,40 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16175,
+      "referenceCount": 16296,
       "comment": null
     }
   ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUDiamondEdition_Triternion_Bundles_S2_1200x1600-f9231a04e4eef346ffdcbaeac83fd8cc",
+      "md5": "f9231a04e4eef346ffdcbaeac83fd8cc",
+      "size": 699507,
+      "uploadedDate": "2024-10-25T10:23:36.608Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUDiamondEdition_Triternion_Bundles_S1_2560x1440-b0787ab77782b508405627e97d3f20cb",
+      "md5": "b0787ab77782b508405627e97d3f20cb",
+      "size": 1017176,
+      "uploadedDate": "2024-10-25T10:23:40.856Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAUDiamondEdition_Triternion_Bundles_S2_1200x1600-f9231a04e4eef346ffdcbaeac83fd8cc",
+      "md5": "f9231a04e4eef346ffdcbaeac83fd8cc",
+      "size": 699507,
+      "uploadedDate": "2024-10-25T10:23:43.952Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "81b205bddefb47aba5421a2f562f6037"
