@@ -2,13 +2,13 @@
   "id": "504796b4a58c403bbcf59623d8dd5f23",
   "namespace": "fd52d9c4ffb24633b7d71db9db370700",
   "title": "Soliloquy",
-  "description": "In a vast desert, a lost young man's voice interrupts its silence. While he tries to survive, reality and fiction blur, questioning the perception of existence, freedom and control.",
-  "longDescription": null,
+  "description": "A minimalist dynamic-narrative game set in an endless desert. Wake to a blurring reality filled with surreal brutalist structures and hidden entities, where your choices may pull you deeper into an existential journey.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# About\n<!--text-->\nSoliloquy is a **dynamic-narrative** game with surreal **puzzles**, where you awaken alone in an endless desert with no memory of how you arrived. As you journey through the dune desert, you’ll encounter strange brutalist structures and puzzles that defy logic and reality, leading you to question everything around you.\n\n**Features:**\n\n- Dynamic-Narrative Gameplay: Experience a story that adapts to your choices. Shape the character and narrative path through text-based decisions that unfold into multiple storylines.\n\n- Surreal Puzzles: Solve puzzles in brutalist structures. Manipulate objects, shift perspectives, and play with light and shadow to unlock paths hidden within the desert’s surreal landscape.\n\n- Atmospheric Exploration: Roam through a  minimalist, procedural desert where each scene hints at something beyond the ordinary, inviting curiosity and exploration.\n\n- Existential Themes: Delve into an introspective journey that challenges concepts of existence and the absurd, as every discovery leads to new questions about reality.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "cd60873b4b724e92b5268fa0b5ca05c6",
   "creationDate": "2023-03-09T17:45:24.893Z",
-  "lastModifiedDate": "2023-10-30T13:16:17.507Z",
+  "lastModifiedDate": "2024-11-09T06:05:39.346Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-04-11T16:00:00.000Z",
   "developer": null,
@@ -35,6 +35,18 @@
     }
   ],
   "tags": [
+    {
+      "id": "1298",
+      "name": "Puzzle",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2023-08-22T09:59:03.727Z",
+      "status": "ACTIVE",
+      "referenceCount": 412,
+      "comment": null
+    },
     {
       "id": "1395",
       "name": "Narration",
@@ -68,19 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16328,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
+      "referenceCount": 16329,
       "comment": null
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3141,
+      "referenceCount": 3142,
       "comment": null
     },
     {
@@ -118,6 +118,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -129,30 +133,120 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-11uf9.png",
-      "md5": "9e6e399c76df5ee4615103c928c16e64",
-      "size": 3278626,
-      "uploadedDate": "2023-10-17T18:44:49.406Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-wgbyt.png",
+      "md5": "f8ef61d4eb549be4261cd30b6bd9d578",
+      "size": 2012423,
+      "uploadedDate": "2024-11-08T19:26:58.524Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-l73qu.png",
-      "md5": "ff27a6a498e64360f3ab6a48d8ba2a94",
-      "size": 2074013,
-      "uploadedDate": "2023-10-29T16:44:10.019Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-1g2pc.png",
+      "md5": "c18fd2377a0d819a8df1ec56bf0da00b",
+      "size": 1064921,
+      "uploadedDate": "2024-11-08T19:35:57.657Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-l73qu.png",
-      "md5": "ff27a6a498e64360f3ab6a48d8ba2a94",
-      "size": 2074013,
-      "uploadedDate": "2023-10-29T16:44:10.019Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-1g2pc.png",
+      "md5": "c18fd2377a0d819a8df1ec56bf0da00b",
+      "size": 1064921,
+      "uploadedDate": "2024-11-08T19:35:57.657Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://699f9d7c-d234-4f04-a471-e548ad8fb410?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6faff1dfa73940c2bd5eecb70119e5c3%2Fsoliloquy-video-1919g.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 153006551,
+      "uploadedDate": "2024-11-08T19:07:16.026Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-1qqdm.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2213108,
+      "uploadedDate": "2024-11-08T19:14:26.830Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-uy0wd.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2218707,
+      "uploadedDate": "2024-11-08T19:14:26.999Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-11a4q.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2363021,
+      "uploadedDate": "2024-11-08T19:14:26.519Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-1nfxa.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2796344,
+      "uploadedDate": "2024-11-08T19:14:27.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-7xysi.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2442155,
+      "uploadedDate": "2024-11-08T19:14:27.154Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-bdbks.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2327580,
+      "uploadedDate": "2024-11-08T19:14:26.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-oopl6.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1436824,
+      "uploadedDate": "2024-11-08T19:14:26.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6faff1dfa73940c2bd5eecb70119e5c3/soliloquy-1vv4b.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2064548,
+      "uploadedDate": "2024-11-08T19:14:26.695Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://6b0d03bf-9e61-4f63-ac73-1594d93f0b88?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6faff1dfa73940c2bd5eecb70119e5c3%2Fsoliloquy-video-1j3gw.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 219339546,
+      "uploadedDate": "2023-03-14T10:32:38.980Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
