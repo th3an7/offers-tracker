@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "240706829aee40aabaa2b3d0613218a3",
   "creationDate": "2023-07-18T08:26:45.887Z",
-  "lastModifiedDate": "2024-10-31T08:17:02.325Z",
+  "lastModifiedDate": "2024-11-12T19:44:11.450Z",
   "effectiveDate": "2024-10-31T08:16:53.000Z",
   "viewableDate": "2023-09-08T07:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1379,
+      "referenceCount": 1389,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2024-10-25T20:00:26.146Z",
-      "status": "ACTIVE",
-      "referenceCount": 215,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -104,8 +92,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16344,
+      "referenceCount": 16360,
       "comment": null
+    },
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-06-24T20:06:43.344Z",
+      "updated": "2024-10-25T20:00:26.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 217,
+      "comment": ""
     },
     {
       "id": "10719",
@@ -119,7 +119,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1303,
+      "referenceCount": 1304,
       "comment": null
     }
   ],

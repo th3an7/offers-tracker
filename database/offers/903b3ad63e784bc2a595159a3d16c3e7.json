@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "2cad89e9fac24e2da0f80a8dc5db4ed9",
   "creationDate": "2023-05-05T21:09:19.374Z",
-  "lastModifiedDate": "2024-10-24T14:53:38.910Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-11-12T13:57:50.295Z",
+  "effectiveDate": "2024-12-19T15:00:00.000Z",
   "viewableDate": "2023-08-31T19:30:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16344,
+      "referenceCount": 16360,
       "comment": null
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3147,
+      "referenceCount": 3154,
       "comment": null
     }
   ],
@@ -153,6 +153,123 @@
       "uploadedDate": "2023-08-31T18:29:32.145Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://d1cc9b15-abb1-4c02-a07b-7a7a7758d38e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F762901912123494cb3a804b38b177d51%2Fspiral-video-1svu5.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 66598476,
+      "uploadedDate": "2024-11-11T14:15:15.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-1rfqv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 255123,
+      "uploadedDate": "2023-05-23T02:10:44.090Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-nnalq.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 494654,
+      "uploadedDate": "2023-05-23T02:10:42.590Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-1yb18.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 815067,
+      "uploadedDate": "2023-05-23T02:10:45.278Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-gpfuz.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 672135,
+      "uploadedDate": "2023-05-23T02:10:42.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-1t8tl.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 997698,
+      "uploadedDate": "2023-05-23T02:10:44.368Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-zhjbf.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 952618,
+      "uploadedDate": "2023-05-23T02:10:46.299Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-1dyh0.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 993928,
+      "uploadedDate": "2023-05-23T02:10:43.549Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-1lmu7.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 983492,
+      "uploadedDate": "2023-05-23T02:10:43.008Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-1dlrz.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 207529,
+      "uploadedDate": "2023-05-23T02:10:42.247Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-io846.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 365910,
+      "uploadedDate": "2023-05-23T02:10:43.286Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/762901912123494cb3a804b38b177d51/spiral-2z8tn.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 867350,
+      "uploadedDate": "2023-05-23T02:10:45.566Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://77b067f6-6481-49f8-97e2-0239776cbfdc?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F762901912123494cb3a804b38b177d51%2Fspiral-video-13vrw.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 41730602,
+      "uploadedDate": "2023-09-05T14:24:14.041Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
