@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "b39044a75e1045d7b78f9c5b2aa94998",
   "creationDate": "2023-03-10T07:07:44.296Z",
-  "lastModifiedDate": "2023-07-21T18:00:38.105Z",
+  "lastModifiedDate": "2024-11-14T08:38:17.923Z",
   "effectiveDate": "2023-07-21T18:00:00.000Z",
   "viewableDate": "2023-03-10T17:30:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1416,
+      "comment": ""
+    },
+    {
       "id": "1393",
       "name": "Simulation",
       "namespace": "epic",
@@ -57,18 +69,6 @@
       "updated": "2023-08-23T03:55:35.422Z",
       "status": "ACTIVE",
       "referenceCount": 943,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
       "comment": null
     },
     {
@@ -84,6 +84,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16418,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -93,18 +105,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16410,
       "comment": null
     },
     {
@@ -128,6 +128,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -165,6 +169,96 @@
       "uploadedDate": "2023-03-13T17:03:51.627Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-1db56.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1905776,
+      "uploadedDate": "2024-11-13T18:36:13.336Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-1k8wc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1457258,
+      "uploadedDate": "2024-11-13T19:00:35.328Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-10oa9.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1611283,
+      "uploadedDate": "2023-03-10T17:53:41.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-s49vc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2272013,
+      "uploadedDate": "2024-11-13T19:01:29.291Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-1pkh6.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2708235,
+      "uploadedDate": "2023-03-10T17:55:40.296Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-1njaa.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1631286,
+      "uploadedDate": "2024-11-13T19:00:47.163Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-w074f.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2071354,
+      "uploadedDate": "2024-11-13T19:00:55.881Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d951a07966b145498994fda8a2c36c21/ship-simulator-realistic-1ao7w.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1408554,
+      "uploadedDate": "2024-11-13T19:01:17.555Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://76523c77-f999-40b4-a5c1-708eafcb27d0?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd951a07966b145498994fda8a2c36c21%2Fship-simulator-realistic-video-4qs09.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 195083057,
+      "uploadedDate": "2023-03-14T08:02:16.530Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://36bfd5bb-4f3f-48cc-8b0c-7ee8c7efb1f4?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd951a07966b145498994fda8a2c36c21%2Fship-simulator-realistic-video-wshd4.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 179364933,
+      "uploadedDate": "2023-03-14T08:09:45.150Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

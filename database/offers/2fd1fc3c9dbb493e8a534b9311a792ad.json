@@ -2,13 +2,13 @@
   "id": "2fd1fc3c9dbb493e8a534b9311a792ad",
   "namespace": "4b4cf9f6797e47099d1a132d485ed0f2",
   "title": "HAWKED",
-  "description": "HAWKED is an online Extraction Shooter full of daring adventures, boundless exploration, and all-out PvPvE action in pursuit of ancient treasures. Play for free today!",
-  "longDescription": null,
+  "description": "Adventure calls in HAWKED, a swashbuckling online co-op adventure shooter. Team up with pals for daring treasure hunts, explore uncharted realities, and battle vicious monsters. Play for free now!",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nAdventure calls! Team up with pals for daring treasure hunts in HAWKED, a swashbuckling online co-op adventure shooter. Become the ultimate Renegade by exploring uncharted realities, battling vicious monsters, and looting ancient ruins. Play for free now!\n\n<!--textBlock-->\n<!--title-->\n# ADVENTURE IN SOLO, CO-OP & PVP MODES\n<!--text-->\nVenture into the wilds of X-Isle! It’s a paradise lush with verdant vistas, dense jungles, sunkissed beaches… and no shortage of places to loot. Solve puzzles across the island to unlock Vaults, where deadly traps, monsters, bosses, and priceless treasures lie in wait. Adventure with friends or trust your own wiles to find the quickest, most lucrative route to your payday!\n\n<!--textBlock-->\n<!--title-->\n# OUTFOX & OUTGUN\n<!--text-->\nSwitch up your loadout to suit the heist at hand! Choose from a fully loaded arsenal of weapons and superpowered abilities, including assault rifles, shotguns, grenades, sniper rifles, and more. Even the arcane Artifacts you plunder can be upgraded to unleash game-changing new powers! Discover your ideal loadout, and wield it to battle monsters or outwit rivals if you’re playing in PvP.\n\n<!--textBlock-->\n<!--title-->\n# BECOME THE ULTIMATE TREASURE HUNTER\n<!--text-->\nYour legend is waiting to be written! Create your Renegade using hundreds of different customization options. Hunt in style with full-body Avatars, unique Outfits, wild Color Schemes, personalized Traversers and Hoverboards, and lots more. New styles can be unlocked through gameplay, the in-game Shop, special events, bundles, and by progressing through your Renegade Pass.\n\n<!--textBlock-->\n<!--title-->\n# FIND YOUR FORTUNE IN AN EPIC, EVOLVING ADVENTURE\n<!--text-->\nThe story unfolds in Issues! These major updates are packed with gripping Questlines, special missions, new characters, and plenty of new features and quality-of-life changes. Join the ranks of the adventurers guild GRAIL, and quest with the rogues and rapscallions aboard the Riftwake to improve your Reputation with them. Witness X-Isle change and evolve in the future as threats rise, alliances shift, and new realities emerge!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "b088fe492b6e43cdbd06d9bbd6c12819",
   "creationDate": "2024-03-28T15:05:59.115Z",
-  "lastModifiedDate": "2024-08-20T07:06:28.681Z",
+  "lastModifiedDate": "2024-11-14T13:19:04.997Z",
   "effectiveDate": "2024-05-23T12:00:00.000Z",
   "viewableDate": "2024-05-23T07:40:20.644Z",
   "developer": null,
@@ -36,15 +36,15 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "Action",
+      "id": "1264",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
       "status": "ACTIVE",
-      "referenceCount": 2167,
+      "referenceCount": 1166,
       "comment": null
     },
     {
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1412,
+      "referenceCount": 1416,
       "comment": ""
     },
     {
@@ -104,8 +104,20 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4571,
+      "referenceCount": 4570,
       "comment": ""
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-08-23T03:24:56.304Z",
+      "status": "ACTIVE",
+      "referenceCount": 519,
+      "comment": null
     },
     {
       "id": "22776",
@@ -140,7 +152,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16410,
+      "referenceCount": 16418,
       "comment": null
     },
     {
@@ -152,7 +164,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3154,
+      "referenceCount": 3155,
       "comment": null
     }
   ],
@@ -167,7 +179,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -181,30 +193,165 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-457w3.jpg",
-      "md5": "1b20896a23e0bd577c28df6c6840f737",
-      "size": 3449264,
-      "uploadedDate": "2024-05-15T13:36:45.345Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-1fg13.jpg",
+      "md5": "69b1c32ccc1e5ea43603af2075225bd7",
+      "size": 3768866,
+      "uploadedDate": "2024-11-12T19:09:07.958Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-19pn5.jpg",
-      "md5": "4e5e3872b661fc0d43c94e792ab89373",
-      "size": 2105629,
-      "uploadedDate": "2024-05-15T13:36:45.640Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-ldhcp.jpg",
+      "md5": "c9b3b196cffe85325c16748c17f0df73",
+      "size": 2302272,
+      "uploadedDate": "2024-11-12T19:09:10.284Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-19pn5.jpg",
-      "md5": "4e5e3872b661fc0d43c94e792ab89373",
-      "size": 2105629,
-      "uploadedDate": "2024-05-15T13:36:45.640Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-ldhcp.jpg",
+      "md5": "c9b3b196cffe85325c16748c17f0df73",
+      "size": 2302272,
+      "uploadedDate": "2024-11-12T19:09:10.284Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://4cf6cd5c-1c14-4505-8838-a58a63d973ad?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F035d24d83bc9464396173da44f953507%2Fhawked-video-1oors.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 212149681,
+      "uploadedDate": "2024-11-13T20:17:45.468Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-odwa3.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2981510,
+      "uploadedDate": "2024-11-12T14:44:49.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-1mtxr.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2939644,
+      "uploadedDate": "2024-11-12T14:44:32.121Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-1aqro.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3364835,
+      "uploadedDate": "2024-11-12T14:44:52.423Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-2hipx.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2915003,
+      "uploadedDate": "2024-11-12T14:44:55.407Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-16epv.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3138015,
+      "uploadedDate": "2024-05-23T21:55:53.783Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-16cs8.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3471349,
+      "uploadedDate": "2024-05-23T21:55:53.567Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-1l425.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 851693,
+      "uploadedDate": "2024-05-15T13:56:24.801Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-vaumi.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3251217,
+      "uploadedDate": "2024-05-23T21:55:53.992Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-1h277.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 920464,
+      "uploadedDate": "2024-05-15T13:56:24.431Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-pw9n8.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 822905,
+      "uploadedDate": "2024-05-15T13:56:24.245Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-ldl51.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 650923,
+      "uploadedDate": "2024-05-15T13:56:23.870Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-1az8b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 816456,
+      "uploadedDate": "2024-05-15T13:56:24.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-sgswp.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 691956,
+      "uploadedDate": "2024-05-15T13:56:24.056Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OgImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/035d24d83bc9464396173da44f953507/hawked-1ckyg.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1783193,
+      "uploadedDate": "2024-11-12T19:10:39.726Z",
+      "width": 1200,
+      "height": 1200
     }
   ],
   "items": [

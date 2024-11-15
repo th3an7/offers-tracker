@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "1aec5145bd3b44969f50673f6df88cc4",
   "creationDate": "2022-09-19T09:44:22.643Z",
-  "lastModifiedDate": "2024-11-12T14:16:45.245Z",
+  "lastModifiedDate": "2024-11-14T17:34:01.614Z",
   "effectiveDate": "2024-11-14T18:00:00.000Z",
   "viewableDate": "2022-09-21T13:00:00.000Z",
   "developer": null,
@@ -36,15 +36,15 @@
   ],
   "tags": [
     {
-      "id": "1336",
-      "name": "Action-Adventure",
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2023-08-23T03:10:10.001Z",
       "status": "ACTIVE",
-      "referenceCount": 519,
+      "referenceCount": 1144,
       "comment": null
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16410,
+      "referenceCount": 16418,
       "comment": null
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3154,
+      "referenceCount": 3155,
       "comment": null
     },
     {
@@ -116,6 +116,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -153,6 +157,150 @@
       "uploadedDate": "2022-09-19T10:36:48.254Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://7ec8b647-a1ab-4413-93d9-a7f1ff006392?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F97b6599f8346464ab12f58e28f36f33a%2Fved-video-vz65r.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 91946653,
+      "uploadedDate": "2024-11-14T13:39:08.187Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://fc108461-c6f1-4d9d-893e-411cc305a07e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F97b6599f8346464ab12f58e28f36f33a%2Fved-video-f8n3d.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 84228071,
+      "uploadedDate": "2023-09-27T15:41:14.398Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-r9mwi.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2593923,
+      "uploadedDate": "2023-09-27T15:13:13.356Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-guy37.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1484444,
+      "uploadedDate": "2023-09-27T15:13:15.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-1ffqf.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2427367,
+      "uploadedDate": "2023-09-27T15:13:13.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-19cmu.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1624460,
+      "uploadedDate": "2023-09-27T15:13:12.482Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-1bokt.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2346984,
+      "uploadedDate": "2023-09-27T15:13:14.521Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-g98a3.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2790587,
+      "uploadedDate": "2023-09-27T15:13:13.672Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-821vd.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2745371,
+      "uploadedDate": "2023-09-27T15:13:14.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-8edga.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2728767,
+      "uploadedDate": "2023-09-27T15:13:15.935Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-r9xr2.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2284873,
+      "uploadedDate": "2023-09-27T15:13:15.132Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-th9vp.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2479375,
+      "uploadedDate": "2023-09-27T15:13:13.017Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-vpige.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1561740,
+      "uploadedDate": "2023-09-27T15:13:14.406Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-10d1k.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2547325,
+      "uploadedDate": "2023-09-27T15:13:14.696Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-ilyz1.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1725211,
+      "uploadedDate": "2023-09-27T15:13:16.674Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/97b6599f8346464ab12f58e28f36f33a/ved-1dt6d.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1647249,
+      "uploadedDate": "2023-09-27T15:13:15.448Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

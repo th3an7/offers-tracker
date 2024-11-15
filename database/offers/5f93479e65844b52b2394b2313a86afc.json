@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "8a6d5b889e7a45ae9f6ce568acbc1e45",
   "creationDate": "2023-10-04T16:45:14.275Z",
-  "lastModifiedDate": "2024-11-13T15:33:03.949Z",
+  "lastModifiedDate": "2024-11-15T00:25:44.232Z",
   "effectiveDate": "2024-04-23T16:00:00.000Z",
-  "viewableDate": "2024-04-08T17:05:32.235Z",
+  "viewableDate": "2024-04-08T17:05:32.000Z",
   "developer": null,
   "seller": {
     "id": "o-gce8vd5wazjwuagsqnfxyhtp62z6mx",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1344",
-      "name": "Fighting",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2023-08-22T18:49:21.482Z",
-      "status": "ACTIVE",
-      "referenceCount": 129,
-      "comment": null
-    },
-    {
       "id": "1264",
       "name": "Co-op",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "1344",
+      "name": "Fighting",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2023-08-22T18:49:21.482Z",
+      "status": "ACTIVE",
+      "referenceCount": 129,
+      "comment": null
+    },
+    {
       "id": "29088",
       "name": "Online Multiplayer",
       "namespace": null,
@@ -80,7 +80,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1412,
+      "referenceCount": 1416,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2024-01-30T16:42:20.388Z",
       "updated": "2024-02-05T20:14:29.988Z",
       "status": "ACTIVE",
-      "referenceCount": 92,
+      "referenceCount": 93,
       "comment": ""
     },
     {
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16410,
+      "referenceCount": 16418,
       "comment": null
     },
     {
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3154,
+      "referenceCount": 3155,
       "comment": null
     },
     {
