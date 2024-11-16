@@ -2,13 +2,13 @@
   "id": "3a0bb842e4994c79aea4654a5abdf19e",
   "namespace": "4a86b8318e5a40e094f34a7e6a934652",
   "title": "I Am Future - Cozy Apocalypse Survival",
-  "description": "I Am Future is a relaxing survival game about building a cozy rooftop camp amid a flooded post-apocalyptic city. Set up a farm, cook delicious food, dismantle tools for crafting resources, automate chores by recruiting cute robots, and uncover the mystery behind the catastrophe.",
+  "description": "I Am Future is a relaxing single-player survival game about building a cozy rooftop camp amid a flooded post-apocalyptic city. Set up a farm, go fishing, tinker with gadgets, craft new tools, manage a team of cute robots, explore the mysterious world, and chill out!",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "eecb65eeb8c741f1b88af021e757f0f3",
   "creationDate": "2023-05-10T15:43:28.858Z",
-  "lastModifiedDate": "2024-11-14T14:59:18.504Z",
+  "lastModifiedDate": "2024-11-15T12:39:40.097Z",
   "effectiveDate": "2023-08-29T20:00:00.000Z",
   "viewableDate": "2023-05-17T06:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4570,
+      "referenceCount": 4574,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16418,
+      "referenceCount": 16447,
       "comment": null
     },
     {
@@ -106,18 +106,6 @@
       "status": "ACTIVE",
       "referenceCount": 1473,
       "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -128,6 +116,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -141,30 +133,210 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1k2rf.jpg",
-      "md5": "e576f0fe43a65e5061cd15c4a3f7ff80",
-      "size": 1091152,
-      "uploadedDate": "2024-02-23T08:32:02.308Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-i4zca.png",
+      "md5": "33ff4c4422deac54a2a4ad48542d141e",
+      "size": 3224684,
+      "uploadedDate": "2024-11-14T16:13:21.211Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-dgt3t.jpg",
-      "md5": "ad03d4ecc95af661e23c8fd925ce6632",
-      "size": 646849,
-      "uploadedDate": "2024-02-23T08:32:00.076Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1n8ui.png",
+      "md5": "ab136a14aad6535b75407237841309ec",
+      "size": 2121787,
+      "uploadedDate": "2024-11-14T16:13:55.633Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-dgt3t.jpg",
-      "md5": "ad03d4ecc95af661e23c8fd925ce6632",
-      "size": 646849,
-      "uploadedDate": "2024-02-23T08:32:00.076Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1n8ui.png",
+      "md5": "ab136a14aad6535b75407237841309ec",
+      "size": 2121787,
+      "uploadedDate": "2024-11-14T16:13:55.633Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://a57d63a8-dc04-4cc1-9d3e-3ba7be8b4318?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Faa305b59ecbf444e9ac26d8fae8c5d69%2Fi-am-future--cozy-apocalypse-survival-video-1y99l.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 105956748,
+      "uploadedDate": "2024-11-14T18:21:00.572Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-wa0or.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1619673,
+      "uploadedDate": "2024-11-14T18:30:59.551Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-k6vt0.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 850038,
+      "uploadedDate": "2024-11-14T18:31:02.516Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-n2onq.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1298615,
+      "uploadedDate": "2024-11-14T18:31:28.241Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1y22m.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1408375,
+      "uploadedDate": "2024-11-14T18:31:46.310Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-v8ha5.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 781568,
+      "uploadedDate": "2024-11-14T18:31:56.672Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1jsty.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 769355,
+      "uploadedDate": "2024-11-14T18:32:01.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1avp4.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 812052,
+      "uploadedDate": "2024-11-14T18:32:15.431Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-7jd1n.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1385348,
+      "uploadedDate": "2024-11-14T18:32:44.252Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1a3vx.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1308403,
+      "uploadedDate": "2024-11-14T18:32:42.246Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-10n9n.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1400014,
+      "uploadedDate": "2024-11-14T18:33:01.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-2bp4h.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 986497,
+      "uploadedDate": "2024-11-14T18:33:11.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1x5kj.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1053410,
+      "uploadedDate": "2024-11-14T18:33:26.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-9zq2i.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1563764,
+      "uploadedDate": "2024-11-14T18:41:40.151Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-1ukby.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 683954,
+      "uploadedDate": "2024-11-14T18:42:11.954Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-rwgro.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 640044,
+      "uploadedDate": "2024-11-14T18:43:37.882Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-13r9k.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 543675,
+      "uploadedDate": "2024-11-14T18:43:57.611Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-g6blk.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 798529,
+      "uploadedDate": "2024-11-14T18:43:58.925Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-19dzt.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 607363,
+      "uploadedDate": "2024-11-14T18:44:47.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/aa305b59ecbf444e9ac26d8fae8c5d69/i-am-future--cozy-apocalypse-survival-12iu3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 785186,
+      "uploadedDate": "2024-11-14T18:44:51.630Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
