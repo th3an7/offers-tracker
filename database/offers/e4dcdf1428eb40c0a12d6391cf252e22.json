@@ -2,13 +2,13 @@
   "id": "e4dcdf1428eb40c0a12d6391cf252e22",
   "namespace": "5feb8fb5da084884b66d1d56e67526b9",
   "title": "ORDINEM",
-  "description": "Ordinem is a new trading card game that builds upon the best battle card games in the market. Players will utilise cards from each each of the 5 'orders' of magic to cast spells, summon followers, craft magical artefacts and weave enchantments to defeat other players.",
-  "longDescription": null,
+  "description": "ORDINEM is a new trading card game that builds upon the best battle card games in the market. Players will utilise cards from each each of the 5 'orders' of magic to cast spells, summon followers, craft magical artefacts and weave enchantments to defeat other players.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Destiny in your hand!\n<!--text-->\nORDINEM is a new trading card game that builds upon the best battle card games in the market, such as Magic: The Gathering and Hearthstone, where we want you to own your cards. Players will utilise cards from each each of the 5 'orders' of magic to cast spells, summon followers, craft magical artefacts and weave enchantments to defeat other players. Players will be given base decks that have free cards, and will be able to build upon these decks from playing and winning.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "5c9009d089fe43ca804634f835f92d4c",
   "creationDate": "2023-07-30T09:41:48.052Z",
-  "lastModifiedDate": "2024-11-08T16:34:54.889Z",
+  "lastModifiedDate": "2024-11-17T00:32:07.139Z",
   "effectiveDate": "2024-11-11T22:00:00.000Z",
   "viewableDate": "2023-12-04T05:10:11.839Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16447,
+      "referenceCount": 16449,
       "comment": null
     },
     {
@@ -109,30 +109,84 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-1fw35.png",
-      "md5": "5ea8fe03b6d7f878b8c00e93ad399f27",
-      "size": 3493273,
-      "uploadedDate": "2023-12-05T00:46:42.942Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-7zcpl.png",
+      "md5": "8bed1d0265a453837c2acec73329b783",
+      "size": 4051050,
+      "uploadedDate": "2024-11-15T21:28:46.207Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-1lg2y.png",
-      "md5": "d22927ad7e007e75b934980b13d0ffaa",
-      "size": 1965883,
-      "uploadedDate": "2023-12-05T00:58:54.376Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-1ypf9.png",
+      "md5": "907a8d56a8e38e7c67cce961e5efbdc6",
+      "size": 2078732,
+      "uploadedDate": "2024-11-15T21:28:49.982Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-1lg2y.png",
-      "md5": "d22927ad7e007e75b934980b13d0ffaa",
-      "size": 1965883,
-      "uploadedDate": "2023-12-05T00:58:54.376Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-1ypf9.png",
+      "md5": "907a8d56a8e38e7c67cce961e5efbdc6",
+      "size": 2078732,
+      "uploadedDate": "2024-11-15T21:28:49.982Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://91d3f1b1-0556-4a8d-9359-800072fdcb88?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F529aa05344d34794b115e87b68e5e85f%2Fordinem-video-13zb2.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 173156326,
+      "uploadedDate": "2024-11-13T20:17:55.213Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-ec8wg.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 355634,
+      "uploadedDate": "2024-11-13T20:11:43.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-6xlyh.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 300712,
+      "uploadedDate": "2024-11-13T20:15:42.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-v0dim.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 538573,
+      "uploadedDate": "2024-11-13T20:11:44.596Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-9fox3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 325994,
+      "uploadedDate": "2024-11-13T20:11:43.283Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/529aa05344d34794b115e87b68e5e85f/ordinem-ojb3d.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 419348,
+      "uploadedDate": "2024-11-15T01:21:39.159Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
