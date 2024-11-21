@@ -8,7 +8,7 @@
   "productSlug": "the-sims-4/ea-play-edition",
   "urlSlug": "the-sims-4--ea-play-edition",
   "creationDate": "2024-10-09T18:57:39.487Z",
-  "lastModifiedDate": "2024-10-17T16:39:58.607Z",
+  "lastModifiedDate": "2024-11-20T23:52:07.563Z",
   "effectiveDate": "2024-10-17T15:00:00.000Z",
   "viewableDate": "2024-10-17T16:00:00.000Z",
   "developer": null,
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -104,8 +107,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16493,
+      "referenceCount": 16523,
       "comment": null
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2023-08-22T10:58:47.694Z",
+      "status": "ACTIVE",
+      "referenceCount": 522,
+      "comment": ""
     }
   ],
   "customAttributes": [

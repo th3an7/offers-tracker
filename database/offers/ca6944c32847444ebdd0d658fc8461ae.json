@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "36057a60fdff4bd6979ac66def7205b5",
   "creationDate": "2024-01-29T10:11:55.379Z",
-  "lastModifiedDate": "2024-11-07T10:32:04.983Z",
+  "lastModifiedDate": "2024-11-20T18:30:57.265Z",
   "effectiveDate": "2024-11-08T01:00:00.000Z",
-  "viewableDate": "2024-02-21T17:14:27.836Z",
+  "viewableDate": "2024-02-21T17:14:27.000Z",
   "developer": null,
   "seller": {
     "id": "o-s4u57cxavur8xyth76hygpe548grru",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -84,6 +84,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16523,
+      "comment": null
+    },
+    {
       "id": "21739",
       "name": "NFT BLOCKCHAIN",
       "namespace": null,
@@ -96,18 +108,6 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16493,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3156,
+      "referenceCount": 3163,
       "comment": null
     },
     {
