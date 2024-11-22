@@ -2,13 +2,13 @@
   "id": "df56d588bcaf463ebe835b217f736e20",
   "namespace": "696f412c815b40089807922419188f43",
   "title": "Sengoku Dynasty",
-  "description": "Build and manage villages in an open-world feudal Japan. Survive, explore, meet unique characters, and establish your legacy. Play solo or in co-op multiplayer.",
+  "description": "Sengoku Dynasty is the ultimate feudal Japan experience: build villages, grow your community, and shape the open world through combat or economy. Rise to power as a ruler or relax in hot springs. The choice is yours alone - or that of up to 4 players in multiplayer co-op!",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "e9b9f79f85d2406b880bace4e8ca0276",
   "creationDate": "2023-07-31T20:02:22.813Z",
-  "lastModifiedDate": "2023-08-10T19:54:42.320Z",
+  "lastModifiedDate": "2024-11-21T18:00:04.065Z",
   "effectiveDate": "2023-08-10T15:00:00.000Z",
   "viewableDate": "2023-08-10T15:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1460,
+      "referenceCount": 1463,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2083,
+      "referenceCount": 2087,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16523,
+      "referenceCount": 16554,
       "comment": null
     },
     {
@@ -140,19 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3163,
-      "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
+      "referenceCount": 3166,
       "comment": null
     }
   ],
@@ -166,6 +154,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -177,30 +169,210 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-f9zb4.jpg",
-      "md5": "a414ca151747c121ca311899313c04c7",
-      "size": 657220,
-      "uploadedDate": "2023-08-01T13:04:02.593Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-11kxw.jpg",
+      "md5": "7c2365f1c992c1468a7ac70ef828a8a0",
+      "size": 694486,
+      "uploadedDate": "2024-11-05T09:48:38.587Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-w2uty.jpg",
-      "md5": "562b64d1b510c6caf555f95833cbefc4",
-      "size": 585764,
-      "uploadedDate": "2023-08-01T13:04:18.694Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-g9eot.jpg",
+      "md5": "e4061dcf12adf913559ccb31c9dea452",
+      "size": 376986,
+      "uploadedDate": "2024-11-05T09:48:40.872Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-w2uty.jpg",
-      "md5": "562b64d1b510c6caf555f95833cbefc4",
-      "size": 585764,
-      "uploadedDate": "2023-08-01T13:04:18.694Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-g9eot.jpg",
+      "md5": "e4061dcf12adf913559ccb31c9dea452",
+      "size": 376986,
+      "uploadedDate": "2024-11-05T09:48:40.872Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://37891449-2da4-4184-bad5-73eeffadc490?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F70c9173f5d53454ea1e3e2bea0d407ec%2Fsengoku-dynasty-video-1ahmm.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 311131277,
+      "uploadedDate": "2024-11-15T11:22:06.838Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-lgxty.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 983832,
+      "uploadedDate": "2024-11-04T10:51:10.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-tun5w.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1037281,
+      "uploadedDate": "2024-11-04T10:51:03.947Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-17ep0.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 921145,
+      "uploadedDate": "2024-11-04T10:51:05.312Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-lln71.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 548600,
+      "uploadedDate": "2024-11-04T10:51:09.524Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-1ixp1.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 701828,
+      "uploadedDate": "2024-11-04T10:51:08.414Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-o0iwc.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 931920,
+      "uploadedDate": "2024-11-04T10:51:11.879Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-1pfmp.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 754243,
+      "uploadedDate": "2024-11-04T10:51:02.545Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-1lbgr.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 945435,
+      "uploadedDate": "2024-11-04T10:51:07.432Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-14zdx.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 927750,
+      "uploadedDate": "2024-11-04T10:51:11.247Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-1w688.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 662587,
+      "uploadedDate": "2024-11-04T10:51:04.268Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-1jsn4.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 772304,
+      "uploadedDate": "2024-11-04T10:51:06.639Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-jz4zt.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 823544,
+      "uploadedDate": "2024-11-04T10:51:03.020Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-6mow9.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 694792,
+      "uploadedDate": "2024-11-04T10:51:03.468Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-19df1.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1243157,
+      "uploadedDate": "2024-11-04T10:51:07.061Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-ni1xx.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 810937,
+      "uploadedDate": "2024-11-04T10:51:08.757Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-13ipt.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 898701,
+      "uploadedDate": "2024-11-04T10:51:11.558Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-5f7j5.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 881861,
+      "uploadedDate": "2024-11-04T10:51:05.739Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-1fc0b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 625109,
+      "uploadedDate": "2024-11-04T10:51:04.642Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/70c9173f5d53454ea1e3e2bea0d407ec/sengoku-dynasty-1d0xa.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1220356,
+      "uploadedDate": "2024-11-04T10:51:10.559Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
