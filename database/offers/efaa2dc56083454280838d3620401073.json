@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dcb01fcad48f460a829e51cc252bc2dc",
-  "creationDate": "2023-09-07T12:54:53.715Z",
-  "lastModifiedDate": "2023-09-07T12:54:53.715Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-08-28T12:07:20.957Z",
+  "lastModifiedDate": "2024-11-25T20:23:16.018Z",
+  "effectiveDate": "2024-11-26T18:00:00.000Z",
   "viewableDate": "2023-09-04T13:00:00.000Z",
   "developer": null,
   "seller": {
@@ -68,7 +68,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16564,
+      "referenceCount": 16567,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     }
   ],
@@ -80,6 +92,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -117,6 +133,60 @@
       "uploadedDate": "2023-08-28T12:34:49.821Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://6c4886a7-0835-4d22-80fa-1c0b503b0938?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F956768a445e64d1d9dfed6d66ef4baaf%2Fnew-arc-line-video-6cddm.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 133016147,
+      "uploadedDate": "2024-11-07T11:58:52.055Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/956768a445e64d1d9dfed6d66ef4baaf/new-arc-line-ji9i5.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 586112,
+      "uploadedDate": "2023-08-28T12:41:08.366Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/956768a445e64d1d9dfed6d66ef4baaf/new-arc-line-1eh77.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 582593,
+      "uploadedDate": "2023-08-28T12:41:08.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/956768a445e64d1d9dfed6d66ef4baaf/new-arc-line-1m5vm.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 587994,
+      "uploadedDate": "2023-08-28T12:41:08.353Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/956768a445e64d1d9dfed6d66ef4baaf/new-arc-line-zcu8b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 488210,
+      "uploadedDate": "2023-08-28T12:41:08.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/956768a445e64d1d9dfed6d66ef4baaf/new-arc-line-3oxml.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 524806,
+      "uploadedDate": "2023-08-28T12:41:09.236Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

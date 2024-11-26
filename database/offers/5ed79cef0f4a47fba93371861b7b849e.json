@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a340d9911f874b3a8361c7a2d5c30f9d",
   "creationDate": "2023-03-23T19:51:32.727Z",
-  "lastModifiedDate": "2024-11-23T20:35:37.410Z",
+  "lastModifiedDate": "2024-11-25T13:13:57.002Z",
   "effectiveDate": "2023-07-01T11:00:00.000Z",
   "viewableDate": "2023-06-22T21:00:00.000Z",
   "developer": null,
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
       "id": "1299",
       "name": "Competitive",
       "namespace": "epic",
@@ -92,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16564,
+      "referenceCount": 16567,
       "comment": null
     },
     {
@@ -104,7 +92,7 @@
       "created": "2022-06-24T20:06:43.344Z",
       "updated": "2024-10-25T20:00:26.146Z",
       "status": "ACTIVE",
-      "referenceCount": 220,
+      "referenceCount": 221,
       "comment": ""
     },
     {
@@ -118,6 +106,18 @@
       "status": "ACTIVE",
       "referenceCount": 250,
       "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -128,6 +128,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
