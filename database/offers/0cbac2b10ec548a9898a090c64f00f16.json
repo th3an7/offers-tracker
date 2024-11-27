@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "auto-chess--montly-pack",
   "creationDate": "2024-07-09T03:32:30.174Z",
-  "lastModifiedDate": "2024-07-10T23:00:21.205Z",
+  "lastModifiedDate": "2024-11-26T08:49:27.865Z",
   "effectiveDate": "2023-09-29T00:00:00.000Z",
-  "viewableDate": "2024-07-10T23:00:01.522Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/consumable"
     },
     {
       "path": "applications"
@@ -44,20 +44,8 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1467,
+      "referenceCount": 1472,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16567,
-      "comment": null
     },
     {
       "id": "1115",
@@ -69,6 +57,18 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16702,
       "comment": null
     }
   ],
