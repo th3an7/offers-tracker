@@ -3,13 +3,13 @@
   "namespace": "9b5b3b835a8a4837a7f36000753e1b73",
   "title": "Evolve",
   "description": "Evolve is a cutting-edge benchmarking suite designed to push the limits of modern hardware. Evolve is not just a benchmark; it's a comprehensive tool for understanding and optimizing your hardware's capabilities in the evolving landscape of computer graphics and performance.",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Evolve is a cross-platform ray tracing benchmark for gamers, researchers, influencers, developers, and overclockers.\n<!--text-->\n**Evolve **is a cutting-edge benchmarking suite designed to push the limits of modern GPUs, we've implemented state of the art rendering techniques that are both seen in high-end games as well as techniques found more often in offline (movie) rendering while trying to bring them to real time.\n\n\n\nWe hope to impress you with our graphics, while we're measuring all there is to know about your GPU!\n\n\n\nEvolve provides the ultimate toolkit for pushing your hardware to its limits:\n\n- **Comprehensive scoring:**\n\n evaluate your overclocking prowess across multiple categories, including acceleration structure build performance, ray tracing / traversal, rasterization, compute, and more\n\n- **Detailed performance breakdown:**\n\n gain deep insights into your system's performance with our frame-by-frame analysis\n\n- **On screen display:**\n\n give you a breakdown of vital GPU statistics such as temperature, voltage and wattage during a benchmark run!\n\n\n\n> **Experience the future of gaming benchmarks:**\n\n- **Next-gen graphics:**\n\n assess your rig's capabilities with cutting-edge ray tracing and path tracing technologies\n\n- **Game-like workloads: **\n\nEVOLVE focuses on delivering performance metrics that matter in real gaming scenarios, and has implemented techniques found in real games\n\n- **Online leaderboards:** \n\ncompare your scores against gamers worldwide and climb the ranks\n\n\n\n> **Dive deep into hardware performance with Evolve:**\n\n- **Multiple rendering techniques: **\n\nexplore path tracing and hybrid rendering methods\n\n- **Energy consumption metrics:**\n\n understand your system's power efficiency \n\n- **Driver overhead analysis:**\n\n gain insights into how different drivers impact your system's performance\n\n- **Community engagement:**\n\n join our Discord community to share results, tips, discuss hardware performance and overclocking techniques.\n\n<!--image-->\n![Evolve-1t1of](https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-1t1of.png)\n\n<!--image-->\n![Evolve-1omyv](https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-1omyv.png)\n\n<!--image-->\n![Evolve-s621q](https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-s621q.png)\n",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Evolve is a cross-platform ray tracing benchmark for gamers, researchers, influencers, developers, and overclockers.\n<!--text-->\n**Evolve** is a cutting-edge benchmarking suite designed to push the limits of your GPU.\n\nLeveraging state-of-the-art rendering techniques, Evolve provides modern and forward looking graphics workloads to deliver striking visual fidelity in real-time.\n\nWith its fine-grained performance profiling, Evolve can offer you an in-depth understanding of their hardware’s strengths and weaknesses, providing the ultimate toolkit for bringing your build to the next level.\n\n\n**- Comprehensive scoring: **\nEvaluate your results across multiple categories, including acceleration structure builds, ray tracing traversal, rasterization, compute, and more.\n\n**- Detailed performance breakdown: **\nGain deep insights into your system's performance with our frame-by-frame analysis. Understand your system’s power efficiency and how different drivers impact your performance.\n\n**- On screen display: **\nGive you a breakdown of vital GPU statistics such as temperature, voltage and wattage during a benchmark run.\n\n**- Next-gen graphics: **\nAssess your rig's capabilities with cutting-edge game-like graphics technologies.\n\n**- Multiple rendering techniques:** \nExplore multiple path tracing and hybrid ray tracing rendering methods.\n\n**- Online leaderboards:**\nCompare your scores against gamers worldwide and climb the ranks.\n\n**- Community engagement: **\nJoin our Discord community to share results, tips, discuss hardware performance and overclocking techniques.**\n\n<!--image-->\n![Evolve-1t1of](https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-1t1of.png)\n\n<!--image-->\n![Evolve-1omyv](https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-1omyv.png)\n\n<!--image-->\n![Evolve-s621q](https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-s621q.png)\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "a60ee3eb0f19488ba97dabf8e28f57e5",
-  "creationDate": "2024-11-29T16:00:21.518Z",
-  "lastModifiedDate": "2024-11-29T16:00:21.518Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-10-17T07:13:28.016Z",
+  "lastModifiedDate": "2024-11-30T20:10:54.137Z",
+  "effectiveDate": "2024-11-30T20:00:00.000Z",
   "viewableDate": "2024-11-29T19:00:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16725,
+      "referenceCount": 16726,
       "comment": null
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -109,10 +109,10 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-1pofp.jpg",
-      "md5": "53506ca675ee28b69ebedd64c714fc93",
-      "size": 3082235,
-      "uploadedDate": "2024-11-22T19:56:33.669Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/48bd04414f694529ace183a8a283d1b3/evolve-qofa7.png",
+      "md5": "5f4d6f71a21ca3c8de7f77ea14e55fa4",
+      "size": 1551803,
+      "uploadedDate": "2024-11-29T16:55:43.122Z",
       "width": 2560,
       "height": 1440
     },
