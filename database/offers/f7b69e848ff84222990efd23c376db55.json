@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "8b06e660e8694c70a4539dcb78231b3a",
   "creationDate": "2022-09-26T12:10:38.995Z",
-  "lastModifiedDate": "2024-11-01T15:03:16.485Z",
+  "lastModifiedDate": "2024-12-03T16:18:06.023Z",
   "effectiveDate": "2024-03-04T19:36:41.000Z",
   "viewableDate": "2023-02-27T16:00:00.000Z",
   "developer": null,
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
-    {
-      "id": "1287",
-      "name": "Fantasy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:41.164Z",
-      "updated": "2023-08-23T02:59:53.929Z",
-      "status": "ACTIVE",
-      "referenceCount": 95,
-      "comment": null
-    },
     {
       "id": "1367",
       "name": "RPG",
@@ -60,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "1287",
+      "name": "Fantasy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2023-08-23T02:59:53.929Z",
+      "status": "ACTIVE",
+      "referenceCount": 95,
+      "comment": null
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4604,
+      "referenceCount": 4629,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16763,
+      "referenceCount": 16795,
       "comment": null
     },
     {
@@ -129,30 +129,120 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-hkm2k.jpg",
-      "md5": "1f090755a564a083f3c4af4e6f3c9a9f",
-      "size": 999754,
-      "uploadedDate": "2022-10-04T14:33:20.147Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-g59ee.jpg",
+      "md5": "53d2229a3768f04d413b78ad8b3a547b",
+      "size": 745701,
+      "uploadedDate": "2024-11-13T13:26:46.340Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-1ginw.jpg",
-      "md5": "85071813cd3da42ca9b72a27656c1ead",
-      "size": 965828,
-      "uploadedDate": "2023-02-06T14:13:14.278Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-tm59j.jpg",
+      "md5": "2b91136076e34d3f529011e6899dd381",
+      "size": 461692,
+      "uploadedDate": "2024-11-13T13:26:50.012Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-1ginw.jpg",
-      "md5": "85071813cd3da42ca9b72a27656c1ead",
-      "size": 965828,
-      "uploadedDate": "2023-02-06T14:13:14.278Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-tm59j.jpg",
+      "md5": "2b91136076e34d3f529011e6899dd381",
+      "size": 461692,
+      "uploadedDate": "2024-11-13T13:26:50.012Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-1g897.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2026940,
+      "uploadedDate": "2024-03-04T16:31:31.032Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-1yquf.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1398101,
+      "uploadedDate": "2024-03-04T16:31:31.119Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-10cv9.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 750911,
+      "uploadedDate": "2024-03-04T16:31:30.763Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-1clrk.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 903729,
+      "uploadedDate": "2024-03-04T16:31:30.914Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-1bcci.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 692383,
+      "uploadedDate": "2024-03-04T16:31:30.825Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-18z0i.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 976413,
+      "uploadedDate": "2024-03-04T16:31:35.609Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-ty5um.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 804544,
+      "uploadedDate": "2024-03-04T16:31:35.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-t4oci.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1118580,
+      "uploadedDate": "2024-03-04T16:31:35.746Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-c8a2k.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2000627,
+      "uploadedDate": "2023-10-09T16:36:29.085Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/505bfa5366f0450db046656baed990c4/the-thaumaturge-1yndw.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 624267,
+      "uploadedDate": "2024-03-04T16:31:38.975Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
