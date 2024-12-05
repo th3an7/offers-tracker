@@ -3,12 +3,12 @@
   "namespace": "8b1072dbd9c84374935b5c4b9d363865",
   "title": "City 20",
   "description": "Embark on a dystopian-tinged survival sandbox adventure where the world dynamically responds to your actions. Craft your own narrative through a series of choices, navigating harsh environmental conditions and organized factions, and delving into unsolved mysteries.",
-  "longDescription": null,
+  "longDescription": "<!--image-->\n![City 20-1lcu7](https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1lcu7.jpg)\n\n<!--textBlock-->\n<!--text-->\n**City 20, a secret nuclear city quarantined after a radioactive leak and left to starve.**\n\nAs one of the survivors inhabiting City 20 years after the accident, you must survive within this sandbox, using the environment and society to your advantage.\nYou are completely free to choose how to play and what to do, but be aware: the world actively adapts and changes depending on your actions.\nIt is up to you to work with or against the world.\n\n<!--image-->\n![City 20-w0tdq](https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-w0tdq.jpg)\n\n<!--textBlock-->\n<!--text-->\n**Shape a unique experience by interacting with the game world.**\n\n- Work with or against NPCs to define your path. \n- Form bonds or rivalries with factions and decide where your loyalty lies.\n- Your actions can raise or lower social tension within factions, affecting how you're treated.\n- Alter the natural balance and watch the long-term consequences unfold.\n\nThe world has limited resources, so make the most out of them to enrich your equipment.\nRemember, it is not always possible to get out of bad situations without the use of force, being prepared will increase your chances of survival.\n\n<!--image-->\n![City 20-j3f67](https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-j3f67.jpg)\n\n<!--textBlock-->\n<!--text-->\n**Each NPC has specific traits, desires, needs and routines that make them unique.**\n\nEach of them has a role and relationships within society: helping, killing, stealing or even just interfering with their routine can lead to desired or unexpected consequences.\nBy completing their requests you will receive rewards, improving your relationship with them, but with the possibility of harming others.\n\nBe a model citizen and acquire resources through honest work, or commit crimes risking being reported to the authorities.\nIf you do not pay for your crimes, you will be banished from the faction and lose all of the privileges and benefits, such as access to specific shops, structures and crafting.\n\n<!--image-->\n![City 20-1jlnh](https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1jlnh.jpg)\n\n<!--textBlock-->\n<!--text-->\n**Take advantage of everything that City 20 has to offer.**\n\n- Explore forgotten places and find resources to use or trade with NPCs.\n- Use collected materials to craft new tools and interact in unique ways with the game world.\n- Claim apartments and customize them with furniture to craft new items, beds to sleep in and more.\n- Grow fruits and vegetables to prepare hearty recipes that will help you survive.\n- Hunt, set traps, and catch prey to meet your needs.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "2760ff6ae4dc4a2e96959c4d7b2cbcab",
   "creationDate": "2024-07-09T09:18:24.869Z",
-  "lastModifiedDate": "2024-09-23T06:42:28.463Z",
+  "lastModifiedDate": "2024-12-04T15:36:59.779Z",
   "effectiveDate": "2024-09-23T13:00:00.000Z",
   "viewableDate": "2024-07-30T07:14:36.663Z",
   "developer": null,
@@ -68,10 +68,21 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16795,
+      "referenceCount": 16831,
       "comment": null
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3223,
+      "comment": null
+    },
     {
       "id": "1310",
       "name": "EARLY ACCESS",
@@ -82,6 +93,18 @@
       "updated": "2023-08-22T22:50:29.701Z",
       "status": "ACTIVE",
       "referenceCount": 250,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -134,6 +157,132 @@
       "uploadedDate": "2024-07-26T14:29:34.506Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://4bb08199-80b0-46d3-b414-ef3a23050c8b?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F1e1a0a61fb3e4fd6a008abc89fa3b096%2Fcity-20-video-1xs06.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 105634233,
+      "uploadedDate": "2024-12-04T08:48:58.960Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://dccfb9c9-7a89-4e6a-a03b-11f063914691?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F1e1a0a61fb3e4fd6a008abc89fa3b096%2Fcity-20-video-1c8oz.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 207101338,
+      "uploadedDate": "2024-07-29T06:59:50.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1qpl7.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 396499,
+      "uploadedDate": "2024-08-05T09:05:31.981Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1d87o.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 346117,
+      "uploadedDate": "2024-08-05T09:06:08.071Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1tbx6.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 489679,
+      "uploadedDate": "2024-08-05T09:05:35.417Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-br6cc.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 400379,
+      "uploadedDate": "2024-08-05T09:05:40.347Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1tly4.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 531766,
+      "uploadedDate": "2024-08-05T09:05:48.940Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1u0y5.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 504208,
+      "uploadedDate": "2024-08-05T09:05:56.854Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-75vmy.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 732321,
+      "uploadedDate": "2024-08-05T09:06:02.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-e6dyz.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 839644,
+      "uploadedDate": "2024-08-05T09:06:22.798Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-tn7h5.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1432474,
+      "uploadedDate": "2024-08-05T09:06:23.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-4i2n4.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 978873,
+      "uploadedDate": "2024-08-05T09:06:23.046Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-17h1q.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1802585,
+      "uploadedDate": "2024-08-05T09:06:23.328Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/1e1a0a61fb3e4fd6a008abc89fa3b096/city-20-1jq36.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1394078,
+      "uploadedDate": "2024-08-05T09:06:22.978Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

@@ -2,13 +2,13 @@
   "id": "04362d18ee9c484d94cb2f2c22aeb271",
   "namespace": "abafc2bb624e445e812f67406ad0eabc",
   "title": "CoopValor 2056: Mechanized Soldier Edition",
-  "description": "Get the base game and unlock all available tanks and those we will add! You will also receive updates for all tanks in each update. Plus, you'll unlock exclusive Ukrainian Army badges to show you've supported Ukraine with this purchase by donating 20%. And much more.",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Iron Tank Pack Edition\n<!--text-->\nGet the base game and unlock all tanks! You will also receive the updates for all the available tanks and the ones we will add. You also unlock exclusive features for the Mechanized class. Plus, you'll unlock exclusive Ukrainian Army badges to show you've supported Ukraine with this purchase by donating 20%. And much more.\n",
+  "description": "Unlock all available tanks and those that will be added over time. You will also receive upgrades for all tanks in each update. In addition, you will unlock exclusive Ukrainian Army insignia and much more.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Iron Tank Pack Edition\n<!--text-->\nUnlock all available tanks and those we will add. You also unlock exclusive features for the Mechanized class. In addition, you will unlock exclusive badges of the Ukrainian army and much more.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "tank-pack-edition",
   "creationDate": "2023-04-22T21:23:22.087Z",
-  "lastModifiedDate": "2024-01-16T16:00:03.735Z",
+  "lastModifiedDate": "2024-12-04T07:14:51.598Z",
   "effectiveDate": "2023-09-10T10:00:00.000Z",
   "viewableDate": "2023-04-22T11:00:00.000Z",
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "spthidden"
     },
     {
-      "path": "games/edition"
+      "path": "spthidden/edition"
     }
   ],
   "tags": [
@@ -65,7 +65,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1513,
+      "referenceCount": 1609,
       "comment": ""
     },
     {
@@ -105,18 +105,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16795,
-      "comment": null
-    },
-    {
       "id": "1294",
       "name": "First Person",
       "namespace": "epic",
@@ -137,6 +125,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

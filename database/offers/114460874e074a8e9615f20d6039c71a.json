@@ -2,13 +2,13 @@
   "id": "114460874e074a8e9615f20d6039c71a",
   "namespace": "abafc2bb624e445e812f67406ad0eabc",
   "title": "CoopValor 2056: Owner of the Skies Edition",
-  "description": "Get the base game, plus upgrades for all available Drone UAVS and the ones we'll be adding! Plus, you'll unlock exclusive Ukrainian Army badges to show you've supported Ukraine with this purchase by donating 20%! and much more.",
+  "description": "Get all the drones and upgrades for all available and future UAVs! You will also unlock exclusive Ukrainian Army badges and much more.",
   "longDescription": "<!--textBlock-->\n<!--title-->\n# Dominate your ground combat zone, from the skies!\n<!--text-->\nSelect a date when users can find the offer in the Epic Games Store and add it to their wishlist. Artifacts and binaries are not required for early store discovery. Cannot be earlier than the Base offer viewable date.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "coopvalor-2056-owner-of-the-skies-edition",
   "creationDate": "2023-05-03T16:44:35.167Z",
-  "lastModifiedDate": "2024-02-13T16:00:02.886Z",
+  "lastModifiedDate": "2024-12-04T07:14:51.599Z",
   "effectiveDate": "2023-09-10T22:00:00.000Z",
   "viewableDate": "2023-05-02T22:00:00.000Z",
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games"
     }
   ],
   "tags": [
@@ -65,7 +65,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1513,
+      "referenceCount": 1609,
       "comment": ""
     },
     {
@@ -105,18 +105,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16795,
-      "comment": null
-    },
-    {
       "id": "1294",
       "name": "First Person",
       "namespace": "epic",
@@ -137,6 +125,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

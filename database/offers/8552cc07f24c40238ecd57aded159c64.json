@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "3185f127501841d6ad0f2e1a098d74f4",
   "creationDate": "2024-06-08T20:36:24.410Z",
-  "lastModifiedDate": "2024-10-03T11:46:37.654Z",
+  "lastModifiedDate": "2024-12-04T18:32:18.762Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-06-08T20:36:07.288Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
     {
       "id": "1287",
       "name": "Fantasy",
@@ -48,7 +59,30 @@
       "referenceCount": 95,
       "comment": null
     },
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4641,
+      "comment": ""
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-08-23T03:24:56.304Z",
+      "status": "ACTIVE",
+      "referenceCount": 519,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -70,10 +104,21 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16795,
+      "referenceCount": 16831,
       "comment": null
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3223,
+      "comment": null
+    },
     {
       "id": "1151",
       "name": "Platformer",
