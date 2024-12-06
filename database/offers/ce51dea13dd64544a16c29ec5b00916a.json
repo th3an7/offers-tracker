@@ -6,9 +6,9 @@
   "longDescription": "99.99",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "jackal-10000-platinum",
+  "urlSlug": "dauntless--10000-platinum",
   "creationDate": "2019-04-09T18:24:59.092Z",
-  "lastModifiedDate": "2020-09-17T16:58:56.642Z",
+  "lastModifiedDate": "2024-12-06T00:12:50.089Z",
   "effectiveDate": "2019-04-01T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -65,7 +71,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16831,
+      "referenceCount": 16853,
       "comment": null
     },
     {
@@ -77,7 +83,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3223,
+      "referenceCount": 3230,
       "comment": null
     },
     {
@@ -106,39 +112,30 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg",
-      "md5": "e555c4296ba40636fd72db5ce5f56a95",
-      "size": 200053,
-      "uploadedDate": "2020-04-21T18:29:24.358Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/offer/jackal/10000PT_Portrait_EGS_1200x1600-23f982a65b9646b038daf8bd84fc5e52",
+      "md5": "23f982a65b9646b038daf8bd84fc5e52",
+      "size": 757891,
+      "uploadedDate": "2024-12-06T00:11:50.090Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S3-1360x766-f6001a460af951b3cdbb1bf562159348-1360x766-f6001a460af951b3cdbb1bf562159348.jpg",
-      "md5": "f6001a460af951b3cdbb1bf562159348",
-      "size": 465900,
-      "uploadedDate": "2020-04-21T18:29:31.108Z",
-      "width": 1360,
-      "height": 766
+      "url": "https://cdn1.epicgames.com/offer/jackal/10000PT_Landscape_EGS_2560x1440-f86f7521868ed7fb4d56e55c31554db8",
+      "md5": "f86f7521868ed7fb4d56e55c31554db8",
+      "size": 871992,
+      "uploadedDate": "2024-12-06T00:11:56.676Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg",
-      "md5": "e555c4296ba40636fd72db5ce5f56a95",
-      "size": 200053,
-      "uploadedDate": "2020-04-21T18:29:38.687Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg",
-      "md5": "e555c4296ba40636fd72db5ce5f56a95",
-      "size": 200053,
-      "uploadedDate": "2020-04-21T18:29:47.443Z",
-      "width": 510,
-      "height": 680
+      "url": "https://cdn1.epicgames.com/offer/jackal/10000PT_Portrait_EGS_1200x1600-23f982a65b9646b038daf8bd84fc5e52",
+      "md5": "23f982a65b9646b038daf8bd84fc5e52",
+      "size": 757891,
+      "uploadedDate": "2024-12-06T00:12:01.475Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
