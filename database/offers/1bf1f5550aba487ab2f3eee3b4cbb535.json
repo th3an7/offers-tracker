@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "idle-champions-of-the-forgotten-realms--bardic-inspiration-vol-2",
   "creationDate": "2021-11-17T17:21:53.173Z",
-  "lastModifiedDate": "2024-11-26T19:54:03.759Z",
+  "lastModifiedDate": "2024-12-06T17:00:15.478Z",
   "effectiveDate": "2021-12-01T20:00:00.000Z",
   "viewableDate": "2021-12-01T20:00:00.000Z",
   "developer": null,
@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16865,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -60,18 +72,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16853,
       "comment": null
     }
   ],
@@ -83,6 +83,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "publisherName",
@@ -98,6 +102,33 @@
     }
   ],
   "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-fo586.jpg",
+      "md5": "72664f0e2cf1632650ba75985fe7143b",
+      "size": 356920,
+      "uploadedDate": "2024-12-05T05:50:24.433Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1mxny.jpg",
+      "md5": "7154137ea86a4db9468be5d63fc53751",
+      "size": 193174,
+      "uploadedDate": "2024-12-05T05:50:35.540Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1mxny.jpg",
+      "md5": "7154137ea86a4db9468be5d63fc53751",
+      "size": 193174,
+      "uploadedDate": "2024-12-05T05:50:35.540Z",
+      "width": 1200,
+      "height": 1600
+    },
     {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_SoundtrackBardicInspirationVolume2_CodenameEntertainment_DigitalExtras_G1A_00_1920x1080-c3a61ebb929c5a1def56a937463eb260",
@@ -115,33 +146,6 @@
       "uploadedDate": "2021-11-30T09:57:49.329Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_SoundtrackBardicInspirationVolume2_CodenameEntertainment_DigitalExtras_S2_1200x1600-7154137ea86a4db9468be5d63fc53751",
-      "md5": "7154137ea86a4db9468be5d63fc53751",
-      "size": 193174,
-      "uploadedDate": "2021-11-30T09:57:59.890Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_SoundtrackBardicInspirationVolume2_CodenameEntertainment_DigitalExtras_S1_2560x1440-002d5e362ce7e347b4304c9a02310ab6",
-      "md5": "002d5e362ce7e347b4304c9a02310ab6",
-      "size": 965079,
-      "uploadedDate": "2021-11-30T09:58:03.699Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_SoundtrackBardicInspirationVolume2_CodenameEntertainment_DigitalExtras_S2_1200x1600-7154137ea86a4db9468be5d63fc53751",
-      "md5": "7154137ea86a4db9468be5d63fc53751",
-      "size": 193174,
-      "uploadedDate": "2021-11-30T09:58:14.703Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

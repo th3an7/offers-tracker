@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "devservalaudience",
   "creationDate": "2020-05-08T16:48:48.506Z",
-  "lastModifiedDate": "2022-09-15T01:48:13.129Z",
+  "lastModifiedDate": "2024-12-06T20:34:43.022Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -31,7 +31,20 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4661,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",

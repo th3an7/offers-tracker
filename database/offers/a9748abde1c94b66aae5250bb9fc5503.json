@@ -2,13 +2,13 @@
   "id": "a9748abde1c94b66aae5250bb9fc5503",
   "namespace": "7e508f543b05465abe3a935960eb70ac",
   "title": "Idle Champions of the Forgotten Realms",
-  "description": "Idle Champions is a licensed Dungeons & Dragons strategy management video game uniting iconic characters from novels, campaigns, and shows into one epic adventure.",
+  "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "idle-champions-of-the-forgotten-realms",
   "urlSlug": "banegeneralaudience",
-  "creationDate": "2024-11-22T21:45:14.795Z",
-  "lastModifiedDate": "2024-11-22T21:56:33.814Z",
+  "creationDate": "2020-10-15T12:56:50.731Z",
+  "lastModifiedDate": "2024-12-06T17:00:13.481Z",
   "effectiveDate": "2021-02-16T17:00:00.000Z",
   "viewableDate": "2021-02-16T17:00:00.000Z",
   "developer": null,
@@ -59,7 +59,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 439,
+      "referenceCount": 440,
       "comment": ""
     },
     {
@@ -71,7 +71,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 571,
+      "referenceCount": 573,
       "comment": ""
     },
     {
@@ -83,7 +83,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 522,
+      "referenceCount": 524,
       "comment": ""
     },
     {
@@ -123,6 +123,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16865,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -135,18 +147,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16853,
-      "comment": null
-    },
-    {
       "id": "21149",
       "name": "Quickly Understand the Controls",
       "namespace": null,
@@ -155,7 +155,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 534,
+      "referenceCount": 535,
       "comment": ""
     },
     {
@@ -167,7 +167,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 404,
+      "referenceCount": 406,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -179,6 +179,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.blacklist",
@@ -193,44 +197,44 @@
       "value": "Codename Entertainment"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "idle-champions-of-the-forgotten-realms"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "idle-champions-of-the-forgotten-realms"
     }
   ],
   "keyImages": [
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-6c23d0f0576846fc88d1356df3a0c1cf",
-      "md5": "6c23d0f0576846fc88d1356df3a0c1cf",
-      "size": 306085,
-      "uploadedDate": "2024-06-20T15:02:05.766Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-15jur.png",
+      "md5": "e7ecf0c8187bd736b9d23735a71540dd",
+      "size": 2867684,
+      "uploadedDate": "2024-11-28T17:04:37.565Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608",
-      "md5": "bb05a14cce4561f02643dd70d893e608",
-      "size": 571053,
-      "uploadedDate": "2024-06-20T15:01:58.887Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-bb05a14cce4561f02643dd70d893e608",
-      "md5": "bb05a14cce4561f02643dd70d893e608",
-      "size": 571053,
-      "uploadedDate": "2024-06-20T15:02:02.242Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-13ee9.png",
+      "md5": "e08be11afb67badb1bcec16c97fae120",
+      "size": 1662704,
+      "uploadedDate": "2024-11-28T17:04:40.848Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-13ee9.png",
+      "md5": "e08be11afb67badb1bcec16c97fae120",
+      "size": 1662704,
+      "uploadedDate": "2024-11-28T17:04:40.848Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-6c23d0f0576846fc88d1356df3a0c1cf",
       "md5": "6c23d0f0576846fc88d1356df3a0c1cf",
       "size": 306085,
