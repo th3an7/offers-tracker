@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "8a6a242c50d14dcf8a34de800a21f469",
-  "creationDate": "2024-11-11T17:00:20.065Z",
-  "lastModifiedDate": "2024-12-08T19:43:29.736Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-05-13T06:00:52.821Z",
+  "lastModifiedDate": "2024-12-09T05:00:19.391Z",
+  "effectiveDate": "2024-12-11T01:00:00.000Z",
   "viewableDate": "2024-11-11T17:00:01.000Z",
   "developer": null,
   "seller": {
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4662,
+      "referenceCount": 4667,
       "comment": ""
     },
     {
@@ -92,7 +92,31 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16868,
+      "referenceCount": 16882,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-08-23T05:08:24.575Z",
+      "status": "ACTIVE",
+      "referenceCount": 1068,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -174,20 +198,20 @@
       "height": 1080
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/8dc04a3ec3044d5da78c504d7fce251f/mesozoic-attack-1tlq4.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 3745551,
-      "uploadedDate": "2024-11-10T06:05:47.067Z",
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://1389fecf-2506-4d14-8036-1fb460c66c69?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F8dc04a3ec3044d5da78c504d7fce251f%2Fmesozoic-attack-video-1kqkd.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 15895026,
+      "uploadedDate": "2024-12-07T09:23:03.353Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/8dc04a3ec3044d5da78c504d7fce251f/mesozoic-attack-wc2b7.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/8dc04a3ec3044d5da78c504d7fce251f/mesozoic-attack-1tlq4.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1020724,
-      "uploadedDate": "2024-11-10T06:05:45.743Z",
+      "size": 3745551,
+      "uploadedDate": "2024-11-10T06:05:47.067Z",
       "width": 1920,
       "height": 1080
     },
@@ -206,6 +230,24 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 1429223,
       "uploadedDate": "2024-11-10T06:06:24.999Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/8dc04a3ec3044d5da78c504d7fce251f/mesozoic-attack-ne5a9.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 328394,
+      "uploadedDate": "2024-11-17T09:47:22.235Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://1a3967ad-241f-492a-ade3-bc71e4f9c0fc?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F8dc04a3ec3044d5da78c504d7fce251f%2Fmesozoic-attack-video-1ddwj.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 67164400,
+      "uploadedDate": "2024-12-08T19:24:33.150Z",
       "width": 1920,
       "height": 1080
     }

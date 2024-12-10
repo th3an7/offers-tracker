@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "cf86ccff6e9748f89c69664d4241e9ee",
   "creationDate": "2024-01-23T21:16:31.195Z",
-  "lastModifiedDate": "2024-02-15T18:08:24.012Z",
+  "lastModifiedDate": "2024-12-09T04:19:41.197Z",
   "effectiveDate": "2024-02-16T10:30:00.000Z",
   "viewableDate": "2024-02-02T15:44:09.677Z",
   "developer": null,
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 16882,
+      "comment": null
+    },
+    {
       "id": "21739",
       "name": "NFT BLOCKCHAIN",
       "namespace": null,
@@ -106,18 +118,6 @@
       "status": "ACTIVE",
       "referenceCount": 227,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16868,
-      "comment": null
     },
     {
       "id": "1310",
@@ -140,6 +140,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
