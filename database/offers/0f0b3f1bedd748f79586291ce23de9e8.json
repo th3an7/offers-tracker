@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "nemesiageneralaudience",
   "creationDate": "2019-03-13T12:22:35.815Z",
-  "lastModifiedDate": "2022-06-23T00:00:20.669Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2024-12-11T00:50:26.829Z",
+  "effectiveDate": "2099-03-08T04:01:00.000Z",
+  "viewableDate": "2024-12-11T00:50:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
@@ -31,6 +31,9 @@
       "path": "games/edition"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -42,21 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-06-01T21:33:39.843Z",
+      "updated": "2023-08-23T05:17:12.937Z",
       "status": "ACTIVE",
-      "referenceCount": 1903,
-      "comment": null
-    },
-    {
-      "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-06-01T22:12:03.783Z",
-      "status": "ACTIVE",
-      "referenceCount": 369,
+      "referenceCount": 2167,
       "comment": null
     },
     {
@@ -66,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-06-01T21:06:49.228Z",
+      "updated": "2023-08-23T03:10:10.001Z",
       "status": "ACTIVE",
-      "referenceCount": 1052,
+      "referenceCount": 1144,
       "comment": null
     },
     {
@@ -78,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-06-01T22:12:03.801Z",
+      "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
-      "referenceCount": 4357,
+      "referenceCount": 5001,
       "comment": null
     },
     {
@@ -90,21 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-01T23:01:55.065Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 8903,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-06-01T23:01:55.087Z",
-      "status": "ACTIVE",
-      "referenceCount": 1612,
+      "referenceCount": 16899,
       "comment": null
     }
   ],
@@ -124,40 +103,31 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
-      "md5": "29b9f030725c7871fa0c379c269958a6",
-      "size": 299276,
-      "uploadedDate": "2020-05-13T18:43:54.952Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
-      "md5": "29b9f030725c7871fa0c379c269958a6",
-      "size": 299276,
-      "uploadedDate": "2020-05-13T18:44:05.614Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/nemesia/EGS_VampireTheMasqueradeBloodlines2_TBC_S1_2560x1440-20fa7c44a98ebf0277ba17f46af91fd0",
+      "md5": "20fa7c44a98ebf0277ba17f46af91fd0",
+      "size": 510453,
+      "uploadedDate": "2023-06-02T13:31:24.249Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/nemesia/vamp tall_1200x1600-29b9f030725c7871fa0c379c269958a6",
-      "md5": "29b9f030725c7871fa0c379c269958a6",
-      "size": 299276,
-      "uploadedDate": "2022-06-23T00:00:06.175Z",
+      "url": "https://cdn1.epicgames.com/offer/nemesia/EGS_VampireTheMasqueradeBloodlines2_TBC_S2_1200x1600-92734ab1599eb739694921f94dc9f101",
+      "md5": "92734ab1599eb739694921f94dc9f101",
+      "size": 359428,
+      "uploadedDate": "2023-06-02T13:31:27.370Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/nemesia/vamp wide_2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da",
-      "md5": "5ff32c5e44f21a30ecf2bd689f9e12da",
-      "size": 626626,
-      "uploadedDate": "2022-06-23T00:00:16.970Z",
-      "width": 2560,
-      "height": 1440
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/nemesia/EGS_VampireTheMasqueradeBloodlines2_TBC_S2_1200x1600-92734ab1599eb739694921f94dc9f101",
+      "md5": "92734ab1599eb739694921f94dc9f101",
+      "size": 359428,
+      "uploadedDate": "2023-06-02T13:31:30.381Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
