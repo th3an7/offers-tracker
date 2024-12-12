@@ -8,7 +8,7 @@
   "productSlug": "medieval-dynasty",
   "urlSlug": "borongeneralaudience",
   "creationDate": "2020-12-01T23:30:07.178Z",
-  "lastModifiedDate": "2024-10-31T14:22:45.546Z",
+  "lastModifiedDate": "2024-12-11T18:58:11.669Z",
   "effectiveDate": "2020-12-17T16:00:00.000Z",
   "viewableDate": "2020-12-17T16:00:00.000Z",
   "developer": null,
@@ -59,7 +59,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1627,
+      "referenceCount": 1629,
       "comment": ""
     },
     {
@@ -83,7 +83,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2141,
+      "referenceCount": 2144,
       "comment": ""
     },
     {
@@ -95,7 +95,19 @@
       "created": "2022-05-17T21:16:58.023Z",
       "updated": "2023-08-22T10:58:47.680Z",
       "status": "ACTIVE",
-      "referenceCount": 252,
+      "referenceCount": 255,
+      "comment": ""
+    },
+    {
+      "id": "21130",
+      "name": "Easy Combat",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:19:53.656Z",
+      "updated": "2023-08-08T17:54:27.993Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
       "comment": ""
     },
     {
@@ -107,7 +119,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16899,
+      "referenceCount": 16942,
       "comment": null
     },
     {
@@ -119,8 +131,20 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3249,
+      "referenceCount": 3250,
       "comment": null
+    },
+    {
+      "id": "21135",
+      "name": "Realistic Visuals",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:26:56.879Z",
+      "updated": "2023-07-10T14:06:58.114Z",
+      "status": "ACTIVE",
+      "referenceCount": 35,
+      "comment": ""
     },
     {
       "id": "1264",
@@ -155,7 +179,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 578,
+      "referenceCount": 581,
       "comment": ""
     },
     {
@@ -167,7 +191,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 529,
+      "referenceCount": 531,
       "comment": ""
     },
     {
@@ -179,7 +203,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 528,
+      "referenceCount": 529,
       "comment": ""
     },
     {
@@ -191,7 +215,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 550,
+      "referenceCount": 554,
       "comment": ""
     },
     {
@@ -231,6 +255,18 @@
       "comment": null
     },
     {
+      "id": "21146",
+      "name": "Educational",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:35:29.234Z",
+      "updated": "2023-08-22T10:58:47.726Z",
+      "status": "ACTIVE",
+      "referenceCount": 107,
+      "comment": ""
+    },
+    {
       "id": "21149",
       "name": "Quickly Understand the Controls",
       "namespace": null,
@@ -239,7 +275,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 540,
+      "referenceCount": 541,
       "comment": ""
     },
     {
@@ -251,7 +287,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 407,
+      "referenceCount": 409,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -318,13 +354,157 @@
       "height": 1600
     },
     {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://6f052fd0-8539-405c-bdd0-ae6fd28cf854?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd55736bb24f24fa8ae960d712125f82d%2Fmedieval-dynasty-video-12rqk.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 281826085,
+      "uploadedDate": "2024-12-10T11:02:14.500Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://81ebcb24-a623-4d00-a8a3-61748cd1901f?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd55736bb24f24fa8ae960d712125f82d%2Fmedieval-dynasty-video-6j9qv.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 269492427,
+      "uploadedDate": "2024-06-25T12:19:46.433Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/c556d22537ed4a14a454813c9faedd3a/EGS_MedievalDynasty_RenderCube_S1_2560x1440-3ba67379729d09dda0772a7b8061e75d",
-      "md5": "3ba67379729d09dda0772a7b8061e75d",
-      "size": 681295,
-      "uploadedDate": "2023-08-25T15:19:55.215Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-fel7d.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3308829,
+      "uploadedDate": "2024-06-25T12:09:15.199Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-1tlsc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1124053,
+      "uploadedDate": "2024-06-25T12:09:24.092Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-guo9k.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3198303,
+      "uploadedDate": "2024-06-25T12:09:20.768Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-1vnz1.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3683079,
+      "uploadedDate": "2024-06-25T12:09:30.383Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-15mea.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3375792,
+      "uploadedDate": "2024-06-25T12:09:31.557Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-2firf.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3227808,
+      "uploadedDate": "2024-06-25T12:09:31.092Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-uq7xm.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3361150,
+      "uploadedDate": "2024-06-25T12:09:28.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-vg1fr.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1280148,
+      "uploadedDate": "2024-06-25T12:09:10.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-1hkhf.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3741715,
+      "uploadedDate": "2024-06-25T12:09:21.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-1p9rt.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3751048,
+      "uploadedDate": "2024-06-25T12:09:30.656Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-1owpd.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3007069,
+      "uploadedDate": "2024-06-25T12:09:16.154Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-bjaq5.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1182050,
+      "uploadedDate": "2024-06-25T12:09:07.883Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-5cyq8.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3487320,
+      "uploadedDate": "2024-06-25T12:09:22.160Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-rjjlj.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2897433,
+      "uploadedDate": "2024-06-25T12:09:14.762Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d55736bb24f24fa8ae960d712125f82d/medieval-dynasty-t741k.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3045240,
+      "uploadedDate": "2024-06-25T12:09:27.260Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
