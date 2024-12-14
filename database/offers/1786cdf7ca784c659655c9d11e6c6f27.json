@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "season-pass",
   "creationDate": "2024-07-27T14:14:27.201Z",
-  "lastModifiedDate": "2024-12-12T18:32:10.019Z",
+  "lastModifiedDate": "2024-12-13T21:38:17.425Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-07-29T12:01:44.099Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden"
+      "path": "addons"
     },
     {
-      "path": "spthidden/seasonpass"
+      "path": "addons/durable/seasonpass"
+    },
+    {
+      "path": "addons/durable"
     }
   ],
   "tags": [
@@ -113,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 16988,
+      "referenceCount": 17000,
       "comment": null
     },
     {
@@ -125,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3267,
+      "referenceCount": 3277,
       "comment": null
     }
   ],
