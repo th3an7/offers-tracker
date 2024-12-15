@@ -1,0 +1,269 @@
+{
+  "id": "dc8b7f21a868480e9d18cc95c84d415e",
+  "namespace": "626ebd2e7da84c2c969ebf0320c818f1",
+  "title": "Special Agent Training",
+  "description": "First-person shooter game with red and blue factions facing off. There are 8 scenarios and 6 weapons, which can be played alone or with a LAN connection.\nIn the edit map list interface, you can freely configure your favorite scenes and weapons.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Skillful marksmanship and teamwork are the keys to victory.\n<!--text-->\n1. Introduction\nFirst-person shooter game, red and blue factions, one side of the team is all wiped out, or the game time of this scene is up, then the end,\nMove on to the next scene. Currently, there are 8 scenes, indoor and outdoor. 6 weapons, including pistols, rifles, sniper rifles,\nGrenade. You can play alone or multiplayer over a LAN connection.\nBefore entering the game, select \"Player\" or \"Observer\" in the \"Game Character\" column; If you select Observer, then\nAccess to the game is only for viewing.\nIn the \"Game Configuration\" section, you can set the maximum number of players per team. Because it is a faction confrontation, it is necessary to secure the foundation\nso the number of people on the team and the weapons used by the team members are the same. For example, the number of people here is set to 9, and after entering the game, the red side is\n1 player + 8 NPCs, 9 NPCs for Blue. If a player joins Red, it will replace Red's NPC; If you join Blue, you will be replaced\nNPCs on the blue side. Make sure that Red is 9 and Blue is also 9.\nOn the \"Edit Map List\" screen, you can select your favorite scene. Each scene can be equipped with different weapons and set up NPCs to shoot\nAbilities, game length.\n6 types of weapons, guns are to click to fire bullets, submachine guns hold down and shoot continuously; The grenade is held down for 1 second to release the throw, and the faster it is released, the closer it is thrown.\nPlayers can't use guns as well as NPCs, especially sniper rifles. Therefore, the use of sniper rifles has been optimized for players, right-click to open the sniper view, within 1 second\nSwipe across the scene and click on it, and the NPC that is crossed will be hit. Grenades and High Explosive grenades are area attacks and do not distinguish between friend and foe. Sniper rifles and high-explosive grenades\n's damage is maximum, and it's easy to inflict instant kills, with grenades and pistols being minimal. Both bullets and grenades are unlimited and can be used as much as you want.\nChoose a scene with low difficulty, complete with a grenade or pistol, and set the NPC's shooting ability to low, this is a light-hearted and leisurely mini-game. choose\nDifficult scenes, equipped with sniper rifles, are challenging games. A combination of different choices to form a game with different experiences. Against NPCs, against players,\nIt's a different experience again. If you choose Observer Mode, you can enjoy other players performing.\n\n2. Buttons\n1. WSAD, mobile. Left mouse button, attack, right button, sniper view.\n2. C, Squat. Space, jump. Left Shift, scroll.\n3. Esc, or M, toggle between game view and UI view, UI view shows the mouse, you can click the exit button in the lower left corner, or faintly in the lower right corner\nHide the interface buttons.\n4. The player is in observer mode, J, and the camera follows the other person. L, the perspective follows your side. Letter I, angle of view switching. WSAD, Navigation. QE, lifting.\n\n3. Gamepads\nThe game supports gamepad operation of characters, but does not support UI operation.\nHandle Left Shoulder Button = Left Button, Handle Right Button = Right Button.\nHandle A = C, Handle Y = Space, Handle Right Trigger = Left Shift.\nHandle arrow keys left = J, handle arrow keys right = L, handle arrow keys = letter I.\nObserver mode can be navigated, but does not support lifting.\n",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "c3e061b624994f6a86bb92c52e4fc367",
+  "creationDate": "2024-12-14T01:29:25.723Z",
+  "lastModifiedDate": "2024-12-14T01:29:25.723Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2024-12-14T01:29:08.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-66t553zjm8gbc856zqhrwuktw6f9yq",
+    "name": "PengJiLin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2023-08-23T00:14:55.836Z",
+      "status": "ACTIVE",
+      "referenceCount": 799,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17007,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3278,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "First Person",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2023-08-23T00:14:55.884Z",
+      "status": "ACTIVE",
+      "referenceCount": 481,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "false"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-97r8l.jpg",
+      "md5": "813b58dd6b6609af834068cdd468e832",
+      "size": 367934,
+      "uploadedDate": "2024-12-13T08:02:35.264Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-om2ry.jpg",
+      "md5": "1716e86827d5151d1a7fafcfa78df730",
+      "size": 203265,
+      "uploadedDate": "2024-12-13T08:02:46.180Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-om2ry.jpg",
+      "md5": "1716e86827d5151d1a7fafcfa78df730",
+      "size": 203265,
+      "uploadedDate": "2024-12-13T08:02:46.180Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://d0d5c138-c110-46de-92fe-fd26d45f5168?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F932bb4ed6dc84b4e9b66853e9acc6e2f%2Fspecial-agent-training-video-ws4w6.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 30037873,
+      "uploadedDate": "2024-12-13T07:40:26.830Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-m7018.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 405798,
+      "uploadedDate": "2024-12-12T06:13:29.414Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-1jvos.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 286264,
+      "uploadedDate": "2024-12-12T06:13:28.398Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-126n7.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 341541,
+      "uploadedDate": "2024-12-12T06:13:30.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-4prqr.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 450173,
+      "uploadedDate": "2024-12-12T06:13:29.687Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-di5us.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 264835,
+      "uploadedDate": "2024-12-12T06:13:28.971Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-15h49.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 353193,
+      "uploadedDate": "2024-12-12T06:13:30.506Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-q0yhh.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 298279,
+      "uploadedDate": "2024-12-12T06:13:29.961Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-p8vud.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 304218,
+      "uploadedDate": "2024-12-12T06:13:28.679Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/932bb4ed6dc84b4e9b66853e9acc6e2f/special-agent-training-1601m.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 285082,
+      "uploadedDate": "2024-12-12T06:13:28.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://2209e79c-764b-4ed2-a924-3172956ccd88?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F932bb4ed6dc84b4e9b66853e9acc6e2f%2Fspecial-agent-training-video-1bo4l.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 233496514,
+      "uploadedDate": "2024-12-13T07:18:36.461Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "a2402d0251d04ad581e3898fb2ede4bc"
+    }
+  ],
+  "catalogNs": {
+    "name": "626ebd2e7da84c2c969ebf0320c818f1"
+  }
+}
