@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "map-editor-holiday-props",
   "creationDate": "2023-10-26T21:15:17.368Z",
-  "lastModifiedDate": "2024-10-28T19:54:45.745Z",
+  "lastModifiedDate": "2024-12-15T19:40:23.689Z",
   "effectiveDate": "2023-12-06T19:40:24.080Z",
   "viewableDate": "2023-12-06T19:40:24.080Z",
   "developer": null,
@@ -53,7 +53,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1644,
+      "referenceCount": 1646,
       "comment": ""
     },
     {
@@ -65,7 +65,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 825,
+      "referenceCount": 827,
       "comment": ""
     },
     {
@@ -81,18 +81,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17007,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -103,6 +91,42 @@
       "status": "ACTIVE",
       "referenceCount": 1068,
       "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17016,
+      "comment": null
+    },
+    {
+      "id": "39070",
+      "name": "iOS",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-08-29T16:11:35.528Z",
+      "updated": "2024-12-02T23:44:09.286Z",
+      "status": "ACTIVE",
+      "referenceCount": 92,
+      "comment": ""
+    },
+    {
+      "id": "39071",
+      "name": "Android",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-08-29T16:12:02.962Z",
+      "updated": "2024-12-02T23:43:54.708Z",
+      "status": "ACTIVE",
+      "referenceCount": 118,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -117,6 +141,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
