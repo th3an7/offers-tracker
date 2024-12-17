@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": "killing-floor-3",
   "urlSlug": "killing-floor-3",
-  "creationDate": "2024-06-10T20:22:10.983Z",
-  "lastModifiedDate": "2024-06-12T16:54:23.831Z",
-  "effectiveDate": "2099-11-30T00:00:00.000Z",
+  "creationDate": "2022-04-25T17:57:25.898Z",
+  "lastModifiedDate": "2024-12-16T15:20:47.853Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-08-22T20:00:00.000Z",
   "developer": null,
   "seller": {
@@ -71,7 +71,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1646,
+      "referenceCount": 1650,
       "comment": ""
     },
     {
@@ -119,7 +119,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17016,
+      "referenceCount": 17040,
       "comment": null
     },
     {
@@ -155,6 +155,10 @@
     {
       "key": "publisherName",
       "value": "Tripwire Interactive"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "false"
     },
     {
       "key": "developerName",
@@ -198,13 +202,112 @@
       "height": 1600
     },
     {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://b6b8dc4e-bc10-4f56-9d04-436bade9e83c?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F909dbdb5fabb4002bc0d3f0382be5361%2Fkilling-floor-3-video-14ki7.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 37695794,
+      "uploadedDate": "2024-12-13T20:36:35.370Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://137bdcdb-5fa6-4c68-998f-8ba8b9ab4242?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F909dbdb5fabb4002bc0d3f0382be5361%2Fkilling-floor-3-video-ughpw.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 49218131,
+      "uploadedDate": "2024-06-11T20:09:43.729Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/312a1e4f0c8e479e97d92a587dd52a33/EGS_KillingFloor3_TripwireInteractive_S1_2560x1440-a025eb10b0ab611e9f2f052f17330186",
-      "md5": "a025eb10b0ab611e9f2f052f17330186",
-      "size": 384803,
-      "uploadedDate": "2023-08-15T22:01:09.832Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn2.unrealengine.com/egs-killingfloor3-tripwireinteractive-g1a-01-1920x1080-ceead1402606.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-02T14:41:52.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-killingfloor3-tripwireinteractive-g1a-02-1920x1080-1c70e8b092d1.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-02T14:41:52.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-killingfloor3-tripwireinteractive-g1a-03-1920x1080-42032b3d9075.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-02T14:41:52.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-1x1bw.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1231599,
+      "uploadedDate": "2024-06-10T18:54:05.681Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-1rtur.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1277323,
+      "uploadedDate": "2024-06-10T18:54:14.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-fs1c3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1685519,
+      "uploadedDate": "2024-12-12T17:48:31.815Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-1bhqm.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1223361,
+      "uploadedDate": "2024-12-12T17:48:32.043Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-1rd76.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1451450,
+      "uploadedDate": "2024-12-12T17:48:32.199Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-1o1of.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1215036,
+      "uploadedDate": "2024-12-12T17:48:32.389Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/909dbdb5fabb4002bc0d3f0382be5361/killing-floor-3-bbzpi.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1834748,
+      "uploadedDate": "2024-12-12T17:48:32.450Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

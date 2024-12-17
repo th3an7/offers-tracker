@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "2f2f81ee4e69459b85d99591edc85637",
-  "creationDate": "2024-11-01T09:24:52.200Z",
-  "lastModifiedDate": "2024-11-01T10:04:15.344Z",
-  "effectiveDate": "2024-12-03T05:00:00.000Z",
+  "creationDate": "2024-09-18T12:52:21.490Z",
+  "lastModifiedDate": "2024-12-16T20:57:00.113Z",
+  "effectiveDate": "2025-02-18T05:00:00.000Z",
   "viewableDate": "2024-11-01T09:24:50.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4668,
+      "referenceCount": 4679,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17016,
+      "referenceCount": 17040,
       "comment": null
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3279,
+      "referenceCount": 3282,
       "comment": null
     },
     {
@@ -181,6 +181,69 @@
       "uploadedDate": "2024-10-22T13:19:26.261Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://b4cd125d-ab8e-4ea4-9a0e-cde7d16b2890?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F8f3fd5123366485b81f231ac928eb7d2%2Fspectacular-team-assemble-video-iyufx.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 272876162,
+      "uploadedDate": "2024-10-31T15:26:45.838Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f3fd5123366485b81f231ac928eb7d2/spectacular-team-assemble-17byn.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 798074,
+      "uploadedDate": "2024-10-22T12:18:19.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f3fd5123366485b81f231ac928eb7d2/spectacular-team-assemble-8mgor.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 992330,
+      "uploadedDate": "2024-10-22T12:18:20.046Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f3fd5123366485b81f231ac928eb7d2/spectacular-team-assemble-1xqf4.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 304450,
+      "uploadedDate": "2024-10-30T16:04:49.008Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f3fd5123366485b81f231ac928eb7d2/spectacular-team-assemble-j6w18.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1277284,
+      "uploadedDate": "2024-10-22T12:18:19.540Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f3fd5123366485b81f231ac928eb7d2/spectacular-team-assemble-z1jxs.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 941706,
+      "uploadedDate": "2024-10-22T12:18:19.795Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/8f3fd5123366485b81f231ac928eb7d2/spectacular-team-assemble-h1yk5.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1011768,
+      "uploadedDate": "2024-10-22T12:18:19.264Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
