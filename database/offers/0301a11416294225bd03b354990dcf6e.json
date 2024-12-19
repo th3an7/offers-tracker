@@ -1,14 +1,14 @@
 {
   "id": "0301a11416294225bd03b354990dcf6e",
   "namespace": "74d48dd68be249aab319a2f9bca2dc0e",
-  "title": "Wanderer's Sigil: Dice-Fueled Adventure",
+  "title": "Sigilfarer",
   "description": "Turn-based roguelite with a dice management system. Embrace the role of the courageous team of Wanderers in a realm scarred by mystical devastation. Manage your caravan, traverse the unknown and fight to survive!",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# THE DICE MAY ROLL, BUT YOU CONTROL THE OUTCOME\n<!--text-->\n**Sigilfarer** is a roguelite adventure where every decision rests on the roll of your dice. Master a dice-building system while navigating a sprawling, procedurally generated world. Strategize your route, manage resources and push your luck to the limit!\n\nSigilfarer reimagines the deck-building genre, allowing you to shape your own destiny with a customizable dice system. Your party is the dice set; each sword, shield, and armor you equip becomes a die face, determining the attacks, buffs, and strategic options available to you.\n\nManage up to four characters in your team, creating unique builds and synergies tailored to your playstyle. The dice are crucial during the whole playthrough and represent abilities of the party.\n\nRoll your dice in tactical turn-based combat, use them to overcome skill checks and to renew resources while resting. Every dice throw can turn the tide!\n\nIn this roguelite adventure, you'll rely on your wits and the dice you craft to explore procedurally generated, open hexagonal maps. Each region presents diverse biomes, perils, and opportunities. Conducted runs will push you to develop your strategy and enhance your dice set with each attempt. Death is not the end, but rather a fresh beginning, allowing you to become stronger and wiser with each journey.\n\n\n\nYou play as a group of wanderers who traverse a world that was changed by a magical cataclysm. Journeys remain a difficult task, made feasible only by magical sigils that guard caravans from creatures and waves of wild magic. Plan your journey, manage your resources, and fight for your place in the corrupted world of magic.\n\nWhat does Sigilfarer offer:\n- Roguelite Gameplay Loop\n- Dice Rolling\n- Engaging Story\n- Turn-Based Combat\n- Little Bit of Luck\n- High Replay Value\n- Many unlockables and more to come\n- Atmospheric Gameplay\n- Lot of goblins and other creatures\n\nWhat does Sigilfarrer NOT offer:\n- Relaxing Gameplay\n- 4x Strategy\n- City Building\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "d2fef6c719324d14aaf75ca65799308e",
-  "creationDate": "2024-03-07T14:33:41.491Z",
-  "lastModifiedDate": "2024-12-03T21:50:48.983Z",
+  "creationDate": "2023-12-18T10:26:14.574Z",
+  "lastModifiedDate": "2024-12-18T15:32:36.767Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-03-07T14:33:22.770Z",
   "developer": null,
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17061,
+      "referenceCount": 17080,
       "comment": null
     }
   ],
@@ -121,30 +121,111 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/wanderers-sigil-dicefueled-adventure-1jydm.jpg",
-      "md5": "041b9bbe83b62ae26dc8e89f5a329bb1",
-      "size": 2871664,
-      "uploadedDate": "2024-02-29T14:30:05.702Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/wanderers-sigil-dicefueled-adventure-1fa2s.jpg",
+      "md5": "c3e6d98d2920bb526460ae262b3f33dc",
+      "size": 874520,
+      "uploadedDate": "2024-11-13T13:06:12.018Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/wanderers-sigil-dicefueled-adventure-1mpme.jpg",
-      "md5": "701dcf195e7073032859ef5e85b04cb8",
-      "size": 1661755,
-      "uploadedDate": "2024-02-29T14:33:49.189Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/wanderers-sigil-dicefueled-adventure-m87i9.jpg",
+      "md5": "67fcf78004132e43a1e0fc17732c28c2",
+      "size": 501894,
+      "uploadedDate": "2024-11-13T13:06:19.709Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/wanderers-sigil-dicefueled-adventure-1mpme.jpg",
-      "md5": "701dcf195e7073032859ef5e85b04cb8",
-      "size": 1661755,
-      "uploadedDate": "2024-02-29T14:33:49.189Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/wanderers-sigil-dicefueled-adventure-m87i9.jpg",
+      "md5": "67fcf78004132e43a1e0fc17732c28c2",
+      "size": 501894,
+      "uploadedDate": "2024-11-13T13:06:19.709Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://2dd8fe7e-8fb7-40cb-ae0b-dad78fd837aa?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe3f741f61eaf4309837607b4eec8236a%2Fsigilfarer-video-1yhqo.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 222707740,
+      "uploadedDate": "2024-12-18T08:52:05.868Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-krtct.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3016391,
+      "uploadedDate": "2024-12-05T13:07:59.246Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-1lxo3.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2761602,
+      "uploadedDate": "2024-12-05T13:07:59.060Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-1oanf.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1879823,
+      "uploadedDate": "2024-12-05T13:08:00.451Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-im1p8.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3188369,
+      "uploadedDate": "2024-12-05T13:07:59.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-ezso3.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2670614,
+      "uploadedDate": "2024-12-05T13:07:59.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-1opfa.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2052479,
+      "uploadedDate": "2024-12-05T13:07:57.611Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-lyhhe.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2407504,
+      "uploadedDate": "2024-12-05T13:07:58.014Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/e3f741f61eaf4309837607b4eec8236a/sigilfarer-5uxgz.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2603828,
+      "uploadedDate": "2024-12-05T13:07:58.854Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
