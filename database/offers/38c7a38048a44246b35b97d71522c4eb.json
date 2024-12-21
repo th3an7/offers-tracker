@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "d0105c4a48714e55be13df66ffb6f749",
   "creationDate": "2024-10-01T18:45:29.370Z",
-  "lastModifiedDate": "2024-12-16T17:09:34.582Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-12-20T16:36:46.374Z",
+  "effectiveDate": "2024-12-20T18:00:00.000Z",
   "viewableDate": "2024-12-02T22:28:05.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -44,7 +44,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 230,
+      "referenceCount": 229,
       "comment": ""
     },
     {
@@ -56,7 +56,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2168,
+      "referenceCount": 2169,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "33639",
-      "name": "Promotional Content",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-01-30T16:42:20.388Z",
-      "updated": "2024-02-05T20:14:29.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 115,
-      "comment": ""
-    },
-    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -104,7 +92,19 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4719,
+      "referenceCount": 4731,
+      "comment": ""
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 116,
       "comment": ""
     },
     {
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17100,
+      "referenceCount": 17135,
       "comment": null
     },
     {
@@ -152,7 +152,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3290,
+      "referenceCount": 3311,
       "comment": null
     },
     {

@@ -3,14 +3,14 @@
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "title": "From the Ashes",
   "description": "You have an opportunity to participate in building a new village from the ground up and experience first-hand what it was like to create a new settlement.",
-  "longDescription": "The first DLC for Kingdom Come: Deliverance introduces an entirely new type of adventure! You have an opportunity to participate in building a new village from the ground up and experience first-hand what it was like to create a new settlement.\n\nAs a newly appointed bailiff, you must decide what buildings to erect and what people to bring in, and you must also settle disputes between the villagers. Each building is unique and comes with its own upgrades, material and labor requirements.\n\nGet yourself one of the new horses available and take it for a ride, throw a few dice against seasoned players in your new local tavern, match your skills against variously skilled opponents in your combat arena or rest in your own comfortably furnished house.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe first DLC for Kingdom Come: Deliverance introduces an entirely new type of adventure! You have an opportunity to participate in building a new village from the ground up and experience first-hand what it was like to create a new settlement.\n\nAs a newly appointed bailiff, you must decide what buildings to erect and what people to bring in, and you must also settle disputes between the villagers. Each building is unique and comes with its own upgrades, material and labor requirements.\n\nGet yourself one of the new horses available and take it for a ride, throw a few dice against seasoned players in your new local tavern, match your skills against variously skilled opponents in your combat arena or rest in your own comfortably furnished house.\n",
   "status": "ACTIVE",
   "productSlug": "kingdom-come-deliverance/from-the-ashes",
   "urlSlug": "kingdom-come-deliverance--from-the-ashes",
-  "creationDate": "2020-01-04T06:16:10.288Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.331Z",
+  "creationDate": "2024-12-19T15:24:32.221Z",
+  "lastModifiedDate": "2024-12-20T12:24:16.759Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2024-12-20T12:24:12.000Z",
   "developer": null,
   "seller": {
     "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
@@ -39,6 +39,18 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
+    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -51,16 +63,40 @@
       "comment": null
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale",
+      "id": "19847",
+      "name": "Achievements",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2024-12-12T16:00:04.042Z",
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3551,
+      "referenceCount": 4731,
       "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17135,
+      "comment": null
     },
     {
       "id": "1307",
@@ -75,18 +111,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17100,
-      "comment": null
-    },
-    {
       "id": "1117",
       "name": "Adventure",
       "namespace": "epic",
@@ -97,12 +121,48 @@
       "status": "ACTIVE",
       "referenceCount": 1473,
       "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3311,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "publisherName",
+      "value": "Prime Matter"
+    },
+    {
+      "key": "developerName",
       "value": "Warhorse Studios"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -129,40 +189,22 @@
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_FromtheAshes_WarhorseStudios_DLC_S2-1200x1600-02f03d523f029c0513232a300d13d4bc.jpg",
-      "md5": "02f03d523f029c0513232a300d13d4bc",
-      "size": 780779,
-      "uploadedDate": "2021-04-09T20:02:46.320Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_FromtheAshes_WarhorseStudios_DLC_S2-1200x1600-02f03d523f029c0513232a300d13d4bc.jpg",
       "md5": "02f03d523f029c0513232a300d13d4bc",
       "size": 780779,
-      "uploadedDate": "2021-04-09T20:02:57.014Z",
+      "uploadedDate": "2021-04-09T20:02:27.416Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
+      "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_FromtheAshes_WarhorseStudios_DLC_S1-2560x1440-3787ea0be103fec43e34b645c45574ee.jpg",
       "md5": "3787ea0be103fec43e34b645c45574ee",
       "size": 866110,
-      "uploadedDate": "2021-04-09T20:03:13.494Z",
+      "uploadedDate": "2021-04-09T20:02:19.965Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_FromtheAshes_WarhorseStudios_DLC_S2-1200x1600-02f03d523f029c0513232a300d13d4bc.jpg",
-      "md5": "02f03d523f029c0513232a300d13d4bc",
-      "size": 780779,
-      "uploadedDate": "2021-04-09T20:03:22.203Z",
-      "width": 1200,
-      "height": 1600
     },
     {
       "type": "GalleryImage",
@@ -226,15 +268,6 @@
       "uploadedDate": "2021-04-09T20:04:45.413Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_FromtheAshes_WarhorseStudios_DLC_IC1-200x200-6582167cc0b809aa3987d56cc9f98931.png",
-      "md5": "6582167cc0b809aa3987d56cc9f98931",
-      "size": 28662,
-      "uploadedDate": "2021-04-09T20:04:57.379Z",
-      "width": 200,
-      "height": 200
     }
   ],
   "items": [
