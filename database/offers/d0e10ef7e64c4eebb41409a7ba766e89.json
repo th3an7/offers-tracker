@@ -3,12 +3,12 @@
   "namespace": "65ca60e94ead44f294cc5f7889dc9f48",
   "title": "TCG Card Shop Manager",
   "description": "Dive into the dynamic world of trading card games with 'TCG Card Shop Manager,' where your strategic decisions determine the success of your very own card shop. Experience the thrill of managing a bustling trading card store!",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Build your ultimate card shop empire! Stock rare cards, host tournaments, and become a TCG legend in an immersive shop management simulator.\n<!--text-->\nDive into the dynamic world of trading card games with 'TCG Card Shop Manager,' where your strategic decisions determine the success of your very own card shop. Experience the thrill of managing a bustling trading card store, from stocking the latest releases to hosting epic card battles.\n\nKey Features:\n\nCustom Shop Design: Craft the perfect layout for your shop to optimize customer flow and maximize sales. Display your most enticing card packs and accessories to catch every shopper’s eye.\n\nMaster Your Inventory: Keep your shelves stocked with the hottest trading card games. Analyze market trends and customer preferences to ensure you always have the best-selling items on hand.\n\nCollect and Profit: Crack open booster packs to discover rare and valuable cards. Choose whether to sell these treasures for quick cash or hold onto them to complete your impressive personal collection.\n\nHost Tournaments: Create a community hub by hosting card game tournaments. Set the format, entry fees, and prizes to attract top players and boost your shop's reputation.\n\nEnhance Customer Experience: Maintain a clean and welcoming environment to keep your patrons happy and returning. A clean shop is a happy shop, especially when it doubles as a competitive arena!\n\nExpand and Evolve: Reinvest your profits to grow your business. Upgrade your space, introduce new product lines, and even open additional locations to become a leader in the TCG community.\n\nImmersive Graphics: Enjoy stunningly realistic visuals that bring your shop and the exciting world of TCGs to life.\n\n'TCG Card Shop Manager' isn't just a game—it's your opportunity to build a business empire in the heart of the trading card community. Whether you’re a seasoned collector or new to the world of TCGs, prepare to embark on a strategic adventure that combines management with the thrill of trading card competition. Ready to draw your first hand and play your cards right?\n",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Build your ultimate card shop empire! Stock rare cards, host tournaments, and become a TCG legend in an immersive shop management simulator\n<!--text-->\nDive into the dynamic world of trading card games with 'TCG Card Shop Manager,' where your strategic decisions determine the success of your very own card shop. Experience the thrill of managing a bustling trading card store, from stocking the latest releases to hosting epic card battles.\n\nKey Features:\n\nCustom Shop Design: Craft the perfect layout for your shop to optimize customer flow and maximize sales. Display your most enticing card packs and accessories to catch every shopper’s eye.\n\nMaster Your Inventory: Keep your shelves stocked with the hottest trading card games. Analyze market trends and customer preferences to ensure you always have the best-selling items on hand.\n\nCollect and Profit: Crack open booster packs to discover rare and valuable cards. Choose whether to sell these treasures for quick cash or hold onto them to complete your impressive personal collection.\n\nHost Tournaments: Create a community hub by hosting card game tournaments. Set the format, entry fees, and prizes to attract top players and boost your shop's reputation.\n\nEnhance Customer Experience: Maintain a clean and welcoming environment to keep your patrons happy and returning. A clean shop is a happy shop, especially when it doubles as a competitive arena!\n\nExpand and Evolve: Reinvest your profits to grow your business. Upgrade your space, introduce new product lines, and even open additional locations to become a leader in the TCG community.\n\nImmersive Graphics: Enjoy stunningly realistic visuals that bring your shop and the exciting world of TCGs to life.\n\n'TCG Card Shop Manager' isn't just a game—it's your opportunity to build a business empire in the heart of the trading card community. Whether you’re a seasoned collector or new to the world of TCGs, prepare to embark on a strategic adventure that combines management with the thrill of trading card competition. Ready to draw your first hand and play your cards right?\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "d6c5054911f545d4b859d04853e09b7f",
-  "creationDate": "2024-11-27T04:22:55.035Z",
-  "lastModifiedDate": "2024-11-27T04:22:55.035Z",
+  "creationDate": "2024-11-18T06:29:45.925Z",
+  "lastModifiedDate": "2024-12-23T14:05:07.636Z",
   "effectiveDate": "2024-11-28T06:00:00.000Z",
   "viewableDate": "2024-11-27T18:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 230,
-      "comment": ""
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -84,18 +72,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 16763,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -105,6 +81,18 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17169,
       "comment": null
     }
   ],
