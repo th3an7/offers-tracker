@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "29a13e7998d84bd8be62af6e53ffa223",
-  "creationDate": "2024-12-13T05:29:12.978Z",
-  "lastModifiedDate": "2024-12-13T05:29:12.978Z",
+  "creationDate": "2024-11-25T03:40:30.923Z",
+  "lastModifiedDate": "2024-12-24T16:25:19.589Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-12-13T05:28:53.000Z",
   "developer": null,
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17169,
+      "referenceCount": 17186,
       "comment": null
     }
   ],
@@ -115,7 +115,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -159,20 +159,29 @@
       "height": 1600
     },
     {
-      "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://82b38355-e9c8-45e8-ac86-fb18dd54d194?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fde22f33db85747a08ed6b954e57674c3%2Fpasser-video-wp2eb.png",
-      "md5": "comepicgamesvideomd5hashconstant",
-      "size": 189178332,
-      "uploadedDate": "2024-11-30T03:56:37.784Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/de22f33db85747a08ed6b954e57674c3/passer-17szq.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 993174,
       "uploadedDate": "2024-11-30T04:32:49.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://e774e036-b2aa-47d5-8138-7f60a16c7fd0?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fde22f33db85747a08ed6b954e57674c3%2Fpasser-video-l149c.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 107086260,
+      "uploadedDate": "2024-12-14T13:36:19.549Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://82b38355-e9c8-45e8-ac86-fb18dd54d194?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fde22f33db85747a08ed6b954e57674c3%2Fpasser-video-wp2eb.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 189178332,
+      "uploadedDate": "2024-11-30T03:56:37.784Z",
       "width": 1920,
       "height": 1080
     },
