@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "759f53a97e814a169e7e79356f96b94b",
   "creationDate": "2024-12-17T11:58:15.607Z",
-  "lastModifiedDate": "2024-12-26T12:55:26.602Z",
+  "lastModifiedDate": "2024-12-27T23:28:53.030Z",
   "effectiveDate": "2024-12-21T16:00:00.000Z",
   "viewableDate": "2024-12-21T16:00:00.000Z",
   "developer": null,
@@ -36,6 +36,66 @@
   ],
   "tags": [
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1675,
+      "comment": ""
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2177,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4741,
+      "comment": ""
+    },
+    {
+      "id": "21130",
+      "name": "Easy Combat",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:19:53.656Z",
+      "updated": "2023-08-08T17:54:27.993Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17197,
+      "comment": null
+    },
+    {
       "id": "1264",
       "name": "Co-op",
       "namespace": "epic",
@@ -48,15 +108,15 @@
       "comment": null
     },
     {
-      "id": "29088",
-      "name": "Online Multiplayer",
+      "id": "21138",
+      "name": "Recommend this Game",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2023-06-19T16:23:12.748Z",
-      "updated": "2024-03-28T21:49:30.504Z",
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 1675,
+      "referenceCount": 592,
       "comment": ""
     },
     {
@@ -72,27 +132,27 @@
       "comment": null
     },
     {
-      "id": "21894",
-      "name": "Cloud Saves",
+      "id": "21140",
+      "name": "Amazing Storytelling",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-23T02:20:12.228Z",
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 2175,
+      "referenceCount": 535,
       "comment": ""
     },
     {
-      "id": "19847",
-      "name": "Achievements",
+      "id": "21141",
+      "name": "Extremely Fun",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 4739,
+      "referenceCount": 564,
       "comment": ""
     },
     {
@@ -120,18 +180,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17188,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -156,6 +204,18 @@
       "comment": null
     },
     {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2023-08-22T10:58:47.694Z",
+      "status": "ACTIVE",
+      "referenceCount": 555,
+      "comment": ""
+    },
+    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -167,7 +227,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1362,
+      "referenceCount": 1363,
       "comment": null
     },
     {
@@ -179,7 +239,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 423,
+      "referenceCount": 425,
       "comment": "From Ratings & Polls results."
     }
   ],
