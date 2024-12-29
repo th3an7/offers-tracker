@@ -3,12 +3,12 @@
   "namespace": "5a1b2edca43946c5af9ae1098a327ff5",
   "title": "StarbaseSim",
   "description": "This is a physics sandbox, where you can transport, stack, fuel (soon), launch and catch Starship using Mechazilla, an SPMT or the Tank Farm (soon) at a recreation of SpaceX Starbase Texas, that is getting more and more detailed over time.",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# UPDATE 2024-12-20: Cryo physics and effects are in now and Massey's got QD and tanking\n<!--text-->\n### What is this?\n\nThis is a physics sandbox where you can play around with [Starbase ](https://www.spacex.com/vehicles/starship/assets/media/Starbase%20Overview.pdf) devices. This is ***not*** a flight sim. There are some basic flying mechanics, but they are mainly intended to be able to catch the rockets with the chop sticks.\nAlso, there is no tutorial and just some explanations yet in the game. So it would be better, if you know already a bit about what you are doing or you find out by clicking around ;)\nFor more info, go to the [Itch site](https://ashtorak.itch.io/starbase-simulator) or join the [Discord](https://discord.gg/w4wcufZF2r).\n\n### Demo?\n\nYes! -> https://ashtorak.itch.io/starbase-simulator\n\nThere will always be an older version of the game on Itch, just without multiplayer, that is free to download and try.\nHere on the store you get early access to the newest version of StarbaseSim with multiplayer, and of course, you support the development of the game.\n\n### What's the plan?\n\nThe basic idea with this project is to closely follow and recreate the developments of the real Starbase.\nRead the [Itch page](https://ashtorak.itch.io/starbase-simulator) for more details. This will stay in early access for a long time probably. There is lots of stuff to add and things to fix.\n\n### What's the catch?\n\nSpaceX tries to catch the first and second stage with the same tower where the rocket lifts off in order to rapidly reuse it, like an airplane, which would reduce costs to launch something to space enormously.\nOr are you asking about the game? In that case it's simple, you buy it once, you get everything, all features and all future updates, and of course, you can always use single-player offline. Price will go up though in the future, so better get it now.\n\n<!--image-->\n![StarbaseSim-a0nnn](https://cdn1.epicgames.com/spt-assets/ff4ee955331040889ca4094aa3c6a30f/starbasesim-a0nnn.png)\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "0083b283cd4d48b8b98a37f969829272",
   "creationDate": "2023-06-13T12:51:03.931Z",
-  "lastModifiedDate": "2024-12-20T20:00:04.864Z",
+  "lastModifiedDate": "2024-12-28T09:17:39.479Z",
   "effectiveDate": "2024-08-30T19:00:00.000Z",
   "viewableDate": "2024-08-26T20:41:56.928Z",
   "developer": null,
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17197,
+      "referenceCount": 17202,
       "comment": null
     },
     {
@@ -169,6 +169,78 @@
       "uploadedDate": "2024-08-22T10:33:43.508Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://4ec38df2-47c4-4419-b1a5-7b53de5522c7?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fff4ee955331040889ca4094aa3c6a30f%2Fstarbasesim-video-a1hwj.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 72452613,
+      "uploadedDate": "2024-08-19T21:32:48.821Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://f0c32fb0-5ccc-4f56-ae38-30598a5f996a?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fff4ee955331040889ca4094aa3c6a30f%2Fstarbasesim-video-vjlag.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 133008382,
+      "uploadedDate": "2024-09-10T08:47:04.525Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff4ee955331040889ca4094aa3c6a30f/starbasesim-1ot9y.JPG",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 265972,
+      "uploadedDate": "2024-12-27T17:12:10.774Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff4ee955331040889ca4094aa3c6a30f/starbasesim-1enhe.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1768966,
+      "uploadedDate": "2024-08-21T19:27:29.770Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff4ee955331040889ca4094aa3c6a30f/starbasesim-cigum.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2730747,
+      "uploadedDate": "2024-08-19T22:01:53.668Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff4ee955331040889ca4094aa3c6a30f/starbasesim-gj2w2.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2010913,
+      "uploadedDate": "2024-08-21T19:27:23.592Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff4ee955331040889ca4094aa3c6a30f/starbasesim-12h20.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1639057,
+      "uploadedDate": "2024-08-21T19:27:26.887Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ff4ee955331040889ca4094aa3c6a30f/starbasesim-16307.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 984220,
+      "uploadedDate": "2024-10-27T13:05:41.302Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
