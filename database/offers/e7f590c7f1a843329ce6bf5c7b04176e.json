@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "0bf32240a9524c128463435110dd6027",
   "creationDate": "2024-01-24T16:04:33.544Z",
-  "lastModifiedDate": "2024-12-27T17:37:07.413Z",
+  "lastModifiedDate": "2025-01-09T20:48:42.185Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-01-24T16:04:15.785Z",
+  "viewableDate": "2024-01-24T16:04:15.000Z",
   "developer": null,
   "seller": {
     "id": "o-mtzxhrerrx2gk2mbqyj8sclktle6xp",
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "1344",
-      "name": "Fighting",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2023-08-22T18:49:21.482Z",
-      "status": "ACTIVE",
-      "referenceCount": 129,
-      "comment": null
-    },
     {
       "id": "1216",
       "name": "Action",
@@ -57,6 +45,18 @@
       "updated": "2023-08-23T05:17:12.937Z",
       "status": "ACTIVE",
       "referenceCount": 2167,
+      "comment": null
+    },
+    {
+      "id": "1344",
+      "name": "Fighting",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2023-08-22T18:49:21.482Z",
+      "status": "ACTIVE",
+      "referenceCount": 129,
       "comment": null
     },
     {
@@ -80,7 +80,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 230,
+      "referenceCount": 227,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17279,
+      "referenceCount": 17280,
       "comment": null
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3325,
+      "referenceCount": 3329,
       "comment": null
     }
   ],
