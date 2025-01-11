@@ -3,12 +3,12 @@
   "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
   "title": "Crashlands",
   "description": "TIME Magazine Top 10 Games of 2016 Craft, battle, and quest your way through Crashlands, a story-driven Crafting ARPG overflowing with sass!",
-  "longDescription": "",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Crashlands\n<!--text-->\n\"Usually I can say what a game IS and be done, but it's hard to figure out what Crashlands ISN'T. It's a funny, crafty, fighty, jumpy, makey, adventurey, type... thing. I think they started making a cool game and just couldn't stop. \" - Tycho, Penny Arcade\n\nBecome Flux Dabes, a galactic trucker whose latest shipment gets derailed by a chin-strapped alien menace named Hewgodooko, leaving you stranded on an alien planet.\n\nAs you hustle to retrieve your packages you’ll become enmeshed in a nefarious plot of world domination, which will require all of your wits and both of your glutes to overcome.\n\nLearn recipes from the local sentient life, make new friends, uncover ancient secrets and deadly bosses, tame everything and build yourself a home-away-from-home as you learn to thrive on planet Woanope.\n\n<!--textBlock-->\n<!--title-->\n# Expansive Crafting System\n<!--text-->\nUnlock over 500 craftable items as you explore the world and learn its secrets!\n\n<!--textBlock-->\n<!--title-->\n# Self-managing, Infinite Inventory\n<!--text-->\nIn Crashlands, your inventory is infinite, manages itself, and retrieves your tools when you need them, so you can focus on adventuring, questing, and building. You'll never have dig through your bag or return to your base to free up inventory space!\n\n<!--textBlock-->\n<!--title-->\n# RPG-Style Character Progression\n<!--text-->\nBecome more powerful through creating ever-more-amazing items! As you grow in power, you can venture to new regions of the world, meet strange characters, discover new stories, and encounter new and interesting enemies.\n\n<!--textBlock-->\n<!--title-->\n# Skill-Based Combat\n<!--text-->\nLearn the attacks of the enemies you encounter, and use your skill, agility, & wits to defeat them! You can even augment your fighting prowess with the power of the dozens of gadgets you can craft. Set your enemies on fire, stun them, slow down time, and more!\n\n<!--textBlock-->\n<!--title-->\n# Intuitive Base Building\n<!--text-->\nBuilding a base in Crashlands is so simple it feels like fingerpainting. You can create beautiful, sprawling bases in minutes!\n\n<!--textBlock-->\n<!--title-->\n# Tameable Creatures\n<!--text-->\nEvery creature in Crashlands can become a trusty combat sidekick. Find an egg, incubate it, and hatch your very own adorable or hideous bundle of joy. You can even craft special items to grow and empower them!\n\n<!--textBlock-->\n<!--title-->\n# Huge World... with Huge Problems\n<!--text-->\nFour sentient races, three continents, an epic bid for the future of the planet, and you - trapped in the middle, trying to deliver your freakin' packages. Take your time to dive into the sidestories or just rush headlong into making that special delivery.\n",
   "status": "ACTIVE",
   "productSlug": "crashlands/home",
   "urlSlug": "peridotgeneralaudience",
   "creationDate": "2020-03-16T16:10:41.171Z",
-  "lastModifiedDate": "2024-10-19T00:48:49.860Z",
+  "lastModifiedDate": "2025-01-10T14:43:45.906Z",
   "effectiveDate": "2020-04-30T15:00:00.000Z",
   "viewableDate": "2020-04-23T15:00:00.000Z",
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
       "id": "21109",
       "name": "Great Boss Battles",
       "namespace": null,
@@ -99,18 +87,6 @@
       "comment": null
     },
     {
-      "id": "21147",
-      "name": "Inclusive Character Customization",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:36:07.333Z",
-      "updated": "2023-08-22T16:40:57.276Z",
-      "status": "ACTIVE",
-      "referenceCount": 166,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -119,8 +95,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17280,
+      "referenceCount": 17294,
       "comment": null
+    },
+    {
+      "id": "21147",
+      "name": "Inclusive Character Customization",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:36:07.333Z",
+      "updated": "2023-08-22T16:40:57.276Z",
+      "status": "ACTIVE",
+      "referenceCount": 165,
+      "comment": ""
     },
     {
       "id": "1117",
@@ -149,12 +137,32 @@
   ],
   "customAttributes": [
     {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
     },
     {
       "key": "publisherName",
       "value": "Butterscotch Shenanigans"
+    },
+    {
+      "key": "developerName",
+      "value": "Butterscotch Shenanigans"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -172,38 +180,11 @@
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S1-2560x1440-2971f9f3be6e0b5b7e69818577240f54.jpg",
-      "md5": "2971f9f3be6e0b5b7e69818577240f54",
-      "size": 472068,
-      "uploadedDate": "2020-03-31T02:15:24.042Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg",
       "md5": "e6c8ea92aee1ce922cd67bc9355e0ea3",
       "size": 276259,
       "uploadedDate": "2020-03-31T02:15:37.531Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg",
-      "md5": "e6c8ea92aee1ce922cd67bc9355e0ea3",
-      "size": 276259,
-      "uploadedDate": "2020-03-31T02:15:48.094Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg",
-      "md5": "e6c8ea92aee1ce922cd67bc9355e0ea3",
-      "size": 276259,
-      "uploadedDate": "2020-03-31T02:16:09.416Z",
       "width": 860,
       "height": 1148
     },
@@ -215,6 +196,51 @@
       "uploadedDate": "2020-04-23T06:10:49.013Z",
       "width": 860,
       "height": 1148
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://77e6635c-51bb-46d6-937f-8c583c6126e4?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F887d6ccb7419441da64ce208b7490aa7%2Fcrashlands-video-srs99.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-21T21:02:47.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcrashlands%2Fhome%2FEGS_Crashlands_ButterscotchShenanigans_G1A_01-1920x1080-123c086e0f3da4404bd7815a95de6583804164bf.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-21T21:02:47.642Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcrashlands%2Fhome%2FEGS_Crashlands_ButterscotchShenanigans_G1A_02-1920x1080-ab676b69c6073492f9cab8745760976a3f3c9dec.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-21T21:02:47.642Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcrashlands%2Fhome%2FEGS_Crashlands_ButterscotchShenanigans_G1A_03-1920x1080-fb8a8e6982cbcd1fcab594110b2e54d9fe091860.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-21T21:02:47.642Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcrashlands%2Fhome%2FEGS_Crashlands_ButterscotchShenanigans_G1A_04-1920x1080-1c7d364d3fc744b2314c6854dbf49310635075ed.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-21T21:02:47.642Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
