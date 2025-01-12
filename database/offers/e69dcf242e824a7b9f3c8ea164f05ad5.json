@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "3dc42ec9c22c499f8774ae43b62b878f",
   "creationDate": "2024-08-08T14:10:21.151Z",
-  "lastModifiedDate": "2024-12-30T16:21:14.266Z",
+  "lastModifiedDate": "2025-01-11T14:32:51.397Z",
   "effectiveDate": "2024-10-28T05:00:00.000Z",
   "viewableDate": "2024-10-27T20:44:23.000Z",
   "developer": null,
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 121,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -56,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17294,
+      "referenceCount": 17293,
       "comment": null
     },
     {
@@ -83,7 +95,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
