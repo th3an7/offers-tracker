@@ -3,12 +3,12 @@
   "namespace": "82aa77fde0b14916a86b66b1e6345c30",
   "title": "RIDE 5 - Speed With Style Pack",
   "description": "With RIDE 5 - Speed With Style Pack you can experience the joy of riding motorcycles, combining design with exceptional performance, at the spectacular Fuji Speedway!",
-  "longDescription": "The RIDE 5 - Speed With Style Pack includes:\n- Aprilia RSV4-X Trenta (2022)\n- KTM RC 8C (2023)\n- Moto Guzzi MGS-01 CORSA (2004)\n- MV Agusta Superveloce 1000 Serie Oro (2023)\n- Triumph Speed Triple 1200 RR (2022)\n- Track: Fuji Speedway\n\nWith the Speed With Style Pack, you can experience the joy of riding motorcycles, combining design with exceptional performance, in the spectacular setting of Fuji Speedway – a place that combines the scenery's beauty with the adrenaline of one of the most challenging circuits in the world!\n\nIf you're a fan of limited editions, don't miss out on an uncompromising track motorcycle, such as the 135 hp KTM RC 8C, weighing only 163 kg, or the aerodynamic RSV4-X Trenta, created to celebrate 30 years since Aprilia's first world championship. \nEnjoy two models that pay homage to the past: the hypernaked bike Triumph Speed Triple1200 RR, which takes the engine from the RS and the MV Agusta Superveloce 1000 Serie Oro, inspired by the MV 500 model, which introduced the first aerodynamic wings in 1972.\n\nAnd if you prefer a piece of history, try the latest sport motorcycle produced by Moto Guzzi: the MGS-01 CORSA! \n\nWinning is one thing, doing it with style is another!\n\nThis DLC is included in the RIDE 5 - Season Pass.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe RIDE 5 - Speed With Style Pack includes:\n- Aprilia RSV4-X Trenta (2022)\n- KTM RC 8C (2023)\n- Moto Guzzi MGS-01 CORSA (2004)\n- MV Agusta Superveloce 1000 Serie Oro (2023)\n- Triumph Speed Triple 1200 RR (2022)\n- Track: Fuji Speedway\n\nWith the Speed With Style Pack, you can experience the joy of riding motorcycles, combining design with exceptional performance, in the spectacular setting of Fuji Speedway – a place that combines the scenery's beauty with the adrenaline of one of the most challenging circuits in the world!\n\nIf you're a fan of limited editions, don't miss out on an uncompromising track motorcycle, such as the 135 hp KTM RC 8C, weighing only 163 kg, or the aerodynamic RSV4-X Trenta, created to celebrate 30 years since Aprilia's first world championship. \nEnjoy two models that pay homage to the past: the hypernaked bike Triumph Speed Triple1200 RR, which takes the engine from the RS and the MV Agusta Superveloce 1000 Serie Oro, inspired by the MV 500 model, which introduced the first aerodynamic wings in 1972.\n\nAnd if you prefer a piece of history, try the latest sport motorcycle produced by Moto Guzzi: the MGS-01 CORSA! \n\nWinning is one thing, doing it with style is another!\n\nThis DLC is included in the RIDE 5 - Season Pass.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "ride-5--speed-with-style-pack",
-  "creationDate": "2023-02-18T00:11:47.971Z",
-  "lastModifiedDate": "2024-12-12T11:20:23.392Z",
+  "creationDate": "2025-01-10T09:19:30.970Z",
+  "lastModifiedDate": "2025-01-13T10:12:42.958Z",
   "effectiveDate": "2024-02-22T08:00:00.000Z",
   "viewableDate": "2024-02-22T08:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": ""
     },
     {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -56,20 +68,20 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4751,
+      "referenceCount": 4753,
       "comment": ""
     },
     {
-      "id": "24570",
-      "name": "Holiday Sale",
-      "namespace": null,
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2025-01-09T16:00:18.287Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
-      "referenceCount": 3512,
-      "comment": ""
+      "referenceCount": 5001,
+      "comment": null
     },
     {
       "id": "9547",
@@ -80,11 +92,52 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17295,
+      "referenceCount": 17313,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "Racing",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2023-08-23T04:55:54.861Z",
+      "status": "ACTIVE",
+      "referenceCount": 244,
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Milestone S.r.l."
+    },
+    {
+      "key": "developerName",
+      "value": "Milestone S.r.l."
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -103,15 +156,6 @@
       "uploadedDate": "2023-12-15T11:57:46.870Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/82aa77fde0b14916a86b66b1e6345c30/EGS_RIDE5SpeedwithStylePack_MilestoneSrl_DLC_IC1_200x200-4e3fa8f6cb13f0fd7524c652b5bb15d8",
-      "md5": "4e3fa8f6cb13f0fd7524c652b5bb15d8",
-      "size": 13613,
-      "uploadedDate": "2023-12-15T11:57:51.619Z",
-      "width": 200,
-      "height": 200
     },
     {
       "type": "Thumbnail",
