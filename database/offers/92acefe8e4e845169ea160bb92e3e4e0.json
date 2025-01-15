@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "082feb1b59ce4ae293e03d3cd576353f",
   "creationDate": "2024-05-22T13:06:45.321Z",
-  "lastModifiedDate": "2025-01-09T16:01:17.978Z",
+  "lastModifiedDate": "2025-01-14T20:15:34.011Z",
   "effectiveDate": "2025-01-09T16:00:00.000Z",
   "viewableDate": "2025-01-02T16:00:00.000Z",
   "developer": null,
@@ -47,8 +47,56 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1683,
+      "referenceCount": 1691,
       "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4785,
+      "comment": ""
+    },
+    {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 188,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17340,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3347,
+      "comment": null
     },
     {
       "id": "1393",
@@ -75,18 +123,6 @@
       "comment": null
     },
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 4753,
-      "comment": ""
-    },
-    {
       "id": "22776",
       "name": "Cross Platform",
       "namespace": null,
@@ -95,7 +131,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 840,
+      "referenceCount": 847,
       "comment": ""
     },
     {
@@ -111,18 +147,6 @@
       "comment": null
     },
     {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -135,28 +159,16 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 17313,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 3339,
-      "comment": null
+      "referenceCount": 569,
+      "comment": ""
     },
     {
       "id": "10719",
@@ -170,8 +182,20 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1389,
+      "referenceCount": 1392,
       "comment": null
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2023-08-22T21:49:10.904Z",
+      "status": "ACTIVE",
+      "referenceCount": 437,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [

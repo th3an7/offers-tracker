@@ -2,13 +2,13 @@
   "id": "d846d2cbd4b14b08aa09916d414034d3",
   "namespace": "36b8fb441b2542f89250fc92ca761077",
   "title": "Splinter Cell Chaos Theory",
-  "description": "The year is 2008. Citywide blackouts ... stock exchange sabotage ... electronic hijacking of national defense systems ... this is information warfare.",
-  "longDescription": null,
+  "description": "The year is 2008. Citywide blackouts ... stock exchange sabotage ... electronic hijacking of national defense systems ... this is information warfare.\n",
+  "longDescription": "Splinter Cell Chaos Theory\n\nNote: Multiplayer and online features are no longer available for this product.\n\nTo prevent these attacks, operatives must infiltrate deep into hostile territory and aggressively collect critical intelligence, closer than ever to enemy soldiers.\n\nYou are Sam Fisher, the NSA's most elite black-ops agent. To achieve your mission you will kill from close range, attack with your combat knife, shoot with the prototype Land Warrior rifle, and use radical suppression techniques such as the inverted neck break. Also take on cooperative multiplayer infiltration missions, where teamwork is the ultimate weapon.\nAs the enemy evolves, so must you.\n\nDeadly agility - Incredibly complete and fluid variety of moves including athletic moves, stealth moves, stealth kills.\nReal weapons of tomorrow - The most complete arsenal of weapons and gadgets, from the knife to the experimental Land Warrior System.\nAs good as real - Never-before-seen graphics technology offers the best visuals on any system yet. Advanced physics engine allowing rag doll physics, particle effects, and perfect interaction with the environment.\nUltimate challenge - Intelligent AI with personal attributes, natural behavior where NPCs are aware of their environments and remember past events.\nAmazing replayability - Totally open level design with multipaths and optional secondary objectives.",
   "status": "ACTIVE",
   "productSlug": "splinter-cell-chaos-theory",
   "urlSlug": "splinter-cell-chaos-theory",
   "creationDate": "2020-08-11T20:30:08.495Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.504Z",
+  "lastModifiedDate": "2025-01-14T14:08:56.075Z",
   "effectiveDate": "2021-03-30T15:00:00.000Z",
   "viewableDate": "2021-03-30T15:00:00.000Z",
   "developer": null,
@@ -31,10 +31,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -83,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17313,
+      "referenceCount": 17340,
       "comment": null
     },
     {
@@ -119,38 +119,20 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Landscape_2560x1440-2560x1440-d525349cf3b27e14b9538841838ae3bc.jpg",
-      "md5": "d525349cf3b27e14b9538841838ae3bc",
-      "size": 716736,
-      "uploadedDate": "2021-03-24T21:32:46.551Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
-      "md5": "481e408ce10e2158a965a310d41c8f6c",
-      "size": 804511,
-      "uploadedDate": "2021-03-24T21:32:49.591Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
-      "md5": "481e408ce10e2158a965a310d41c8f6c",
-      "size": 804511,
-      "uploadedDate": "2021-03-24T21:33:00.323Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "CodeRedemption_340x440",
       "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
       "md5": "481e408ce10e2158a965a310d41c8f6c",
       "size": 804511,
       "uploadedDate": "2021-03-24T21:33:02.927Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
+      "md5": "481e408ce10e2158a965a310d41c8f6c",
+      "size": 804511,
+      "uploadedDate": "2021-03-24T21:33:43.225Z",
       "width": 1200,
       "height": 1600
     },
@@ -164,11 +146,29 @@
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
+      "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
       "md5": "481e408ce10e2158a965a310d41c8f6c",
       "size": 804511,
-      "uploadedDate": "2021-03-24T21:33:43.225Z",
+      "uploadedDate": "2021-03-24T21:32:49.591Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Landscape_2560x1440-2560x1440-d525349cf3b27e14b9538841838ae3bc.jpg",
+      "md5": "d525349cf3b27e14b9538841838ae3bc",
+      "size": 716736,
+      "uploadedDate": "2021-03-24T21:32:46.551Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/36b8fb441b2542f89250fc92ca761077/offer/SCCT_Store_Portrait_1200x1600-1200x1600-481e408ce10e2158a965a310d41c8f6c.jpg",
+      "md5": "481e408ce10e2158a965a310d41c8f6c",
+      "size": 804511,
+      "uploadedDate": "2021-03-24T21:33:00.323Z",
       "width": 1200,
       "height": 1600
     }

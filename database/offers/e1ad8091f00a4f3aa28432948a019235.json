@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "prophet-s-vault",
-  "creationDate": "2024-04-02T09:28:26.544Z",
-  "lastModifiedDate": "2024-04-02T09:28:26.544Z",
+  "creationDate": "2024-03-12T17:09:24.289Z",
+  "lastModifiedDate": "2025-01-14T16:48:04.294Z",
   "effectiveDate": "2024-04-02T09:28:04.177Z",
   "viewableDate": "2024-04-02T09:28:04.177Z",
   "developer": null,
@@ -31,6 +31,12 @@
       "path": "spthidden/consumable"
     },
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -44,8 +50,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17313,
+      "referenceCount": 17340,
       "comment": null
+    },
+    {
+      "id": "39071",
+      "name": "Android",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-08-29T16:12:02.962Z",
+      "updated": "2024-12-02T23:43:54.708Z",
+      "status": "ACTIVE",
+      "referenceCount": 335,
+      "comment": ""
     }
   ],
   "customAttributes": [
