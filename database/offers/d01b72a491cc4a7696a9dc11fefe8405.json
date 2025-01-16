@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "843763f325cb40aa89d2474a6cc0c2c2",
-  "creationDate": "2024-10-03T21:00:12.350Z",
-  "lastModifiedDate": "2025-01-13T21:06:19.147Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-04-16T17:46:05.848Z",
+  "lastModifiedDate": "2025-01-15T13:17:39.043Z",
+  "effectiveDate": "2025-01-28T16:00:00.000Z",
   "viewableDate": "2024-10-03T21:00:02.345Z",
   "developer": null,
   "seller": {
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2217,
+      "comment": ""
+    },
+    {
       "id": "1287",
       "name": "Fantasy",
       "namespace": "epic",
@@ -68,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4785,
+      "referenceCount": 4787,
       "comment": ""
     },
     {
@@ -104,22 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17340,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1392,
+      "referenceCount": 17357,
       "comment": null
     }
   ],
@@ -148,30 +145,102 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-1wb6c.jpg",
-      "md5": "9cc62f22245cf5ff088d9cbe685b5928",
-      "size": 2458884,
-      "uploadedDate": "2024-09-25T17:36:28.288Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-ed012.jpg",
+      "md5": "3d2e26609a2c5cbdf129165d145236b6",
+      "size": 906707,
+      "uploadedDate": "2024-11-27T19:44:24.495Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-tylr3.png",
-      "md5": "e02cc1bf701137f99aadf58ab789afd4",
-      "size": 2918777,
-      "uploadedDate": "2024-09-25T17:35:19.027Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-sducx.jpg",
+      "md5": "e64e553383b3306e220eaf542d0892ca",
+      "size": 559509,
+      "uploadedDate": "2024-11-27T19:44:28.412Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-tylr3.png",
-      "md5": "e02cc1bf701137f99aadf58ab789afd4",
-      "size": 2918777,
-      "uploadedDate": "2024-09-25T17:35:19.027Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-sducx.jpg",
+      "md5": "e64e553383b3306e220eaf542d0892ca",
+      "size": 559509,
+      "uploadedDate": "2024-11-27T19:44:28.412Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://fea9cac9-5a49-4c40-912b-c27efd3ace13?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F50033abd4a7040c4889f9426e75cb384%2Feternal-strands-video-13po7.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 228894557,
+      "uploadedDate": "2024-12-12T20:14:04.659Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://d7d459c4-8a84-4812-a06c-e40b90ab6667?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F50033abd4a7040c4889f9426e75cb384%2Feternal-strands-video-ee4ei.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 228894557,
+      "uploadedDate": "2024-11-28T04:42:13.448Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-1wiu4.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3427371,
+      "uploadedDate": "2024-09-25T17:44:10.696Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-129mc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3892603,
+      "uploadedDate": "2024-09-25T17:47:26.033Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-18bdy.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 4168589,
+      "uploadedDate": "2024-09-25T17:44:19.599Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-192zn.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3822798,
+      "uploadedDate": "2024-09-25T17:44:23.914Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-16gq5.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2625494,
+      "uploadedDate": "2024-09-25T17:44:26.854Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/50033abd4a7040c4889f9426e75cb384/eternal-strands-1of3p.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1887915,
+      "uploadedDate": "2024-09-25T17:44:29.560Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
