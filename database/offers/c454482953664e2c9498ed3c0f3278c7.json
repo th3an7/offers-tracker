@@ -2,13 +2,13 @@
   "id": "c454482953664e2c9498ed3c0f3278c7",
   "namespace": "ae248f67a46f47a6bcf8a45b2b4fdd10",
   "title": "Warhammer 40,000: Battlesector - Necrons",
-  "description": "The Necron faction DLC brings fourteen new units to Warhammer 40,000: Battlesector, with unique gameplay mechanics, weapons, and skills to bring glory to the return of the Necron empire. ",
-  "longDescription": "# About the game\n\nFor sixty million years, the Necrons have slept in their tombs. Now they come to Battlesector!\nThe Necron faction DLC brings fourteen new units to Warhammer 40,000: Battlesector, with unique gameplay mechanics, weapons, and skills to bring glory to the return of the Necron empire.\n\n# The Dynasty of Living Metal\n\nWith bodies made of Living Metal, and Reanimation Protocols that can resurrect the fallen, the relentless march of these ancient warriors is endless. Unique Momentum mechanics make the Necron army play unlike any other.\n\n# Rule Your Dynasty\n\nHQ leaders include the Necron Overlord, whose Command Protocols augment the strengths of his surrounding forces; and the mighty Plasmancer, a high damage nuker that can call down devastation with multiple earth-shattering abilities.\n\n# Control the Battlefield\n\nThe Necrons have many tools to dominate the battlefield. Warriors and Immortals march relentlessly on the opponent, while the indomitable Lychguard and the adaptable Triarch Praetorians provide tactical flexibility for any situation.\n\nThe pinpoint accuracy of the Deathmarks and Hexmark Destroyers will force your opponents to find cover. However, the devastating charge of the Skorpekh Destroyers will break even the most stalwart of defences.\n\n# Unrelenting Support\n\nHeavy Lokhust Destroyers provide devastating strikes across the battlefield, and the Annihilation Barge will leave an inevitable trail of destruction wherever it goes. Use the versatile Tomb Blades to outmanoeuvre the lesser races or rain death from the skies with airstrikes from the Doom Scythe.\n",
+  "description": "The Necron faction DLC brings fourteen new units to Warhammer 40,000: Battlesector, with unique gameplay mechanics, weapons, and skills to bring glory to the return of the Necron empire.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# About the game\n<!--text-->\n\nFor sixty million years, the Necrons have slept in their tombs. Now they come to Battlesector!\nThe Necron faction DLC brings fourteen new units to Warhammer 40,000: Battlesector, with unique gameplay mechanics, weapons, and skills to bring glory to the return of the Necron empire.\n\n<!--textBlock-->\n<!--title-->\n# The Dynasty of Living Metal\n<!--text-->\n\nWith bodies made of Living Metal, and Reanimation Protocols that can resurrect the fallen, the relentless march of these ancient warriors is endless. Unique Momentum mechanics make the Necron army play unlike any other.\n\n<!--textBlock-->\n<!--title-->\n# Rule Your Dynasty\n<!--text-->\n\nHQ leaders include the Necron Overlord, whose Command Protocols augment the strengths of his surrounding forces; and the mighty Plasmancer, a high damage nuker that can call down devastation with multiple earth-shattering abilities.\n\n<!--textBlock-->\n<!--title-->\n# Control the Battlefield\n<!--text-->\n\nThe Necrons have many tools to dominate the battlefield. Warriors and Immortals march relentlessly on the opponent, while the indomitable Lychguard and the adaptable Triarch Praetorians provide tactical flexibility for any situation.\n\nThe pinpoint accuracy of the Deathmarks and Hexmark Destroyers will force your opponents to find cover. However, the devastating charge of the Skorpekh Destroyers will break even the most stalwart of defences.\n\n<!--textBlock-->\n<!--title-->\n# Unrelenting Support\n<!--text-->\n\nHeavy Lokhust Destroyers provide devastating strikes across the battlefield, and the Annihilation Barge will leave an inevitable trail of destruction wherever it goes. Use the versatile Tomb Blades to outmanoeuvre the lesser races or rain death from the skies with airstrikes from the Doom Scythe.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "warhammer-40000-battlesector--necrons",
-  "creationDate": "2021-10-15T22:18:03.499Z",
-  "lastModifiedDate": "2024-11-18T16:06:39.683Z",
+  "creationDate": "2024-12-20T14:33:50.416Z",
+  "lastModifiedDate": "2025-01-16T11:39:04.930Z",
   "effectiveDate": "2022-04-21T17:00:00.000Z",
   "viewableDate": "2022-04-21T17:00:00.000Z",
   "developer": null,
@@ -66,6 +66,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17365,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -76,35 +88,51 @@
       "status": "ACTIVE",
       "referenceCount": 1068,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17357,
-      "comment": null
     }
   ],
   "customAttributes": [
     {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Slitherine Ltd."
+    },
+    {
+      "key": "developerName",
+      "value": "Black Lab Games"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
     {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/ae248f67a46f47a6bcf8a45b2b4fdd10/EGS_Warhammer40000BattlesectorNecrons_BlackLabGames_DLC_IC1_200x200-1e9618f4a563f102b0df1792f43a8586",
-      "md5": "1e9618f4a563f102b0df1792f43a8586",
-      "size": 29002,
-      "uploadedDate": "2021-12-28T19:00:34.469Z",
-      "width": 200,
-      "height": 200
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/ae248f67a46f47a6bcf8a45b2b4fdd10/EGS_Warhammer40000BattlesectorNecrons_BlackLabGames_DLC_S1_2560x1440-99e50f946748261b53c50bdb3ef02ed3",
+      "md5": "99e50f946748261b53c50bdb3ef02ed3",
+      "size": 544918,
+      "uploadedDate": "2021-12-28T19:01:20.993Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
@@ -116,29 +144,11 @@
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/ae248f67a46f47a6bcf8a45b2b4fdd10/EGS_Warhammer40000BattlesectorNecrons_BlackLabGames_DLC_S1_2560x1440-99e50f946748261b53c50bdb3ef02ed3",
-      "md5": "99e50f946748261b53c50bdb3ef02ed3",
-      "size": 544918,
-      "uploadedDate": "2021-12-28T19:01:20.993Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/ae248f67a46f47a6bcf8a45b2b4fdd10/EGS_Warhammer40000BattlesectorNecrons_BlackLabGames_DLC_S2_1200x1600-93596aea7cadc92eaa29518ed934eb79",
-      "md5": "93596aea7cadc92eaa29518ed934eb79",
-      "size": 656529,
-      "uploadedDate": "2021-12-28T19:01:24.414Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/offer/ae248f67a46f47a6bcf8a45b2b4fdd10/EGS_Warhammer40000BattlesectorNecrons_BlackLabGames_DLC_S2_1200x1600-93596aea7cadc92eaa29518ed934eb79",
       "md5": "93596aea7cadc92eaa29518ed934eb79",
       "size": 656529,
-      "uploadedDate": "2021-12-28T19:01:26.981Z",
+      "uploadedDate": "2021-12-28T19:01:18.099Z",
       "width": 1200,
       "height": 1600
     },

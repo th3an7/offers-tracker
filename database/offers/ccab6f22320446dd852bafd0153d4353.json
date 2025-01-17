@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "c64fcba8da8842b4b73a7bc4cd6e0aff",
   "creationDate": "2023-11-06T14:04:48.542Z",
-  "lastModifiedDate": "2025-01-14T20:59:56.321Z",
+  "lastModifiedDate": "2025-01-16T11:38:01.919Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-03-03T18:40:43.991Z",
   "developer": null,
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17357,
+      "referenceCount": 17365,
       "comment": null
     },
     {
@@ -106,6 +106,21 @@
       "status": "ACTIVE",
       "referenceCount": 1176,
       "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1391,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -123,7 +138,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -157,6 +172,60 @@
       "uploadedDate": "2024-03-01T15:57:24.044Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://06115510-e9bf-4a61-974d-959a5b7a063f?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F796d86745a404abe8c6159a2ea304152%2Fskystead-ranch-video-1lkm2.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 167236227,
+      "uploadedDate": "2025-01-02T16:36:01.682Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-y0i17.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2510256,
+      "uploadedDate": "2024-05-02T11:54:24.415Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-17sa0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2286338,
+      "uploadedDate": "2024-05-02T11:54:27.074Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-r4bqz.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2468684,
+      "uploadedDate": "2024-05-02T11:54:30.466Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-1w4hk.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2247853,
+      "uploadedDate": "2024-05-02T11:54:35.717Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/796d86745a404abe8c6159a2ea304152/skystead-ranch-5q5oe.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2427640,
+      "uploadedDate": "2024-05-02T11:54:40.867Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
