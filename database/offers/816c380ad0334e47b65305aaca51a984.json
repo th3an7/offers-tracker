@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a866d43d6b4c48f8868dd4b24ea50f27",
   "creationDate": "2023-08-07T18:51:52.155Z",
-  "lastModifiedDate": "2025-01-14T21:42:55.620Z",
+  "lastModifiedDate": "2025-01-17T02:17:28.192Z",
   "effectiveDate": "2025-01-14T18:00:00.000Z",
   "viewableDate": "2024-08-21T21:00:01.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2218,
+      "referenceCount": 2219,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17365,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -105,6 +93,18 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17372,
       "comment": null
     },
     {
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3350,
+      "referenceCount": 3353,
       "comment": null
     }
   ],

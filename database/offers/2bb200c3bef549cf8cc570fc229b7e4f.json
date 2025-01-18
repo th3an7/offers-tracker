@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "deadzone-rogue-demo",
-  "creationDate": "2024-11-25T21:54:13.318Z",
-  "lastModifiedDate": "2024-11-25T21:54:13.318Z",
+  "creationDate": "2024-11-13T16:40:39.345Z",
+  "lastModifiedDate": "2025-01-17T22:18:04.172Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-11-25T21:53:54.000Z",
   "developer": null,
@@ -69,6 +69,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17372,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -78,18 +90,6 @@
       "updated": "2023-08-23T05:17:12.960Z",
       "status": "ACTIVE",
       "referenceCount": 204,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17365,
       "comment": null
     }
   ],
@@ -142,6 +142,24 @@
       "uploadedDate": "2024-11-13T19:36:46.929Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://f83b24c4-80c0-4594-be11-fe4f434241ee?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff0ac8939c29044bd9c188cb3146d122d%2Fdeadzone-rogue-video-fv80s.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 67040281,
+      "uploadedDate": "2024-12-17T15:48:03.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://cc96011b-5da8-4726-a39c-effcca1163d0?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff0ac8939c29044bd9c188cb3146d122d%2Fdeadzone-rogue-video-17wm4.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 46493384,
+      "uploadedDate": "2024-12-17T15:47:38.980Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "featuredMedia",

@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "a3180b050b164df88653331ec2060065",
-  "creationDate": "2024-12-06T17:00:03.675Z",
-  "lastModifiedDate": "2024-12-06T17:00:03.675Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-08-05T21:20:24.279Z",
+  "lastModifiedDate": "2025-01-17T14:43:20.329Z",
+  "effectiveDate": "2025-01-22T17:30:00.000Z",
   "viewableDate": "2024-12-06T17:00:01.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -96,18 +96,6 @@
       "comment": ""
     },
     {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -120,6 +108,18 @@
       "comment": null
     },
     {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 188,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -128,8 +128,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17365,
+      "referenceCount": 17372,
       "comment": null
+    },
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-06-24T20:06:43.344Z",
+      "updated": "2024-10-25T20:00:26.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 242,
+      "comment": ""
     },
     {
       "id": "1181",
@@ -186,11 +198,11 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
-      "value": "false"
+      "value": "true"
     }
   ],
   "keyImages": [
