@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a63f32ae001840f28809f60796d448a0",
   "creationDate": "2023-03-09T15:30:43.719Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.285Z",
+  "lastModifiedDate": "2025-01-20T13:38:24.090Z",
   "effectiveDate": "2024-07-16T13:00:00.000Z",
   "viewableDate": "2024-07-08T13:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4785,
+      "referenceCount": 4787,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17385,
+      "referenceCount": 17389,
       "comment": null
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3360,
+      "referenceCount": 3362,
       "comment": null
     }
   ],
@@ -133,30 +133,93 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-4432r.jpg",
-      "md5": "1966db6344a0a156a6523cc4a67e9fb5",
-      "size": 498843,
-      "uploadedDate": "2024-07-03T22:38:06.582Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-wz2o7.jpg",
+      "md5": "ebd9052122e3409f051f20fcb3f735ce",
+      "size": 764295,
+      "uploadedDate": "2025-01-15T20:45:44.768Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-oxlq9.jpg",
-      "md5": "6dc3fa8dabc99c10a77bc056ae466b27",
-      "size": 367752,
-      "uploadedDate": "2024-07-03T22:40:49.912Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-49qxs.jpg",
+      "md5": "24f5765a429fd7c5829e14ef08c69fca",
+      "size": 437814,
+      "uploadedDate": "2025-01-15T20:45:33.886Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-oxlq9.jpg",
-      "md5": "6dc3fa8dabc99c10a77bc056ae466b27",
-      "size": 367752,
-      "uploadedDate": "2024-07-03T22:40:49.912Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-49qxs.jpg",
+      "md5": "24f5765a429fd7c5829e14ef08c69fca",
+      "size": 437814,
+      "uploadedDate": "2025-01-15T20:45:33.886Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://81078e8a-2b59-4ea3-9025-13f9bc84fbda?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbaf41eddf0d74df086729b280cc00ae9%2Ftiny-witch-video-63ft2.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 136161135,
+      "uploadedDate": "2024-07-04T14:37:47.043Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-17g4b.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 54797,
+      "uploadedDate": "2025-01-15T20:28:25.426Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-1yfca.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 66731,
+      "uploadedDate": "2025-01-15T20:28:25.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-1gace.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 50776,
+      "uploadedDate": "2025-01-15T20:28:25.755Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-ypx6w.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 75511,
+      "uploadedDate": "2025-01-15T20:28:25.530Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-t6juw.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 85181,
+      "uploadedDate": "2025-01-15T20:28:25.477Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/baf41eddf0d74df086729b280cc00ae9/tiny-witch-77vzl.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 32016,
+      "uploadedDate": "2025-01-15T20:28:25.335Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
