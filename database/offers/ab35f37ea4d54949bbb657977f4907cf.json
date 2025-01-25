@@ -2,13 +2,13 @@
   "id": "ab35f37ea4d54949bbb657977f4907cf",
   "namespace": "359ed81fde234ff2a1b190ba60da928e",
   "title": "KOMPETE",
-  "description": "KOMPETE is an all-in-one multiplayer game. Current game modes include Blitz Royale and Kart Race, with more coming soon! Now in Early Access.",
-  "longDescription": null,
+  "description": "The first realistic gaming platform: Blitz Royale, Kart Race, Social Deduction, & more coming soon! Play Early Access now.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# The first realistic gaming platform: Blitz Royale, Kart Race, Social Deduction, & more coming soon! Play Early Access now.\n<!--text-->\nKOMPETE is the first realistic multiplayer gaming platform, free-to-play, cross-platform, and packed with a variety of games all in a cohesive realistic art style.\n\n**Platform Highlights**\n\nMultiple Games, One Platform: From shooters to racing, every game is crafted with standalone quality while seamlessly connecting you to a larger world.\nCrossplay and Cross-Progression: Play anywhere, with anyone, and keep your progress synced across all devices.\nPlayer Builder: Create unique player builds with attributes and traits tailored to fit your playstyle in each game.\nStunning Realism: Powered by Unreal Engine 5, KOMPETE delivers cutting-edge visuals and lifelike immersion.\nProximity Chat: Coordinate, strategize, or trash-talk in real time with voice chat based on your location in-game.\nConstant Evolution: With regular updates, new games, and fresh features, KOMPETE never stops improving.\n\n**Blitz Royale: A fast-paced Battle Royale**\n\nExosuits: Boost, scale walls, and outmaneuver your enemy.\nSpawn Items: Deploy a drone to spawn protection or mobility items to flip the fight.\nRedemption: Respawn into the fight if your squad survives long enough.\nFast Action: Matches are less than 10 minutes with intensity & minimal downtime.\nGood Loot: Every weapon can be game-changing if used skillfully.\nPlayer Builder: Tailor your character to your playstyle via attributes and traits.\n\n**Kart Race: A high-octane kart race**\n\nWeapons: Use offensive and defensive tools to outmaneuver and disable rivals.\nNitro Boosts: Burst ahead with exhilarating speed boosts for critical overtakes.\nDrifting: Perfect your cornering skills to maintain control and gain an edge.\nUtility Items: Deploy power-ups to gain advantages or sabotage your competition.\nMultiple Tracks: Race across diverse courses, each with unique layouts and challenges.\nObstacles: Navigate hazards like ramps, oil slicks, and barriers that can disrupt your race.\nPlayer Builder: Tailor your character to your playstyle via attributes and traits.\n\n**Social Deduction: A chaotic game of deception & survival**\n\nDynamic Roles: Take on the role of Thug, Guard, or Civilian, each with unique objectives.\nThug: Sabotage and eliminate others to win.\nGuard: Protect Civilians and hunt the Thug using weapons.\nCivilian: Complete tasks, avoid the Thug, and survive at all costs.\nPlayer Builder: Tailor your character to your playstyle via attributes and traits.\n\n**Early Access**\n\nKOMPETE is currently in Early Access, featuring Blitz Royale, Kart Race, and Social Deduction. Join thousands of players as we expand, refine, and build the ultimate platform for multiplayer gaming. By playing now, you’ll help shape the future of KOMPETE and get a head start in creating your legacy. \n\n**Download**\n\nDownload KOMPETE today and start playing for free!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "a168f9d03b3b4962888b674806aa65c4",
   "creationDate": "2023-09-02T02:07:17.049Z",
-  "lastModifiedDate": "2025-01-10T19:26:07.838Z",
+  "lastModifiedDate": "2025-01-24T17:17:05.502Z",
   "effectiveDate": "2023-10-16T07:00:00.000Z",
   "viewableDate": "2023-09-07T05:30:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-05-17T21:06:21.330Z",
       "updated": "2023-08-16T00:30:02.340Z",
       "status": "ACTIVE",
-      "referenceCount": 144,
+      "referenceCount": 145,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -92,8 +92,20 @@
       "created": "2022-05-17T21:16:32.830Z",
       "updated": "2023-09-26T16:06:19.633Z",
       "status": "ACTIVE",
-      "referenceCount": 168,
+      "referenceCount": 169,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17534,
+      "comment": null
     },
     {
       "id": "21739",
@@ -108,18 +120,6 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17524,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3370,
+      "referenceCount": 3372,
       "comment": null
     },
     {
@@ -176,7 +176,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 857,
+      "referenceCount": 858,
       "comment": ""
     },
     {
@@ -224,7 +224,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 441,
+      "referenceCount": 443,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -236,6 +236,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
