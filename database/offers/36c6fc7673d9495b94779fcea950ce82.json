@@ -2,13 +2,13 @@
   "id": "36c6fc7673d9495b94779fcea950ce82",
   "namespace": "0be0da3613f54391b5e34a12ddbdad7a",
   "title": "Tronix CarnivalGames",
-  "description": "Tronix Carnival Games is a rogue-like blending FPS and TPS gameplay in a dystopian robotic world. Set in a ruined carnival overtaken by Tronix robots, it’s now a deadly playground. Players uncover its secrets, battle enemies, and survive unique challenges.",
+  "description": "Tronix Carnival Games is a rogue-like TPS gameplay in a dystopian robotic world. Set in a ruined carnival overtaken by Tronix robots, it’s now a deadly playground. Players uncover its secrets, battle enemies, and survive unique challenges.",
   "longDescription": "<!--textBlock-->\n<!--title-->\n# Tronix Carnival Games\n<!--text-->\nTronix Carnival Games is a rogue-like game combining first-person (FPS) and third-person (TPS) shooting, set in a dystopian robotic universe. The story takes place in an old carnival in ruins, once full of life but now controlled by the ancient Tronix robots. Bored with their existence, these robots have transformed the park into a deadly game, a cruel challenge for anyone daring to enter.\n\nPlayers take on the role of a protagonist seeking to uncover the secrets of the carnival while choosing their destiny. Each playthrough is a unique exploration, with the goal of venturing as far as possible by visiting attractions, battling hostile robots, and surviving the trials.\n\nTo progress, players can:\n\nAcquire and upgrade firearms tailored to the challenges.\nDiscover predictions, special powers that influence their playstyle.\nCollect circus-inspired equipment to enhance their abilities.\nBetween each attempt, resources gathered can be used to restore and upgrade the carnival, unlocking:\n\nShops offering items and upgrades for future runs.\nSpecial events in the park, altering the rules or providing advantages.\nTronix Carnival Games is an adventure blending exploration, customization, and strategy, offering endless replayability in a world that is both captivating and deadly.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "7c37e7b313ba4335aff97d569f5ea2bd",
   "creationDate": "2025-01-03T19:46:37.281Z",
-  "lastModifiedDate": "2025-01-26T14:02:55.140Z",
+  "lastModifiedDate": "2025-01-27T15:25:15.688Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-01-12T09:50:34.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17567,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -69,18 +81,6 @@
       "updated": "2023-08-23T05:17:12.960Z",
       "status": "ACTIVE",
       "referenceCount": 204,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17555,
       "comment": null
     },
     {
@@ -159,20 +159,20 @@
       "height": 1600
     },
     {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://5d2c7827-6fb4-4cbc-9fd9-2437c8fc7983?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F51db101ab1504751805a848971238400%2Ftronix-carnival-games-video-1fsbh.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 274744988,
+      "uploadedDate": "2025-01-19T05:09:11.494Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/51db101ab1504751805a848971238400/tronix-carnivalgames-h425n.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 2468422,
       "uploadedDate": "2025-01-07T00:20:38.424Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://ed46c128-6d85-4348-9214-984b367223bf?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F51db101ab1504751805a848971238400%2Ftronix-carnivalgames-video-18wvg.png",
-      "md5": "comepicgamesvideomd5hashconstant",
-      "size": 234071200,
-      "uploadedDate": "2025-01-10T11:11:38.379Z",
       "width": 1920,
       "height": 1080
     },
