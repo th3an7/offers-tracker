@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "6bccd5add2d84c089878e375e20f0ac9",
   "creationDate": "2024-03-05T06:47:30.464Z",
-  "lastModifiedDate": "2025-01-23T16:20:43.480Z",
+  "lastModifiedDate": "2025-01-28T14:57:45.622Z",
   "effectiveDate": "2025-01-28T12:00:00.000Z",
-  "viewableDate": "2024-07-17T13:07:25.060Z",
+  "viewableDate": "2024-07-17T13:07:25.000Z",
   "developer": null,
   "seller": {
     "id": "o-fvarnus9zssf4lmv953ylzl3sbe4qc",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1712,
+      "referenceCount": 1716,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2230,
+      "referenceCount": 2228,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4806,
+      "referenceCount": 4827,
       "comment": ""
     },
     {
@@ -132,18 +132,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17567,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -156,6 +144,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17573,
+      "comment": null
+    },
+    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -164,7 +164,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3376,
+      "referenceCount": 3375,
       "comment": null
     }
   ],
@@ -220,10 +220,10 @@
     },
     {
       "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://9556fd32-d753-4bf8-a6aa-435f0802d9da?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F966cfb3f0af649e98706c723627ebb21%2Fburst-video-1xibc.jpg",
+      "url": "com.epicgames.video://86bbbe5b-e6a1-47fa-9004-c0fed5dd42d6?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F966cfb3f0af649e98706c723627ebb21%2Forcs-must-die-deathtrap-video-1nq4x.jpg",
       "md5": "comepicgamesvideomd5hashconstant",
-      "size": 163506974,
-      "uploadedDate": "2024-07-02T19:42:23.226Z",
+      "size": 121000385,
+      "uploadedDate": "2025-01-22T23:33:56.683Z",
       "width": 1920,
       "height": 1080
     },
@@ -278,6 +278,51 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 899099,
       "uploadedDate": "2024-07-09T23:25:12.397Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/966cfb3f0af649e98706c723627ebb21/orcs-must-die-deathtrap-ga6hv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 279739,
+      "uploadedDate": "2025-01-22T23:51:46.199Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/966cfb3f0af649e98706c723627ebb21/orcs-must-die-deathtrap-13lbb.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 283375,
+      "uploadedDate": "2025-01-22T23:51:54.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/966cfb3f0af649e98706c723627ebb21/orcs-must-die-deathtrap-1kwsu.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 266428,
+      "uploadedDate": "2025-01-22T23:51:53.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/966cfb3f0af649e98706c723627ebb21/orcs-must-die-deathtrap-74prv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 316310,
+      "uploadedDate": "2025-01-22T23:51:54.137Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/966cfb3f0af649e98706c723627ebb21/orcs-must-die-deathtrap-dg3vj.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 403835,
+      "uploadedDate": "2025-01-22T23:51:54.176Z",
       "width": 1920,
       "height": 1080
     }
