@@ -8,7 +8,7 @@
   "productSlug": "johnwickhex/home",
   "urlSlug": "vanillageneralaudience",
   "creationDate": "2019-05-09T18:28:52.578Z",
-  "lastModifiedDate": "2025-01-21T16:00:31.261Z",
+  "lastModifiedDate": "2025-01-29T11:30:33.540Z",
   "effectiveDate": "2019-10-07T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -83,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17573,
+      "referenceCount": 17564,
       "comment": null
     },
     {
@@ -113,7 +113,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1400,
+      "referenceCount": 1402,
       "comment": null
     }
   ],
@@ -141,76 +141,13 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_G1_PDPPROMO(IMAGE)-2560x1440-8a57e69657e5ae58dd7932ce2f857298.jpg",
-      "md5": "8a57e69657e5ae58dd7932ce2f857298",
-      "size": 164606,
-      "uploadedDate": "2019-05-14T15:57:58.196Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg",
-      "md5": "e470d19adfff5df32fba4fe7cbc1451e",
-      "size": 111162,
-      "uploadedDate": "2019-05-14T15:58:09.238Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_IC1_WHITE&COLOR_WIDE-1856x1440-3c09d00056c8e9722f5cea7b7b5546ab.png",
-      "md5": "3c09d00056c8e9722f5cea7b7b5546ab",
-      "size": 46145,
-      "uploadedDate": "2019-05-14T15:58:18.971Z",
-      "width": 1856,
-      "height": 1440
-    },
-    {
-      "type": "TakeoverTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/John_Wick_Hex_EpicStore_mobile-560x760-f4c59812a2783a860bc57594ebdb8313.png",
-      "md5": "f4c59812a2783a860bc57594ebdb8313",
-      "size": 530998,
-      "uploadedDate": "2019-10-07T12:43:39.596Z",
-      "width": 560,
-      "height": 760
-    },
-    {
-      "type": "TakeoverWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/John_Wick_Hex_EpicStore-1810x800-cad29ad0ceebb123374a19684ae95b57.png",
-      "md5": "cad29ad0ceebb123374a19684ae95b57",
-      "size": 1153187,
-      "uploadedDate": "2019-10-07T12:43:54.263Z",
-      "width": 1810,
-      "height": 800
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg",
-      "md5": "e470d19adfff5df32fba4fe7cbc1451e",
-      "size": 111162,
-      "uploadedDate": "2019-05-14T15:58:09.238Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg",
-      "md5": "e470d19adfff5df32fba4fe7cbc1451e",
-      "size": 111162,
-      "uploadedDate": "2019-05-14T14:57:42.826Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a9cb15d3362d43d585b8a5b13b8a4513/offer/EGS_BITHELL GAMES_JOHN WICK HEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e.jpg",
-      "md5": "e470d19adfff5df32fba4fe7cbc1451e",
-      "size": 111162,
-      "uploadedDate": "2019-05-14T14:57:52.772Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/offer/a9cb15d3362d43d585b8a5b13b8a4513/EGS_BITHELLGAMES_JOHNWICKHEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e_1200x1600-002bdcccde0a7e84b693d1a6aa5e66da",
+      "md5": "002bdcccde0a7e84b693d1a6aa5e66da",
+      "size": 226518,
+      "uploadedDate": "2025-01-29T11:30:24.271Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
@@ -220,6 +157,15 @@
       "uploadedDate": "2020-02-11T09:41:44.790Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/a9cb15d3362d43d585b8a5b13b8a4513/EGS_BITHELLGAMES_JOHNWICKHEX_S3_STOREPORTRAIT-1280x1440-e470d19adfff5df32fba4fe7cbc1451e_1200x1600-002bdcccde0a7e84b693d1a6aa5e66da",
+      "md5": "002bdcccde0a7e84b693d1a6aa5e66da",
+      "size": 226518,
+      "uploadedDate": "2025-01-29T11:30:27.996Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

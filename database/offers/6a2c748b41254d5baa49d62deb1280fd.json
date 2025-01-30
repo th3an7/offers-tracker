@@ -2,13 +2,13 @@
   "id": "6a2c748b41254d5baa49d62deb1280fd",
   "namespace": "ef82c088018242d6b9936356b732088a",
   "title": "Learning Factory",
-  "description": "Build and manage production systems to craft and sell goods to cats and finally achieve Catopia where all the systems are operating at peak efficiency. Machine Learning for sales, multi-layered generated maps, thoughtful complex gameplay, and a relaxing atmosphere are included.",
-  "longDescription": null,
+  "description": "Build intricate supply chains to meet your feline customers' needs. Discover underground and air transport layers, a vast research tree, procedural worlds, machine learning, and endless automation in this relaxing, enemyless game.",
+  "longDescription": "<!--image-->\n![Learning Factory-6oy3a](https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-6oy3a.png)\n\n<!--textBlock-->\n<!--text-->\nLearning Factory is a relaxing automation game, which lets you concentrate on the most important tasks in the Universe: making cats happy again.\n\nYou're a humble genius scientist who gets invited to become the chief engineer at an abandoned Factory on Mars, designed to produce and sell exquisite goods for cats. It was conceived to learn everything about cats and make them happy, but it is desolated now, and cats are leaving Factory Stores unhappy and empty-pawed.\n\nNow you have a chance to continue the research and development of goods that feline hearts long for! Simply follow these steps on your way to a scientific breakthrough:\n\n- Renovate an abandoned factory on Mars\n- Design and automate production chains\n- Produce and sell exquisite goods to cats\n- Collect and analyze data with Machine Learning\n- Scale and make the factory more efficient\n- Make cats happy!\n- Rebuild the ancient Monument\n- Establish Catopia in the feline society!\n\nSales at the Factory Stores generate tons of data which is later analyzed by real-life machine learning in order to unlock the in-depth nature of the feline mind.\n\nBut hey: no pressure! In this fail-safe environment, the key to success is to keep trying and stay curious. Experiment, optimize, automate - and keep creating a giant cat-catering factory on Mars. Eventually you will find the key to a better future for humans and cats (and also maybe dogs, dogs are kinda ok, too)!\n\n**The game is backed up with real Machine Learning, links to handpicked educational videos, and an in-game wiki to be used as learning material.**\n\n<!--image-->\n![Learning Factory-w0ao6](https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-w0ao6.jpg)\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "8eae65b0e0bd423da8ef83683585c2f9",
   "creationDate": "2022-09-29T14:09:13.039Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.233Z",
+  "lastModifiedDate": "2025-01-29T07:22:09.926Z",
   "effectiveDate": "2023-01-26T15:30:00.000Z",
   "viewableDate": "2022-10-19T15:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4827,
+      "referenceCount": 4817,
       "comment": ""
     },
     {
@@ -72,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17564,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -81,18 +93,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17573,
       "comment": null
     },
     {
@@ -119,7 +119,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1400,
+      "referenceCount": 1402,
       "comment": null
     },
     {
@@ -145,6 +145,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -156,30 +160,201 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-9c25c.jpg",
-      "md5": "01f4dacf98543626f5aa97a62c57a897",
-      "size": 2038370,
-      "uploadedDate": "2022-10-14T06:48:12.830Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-1txo0.jpg",
+      "md5": "19866bba67046db584f864ef3aaa000f",
+      "size": 1409144,
+      "uploadedDate": "2025-01-27T07:56:52.888Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-11zgy.jpg",
-      "md5": "87879b8f88aa9f82f33e407e08a0053c",
-      "size": 1135880,
-      "uploadedDate": "2022-10-13T17:26:30.796Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-1hqpm.jpg",
+      "md5": "9edb45948871abebbe77ef89593b6847",
+      "size": 845172,
+      "uploadedDate": "2025-01-27T07:56:57.398Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-11zgy.jpg",
-      "md5": "87879b8f88aa9f82f33e407e08a0053c",
-      "size": 1135880,
-      "uploadedDate": "2022-10-13T17:26:30.796Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-1hqpm.jpg",
+      "md5": "9edb45948871abebbe77ef89593b6847",
+      "size": 845172,
+      "uploadedDate": "2025-01-27T07:56:57.398Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://70ec8023-5025-49a7-ba3e-55434cb58f61?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F404ba51e87854be9a9c78dd9463a6183%2Flearning-factory-video-17oe6.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 248035948,
+      "uploadedDate": "2025-01-25T16:55:25.558Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-u0mhb.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3790266,
+      "uploadedDate": "2025-01-25T16:59:57.346Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-28fja.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 414289,
+      "uploadedDate": "2025-01-25T17:00:04.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-1cy3j.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 991198,
+      "uploadedDate": "2025-01-25T17:00:15.053Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-1t49o.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 373341,
+      "uploadedDate": "2025-01-25T17:00:31.524Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-15qdr.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1038342,
+      "uploadedDate": "2025-01-25T17:01:03.951Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-15sgu.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 787562,
+      "uploadedDate": "2025-01-25T17:01:13.329Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-df7e3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 648121,
+      "uploadedDate": "2025-01-25T17:01:20.993Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-8hs75.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 841822,
+      "uploadedDate": "2025-01-25T17:01:29.580Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-2k0gf.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 477580,
+      "uploadedDate": "2025-01-25T17:01:38.329Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-1w3wx.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 628348,
+      "uploadedDate": "2025-01-25T17:01:47.393Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-71bnr.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 593457,
+      "uploadedDate": "2025-01-25T17:01:53.599Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-1h0pi.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 719351,
+      "uploadedDate": "2025-01-25T17:02:04.214Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-6hlfr.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 679301,
+      "uploadedDate": "2025-01-25T17:02:13.142Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-fs4ef.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 319540,
+      "uploadedDate": "2025-01-25T17:02:22.070Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-14e9h.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3215142,
+      "uploadedDate": "2025-01-25T17:02:28.544Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-6vg2i.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 692531,
+      "uploadedDate": "2025-01-25T17:02:42.131Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-uyg7h.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 693324,
+      "uploadedDate": "2025-01-25T17:03:02.103Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/404ba51e87854be9a9c78dd9463a6183/learning-factory-bvjx3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 953749,
+      "uploadedDate": "2025-01-25T17:03:14.902Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

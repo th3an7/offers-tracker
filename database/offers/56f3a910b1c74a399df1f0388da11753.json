@@ -8,7 +8,7 @@
   "productSlug": "open-country",
   "urlSlug": "open-country",
   "creationDate": "2021-02-24T00:28:33.659Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.371Z",
+  "lastModifiedDate": "2025-01-29T14:32:45.058Z",
   "effectiveDate": "2021-06-10T15:00:00.000Z",
   "viewableDate": "2021-03-02T17:00:00.000Z",
   "developer": null,
@@ -28,16 +28,40 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
   "tags": [
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -59,7 +83,31 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17573,
+      "referenceCount": 17564,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2023-08-21T17:22:53.154Z",
+      "status": "ACTIVE",
+      "referenceCount": 416,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 1473,
       "comment": null
     }
   ],
