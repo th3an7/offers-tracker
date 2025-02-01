@@ -1,14 +1,14 @@
 {
   "id": "f2dfe3f792734ee8a614a97131318db8",
   "namespace": "impala",
-  "title": "The Division 2 Standard Edition",
-  "description": "In Tom Clancy’s The Division®2, the fate of the free world is on the line.   Lead a team of elite agents into a post-pandemic Washington DC to restore order and prevent the collapse of the city.",
+  "title": "Tom Clancy's The Division 2",
+  "description": "Play Tom Clancy’s The Division 2, a shooter RPG with a thrilling campaign fully playable in co-op and multiple PvE and PvP modes.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "the-division-2/home",
-  "urlSlug": "impalastandardaudience",
+  "urlSlug": "the-division-2",
   "creationDate": "2019-01-08T02:39:13.508Z",
-  "lastModifiedDate": "2024-04-19T13:41:03.885Z",
+  "lastModifiedDate": "2025-01-31T18:02:02.888Z",
   "effectiveDate": "2019-03-15T17:00:00.000Z",
   "viewableDate": "2019-01-07T11:54:00.000Z",
   "developer": null,
@@ -59,7 +59,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 334,
+      "referenceCount": 466,
       "comment": ""
     },
     {
@@ -83,10 +83,21 @@
       "created": "2022-05-17T21:19:41.315Z",
       "updated": "2023-08-22T23:38:34.180Z",
       "status": "ACTIVE",
-      "referenceCount": 151,
+      "referenceCount": 217,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17596,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "Controller Support",
@@ -96,7 +107,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2463,
+      "referenceCount": 3384,
       "comment": null
     },
     {
@@ -108,7 +119,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 446,
+      "referenceCount": 604,
       "comment": ""
     },
     {
@@ -132,7 +143,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 410,
+      "referenceCount": 558,
       "comment": ""
     },
     {
@@ -144,7 +155,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 413,
+      "referenceCount": 554,
       "comment": ""
     },
     {
@@ -156,7 +167,7 @@
       "created": "2022-05-17T18:56:51.047Z",
       "updated": "2023-08-03T18:31:17.357Z",
       "status": "ACTIVE",
-      "referenceCount": 203,
+      "referenceCount": 256,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -168,7 +179,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 429,
+      "referenceCount": 576,
       "comment": ""
     },
     {
@@ -204,7 +215,7 @@
       "created": "2022-05-17T21:36:07.333Z",
       "updated": "2023-08-22T16:40:57.276Z",
       "status": "ACTIVE",
-      "referenceCount": 129,
+      "referenceCount": 170,
       "comment": ""
     },
     {
@@ -216,7 +227,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 425,
+      "referenceCount": 573,
       "comment": ""
     },
     {
@@ -240,23 +251,11 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 298,
+      "referenceCount": 446,
       "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "developerName",
-      "value": "Massive Entertainment"
-    },
     {
       "key": "com.epicgames.app.productSlug",
       "value": "the-division-2/home"
@@ -265,57 +264,30 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_StorePortrait_1200x1600_1200x1600-ac354c368179a8220e64fc49e4c8300b",
-      "md5": "ac354c368179a8220e64fc49e4c8300b",
-      "size": 698439,
-      "uploadedDate": "2023-03-31T13:39:02.211Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_StorePortrait_1200x1600_1200x1600-ac354c368179a8220e64fc49e4c8300b",
-      "md5": "ac354c368179a8220e64fc49e4c8300b",
-      "size": 698439,
-      "uploadedDate": "2023-03-31T13:39:05.517Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_StorePortrait_1200x1600_1200x1600-ac354c368179a8220e64fc49e4c8300b",
-      "md5": "ac354c368179a8220e64fc49e4c8300b",
-      "size": 698439,
-      "uploadedDate": "2023-03-31T13:39:07.817Z",
+      "url": "https://cdn1.epicgames.com/offer/impala/UCS29355_EGST_BABU_US_TCTD2_StorePortrait_1200x1600_1200x1600-70fdcdc3068b4e3a6bf683403e4f7c15",
+      "md5": "70fdcdc3068b4e3a6bf683403e4f7c15",
+      "size": 698565,
+      "uploadedDate": "2025-01-28T00:40:33.646Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/impala/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-9fcf32a003e9836ce2bc18fcf053b6d41a0f8c64-2580x1450-f784f5581ef2409cdf99b44ce7535de5_2580x1450-f784f5581ef2409cdf99b44ce7535de5",
-      "md5": "f784f5581ef2409cdf99b44ce7535de5",
-      "size": 356184,
-      "uploadedDate": "2023-03-31T13:39:12.593Z",
-      "width": 2580,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/offer/impala/UCS29355_EGST_BABU_US_TCTD2_StoreLandscape_2560x1440_2560x1440-543f375c5b3ab06e8eef90461eeaa8a9",
+      "md5": "543f375c5b3ab06e8eef90461eeaa8a9",
+      "size": 977343,
+      "uploadedDate": "2025-01-28T00:40:29.643Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/impala/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-9fcf32a003e9836ce2bc18fcf053b6d41a0f8c64-2580x1450-f784f5581ef2409cdf99b44ce7535de5_2580x1450-f784f5581ef2409cdf99b44ce7535de5",
-      "md5": "f784f5581ef2409cdf99b44ce7535de5",
-      "size": 356184,
-      "uploadedDate": "2023-03-31T13:39:14.951Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/offer/impala/TCTD2_Logo_Color-1000x375-6fd59444b232a262056d9bc9b7579cff_1000x375-6fd59444b232a262056d9bc9b7579cff",
-      "md5": "6fd59444b232a262056d9bc9b7579cff",
-      "size": 76818,
-      "uploadedDate": "2023-03-31T13:39:19.783Z",
-      "width": 1000,
-      "height": 375
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/impala/UCS29355_EGST_BABU_US_TCTD2_StorePortrait_1200x1600_1200x1600-70fdcdc3068b4e3a6bf683403e4f7c15",
+      "md5": "70fdcdc3068b4e3a6bf683403e4f7c15",
+      "size": 698565,
+      "uploadedDate": "2025-01-28T00:40:37.992Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
