@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "4eeb59adfa9a48ffb0dbdc011ea1ee0e",
   "creationDate": "2024-10-13T18:36:35.228Z",
-  "lastModifiedDate": "2024-12-15T15:50:23.116Z",
+  "lastModifiedDate": "2025-02-01T16:49:03.158Z",
   "effectiveDate": "2024-12-08T07:00:00.000Z",
   "viewableDate": "2024-11-08T21:33:48.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1728,
+      "referenceCount": 1729,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 233,
+      "referenceCount": 234,
       "comment": ""
     },
     {
@@ -117,6 +117,21 @@
       "updated": "2023-08-22T22:50:29.701Z",
       "status": "ACTIVE",
       "referenceCount": 250,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1411,
       "comment": null
     }
   ],
@@ -169,6 +184,96 @@
       "uploadedDate": "2024-10-16T02:35:56.055Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://908de021-48c8-4171-8d35-502f08b86c7a?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F245c9023f3a3400bb3f032c5af26b446%2Ftomorrows-land-video-1wgqu.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 203562880,
+      "uploadedDate": "2024-10-16T04:44:24.823Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://dde65ab7-15d2-4c16-90e3-6ace2e24b1b9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F245c9023f3a3400bb3f032c5af26b446%2Ftomorrows-land-video-1uwsm.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 166116105,
+      "uploadedDate": "2024-12-15T20:32:51.803Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-1wc1l.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 4027021,
+      "uploadedDate": "2024-10-16T03:53:09.137Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-9ts1p.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3856713,
+      "uploadedDate": "2024-10-16T03:54:31.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-qrtl1.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3565990,
+      "uploadedDate": "2024-10-16T03:54:36.257Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-mmtln.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2431206,
+      "uploadedDate": "2024-10-16T03:55:27.745Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-13ppx.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 4123970,
+      "uploadedDate": "2024-10-16T03:55:46.532Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-1hren.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3080478,
+      "uploadedDate": "2024-10-16T03:55:53.462Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-5h7nx.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3972366,
+      "uploadedDate": "2024-10-16T03:55:59.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/245c9023f3a3400bb3f032c5af26b446/tomorrows-land-17oo9.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3734704,
+      "uploadedDate": "2024-10-16T03:56:26.322Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
