@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "169fda8e246148f1a467f52de881a940",
   "creationDate": "2024-03-08T09:55:02.085Z",
-  "lastModifiedDate": "2025-02-01T16:00:29.994Z",
+  "lastModifiedDate": "2025-02-02T13:27:05.680Z",
   "effectiveDate": "2025-01-31T07:00:00.000Z",
   "viewableDate": "2025-01-30T07:05:59.000Z",
   "developer": null,
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 234,
-      "comment": ""
-    },
     {
       "id": "21894",
       "name": "Cloud Saves",
@@ -60,18 +48,6 @@
       "comment": ""
     },
     {
-      "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
-    },
-    {
       "id": "1080",
       "name": "Survival",
       "namespace": "epic",
@@ -81,6 +57,18 @@
       "updated": "2023-08-22T19:55:04.175Z",
       "status": "ACTIVE",
       "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-08-23T03:24:56.304Z",
+      "status": "ACTIVE",
+      "referenceCount": 519,
       "comment": null
     },
     {
@@ -116,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17596,
+      "referenceCount": 17597,
       "comment": null
     },
     {
@@ -183,6 +171,24 @@
       "height": 1600
     },
     {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://d48cd4a4-708a-4241-b8f5-b5df38887460?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F27516ac8e0b2469ab6ebba25624501ee%2Fsentinel-agency-video-wdj47.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 240599389,
+      "uploadedDate": "2025-02-01T16:06:19.251Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://1e4ee86f-b138-49ea-86bb-d3bca81a9cd1?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F27516ac8e0b2469ab6ebba25624501ee%2Fsentinel-agency-video-jgv9g.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 199243995,
+      "uploadedDate": "2025-01-03T08:28:38.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/27516ac8e0b2469ab6ebba25624501ee/sentinel-agency-f7v7z.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
@@ -206,6 +212,15 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 3016908,
       "uploadedDate": "2025-01-03T08:10:31.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/27516ac8e0b2469ab6ebba25624501ee/sentinel-agency-u77ls.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1318381,
+      "uploadedDate": "2025-02-01T16:05:32.801Z",
       "width": 1920,
       "height": 1080
     },
@@ -242,15 +257,6 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 2701244,
       "uploadedDate": "2025-01-03T08:10:24.400Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://1e4ee86f-b138-49ea-86bb-d3bca81a9cd1?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F27516ac8e0b2469ab6ebba25624501ee%2Fsentinel-agency-video-jgv9g.jpg",
-      "md5": "comepicgamesvideomd5hashconstant",
-      "size": 199243995,
-      "uploadedDate": "2025-01-03T08:28:38.606Z",
       "width": 1920,
       "height": 1080
     }
