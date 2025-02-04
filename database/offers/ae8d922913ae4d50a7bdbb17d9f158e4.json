@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "89fb74a16f554a4cad4beeda371893ea",
   "creationDate": "2023-02-23T08:53:57.084Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.436Z",
+  "lastModifiedDate": "2025-02-03T08:58:15.834Z",
   "effectiveDate": "2024-11-15T09:00:00.000Z",
   "viewableDate": "2023-03-31T12:00:00.000Z",
   "developer": null,
@@ -56,8 +56,20 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4827,
+      "referenceCount": 4833,
       "comment": ""
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2023-08-23T00:14:55.836Z",
+      "status": "ACTIVE",
+      "referenceCount": 799,
+      "comment": null
     },
     {
       "id": "1370",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17597,
+      "referenceCount": 17603,
       "comment": null
     },
     {
@@ -106,6 +118,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -117,28 +133,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/391c07f3e5cc4563b70165e81bae6a80/flashback-2-h8kwr.jpg",
-      "md5": "fac8108d7ed4241b1cd02464d907b093",
-      "size": 1035887,
-      "uploadedDate": "2023-07-31T14:54:51.825Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/391c07f3e5cc4563b70165e81bae6a80/flashback-2-1fuz2.jpg",
+      "md5": "c25d653a222d04e09050d5b6632742c6",
+      "size": 987707,
+      "uploadedDate": "2025-01-31T15:32:18.343Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/391c07f3e5cc4563b70165e81bae6a80/flashback-2-19rqy.jpg",
-      "md5": "2897e58eac6b258af5cff35cb93c8b87",
-      "size": 543533,
-      "uploadedDate": "2023-07-31T14:54:54.715Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/391c07f3e5cc4563b70165e81bae6a80/flashback-2-ji9k5.jpg",
+      "md5": "6f5a1660aeec8cbcd8e1b1183df3e775",
+      "size": 657716,
+      "uploadedDate": "2025-01-31T15:32:23.346Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/391c07f3e5cc4563b70165e81bae6a80/flashback-2-19rqy.jpg",
-      "md5": "2897e58eac6b258af5cff35cb93c8b87",
-      "size": 543533,
-      "uploadedDate": "2023-07-31T14:54:54.715Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/391c07f3e5cc4563b70165e81bae6a80/flashback-2-ji9k5.jpg",
+      "md5": "6f5a1660aeec8cbcd8e1b1183df3e775",
+      "size": 657716,
+      "uploadedDate": "2025-01-31T15:32:23.346Z",
       "width": 1200,
       "height": 1600
     }
