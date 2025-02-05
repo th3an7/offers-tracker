@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "04a04b53c26847e7b2209c63b95338c2",
   "creationDate": "2025-01-19T18:04:00.077Z",
-  "lastModifiedDate": "2025-01-19T18:04:00.077Z",
+  "lastModifiedDate": "2025-02-04T18:51:31.610Z",
   "effectiveDate": "2025-01-20T23:00:00.000Z",
   "viewableDate": "2025-01-20T23:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -46,18 +46,6 @@
       "status": "ACTIVE",
       "referenceCount": 943,
       "comment": null
-    },
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 232,
-      "comment": ""
     },
     {
       "id": "1299",
@@ -84,18 +72,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17603,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -105,6 +81,18 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17619,
       "comment": null
     },
     {
@@ -128,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3389,
+      "referenceCount": 3424,
       "comment": null
     }
   ],

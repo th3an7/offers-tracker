@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "169fda8e246148f1a467f52de881a940",
   "creationDate": "2024-03-08T09:55:02.085Z",
-  "lastModifiedDate": "2025-02-02T13:27:05.680Z",
+  "lastModifiedDate": "2025-02-04T17:41:36.989Z",
   "effectiveDate": "2025-01-31T07:00:00.000Z",
   "viewableDate": "2025-01-30T07:05:59.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -44,20 +44,8 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2236,
+      "referenceCount": 2238,
       "comment": ""
-    },
-    {
-      "id": "1080",
-      "name": "Survival",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-08-22T19:55:04.175Z",
-      "status": "ACTIVE",
-      "referenceCount": 763,
-      "comment": null
     },
     {
       "id": "1336",
@@ -69,6 +57,18 @@
       "updated": "2023-08-23T03:24:56.304Z",
       "status": "ACTIVE",
       "referenceCount": 519,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
       "comment": null
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17603,
+      "referenceCount": 17619,
       "comment": null
     },
     {
