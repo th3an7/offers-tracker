@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "hintspack-0",
-  "creationDate": "2025-01-28T18:56:41.877Z",
-  "lastModifiedDate": "2025-02-03T23:25:04.084Z",
+  "creationDate": "2024-10-31T14:40:38.650Z",
+  "lastModifiedDate": "2025-02-05T18:00:21.482Z",
   "effectiveDate": "2025-02-04T18:00:00.000Z",
   "viewableDate": "2025-02-04T18:00:00.000Z",
   "developer": null,
@@ -25,13 +25,25 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/consumable"
     }
   ],
   "tags": [
+    {
+      "id": "39070",
+      "name": "iOS",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-08-29T16:11:35.528Z",
+      "updated": "2024-12-02T23:44:09.286Z",
+      "status": "ACTIVE",
+      "referenceCount": 637,
+      "comment": ""
+    },
     {
       "id": "39071",
       "name": "Android",
