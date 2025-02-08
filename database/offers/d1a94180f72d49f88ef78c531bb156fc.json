@@ -2,13 +2,13 @@
   "id": "d1a94180f72d49f88ef78c531bb156fc",
   "namespace": "03daf1d62b1b42c0a2a5168d91cb61b2",
   "title": "Brawlers",
-  "description": "One of the top Web3 fighting games, developed by Tyranno Studios! A rowdy collision of strategy and suplexes, designed by the Magic: The Gathering mastermind.",
+  "description": "An innovative twist on head to head card battler, developed by Tyranno Studios! A rowdy collision of strategy and suplexes, designed by the Magic: The Gathering mastermind.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "35ac6d01e346475cbb065f4dec4873b3",
   "creationDate": "2023-08-16T18:41:28.364Z",
-  "lastModifiedDate": "2023-10-17T10:15:22.872Z",
+  "lastModifiedDate": "2025-02-07T22:05:17.058Z",
   "effectiveDate": "2023-10-17T19:00:00.000Z",
   "viewableDate": "2023-08-29T17:30:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1736,
+      "referenceCount": 1737,
       "comment": ""
     },
     {
@@ -72,6 +72,18 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17722,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -81,30 +93,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2024-10-25T20:00:26.146Z",
-      "status": "ACTIVE",
-      "referenceCount": 251,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17627,
       "comment": null
     },
     {
@@ -120,18 +108,6 @@
       "comment": null
     },
     {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
-    },
-    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -143,7 +119,19 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1412,
+      "referenceCount": 1429,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -157,12 +145,16 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
     {
       "key": "isBlockchainUsed",
-      "value": "true"
+      "value": "false"
     }
   ],
   "keyImages": [

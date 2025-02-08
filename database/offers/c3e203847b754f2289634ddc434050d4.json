@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "devperidotaudience",
   "creationDate": "2020-03-16T16:10:41.389Z",
-  "lastModifiedDate": "2020-03-27T16:31:00.194Z",
+  "lastModifiedDate": "2025-02-07T11:15:35.792Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -31,7 +31,20 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17722,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
