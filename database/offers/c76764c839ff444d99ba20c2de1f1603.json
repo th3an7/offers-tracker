@@ -3,12 +3,12 @@
   "namespace": "2d2e05ea844c42dc80ef341d89542b16",
   "title": "Railway Empire 2 - Journey To The East",
   "description": "In Railway Empire 2 – Journey to the East you’ll embark on a mission that promises unimaginable riches. Starting in Vienna, your enterprise will take you through the Carpathians and the Balkans, before finally reaching the legendary city of Constantinople.",
-  "longDescription": "In **Railway Empire 2 – Journey to the East** you’ll embark on a mission to connect the European capitals to the Ottoman Empire. Starting out in Vienna, your enterprise will expand through the towering mountains of the Carpathians and the rough terrain of the Balkans before finally reaching the legendary city of **Constantinople**.\n\nAs a maverick entrepreneur of the late 1800s this challenging endeavour is rewarded with unimagined riches! Deploy **new locomotives, produce and transport new goods**, and attract **wealthy travellers** with the brand-new **Luxury Rail Line** mechanic, transporting them back and forth from the Danube river to the Bosporus.\n\n- **Constantinople Calling:** The first **DLC** for **Railway Empire 2** introduces the new, fully voiced scenario, „**Journey to the East**“ (1881-1890).\n\n- **Journey Eastward:** Expand across Eastern Europe in the new **regional map \"Balkan\",** with new city buildings, plus a new station building for the southern regions of the map.\n\n- **New and exotic luxuries: More than 10 new products** including mediterranean olives, golden honey, and carpets of the finest fabrics.\n\n- **Moving Through Mountains: 6 new powerful locomotives**, such as the Bavarian S 3/6 and the CFR 142 Carpathian pride.\n\n- **The Glamour of the Fin de Siècle:** The new feature „**Luxury Rail Line**“ can be researched from 1870 onwards and provides you with new luxury wagons. You can also adjust the pricing for those lines to receive a higher revenue per passenger.\n\n- **Ride with the Vibe: 10 new themed music tracks** and **19 jingles** to build immersion in the new campaign and map.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nIn **Railway Empire 2 – Journey to the East** you’ll embark on a mission to connect the European capitals to the Ottoman Empire. Starting out in Vienna, your enterprise will expand through the towering mountains of the Carpathians and the rough terrain of the Balkans before finally reaching the legendary city of **Constantinople**.\n\nAs a maverick entrepreneur of the late 1800s this challenging endeavour is rewarded with unimagined riches! Deploy **new locomotives, produce and transport new goods**, and attract **wealthy travellers** with the brand-new **Luxury Rail Line** mechanic, transporting them back and forth from the Danube river to the Bosporus.\n\n- **Constantinople Calling:** The first **DLC** for **Railway Empire 2** introduces the new, fully voiced scenario, „**Journey to the East**“ (1881-1890).\n\n- **Journey Eastward:** Expand across Eastern Europe in the new **regional map \"Balkan\",** with new city buildings, plus a new station building for the southern regions of the map.\n\n- **New and exotic luxuries: More than 10 new products** including mediterranean olives, golden honey, and carpets of the finest fabrics.\n\n- **Moving Through Mountains: 6 new powerful locomotives**, such as the Bavarian S 3/6 and the CFR 142 Carpathian pride.\n\n- **The Glamour of the Fin de Siècle:** The new feature „**Luxury Rail Line**“ can be researched from 1870 onwards and provides you with new luxury wagons. You can also adjust the pricing for those lines to receive a higher revenue per passenger.\n\n- **Ride with the Vibe: 10 new themed music tracks** and **19 jingles** to build immersion in the new campaign and map.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "railway-empire-2--journey-to-the-east",
-  "creationDate": "2023-07-17T12:04:44.875Z",
-  "lastModifiedDate": "2025-02-10T16:01:26.776Z",
+  "creationDate": "2025-02-03T16:42:45.135Z",
+  "lastModifiedDate": "2025-02-11T10:23:23.061Z",
   "effectiveDate": "2024-02-15T14:00:00.000Z",
   "viewableDate": "2023-12-14T14:00:00.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2237,
+      "referenceCount": 2243,
       "comment": ""
     },
     {
@@ -80,19 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4874,
-      "comment": ""
-    },
-    {
-      "id": "39911",
-      "name": "Winter Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-11-25T11:32:07.947Z",
-      "updated": "2025-02-10T16:00:30.535Z",
-      "status": "ACTIVE",
-      "referenceCount": 3016,
+      "referenceCount": 4880,
       "comment": ""
     },
     {
@@ -108,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17795,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -120,18 +120,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17780,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -140,11 +128,40 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3429,
+      "referenceCount": 3443,
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media"
+    },
+    {
+      "key": "developerName",
+      "value": "Gaming Minds Studios"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -163,15 +180,6 @@
       "uploadedDate": "2023-12-12T03:32:31.260Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/2d2e05ea844c42dc80ef341d89542b16/EGS_RailwayEmpire2JourneyToTheEast_GamingMindsStudios_DLC_IC1_200x173-549bf0061595139c960c1135b0a5fcf0",
-      "md5": "549bf0061595139c960c1135b0a5fcf0",
-      "size": 75581,
-      "uploadedDate": "2023-12-12T03:32:39.532Z",
-      "width": 200,
-      "height": 173
     },
     {
       "type": "Thumbnail",
