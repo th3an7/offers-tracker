@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "dcee705da11c4fc589405a4007011c29",
   "creationDate": "2023-06-09T16:29:02.337Z",
-  "lastModifiedDate": "2025-02-10T16:01:22.451Z",
+  "lastModifiedDate": "2025-02-12T23:40:24.253Z",
   "effectiveDate": "2023-07-19T14:00:00.000Z",
   "viewableDate": "2023-06-09T16:30:00.000Z",
   "developer": null,
@@ -56,19 +56,19 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2243,
+      "referenceCount": 2244,
       "comment": ""
     },
     {
-      "id": "39911",
-      "name": "Winter Sale",
+      "id": "19847",
+      "name": "Achievements",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2024-11-25T11:32:07.947Z",
-      "updated": "2025-02-10T16:00:30.535Z",
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3001,
+      "referenceCount": 4888,
       "comment": ""
     },
     {
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17838,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -108,18 +120,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17795,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -128,19 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3443,
-      "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
+      "referenceCount": 3448,
       "comment": null
     }
   ],
@@ -152,6 +140,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -189,6 +181,132 @@
       "uploadedDate": "2024-03-13T15:18:05.849Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://e6deeb02-3ca3-4b69-866b-c285ee70fd88?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2d4f1465e9254425b5b03c8a429d4d9b%2Foirbo-video-kl5hu.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 83164129,
+      "uploadedDate": "2025-02-11T17:17:37.896Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-1kt31.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1744708,
+      "uploadedDate": "2023-06-19T16:07:38.345Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-cl60o.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1687464,
+      "uploadedDate": "2023-06-19T16:07:37.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-wkkou.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1585078,
+      "uploadedDate": "2023-06-19T16:07:37.496Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-lt25m.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1555965,
+      "uploadedDate": "2023-06-19T16:07:37.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-ij5an.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1641080,
+      "uploadedDate": "2023-06-19T16:07:39.075Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-148gc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1935404,
+      "uploadedDate": "2023-06-19T16:07:38.593Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-r1msj.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2268305,
+      "uploadedDate": "2023-06-19T16:07:38.832Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-ncwxz.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1345497,
+      "uploadedDate": "2023-06-19T16:07:37.893Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-a6y5k.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1599135,
+      "uploadedDate": "2023-06-19T16:07:38.125Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-db525.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1037524,
+      "uploadedDate": "2023-06-19T16:07:37.105Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-1axwl.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1961223,
+      "uploadedDate": "2023-06-19T16:07:39.318Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2d4f1465e9254425b5b03c8a429d4d9b/oirbo-1gdmz.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 831350,
+      "uploadedDate": "2023-06-19T16:07:36.891Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://a47b02ac-e104-456d-9d86-336734a24726?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2d4f1465e9254425b5b03c8a429d4d9b%2Foirbo-video-1dbii.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 53479095,
+      "uploadedDate": "2023-06-19T16:31:10.021Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
