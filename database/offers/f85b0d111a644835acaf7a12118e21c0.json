@@ -6,9 +6,9 @@
   "longDescription": "SmokeTest",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "smoketest-2168",
+  "urlSlug": "smoke-test--2168",
   "creationDate": "2021-07-27T04:54:53.154Z",
-  "lastModifiedDate": "2023-06-26T06:11:30.132Z",
+  "lastModifiedDate": "2025-02-18T06:03:17.895Z",
   "effectiveDate": "2015-04-28T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,10 +25,41 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "testing"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2024-03-28T21:49:29.573Z",
+      "status": "ACTIVE",
+      "referenceCount": 1846,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1443,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
   "keyImages": [
     {

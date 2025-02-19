@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "5b91eefef87549249afe07e3b78fea0f",
   "creationDate": "2023-10-03T11:58:27.689Z",
-  "lastModifiedDate": "2024-11-21T07:19:29.823Z",
+  "lastModifiedDate": "2025-02-18T15:11:52.851Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-12-06T08:55:47.514Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1829,
+      "referenceCount": 1830,
       "comment": ""
     },
     {
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17888,
+      "comment": null
+    },
+    {
       "id": "21739",
       "name": "NFT BLOCKCHAIN",
       "namespace": null,
@@ -106,18 +118,6 @@
       "status": "ACTIVE",
       "referenceCount": 251,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17862,
-      "comment": null
     },
     {
       "id": "1310",
@@ -140,6 +140,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -177,6 +181,51 @@
       "uploadedDate": "2023-12-01T15:17:07.533Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/22af9e1663e34d8ead808163753c3c6d/providence-1e5gr.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3239161,
+      "uploadedDate": "2023-10-04T08:36:18.131Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/22af9e1663e34d8ead808163753c3c6d/providence-1e1ez.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2736681,
+      "uploadedDate": "2025-02-17T14:16:47.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/22af9e1663e34d8ead808163753c3c6d/providence-hitzq.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3140604,
+      "uploadedDate": "2025-02-17T14:16:54.527Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/22af9e1663e34d8ead808163753c3c6d/providence-1gt93.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3274111,
+      "uploadedDate": "2025-02-17T14:16:58.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/22af9e1663e34d8ead808163753c3c6d/providence-q8vcy.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3976208,
+      "uploadedDate": "2025-02-17T14:22:20.711Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

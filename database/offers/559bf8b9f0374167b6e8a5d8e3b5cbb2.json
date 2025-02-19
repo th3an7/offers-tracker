@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "36942cc3e5d84336a8d79dc42cabe1fc",
   "creationDate": "2023-06-22T15:15:58.595Z",
-  "lastModifiedDate": "2025-01-23T18:53:14.448Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-02-18T18:44:44.884Z",
+  "effectiveDate": "2025-03-03T14:00:00.000Z",
   "viewableDate": "2024-06-09T17:00:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17862,
+      "referenceCount": 17888,
       "comment": null
     }
   ],
@@ -95,7 +95,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -109,28 +109,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-58t81.jpg",
-      "md5": "2588d20e84c728873c593716290cf0e1",
-      "size": 995381,
-      "uploadedDate": "2023-11-09T13:18:14.091Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1kt2x.jpg",
+      "md5": "483490505c27f285d266c104e79ee9a1",
+      "size": 944444,
+      "uploadedDate": "2025-02-18T13:50:39.203Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-18uts.jpg",
-      "md5": "53e04550885101b1053b649fcab02a26",
-      "size": 662991,
-      "uploadedDate": "2023-11-09T13:18:11.779Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1vp1b.jpg",
+      "md5": "271347fc977949a409278164d1a54b36",
+      "size": 664596,
+      "uploadedDate": "2025-02-18T13:05:10.396Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-18uts.jpg",
-      "md5": "53e04550885101b1053b649fcab02a26",
-      "size": 662991,
-      "uploadedDate": "2023-11-09T13:18:11.779Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1vp1b.jpg",
+      "md5": "271347fc977949a409278164d1a54b36",
+      "size": 664596,
+      "uploadedDate": "2025-02-18T13:05:10.396Z",
       "width": 1200,
       "height": 1600
     },
@@ -200,7 +200,7 @@
   ],
   "items": [
     {
-      "id": "4e7dc1cfd41b443dbef54381d50312b1"
+      "id": "96b9eee0fc5e42e0abff80a745834cbd"
     }
   ],
   "catalogNs": {

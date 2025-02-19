@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "c1d47e54f90e44299b97e6335f5297d8",
   "creationDate": "2024-10-23T20:07:58.592Z",
-  "lastModifiedDate": "2025-02-10T13:38:45.622Z",
+  "lastModifiedDate": "2025-02-18T15:29:11.757Z",
   "effectiveDate": "2024-12-04T06:42:57.000Z",
   "viewableDate": "2024-12-03T14:47:20.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17888,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -82,18 +94,6 @@
       "status": "ACTIVE",
       "referenceCount": 251,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17862,
-      "comment": null
     },
     {
       "id": "1181",
@@ -131,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
