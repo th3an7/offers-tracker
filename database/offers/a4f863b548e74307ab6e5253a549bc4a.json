@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "50-gxp-karos-classic",
   "creationDate": "2024-01-16T10:57:49.354Z",
-  "lastModifiedDate": "2024-10-21T07:50:36.463Z",
+  "lastModifiedDate": "2025-02-19T07:35:27.412Z",
   "effectiveDate": "2024-02-11T05:00:00.000Z",
   "viewableDate": "2024-02-06T08:45:26.000Z",
   "developer": null,
@@ -33,6 +33,18 @@
   ],
   "tags": [
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 154,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -41,7 +53,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17888,
+      "referenceCount": 17903,
       "comment": null
     }
   ],
@@ -52,6 +64,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "true"
     },
     {

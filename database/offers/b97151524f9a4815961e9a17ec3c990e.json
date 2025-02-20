@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "prelude",
   "creationDate": "2022-03-28T09:31:21.254Z",
-  "lastModifiedDate": "2025-02-11T15:27:56.649Z",
+  "lastModifiedDate": "2025-02-19T08:39:59.203Z",
   "effectiveDate": "2022-05-05T15:00:00.000Z",
   "viewableDate": "2022-04-28T04:00:00.000Z",
   "developer": null,
@@ -41,7 +41,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1830,
+      "referenceCount": 1835,
       "comment": ""
     },
     {
@@ -53,7 +53,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4905,
+      "referenceCount": 4908,
       "comment": ""
     },
     {
@@ -81,6 +81,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17903,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -90,18 +102,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17888,
       "comment": null
     },
     {
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1443,
+      "referenceCount": 1444,
       "comment": null
     }
   ],
@@ -156,6 +156,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "fb8406ced53547a781284e8e6df9710c",
-  "creationDate": "2024-06-08T20:00:20.695Z",
-  "lastModifiedDate": "2024-06-10T15:31:17.615Z",
+  "creationDate": "2024-05-17T09:13:53.526Z",
+  "lastModifiedDate": "2025-02-19T13:54:44.528Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-06-08T20:00:01.000Z",
   "developer": null,
@@ -25,16 +25,28 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2251,
+      "comment": ""
+    },
     {
       "id": "1336",
       "name": "Action-Adventure",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17888,
+      "referenceCount": 17903,
       "comment": null
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3462,
+      "referenceCount": 3475,
       "comment": null
     }
   ],
@@ -119,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -157,6 +169,105 @@
       "uploadedDate": "2024-05-31T11:18:56.727Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://bf1a3e15-beec-44a2-a11c-b58bcc941533?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6c240a39ede14db1a18af4c03afa334c%2Feriksholm-the-stolen-dream-video-16khd.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 228228746,
+      "uploadedDate": "2024-06-06T12:40:42.429Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://777fb0fe-6a27-4528-8e39-ec03465926bf?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6c240a39ede14db1a18af4c03afa334c%2Feriksholm-the-stolen-dream-video-1pv2e.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 93090413,
+      "uploadedDate": "2024-12-13T08:59:47.325Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-3z8cd.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 600173,
+      "uploadedDate": "2024-06-06T13:05:23.865Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-8yvuk.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 417462,
+      "uploadedDate": "2024-06-06T13:05:27.834Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-1ymp7.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 232253,
+      "uploadedDate": "2024-06-06T13:05:35.190Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-11byg.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 334823,
+      "uploadedDate": "2024-06-07T14:12:41.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-1ikn0.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 705973,
+      "uploadedDate": "2024-06-06T13:05:31.126Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-1c9vf.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 396983,
+      "uploadedDate": "2024-06-06T13:05:39.045Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-2ufr3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 598979,
+      "uploadedDate": "2024-06-06T13:05:44.593Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6c240a39ede14db1a18af4c03afa334c/eriksholm-the-stolen-dream-1rims.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 225604,
+      "uploadedDate": "2024-06-06T13:11:34.029Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://65328811-f9d3-4502-9ada-b1e0e65f842e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6c240a39ede14db1a18af4c03afa334c%2Feriksholm-the-stolen-dream-video-1r0tk.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 38219177,
+      "uploadedDate": "2024-12-06T06:55:17.665Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
