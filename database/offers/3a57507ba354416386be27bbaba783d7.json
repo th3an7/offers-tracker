@@ -3,12 +3,12 @@
   "namespace": "b42434df8847448c93022ce9c46feec1",
   "title": "Universe Sandbox",
   "description": "Create and destroy on an unimaginable scale... with a space simulator that merges real-time gravity, climate, collision, and material interactions to reveal the beauty of our universe and the fragility of our planet.",
-  "longDescription": "",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nUniverse Sandbox is a physics-based space simulator that allows you to create, destroy, and interact on an unimaginable scale.\n\nIt merges real-time gravity, climate, collision, and material interactions to reveal the beauty of our universe and the fragility of our planet.\n\n<!--textBlock-->\n<!--title-->\n# Simulate Gravity\n<!--text-->\nN-body simulation at almost any speed using Newtonian mechanics. Real science, real physics, no supercomputer required.\n\n<!--image-->\n![Many small objects chaotically orbiting a planet, which orbits a star.](https://cdn1.epicgames.com/spt-assets/feab423edad74bb586e00846f93b62ea/universe-sandbox-1xmow.jpeg)\n\n<!--textBlock-->\n<!--title-->\n# Collide Planets & Stars\n<!--text-->\nEpic, mind blowing collisions of massive planetary bodies that leave behind molten craters.\n\n<!--image-->\n![The Moon colliding with Earth showing a large impact.](https://cdn1.epicgames.com/spt-assets/feab423edad74bb586e00846f93b62ea/universe-sandbox-xkwj5.jpg)\n\n<!--textBlock-->\n<!--title-->\n# Create Your Own Systems\n<!--text-->\nStart with a star, then add a planet. Spruce it up with moons, rings, comets, or even a black hole.\n\n<!--image-->\n![Adding a star to a simulating using the Add menu, part of the user interface.](https://cdn1.epicgames.com/spt-assets/feab423edad74bb586e00846f93b62ea/universe-sandbox-17vdj.jpg)\n\n<!--textBlock-->\n<!--title-->\n# Model Earth's Climate\n<!--text-->\nWatch sea ice grow and recede with the seasons because of the tilt of the Earth: change the tilt and change the seasons. Or move the Earth farther from the Sun and freeze the entire planet. [Learn More...](http://universesandbox.com/blog/2014/10/climate/)\n\n<!--image-->\n![Earth is completely frozen over next to a terraformed Mars, which is next to an Earth with no water.](https://cdn1.epicgames.com/spt-assets/feab423edad74bb586e00846f93b62ea/universe-sandbox-1hn89.jpg)\n\n<!--textBlock-->\n<!--title-->\n# And more...\n<!--text-->\n- Supernova a star\n- Explore historical events- ride along with the Juno and New Horizons spacecraft, or view a total solar eclipse\n- Material System - build planets out of Hydrogen, Iron, Rock, & Water\n- Stellar flares & volatile trails\n- Procedurally generated planets, stars, & galaxies\n- Pulsars\n- Light-warping black holes\n- Original soundtrack by Macoubre\n- Support for 20- languages\n\n<!--image-->\n![The Juno spacecraft orbiting the planet Jupiter.](https://cdn1.epicgames.com/spt-assets/feab423edad74bb586e00846f93b62ea/universe-sandbox-1ivc6.jpg)\n",
   "status": "ACTIVE",
   "productSlug": "universe-sandbox",
   "urlSlug": "universe-sandbox",
-  "creationDate": "2023-09-18T20:54:28.034Z",
-  "lastModifiedDate": "2025-02-10T16:01:19.399Z",
+  "creationDate": "2023-09-05T21:09:55.637Z",
+  "lastModifiedDate": "2025-02-20T22:00:07.027Z",
   "effectiveDate": "2021-09-23T17:00:00.000Z",
   "viewableDate": "2021-09-23T17:00:00.000Z",
   "developer": null,
@@ -39,6 +39,18 @@
   ],
   "tags": [
     {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
       "id": "1281",
       "name": "Space Sim",
       "namespace": "epic",
@@ -59,68 +71,8 @@
       "created": "2022-05-17T21:06:21.330Z",
       "updated": "2023-08-16T00:30:02.340Z",
       "status": "ACTIVE",
-      "referenceCount": 152,
+      "referenceCount": 153,
       "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-23T02:20:12.228Z",
-      "status": "ACTIVE",
-      "referenceCount": 2251,
-      "comment": ""
-    },
-    {
-      "id": "39911",
-      "name": "Winter Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-11-25T11:32:07.947Z",
-      "updated": "2025-02-10T16:00:30.535Z",
-      "status": "ACTIVE",
-      "referenceCount": 2965,
-      "comment": ""
-    },
-    {
-      "id": "21127",
-      "name": "Creative Community",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:16:58.023Z",
-      "updated": "2023-08-22T10:58:47.680Z",
-      "status": "ACTIVE",
-      "referenceCount": 280,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17903,
-      "comment": null
-    },
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
-      "comment": null
     },
     {
       "id": "21141",
@@ -132,6 +84,30 @@
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
       "referenceCount": 588,
+      "comment": ""
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2253,
+      "comment": ""
+    },
+    {
+      "id": "21127",
+      "name": "Creative Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:58.023Z",
+      "updated": "2023-08-22T10:58:47.680Z",
+      "status": "ACTIVE",
+      "referenceCount": 281,
       "comment": ""
     },
     {
@@ -159,6 +135,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17916,
+      "comment": null
+    },
+    {
       "id": "1310",
       "name": "EARLY ACCESS",
       "namespace": "epic",
@@ -182,7 +170,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1444,
+      "referenceCount": 1445,
       "comment": null
     },
     {
@@ -204,6 +192,10 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "publisherName",
       "value": "Giant Army"
     },
@@ -212,12 +204,12 @@
       "value": "Giant Army"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "universe-sandbox"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "universe-sandbox"
     }
   ],
   "keyImages": [
