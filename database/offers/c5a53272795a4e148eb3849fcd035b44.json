@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "mystical-cauldron",
   "creationDate": "2024-04-12T18:35:46.067Z",
-  "lastModifiedDate": "2025-02-20T17:06:24.299Z",
+  "lastModifiedDate": "2025-02-21T16:09:16.610Z",
   "effectiveDate": "2024-04-18T15:00:01.853Z",
   "viewableDate": "2024-04-18T15:00:01.853Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/notvisible/consumable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -41,7 +44,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4914,
+      "referenceCount": 4915,
       "comment": ""
     },
     {
@@ -53,7 +56,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17916,
+      "referenceCount": 17921,
       "comment": null
     },
     {
@@ -68,7 +71,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1445,
+      "referenceCount": 1447,
       "comment": null
     }
   ],

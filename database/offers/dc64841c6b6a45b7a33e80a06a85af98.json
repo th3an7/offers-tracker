@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "kingdom-come-deliverance--fechtbuch-movie",
-  "creationDate": "2024-12-19T15:24:33.984Z",
-  "lastModifiedDate": "2024-12-20T12:24:17.656Z",
+  "creationDate": "2024-04-04T20:44:40.580Z",
+  "lastModifiedDate": "2025-02-21T16:32:53.091Z",
   "effectiveDate": "2021-04-16T15:00:00.000Z",
   "viewableDate": "2021-04-16T15:00:00.000Z",
   "developer": null,
@@ -71,7 +71,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4914,
+      "referenceCount": 4915,
       "comment": ""
     },
     {
@@ -87,6 +87,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17921,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -96,18 +108,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17916,
       "comment": null
     },
     {
@@ -131,7 +131,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3477,
+      "referenceCount": 3480,
       "comment": null
     }
   ],
@@ -142,11 +142,19 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "publisherName",
       "value": "Prime Matter"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "false"
     },
     {
       "key": "developerName",

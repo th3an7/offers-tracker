@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": "kingdom-come-deliverance/royal-edition",
   "urlSlug": "eelroyaledition",
-  "creationDate": "2024-12-19T15:24:32.207Z",
-  "lastModifiedDate": "2024-12-20T12:24:16.062Z",
+  "creationDate": "2024-04-04T20:44:40.562Z",
+  "lastModifiedDate": "2025-02-21T16:32:51.678Z",
   "effectiveDate": "2020-02-20T16:00:00.000Z",
   "viewableDate": "2024-12-20T12:24:12.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2253,
+      "referenceCount": 2251,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4914,
+      "referenceCount": 4915,
       "comment": ""
     },
     {
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17921,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -105,18 +117,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17916,
       "comment": null
     },
     {
@@ -140,7 +140,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3477,
+      "referenceCount": 3480,
       "comment": null
     }
   ],
@@ -152,6 +152,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.blacklist",
@@ -166,12 +170,12 @@
       "value": "Warhorse Studios"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "kingdom-come-deliverance/royal-edition"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-come-deliverance/royal-edition"
     }
   ],
   "keyImages": [

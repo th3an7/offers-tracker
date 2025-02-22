@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": "kingdom-come-deliverance/ost-atmospheres-and-additionals",
   "urlSlug": "kingdom-come-deliverance--ost-atmospheres-and-additionals",
-  "creationDate": "2024-12-19T15:24:33.115Z",
-  "lastModifiedDate": "2024-12-20T12:24:17.509Z",
+  "creationDate": "2024-04-04T20:44:40.559Z",
+  "lastModifiedDate": "2025-02-21T16:32:52.991Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": "2024-12-20T12:24:12.000Z",
   "developer": null,
@@ -75,6 +75,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17921,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -84,18 +96,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17916,
       "comment": null
     },
     {
@@ -119,7 +119,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3477,
+      "referenceCount": 3480,
       "comment": null
     }
   ],
@@ -133,6 +133,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "publisherName",
       "value": "Prime Matter"
     },
@@ -141,24 +145,15 @@
       "value": "Warhorse Studios"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "kingdom-come-deliverance/ost-atmospheres-and-additionals"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-come-deliverance/ost-atmospheres-and-additionals"
     }
   ],
   "keyImages": [
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fa6d430a-56d0-42e1-b43a-4a4f45f06873-2560x1440-6b86c84006bd846c588a31ffa5199e22.jpg",
-      "md5": "6b86c84006bd846c588a31ffa5199e22",
-      "size": 813877,
-      "uploadedDate": "2021-04-09T20:47:12.287Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fa6d430a-56d0-42e1-b43a-4a4f45f06873-2560x1440-6b86c84006bd846c588a31ffa5199e22.jpg",
@@ -182,9 +177,18 @@
       "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/e68c3b76-5cc9-486d-8512-67891d0a3606-1200x1600-7b2640434ada38b1d2c1856d3daa33fc.jpg",
       "md5": "7b2640434ada38b1d2c1856d3daa33fc",
       "size": 1019259,
-      "uploadedDate": "2021-04-09T20:47:30.267Z",
+      "uploadedDate": "2021-04-09T20:47:18.542Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/fa6d430a-56d0-42e1-b43a-4a4f45f06873-2560x1440-6b86c84006bd846c588a31ffa5199e22.jpg",
+      "md5": "6b86c84006bd846c588a31ffa5199e22",
+      "size": 813877,
+      "uploadedDate": "2021-04-09T20:47:12.287Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

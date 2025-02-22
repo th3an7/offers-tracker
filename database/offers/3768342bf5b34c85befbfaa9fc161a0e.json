@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "eeldevaudience-03",
-  "creationDate": "2024-12-19T15:24:33.110Z",
-  "lastModifiedDate": "2025-02-07T11:15:45.957Z",
+  "creationDate": "2024-04-04T20:44:40.565Z",
+  "lastModifiedDate": "2025-02-21T16:32:53.800Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-12-20T12:24:12.000Z",
   "developer": null,
@@ -45,18 +45,6 @@
       "comment": null
     },
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 4914,
-      "comment": ""
-    },
-    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -67,6 +55,18 @@
       "status": "ACTIVE",
       "referenceCount": 1144,
       "comment": null
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4915,
+      "comment": ""
     },
     {
       "id": "1370",
@@ -93,15 +93,15 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
+      "id": "1117",
+      "name": "Adventure",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
       "status": "ACTIVE",
-      "referenceCount": 17916,
+      "referenceCount": 1473,
       "comment": null
     },
     {
@@ -113,19 +113,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3477,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 1473,
+      "referenceCount": 3480,
       "comment": null
     }
   ],
@@ -137,6 +125,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.blacklist",
