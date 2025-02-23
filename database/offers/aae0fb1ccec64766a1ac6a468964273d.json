@@ -8,7 +8,7 @@
   "productSlug": "kingdom-come-deliverance/royal-dlc-bundle",
   "urlSlug": "kingdom-come-deliverance--royal-dlc-bundle",
   "creationDate": "2024-04-04T20:44:40.560Z",
-  "lastModifiedDate": "2025-02-21T16:32:52.322Z",
+  "lastModifiedDate": "2025-02-22T22:29:33.471Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": "2024-12-20T12:24:12.000Z",
   "developer": null,
@@ -28,13 +28,10 @@
       "path": "addons"
     },
     {
+      "path": "addons/durable/seasonpass"
+    },
+    {
       "path": "addons/durable"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "applications"
     }
   ],
   "tags": [
@@ -75,18 +72,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17921,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -96,6 +81,18 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17923,
       "comment": null
     },
     {
@@ -119,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3480,
+      "referenceCount": 3481,
       "comment": null
     }
   ],
@@ -137,12 +134,12 @@
       "value": "true"
     },
     {
-      "key": "isPromotionalContentUsed",
-      "value": "false"
-    },
-    {
       "key": "com.epicgames.app.blacklist",
       "value": "{}"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "publisherName",
@@ -153,12 +150,12 @@
       "value": "Warhorse Studios"
     },
     {
-      "key": "isBlockchainUsed",
-      "value": "false"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "kingdom-come-deliverance/royal-dlc-bundle"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
@@ -201,7 +198,7 @@
   ],
   "items": [
     {
-      "id": "9cface5448694861879def457a3b6194"
+      "id": "d7ae686c24cf4ca3a7e9e738356623a3"
     }
   ],
   "catalogNs": {
