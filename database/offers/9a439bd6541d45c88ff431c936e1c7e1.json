@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "gold3",
   "creationDate": "2023-06-07T10:34:04.103Z",
-  "lastModifiedDate": "2024-10-08T15:00:51.210Z",
+  "lastModifiedDate": "2025-02-25T15:02:51.074Z",
   "effectiveDate": "2023-08-08T23:30:00.000Z",
   "viewableDate": "2023-07-30T02:00:00.000Z",
   "developer": null,
@@ -33,6 +33,18 @@
   ],
   "tags": [
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 211,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -41,7 +53,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17934,
+      "referenceCount": 17984,
       "comment": null
     }
   ],
@@ -52,6 +64,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "true"
     },
     {

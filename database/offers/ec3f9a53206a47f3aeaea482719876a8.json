@@ -2,13 +2,13 @@
   "id": "ec3f9a53206a47f3aeaea482719876a8",
   "namespace": "213259527d2f41baa90cbe0ae5555271",
   "title": "Dungeons 3 - DLC Bundle",
-  "description": "Dungeons 3 - DLC Bundle",
-  "longDescription": null,
+  "description": "Contains expansion packs “Once Upon a Time”, “Evil of the Caribbean”, “Lord of the Kings”, “Clash of Gods”, “An Unexpected DLC”, “Famous Last Words” and a new skirmish map pack as well as several free content updates.",
+  "longDescription": "# Features\n\n- Experience the critically acclaimed dungeon manager in its full glory with unforgettable characters in an epic tale of the everlasting fight between Good & Evil!\n- Size does matter: A total number of 50+ missions and more than 50 hours of playtime, randomly generated maps, a brand-new co-op mode for two players, competitive multiplayer, more rooms & monsters, and more unique abilities.\n- Speak (no) evil: The fan-favourite Dungeons narrator is back with his unmistakable voice, continuing the Dungeons legacy in the best way possible.",
   "status": "ACTIVE",
-  "productSlug": "dungeons-3/dlc-bundle",
-  "urlSlug": "devragdollaudience-09",
+  "productSlug": null,
+  "urlSlug": "dungeons-3--dlc-bundle",
   "creationDate": "2020-10-05T12:34:59.952Z",
-  "lastModifiedDate": "2025-02-24T16:01:38.945Z",
+  "lastModifiedDate": "2025-02-25T10:06:44.453Z",
   "effectiveDate": "2020-11-05T16:00:00.000Z",
   "viewableDate": "2020-11-02T20:00:00.000Z",
   "developer": null,
@@ -28,10 +28,13 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "addons/durable/seasonpass"
     },
     {
       "path": "addons/durable"
+    },
+    {
+      "path": "games"
     },
     {
       "path": "applications"
@@ -47,7 +50,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4921,
+      "referenceCount": 4918,
       "comment": ""
     },
     {
@@ -59,7 +62,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17934,
+      "referenceCount": 17984,
       "comment": null
     }
   ],
@@ -75,22 +78,9 @@
     {
       "key": "developerName",
       "value": "Realmforge Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "dungeons-3/dlc-bundle"
     }
   ],
   "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_S1-2560x1440-709554c89856f77afd6f31be32e17c67.jpg",
-      "md5": "709554c89856f77afd6f31be32e17c67",
-      "size": 828930,
-      "uploadedDate": "2020-10-05T12:34:05.311Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_S2-1200x1600-b8378d0c8d5c74c93da5df6d13b40741.jpg",
@@ -101,22 +91,22 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
+      "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_S1-2560x1440-709554c89856f77afd6f31be32e17c67.jpg",
       "md5": "709554c89856f77afd6f31be32e17c67",
       "size": 828930,
-      "uploadedDate": "2020-10-05T12:34:19.789Z",
+      "uploadedDate": "2020-10-05T12:34:05.311Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_S2-1200x1600-b8378d0c8d5c74c93da5df6d13b40741.jpg",
-      "md5": "b8378d0c8d5c74c93da5df6d13b40741",
-      "size": 685984,
-      "uploadedDate": "2020-10-05T12:34:27.165Z",
-      "width": 1200,
-      "height": 1600
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_IC1_200x200-670792b4b524e7171e5b3581cccd5b16",
+      "md5": "670792b4b524e7171e5b3581cccd5b16",
+      "size": 382729,
+      "uploadedDate": "2025-02-17T13:36:00.350Z",
+      "width": 200,
+      "height": 200
     },
     {
       "type": "Thumbnail",
@@ -128,13 +118,85 @@
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_S2-1200x1600-b8378d0c8d5c74c93da5df6d13b40741.jpg",
-      "md5": "b8378d0c8d5c74c93da5df6d13b40741",
-      "size": 685984,
-      "uploadedDate": "2020-10-05T12:34:40.843Z",
-      "width": 1200,
-      "height": 1600
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_01_1920x1080-4805ee3a357a50762f36db0ef026799d",
+      "md5": "4805ee3a357a50762f36db0ef026799d",
+      "size": 138628,
+      "uploadedDate": "2025-02-17T13:36:04.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_02_1920x1080-71711611f4c95ae7dbd00bb6012bd6f1",
+      "md5": "71711611f4c95ae7dbd00bb6012bd6f1",
+      "size": 992028,
+      "uploadedDate": "2025-02-17T13:36:08.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_03_1920x1080-a8cfffdb31856e389e2e82d36b096806",
+      "md5": "a8cfffdb31856e389e2e82d36b096806",
+      "size": 939702,
+      "uploadedDate": "2025-02-17T13:36:12.666Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_04_1920x1080-2fc0f5095f73e5c4c91393e11af0e4b5",
+      "md5": "2fc0f5095f73e5c4c91393e11af0e4b5",
+      "size": 924265,
+      "uploadedDate": "2025-02-17T13:36:16.509Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_05_1920x1080-229b95129b63de5718727a22c390be46",
+      "md5": "229b95129b63de5718727a22c390be46",
+      "size": 983132,
+      "uploadedDate": "2025-02-17T13:36:20.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_06_1920x1080-471a7c751ada6aa8bd8624fa292047c7",
+      "md5": "471a7c751ada6aa8bd8624fa292047c7",
+      "size": 955450,
+      "uploadedDate": "2025-02-17T13:36:24.389Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_07_1920x1080-15370248dbb21ce832b1a02756f36940",
+      "md5": "15370248dbb21ce832b1a02756f36940",
+      "size": 934008,
+      "uploadedDate": "2025-02-17T13:36:27.934Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_08_1920x1080-86d934749183d932c49e253c008d1fe7",
+      "md5": "86d934749183d932c49e253c008d1fe7",
+      "size": 948832,
+      "uploadedDate": "2025-02-17T13:36:32.213Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_Dungeons3DLCBundle_RealmforgeStudios_Bundles_G1A_09_1920x1080-a9cc308c3b7d6219b4221acd28d62afb",
+      "md5": "a9cc308c3b7d6219b4221acd28d62afb",
+      "size": 1002427,
+      "uploadedDate": "2025-02-17T13:36:36.165Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -145,13 +207,13 @@
       "id": "eeb8d1e5f9cc441082ecdbb47f75801f"
     },
     {
-      "id": "f0450baba9a140b4afda422be6370ce6"
-    },
-    {
       "id": "8a4577c9d65140bb95f190bea79431d4"
     },
     {
       "id": "c3d0381293ae4505a7f00bdb0c024e9e"
+    },
+    {
+      "id": "f0450baba9a140b4afda422be6370ce6"
     },
     {
       "id": "6da3ea0b693d4cd18fe1f43b366a9a41"

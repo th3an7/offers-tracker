@@ -2,13 +2,13 @@
   "id": "35e2970f6b9348cc924dea6220baaf85",
   "namespace": "213259527d2f41baa90cbe0ae5555271",
   "title": "Once Upon A Time",
-  "description": "Once Upon A Time",
-  "longDescription": null,
+  "description": "Travel to Fairyland, home to the Good Fairy. This disgustingly good creature provides heroes with invigorating potions. With the help of some ensorcelled heroes and exploding sheep, the Absolute Evil brings this story to a nasty end!",
+  "longDescription": "The Absolute Evil travels to Fairyland, home to the Good Fairy. This disgustingly good creature provides heroes with invigorating potions and is generally the detestable source of good deeds. With the help of some ensorcelled heroes and more than a few exploding sheep, the Absolute Evil brings this story to a nasty end!\n\n# Features:\n\n- 3 Campaign maps with audio\n- 3 new **Evil** hubs\n- New Boss enemy: The Good Fairy\n- New Wall Tile Set for the Dungeon",
   "status": "ACTIVE",
-  "productSlug": "dungeons-3/once-upon-a-time",
-  "urlSlug": "devragdollaudience-08",
+  "productSlug": null,
+  "urlSlug": "dungeons-3--once-upon-a-time",
   "creationDate": "2020-07-28T15:34:21.676Z",
-  "lastModifiedDate": "2025-02-24T16:01:28.582Z",
+  "lastModifiedDate": "2025-02-25T09:58:22.709Z",
   "effectiveDate": "2020-11-05T16:00:00.000Z",
   "viewableDate": "2020-11-02T20:00:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "addons/durable"
     },
     {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
       "path": "applications"
@@ -47,7 +47,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17934,
+      "referenceCount": 17984,
       "comment": null
     }
   ],
@@ -63,22 +63,9 @@
     {
       "key": "developerName",
       "value": "Realmforge Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "dungeons-3/once-upon-a-time"
     }
   ],
   "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_OnceUponATime_RealmforgeStudios_DLC_S1-2560x1440-f1ffd5cfd088b1dee6288e4685cb3a28.jpg",
-      "md5": "f1ffd5cfd088b1dee6288e4685cb3a28",
-      "size": 871823,
-      "uploadedDate": "2020-10-01T17:27:36.539Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_OnceUponATime_RealmforgeStudios_DLC_S2-1200x1600-458c6a66a28a913d33d02f8534eb1283.jpg",
@@ -89,22 +76,13 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
+      "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_OnceUponATime_RealmforgeStudios_DLC_S1-2560x1440-f1ffd5cfd088b1dee6288e4685cb3a28.jpg",
       "md5": "f1ffd5cfd088b1dee6288e4685cb3a28",
       "size": 871823,
-      "uploadedDate": "2020-10-01T17:27:51.209Z",
+      "uploadedDate": "2020-10-01T17:27:36.539Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_OnceUponATime_RealmforgeStudios_DLC_S2-1200x1600-458c6a66a28a913d33d02f8534eb1283.jpg",
-      "md5": "458c6a66a28a913d33d02f8534eb1283",
-      "size": 652701,
-      "uploadedDate": "2020-10-01T17:27:58.340Z",
-      "width": 1200,
-      "height": 1600
     },
     {
       "type": "Thumbnail",
@@ -112,15 +90,6 @@
       "md5": "458c6a66a28a913d33d02f8534eb1283",
       "size": 652701,
       "uploadedDate": "2020-10-01T17:28:14.387Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_OnceUponATime_RealmforgeStudios_DLC_S2-1200x1600-458c6a66a28a913d33d02f8534eb1283.jpg",
-      "md5": "458c6a66a28a913d33d02f8534eb1283",
-      "size": 652701,
-      "uploadedDate": "2020-10-01T17:28:21.490Z",
       "width": 1200,
       "height": 1600
     }

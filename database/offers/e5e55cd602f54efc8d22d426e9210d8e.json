@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "4923b7df789346bf9c049e944f603e91",
   "creationDate": "2023-03-09T19:28:35.648Z",
-  "lastModifiedDate": "2025-02-15T09:59:08.093Z",
+  "lastModifiedDate": "2025-02-25T11:04:41.709Z",
   "effectiveDate": "2023-03-16T22:00:00.000Z",
   "viewableDate": "2023-03-15T09:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4921,
+      "referenceCount": 4918,
       "comment": ""
     },
     {
@@ -80,7 +80,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17934,
+      "referenceCount": 17984,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3488,
       "comment": null
     },
     {
@@ -115,6 +127,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "false"
     },
     {
@@ -153,6 +169,69 @@
       "uploadedDate": "2023-03-09T21:32:13.813Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://625b593d-88ab-4572-aab8-c713e3694573?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff4e898fd116f4183bca1f6261cdbc7c5%2Foli-one-sneak-in-video-w8v5v.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 207103274,
+      "uploadedDate": "2024-11-12T19:30:21.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4e898fd116f4183bca1f6261cdbc7c5/oli-one-sneak-in-1u05q.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2437106,
+      "uploadedDate": "2023-03-09T21:35:42.656Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4e898fd116f4183bca1f6261cdbc7c5/oli-one-sneak-in-vcr1q.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2449796,
+      "uploadedDate": "2023-03-09T21:35:42.824Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4e898fd116f4183bca1f6261cdbc7c5/oli-one-sneak-in-1v9oe.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2952444,
+      "uploadedDate": "2023-03-09T21:35:42.223Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4e898fd116f4183bca1f6261cdbc7c5/oli-one-sneak-in-cyyxn.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2100825,
+      "uploadedDate": "2023-03-09T21:35:42.427Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4e898fd116f4183bca1f6261cdbc7c5/oli-one-sneak-in-1jc7w.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2364015,
+      "uploadedDate": "2023-03-09T21:35:40.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f4e898fd116f4183bca1f6261cdbc7c5/oli-one-sneak-in-1hfxr.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1511726,
+      "uploadedDate": "2023-03-09T21:35:43.393Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

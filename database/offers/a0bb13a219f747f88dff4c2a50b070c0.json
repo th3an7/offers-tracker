@@ -8,7 +8,7 @@
   "productSlug": "remnant-from-the-ashes",
   "urlSlug": "remnant-from-the-ashes",
   "creationDate": "2020-05-27T21:28:54.750Z",
-  "lastModifiedDate": "2025-02-24T16:01:14.751Z",
+  "lastModifiedDate": "2025-02-25T14:43:15.605Z",
   "effectiveDate": "2020-08-13T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -59,7 +59,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 483,
+      "referenceCount": 484,
       "comment": ""
     },
     {
@@ -95,8 +95,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17934,
+      "referenceCount": 17984,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2024-05-01T13:17:08.166Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": ""
     },
     {
       "id": "1264",
@@ -155,7 +167,7 @@
       "created": "2022-05-17T18:56:51.047Z",
       "updated": "2023-08-03T18:31:17.357Z",
       "status": "ACTIVE",
-      "referenceCount": 258,
+      "referenceCount": 259,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -191,7 +203,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 585,
+      "referenceCount": 586,
       "comment": ""
     }
   ],
@@ -207,15 +219,6 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
-      "md5": "394c6f196cf496047862762b3cc0c2a9",
-      "size": 578304,
-      "uploadedDate": "2020-08-06T04:32:58.348Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S1-2560x1440-7263019d76982af81d67ed2c1c0e7c7b.jpg",
       "md5": "7263019d76982af81d67ed2c1c0e7c7b",
@@ -225,6 +228,24 @@
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
+      "md5": "394c6f196cf496047862762b3cc0c2a9",
+      "size": 578304,
+      "uploadedDate": "2020-08-06T04:32:58.348Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
+      "md5": "394c6f196cf496047862762b3cc0c2a9",
+      "size": 578304,
+      "uploadedDate": "2020-08-06T04:33:18.023Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
       "md5": "394c6f196cf496047862762b3cc0c2a9",
@@ -232,6 +253,24 @@
       "uploadedDate": "2020-08-06T04:33:31.699Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
+      "md5": "394c6f196cf496047862762b3cc0c2a9",
+      "size": 578304,
+      "uploadedDate": "2020-08-06T04:33:52.059Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S1-2560x1440-7263019d76982af81d67ed2c1c0e7c7b.jpg",
+      "md5": "7263019d76982af81d67ed2c1c0e7c7b",
+      "size": 889862,
+      "uploadedDate": "2020-08-06T04:34:11.665Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

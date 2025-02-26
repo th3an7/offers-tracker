@@ -2,13 +2,13 @@
   "id": "81dda5adced04f3082c84009b1158ead",
   "namespace": "213259527d2f41baa90cbe0ae5555271",
   "title": "Lord of the Kings",
-  "description": "Lord of the Kings",
-  "longDescription": null,
+  "description": "The great King Arcturus returns from his quest with the Holy Grail in tow, only to find out that someone has devastated his city of Stormbreeze. He immediately set about recapturing the lands, but he hadn’t reckoned with the Always-Has-The-Last-Laugh Evil.",
+  "longDescription": "The great King Arcturus returns from his quest with the Holy Grail in tow, only to find out that someone has devastated his city of Stormbreeze (and the rest of the kingdom). He immediately set about recapturing the lands, but he hadn’t reckoned with the Always-Has-The-Last-Laugh **Evil**. \nAlthough the player initially helps King Arcturus, they soon return to side of Evil where, with the help of some converted heroes, they wipe the floor with him.\n\n# Features:\n\n- 3 Campaign maps with audio\n- 3 new **Evil** hubs\n- New Boss enemy: King Arcturus\n- New Wall Tile Set for the Dungeon",
   "status": "ACTIVE",
-  "productSlug": "dungeons-3/lord-of-the-kings",
-  "urlSlug": "devragdollaudience-06",
+  "productSlug": null,
+  "urlSlug": "dungeons-3--lord-of-the-kings",
   "creationDate": "2020-07-28T15:33:51.587Z",
-  "lastModifiedDate": "2025-02-24T16:01:32.808Z",
+  "lastModifiedDate": "2025-02-25T10:06:45.446Z",
   "effectiveDate": "2020-11-05T16:00:00.000Z",
   "viewableDate": "2020-11-02T20:00:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "addons/durable"
     },
     {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
       "path": "applications"
@@ -47,7 +47,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4921,
+      "referenceCount": 4918,
       "comment": ""
     },
     {
@@ -59,7 +59,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17934,
+      "referenceCount": 17984,
       "comment": null
     }
   ],
@@ -75,22 +75,9 @@
     {
       "key": "developerName",
       "value": "Realmforge Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "dungeons-3/lord-of-the-kings"
     }
   ],
   "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_LordoftheKings_RealmforgeStudios_DLC_S1-2560x1440-449f40bdf0937082c8c4e2dc144e67f6.jpg",
-      "md5": "449f40bdf0937082c8c4e2dc144e67f6",
-      "size": 945556,
-      "uploadedDate": "2020-10-01T17:32:15.866Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_LordoftheKings_RealmforgeStudios_DLC_S2-1200x1600-08aaf55ec7f0a34a8e449d0d962d3418.jpg",
@@ -101,22 +88,22 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
+      "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_LordoftheKings_RealmforgeStudios_DLC_S1-2560x1440-449f40bdf0937082c8c4e2dc144e67f6.jpg",
       "md5": "449f40bdf0937082c8c4e2dc144e67f6",
       "size": 945556,
-      "uploadedDate": "2020-10-01T17:32:28.374Z",
+      "uploadedDate": "2020-10-01T17:32:15.866Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_LordoftheKings_RealmforgeStudios_DLC_S2-1200x1600-08aaf55ec7f0a34a8e449d0d962d3418.jpg",
-      "md5": "08aaf55ec7f0a34a8e449d0d962d3418",
-      "size": 644437,
-      "uploadedDate": "2020-10-01T17:32:35.018Z",
-      "width": 1200,
-      "height": 1600
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_LordoftheKings_RealmforgeStudios_DLC_IC1_200x200-7568ec96b5d47fc00f232ccc572e6a46",
+      "md5": "7568ec96b5d47fc00f232ccc572e6a46",
+      "size": 32776,
+      "uploadedDate": "2025-02-17T13:58:45.190Z",
+      "width": 200,
+      "height": 200
     },
     {
       "type": "Thumbnail",
@@ -128,13 +115,58 @@
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_LordoftheKings_RealmforgeStudios_DLC_S2-1200x1600-08aaf55ec7f0a34a8e449d0d962d3418.jpg",
-      "md5": "08aaf55ec7f0a34a8e449d0d962d3418",
-      "size": 644437,
-      "uploadedDate": "2020-10-01T17:32:49.698Z",
-      "width": 1200,
-      "height": 1600
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_LordoftheKings_RealmforgeStudios_DLC_G1A_00_1920x1080-fac3cbf01c4d95405560efd62419c6e0",
+      "md5": "fac3cbf01c4d95405560efd62419c6e0",
+      "size": 156297,
+      "uploadedDate": "2025-02-17T13:58:49.073Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_LordoftheKings_RealmforgeStudios_DLC_G1A_01_1920x1080-a446de99822039eb9dc44088779c7309",
+      "md5": "a446de99822039eb9dc44088779c7309",
+      "size": 234132,
+      "uploadedDate": "2025-02-17T13:58:53.522Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_LordoftheKings_RealmforgeStudios_DLC_G1A_02_1920x1080-96d79b3b00bef84c2ee9c9dc5891403d",
+      "md5": "96d79b3b00bef84c2ee9c9dc5891403d",
+      "size": 254123,
+      "uploadedDate": "2025-02-17T13:58:58.942Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_LordoftheKings_RealmforgeStudios_DLC_G1A_03_1920x1080-5b3de0d81b99c7c3ecaa34ac2efe297e",
+      "md5": "5b3de0d81b99c7c3ecaa34ac2efe297e",
+      "size": 281964,
+      "uploadedDate": "2025-02-17T13:59:04.172Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_LordoftheKings_RealmforgeStudios_DLC_G1A_04_1920x1080-501cede4fcd7688185f62c9cbd4dec8e",
+      "md5": "501cede4fcd7688185f62c9cbd4dec8e",
+      "size": 203954,
+      "uploadedDate": "2025-02-17T13:59:09.380Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/213259527d2f41baa90cbe0ae5555271/EGS_LordoftheKings_RealmforgeStudios_DLC_G1A_05_1920x1080-84891d1e77de9b1a2d3f3271abba7e9d",
+      "md5": "84891d1e77de9b1a2d3f3271abba7e9d",
+      "size": 274841,
+      "uploadedDate": "2025-02-17T13:59:14.742Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
