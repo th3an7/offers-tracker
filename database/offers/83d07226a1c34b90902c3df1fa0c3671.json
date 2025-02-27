@@ -2,13 +2,13 @@
   "id": "83d07226a1c34b90902c3df1fa0c3671",
   "namespace": "56584c5aaba5428582d56e561d0a81f4",
   "title": "Lowlife Forms",
-  "description": "An Epic and Modular RPG Shooter filled with Alien and Droid gangsters.",
+  "description": "A massively-modular science fantasy RPG shooter filled with alien gangsters, cosmic smuggling and space shamans.\n\nStarting in the the Can, an intergalactic prison, you will embark on an epic adventure around Cygnus X-1 where guns and magic do all the talking.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "1df52aa6665247adb1117323e71d0492",
   "creationDate": "2024-04-17T15:25:44.449Z",
-  "lastModifiedDate": "2024-07-17T13:48:53.075Z",
+  "lastModifiedDate": "2025-02-26T17:21:26.927Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-06-04T13:12:04.454Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1847,
+      "referenceCount": 1851,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 17984,
-      "comment": null
-    },
-    {
       "id": "21739",
       "name": "NFT BLOCKCHAIN",
       "namespace": null,
@@ -108,6 +96,18 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 17995,
+      "comment": null
+    },
+    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3488,
+      "referenceCount": 3492,
       "comment": null
     }
   ],
@@ -169,6 +169,123 @@
       "uploadedDate": "2024-07-17T01:16:55.145Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://955f6ba5-d726-4878-ba06-04a25440630f?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7e9368ac3f2a47b1950c0f9363cf395e%2Flowlife-forms-video-b8t16.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 62148250,
+      "uploadedDate": "2024-05-24T21:20:05.726Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://f69efcff-bef1-426d-98e0-07c7c0450d59?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7e9368ac3f2a47b1950c0f9363cf395e%2Flowlife-forms-video-1hhhu.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 44270098,
+      "uploadedDate": "2024-06-03T02:24:41.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-1clmd.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1882840,
+      "uploadedDate": "2024-06-03T02:32:43.300Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-ypk7b.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3038989,
+      "uploadedDate": "2025-02-26T03:45:47.624Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-1gv7o.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3757693,
+      "uploadedDate": "2025-02-22T06:29:44.412Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-1ryui.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2657156,
+      "uploadedDate": "2024-05-15T17:56:21.894Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-1f8u3.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3209333,
+      "uploadedDate": "2024-05-15T17:54:54.653Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-zcvvf.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3145540,
+      "uploadedDate": "2025-02-26T03:45:33.181Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-rb278.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3354933,
+      "uploadedDate": "2025-02-26T03:45:37.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-8vney.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3204961,
+      "uploadedDate": "2025-02-26T03:45:41.140Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-v9omo.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3192541,
+      "uploadedDate": "2025-02-26T03:45:44.436Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-15y3p.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1801408,
+      "uploadedDate": "2024-05-15T17:54:43.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7e9368ac3f2a47b1950c0f9363cf395e/lowlife-forms-431za.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3052066,
+      "uploadedDate": "2024-05-15T17:54:10.077Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
