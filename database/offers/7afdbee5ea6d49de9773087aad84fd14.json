@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "novice-researcher",
-  "creationDate": "2025-02-25T15:02:50.193Z",
-  "lastModifiedDate": "2025-02-25T15:02:50.193Z",
+  "creationDate": "2023-12-22T12:15:00.422Z",
+  "lastModifiedDate": "2025-02-27T08:02:05.158Z",
   "effectiveDate": "2025-02-25T15:02:30.000Z",
   "viewableDate": "2025-02-25T15:02:30.000Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "spthidden"
     },
     {
-      "path": "addons/consumable"
+      "path": "spthidden/notvisible/consumable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -41,7 +44,7 @@
       "created": "2024-01-30T16:42:20.388Z",
       "updated": "2024-02-05T20:14:29.988Z",
       "status": "ACTIVE",
-      "referenceCount": 212,
+      "referenceCount": 221,
       "comment": ""
     },
     {
@@ -53,7 +56,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17995,
+      "referenceCount": 18003,
       "comment": null
     }
   ],

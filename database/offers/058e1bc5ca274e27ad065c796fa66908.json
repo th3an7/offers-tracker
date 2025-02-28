@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "35b8f5b86f74477c90499c36b12c0ee4",
-  "creationDate": "2024-08-09T13:13:25.297Z",
-  "lastModifiedDate": "2025-02-26T15:24:25.138Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-06-07T02:58:43.595Z",
+  "lastModifiedDate": "2025-02-27T11:10:47.255Z",
+  "effectiveDate": "2025-03-11T23:00:00.000Z",
   "viewableDate": "2024-08-09T14:00:00.000Z",
   "developer": null,
   "seller": {
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2248,
+      "comment": ""
+    },
+    {
       "id": "1287",
       "name": "Fantasy",
       "namespace": "epic",
@@ -80,7 +92,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4924,
+      "referenceCount": 4928,
       "comment": ""
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17995,
+      "referenceCount": 18003,
       "comment": null
     }
   ],
@@ -133,30 +145,129 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1t162.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-12jhz.jpg",
       "md5": "c4474364481f261f8455544c4f6628ce",
       "size": 767871,
-      "uploadedDate": "2024-08-02T16:45:42.835Z",
+      "uploadedDate": "2025-02-10T11:10:08.944Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1ynmp.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1fn1y.jpg",
       "md5": "8f0de35e2fd4e8f20d4e91946766a958",
       "size": 517181,
-      "uploadedDate": "2024-08-02T16:45:50.749Z",
+      "uploadedDate": "2025-02-10T11:10:16.527Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1ynmp.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1fn1y.jpg",
       "md5": "8f0de35e2fd4e8f20d4e91946766a958",
       "size": 517181,
-      "uploadedDate": "2024-08-02T16:45:50.749Z",
+      "uploadedDate": "2025-02-10T11:10:16.527Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://bd0cf035-b838-4f7d-8e42-11ef191043c1?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbd57dd50e0754654ab0b7c1e0941b179%2Ffate-reawakened-video-1rsym.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 44161487,
+      "uploadedDate": "2025-02-14T10:40:44.339Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-hhds2.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 855627,
+      "uploadedDate": "2025-02-14T10:12:06.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1frho.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 619864,
+      "uploadedDate": "2025-02-14T10:12:07.982Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-18izl.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 984565,
+      "uploadedDate": "2025-02-14T10:12:08.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1my5b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 602681,
+      "uploadedDate": "2025-02-14T10:12:07.360Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-26clx.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 639501,
+      "uploadedDate": "2025-02-14T10:12:06.473Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-20cv2.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1236540,
+      "uploadedDate": "2025-02-14T10:12:09.785Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1ycwi.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1474225,
+      "uploadedDate": "2025-02-14T10:12:07.579Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-p20t2.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1729795,
+      "uploadedDate": "2025-02-14T10:12:07.850Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-1h4vn.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1386052,
+      "uploadedDate": "2025-02-14T10:12:06.825Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/bd57dd50e0754654ab0b7c1e0941b179/fate-reawakened-a6dv8.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 882875,
+      "uploadedDate": "2025-02-14T10:12:08.283Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

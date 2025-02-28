@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "250-gxp",
   "creationDate": "2023-09-22T14:55:37.959Z",
-  "lastModifiedDate": "2025-02-20T07:20:37.504Z",
+  "lastModifiedDate": "2025-02-27T08:00:13.653Z",
   "effectiveDate": "2023-09-22T15:00:00.000Z",
   "viewableDate": "2023-09-22T15:00:00.000Z",
   "developer": null,
@@ -33,6 +33,18 @@
   ],
   "tags": [
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 221,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -41,7 +53,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17995,
+      "referenceCount": 18003,
       "comment": null
     }
   ],
@@ -56,7 +68,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
