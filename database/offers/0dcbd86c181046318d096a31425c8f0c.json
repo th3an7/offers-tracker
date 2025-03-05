@@ -1,0 +1,226 @@
+{
+  "id": "0dcbd86c181046318d096a31425c8f0c",
+  "namespace": "ue",
+  "title": "Sci-Fi Door VR - Fuse System -",
+  "description": "\"Sci-fi Door and Fuses System\" was built on the basis of the UE5 VR template using OpenXR. The aim is to provide a challenge for players who want to use a door to progress through the level.",
+  "longDescription": "<p>This is used to open the door by adding Fuses to the console. The console distributes current from left to right. We therefore have a &#34;Voltage&#34; at the console input on the left. And an output voltage on the right. The right-hand voltage must be equal to the &#34;Goal&#34; voltage in order to balance and open the door. To do this, it makes us components called &#34;Fuses&#34; which are of several natures. The fuses are placed in the middle and are a maximum of 4 per console.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sci-fi-door-vr-fuse-system",
+  "creationDate": "2023-10-27T21:59:16.966Z",
+  "lastModifiedDate": "2025-02-28T15:15:23.952Z",
+  "effectiveDate": "2023-10-27T21:59:16.922Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-v4se538wfn8a6gnn68yhmjhe7m9y2q",
+    "name": "G-TOLKY"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/nPxctqQ6bfc\" rel=\"nofollow\">DEMO VIDEO</a></p><p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Easy to use in level design</li><li> Ready for use with the Unreal Engine 5 VR template</li><li>3D models included in the pack</li><li>Sounds included with the pack</li><li>5 different fuse options : Add , subtract , multiply , divide , reverse.</li><li>Built 100% in Blueprint, requiring no coding skills</li><li>Parameters can be modified directly in the editor</li></ul><p>Number of Blueprints: 2 main Bluepints, 1 intermediate Blueprint</p><p>Number of sound waves: 2 (44100 Hz)</p><p>Input: See documentation, actions: grab / interact, snap turn VR</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><ul><li>Windows 64 bit (PCVR)</li><li>Steam VR</li></ul><p><a href=\"https://docs.google.com/document/d/1muc9igDPyUBxHL9lbzwvzsTCViLUr47jH7ooMiRmtB0/edit?usp&#61;sharing\" rel=\"nofollow\">DOCUMENTATION </a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7df92d4d-14aa-4363-8f99-912b318eee8a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SciFiDoor02-1920x1080-81612c0e3c18fa07b89013d62c80203e.png",
+      "md5": "81612c0e3c18fa07b89013d62c80203e",
+      "size": 1737311,
+      "uploadedDate": "2023-10-22T14:07:11.390Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SciFiDoor01-1920x1080-b728edc751191ab7a001c477e9e17990.png",
+      "md5": "b728edc751191ab7a001c477e9e17990",
+      "size": 2038241,
+      "uploadedDate": "2023-10-22T14:07:12.226Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SciFiDoor03-1920x1080-266b4bb1952556d971a1d949ee8e7b17.png",
+      "md5": "266b4bb1952556d971a1d949ee8e7b17",
+      "size": 2143724,
+      "uploadedDate": "2023-10-22T14:07:12.925Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SciFiDoor04-1920x1080-746e144cf2a9935d1c338f190f9b0750.png",
+      "md5": "746e144cf2a9935d1c338f190f9b0750",
+      "size": 1771756,
+      "uploadedDate": "2023-10-22T14:07:13.661Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SciFiDoorVRFuseSystem_thumb-284x284-a9276f0d61180a2556b522e869f7c531.png",
+      "md5": "a9276f0d61180a2556b522e869f7c531",
+      "size": 116487,
+      "uploadedDate": "2023-10-22T14:07:14.126Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SciFiDoorVRFuseSystem_featured-894x488-1e217a6d9c412e83455116d1cab41815.png",
+      "md5": "1e217a6d9c412e83455116d1cab41815",
+      "size": 352920,
+      "uploadedDate": "2023-10-22T14:07:14.288Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SciFiDoor02-1920x1080-81612c0e3c18fa07b89013d62c80203e_Snapshot.png",
+      "md5": "202b50c2ba1419cc1d1074efa07a18b3",
+      "size": 5220,
+      "uploadedDate": "2023-10-22T14:07:11.851Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SciFiDoor01-1920x1080-b728edc751191ab7a001c477e9e17990_Snapshot.png",
+      "md5": "90cbb4018d615cda2ea3a2f7d547d1cf",
+      "size": 6418,
+      "uploadedDate": "2023-10-22T14:07:12.664Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SciFiDoor03-1920x1080-266b4bb1952556d971a1d949ee8e7b17_Snapshot.png",
+      "md5": "7c40724df40f4ac9f2bf5487ffb30079",
+      "size": 5568,
+      "uploadedDate": "2023-10-22T14:07:13.388Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SciFiDoor04-1920x1080-746e144cf2a9935d1c338f190f9b0750_Snapshot.png",
+      "md5": "e5865b456685ad2acfbd750aee804d86",
+      "size": 5991,
+      "uploadedDate": "2023-10-22T14:07:14.079Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9d0abe2a90b74c51aed24223c7b1d8c0"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

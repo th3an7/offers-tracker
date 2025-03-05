@@ -1,0 +1,139 @@
+{
+  "id": "cdab5341795b4230a1f817b641563a35",
+  "namespace": "ue",
+  "title": "PhoneAuthCode",
+  "description": "Use SMS messages to verify user's identity",
+  "longDescription": "<p>About&#xff1a;</p><p>This plugin use Aliyun to send SMS verification code,</p><p>Authenticate the user</p><p>this plugin adopts the way of server generating verification code.</p><p>It runs on Windows and Linux systems</p><p>Only three steps are needed to send the mobile phone verification code from the client:</p><p>1.Import <strong>plugin</strong></p><p>2.Setup <strong>Config</strong> <strong>file</strong></p><p>3.use <strong>blueprints</strong> <strong>to</strong> <strong>write</strong> <strong>business</strong> <strong>logic</strong></p><p>github&#xff1a;<a href=\"https://github.com/mainite/UE4_SendSMS_Server\" rel=\"nofollow\">https://github.com/mainite/UE4_SendSMS_Server</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "phoneauthcode",
+  "creationDate": "2020-08-04T07:44:49.772Z",
+  "lastModifiedDate": "2025-02-21T14:45:19.617Z",
+  "effectiveDate": "2020-08-04T07:44:48.018Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-j3lnsu6srcghekef3qxj6tvfg8jxy9",
+    "name": "GuoZhengDong"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>特征&#xff1a;  </p><p>使用短信验证用户身份  </p><p><br /></p><p>支持平台&#xff1a;“ Win64”&#xff0c;“ Mac”&#xff0c;“ IOS”&#xff0c;“ Android”</p><p>支持的目标构建平台&#xff1a;“Win64”&#xff0c;“Mac”&#xff0c;“IOS”&#xff0c;“Android”</p><p>文档&#xff1a;<a href=\"https://blog.csdn.net/qq_36409711/article/details/107199014\" rel=\"nofollow\">https://blog.csdn.net/qq_36409711/article/details/107199014</a></p><p>视频&#xff1a;<a href=\"https://www.bilibili.com/video/BV1Eh411v7hp\" rel=\"nofollow\">https://www.bilibili.com/video/BV1Eh411v7hp</a></p><p>阿里云短信&#xff1a;<a href=\"https://cn.aliyun.com/product/sms\" rel=\"nofollow\">https://cn.aliyun.com/product/sms</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "80f5cd88-ddec-42fd-b249-3f3fba6c2d6b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19201080-1920x1080-677212f5211a720292ad99b4a4cd43f5.png",
+      "md5": "677212f5211a720292ad99b4a4cd43f5",
+      "size": 225417,
+      "uploadedDate": "2020-07-07T22:08:36.203Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/-1-1920x1080-cd69d05db40c8121ce2678da81e8ec6a.jpg",
+      "md5": "cd69d05db40c8121ce2678da81e8ec6a",
+      "size": 84061,
+      "uploadedDate": "2020-08-23T05:14:56.668Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PhoneAuthCode_thumb-284x284-23726bffa15e27bc77423963ade6cdfb.png",
+      "md5": "23726bffa15e27bc77423963ade6cdfb",
+      "size": 23131,
+      "uploadedDate": "2020-07-07T22:08:36.548Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PhoneAuthCode_featured-894x488-a682fa7eaa10d58c957ee51af4b29141.png",
+      "md5": "a682fa7eaa10d58c957ee51af4b29141",
+      "size": 99755,
+      "uploadedDate": "2020-07-07T22:08:36.619Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/-1-1920x1080-cd69d05db40c8121ce2678da81e8ec6a_Snapshot.jpg",
+      "md5": "010a53a868ceefb17a97ed2db501ed5b",
+      "size": 3254,
+      "uploadedDate": "2020-08-23T05:14:56.968Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19201080-1920x1080-677212f5211a720292ad99b4a4cd43f5_Snapshot.png",
+      "md5": "ae73d866f1afca248e32951baa4378e4",
+      "size": 4002,
+      "uploadedDate": "2020-07-07T22:08:36.476Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19201080-1920x1080-9e6c0ebd54d26b0f4b94ba79b65e830c_Snapshot.png",
+      "md5": "a063c327fadbf35aaf67e16888381bf0",
+      "size": 4109,
+      "uploadedDate": "2020-06-23T21:09:50.738Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b0bab8389dfb4e82b7e4d374626623dd"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

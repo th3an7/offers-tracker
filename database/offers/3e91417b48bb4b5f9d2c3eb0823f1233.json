@@ -1,0 +1,328 @@
+{
+  "id": "3e91417b48bb4b5f9d2c3eb0823f1233",
+  "namespace": "ue",
+  "title": "Vehicle AI Plugin",
+  "description": "Easy to integrate Vehicle AI using the Nav Mesh",
+  "longDescription": "<p><a href=\"https://youtu.be/LrD9DrUmZ2I\" rel=\"nofollow\">Preview Video</a></p><p><a href=\"https://drive.google.com/file/d/1sseXRx7CAuna8bQKpetG9d-HksbDWFBq/view?usp&#61;sharing\" rel=\"nofollow\">Downloadable Demo</a></p><p><br /></p><p>The Vehicle AI Plugin is a simple, effective way to get AI controlled vehicles using the NavMesh into your game. The plugin uses a customized version of the PathFollowingComponent to control the steering, throttle and brakes of your vehicle. The vehicle uses the Navigation Mesh, which makes it super fast to integrate to your own project. Simply use the normal AI Move To and it will find its way there! Implement the included interface to be able to use it on special vehicles, such as Tanks or N-Wheeled vehicles, or use it to customize the steering, throttle or braking, to get better results. The plugin also includes other useful features that make it a perfect starting point to use for any type of Vehicle AI you wish to implement. See the preview video to see some of those features in action.</p><p><br /></p><p><a href=\"https://www.youtube.com/playlist?list&#61;PLLyjYXyYtvZwLKH-pBqWQuy0gBN79P2WT\" rel=\"nofollow\">Video Tutorials</a></p><p><br /></p><p><strong>Unreal Engine 5.0 Update Notes:</strong></p><p>PhysX dependencies have been removed from the plugin - you <strong>must use the interface</strong> system. This has the added advantage of reducing the plugin dependencies for those using third party vehicle systems or still compiling the engine for PhysX.</p><p><br /></p><p><strong>1.6 Version Update Notes (available 5.0&#43; only):</strong></p><p>Added</p><ul><li>New spline following function - This works better than the older function and will generally follow the spline relatively precisely, and gives a good starting point for racing games (Note, this is not an out of the box solution for a racing game however other aspects such as choosing an appropriate racing line will be up to you).</li></ul><p><br /></p><p>Changed</p><ul><li>Updated example project with new spline following function for the racing example.</li><li>Moved most underused properties under &#39;advanced&#39; sections on the Path Following Component. These properties are provided for precise tweaking but shouldn&#39;t need to be used by most users unless you want to get very precise behaviour.</li><li>Improved braking and slowdown behaviour based on physical properties of the vehicle (have to be manually changed in the Path Following Component however) - This should mean vehicles stick to a path more precisely, and slow down for very sharp corners.</li></ul><p><br /></p><p>Removed</p><ul><li>Curve method of steering - Now uses PID controller only.</li><li>Variables that are no longer used or required, or are automatically calculated based on physical properties (eg. slowdown distance).</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vehicle-ai-plugin",
+  "creationDate": "2019-07-26T18:59:13.264Z",
+  "lastModifiedDate": "2025-01-06T17:28:03.212Z",
+  "effectiveDate": "2019-07-26T19:02:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a9jh7trg3h9hzl4l7zaf9r6vxs2hlt",
+    "name": "313 Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>NavMesh based path following</li><li>Quick and easy integration</li><li>Automatic throttle and braking based on a desired speed</li><li>Detour Crowd Avoidance compatible</li><li>Simple stuck detection gets AI moving again after becoming stuck (can be overridden for custom unstuck behaviour)</li><li>Handling is controlled by physical properties so fits many vehicle types</li></ul><p><br /></p><p><strong>Code Modules</strong>: Runtime: VehicleAIPlugin</p><p><strong>Number of Blueprints</strong>: 0</p><p><strong>Number of C&#43;&#43; Classes</strong>: 9</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>: Windows</p><p><strong>Supported Target Build Platforms</strong>: Windows</p><p><strong>Documentation</strong>: <a href=\"https://313-studios.com/wp-content/uploads/2019/12/VehicleAIPluginDocumentationV2.pdf\" rel=\"nofollow\">Link</a></p><p><strong>Example Project</strong>: <a href=\"https://drive.google.com/file/d/1_HPR_Ra-pzVlr7POgJ2z5B0ggWS8SIAZ/view?usp&#61;sharing\" rel=\"nofollow\">Link</a> (4.22-4.24) <a href=\"https://drive.google.com/file/d/1BS9B2Z89qwEsXA-vYULaomqeSQqMabOD/view?usp&#61;sharing\" rel=\"nofollow\">Link </a>(4.25-4.27), <a href=\"https://drive.google.com/file/d/1iGdh4Ch-C0oFm_k4jOhRKOlRdmRlQtYk/view?usp&#61;sharing\" rel=\"nofollow\">Link</a> (5.0)</p><p><strong>Important/Additional Notes</strong>:</p><ul><li>Example content shown in video (Driveable Vehicle Pack) is not included</li><li>This plugin is for generic vehicles to use the Navigation Mesh. It will not provide an out of the box solution for racing games or traffic simulations, although it can provide a basis for them as shown in the example project.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1276",
+      "name": "DYNAMIC NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:35.735Z",
+      "updated": "2019-06-20T12:00:35.735Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0d2e0678-753f-4f25-813d-5cc713f7fa93"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AIFramework-1920x1080-5c7d078bfe0cf8a24ca0d7d861f25242.jpg",
+      "md5": "5c7d078bfe0cf8a24ca0d7d861f25242",
+      "size": 510284,
+      "uploadedDate": "2019-07-23T15:58:01.590Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AutoReversing-1920x1080-f9476675a2a93dd9793c576a3deb538c.jpg",
+      "md5": "f9476675a2a93dd9793c576a3deb538c",
+      "size": 320728,
+      "uploadedDate": "2019-07-23T15:58:01.958Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Avoidance-1920x1080-dca4872ff50e168a53c40a6f8145f43d.jpg",
+      "md5": "dca4872ff50e168a53c40a6f8145f43d",
+      "size": 152394,
+      "uploadedDate": "2019-07-23T15:58:02.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighPerformance-1920x1080-b8e90405d9997bb2950323e8c379a7eb.jpg",
+      "md5": "b8e90405d9997bb2950323e8c379a7eb",
+      "size": 193064,
+      "uploadedDate": "2019-07-23T15:58:02.597Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NavMesh-1920x1080-f1c2aa3e0d95dfc5fc878e9e98a1e70b.jpg",
+      "md5": "f1c2aa3e0d95dfc5fc878e9e98a1e70b",
+      "size": 282826,
+      "uploadedDate": "2019-07-23T15:58:03.013Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VehicleAIPlugin_thumb-284x284-284ac1077ebfc55a0fefbbae93663d20.png",
+      "md5": "284ac1077ebfc55a0fefbbae93663d20",
+      "size": 71138,
+      "uploadedDate": "2019-07-23T15:58:03.293Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VehicleAIPlugin_featured-894x488-0ee74278e9b68b9adb8a1e3a4b229b7c.png",
+      "md5": "0ee74278e9b68b9adb8a1e3a4b229b7c",
+      "size": 342165,
+      "uploadedDate": "2019-07-23T15:58:03.373Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AIFramework-1920x1080-5c7d078bfe0cf8a24ca0d7d861f25242_Snapshot.jpg",
+      "md5": "00f8ded0d87046ed7ff156727438169b",
+      "size": 5981,
+      "uploadedDate": "2019-07-23T15:58:01.852Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AutoReversing-1920x1080-f9476675a2a93dd9793c576a3deb538c_Snapshot.jpg",
+      "md5": "3c30bc1104ca96d7fb652859a3c77cf7",
+      "size": 4873,
+      "uploadedDate": "2019-07-23T15:58:02.168Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Avoidance-1920x1080-dca4872ff50e168a53c40a6f8145f43d_Snapshot.jpg",
+      "md5": "c9e640ba4805e20194ecf7d9c670656d",
+      "size": 2839,
+      "uploadedDate": "2019-07-23T15:58:02.484Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighPerformance-1920x1080-b8e90405d9997bb2950323e8c379a7eb_Snapshot.jpg",
+      "md5": "7d700a2af1903b2c688f948d381df5dc",
+      "size": 3211,
+      "uploadedDate": "2019-07-23T15:58:02.843Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NavMesh-1920x1080-f1c2aa3e0d95dfc5fc878e9e98a1e70b_Snapshot.jpg",
+      "md5": "bafce57fd6aaf1b2b20306661b040bcd",
+      "size": 5069,
+      "uploadedDate": "2019-07-23T15:58:03.259Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "968bea1a55c748b8a31ff9f0c1e86938"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

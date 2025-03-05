@@ -1,0 +1,313 @@
+{
+  "id": "38044c6638aa48dbb22481afc16a459b",
+  "namespace": "ue",
+  "title": "2D Endless Runner Platform Kit",
+  "description": "The 2D Infinite Runner Kit is the ultimate, easy to use framework for creating endless runner type of games in 2D! It is blueprint based and has a number of features like enemies, hp/dmg system, rewards, local save data, score, loop-able environment etc",
+  "longDescription": "<p><strong><u>Preview: </u></strong><a href=\"https://www.youtube.com/watch?v&#61;6kESDfTyZ40\" rel=\"nofollow\"><strong><u>youtube.com/watch?v&#61;6kESDfTyZ40</u></strong></a></p><p><br /></p><p>Now with FULL mobile support for Android and IOS!</p><p><br /></p><p>This is a 2D Infinite Runner Game kit in which you must avoid obstacles, gather coins and power-ups with your character. Your character can jump or double jump on or over these objects. Coins and obstacles are spawned grouped in a pattern or individually. The blueprints are commented and easy to use.</p><p><br /></p><p>Everything is commented and the blueprints communicate in a centralized manner.</p><p>Extra documentation <a href=\"https://docs.google.com/document/d/1xQXnsMwZs5Vvps3G_qNNjKP5N2KPRf5yr3IT1L9xg9k/edit#heading&#61;h.48njozb9ryaa\" rel=\"nofollow\">here</a></p><p><br /></p><p><strong>Get in touch!</strong></p><p><strong>Support thread </strong><a href=\"https://forums.unrealengine.com/showthread.php?132402-2d-Endless-Runner-Kit&amp;highlight&#61;2d%20runner\" rel=\"nofollow\"><strong><u>HERE</u></strong></a></p><p><strong>Email: fkrue4&#64;gmail.com</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "2d-endless-runner",
+  "creationDate": "2016-12-08T21:04:45.056Z",
+  "lastModifiedDate": "2025-02-22T19:54:44.479Z",
+  "effectiveDate": "2016-12-14T00:00:00.000Z",
+  "viewableDate": "2016-12-14T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2267692c72407b9176689e11f76280",
+    "name": "Darmok"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Character</strong></p><ul><li>Jump/Multi jump</li><li>Character Selection Screen</li></ul><p><strong>Environment</strong></p><ul><li>Looping Parallax</li></ul><p><strong>Enemies</strong></p><ul><li>Patrol</li><li>Projectile</li><li>Static</li><li>Special (attacks your last character position)</li><li>Can be destroyed if jumping on them propelling you upwards</li></ul><p><strong>Damage/Health System</strong></p><ul><li>Custom health and damage values</li><li>Health pickups</li><li>Hurt &#43; death states</li><li>Slow motion death <strong>(NEW!)</strong></li></ul><p><strong>Rewards</strong></p><ul><li>Low, Med, High (custom value)</li><li>HUD display</li></ul><p><strong>Powerups</strong></p><ul><li>Coin Magnet (attracts coins towards you)</li><li>Health</li><li>Invincibility</li><li>Reward multiplier</li><li>Visual feedback</li><li>Hover <strong>(NEW!)</strong></li></ul><p><strong>Spawning system</strong></p><ul><li>Patterns/groups of enemy/coins/powerups</li><li>Random/Fixed spawn positions</li><li>Spawn chances per actor types</li><li>Special spawner (single powerups or special enemies)</li></ul><p><strong>Difficulty</strong></p><ul><li>Custom increments x times</li><li>Affects spawn chances</li></ul><p><strong>Score</strong></p><ul><li>HUD display</li><li>Bonus score</li></ul><p><strong>Save Game File</strong></p><ul><li>Stored coins/scores locally</li><li>High Score and coins HUD display</li></ul><p><strong>UI</strong></p><ul><li>Idle dialogue text display</li><li>HUD display coins, score, health, powerups</li><li>Pause screen</li><li>Score screen</li><li>Text feedback</li><li>Level Progression <strong>(NEW!)</strong></li></ul><p><strong>Other Features</strong></p><ul><li>Sounds</li><li>Animations</li><li>Effects</li></ul><p>Materials: 9</p><p>Sprites: 77</p><p>Flipbooks: 6</p><p>Blueprints: 58</p><p>Documentation: Yes</p><p>Tested: PC, Android, IOS</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1120",
+      "name": "RTS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:18.078Z",
+      "updated": "2023-08-23T05:08:24.551Z",
+      "status": "ACTIVE",
+      "referenceCount": 87,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b50709e2-9df8-4cdf-9fc6-6d6dfb88a4b2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Screenshot_01-1920x1080-b91c15f6cd34b7bfc9419b5dc4ea9fde.png",
+      "md5": "b91c15f6cd34b7bfc9419b5dc4ea9fde",
+      "size": 1622456,
+      "uploadedDate": "2017-03-13T17:55:29.985Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Screenshot_02-1920x1080-9ab0779af71b31f06b75d5ce7d94fbe5.png",
+      "md5": "9ab0779af71b31f06b75d5ce7d94fbe5",
+      "size": 1510580,
+      "uploadedDate": "2017-03-13T17:55:28.481Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Screenshot_03-1920x1080-5c9b2a7decdbabeedfed427879407e23.png",
+      "md5": "5c9b2a7decdbabeedfed427879407e23",
+      "size": 437401,
+      "uploadedDate": "2017-03-13T17:55:26.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Screenshot_04-1920x1080-45b6292f3b54d245745d0d3ae2375f16.png",
+      "md5": "45b6292f3b54d245745d0d3ae2375f16",
+      "size": 409196,
+      "uploadedDate": "2017-03-13T17:55:23.315Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Screenshot_05-1920x1080-389a10d5ca5c32db26df22cf45d15446.png",
+      "md5": "389a10d5ca5c32db26df22cf45d15446",
+      "size": 403530,
+      "uploadedDate": "2017-03-13T17:55:21.832Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Screenshot_06-1920x1080-593586344c92727b1c23b4066cd74720.png",
+      "md5": "593586344c92727b1c23b4066cd74720",
+      "size": 271786,
+      "uploadedDate": "2017-03-13T17:55:20.353Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Screenshot_07-1920x1080-200080e79469f9384d9a8f365e9e84ce.png",
+      "md5": "200080e79469f9384d9a8f365e9e84ce",
+      "size": 307061,
+      "uploadedDate": "2017-03-13T17:55:18.610Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunner2D_Thumb-284x284-d5aab75052029a52329365fe42652783.png",
+      "md5": "d5aab75052029a52329365fe42652783",
+      "size": 124421,
+      "uploadedDate": "2017-06-12T13:47:24.994Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/EndlessRunnerKit2D_Featured-894x488-5ffb446fd8abd69d9408551ef607a071.png",
+      "md5": "5ffb446fd8abd69d9408551ef607a071",
+      "size": 105885,
+      "uploadedDate": "2017-03-13T17:55:30.396Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4787e57d8946488182f87009edd288be"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

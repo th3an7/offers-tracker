@@ -1,0 +1,127 @@
+{
+  "id": "3a3a2abdf45e4f28843d27f3615e24ef",
+  "namespace": "ue",
+  "title": "SG Grid Creator",
+  "description": "Quick way to create tiles, fences, bridges or even stairs. Save your times to generate large map!",
+  "longDescription": "Preview: <a href=\"https://youtu.be/AI6VCBPGFZ0\" rel=\"nofollow\">youtu.be/AI6VCBPGFZ0</a><br /><br />You can change the mesh per blueprint , set the space between grids and rotate every ones easily! Useful for large map generation, tiles creation. You can set the first mesh as the center of the actor, make it&#39;s transform value more reliable! <br />No annoying plug-in, ONLY a Blueprint (with a enum). Drag and drop it to the level and set the variables!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sg-grid-creator",
+  "creationDate": "2017-01-24T15:02:40.232Z",
+  "lastModifiedDate": "2025-02-23T20:05:04.026Z",
+  "effectiveDate": "2017-02-08T00:00:00.000Z",
+  "viewableDate": "2017-02-08T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-5597d717fd41ef82dbee26f658ad8e",
+    "name": "GODNASK Assets"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Blueprints: 1 <br />Number of StaticMeshes : 1 (100x100x4 size floor) <br />List of Features :<br /><br />1. Custom grids size <br />2. Custom transform <br />3. Override mesh and materials per BP <br />4. Center pivot the grids. <br />5. Spawn direction selectable <br />6. Gradient location offset (additional value, quick way to create stairs)<br /><br />Engine Compatibility: 4.14 <br />Intended Platform: Mac <br />Platforms Tested: Mac <br />Documentation Included: No<br /><br />Intended Platform <br />Mac<br />",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e74a48a1-2e77-4900-975d-b1bf3b306a39"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SGGridCreator_Sceenshots1-1920x1080-5e228448d8aa3556a828db7acef8116e.png",
+      "md5": "5e228448d8aa3556a828db7acef8116e",
+      "size": 438573,
+      "uploadedDate": "2017-02-08T15:13:42.568Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SGGridCreator_Sceenshots2-1920x1080-0dd41d9ff1f01f7c40bff29c785b74ab.png",
+      "md5": "0dd41d9ff1f01f7c40bff29c785b74ab",
+      "size": 322679,
+      "uploadedDate": "2017-02-08T15:13:40.079Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SGGridCreator_Sceenshots3-1920x1080-f841fdda8870d53f057d43b732f299df.png",
+      "md5": "f841fdda8870d53f057d43b732f299df",
+      "size": 438965,
+      "uploadedDate": "2017-02-08T15:13:39.035Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SGGridCreator_Sceenshots4-1920x1080-77344da221ab703716825183e9d2d56d.png",
+      "md5": "77344da221ab703716825183e9d2d56d",
+      "size": 853365,
+      "uploadedDate": "2017-02-08T15:13:37.490Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SGGridCreator_Sceenshots5-1920x1080-f7e91bee598aec847f840478cf176cb2.png",
+      "md5": "f7e91bee598aec847f840478cf176cb2",
+      "size": 340278,
+      "uploadedDate": "2017-02-08T15:13:35.903Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/SGGridCreator_Thumbnail-284x284-b54b2825ef4b619d30b0a0a8643c0d93.png",
+      "md5": "b54b2825ef4b619d30b0a0a8643c0d93",
+      "size": 144467,
+      "uploadedDate": "2017-02-08T15:13:34.022Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/SGGridCreator_Featured-894x488-19e9c22b8b18c24995716e0060ab687a.png",
+      "md5": "19e9c22b8b18c24995716e0060ab687a",
+      "size": 442110,
+      "uploadedDate": "2017-02-08T15:13:44.477Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "e4b42388f6234a19aff1443280b3eef6"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

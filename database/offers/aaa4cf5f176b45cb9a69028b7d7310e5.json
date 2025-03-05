@@ -1,0 +1,202 @@
+{
+  "id": "aaa4cf5f176b45cb9a69028b7d7310e5",
+  "namespace": "ue",
+  "title": "Physics Based Mesh Placement",
+  "description": "This simple blueprint allows to generate meshes in volume with various settings, and then, after physics simulation (Play->Simulate), load meshes to scene to work with them",
+  "longDescription": "<p>You can make physics based meshes placement on scene in few simple steps:</p><ol><li>Drag BP_PhysSpawnerVolume on scene</li><li>Change settings as you want and hit &#34;Fill volume&#34; button in actor&#39;s detail tab</li><li>Hit Play-&gt;Simulate and wait while physics simulation is going on</li><li>Press &#34;Save objects&#34; in actor&#39;s details tab and stop playing in editor</li><li>Select volume again and hit &#34;Load objects&#34; buttons to place meshes on scene. Few additional buttons allow you to convert loaded meshes to ISM instances (you can work with them before it (change transform)) or load them as ISM instances directly.</li><li>This BP can use two meshes - one with accurate collision (for best physics simulation) and one with optimised collision (will replace prev. mesh).</li></ol><p>Check video tutorial to see how it works</p><p><strong>Video</strong></p><p><a href=\"https://www.youtube.com/watch?v&#61;dWsx_qFYK-g&amp;feature&#61;youtu.be\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;dWsx_qFYK-g&amp;feature&#61;youtu.be</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "physics-based-mesh-placement",
+  "creationDate": "2019-09-25T17:30:28.441Z",
+  "lastModifiedDate": "2025-01-08T20:12:15.352Z",
+  "effectiveDate": "2019-09-25T17:33:38.838Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-u843huht8hran5ed3k7ed7xeteqjax",
+    "name": "GregTDev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Spawning meshes in box volume with various settings;</li><li>Saving meshes data from UE4 physics simulation (Play-&gt;Simulate) and loading it when working in editor;</li><li>Ability to load meshes on scene after physics simulation to work with them (can be loaded as separate static meshes or instances);</li><li>In BP_PhysSpawnerVolume you can set 2 references for each static mesh: one with accurate collision (will be used for phys. simulation), and one with optimised collision (will be placed on scene after loading static meshes after phys. simulation). Use this option if you want, BP works even with 1 reference to each SM</li></ul><p><strong>Number of Blueprints:</strong> 6 (volume generator, save game BP and tutorial actors).</p><p><strong>Number of meshes: </strong>10</p><p><strong>Number of materials</strong>: 4</p><p><strong>Number of textures:</strong> 1</p><p><strong>Maps: </strong>1 overview map with detailed tutorial</p><p><strong>Supported Development Platforms: </strong>Windows PC, Mac, Consoles.</p><p><strong>Supported Target Build Platforms:</strong> Windows PC, Mac, Consoles.</p><p><strong>Documentation:</strong> you can find detailed documentation and tutorial in overview map.</p><p>Important/Additional Notes: Setting the spawn distance in BP_PhysSpawnerVolume too low can result in serious performance issues.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b4378ee5-6317-4030-a6d0-3040b6540d38"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-1938d1f9eaccf7863e2b6cd04ed2045b.jpg",
+      "md5": "1938d1f9eaccf7863e2b6cd04ed2045b",
+      "size": 919184,
+      "uploadedDate": "2019-09-07T19:24:18.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-3cdb14cd90dbe564e0af4739b5eb863b.jpg",
+      "md5": "3cdb14cd90dbe564e0af4739b5eb863b",
+      "size": 800853,
+      "uploadedDate": "2019-09-07T19:24:18.746Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-9c2d44f05cd6614013f38ad704be780c.jpg",
+      "md5": "9c2d44f05cd6614013f38ad704be780c",
+      "size": 1013326,
+      "uploadedDate": "2019-09-07T19:24:19.114Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-ffdc348c7d1d700595689be8eb8fced3.jpg",
+      "md5": "ffdc348c7d1d700595689be8eb8fced3",
+      "size": 855097,
+      "uploadedDate": "2019-09-07T19:24:19.474Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Physicsbasedmeshesplacement_thumb-284x284-f1d20e6a51edc1e6e63c8a38a9e5b2bb.png",
+      "md5": "f1d20e6a51edc1e6e63c8a38a9e5b2bb",
+      "size": 153320,
+      "uploadedDate": "2019-09-07T19:24:19.807Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Physicsbasedmeshesplacement_featured-894x488-a6ea41b1839989753a61f027cce14fbb.png",
+      "md5": "a6ea41b1839989753a61f027cce14fbb",
+      "size": 564189,
+      "uploadedDate": "2019-09-07T19:24:19.907Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-1938d1f9eaccf7863e2b6cd04ed2045b_Snapshot.jpg",
+      "md5": "9b4d3607e35ed517f6b50552d4c88547",
+      "size": 7252,
+      "uploadedDate": "2019-09-07T19:24:18.597Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-3cdb14cd90dbe564e0af4739b5eb863b_Snapshot.jpg",
+      "md5": "0d0932133d1c4a7b6ff0a5617855a78f",
+      "size": 6845,
+      "uploadedDate": "2019-09-07T19:24:18.996Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-9c2d44f05cd6614013f38ad704be780c_Snapshot.jpg",
+      "md5": "7ea912f3449a3191f60b8d25eb4d2a36",
+      "size": 7391,
+      "uploadedDate": "2019-09-07T19:24:19.348Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-ffdc348c7d1d700595689be8eb8fced3_Snapshot.jpg",
+      "md5": "47a913f13d2a2b17c2dd88aa1fb29a2f",
+      "size": 6304,
+      "uploadedDate": "2019-09-07T19:24:19.719Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1292010c7af04820a67dfc96c10202e6"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "id": "caa0250d2d3a443b95a606dbd1112a6a",
+  "namespace": "ue",
+  "title": "Birds",
+  "description": "Birds for your game environments by Living Systems. Add interactive Bird or an entire flock of Birds (Crow, Pigeon, and Seagull) to your game environments. Drag and drop easy. Built in obstacle avoidance.",
+  "longDescription": "<p><strong>Preview:</strong> <a href=\"https://www.youtube.com/watch?v&#61;S9RUHZqZ6dg\" rel=\"nofollow\">youtube.com/watch?v&#61;S9RUHZqZ6dg</a></p><p><strong>Update v3.0:</strong> <a href=\"https://www.youtube.com/watch?v&#61;auaiRiLPNRg&amp;feature&#61;youtu.be\" rel=\"nofollow\">youtube.com/watch?v&#61;auaiRiLPNRg</a></p><p><strong>Update v3.5: </strong><a href=\"https://www.youtube.com/watch?v&#61;YyoWmvS49VY\" rel=\"nofollow\">youtube.com/watch?v&#61;YyoWmvS49VY</a></p><p><br /></p><p><strong>Obstacle Avoidance:</strong> <a href=\"https://www.youtube.com/watch?v&#61;wWCy572f50I\" rel=\"nofollow\">youtube.com/watch?v&#61;wWCy572f50I</a></p><p><strong>Birds in the Wild:</strong> <a href=\"https://youtube.com/playlist?list&#61;PL2-EFtis4caNVnPnaYMUiQ4gsF-WtX5OV\" rel=\"nofollow\">A Playlist of Games and Projects Using Birds.</a></p><p><br /></p><p>These Birds will walk and hop to random Ground Targets taking breaks to feed. They will run then fly away from any Actor with an Enemy Tag. Once in the air they will fly to random Sky Targets (for an adjustable amount of time) after which they will return to the ground. Birds also now comes with Perching behavior. Easy setup, just drag some Sky Targets, Perch Targets and Ground Targets into your level, and the birds will take care of the rest. You can also play as a bird with all walking and flying functionality.</p><p><a href=\"https://drive.google.com/file/d/1Mdp09oU7w-eOaP-qSXdpQvXIy-qRP6bX/view?usp&#61;sharing\" rel=\"nofollow\">Getting Started PDF</a></p><p><br /></p><p>Birds v3.5 Includes:</p><p>• (3) rigged and animated Bird skeletal meshes (Crow, Pigeon, and Seagull)</p><p>• (87) Animations</p><p>• (6) Animation Blueprints</p><p>• (3) Character Blueprints with 1 Parent Class</p><p>• (2) Game modes (Play as the Enemy character, and Play as a Bird)</p><p>• (3) Drag and Drop NPC Birds (Crow, Pigeon, and Seagull)</p><p>• AI Controller, Behavior Tree, Backboard setup</p><p>• High resolution textures (4K) and materials</p><p>• Physics Assets</p><p>• LOD’s</p><p>• Single trace obstacle avoidance</p><p>• Bird Sounds</p><p>• Ragdoll on hit</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "birds",
+  "creationDate": "2016-04-18T21:57:16.115Z",
+  "lastModifiedDate": "2025-02-27T02:55:45.751Z",
+  "effectiveDate": "2016-05-04T00:00:00.000Z",
+  "viewableDate": "2016-05-04T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-0f46f83e764d58a449922d50aebe4e",
+    "name": "Living Systems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong><u>New in version 3.0:</u></strong></p><p>In v3.0 the Birds no longer use Tick, this comes with a significant performance boost.</p><p>We are now in a full AI Controller and Behavior Tree environment. The Birds will keep track of all Enemy Actors in their Perception range. If an Enemy gets too close the Birds will run then fly away. In the air they will fly to random Sky Targets. After flying for a while they will either return to the ground or perch on a Perching Target. Both Perching and Flying can be enabled or disabled on a per Bird Basis depending on your desired behavior.</p><p><br /></p><p><strong><u>New in version 3.5:</u></strong></p><p>in v3.5 we now have Bird sounds, and Bird calls with Bird call animations. Speaking of animations, we have many new animations (27) including new flying animations. The Birds will now blend between 3 animations while flying based on the Pitch angle of the Bird. If the Bird is flying relatively level it will use a relaxed flying animation. If flying upward they will use a more intense flying animation to gain altitude. When flying in a downward direction the Birds will use a gliding animation. The Perching system has been completely redesigned to be much more reliable. Finally the Birds will now fly away from gunshots or any other sound you wish them to.</p><p><br /></p><p>Intended Platform: Windows</p><p>Platforms Tested: Windows</p><p>Documentation Included: No</p><p>Important\\Additional Notes: <a href=\"https://drive.google.com/file/d/1Mdp09oU7w-eOaP-qSXdpQvXIy-qRP6bX/view?usp&#61;sharing\" rel=\"nofollow\">Getting Started PDF</a></p><p>For additional Videos, Information and Discussion come on by our <a href=\"https://forums.unrealengine.com/showthread.php?108762-Birds\" rel=\"nofollow\">Forum Thread</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c5b54173-3087-4060-9380-5f9c500c31ec"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pigeon1Fly-1920x1080-2c01ee93546da7aac82d28063a9abcad.jpg",
+      "md5": "2c01ee93546da7aac82d28063a9abcad",
+      "size": 205457,
+      "uploadedDate": "2019-09-13T16:55:45.516Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PigeonLODs-1920x1080-9352990f1037af1d8e01653ef19698e2.jpg",
+      "md5": "9352990f1037af1d8e01653ef19698e2",
+      "size": 1310311,
+      "uploadedDate": "2019-04-04T22:48:51.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Birds9-1920x1080-89d1b7bad251d5989537e57f8fd0d20c.jpg",
+      "md5": "89d1b7bad251d5989537e57f8fd0d20c",
+      "size": 644337,
+      "uploadedDate": "2018-01-17T21:07:40.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SeagullLODs-1920x1080-bd00b384fdf1cab124f7e22bfe506b51.jpg",
+      "md5": "bd00b384fdf1cab124f7e22bfe506b51",
+      "size": 1459172,
+      "uploadedDate": "2019-04-04T22:48:50.653Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Birds_Screenshot01-1920x1080-5732d428a7cfa08ee0ff4ffe1ae7e7e1.png",
+      "md5": "5732d428a7cfa08ee0ff4ffe1ae7e7e1",
+      "size": 503462,
+      "uploadedDate": "2016-04-18T21:56:57.273Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CrowLODs-1920x1080-d338484d70fe74892ef736994feb5129.jpg",
+      "md5": "d338484d70fe74892ef736994feb5129",
+      "size": 1062549,
+      "uploadedDate": "2019-04-04T22:48:52.556Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Birds10-1920x1080-faeac131c0747093e02746082ddf9124.jpg",
+      "md5": "faeac131c0747093e02746082ddf9124",
+      "size": 1917657,
+      "uploadedDate": "2019-09-13T17:05:42.830Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Birds_Screenshot04-1920x1080-a4407bc8d0a14db5ef0e5f88cb0d6596.png",
+      "md5": "a4407bc8d0a14db5ef0e5f88cb0d6596",
+      "size": 516738,
+      "uploadedDate": "2016-04-18T21:56:51.958Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Birds_thumb-284x284-c6aa4c2996a4355ebfc02c098f64e238.png",
+      "md5": "c6aa4c2996a4355ebfc02c098f64e238",
+      "size": 128866,
+      "uploadedDate": "2023-10-03T20:43:02.679Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Birds_featured-894x488-758a77c242d51335dd5cb537c7cfdc8a.png",
+      "md5": "758a77c242d51335dd5cb537c7cfdc8a",
+      "size": 528518,
+      "uploadedDate": "2023-10-03T20:31:47.519Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Birds10-1920x1080-faeac131c0747093e02746082ddf9124_Snapshot.jpg",
+      "md5": "19676372fcb8ab6be26ad02137df9aab",
+      "size": 8703,
+      "uploadedDate": "2019-09-13T17:05:43.226Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pigeon1Fly-1920x1080-2c01ee93546da7aac82d28063a9abcad_Snapshot.jpg",
+      "md5": "5edcc179ab99ae86a98137516433e112",
+      "size": 4927,
+      "uploadedDate": "2019-09-13T16:55:45.774Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pigeon1Fly-1920x1080-7059047e4f90c184f6336ad7316e003f_Snapshot.jpg",
+      "md5": "966c68bb37a128317ac2e4c3a153f454",
+      "size": 4923,
+      "uploadedDate": "2019-09-10T23:26:02.878Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot10Pigeons-1920x1080-216997a8ec7e2229acddcf756c561f1c_Snapshot.jpg",
+      "md5": "00b578c45b65fda80152ace0fc3db75f",
+      "size": 4096,
+      "uploadedDate": "2019-04-16T22:50:41.167Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SeagullLODs-1920x1080-bd00b384fdf1cab124f7e22bfe506b51_Snapshot.jpg",
+      "md5": "96502e0a73d385ef7d44182ceb93757b",
+      "size": 3473,
+      "uploadedDate": "2019-04-04T22:48:50.958Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PigeonLODs-1920x1080-9352990f1037af1d8e01653ef19698e2_Snapshot.jpg",
+      "md5": "4ad3cb23a3f8c5a9116baf31b047e10c",
+      "size": 3679,
+      "uploadedDate": "2019-04-04T22:48:52.420Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CrowLODs-1920x1080-d338484d70fe74892ef736994feb5129_Snapshot.jpg",
+      "md5": "af0effcc2059c8fc1dbe3a81fd808e48",
+      "size": 3049,
+      "uploadedDate": "2019-04-04T22:48:52.829Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/Birds_FeaturedNew-894x488-e6a9962556de24330200ad7fd1a0221d.png",
+      "md5": "e6a9962556de24330200ad7fd1a0221d",
+      "size": 505208,
+      "uploadedDate": "2016-04-18T21:56:58.823Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "506a451d20a74b92be0c256ac7cf7535"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

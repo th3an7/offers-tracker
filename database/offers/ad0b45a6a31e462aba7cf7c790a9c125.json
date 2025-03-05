@@ -1,0 +1,289 @@
+{
+  "id": "ad0b45a6a31e462aba7cf7c790a9c125",
+  "namespace": "ue",
+  "title": "Realtime Mesh Component Core",
+  "description": "Component for rendering procedurally generated meshes! Formerly known as Runtime Mesh Component.",
+  "longDescription": "<p>The RealtimeMeshComponent or more commonly RMC, is a functional replacement to the ProceduralMeshComponent and DynamicMeshComponent. The RMC is more efficient at rendering than either component while also being far more flexible than both components. You can still use all the DynamicMesh Geometry Scripting tools while enjoying the benefits of a faster renderer, or you can take a more direct approach and feed raw mesh data into the component.</p><p><br /></p><p>The RMC has been around for nearly 7 years, and has been used by countless individuals, schools, and businesses alike, with many released projects, and big names using it. You can also find active support in our Discord server here: https://discord.gg/KGvBBTv</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runtime-mesh-component",
+  "creationDate": "2016-06-21T19:01:48.578Z",
+  "lastModifiedDate": "2025-01-08T09:05:36.249Z",
+  "effectiveDate": "2016-07-14T00:00:00.000Z",
+  "viewableDate": "2016-07-14T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-26e0a1e45b4f68ad02e607b5e30387",
+    "name": "TriAxis Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><p>* Full Collision Support, both static triangle mesh and dynamic moving objects</p><p>* Variable mesh formats, allowing for tradeoff in needed features and memory/performance overhead</p><p>* Up to 8 Texture Coordinate (UV) channels</p><p>* Normal or High precision Texture Coordinate (UV) channels</p><p>* Normal or High precision texture coordinates, supports engine feature for high precision normals</p><p>* LOD Support, allowing engine maximum of 8 LOD levels and full dithering support</p><p>* Full NavMesh support</p><p>* Async collision updates. As collision can be slow to update, the RMC can offload it from the game thread.</p><p><br /></p><p><br /></p><p><strong>Improvements over PMC:</strong></p><p>* 50-90% Lower memory usage than PMC</p><p>* 30-90% lower render thread CPU time</p><p>* Static draw path for maximum rendering performance</p><p>* Dynamic Draw path for efficient frequent updates.</p><p>* Distance field support for various engine features.</p><p> </p><p><strong>Number of C&#43;&#43; Classes:</strong> 62</p><p><strong>Supported Development Platforms:</strong> Win64, Mac, Linux</p><p><strong>Supported Target Build Platforms:</strong> All engine supported platforms</p><p><strong>Documentation: </strong>https://rmc.triaxis.games/</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1353",
+      "name": "CAPITALISM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:13.701Z",
+      "updated": "2019-06-20T12:01:13.701Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bb2e4fbb-617c-41d3-aac6-e181eddf8b3b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RMCBPExample-1920x1080-8c97653c32db9205a0a5240d67f4411c.png",
+      "md5": "8c97653c32db9205a0a5240d67f4411c",
+      "size": 725443,
+      "uploadedDate": "2023-02-28T05:24:47.120Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RMCCPPExample-1920x1080-09055346407cde9f29088941b4b71e46.png",
+      "md5": "09055346407cde9f29088941b4b71e46",
+      "size": 582664,
+      "uploadedDate": "2023-02-28T05:24:47.593Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RuntimeMeshComponent_Screenshot_2-1920x1080-b2eb10def64789a3a93a5ea382e42b63.png",
+      "md5": "b2eb10def64789a3a93a5ea382e42b63",
+      "size": 805589,
+      "uploadedDate": "2016-06-21T19:00:54.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RuntimeMeshComponent_Screenshot_3-1920x1080-5a996b03e1007c80ab58fd3e716566c2.png",
+      "md5": "5a996b03e1007c80ab58fd3e716566c2",
+      "size": 450775,
+      "uploadedDate": "2016-06-21T19:00:53.076Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RuntimeMeshCore_thumb-284x284-8e46ce801d64ad813fd70ed23beed278.png",
+      "md5": "8e46ce801d64ad813fd70ed23beed278",
+      "size": 95537,
+      "uploadedDate": "2023-02-28T05:24:47.879Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RuntimeMeshCore_featured-894x488-b80a0526a85d8d3270f1d697345a95bc.png",
+      "md5": "b80a0526a85d8d3270f1d697345a95bc",
+      "size": 353832,
+      "uploadedDate": "2023-02-28T05:24:47.964Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RMCBPExample-1920x1080-8c97653c32db9205a0a5240d67f4411c_Snapshot.png",
+      "md5": "76c0a3a1e24c133e3a601b0615810e59",
+      "size": 4762,
+      "uploadedDate": "2023-02-28T05:24:47.351Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RMCCPPExample-1920x1080-09055346407cde9f29088941b4b71e46_Snapshot.png",
+      "md5": "a5efe383245e264f1ad34600689b3be3",
+      "size": 3157,
+      "uploadedDate": "2023-02-28T05:24:47.837Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/RuntimeMeshComponent_FeaturedNew-894x488-78dec9773c95e22727d592b86500af4a.png",
+      "md5": "78dec9773c95e22727d592b86500af4a",
+      "size": 358573,
+      "uploadedDate": "2016-06-21T19:00:57.686Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "54ffd5d1bf6f4a5b8a03af0404ee5173"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

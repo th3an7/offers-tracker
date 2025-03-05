@@ -1,0 +1,167 @@
+{
+  "id": "823ddd7e3de04de59f5f56dd17321857",
+  "namespace": "ue",
+  "title": "Physique Modifier",
+  "description": "A custom AnimGraph node which can modify each bone scale individually.",
+  "longDescription": "<p>Developers can modify character&#39;s each bone scale and thickness individually, freely and easily via custom AnimGraphNode &#39;Physique Modifier&#39; in Animation Blueprint Editor. You can manage and switch all of bone scale parameter individually by defining profiles. Also can expose blend alpha and profile name to pins, change them at rumtime.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "physique-modifier",
+  "creationDate": "2023-03-16T12:26:05.355Z",
+  "lastModifiedDate": "2025-01-06T06:23:43.263Z",
+  "effectiveDate": "2023-03-16T12:31:50.385Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q3x5d8rcrxjrbfv2skgfevty8tv2fk",
+    "name": "Toyojiro"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Simple plug and play by a single AnimGraph node.</li><li> Developers can modify bone scale freely in the animation blueprint editor.</li><li> Also can switch each parameter profile and operate blend alpha by exposing pins at runtime.</li><li>Written in C&#43;&#43; completely for better performance.</li></ul><p><br /></p><p>Code Modules:</p><ul><li>Runtime: PhysiqueModifier</li><li>Editor: PhysiqueModifierEd</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1PNHnou1bydoZIAKwYqUpKwSZaMxhceRO/view?usp&#61;share_link\" rel=\"nofollow\">https://drive.google.com/file/d/1PNHnou1bydoZIAKwYqUpKwSZaMxhceRO/view?usp&#61;share_link</a></p><p>Video Tutorial: <a href=\"https://t.co/ReQT44h7sb\" rel=\"nofollow\">youtu.be/ZfSl2ZjwzCo</a></p><p><br /></p><p>Update:</p><ul><li>2023/09/30 (1.02)</li><li>Fixed crash caused by skeleton&#39;s bone references.</li><li>An error information is displayed when an unexpected reference is detected.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-d74e31d22bcf62b1c3a64fe3967906e1.jpg",
+      "md5": "d74e31d22bcf62b1c3a64fe3967906e1",
+      "size": 367383,
+      "uploadedDate": "2023-03-12T12:25:55.374Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-57127888c0433f70740459316ead78a0.jpg",
+      "md5": "57127888c0433f70740459316ead78a0",
+      "size": 332965,
+      "uploadedDate": "2023-03-12T12:25:55.742Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/0-1920x1080-1b8c0ad011d45b35da4457395dcea45b.jpg",
+      "md5": "1b8c0ad011d45b35da4457395dcea45b",
+      "size": 377429,
+      "uploadedDate": "2023-03-12T12:25:56.072Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PhysiqueModifier_thumb-284x284-cafd30ef22aee9ac6eba2b1ba7756176.png",
+      "md5": "cafd30ef22aee9ac6eba2b1ba7756176",
+      "size": 132799,
+      "uploadedDate": "2023-03-12T12:25:56.368Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PhysiqueModifier_featured-894x488-800b8d7adebecf97bfd1ad9b98118ab8.png",
+      "md5": "800b8d7adebecf97bfd1ad9b98118ab8",
+      "size": 502973,
+      "uploadedDate": "2023-03-12T12:25:56.537Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-d74e31d22bcf62b1c3a64fe3967906e1_Snapshot.jpg",
+      "md5": "0c989e02dca81db6fb85dd25efbff986",
+      "size": 5772,
+      "uploadedDate": "2023-03-12T12:25:55.604Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-57127888c0433f70740459316ead78a0_Snapshot.jpg",
+      "md5": "232d9d755f2682636e684b6d3101bd2e",
+      "size": 5800,
+      "uploadedDate": "2023-03-12T12:25:55.967Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/0-1920x1080-1b8c0ad011d45b35da4457395dcea45b_Snapshot.jpg",
+      "md5": "33085adfa175ddfbcc6f84d02edf043c",
+      "size": 5109,
+      "uploadedDate": "2023-03-12T12:25:56.302Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e29df4ebcf9746298c5d977a52ac315a"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "dead-by-daylight--gold-edition",
   "creationDate": "2023-12-11T20:40:08.351Z",
-  "lastModifiedDate": "2025-02-24T16:01:51.609Z",
+  "lastModifiedDate": "2025-03-04T23:32:11.260Z",
   "effectiveDate": "2024-01-08T16:00:00.000Z",
   "viewableDate": "2024-01-08T16:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1857,
+      "referenceCount": 1859,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4932,
+      "referenceCount": 4929,
       "comment": ""
     },
     {
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18023,
+      "comment": null
+    },
+    {
       "id": "1131",
       "name": "SURVIVAL HORROR",
       "namespace": "epic",
@@ -105,18 +117,6 @@
       "updated": "2023-05-16T16:05:55.674Z",
       "status": "ACTIVE",
       "referenceCount": 38,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18011,
       "comment": null
     }
   ],
@@ -128,6 +128,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "publisherName",
