@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "d853afeade394783b1a9369055779145",
   "creationDate": "2023-03-09T19:36:58.225Z",
-  "lastModifiedDate": "2025-01-19T15:46:10.218Z",
+  "lastModifiedDate": "2025-03-05T14:06:19.703Z",
   "effectiveDate": "2023-03-16T17:00:00.000Z",
   "viewableDate": "2023-03-10T00:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18041,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -57,18 +69,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18023,
       "comment": null
     },
     {
@@ -106,6 +106,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "false"
     },
     {

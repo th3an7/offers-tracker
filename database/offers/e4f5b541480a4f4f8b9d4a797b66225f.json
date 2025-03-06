@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "b01b9a69d473489b9c20d47831f2fe68",
   "creationDate": "2023-11-07T09:47:19.476Z",
-  "lastModifiedDate": "2024-11-27T09:10:11.291Z",
+  "lastModifiedDate": "2025-03-05T16:27:55.565Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-09-25T12:50:50.154Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1857,
+      "referenceCount": 1871,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2024-10-25T20:00:26.146Z",
-      "status": "ACTIVE",
-      "referenceCount": 253,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -104,8 +92,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18011,
+      "referenceCount": 18041,
       "comment": null
+    },
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-06-24T20:06:43.344Z",
+      "updated": "2024-10-25T20:00:26.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 254,
+      "comment": ""
     },
     {
       "id": "9549",
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3501,
+      "referenceCount": 3520,
       "comment": null
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isBlockchainUsed",
@@ -193,6 +193,132 @@
       "uploadedDate": "2024-09-24T09:53:36.275Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://afd78c02-fae7-4ce1-8de4-9744408e88c3?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2279d4aa56294efeb7585a047e17ddfb%2Fforgotten-playland-video-11rvo.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 248841511,
+      "uploadedDate": "2025-02-23T14:59:13.182Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-ippcj.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2257166,
+      "uploadedDate": "2025-02-23T14:56:50.284Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-h1tod.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2051037,
+      "uploadedDate": "2025-02-23T14:56:50.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-etgqm.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2455717,
+      "uploadedDate": "2025-02-23T14:56:49.985Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-r7cyl.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2866107,
+      "uploadedDate": "2025-02-23T14:56:50.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-1mdmg.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3332485,
+      "uploadedDate": "2025-02-23T14:56:50.559Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-33elo.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2733930,
+      "uploadedDate": "2025-02-23T14:56:50.469Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-13xrs.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2311065,
+      "uploadedDate": "2025-02-23T14:56:50.129Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-o360r.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2785645,
+      "uploadedDate": "2025-02-23T14:56:50.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-abat0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2724409,
+      "uploadedDate": "2025-02-23T14:56:55.050Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-1lm3t.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2698460,
+      "uploadedDate": "2025-02-23T14:56:50.513Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-kpbl0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2482006,
+      "uploadedDate": "2025-02-23T14:56:50.334Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-7hgy7.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2431263,
+      "uploadedDate": "2025-02-23T14:56:50.310Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2279d4aa56294efeb7585a047e17ddfb/forgotten-playland-9hljf.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2538370,
+      "uploadedDate": "2025-02-23T14:56:49.979Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

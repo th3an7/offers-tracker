@@ -1,0 +1,328 @@
+{
+  "id": "7da237e07b5240089676bc3f51bf8f95",
+  "namespace": "ue",
+  "title": "Creature Surfaces",
+  "description": "A set of HD materials and textures for creature skins and environments. These also fit well with monsters, aliens and other scifi or horror styles.",
+  "longDescription": "<p>Demo Video: <a href=\"https://www.youtube.com/watch?v&#61;PfEpAXLuexk\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;PfEpAXLuexk</a></p><p><br /></p><p><br /></p><p><br /></p><p>This set of materials and textures is built with a wide variety of platforms in mind. They can be used with or without tessellation, the height map, emissive, etc. The master materials and instances are all made so you can easily adjust them, as needed.</p><p><br /></p><p>All materials have a base color, metal/rough/ao, emissive/height and normal map textures.</p><p><br /></p><p>The textures can be adjusted between 32 and 4096 max resolutions (currently set to 2048 for ease of use and mobile requirements), and the material instances have parameters for all textures, colors, emissive levels, roughness, normal strength, height distance, and tessellation amount.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "creature-surfaces",
+  "creationDate": "2019-06-19T22:38:02.137Z",
+  "lastModifiedDate": "2025-01-28T05:40:59.648Z",
+  "effectiveDate": "2019-06-19T22:38:01.733Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8451e119e440b7a33601805c6e8f67",
+    "name": "DC Assets"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Texture Resolutions:</strong> All are 4k (4096x4096)</p><p><strong>Number of Materials:</strong> 16 (2 masters, 16 instances) plus mobile friendly versions.</p><p><strong>Do Materials derive from a Master Material with instances as variation:</strong> Yes</p><p><strong>Number of Textures:</strong> 66</p><p><strong>Supported Development Platforms:</strong> All</p><p><strong>Supported Target Build Platforms:</strong> All (though tested on windows and android)</p><p><br /></p><p><strong>Important/Additional Notes: </strong>To use these on mobile you will need to keep the textures max size at 2048 or less and use the materials in the &#34;Mobile&#34; folder.</p><p><br /></p><p><strong>Optimization tips:</strong> If you dont need/want the tessellation and height, just use the mobile materials. You can generally also reduce the emissive/height texture lower than the others without noticeable quality loss.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8f12c375-d796-4864-9507-d1491b5930c7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/creatSurfUnreal-cust-1920x1080-7454dbad5a30723dd41552099ca4d9e6.png",
+      "md5": "7454dbad5a30723dd41552099ca4d9e6",
+      "size": 3025549,
+      "uploadedDate": "2019-06-04T03:02:33.861Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/creatSurfUnreal-ht-1920x1080-b8d297d94f1baf7718a682585f7a79b6.jpg",
+      "md5": "b8d297d94f1baf7718a682585f7a79b6",
+      "size": 397648,
+      "uploadedDate": "2019-06-04T03:02:34.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/creatSurfUnreal-tun2-1920x1080-ccca0ba101fc84623a4cc01194cebd5e.png",
+      "md5": "ccca0ba101fc84623a4cc01194cebd5e",
+      "size": 2893251,
+      "uploadedDate": "2019-06-04T03:02:35.020Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/creatSurfUnreal-tun-1920x1080-f028fe31a6873429fbd3860b14ac82da.png",
+      "md5": "f028fe31a6873429fbd3860b14ac82da",
+      "size": 2726352,
+      "uploadedDate": "2019-06-04T03:02:35.809Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/creatSurfUnreal-ovr-1920x1080-6a2817c748772f9545f4231eb51bd364.png",
+      "md5": "6a2817c748772f9545f4231eb51bd364",
+      "size": 2299534,
+      "uploadedDate": "2019-06-04T03:02:36.427Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CreatureSurfaces_thumb-284x284-f644364735643b241066508a7a18e26e.png",
+      "md5": "f644364735643b241066508a7a18e26e",
+      "size": 224086,
+      "uploadedDate": "2019-06-04T03:02:36.934Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CreatureSurfaces_featured-894x488-20b5f8f46184a3cce0e9af62cdeb5e7a.png",
+      "md5": "20b5f8f46184a3cce0e9af62cdeb5e7a",
+      "size": 1347829,
+      "uploadedDate": "2019-06-04T03:02:37.072Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/creatSurfUnreal-cust-1920x1080-7454dbad5a30723dd41552099ca4d9e6_Snapshot.png",
+      "md5": "0c1ffdd7b373f0d28431e4e5066a4f8c",
+      "size": 8509,
+      "uploadedDate": "2019-06-04T03:02:34.382Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/creatSurfUnreal-ht-1920x1080-b8d297d94f1baf7718a682585f7a79b6_Snapshot.jpg",
+      "md5": "6f7c072414a60790afdb2a8927161bc0",
+      "size": 8318,
+      "uploadedDate": "2019-06-04T03:02:34.747Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/creatSurfUnreal-tun2-1920x1080-ccca0ba101fc84623a4cc01194cebd5e_Snapshot.png",
+      "md5": "7bbbe0c4afe3d68814d4de2bc1a0afe1",
+      "size": 8523,
+      "uploadedDate": "2019-06-04T03:02:35.566Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/creatSurfUnreal-tun-1920x1080-f028fe31a6873429fbd3860b14ac82da_Snapshot.png",
+      "md5": "2f122c30edc76d81e94ab66018fff65c",
+      "size": 8892,
+      "uploadedDate": "2019-06-04T03:02:36.245Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/creatSurfUnreal-ovr-1920x1080-6a2817c748772f9545f4231eb51bd364_Snapshot.png",
+      "md5": "eb80227b70f3131da1e39cdb46f2795f",
+      "size": 7621,
+      "uploadedDate": "2019-06-04T03:02:36.776Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1d34e67f681b4953a855cb91d4d803f4"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}
