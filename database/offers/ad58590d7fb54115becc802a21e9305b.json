@@ -1,0 +1,452 @@
+{
+  "id": "ad58590d7fb54115becc802a21e9305b",
+  "namespace": "ue",
+  "title": "Procedural Foliage Placement Tool",
+  "description": "This tool allows you to procedurally populate your scene with foliage in a matter of seconds. The tools allows for extensive configuration, including slope and height ranges, obstacle avoidance, and 8 different spawning methods to meet all your needs.",
+  "longDescription": "<p>The <strong>Procedural Foliage Placement Tool</strong> lets you populate your scene with foliage in a matter of seconds. The tools allows for extensive configuration, including slope and height, obstacle avoidance, and 8 different spawning methods. Spawn 3 types of entities - meshes, instanced static meshes, and blueprint actor classes (any).</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;kw9GLSL5_Gw\" rel=\"nofollow\">TRAILER</a></p><p><br /></p><p><strong>Spawning Methods:</strong></p><ul><li><strong>Random Location</strong> - spawns foliage at random locations in the volume</li><li><strong>Organic Clusters</strong> - spawns clusters of foliage, where each entity spawns near the previous entity with a random offset</li><li><strong>Clusters around actor </strong>- spawns foliage around your specified actors</li><li><strong>Along spline actors</strong> - spawns foliage along an actor&#39;s spline component</li><li><strong>Random patches</strong> - Spawns foliage in a uniform patch pattern inside the volume</li><li><strong>Grid Distribution</strong> - spawns foliage in a strict grid distribution inside the volume</li><li><strong>Spawn on Spawn Zones</strong> - spawns foliage only inside the specified Spawn Zones (volumes assigned by the dev)</li><li><strong>Hierarchical Clusters</strong> - spawns foliage in a hierarchy giving a more logical distribution</li></ul><p>All methods above respect slope and height restrictions and have obstacle avoidance.</p><p><br /></p><p><strong>Bonus:</strong></p><ul><li><strong>Advanced Landscape Auto Material</strong> - auto material that blends layers by height and slope. It also spawns foliage in all layers.</li><li><strong>River Tool</strong> - Spline-based river tool.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-foliage-placement-tool",
+  "creationDate": "2018-10-17T13:09:13.572Z",
+  "lastModifiedDate": "2024-11-21T15:47:35.403Z",
+  "effectiveDate": "2018-10-17T13:09:13.526Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-c1b27c124b477c858ea00acbe48d16",
+    "name": "Coqui Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Included Blueprints:</strong></p><ul><li><strong>Procedural Foliage Placement Tool </strong>- main tool that allows you to spawn your foliage in your scene</li><li><strong>Align Landscape</strong> - lets you flatten a specific area of your landscape quickly</li><li><strong>River</strong> - Lets you carve out your landscape to create a river</li><li><strong>Simple Path</strong> - Creates a path in your landscape</li><li><strong>Translucent Water</strong> - creates a lake or ocean plane in your scene (Epic)</li><li><strong>Spawn Zone</strong> - volume that specifies where to spawn your foliage based on the spawn method</li><li><strong>No Spawn Zone</strong> - lets you exclude an area from any foliage spawning</li><li><strong>Toggle Entity Types</strong> - lets you switch between actors in your scene and Instanced Static Meshes</li><li><strong>Changing Tree</strong> - sample actor blueprint that changes material color when the Player gets near</li><li><strong>Show Widget</strong> - shows a generic message in the viewport</li><li><strong>Teleport</strong> - teleports Player to a specified location</li><li><strong>Actor Bounds</strong> - show the actor bounds easily</li><li><strong>Height Helper</strong> - lets you visually check a specific height in your scene</li></ul><p><br /></p><p>Number of Blueprints: <strong>16</strong></p><p>Supported Development Platforms: <strong>Windows, Mac, Linux</strong></p><p>Documentation: <a href=\"https://www.youtube.com/channel/UCifCOIBhn67h2mcZ8Dbsfrg\" rel=\"nofollow\">Tutorials</a></p><p>Support: <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1540615-procedural-foliage-placement-tool\" rel=\"nofollow\">Forums</a> /  coquigamestudio&#64;gmail.com /<strong> </strong><a href=\"https://discord.gg/vJVa9xk\" rel=\"nofollow\">Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d05c4561-87ed-4325-8737-d0503a568867"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT14-1920x1080-b2ee60c472d68cbdc536a836eb825ee1.jpg",
+      "md5": "b2ee60c472d68cbdc536a836eb825ee1",
+      "size": 561329,
+      "uploadedDate": "2018-10-03T06:40:30.490Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT1-1920x1080-b9553b0625c68a1b0ad2a61352fcacb6.jpg",
+      "md5": "b9553b0625c68a1b0ad2a61352fcacb6",
+      "size": 309309,
+      "uploadedDate": "2018-10-03T06:40:30.868Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT2-1920x1080-6055695d708dfbc72eeb0c806b77b844.jpg",
+      "md5": "6055695d708dfbc72eeb0c806b77b844",
+      "size": 235075,
+      "uploadedDate": "2018-10-03T06:40:31.323Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT3-1920x1080-589ed27e09c0b1a77f5d2bab95be8572.jpg",
+      "md5": "589ed27e09c0b1a77f5d2bab95be8572",
+      "size": 293616,
+      "uploadedDate": "2018-10-03T06:40:31.663Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT13-1920x1080-2a555a65b58d3748b68431ce7568781b.jpg",
+      "md5": "2a555a65b58d3748b68431ce7568781b",
+      "size": 380805,
+      "uploadedDate": "2018-10-03T06:40:31.986Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT4-1920x1080-059e7b206d68057280ac964cfdbc71ed.jpg",
+      "md5": "059e7b206d68057280ac964cfdbc71ed",
+      "size": 339867,
+      "uploadedDate": "2018-10-03T06:40:32.337Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT5-1920x1080-52d37378e22fe1b79623c873b3aa66ca.jpg",
+      "md5": "52d37378e22fe1b79623c873b3aa66ca",
+      "size": 325041,
+      "uploadedDate": "2018-10-03T06:40:32.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT6-1920x1080-176312b95725117910805d28fbb9fe8b.jpg",
+      "md5": "176312b95725117910805d28fbb9fe8b",
+      "size": 297976,
+      "uploadedDate": "2018-10-03T06:40:33.070Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT7-1920x1080-cb0bb0be452be5d39f77f3eac89e9b80.jpg",
+      "md5": "cb0bb0be452be5d39f77f3eac89e9b80",
+      "size": 350334,
+      "uploadedDate": "2018-10-03T06:40:33.465Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT8-1920x1080-1c7fae29f9d7e42d9462323fc2e53c91.jpg",
+      "md5": "1c7fae29f9d7e42d9462323fc2e53c91",
+      "size": 340281,
+      "uploadedDate": "2018-10-03T06:40:33.806Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT9-1920x1080-cf9e582399d6646b805e1992488af41b.jpg",
+      "md5": "cf9e582399d6646b805e1992488af41b",
+      "size": 346553,
+      "uploadedDate": "2018-10-03T06:40:34.126Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT10-1920x1080-549dcc2f929aa8429c6a2f450bbd80d2.jpg",
+      "md5": "549dcc2f929aa8429c6a2f450bbd80d2",
+      "size": 296406,
+      "uploadedDate": "2018-10-03T06:40:34.471Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT11-1920x1080-af20326a76232010232dfe619bba4e89.jpg",
+      "md5": "af20326a76232010232dfe619bba4e89",
+      "size": 316587,
+      "uploadedDate": "2018-10-03T06:40:34.794Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT12-1920x1080-e35799d5ac91dd30f866beaf237ce089.jpg",
+      "md5": "e35799d5ac91dd30f866beaf237ce089",
+      "size": 359452,
+      "uploadedDate": "2018-10-03T06:40:35.081Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT15-1920x1080-4bc5a4904cba717aa4bd5dd4dc9b5248.jpg",
+      "md5": "4bc5a4904cba717aa4bd5dd4dc9b5248",
+      "size": 278393,
+      "uploadedDate": "2018-10-03T14:55:11.224Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PFT16-1920x1080-d4971b5c9c509d35ea06a175031a3197.jpg",
+      "md5": "d4971b5c9c509d35ea06a175031a3197",
+      "size": 450572,
+      "uploadedDate": "2018-10-03T14:55:11.628Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralFoliagePlacementTool_thumb-284x284-f290a2ac3c29f15bc96da650bfe995f1.png",
+      "md5": "f290a2ac3c29f15bc96da650bfe995f1",
+      "size": 180304,
+      "uploadedDate": "2018-10-03T06:40:35.356Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralFoliagePlacementTool_featured-894x488-6eb148ac5a09915817055ba1de0a68ca.png",
+      "md5": "6eb148ac5a09915817055ba1de0a68ca",
+      "size": 861613,
+      "uploadedDate": "2018-10-03T06:40:35.478Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT15-1920x1080-4bc5a4904cba717aa4bd5dd4dc9b5248_Snapshot.jpg",
+      "md5": "a886efa68ad1b76a14a6b96f2f6697ff",
+      "size": 2513,
+      "uploadedDate": "2018-10-03T14:55:11.500Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT16-1920x1080-d4971b5c9c509d35ea06a175031a3197_Snapshot.jpg",
+      "md5": "bfc58752ae76a250cd0ca6c0a55c98e7",
+      "size": 2934,
+      "uploadedDate": "2018-10-03T14:55:11.862Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT14-1920x1080-b2ee60c472d68cbdc536a836eb825ee1_Snapshot.jpg",
+      "md5": "9d35ed79713d59a3acc08c5caa58c103",
+      "size": 3741,
+      "uploadedDate": "2018-10-03T06:40:30.711Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT1-1920x1080-b9553b0625c68a1b0ad2a61352fcacb6_Snapshot.jpg",
+      "md5": "d876ea1ca2c5d9fa1ad12cff71a08269",
+      "size": 2559,
+      "uploadedDate": "2018-10-03T06:40:31.192Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT2-1920x1080-6055695d708dfbc72eeb0c806b77b844_Snapshot.jpg",
+      "md5": "235af96b4aa7bdcc770ca8e425eec660",
+      "size": 2579,
+      "uploadedDate": "2018-10-03T06:40:31.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT3-1920x1080-589ed27e09c0b1a77f5d2bab95be8572_Snapshot.jpg",
+      "md5": "fb36c175d85f52390dba0ed927257b41",
+      "size": 2554,
+      "uploadedDate": "2018-10-03T06:40:31.848Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT13-1920x1080-2a555a65b58d3748b68431ce7568781b_Snapshot.jpg",
+      "md5": "82016f1b2b62983006f28724d7527d6d",
+      "size": 2482,
+      "uploadedDate": "2018-10-03T06:40:32.197Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT4-1920x1080-059e7b206d68057280ac964cfdbc71ed_Snapshot.jpg",
+      "md5": "bf928862435ecb7e4037fb90a95a99c6",
+      "size": 2294,
+      "uploadedDate": "2018-10-03T06:40:32.564Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT5-1920x1080-52d37378e22fe1b79623c873b3aa66ca_Snapshot.jpg",
+      "md5": "24d9dad9cfa5ef1b70f4859c3aea4306",
+      "size": 2138,
+      "uploadedDate": "2018-10-03T06:40:32.939Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT6-1920x1080-176312b95725117910805d28fbb9fe8b_Snapshot.jpg",
+      "md5": "f42564f5a75772e9d3568503ada4d2c5",
+      "size": 2547,
+      "uploadedDate": "2018-10-03T06:40:33.264Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT7-1920x1080-cb0bb0be452be5d39f77f3eac89e9b80_Snapshot.jpg",
+      "md5": "6b70a5a9c7864bcefa1bbf6eb2945775",
+      "size": 2428,
+      "uploadedDate": "2018-10-03T06:40:33.673Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT8-1920x1080-1c7fae29f9d7e42d9462323fc2e53c91_Snapshot.jpg",
+      "md5": "207c43d997adb65906cbdfa270bcb9e8",
+      "size": 2293,
+      "uploadedDate": "2018-10-03T06:40:34.017Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT9-1920x1080-cf9e582399d6646b805e1992488af41b_Snapshot.jpg",
+      "md5": "be220e544fa3ff17cbc6486d18c81011",
+      "size": 2167,
+      "uploadedDate": "2018-10-03T06:40:34.325Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT10-1920x1080-549dcc2f929aa8429c6a2f450bbd80d2_Snapshot.jpg",
+      "md5": "63caaa4afe2c8af8216c6dd127108a52",
+      "size": 1293,
+      "uploadedDate": "2018-10-03T06:40:34.669Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT11-1920x1080-af20326a76232010232dfe619bba4e89_Snapshot.jpg",
+      "md5": "ef954990d1dae496219a3ace6e7aab01",
+      "size": 2549,
+      "uploadedDate": "2018-10-03T06:40:34.982Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PFT12-1920x1080-e35799d5ac91dd30f866beaf237ce089_Snapshot.jpg",
+      "md5": "7b422e21fb7de522b90063508a4877bd",
+      "size": 2689,
+      "uploadedDate": "2018-10-03T06:40:35.286Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b713b5bc3d7b4192ae7a02cf8997084e"
+    }
+  ],
+  "catalogNs": null
+}

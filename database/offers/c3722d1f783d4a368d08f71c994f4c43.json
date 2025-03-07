@@ -1,0 +1,260 @@
+{
+  "id": "c3722d1f783d4a368d08f71c994f4c43",
+  "namespace": "ue",
+  "title": "Procedural Gunshot Sounds",
+  "description": "Procedural gunshot sounds with reload, gun drop, gun pick up, casing and equipping sounds.",
+  "longDescription": "<p>Preview: <a href=\"https://youtu.be/__wNQdYtH8g\" rel=\"nofollow\">youtu.be/__wNQdYtH8g</a></p><p><br /></p><p>This asset contains fire weapon sounds for any shooter game:</p><p>• 3 types of Pistol shot sounds</p><p>• 3 types of Rifle shot sounds</p><p>• 2 types of Sniper Rifle shot sounds</p><p>• 3 types of Sub Machine Gun shot sounds</p><p>• 3 types of Shotgun fire sounds</p><p>• 2 types of Machine Gun shot sounds</p><p>• 2 types of Silencer gun shot sounds</p><p>• 3 type of knife attack sound (air, object, flesh)</p><p>• 3 types of trigger pull sounds (out of ammo)</p><p>• 3 types of casing drop (small, big, shotgun)</p><p>• 2 types of silencer attach/dettach sounds</p><p>• Reload sounds different for each type of weapon</p><p>• Sniper rifle scope turn on/off</p><p>• Gun drop sound</p><p>• Gun pick up sound</p><p>• Gun equip sound</p><p><br /></p><p><br /></p><p>I am using this asset in my first Indie Game: Wildlife Rescue Simulator is up on Steam. Please add it to your Wishlist: <a href=\"https://store.steampowered.com/app/2797390\" rel=\"nofollow\">https://store.steampowered.com/app/2797390</a></p><p><br /></p><p><br /></p><p>All sounds are procedural it means that each sound is divided to 3 parts: start, middle and end. Each part has 3 versions played randomly. So there is 27 variations with only 9 sounds.</p><p>There are separate bullet reloading sounds for Sniper Rifle and pump bullet reloading sounds for Shotguns which you can setup after each shot.</p><p>There are also different reloading sounds for each type of weapon. There are made with single sounds like pulling out/pushing in cartridge, pulling guncock, etc. There are mixed in Sound Cues with delay nodes so you can easily set timing of the sound to your animation.</p><p>There are gun equipping sounds mixed in Sound Cue with separate fabric and gun clicking sounds to adjust timing to animation.</p><p>There is a small Blueprint setup to play casing sound where casing drops. So when you move away from dropped casing, sound stays in the the place where Casing hit the ground. Casing sounds are also procedural.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-gunshot-sounds",
+  "creationDate": "2016-03-21T13:24:30.114Z",
+  "lastModifiedDate": "2024-11-17T16:29:53.880Z",
+  "effectiveDate": "2016-04-13T00:00:00.000Z",
+  "viewableDate": "2016-04-13T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-0d1b98560144a19831b713507b31a1",
+    "name": "Bartosz Kamol Kaminski"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Audio tracks: 698 Wave files<br />Number of Audio Cues: 75 Sound Cues<br />Sample rate \\ bit rate: 44.1 kHz, 16bit Stereo/Mono WAVs<br />Does music\\audio loop: No<br />How many minutes of audio provided: 9 minutes<br />Intended Platform: PC<br />Platforms Tested: PC<br />Documentation Included: No",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cb521357-ecf1-4764-8a0c-630317208ce7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Screenshot01-1920x1080-107510489aa1956a42cb5c7d42682070.png",
+      "md5": "107510489aa1956a42cb5c7d42682070",
+      "size": 656408,
+      "uploadedDate": "2016-03-21T13:23:43.819Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Screenshot02-1920x1080-00f8a9bed90886383033cbcc64e0149d.png",
+      "md5": "00f8a9bed90886383033cbcc64e0149d",
+      "size": 725347,
+      "uploadedDate": "2016-03-29T14:21:41.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Screenshot03-1920x1080-d6ec061637986ed8678f08bb66116eee.png",
+      "md5": "d6ec061637986ed8678f08bb66116eee",
+      "size": 646691,
+      "uploadedDate": "2016-03-29T14:21:36.817Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Screenshot04-1920x1080-b9b54016cfe53e9b13a6c109496b70c9.png",
+      "md5": "b9b54016cfe53e9b13a6c109496b70c9",
+      "size": 732623,
+      "uploadedDate": "2016-03-29T14:21:36.878Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Screenshot05-1920x1080-80e26d6918f7b1c847d229a20ea0497c.png",
+      "md5": "80e26d6918f7b1c847d229a20ea0497c",
+      "size": 575738,
+      "uploadedDate": "2016-03-29T14:21:32.990Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Screenshot06-1920x1080-5701cec8b2c128fa85c1a4a76edf3b2c.png",
+      "md5": "5701cec8b2c128fa85c1a4a76edf3b2c",
+      "size": 692315,
+      "uploadedDate": "2016-03-29T14:21:31.229Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Screenshot07-1920x1080-7f06e1d824922d3eb85367d790cfc270.png",
+      "md5": "7f06e1d824922d3eb85367d790cfc270",
+      "size": 705505,
+      "uploadedDate": "2016-03-29T14:21:29.337Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_Thumb-284x284-cbd326f71624b45bc4532623369ebd19.png",
+      "md5": "cbd326f71624b45bc4532623369ebd19",
+      "size": 30110,
+      "uploadedDate": "2016-03-21T13:23:41.460Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_featured-476x246-71397716c09f35d22f3283cf95553617.png",
+      "md5": "71397716c09f35d22f3283cf95553617",
+      "size": 60208,
+      "uploadedDate": "2016-03-21T13:23:46.549Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/ProceduralGunshotSounds_FeaturedNew-894x488-01e490bff9f9494199ae1ee66febb6be.png",
+      "md5": "01e490bff9f9494199ae1ee66febb6be",
+      "size": 206145,
+      "uploadedDate": "2016-03-21T13:23:45.110Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "f3b62e38d61e4924b2edc60635bd1481"
+    }
+  ],
+  "catalogNs": null
+}

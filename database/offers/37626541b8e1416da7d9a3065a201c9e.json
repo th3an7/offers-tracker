@@ -1,16 +1,16 @@
 {
   "id": "37626541b8e1416da7d9a3065a201c9e",
   "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
-  "title": "iowa sd",
-  "description": "iowa sd",
+  "title": "Disney Speedstorm - Supercharge Deal",
+  "description": "Boost the potential of your Racers with the Supercharge Deal, which immediately provides players with the Shards needed to upgrade their chosen Racer.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "iowasd",
+  "urlSlug": "dupercharge-deal",
   "creationDate": "2025-02-18T15:30:50.607Z",
-  "lastModifiedDate": "2025-02-18T15:32:13.193Z",
-  "effectiveDate": "2099-02-18T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2025-03-06T20:59:23.486Z",
+  "effectiveDate": "2025-03-06T08:00:00.000Z",
+  "viewableDate": "2025-03-06T08:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
@@ -25,12 +25,55 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "spthidden"
+    },
+    {
+      "path": "spthidden/consumable"
+    },
+    {
       "path": "applications"
     }
   ],
   "tags": [],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_PT_Offer_Image_1200x1600_1200x1600-42a84f7a6dfdf2a69480225f91a8fef9",
+      "md5": "42a84f7a6dfdf2a69480225f91a8fef9",
+      "size": 681224,
+      "uploadedDate": "2025-03-03T19:29:18.316Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_LS_Offer_Image_2560x1440_2560x1440-df85744c24df5d2230274bf812c1955a",
+      "md5": "df85744c24df5d2230274bf812c1955a",
+      "size": 510847,
+      "uploadedDate": "2025-03-03T19:31:05.954Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_PT_Offer_Image_1200x1600_1200x1600-42a84f7a6dfdf2a69480225f91a8fef9",
+      "md5": "42a84f7a6dfdf2a69480225f91a8fef9",
+      "size": 681224,
+      "uploadedDate": "2025-03-03T19:32:00.589Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_LS_Featured_Image_1920x1080_1920x1080-2c5ac4392b7317d0e713f0ebe88ec1aa",
+      "md5": "2c5ac4392b7317d0e713f0ebe88ec1aa",
+      "size": 350576,
+      "uploadedDate": "2025-03-03T19:32:33.746Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "b51369f8a4374e8da6084a6f87e7a3d7"

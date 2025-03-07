@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "tropico6-backtonature",
   "creationDate": "2024-12-09T15:03:33.015Z",
-  "lastModifiedDate": "2025-03-05T11:30:26.522Z",
+  "lastModifiedDate": "2025-03-06T13:54:11.254Z",
   "effectiveDate": "2025-03-06T14:00:00.000Z",
   "viewableDate": "2025-02-11T14:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1871,
+      "referenceCount": 1878,
       "comment": ""
     },
     {
@@ -84,6 +84,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18057,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -93,18 +105,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18041,
       "comment": null
     }
   ],
@@ -123,7 +123,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "publisherName",
@@ -169,6 +169,15 @@
       "uploadedDate": "2025-02-04T12:33:35.804Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://d63d5195-4cbf-41db-994f-eea8c5ffff4f?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6c498b9a8de6486aa91a654203933c5c%2Ftropico-6--siberian-video-1pwvn.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 133821990,
+      "uploadedDate": "2025-03-03T11:46:00.313Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "featuredMedia",

@@ -1,0 +1,602 @@
+{
+  "id": "50eaac49f4184c8c808f405737949431",
+  "namespace": "ue",
+  "title": "Driveable Vehicle :  MBT - 90",
+  "description": "Fully functional main battle tank",
+  "longDescription": "<p><strong>Update : V.1.3 - requares engine version 4.23&#43;</strong></p><p>- Removed event tick nodes from blueprint and destroyed version </p><p>- Fixed bug regarding tracing distance from main gun and MG gun</p><p>- Added new skins digital desert, digital urban and the instrument of doom</p><p>- Added night vision </p><p>- Added thermal vision</p><p>- Added FLIR vision </p><p>- Added dummy tank</p><p>- Added dummy drone</p><p>Fully working Main battle tank , it has two skins, and fully working turret, realistic sounds of the engine and main - secondary weapons and third weapon mounted on secondary turret.</p><p>Working smoke screen.</p><p>It has ability to add RPG armor that counts as actual armor if hit.</p><p>It can be used in any game or project, the physics of the vehicle is realistic, it have moving tracks, also in project is included destroyed version of the vehicle.</p><p>And version with hi more detailed track static mesh</p><p>Vehicle is build from scratch.</p><p><a href=\"https://youtu.be/uamVnSbZgB8\" rel=\"nofollow\"><u>Breakdown video </u></a></p><p><a href=\"https://www.youtube.com/watch?v&#61;o-smO14n_Ws\" rel=\"nofollow\"><u>Custom character integration</u></a> ( please follow instruction no matter which vehicle is in use )</p><p><strong>Try it before you get it</strong>, if you like it tell me why if you don&#39;t like it then <strong>especially</strong> tell me why i will improve the vehicle.</p><p><a href=\"http://www.mediafire.com/file/erfh5bezuqizg9f/RaP_MBT_90_Demo_V.1.3.rar/file\" rel=\"nofollow\"><u>Demo </u></a><u> V.1.3</u></p><p><a href=\"http://www.mediafire.com/file/yjq0lxtkad9wsfi/RaP_MBT_90_Demo_V.1.3_Night_Map.rar\" rel=\"nofollow\"><u>Demo</u></a><u> V.1.3 Night map ( nice map for testing thermal visions )</u></p><p>Thank you :)</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "driveable-vehicle-mbt",
+  "creationDate": "2018-12-12T14:43:07.533Z",
+  "lastModifiedDate": "2024-11-18T15:49:45.620Z",
+  "effectiveDate": "2018-12-12T14:43:07.484Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7ae7244d84485b9f076711b94c4f63",
+    "name": "EA3D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Fully functional main battle tank :</p><ul><li>Five skins woodland. desert. digital urban. digital desert. and the instrument of doom</li><li>PBR textures 4k body, 2k machine gun, 512x512 Lights, damage, etc.</li><li>Working turret with main gun and secondary weapon</li><li>Working secondary machine gun</li><li>Working and improved hud with custom icons</li><li>Working lights</li><li>Working health system with localized damage spots ( lights can be shot individually )</li><li>Working tracks</li><li>Working smoke screen</li><li>Realistic sounds engine, weapons, etc</li><li>Particle effects ( muzzle flashes, smoke screen, track particle effects )</li><li>Enter exit vehicle at any time or use vehicle without character ( auto posses )</li><li>Multiple camera location</li><li>Destroyed version of the vehicle is included</li><li>Ability to add RPG armor on the vehicle and RPG armor will count as protection</li></ul><p><br /></p><p>The vehicle is not associated with any real life vehicle, there are no logos or naming of real life vehicle.</p><p><br /></p><p>Number of Blueprints: One for vehicle and one for destroyed version</p><p>Input: Keyboard</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "002c67c0-3343-46ca-93db-daf770c9d21a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 16-1920x1080-e598e1ea1698853fdb611de1078358d4.png",
+      "md5": "e598e1ea1698853fdb611de1078358d4",
+      "size": 477515,
+      "uploadedDate": "2018-11-18T21:33:38.994Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 10-1920x1080-808809a50081fb92833c770a2a994c0f.png",
+      "md5": "808809a50081fb92833c770a2a994c0f",
+      "size": 421202,
+      "uploadedDate": "2018-11-18T21:33:39.184Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 12-1920x1080-2e8a80defbcf1e320a4e717c4a0fdaaf.png",
+      "md5": "2e8a80defbcf1e320a4e717c4a0fdaaf",
+      "size": 436716,
+      "uploadedDate": "2018-11-18T21:33:39.369Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 24-1920x1080-63b61e456597c30ef7201a4fe32e29fa.png",
+      "md5": "63b61e456597c30ef7201a4fe32e29fa",
+      "size": 432192,
+      "uploadedDate": "2018-11-18T21:33:39.542Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 14-1920x1080-b8ff77e2ef8dc8f4a5517e756a9d34be.png",
+      "md5": "b8ff77e2ef8dc8f4a5517e756a9d34be",
+      "size": 449593,
+      "uploadedDate": "2018-11-18T21:33:39.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 15-1920x1080-c2d7e3e0c360a7a98fb66a8e3a3f9925.png",
+      "md5": "c2d7e3e0c360a7a98fb66a8e3a3f9925",
+      "size": 425843,
+      "uploadedDate": "2018-11-18T21:33:40.130Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 20-1920x1080-f27a36ab64f74a11195753acdcbcb663.png",
+      "md5": "f27a36ab64f74a11195753acdcbcb663",
+      "size": 424209,
+      "uploadedDate": "2018-11-18T21:33:40.294Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 21-1920x1080-1917093f4964638c1761dbcd6e6e46d4.png",
+      "md5": "1917093f4964638c1761dbcd6e6e46d4",
+      "size": 443885,
+      "uploadedDate": "2018-11-18T21:33:40.511Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 25-1920x1080-1e9cc49e98d2ca1f2fb4fcdaf3ee1e4f.png",
+      "md5": "1e9cc49e98d2ca1f2fb4fcdaf3ee1e4f",
+      "size": 460361,
+      "uploadedDate": "2018-11-18T21:33:40.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 7-1920x1080-2a0b7b0b67abfb397038b7e677ca05a4.png",
+      "md5": "2a0b7b0b67abfb397038b7e677ca05a4",
+      "size": 461180,
+      "uploadedDate": "2018-11-18T21:33:40.828Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 2-1920x1080-5c7680f9f8c8dab11eefb746b738447a.png",
+      "md5": "5c7680f9f8c8dab11eefb746b738447a",
+      "size": 410458,
+      "uploadedDate": "2018-11-18T21:33:40.998Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 1-1920x1080-f7f256fa3e6051e3070bdaf582c046f6.png",
+      "md5": "f7f256fa3e6051e3070bdaf582c046f6",
+      "size": 449548,
+      "uploadedDate": "2018-11-18T21:33:41.281Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 9-1920x1080-32e48da71311b2e67da20343415d84e4.png",
+      "md5": "32e48da71311b2e67da20343415d84e4",
+      "size": 436481,
+      "uploadedDate": "2018-11-18T21:33:41.462Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 5-1920x1080-c8caf8b9f178f9dcbcbbc6187ba25ea6.png",
+      "md5": "c8caf8b9f178f9dcbcbbc6187ba25ea6",
+      "size": 442364,
+      "uploadedDate": "2018-11-18T21:33:41.643Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 3-1920x1080-5379a86496c53e4f971b6d5b2da93d2e.png",
+      "md5": "5379a86496c53e4f971b6d5b2da93d2e",
+      "size": 400226,
+      "uploadedDate": "2018-11-18T21:33:41.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 4-1920x1080-9f6c4d6058e7174eab67e63907eb7172.png",
+      "md5": "9f6c4d6058e7174eab67e63907eb7172",
+      "size": 394923,
+      "uploadedDate": "2018-11-18T21:33:41.989Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 6-1920x1080-f0b6e70fe61ec3c57857cb649679aed5.png",
+      "md5": "f0b6e70fe61ec3c57857cb649679aed5",
+      "size": 444144,
+      "uploadedDate": "2018-11-18T21:33:42.166Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 8-1920x1080-bb6aa6747ed87db0e79bc6dcaa025517.png",
+      "md5": "bb6aa6747ed87db0e79bc6dcaa025517",
+      "size": 484263,
+      "uploadedDate": "2018-11-18T21:33:42.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 13-1920x1080-b70425d3a6d77bcbc4f5add91b503ec5.png",
+      "md5": "b70425d3a6d77bcbc4f5add91b503ec5",
+      "size": 491590,
+      "uploadedDate": "2018-11-18T21:33:42.531Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 17-1920x1080-89b5470c9e0c75ddb63eec504ec4a116.png",
+      "md5": "89b5470c9e0c75ddb63eec504ec4a116",
+      "size": 525468,
+      "uploadedDate": "2018-11-18T21:33:42.732Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 19-1920x1080-c661df98825bc49627e2911f2f93fe8a.png",
+      "md5": "c661df98825bc49627e2911f2f93fe8a",
+      "size": 562450,
+      "uploadedDate": "2018-11-18T21:33:42.944Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 11-1920x1080-8b5a83a86e9daccedc2ab9df8845092c.png",
+      "md5": "8b5a83a86e9daccedc2ab9df8845092c",
+      "size": 652902,
+      "uploadedDate": "2018-11-18T21:33:43.133Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 22-1920x1080-46d5d5c3faea602a3a70a52421dba788.png",
+      "md5": "46d5d5c3faea602a3a70a52421dba788",
+      "size": 438595,
+      "uploadedDate": "2018-11-18T21:33:43.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 23-1920x1080-71faa53bb413023c454aac980f5a0462.png",
+      "md5": "71faa53bb413023c454aac980f5a0462",
+      "size": 432050,
+      "uploadedDate": "2018-11-18T21:33:43.550Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBT90ScreenShot 18-1920x1080-008fba3d207f905143092fbca04306ff.png",
+      "md5": "008fba3d207f905143092fbca04306ff",
+      "size": 490445,
+      "uploadedDate": "2018-11-18T21:33:43.753Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DriveableVehicleMBT90_thumb-284x284-492969e9b155d936d11f314dfd37ed96.png",
+      "md5": "492969e9b155d936d11f314dfd37ed96",
+      "size": 114395,
+      "uploadedDate": "2020-10-30T20:52:35.305Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DriveableVehicleMBT90_featured-894x488-4b84e2cd369e1e8213c3f7e642a9f698.png",
+      "md5": "4b84e2cd369e1e8213c3f7e642a9f698",
+      "size": 492277,
+      "uploadedDate": "2018-11-18T21:33:43.943Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 16-1920x1080-e598e1ea1698853fdb611de1078358d4_Snapshot.png",
+      "md5": "70186e5dbe6b0cab691857d3d43405d0",
+      "size": 5716,
+      "uploadedDate": "2018-11-18T21:33:39.100Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 10-1920x1080-808809a50081fb92833c770a2a994c0f_Snapshot.png",
+      "md5": "f9c59950b58821b25c57a8488da71060",
+      "size": 6205,
+      "uploadedDate": "2018-11-18T21:33:39.269Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 12-1920x1080-2e8a80defbcf1e320a4e717c4a0fdaaf_Snapshot.png",
+      "md5": "9ff040530ff13f6089f4eb172c40d75e",
+      "size": 5689,
+      "uploadedDate": "2018-11-18T21:33:39.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 24-1920x1080-63b61e456597c30ef7201a4fe32e29fa_Snapshot.png",
+      "md5": "0de3d352012ef371e295133bb606d146",
+      "size": 5489,
+      "uploadedDate": "2018-11-18T21:33:39.627Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 14-1920x1080-b8ff77e2ef8dc8f4a5517e756a9d34be_Snapshot.png",
+      "md5": "7a2f76401e249b91847c1719971aade5",
+      "size": 5699,
+      "uploadedDate": "2018-11-18T21:33:39.794Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 15-1920x1080-c2d7e3e0c360a7a98fb66a8e3a3f9925_Snapshot.png",
+      "md5": "5780110342ed13aa1319f4570e22b50b",
+      "size": 5262,
+      "uploadedDate": "2018-11-18T21:33:40.215Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 20-1920x1080-f27a36ab64f74a11195753acdcbcb663_Snapshot.png",
+      "md5": "5f6c636bad8287a61b7ca91e1a99af06",
+      "size": 5844,
+      "uploadedDate": "2018-11-18T21:33:40.392Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 21-1920x1080-1917093f4964638c1761dbcd6e6e46d4_Snapshot.png",
+      "md5": "df86388243707d1c96f0ebd892f1563b",
+      "size": 5859,
+      "uploadedDate": "2018-11-18T21:33:40.596Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 25-1920x1080-1e9cc49e98d2ca1f2fb4fcdaf3ee1e4f_Snapshot.png",
+      "md5": "86837514a1fb846736261a78c646937e",
+      "size": 5390,
+      "uploadedDate": "2018-11-18T21:33:40.744Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 7-1920x1080-2a0b7b0b67abfb397038b7e677ca05a4_Snapshot.png",
+      "md5": "20a47c34408ee97d7584d25eeff799e9",
+      "size": 6074,
+      "uploadedDate": "2018-11-18T21:33:40.920Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 2-1920x1080-5c7680f9f8c8dab11eefb746b738447a_Snapshot.png",
+      "md5": "3bbe18c191202723c987275c108439a2",
+      "size": 6056,
+      "uploadedDate": "2018-11-18T21:33:41.096Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 1-1920x1080-f7f256fa3e6051e3070bdaf582c046f6_Snapshot.png",
+      "md5": "ce009dab09176f50675aeed48f5b751e",
+      "size": 6273,
+      "uploadedDate": "2018-11-18T21:33:41.371Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 9-1920x1080-32e48da71311b2e67da20343415d84e4_Snapshot.png",
+      "md5": "f06c27707958a01c7c468431eb7bec48",
+      "size": 5239,
+      "uploadedDate": "2018-11-18T21:33:41.549Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 5-1920x1080-c8caf8b9f178f9dcbcbbc6187ba25ea6_Snapshot.png",
+      "md5": "5b3381378c10513d22de6221e3b46885",
+      "size": 5607,
+      "uploadedDate": "2018-11-18T21:33:41.726Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 3-1920x1080-5379a86496c53e4f971b6d5b2da93d2e_Snapshot.png",
+      "md5": "7f0ee57a492b4d7d934b5aeb90148fea",
+      "size": 5241,
+      "uploadedDate": "2018-11-18T21:33:41.905Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 4-1920x1080-9f6c4d6058e7174eab67e63907eb7172_Snapshot.png",
+      "md5": "4027c78635b0c9c1d5203f91cc04c0c9",
+      "size": 5492,
+      "uploadedDate": "2018-11-18T21:33:42.083Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 6-1920x1080-f0b6e70fe61ec3c57857cb649679aed5_Snapshot.png",
+      "md5": "2db5684791116f9e151665cbdf322f36",
+      "size": 6246,
+      "uploadedDate": "2018-11-18T21:33:42.262Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 8-1920x1080-bb6aa6747ed87db0e79bc6dcaa025517_Snapshot.png",
+      "md5": "b6d30b0c0cdd98dfce172b405afbec81",
+      "size": 6081,
+      "uploadedDate": "2018-11-18T21:33:42.442Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 13-1920x1080-b70425d3a6d77bcbc4f5add91b503ec5_Snapshot.png",
+      "md5": "6deb8eb3277d6c583307b7bc7d4e7f1e",
+      "size": 6590,
+      "uploadedDate": "2018-11-18T21:33:42.631Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 17-1920x1080-89b5470c9e0c75ddb63eec504ec4a116_Snapshot.png",
+      "md5": "3f5c5e559af262d427954efc6ec99841",
+      "size": 6124,
+      "uploadedDate": "2018-11-18T21:33:42.852Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 19-1920x1080-c661df98825bc49627e2911f2f93fe8a_Snapshot.png",
+      "md5": "a500aa53001d2330f857d3d6075ac446",
+      "size": 6694,
+      "uploadedDate": "2018-11-18T21:33:43.032Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 11-1920x1080-8b5a83a86e9daccedc2ab9df8845092c_Snapshot.png",
+      "md5": "b4fa6137d04463cfce3214fb069ebec9",
+      "size": 5789,
+      "uploadedDate": "2018-11-18T21:33:43.225Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 22-1920x1080-46d5d5c3faea602a3a70a52421dba788_Snapshot.png",
+      "md5": "a9c0787f6722da062587694f99a9eb98",
+      "size": 5921,
+      "uploadedDate": "2018-11-18T21:33:43.462Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 23-1920x1080-71faa53bb413023c454aac980f5a0462_Snapshot.png",
+      "md5": "e31fd5ddd89d9f8383fa23508e5f3c45",
+      "size": 5861,
+      "uploadedDate": "2018-11-18T21:33:43.650Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBT90ScreenShot 18-1920x1080-008fba3d207f905143092fbca04306ff_Snapshot.png",
+      "md5": "e717b5ddbf67180306cf63cc379ec180",
+      "size": 5349,
+      "uploadedDate": "2018-11-18T21:33:43.842Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2f18e1a0b4ef4286bddde561726ad95d"
+    }
+  ],
+  "catalogNs": null
+}

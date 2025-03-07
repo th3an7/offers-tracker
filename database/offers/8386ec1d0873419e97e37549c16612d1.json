@@ -1,0 +1,130 @@
+{
+  "id": "8386ec1d0873419e97e37549c16612d1",
+  "namespace": "ue",
+  "title": "DMX Previs Sample",
+  "description": "Designed and created by Moment Factory in collaboration with Epic Games, this sample showcases a fully animated digital light show featuring Unreal Engine’s new DMX plugin, as well as the latest proxy fixtures and effects provided in the context of live event previs.",
+  "longDescription": "Designing live events has become more and more complex, with lighting, video content, scenography, automation, and special effects combining to form endless possibilities.\nThe Digital Multiplex (DMX) protocol has been an industry standard for achieving lighting control for more than three decades; however, accurately previsualizing lighting that would later be controlled by it has been challenging, with existing solutions offering limited ability for presenting realistic and accurate results.\n\nIn Unreal Engine 4.25, we introduced support for connecting the engine to external controllers and devices that use the DMX protocol, offering new possibilities for using real-time rendering for previsualization. \n\nCreated in collaboration with Moment Factory, this sample showcases those possibilities. It depicts an impactful and colorful light show presented in a short animated sequence. It has been produced using the GrandMA lighting console for its programming and features typical fixtures from the industry. The project contains the entire light show as a DMX Sequencer track recording, a one-to-one copy of the incoming DMX data stream that can be watched either from the FOH (front of house) perspective or from the provided animated sequence. For reference, the show file is also provided.\n\nIn the context of live event previsualization, the project has been designed from the ground up to be as close as possible to its real-life technical counterpart. All lights, fixtures, and effects seen inside the project are entirely driven by the Sequencer DMX track, in sync with the soundtrack and the other show elements. To provide an example of how Unreal Engine can be used as an intricate part of the production workflow, it also demonstrates the ability to drive additional virtual creative elements using DMX, further expanding the possibilities.\n\nThis project is a great foundation and inspiration for your own creative exploration in live event design. We look forward to seeing what you come up with!\n\n<b>Licensed for use only with Unreal Engine-based products</b>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dmx-previs-sample",
+  "creationDate": "2021-02-22T16:19:46.998Z",
+  "lastModifiedDate": "2024-11-19T20:56:11.909Z",
+  "effectiveDate": "2021-02-22T11:19:00.000Z",
+  "viewableDate": "2021-02-22T11:19:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "[\n    { \n        \"Image\": \"watch\", \n        \"Text\": \"Watch Video\",\n        \"OnNavigateUrl\": \"https://youtu.be/UXodNAcyFj8\" \n    },\n    { \n        \"Image\": \"download\", \n        \"Text\": \"Download Sample\"\n    }\n]",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "learn"
+    },
+    {
+      "path": "learn/features"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5ce617bc-b926-4db5-936b-a0733a5da72d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_Thumb-284x284-ccb7754bc7ef2d056bde1c87afa40d41.png",
+      "md5": "ccb7754bc7ef2d056bde1c87afa40d41",
+      "size": 109077,
+      "uploadedDate": "2021-02-23T15:11:16.154Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_Featured-476x246-67f8d3efe7f532e2d90d9b7e84762fd2.png",
+      "md5": "67f8d3efe7f532e2d90d9b7e84762fd2",
+      "size": 149351,
+      "uploadedDate": "2021-02-23T15:11:29.955Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_S_01-1920x1080-f1f8179974df8c4426af676ad9d14551.jpg",
+      "md5": "f1f8179974df8c4426af676ad9d14551",
+      "size": 1033914,
+      "uploadedDate": "2021-02-23T15:11:43.293Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_S_02-1920x1080-2586db61454a53b0b2dfd10923ecf356.jpg",
+      "md5": "2586db61454a53b0b2dfd10923ecf356",
+      "size": 876576,
+      "uploadedDate": "2021-02-23T15:11:50.544Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_S_03-1920x1080-ec67737f74af27adb363131835047b0c.jpg",
+      "md5": "ec67737f74af27adb363131835047b0c",
+      "size": 959858,
+      "uploadedDate": "2021-02-23T15:12:02.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_S_04-1920x1080-ac7603d8ac790fea9f251723d0d9a160.jpg",
+      "md5": "ac7603d8ac790fea9f251723d0d9a160",
+      "size": 894495,
+      "uploadedDate": "2021-02-23T15:12:11.156Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_S_05-1920x1080-b869c87526b4c7f255e7b1d728504cfb.jpg",
+      "md5": "b869c87526b4c7f255e7b1d728504cfb",
+      "size": 662535,
+      "uploadedDate": "2021-02-23T15:12:23.546Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_S_06-1920x1080-e31de1b5577c382e97f41cc2db4d4420.jpg",
+      "md5": "e31de1b5577c382e97f41cc2db4d4420",
+      "size": 1207643,
+      "uploadedDate": "2021-02-23T15:12:32.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DMXPrevis_S_07-1920x1080-e42f084f15388bc1854e03b9bb90dac3.jpg",
+      "md5": "e42f084f15388bc1854e03b9bb90dac3",
+      "size": 1785457,
+      "uploadedDate": "2021-02-23T15:12:44.785Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "ce1f042e713b49a6acf689523d709b05"
+    }
+  ],
+  "catalogNs": null
+}

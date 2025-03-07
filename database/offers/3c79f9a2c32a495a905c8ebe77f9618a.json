@@ -1,0 +1,121 @@
+{
+  "id": "3c79f9a2c32a495a905c8ebe77f9618a",
+  "namespace": "ue",
+  "title": "Electric Dreams Env",
+  "description": "Explore the lush environment of the GDC SoU Electric Dreams demo, created with the PCG framework.",
+  "longDescription": "At this year's State of Unreal at GDC, we offered a first look at an Experimental new feature that would ship with the upcoming Unreal Engine 5.2 release. The demo, entitled Electric Dreams, showed off the Procedural Content Generation framework (PCG), as well as a new material authoring system called Substrate, and the latest physics developments.\n\nThe Electric Dreams Environment Sample Project enables you to explore the demo's jungle environment, which was constructed using just a handful of Quixel assets. With these assets, PCG is able to quickly and seamlessly populate worlds, which can be adjusted in real time based on gameplay or other requirements.\n\nIn addition to PCG, the sample includes a Substrate opal shader ball, and demonstrates other UE5 features, including Lumen, Nanite, and Soundscape.\n\nThis sample includes seven levels to better explore and understand the PCG tools.\n<ul><li>ElectricDreams_Env</li><li>ElectricDreams_PCG</li><li>ElectricDreams_PCGCloseRange</li><li>ElectricDreams_PCGSplineExample</li><li>ElectricDreams_PCGLargeAssembly</li><li>ElectricDreams_PCGDitchAssembly</li><li>ElectricDreams_PCGForest</li></ul>\nFind out more at <a href=\"https://unrealengine.com/pcg-sample\">unrealengine.com/pcg-sample</a>.\n\n<b>Disclaimer:</b> The Procedural Content Generation framework and Substrate are currently Experimental features, and as such, are not recommended for use on live projects.\n\n<b>Suggested Min Spec:</b><ul><li>CPU: Intel i9 with 8 cores (16 logical) 3.6 GHz</li><li>Graphics: NVIDIA RTX 2080 with 8 GB VRAM</li></ul>\n<b>UE-Only Content</b> - Licensed for Use Only with Unreal Engine-based Products",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "electric-dreams-env",
+  "creationDate": "2023-05-31T17:17:08.934Z",
+  "lastModifiedDate": "2024-11-19T20:56:36.704Z",
+  "effectiveDate": "2023-06-20T08:00:00.000Z",
+  "viewableDate": "2023-06-20T08:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "[\n    { \n        \"Image\": \"read\", \n        \"Text\": \"Read Documentation  \",\n        \"OnNavigateUrl\": \"https://docs.unrealengine.com/en-US/electric-dreams-environment-in-unreal-engine/\" \n    },\n    { \n        \"Image\": \"read\", \n        \"Text\": \"Electric Dreams Env Unpacking\",\n        \"OnNavigateUrl\": \"https://dev.epicgames.com/community/learning/courses/x3L/unreal-engine-electric-dreams-environment-unpacked\" \n    },\n    { \n        \"Image\": \"download\", \n        \"Text\": \"Download Sample\"\n    }\n]",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "learn"
+    },
+    {
+      "path": "learn/features"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d79688f5-29be-4fb2-a650-2d4a813f5306"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/item/ue/Featured_894x488-e99777f1b3ca8ceedab9b39afb5731be",
+      "md5": "e99777f1b3ca8ceedab9b39afb5731be",
+      "size": 892262,
+      "uploadedDate": "2023-05-31T17:13:56.142Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Screenshot_01_1920x1080-d42da4ec016335f49df70bd6e9dda8f8",
+      "md5": "d42da4ec016335f49df70bd6e9dda8f8",
+      "size": 3899357,
+      "uploadedDate": "2023-05-31T17:14:10.488Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Screenshot_02_1920x1080-56da63aac046c62b261c5d12b06fdc97",
+      "md5": "56da63aac046c62b261c5d12b06fdc97",
+      "size": 3733113,
+      "uploadedDate": "2023-05-31T17:14:14.816Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Screenshot_03_1920x1080-ed33d61a6cc35b6d2e967cf49a768014",
+      "md5": "ed33d61a6cc35b6d2e967cf49a768014",
+      "size": 4328411,
+      "uploadedDate": "2023-05-31T17:14:19.653Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Screenshot_04_1920x1080-cb0aa312ff4dfdbe2c46fbdecdf5acf7",
+      "md5": "cb0aa312ff4dfdbe2c46fbdecdf5acf7",
+      "size": 3662183,
+      "uploadedDate": "2023-05-31T17:14:27.092Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Screenshot_05_1920x1080-412f089e3ef1928d30079d35b8b5961a",
+      "md5": "412f089e3ef1928d30079d35b8b5961a",
+      "size": 4284936,
+      "uploadedDate": "2023-05-31T17:14:32.753Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Screenshot_06_1920x1080-3bc6b76c4dac2f74d8260ad4a102c34d",
+      "md5": "3bc6b76c4dac2f74d8260ad4a102c34d",
+      "size": 4562945,
+      "uploadedDate": "2023-05-31T17:14:37.715Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/item/ue/Thumbnail_284x284-4c4dea21c560eedfc6a390dd8b014459",
+      "md5": "4c4dea21c560eedfc6a390dd8b014459",
+      "size": 188245,
+      "uploadedDate": "2023-05-31T17:13:39.195Z",
+      "width": 284,
+      "height": 284
+    }
+  ],
+  "items": [
+    {
+      "id": "2b46a5698e4a400498aa5cfce1a4e320"
+    }
+  ],
+  "catalogNs": null
+}

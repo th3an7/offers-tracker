@@ -3,12 +3,12 @@
   "namespace": "72324f542dc4488681e617b0d39ad115",
   "title": "SpellForce 3: Versus Edition",
   "description": "The SpellForce 3: Versus Edition gives you the chance to enter the battlefields of Eo for free, letting you test your RTS skills against AI opponents or even other human players.",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe SpellForce 3: Versus Edition gives you the chance to enter the battlefields of Eo for free, letting you test your RTS skills against AI opponents or even other human players.\n\n<!--textBlock-->\n<!--title-->\n# Skirmish or 1-on-1 Multiplayer\n<!--text-->\nYou can choose whether you want to take on AI enemies in a Skirmish battle, or go head-to-head with other human players of SpellForce 3 in both Ranked and Unranked PVP matches. \n\nOn top of it all you can also check out the single-player scenario ‘Old Haalâyash’ to get a glimpse of what the lavishly created single player campaigns of SpellForce 3 and its stand-alone expansions have to offer.\n\n<!--textBlock-->\n<!--title-->\n# Multiplayer Races: Orcs, Humans and Elves\n<!--text-->\nYou will be randomly assigned a faction, giving you a chance to try out either playing as Orcs, Humans or Elves.\n\nEach faction has its own strengths and traits, so you’ll need to develop your strategy to make the most of your warriors and workers. And because the faction is randomly assigned every time you play, you’ll have to think fast in order to secure victory.\n\n<!--textBlock-->\n<!--title-->\n# Upgrade to unlock more excitement\n<!--text-->\nThis is just a taste of the challenge and fun that SpellForce 3’s RTS matches have to offer. When you are hungry for more, the full versions of SpellForce 3 and its stand-alone expansions Soul Harvest and Fallen God will get you access to the complete PvP experience with all factions and the full story campaign.\n\nIf you love the PvP aspect of the game, we also offer the “SpellForce 3: Versus Edition - Full PvP Upgrade” DLC which contains the complete PvP experience with access to all 6 factions (Orcs, Humans, Elves, Dark Elves, Dwarves, Trolls).\n\n**Please note that the full Single Player and story campaign experience is only unlocked by acquiring SpellForce 3 and its stand-alone expansions Soul Harvest and Fallen God.**\n\n<!--textBlock-->\n<!--title-->\n# Key Features\n<!--text-->\n- Free PvP multiplayer\n- Go for glory with Ranked and Unranked PVP matches\n- Choose Skirmish mode to play against challenging AI opponents\n- Battle against other human players of SpellForce 3, SpellForce 3: Soul Harvest, and SpellForce 3: Fallen God\n- Play the single-player ‘Old Haalâyash’ scenario map\n",
   "status": "ACTIVE",
   "productSlug": "spellforce-3-versus/home",
   "urlSlug": "hydrogengeneralaudience",
   "creationDate": "2020-10-28T15:27:48.397Z",
-  "lastModifiedDate": "2023-05-18T15:10:37.382Z",
+  "lastModifiedDate": "2025-03-06T07:38:18.688Z",
   "effectiveDate": "2020-12-14T18:00:00.000Z",
   "viewableDate": "2020-12-14T18:00:00.000Z",
   "developer": null,
@@ -39,6 +39,18 @@
   ],
   "tags": [
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1878,
+      "comment": ""
+    },
+    {
       "id": "1233",
       "name": "Base-Building",
       "namespace": "epic",
@@ -48,18 +60,6 @@
       "updated": "2023-04-24T21:09:04.266Z",
       "status": "ACTIVE",
       "referenceCount": 2,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
       "comment": null
     },
     {
@@ -75,15 +75,15 @@
       "comment": null
     },
     {
-      "id": "1370",
-      "name": "Single Player",
+      "id": "9547",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 5001,
+      "referenceCount": 18057,
       "comment": null
     },
     {
@@ -99,19 +99,31 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
+      "id": "1183",
+      "name": "Local Multiplayer",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
       "status": "ACTIVE",
-      "referenceCount": 18041,
+      "referenceCount": 168,
       "comment": null
     }
   ],
   "customAttributes": [
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
     {
       "key": "com.epicgames.app.blacklist",
       "value": "KR"
@@ -123,6 +135,10 @@
     {
       "key": "developerName",
       "value": "Grimlore Games"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -149,24 +165,6 @@
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/offer/EGS_SpellForce3VersusEdition_GrimloreGames_S1-2560x1440-4ba29abefa9bf7f5c3646fbf3440be86.jpg",
-      "md5": "4ba29abefa9bf7f5c3646fbf3440be86",
-      "size": 184598,
-      "uploadedDate": "2020-10-29T12:37:33.976Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/offer/EGS_SpellForce3VersusEdition_GrimloreGames_S2-1200x1600-9a12662da22ce51a12ef1733846b9548.jpg",
-      "md5": "9a12662da22ce51a12ef1733846b9548",
-      "size": 103105,
-      "uploadedDate": "2020-10-29T12:37:40.120Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/offer/EGS_SpellForce3VersusEdition_GrimloreGames_S2-1200x1600-9a12662da22ce51a12ef1733846b9548.jpg",
       "md5": "9a12662da22ce51a12ef1733846b9548",
@@ -176,13 +174,13 @@
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/offer/EGS_SpellForce3VersusEdition_GrimloreGames_S2-1200x1600-9a12662da22ce51a12ef1733846b9548.jpg",
-      "md5": "9a12662da22ce51a12ef1733846b9548",
-      "size": 103105,
-      "uploadedDate": "2020-10-29T12:37:52.553Z",
-      "width": 1200,
-      "height": 1600
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/72324f542dc4488681e617b0d39ad115/offer/EGS_SpellForce3VersusEdition_GrimloreGames_G1A_00-1920x1080-084bb22e7f0598016cde007751f32d64.jpg",
+      "md5": "084bb22e7f0598016cde007751f32d64",
+      "size": 140571,
+      "uploadedDate": "2020-10-29T12:37:20.843Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

@@ -1,16 +1,16 @@
 {
   "id": "34003fd6c080465a99176ef24e86394c",
   "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
-  "title": "iowa dpp",
-  "description": "iowa dpp",
-  "longDescription": null,
+  "title": "Disney Speedstorm - Diamond Pass Pack",
+  "description": "The Diamond Pass Pack includes:\n- 1 Diamond Pass*\n\n*Diamond Pass grants access to a premium tier of seasonal rewards, such as liveries, Suits, in-game currencies, Racers, and much more.",
+  "longDescription": "*The premium tier of rewards grants access to items such as liveries, Suits, in-game currencies, Racers, and much more.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "iowadpp",
+  "urlSlug": "diamond-pass-pack",
   "creationDate": "2025-02-18T15:30:03.574Z",
-  "lastModifiedDate": "2025-02-18T15:32:07.228Z",
-  "effectiveDate": "2099-02-18T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2025-03-06T20:59:25.525Z",
+  "effectiveDate": "2025-03-06T08:00:00.000Z",
+  "viewableDate": "2025-03-06T08:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
@@ -25,12 +25,55 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "spthidden"
+    },
+    {
+      "path": "spthidden/consumable"
+    },
+    {
       "path": "applications"
     }
   ],
   "tags": [],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_PT_Offer_Image_1200x1600_1200x1600-e3b22a94b943552dc0989d8707f530e4",
+      "md5": "e3b22a94b943552dc0989d8707f530e4",
+      "size": 770589,
+      "uploadedDate": "2025-03-03T19:20:55.271Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_LS_Offer_Image_2560x1440_2560x1440-bcbee3b191fa8c9a54c11b64122cd682",
+      "md5": "bcbee3b191fa8c9a54c11b64122cd682",
+      "size": 668829,
+      "uploadedDate": "2025-03-03T19:22:20.546Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_PT_Offer_Image_1200x1600_1200x1600-e3b22a94b943552dc0989d8707f530e4",
+      "md5": "e3b22a94b943552dc0989d8707f530e4",
+      "size": 770589,
+      "uploadedDate": "2025-03-03T19:24:06.531Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/_LS_Featured_Image_1920x1080_1920x1080-8eb04136c4a5b81e3fd15f1f0d20bb3f",
+      "md5": "8eb04136c4a5b81e3fd15f1f0d20bb3f",
+      "size": 1000884,
+      "uploadedDate": "2025-03-03T19:25:55.494Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "a44ba1624cf34156a59e2b9e862dbc51"

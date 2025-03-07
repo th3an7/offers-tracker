@@ -1,0 +1,326 @@
+{
+  "id": "d54bef2c03034d28aef5fb3227011b6c",
+  "namespace": "ue",
+  "title": "Steam Locomotive",
+  "description": "An old German steam locomotive based on the DRG class 24. The model is fully textured and the rod mechanism is animated.",
+  "longDescription": "An old German steam locomotive based on the DRG class 24. The model is fully textured and the rod mechanism is animated.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "steam-locomotive",
+  "creationDate": "2016-02-25T17:49:43.534Z",
+  "lastModifiedDate": "2024-11-17T20:11:53.061Z",
+  "effectiveDate": "2016-03-23T00:00:00.000Z",
+  "viewableDate": "2016-03-23T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-b4891326b04238b7516f28ef527e3e",
+    "name": "Nicolas Hiernaux"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>UE5 Compatible ( video here : https://www.youtube.com/watch?v&#61;sD7_blunXb0 )</p><p><br /></p><p>Scaled to Epic skeleton: NO</p><p><br /></p><p>Physically-Based Rendering: YES</p><p><br /></p><p>Texture Size (please list textures for each resolution):</p><p>- Body set : 2048² (Ao, Diffuse, Gloss, Metallic, Normal map, Specular)</p><p>- Coal set : 1024² (Albedo, Ao, Gloss, Normal map, Specular)</p><p>- Detached pieces set : 2048² (Ao, Diffuse, Gloss, Metallic, Normal map, Specular)</p><p>- Tender set :2048² (Ao, Diffuse, Gloss, Metallic, Normal map, Specular)</p><p>Note : No swizzling ; each texture is a separated file</p><p><br /></p><p>Collision: YES but just a capsule automatically generated</p><p><br /></p><p>Vertex Count: 67 183 Vertices</p><p><br /></p><p>LODs: None</p><p><br /></p><p>Number of Meshes: One skinmesh</p><p><br /></p><p>Number of Materials and Material Instances: 6 Materials and 1 material instance</p><p><br /></p><p>Number of Textures: 24</p><p><br /></p><p>Engine Compatibility: 4.10.4 to 4.17</p><p><br /></p><p>Intended Platform: All</p><p><br /></p><p>Platforms Tested: Windows 7 &amp; Window 10</p><p><br /></p><p>Documentation Included: NO</p><p><br /></p><p>Important\\Additional Notes:</p><p>- The rods mechanism is functional</p><p>- Not second UV set</p><p>- Not interior modeled</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1362",
+      "name": "MASSIVELY MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:18.133Z",
+      "updated": "2019-06-20T12:01:18.133Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2023-08-23T03:10:10.001Z",
+      "status": "ACTIVE",
+      "referenceCount": 1144,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2023-08-21T17:22:53.154Z",
+      "status": "ACTIVE",
+      "referenceCount": 416,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "35d30d20-e807-46d2-9e91-aaad5d38b505"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Avant-1920x1080-cac33b6fa08c40c56a45f71f82d6ed51.jpg",
+      "md5": "cac33b6fa08c40c56a45f71f82d6ed51",
+      "size": 832891,
+      "uploadedDate": "2022-02-17T00:37:10.953Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Chaudiere-1920x1080-1b63a380cbea5d925f36da840cbd0091.jpg",
+      "md5": "1b63a380cbea5d925f36da840cbd0091",
+      "size": 695721,
+      "uploadedDate": "2022-02-17T00:37:11.382Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Avant2-1920x1080-ef9c15b149312fa50ebebd6f033475e5.jpg",
+      "md5": "ef9c15b149312fa50ebebd6f033475e5",
+      "size": 791336,
+      "uploadedDate": "2022-02-17T00:37:09.534Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/arriere-1920x1080-08505297e95ee5a3bd88e8b44b89b4c1.jpg",
+      "md5": "08505297e95ee5a3bd88e8b44b89b4c1",
+      "size": 831189,
+      "uploadedDate": "2022-02-17T00:37:10.030Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Face-1920x1080-35c568b8dd690043301889f26dbcf186.jpg",
+      "md5": "35c568b8dd690043301889f26dbcf186",
+      "size": 737030,
+      "uploadedDate": "2022-02-17T00:37:10.556Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SteamLocomotive_Screenshot05-1920x1080-9cf12e0aac7be8ecd321d12a597feded.png",
+      "md5": "9cf12e0aac7be8ecd321d12a597feded",
+      "size": 452243,
+      "uploadedDate": "2016-02-25T17:48:35.844Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE5Compatible-1920x1080-9fd37d00220f6830681ac7d3ffdb14ac.jpg",
+      "md5": "9fd37d00220f6830681ac7d3ffdb14ac",
+      "size": 308430,
+      "uploadedDate": "2021-08-30T19:10:49.174Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SteamLocomotive_thumb-284x284-a8d9b06804139467eaf1b6e59a322ca8.png",
+      "md5": "a8d9b06804139467eaf1b6e59a322ca8",
+      "size": 166336,
+      "uploadedDate": "2022-02-17T00:37:11.780Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SteamLocomotive_featured-894x488-24beeb99bf097a2eab33008cc7dcd39a.png",
+      "md5": "24beeb99bf097a2eab33008cc7dcd39a",
+      "size": 856335,
+      "uploadedDate": "2022-02-17T00:37:11.955Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Avant2-1920x1080-ef9c15b149312fa50ebebd6f033475e5_Snapshot.jpg",
+      "md5": "271562c6df8f5e9fdc9cae53c76fde17",
+      "size": 5559,
+      "uploadedDate": "2022-02-17T00:37:09.853Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/arriere-1920x1080-08505297e95ee5a3bd88e8b44b89b4c1_Snapshot.jpg",
+      "md5": "65633111cc3f6ad56bc47a92d4564bf5",
+      "size": 6202,
+      "uploadedDate": "2022-02-17T00:37:10.289Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Face-1920x1080-35c568b8dd690043301889f26dbcf186_Snapshot.jpg",
+      "md5": "a02dc9191fec3191f7d62733f4ee3270",
+      "size": 5302,
+      "uploadedDate": "2022-02-17T00:37:10.804Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Avant-1920x1080-cac33b6fa08c40c56a45f71f82d6ed51_Snapshot.jpg",
+      "md5": "405697ca947cee2cc95eb0e221057b22",
+      "size": 6501,
+      "uploadedDate": "2022-02-17T00:37:11.205Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chaudiere-1920x1080-1b63a380cbea5d925f36da840cbd0091_Snapshot.jpg",
+      "md5": "5bd7df6fa94af5baca9db0ac2ac11ffe",
+      "size": 6367,
+      "uploadedDate": "2022-02-17T00:37:11.636Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE5Compatible-1920x1080-9fd37d00220f6830681ac7d3ffdb14ac_Snapshot.jpg",
+      "md5": "232174499e8f0bd127eb1c36b2d20a38",
+      "size": 5918,
+      "uploadedDate": "2021-08-30T19:10:49.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/SteamLocomotive_NewFeatured-894x488-f2f41e166e36e6cbb9e7bcbadaaa9f14.png",
+      "md5": "f2f41e166e36e6cbb9e7bcbadaaa9f14",
+      "size": 167632,
+      "uploadedDate": "2016-02-25T17:48:47.818Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "ba65435757c948de9d1189162452f8f0"
+    }
+  ],
+  "catalogNs": null
+}
