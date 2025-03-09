@@ -1,0 +1,413 @@
+{
+  "id": "3c9e227f473c4e11896b1b6d3d8ecd07",
+  "namespace": "ue",
+  "title": "Datasmith Twinmotion Content for Unreal Engine",
+  "description": "Twinmotion library assets for importing Datasmith files that were exported from Twinmotion",
+  "longDescription": "<p>The Datasmith Twinmotion Content plugin (June 6th, 2023)</p><p><br /></p><p>With the release of Twinmotion 2023.1, we have implemented a Datasmith Export function. Datasmith files, and all the necessary referenced assets, can be easily imported into the Unreal Editor with this updated plugin.</p><p><br /></p><p><strong>Community:</strong></p><p>General discussions and questions about this feature will be hosted on the Unreal Engine discussion forums here: <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://forums.unrealengine.com/tags/intersection/unreal-engine/datasmith\" rel=\"nofollow\">https://forums.unrealengine.com/tags/intersection/unreal-engine/datasmith</a></p><p><br /></p><p>If you encounter any issues with the import of Datasmith files into the Unreal Editor, please refer to the Unreal Engine forums.</p><p><br /></p><p>If you experience any bugs while exporting Datasmith files from Twinmotion, please use the Twinmotion Support Community to report a bug by using the [ contact us ] button: <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://twinmotionhelp.epicgames.com/\" rel=\"nofollow\">https://twinmotionhelp.epicgames.com/</a></p><p><br /></p><p><strong>UE-Only Content</strong> - Licensed for Use Only with Unreal Engine-based Products</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "datasmith-twinmotion-content-for-unreal-engine",
+  "creationDate": "2022-12-12T21:34:44.612Z",
+  "lastModifiedDate": "2024-11-27T21:11:25.631Z",
+  "effectiveDate": "2022-12-12T21:34:44.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Exporting and importing via Datasmith should be functionally equivalent to using the previous Twinmotion to Unreal Engine workflow.</p><p><br /></p><p><strong>Installation, Usage:</strong></p><p>Please refer to <a href=\"https://www.twinmotion.com/en-US/docs/2023.1/importing-projects-into-unreal-engine\" rel=\"nofollow\">our official documentation</a> for a complete description on how to install and use this plugin. </p><p>Additional information is provided on what is expected to work with known limitations.</p><p><br /></p><p><strong>Currently not supported:</strong></p><ul><li>Video textures</li><li>Construction machines</li><li>Boats</li><li>Skeletal mesh (animated objects)</li><li>Particles</li><li>Paths (bikes and characters)</li><li>Sounds </li><li>HDRI</li><li>Environment light</li><li>Location and time of day</li><li>Weather and weather effects</li><li>Reflection probes</li><li>Notes</li><li>Measure tool</li><li>Sections</li></ul><p><br /></p><p><strong>Import Workflow:</strong></p><p>The workflow is based on Datasmith. If you are not familiar with how Datasmith works, please consult the documentation <a href=\"https://docs.unrealengine.com/en-US/Engine/Content/Importing/Datasmith/HowTo/ImportingContent/index.html\" rel=\"nofollow\">here</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e8c0d5bf-57cf-4c70-830b-8aec43044822"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 01-1920x1080-70d6ed1f44183273358e14a752f74423.jpg",
+      "md5": "70d6ed1f44183273358e14a752f74423",
+      "size": 1460920,
+      "uploadedDate": "2023-04-19T18:13:22.286Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewUI-1920x1080-d6d90c35a1ca7510f8a98a1efc3876be.jpg",
+      "md5": "d6d90c35a1ca7510f8a98a1efc3876be",
+      "size": 1302117,
+      "uploadedDate": "2023-04-19T18:14:48.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-0b81582510e6d086817d157f53ff1a7c.jpg",
+      "md5": "0b81582510e6d086817d157f53ff1a7c",
+      "size": 926728,
+      "uploadedDate": "2023-04-20T18:23:15.443Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/07-1920x1080-5e542a5eb010e1e30eb64227e5bc94ee.jpg",
+      "md5": "5e542a5eb010e1e30eb64227e5bc94ee",
+      "size": 533802,
+      "uploadedDate": "2023-04-20T18:27:36.931Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-4758587e20fbbdf331dae260aec67d1b.jpg",
+      "md5": "4758587e20fbbdf331dae260aec67d1b",
+      "size": 625786,
+      "uploadedDate": "2023-04-20T18:27:37.302Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-9dbba7c4b4108e615895bc8347645f2c.jpg",
+      "md5": "9dbba7c4b4108e615895bc8347645f2c",
+      "size": 667861,
+      "uploadedDate": "2023-04-20T18:27:37.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-edc77c759ce6f93c758de470aa075f5b.jpg",
+      "md5": "edc77c759ce6f93c758de470aa075f5b",
+      "size": 654013,
+      "uploadedDate": "2023-04-20T18:27:38.075Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-13131b5f1bc91f588812f5eed77e51c6.jpg",
+      "md5": "13131b5f1bc91f588812f5eed77e51c6",
+      "size": 654456,
+      "uploadedDate": "2023-04-20T18:27:38.437Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-e08314c987a690e4811baf987efca60d.jpg",
+      "md5": "e08314c987a690e4811baf987efca60d",
+      "size": 873653,
+      "uploadedDate": "2023-04-20T18:27:38.879Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DatasmithTwinmotionContentforUnrealEngine_thumb-284x284-8223675136e5d7e2d0147699f3b9ac71.png",
+      "md5": "8223675136e5d7e2d0147699f3b9ac71",
+      "size": 170794,
+      "uploadedDate": "2023-04-19T15:39:44.872Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DatasmithTwinmotionContentforUnrealEngine_featured-894x488-73890642353ca310f870bf7ab4ed01a7.png",
+      "md5": "73890642353ca310f870bf7ab4ed01a7",
+      "size": 899465,
+      "uploadedDate": "2023-04-19T15:57:09.124Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-1920x1080-5e542a5eb010e1e30eb64227e5bc94ee_Snapshot.jpg",
+      "md5": "6cc65ec6282de8bd8c24178b23e61b57",
+      "size": 5491,
+      "uploadedDate": "2023-04-20T18:27:37.159Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-4758587e20fbbdf331dae260aec67d1b_Snapshot.jpg",
+      "md5": "01626a9fb60bdeb68b06025764d4eada",
+      "size": 5403,
+      "uploadedDate": "2023-04-20T18:27:37.533Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-9dbba7c4b4108e615895bc8347645f2c_Snapshot.jpg",
+      "md5": "8a6dcc009ea9011e794a2c7369e61b33",
+      "size": 5309,
+      "uploadedDate": "2023-04-20T18:27:37.916Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-edc77c759ce6f93c758de470aa075f5b_Snapshot.jpg",
+      "md5": "1b1e83959ed84814fd9d11e8af7605bd",
+      "size": 5289,
+      "uploadedDate": "2023-04-20T18:27:38.310Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-13131b5f1bc91f588812f5eed77e51c6_Snapshot.jpg",
+      "md5": "d30a42a77ec1ebde966693f51d3b06b4",
+      "size": 5463,
+      "uploadedDate": "2023-04-20T18:27:38.687Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-e08314c987a690e4811baf987efca60d_Snapshot.jpg",
+      "md5": "4c1d1539b53b0ad345ff9a337bfd3322",
+      "size": 5700,
+      "uploadedDate": "2023-04-20T18:27:39.122Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-1920x1080-5e542a5eb010e1e30eb64227e5bc94ee_Snapshot.jpg",
+      "md5": "6cc65ec6282de8bd8c24178b23e61b57",
+      "size": 5491,
+      "uploadedDate": "2023-04-20T18:23:13.087Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-4758587e20fbbdf331dae260aec67d1b_Snapshot.jpg",
+      "md5": "01626a9fb60bdeb68b06025764d4eada",
+      "size": 5403,
+      "uploadedDate": "2023-04-20T18:23:13.484Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-9dbba7c4b4108e615895bc8347645f2c_Snapshot.jpg",
+      "md5": "8a6dcc009ea9011e794a2c7369e61b33",
+      "size": 5309,
+      "uploadedDate": "2023-04-20T18:23:13.866Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-edc77c759ce6f93c758de470aa075f5b_Snapshot.jpg",
+      "md5": "1b1e83959ed84814fd9d11e8af7605bd",
+      "size": 5289,
+      "uploadedDate": "2023-04-20T18:23:14.257Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-13131b5f1bc91f588812f5eed77e51c6_Snapshot.jpg",
+      "md5": "d30a42a77ec1ebde966693f51d3b06b4",
+      "size": 5463,
+      "uploadedDate": "2023-04-20T18:23:14.849Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-e08314c987a690e4811baf987efca60d_Snapshot.jpg",
+      "md5": "4c1d1539b53b0ad345ff9a337bfd3322",
+      "size": 5700,
+      "uploadedDate": "2023-04-20T18:23:15.234Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-0b81582510e6d086817d157f53ff1a7c_Snapshot.jpg",
+      "md5": "cd7698ce0dfd5e8f3b34c398f815353c",
+      "size": 5939,
+      "uploadedDate": "2023-04-20T18:23:15.691Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewUI-1920x1080-d6d90c35a1ca7510f8a98a1efc3876be_Snapshot.jpg",
+      "md5": "4032aedfd79343bdb966d2dde17ac015",
+      "size": 7307,
+      "uploadedDate": "2023-04-19T18:14:48.884Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 01-1920x1080-70d6ed1f44183273358e14a752f74423_Snapshot.jpg",
+      "md5": "39740d7b861dcfc176a6361cbca96b3b",
+      "size": 7390,
+      "uploadedDate": "2023-04-19T18:13:22.567Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewUI-1920x1080-d6d90c35a1ca7510f8a98a1efc3876be_Snapshot.jpg",
+      "md5": "4032aedfd79343bdb966d2dde17ac015",
+      "size": 7307,
+      "uploadedDate": "2023-04-19T17:50:37.820Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 01-1920x1080-70d6ed1f44183273358e14a752f74423_Snapshot.jpg",
+      "md5": "39740d7b861dcfc176a6361cbca96b3b",
+      "size": 7390,
+      "uploadedDate": "2023-04-19T17:50:38.297Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 01-1920x1080-70d6ed1f44183273358e14a752f74423_Snapshot.jpg",
+      "md5": "39740d7b861dcfc176a6361cbca96b3b",
+      "size": 7390,
+      "uploadedDate": "2023-04-19T17:30:10.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewUI-1920x1080-d6d90c35a1ca7510f8a98a1efc3876be_Snapshot.jpg",
+      "md5": "4032aedfd79343bdb966d2dde17ac015",
+      "size": 7307,
+      "uploadedDate": "2023-04-19T15:55:46.375Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DatasmithTwinmotionContentScreenshots01-1920x1080-9263977b196a7aa02d0613162e340554_Snapshot.jpg",
+      "md5": "2cd1c317f426ae1f8a629ab09c3f5df6",
+      "size": 7422,
+      "uploadedDate": "2022-12-12T18:56:13.874Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DatasmithTwinmotionContentScreenshots02-1920x1080-fede4ddadbe334bcfe532c228f4b1bf3_Snapshot.jpg",
+      "md5": "68d45a6139b9864117dfb75762369726",
+      "size": 4478,
+      "uploadedDate": "2022-12-12T18:56:14.878Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DatasmithTwinmotionContentScreenshots03-1920x1080-4fb86a9582f99b7fbaeb795a18b73b59_Snapshot.jpg",
+      "md5": "467b99c5e44fb78dd43d3778fdf1f020",
+      "size": 4157,
+      "uploadedDate": "2022-12-12T18:56:15.966Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DatasmithTwinmotionContentScreenshots04-1920x1080-a3490d86fe63f2d55743ccd17b9b0490_Snapshot.jpg",
+      "md5": "e534e3ba4e6cd8a149f94c343c2df83d",
+      "size": 7763,
+      "uploadedDate": "2022-12-12T18:56:17.191Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DatasmithTwinmotionContentScreenshots05-1920x1080-4b0d2e078b8e22003fae1b005831d5ef_Snapshot.jpg",
+      "md5": "70011d837c56948b87b02681a7328c10",
+      "size": 7545,
+      "uploadedDate": "2022-12-12T18:56:18.365Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b2c28d2646de4e81870a2419b59c0440"
+    }
+  ],
+  "catalogNs": null
+}

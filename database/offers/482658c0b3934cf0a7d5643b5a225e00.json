@@ -1,0 +1,386 @@
+{
+  "id": "482658c0b3934cf0a7d5643b5a225e00",
+  "namespace": "ue",
+  "title": "City Park Environment Collection LITE",
+  "description": "This package contains high quality nature assets. It is ideal for creating city parks, forests, and squares.",
+  "longDescription": "<p>Video Preview: <a href=\"https://youtu.be/oag6maK5_1o\" rel=\"nofollow\">https://youtu.be/oag6maK5_1o</a></p><p><br /></p><p><strong>we have made this package specially for your numerous requests. this package is a copy of our </strong><a href=\"https://unrealengine.com/marketplace/en-US/product/city-park-environment-collection\" rel=\"nofollow\"><strong>City Park Environment Collection</strong></a><strong>, but with some differences made in order to speed up the launch and increase the fps without noticeable loss of quality: </strong></p><p><br /></p><p>• the number of trees and grass has been halved</p><p>• trees made more low poly (about 3/4 of triangles cut)</p><p>• triangles are also cut off on merged meshes</p><p>• removed some props and materials</p><p>• now the package weighs 1.2gb (3.6gb in the original)</p><p>• startup for me was reduced to 50 minutes (about 2.5 hours in the original)</p><p>• compiling shaders takes about an hour (2 hours in the original)</p><p>• configured for instance disappearing at a distance</p><p>• all textures are reduced by four times (1024x1024 to 512x512 e.t.c)</p><p>• now on the showcase map the FPS for me does not fall below 60 (25-35 in the original)</p><p>• The packages are fully compatible with each other, you can use any meshes from the original here and vice versa</p><p><br /></p><p><strong>Attention: Due to the large number of meshes, textures and effects a mid range computer is highly recommended to run demonstration level smoothly. (</strong>my system: intel core i-7 2600k, 24GB RAM, NVIDIA GeForce GTX 1080<strong>)</strong></p><p><br /></p><p>On the &#34;showcase&#34; map, we used an instance tool (<a href=\"https://unrealengine.com/marketplace/en-US/product/instance-tool\" rel=\"nofollow\">https://unrealengine.com/marketplace/en-US/product/instance-tool</a>) to merge meshes into instances (you can use any other plugin or make your own) , and also merged spline meshes to improve fps.</p><p><br /></p><p><strong>the problem of a long first load at 95 percent is solved either by deleting or renaming the &#34;showcase&#34; level (after starting the project you will be taken to a clean level, and when you start other levels, the geometry will still compile, but you will be able to see the progress bar, and it will not look like it&#39;s endless loading) </strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "city-park-environment-collection-lite",
+  "creationDate": "2021-06-15T07:41:13.966Z",
+  "lastModifiedDate": "2024-12-07T15:22:57.694Z",
+  "effectiveDate": "2021-06-15T07:41:13.869Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cc0beeae0e4c6ca3311d53016bdb11",
+    "name": "SilverTm"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong> Features:</strong></p><ul><li>Demo scene included</li><li>Fully customizable material</li></ul><p><br /></p><p>A large number of park props, trees, plants, grass, squares, playgrounds, mesh for creating roads and paths etc.</p><p><br /></p><p><strong>Texture Sizes:</strong></p><p>• (35) 2048x2048</p><p>• (2) 2048x1024</p><p>• (2) 2048x256</p><p>• (106) 1024x1024</p><p>• (14) 1024x512</p><p>• (3) 1024x128</p><p>• (6) 1024x256</p><p>• (94) 512x512</p><p>• (15) 512x256</p><p>• (4) 512x128</p><p>• (37) 256x256</p><p>• (4) 256x128</p><p>• (1) 256x64</p><p>• (1) 256x16</p><p>• (5) 128x128</p><p>• (1) 128x64</p><p>• (4) 8x8</p><p><br /></p><p><br /></p><p>Collision: Yes, Automatically Generated</p><p>Vertex Count: Max 632200, Min 4</p><p>LODs: Yes, automatically generated LOD for each mesh (different amounts 2-3 LOD)</p><p>Number of Meshes: 424</p><p>Number of Materials and Material Instances: 9 Materials, 152 Material Instances and 3 Material Function</p><p>Number of Textures: 334</p><p><br /></p><p><strong>Notice: All sounds are taken from the site </strong><a href=\"http://freesound.org/\" rel=\"nofollow\"><strong>freesound.org</strong></a><strong> and are used solely for demonstration purposes.</strong></p><p><strong>Sound authors: Martats, vkproduktion, hargissssound, sean, innorecords, nox-sound.</strong></p><p><br /></p><p><strong>Details you can find on the website by the number in the name of the sound</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1161",
+      "name": "VIOLENT",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:38.586Z",
+      "updated": "2019-06-20T11:59:38.586Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e08aa2af-ade4-4b57-9a5d-06ffd6fe0916"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CityParkLitescreenshot01-1920x1080-4b528ba3095ba78e3d6d2fc9a10b09b0.png",
+      "md5": "4b528ba3095ba78e3d6d2fc9a10b09b0",
+      "size": 989051,
+      "uploadedDate": "2021-05-20T08:15:34.564Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CityParkLitescreenshot02-1920x1080-417ac7fe33597438512934780f3e61db.png",
+      "md5": "417ac7fe33597438512934780f3e61db",
+      "size": 932358,
+      "uploadedDate": "2021-05-20T08:15:34.810Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CityParkLitescreenshot03-1920x1080-3ca55113b891a76b8fdd71399b60544e.png",
+      "md5": "3ca55113b891a76b8fdd71399b60544e",
+      "size": 1204277,
+      "uploadedDate": "2021-05-20T08:15:34.980Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CityParkLitescreenshot04-1920x1080-8e6080002e4f736bd2f264d5a40c6009.png",
+      "md5": "8e6080002e4f736bd2f264d5a40c6009",
+      "size": 1239004,
+      "uploadedDate": "2021-05-20T08:15:35.271Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CityParkLitescreenshot05-1920x1080-a8320dfc92617e19d95b5d34705c5995.png",
+      "md5": "a8320dfc92617e19d95b5d34705c5995",
+      "size": 1332697,
+      "uploadedDate": "2021-05-20T08:15:35.506Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CityParkLitescreenshot06-1920x1080-e10a0dfe6dbc2ec3912643ef10d32274.png",
+      "md5": "e10a0dfe6dbc2ec3912643ef10d32274",
+      "size": 1329983,
+      "uploadedDate": "2021-05-20T08:15:35.737Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CityParkLitescreenshot07-1920x1080-d0932a7a1ec2496ca0c254245e61df08.png",
+      "md5": "d0932a7a1ec2496ca0c254245e61df08",
+      "size": 1165336,
+      "uploadedDate": "2021-05-20T08:15:36.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/123_thumb-284x284-0ced32482358e496fdc881a13f53e19c.png",
+      "md5": "0ced32482358e496fdc881a13f53e19c",
+      "size": 191316,
+      "uploadedDate": "2021-05-20T08:15:36.318Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/123_featured-894x488-3ab679c5cbf12e08d2889fbb73d75a6f.png",
+      "md5": "3ab679c5cbf12e08d2889fbb73d75a6f",
+      "size": 639530,
+      "uploadedDate": "2021-05-20T08:15:36.505Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CityParkLitescreenshot01-1920x1080-4b528ba3095ba78e3d6d2fc9a10b09b0_Snapshot.png",
+      "md5": "85047f7555fe344e7b1b53caf7712481",
+      "size": 7827,
+      "uploadedDate": "2021-05-20T08:15:34.739Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CityParkLitescreenshot02-1920x1080-417ac7fe33597438512934780f3e61db_Snapshot.png",
+      "md5": "30a6ce55a1b44a7d09c7d23c7eed2109",
+      "size": 7260,
+      "uploadedDate": "2021-05-20T08:15:34.903Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CityParkLitescreenshot03-1920x1080-3ca55113b891a76b8fdd71399b60544e_Snapshot.png",
+      "md5": "a9478ca72650b6322ccbb54192b47144",
+      "size": 7458,
+      "uploadedDate": "2021-05-20T08:15:35.151Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CityParkLitescreenshot04-1920x1080-8e6080002e4f736bd2f264d5a40c6009_Snapshot.png",
+      "md5": "cdbf05f2abdcf02d8147baf6a7b502bf",
+      "size": 7996,
+      "uploadedDate": "2021-05-20T08:15:35.380Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CityParkLitescreenshot05-1920x1080-a8320dfc92617e19d95b5d34705c5995_Snapshot.png",
+      "md5": "54fae243b1e5bcc059387cd28e60d246",
+      "size": 8949,
+      "uploadedDate": "2021-05-20T08:15:35.626Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CityParkLitescreenshot06-1920x1080-e10a0dfe6dbc2ec3912643ef10d32274_Snapshot.png",
+      "md5": "6bf4152f184fef5fb3db3b97fab33dd3",
+      "size": 8137,
+      "uploadedDate": "2021-05-20T08:15:35.843Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CityParkLitescreenshot07-1920x1080-d0932a7a1ec2496ca0c254245e61df08_Snapshot.png",
+      "md5": "e8d6fbde2da2d92fa25f301ecdfeee73",
+      "size": 8110,
+      "uploadedDate": "2021-05-20T08:15:36.188Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2687d8df1b6344ff8ad1dbd4679381df"
+    }
+  ],
+  "catalogNs": null
+}

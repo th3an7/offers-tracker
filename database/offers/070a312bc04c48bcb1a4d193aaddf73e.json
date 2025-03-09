@@ -1,0 +1,338 @@
+{
+  "id": "070a312bc04c48bcb1a4d193aaddf73e",
+  "namespace": "ue",
+  "title": "Daz To Unreal",
+  "description": "This plugin is now available for free at the Daz Marketplace. Daz To Unreal is a pair of plugins that help transfer characters, props, and animations from Daz Studio to the Unreal Engine.",
+  "longDescription": "<p>Daz Productions has purchased this plugin and made it available for free at the Daz Marketplace. You can get it here: <a href=\"https://www.daz3d.com/daz-to-unreal-bridge\" rel=\"nofollow\">https://www.daz3d.com/daz-to-unreal-bridge</a> </p><p><br /></p><p>Daz To Unreal is a pair of plugins (one for Daz Studio, one for the Unreal Engine) that helps transfer assets from Daz Studio to the Unreal Engine. The system can be used to transfer characters, props, and animations. Character support is primarily for Genesis 3 and Genesis 8 characters.</p><p><br /></p><p><strong>Note that no license for Daz Assets is provided with this plugin. You need to purchase the appropriate licenses and interactive licenses to use the assets</strong>. <a href=\"https://www.daz3d.com/interactive-license-info\" rel=\"nofollow\">https://www.daz3d.com/interactive-license-info</a></p><p><br /></p><p>Setup and usage instructions are here: <a href=\"http://davidvodhanel.com/daz-to-unreal-instructions/\" rel=\"nofollow\">http://davidvodhanel.com/daz-to-unreal-instructions/</a></p><p>Discord: https://discord.gg/tVcDBMF</p><p>Trello: <a href=\"https://trello.com/b/jflWglcp/daz-to-unreal\" rel=\"nofollow\">https://trello.com/b/jflWglcp/daz-to-unreal</a></p><p><br /></p><p>Each character or prop is organized into its own folder in the Content Browser with subfolders for its Textures and Material Instances. Materials Instances are created for each Surface in Daz Studio. The Material Instances are based on a handful of Materials included with the plugin, but these can be overridden in the settings to use your own Materials. A shared Material Function is used to connect most of the parameters in the included Materials, so making project wide changes to the Materials is simple.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "daz-to-unreal",
+  "creationDate": "2019-12-01T23:16:47.549Z",
+  "lastModifiedDate": "2024-12-01T08:43:33.426Z",
+  "effectiveDate": "2019-12-01T23:54:42.652Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-re2nby9tbqs8klzbcaew2lalpl7at2",
+    "name": "David Vodhanel"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Transfer characters, props, and animations from Daz Studio to Unreal.</li><li>Morphs in Unreal Engine 4.25 and later.</li><li>Collects and uses textures that are ignored during FBX transfers from Daz Studio</li><li>Organizes assets into folders on import.</li><li>Renames the root bones to root so that Genesis 3 characters can share animations and Genesis 8 characters can share animations.</li><li>Includes a Genesis 8 compatible skeleton with re-targeting options set.</li><li>Includes a Genesis 3 compatible skeleton with re-targeting options set.</li><li>Includes 8 Master Materials used by the transferred assets.</li><li>Includes a Material Function for handling most of the Material Parameters.</li></ul><p><strong>Code Modules</strong>: DazToUnreal (Editor)</p><p><strong>Number of Blueprints</strong>: 0</p><p><strong>Number of C&#43;&#43; Classes</strong>: 0</p><p><strong>Network Replicated</strong>: N\\A</p><p><strong>Supported Development Platforms</strong>: Win64, Daz Studio 4.10 or newer 64 bit required.</p><p><strong>Supported Target Build Platforms</strong>: Tested on Win64, but should work on any platform.</p><p><strong>Documentation</strong>: <a href=\"http://davidvodhanel.com/daz-to-unreal-instructions/\" rel=\"nofollow\">http://davidvodhanel.com/daz-to-unreal-instructions/</a></p><p><strong>Important/Additional Notes</strong>:</p><ul><li>Note that no license for Daz Assets is provided with this plugin. You need to purchase the appropriate licenses and interactive licenses to use the assets. <a href=\"https://www.daz3d.com/interactive-license-info\" rel=\"nofollow\">https://www.daz3d.com/interactive-license-info</a></li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bb96540f-475e-4387-b609-a8aa74d95e3e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery1-1920x1080-388a4c213bf3385f576bacc749f073f6.jpg",
+      "md5": "388a4c213bf3385f576bacc749f073f6",
+      "size": 958147,
+      "uploadedDate": "2020-09-01T19:33:11.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery2-1920x1080-ef72ec9ed4569c4fbb2b58a7ed1cee11.jpg",
+      "md5": "ef72ec9ed4569c4fbb2b58a7ed1cee11",
+      "size": 660928,
+      "uploadedDate": "2020-09-01T19:33:12.008Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery3-1920x1080-a4f184315fc9fafeee4e35c8089c263e.jpg",
+      "md5": "a4f184315fc9fafeee4e35c8089c263e",
+      "size": 535686,
+      "uploadedDate": "2020-09-01T19:33:12.426Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery4-1920x1080-490dc741cb17bf0195341dc04e6b14f2.jpg",
+      "md5": "490dc741cb17bf0195341dc04e6b14f2",
+      "size": 865297,
+      "uploadedDate": "2020-09-01T19:33:12.907Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide00-1920x1080-bd273b41d69705c74f8f3525e4984627.png",
+      "md5": "bd273b41d69705c74f8f3525e4984627",
+      "size": 3018517,
+      "uploadedDate": "2019-11-13T16:54:27.471Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide01-1920x1080-729b46013ab5dea6db7e95aa99e4c2ab.png",
+      "md5": "729b46013ab5dea6db7e95aa99e4c2ab",
+      "size": 2953687,
+      "uploadedDate": "2019-11-13T16:54:28.197Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide02-1920x1080-ee5939ae00e4060d7be1976a24a9d5f8.png",
+      "md5": "ee5939ae00e4060d7be1976a24a9d5f8",
+      "size": 2362073,
+      "uploadedDate": "2019-11-13T16:54:28.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide03-1920x1080-b6702812cd8fbd3cb88ffade90e40960.png",
+      "md5": "b6702812cd8fbd3cb88ffade90e40960",
+      "size": 725732,
+      "uploadedDate": "2019-11-13T16:54:29.514Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide04-1920x1080-a1ecc62c43fb4588960650143be23b7f.png",
+      "md5": "a1ecc62c43fb4588960650143be23b7f",
+      "size": 1442203,
+      "uploadedDate": "2019-11-13T16:54:29.979Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide05-1920x1080-cb898cd9a95292fa6eea5fb7fb02de88.png",
+      "md5": "cb898cd9a95292fa6eea5fb7fb02de88",
+      "size": 1188226,
+      "uploadedDate": "2019-11-13T16:54:30.444Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide06-1920x1080-d9884551d0b797bcf15f53955af992f8.png",
+      "md5": "d9884551d0b797bcf15f53955af992f8",
+      "size": 435816,
+      "uploadedDate": "2019-11-13T16:54:30.719Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DazToUnreal_thumb-284x284-2a4e4a4c7a3272317112f36e5b574c6c.png",
+      "md5": "2a4e4a4c7a3272317112f36e5b574c6c",
+      "size": 169017,
+      "uploadedDate": "2020-08-31T00:31:27.652Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DazToUnreal_featured-894x488-7af20470f4b1cdc1a490077668aebd0e.png",
+      "md5": "7af20470f4b1cdc1a490077668aebd0e",
+      "size": 754776,
+      "uploadedDate": "2020-08-31T00:31:27.971Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-388a4c213bf3385f576bacc749f073f6_Snapshot.jpg",
+      "md5": "af391c1f7964608ed855238c81d120cb",
+      "size": 6934,
+      "uploadedDate": "2020-09-01T19:33:11.881Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery2-1920x1080-ef72ec9ed4569c4fbb2b58a7ed1cee11_Snapshot.jpg",
+      "md5": "e8126bc9ff6b57644fed4c33f25e0ea6",
+      "size": 5270,
+      "uploadedDate": "2020-09-01T19:33:12.255Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery3-1920x1080-a4f184315fc9fafeee4e35c8089c263e_Snapshot.jpg",
+      "md5": "30c4e5a7e94a8bfed68ab23f6b03fa2d",
+      "size": 4987,
+      "uploadedDate": "2020-09-01T19:33:12.694Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery4-1920x1080-490dc741cb17bf0195341dc04e6b14f2_Snapshot.jpg",
+      "md5": "96b958fdb5a5bcc396fcf7e750436561",
+      "size": 6397,
+      "uploadedDate": "2020-09-01T19:33:13.259Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide00-1920x1080-bd273b41d69705c74f8f3525e4984627_Snapshot.png",
+      "md5": "1f495f96060eb5ca462f5c4bfd169008",
+      "size": 7128,
+      "uploadedDate": "2019-11-13T16:54:27.925Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide01-1920x1080-729b46013ab5dea6db7e95aa99e4c2ab_Snapshot.png",
+      "md5": "318404f2b484cb61ae13d6d0e308e71c",
+      "size": 7193,
+      "uploadedDate": "2019-11-13T16:54:28.706Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide02-1920x1080-ee5939ae00e4060d7be1976a24a9d5f8_Snapshot.png",
+      "md5": "11b1de5814bac7df8c959c4a0feea69a",
+      "size": 6787,
+      "uploadedDate": "2019-11-13T16:54:29.336Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide03-1920x1080-b6702812cd8fbd3cb88ffade90e40960_Snapshot.png",
+      "md5": "80722e7fe93e2cb6f7d25bb5efaffdcc",
+      "size": 4460,
+      "uploadedDate": "2019-11-13T16:54:29.803Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide04-1920x1080-a1ecc62c43fb4588960650143be23b7f_Snapshot.png",
+      "md5": "bc58dd77803dd55bfe1334598a05c4b9",
+      "size": 6149,
+      "uploadedDate": "2019-11-13T16:54:30.335Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide05-1920x1080-cb898cd9a95292fa6eea5fb7fb02de88_Snapshot.png",
+      "md5": "97673a786a086a85058ff00c18c0b3be",
+      "size": 7657,
+      "uploadedDate": "2019-11-13T16:54:30.587Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide06-1920x1080-d9884551d0b797bcf15f53955af992f8_Snapshot.png",
+      "md5": "6ef9801d8e606de6fb39dfcaa96567e3",
+      "size": 3089,
+      "uploadedDate": "2019-11-13T16:54:31.027Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2c8956c15c9042bfbf4bb70722ef274f"
+    }
+  ],
+  "catalogNs": null
+}

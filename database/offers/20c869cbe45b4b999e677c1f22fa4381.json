@@ -1,0 +1,347 @@
+{
+  "id": "20c869cbe45b4b999e677c1f22fa4381",
+  "namespace": "ue",
+  "title": "Spice",
+  "description": "Solve electronic circuits defined by netlists and display the results on an interactive graph.",
+  "longDescription": "<p>Solve electronic circuits defined by netlists. The netlist consists of a list of the electronic components in a circuit and a list of the nodes they are connected to. The plugin utilizes <a href=\"https://ngspice.sourceforge.io/\" rel=\"nofollow\">ngspice</a> - the spice simulator for electric and electronic circuits.</p><p>The circuit analysis is performed asynchronously in the background thread to ensure maximum performance. Ngspice can solve only one circuit at a time. In case there are more than one, they are scheduled for ngspice to start one by one. The analysis can be paused and resumed. Device and model parameters of the circuit can be altered while the analysis is paused.</p><p>The analysis vectors are displayed on an interactive graph. You can drag, zoom and hover over the graph to display the specific value.</p><p>Additional C&#43;&#43; functions are exposed for Blueprints to allow more performant manipulation with arrays and to simplify data for displaying on graphs.</p><p><a href=\"https://github.com/xgulism1/UE_Spice_Demo\" rel=\"nofollow\">Documentation/Example Project</a></p><p><a href=\"https://youtu.be/XACr_H5ea24\" rel=\"nofollow\">Video</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "spice",
+  "creationDate": "2022-09-20T20:32:01.389Z",
+  "lastModifiedDate": "2024-11-28T20:43:01.490Z",
+  "effectiveDate": "2022-09-20T20:36:37.284Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9w5d36fgs3jsyyqxqzey3p7qrae5u9",
+    "name": "Supik"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Asynchronously solve electronic circuits defined by netlists</li><li>Pause and resume analysis</li><li>Alter device and model parameters of the circuit while the analysis is paused</li><li> Visualize data on an interactive graph</li></ul><p>Code Modules:</p><ul><li> Runtime: Spice (ngspice-43)</li></ul><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 6</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows64</p><p>Supported Target Build Platforms: Windows64</p><p>Documentation/Example Project: <a href=\"https://github.com/xgulism1/UE_Spice_Demo\" rel=\"nofollow\">GitHub</a></p><p>Video: <a href=\"https://youtu.be/XACr_H5ea24\" rel=\"nofollow\">YouTube</a></p><p>License: Ngspice is open source under the <a href=\"https://sourceforge.net/p/ngspice/ngspice/ci/master/tree/COPYING\" rel=\"nofollow\">3-clause BSD license</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "791cc505-26d8-4130-8df7-682b3c859f90"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-cef8dd9fbbdeb00da012660ad80a5489.png",
+      "md5": "cef8dd9fbbdeb00da012660ad80a5489",
+      "size": 138347,
+      "uploadedDate": "2023-01-16T20:08:23.301Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-a84715a4e5fecd692fcf0d65d6690e65.png",
+      "md5": "a84715a4e5fecd692fcf0d65d6690e65",
+      "size": 107782,
+      "uploadedDate": "2023-01-16T20:08:23.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-5c94f6cbc8e38f4f5a7712ab022926a5.png",
+      "md5": "5c94f6cbc8e38f4f5a7712ab022926a5",
+      "size": 125877,
+      "uploadedDate": "2023-01-16T20:08:23.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-b75097e439a2af038d114e060ee39a44.png",
+      "md5": "b75097e439a2af038d114e060ee39a44",
+      "size": 106782,
+      "uploadedDate": "2023-01-16T20:08:24.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery05-1920x1080-f8a101fbe73adc9e8b3bd78c0f18a459.png",
+      "md5": "f8a101fbe73adc9e8b3bd78c0f18a459",
+      "size": 360199,
+      "uploadedDate": "2023-01-16T20:08:24.583Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Spice_thumb-284x284-0541774b2c7e4ef9eec48327c37f42e3.png",
+      "md5": "0541774b2c7e4ef9eec48327c37f42e3",
+      "size": 18486,
+      "uploadedDate": "2022-08-14T08:59:17.862Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Spice_featured-894x488-eb74fd6b9b02e11fab2a1f3b942cb877.png",
+      "md5": "eb74fd6b9b02e11fab2a1f3b942cb877",
+      "size": 74053,
+      "uploadedDate": "2023-01-16T20:08:24.948Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-cef8dd9fbbdeb00da012660ad80a5489_Snapshot.png",
+      "md5": "4c58227899214be5d288d205db617f93",
+      "size": 5643,
+      "uploadedDate": "2023-01-16T20:08:23.541Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-a84715a4e5fecd692fcf0d65d6690e65_Snapshot.png",
+      "md5": "b42a76c39626a65ece53e9444e904850",
+      "size": 5472,
+      "uploadedDate": "2023-01-16T20:08:23.829Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-5c94f6cbc8e38f4f5a7712ab022926a5_Snapshot.png",
+      "md5": "45b14bf92da6c646522a9b327951903e",
+      "size": 5585,
+      "uploadedDate": "2023-01-16T20:08:24.097Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-b75097e439a2af038d114e060ee39a44_Snapshot.png",
+      "md5": "fc79386dc307f49ffcf6e33847863fbd",
+      "size": 5641,
+      "uploadedDate": "2023-01-16T20:08:24.467Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-f8a101fbe73adc9e8b3bd78c0f18a459_Snapshot.png",
+      "md5": "ddb56d27eb74d650e1f03c22c57e4a7c",
+      "size": 4935,
+      "uploadedDate": "2023-01-16T20:08:24.796Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-5574cb2bd8ef931bbc74ab469e6af90c_Snapshot.png",
+      "md5": "feedcffb73634a96fcb98f0516eb90b6",
+      "size": 5962,
+      "uploadedDate": "2022-08-14T08:59:16.522Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-c28e052a24af1b01365ff9ff837720be_Snapshot.png",
+      "md5": "e4032520f58f3b31750d8591590c8a84",
+      "size": 5565,
+      "uploadedDate": "2022-08-14T08:59:16.835Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-90c61c03e6dbc4c2dff0f083356f55dc_Snapshot.png",
+      "md5": "01188387fe4aa7294dbd0e6b8b6b4ba9",
+      "size": 5626,
+      "uploadedDate": "2022-08-14T08:59:17.142Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-51670b3f5d50727fe1af654bc2d38730_Snapshot.png",
+      "md5": "cdee755b6f7d8c2550ab77a958bef584",
+      "size": 5575,
+      "uploadedDate": "2022-08-14T08:59:17.468Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-6c663a3f45c0c6258883eb51c621d0fb_Snapshot.png",
+      "md5": "2256c86a40474ba3516be73a9ed3acd6",
+      "size": 5374,
+      "uploadedDate": "2022-08-14T08:59:17.804Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1f99728586314333a6ec2360019ec12b"
+    }
+  ],
+  "catalogNs": null
+}
