@@ -1,0 +1,277 @@
+{
+  "id": "d0010c58a2da4464ad52fc254d42a10f",
+  "namespace": "ue",
+  "title": "Simple Slime Monster",
+  "description": "Simple slime monster with AI",
+  "longDescription": "<p>This is a simple Slime monster AI that can be set to patrol via targets placed in your levels or set to move to random locations. the slime monster also has basic health set up to take damage and when attacked/resaving damage it will shrink and play FX. the slime monster will attack players in range of view as well as having randomly generated colours assigned to its material for fun variants! to use this you will need nav mesh bounds in your levels. this is fully customizable and fun to play around with and should fit almost any game you want to make.</p><p><br /></p><p>Documentation on how to use the slimes in ue4: https://www.youtube.com/watch?v&#61;f5cQAh2qJQs </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simple-slime-monster",
+  "creationDate": "2021-09-03T15:11:42.228Z",
+  "lastModifiedDate": "2025-01-21T16:08:00.192Z",
+  "effectiveDate": "2021-09-03T15:15:43.004Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gjnszxeblkla39fyfl2bwdksa3xjgc",
+    "name": "cheezbud"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> AI controller with basic AI functions.</li><li> Slime character BP</li><li> Step BP</li><li>Splat particle FX</li><li>Full animations</li><li>Slime Shader/Mats</li><li>Decal</li><li>Slime character mesh</li></ul><p>Rigged: Yes</p><p>Rigged to Epic skeleton: No</p><p>Animated: Yes</p><p>Number of Animations: 6</p><p>Animation types In-place: attack, idle and walking, jump and run</p><p>Number of characters:</p><p>Vertex counts of characters: 644</p><p>Number of Materials and Material Instances: 4</p><p>Number of Textures: 6</p><p>Texture Resolutions: 1024x1024</p><p>Documentation: https://www.youtube.com/watch?v&#61;f5cQAh2qJQs</p><p>Supported Development Platforms:</p><p>Windows: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a4fb4edc-086f-49fa-a3c2-9a02cb9b21da"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot4-1920x1080-94b32da38ea49193ec1a47cf32eb5499.png",
+      "md5": "94b32da38ea49193ec1a47cf32eb5499",
+      "size": 525344,
+      "uploadedDate": "2021-08-24T19:56:21.175Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/new-1920x1080-d937db6690f4c3086fa210894da2db30.png",
+      "md5": "d937db6690f4c3086fa210894da2db30",
+      "size": 2839985,
+      "uploadedDate": "2021-09-10T16:14:56.611Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot14-min-1920x1080-1011da2e0201198401854543af954427.png",
+      "md5": "1011da2e0201198401854543af954427",
+      "size": 740115,
+      "uploadedDate": "2021-09-10T16:14:57.299Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot15-min-1920x1080-205316c7c85483406ff2b5fa892a00b6.png",
+      "md5": "205316c7c85483406ff2b5fa892a00b6",
+      "size": 860757,
+      "uploadedDate": "2021-09-10T16:14:57.557Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleSlimeMonster_thumb-284x284-b7e1fb6dec653bd6d4007afc8b04dc12.png",
+      "md5": "b7e1fb6dec653bd6d4007afc8b04dc12",
+      "size": 72643,
+      "uploadedDate": "2021-08-24T15:15:38.170Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleSlimeMonster_featured-894x488-dbc5a046e179a56fda755137a28d6e87.png",
+      "md5": "dbc5a046e179a56fda755137a28d6e87",
+      "size": 357839,
+      "uploadedDate": "2021-08-24T15:15:38.268Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/new-1920x1080-d937db6690f4c3086fa210894da2db30_Snapshot.png",
+      "md5": "924d8f1efad02403d024b1a7dc4ec49d",
+      "size": 4307,
+      "uploadedDate": "2021-09-10T16:14:57.197Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot14-min-1920x1080-1011da2e0201198401854543af954427_Snapshot.png",
+      "md5": "46b4360f32498e21e6341366c68a90d9",
+      "size": 3115,
+      "uploadedDate": "2021-09-10T16:14:57.388Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot15-min-1920x1080-205316c7c85483406ff2b5fa892a00b6_Snapshot.png",
+      "md5": "e6bb27af33cdd1b93a267c62c5e17124",
+      "size": 3225,
+      "uploadedDate": "2021-09-10T16:14:57.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot4-1920x1080-94b32da38ea49193ec1a47cf32eb5499_Snapshot.png",
+      "md5": "f4794e6fda93e7d2a72f0161a022a17e",
+      "size": 3753,
+      "uploadedDate": "2021-08-24T19:56:21.272Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot1-1920x1080-3c979a0ad5991dc0b1613ca837dfaa85_Snapshot.png",
+      "md5": "eaac9feda1edd6f2f7bf1f398f2ce1f7",
+      "size": 4507,
+      "uploadedDate": "2021-08-24T15:15:36.256Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot2-1920x1080-d83ca3c613c60e24c96c9291008d2024_Snapshot.png",
+      "md5": "c55727d02a72d43496f08ff610c68659",
+      "size": 5220,
+      "uploadedDate": "2021-08-24T15:15:37.241Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot3-1920x1080-1a69d970fa2d51e9d0362995cee3264e_Snapshot.png",
+      "md5": "0a584804bc86f7c5f545d3dd57965a33",
+      "size": 5667,
+      "uploadedDate": "2021-08-24T15:15:38.115Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6e70d012aa1a4028b7564b243c31840a"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

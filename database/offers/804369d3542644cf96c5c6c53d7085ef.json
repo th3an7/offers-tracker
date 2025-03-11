@@ -1,0 +1,508 @@
+{
+  "id": "804369d3542644cf96c5c6c53d7085ef",
+  "namespace": "ue",
+  "title": "edddison - create interactive 3D presentations",
+  "description": "edddison makes it easy to walk through a building, see a space from any perspective and discuss design decisions.",
+  "longDescription": "<p><strong>edddison consists of three parts:</strong></p><ul><li>Unreal code plug-in and Blueprints</li><li>Easy-to-use editor for creating interactive 3D presentations</li><li>Interact with Unreal scene using a webcam, tangible objects, printed plans, touchscreens or tablets (Android and iPad)</li></ul><p><br /></p><p>NOTE: Since Unreal Engine 5 the edddison plugin can be found under <strong>Tools -&gt; Edddison Plugin</strong></p><p>Changelog: Fixed bug of duplicate list entries for UE 5.3 and UE 5.4.</p><p><br /></p><p><a href=\"https://youtu.be/hKF-JPmIoQg\" rel=\"nofollow\"><em>Watch a video of a realized customer project</em></a></p><p><a href=\"https://youtu.be/90kJjIvhjiM?t&#61;107\" rel=\"nofollow\"><em>Watch a tutorial video</em></a></p><p><br /></p><p>This plugin requires the “edddison for Unreal” software, available at</p><p><a href=\"http://www.edddison.com/products/edddison-unreal-engine/\" rel=\"nofollow\"><em>www.edddison.com/products/edddison-unreal-engine/</em></a><em> </em></p><p><br /></p><p>Benefit: For the end-user: The edddison app helps navigating in virtual models. The product delivers a natural and intuitive way to interact in 3D environments.</p><p><br /></p><p>For the technician: The editor helps creating interactive 3D presentations faster.</p><p><br /></p><p>Applications: BIM (Building Information Modelling), Design reviews, Visualization, Marketing &amp; sales, Simulation</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "edddison-create-interactive-3d-presentations",
+  "creationDate": "2019-02-14T08:03:07.538Z",
+  "lastModifiedDate": "2025-02-11T21:26:32.651Z",
+  "effectiveDate": "2019-02-14T08:03:06.947Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e49bb0e1c546d08a69b1a9dc6853bb",
+    "name": "edddison technologies"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Translate, rotate and change visibility of 3d-objects</li><li>Translate and rotate cameras</li><li>Create navigation areas</li><li>Define camera viewpoints</li><li>Works in unreal editor and game</li><li>Use our edddison editor to configure the interaction</li><li>Use our edddison tangible or touch interfaces to interact</li></ul><p><a href=\"https://www.edddison.com/wp-content/uploads/2018/09/edddison-LT-1.3.2.400-featurelist-Sep2018.pdf\" rel=\"nofollow\"><em>Download the full feature list</em></a></p><p><br /></p><p>Code Modules:</p><ul><li> EdddisonPlugin</li></ul><p><br /></p><p>Number of Blueprints: 5</p><p>Number of C&#43;&#43; Classes: 31</p><p>Network Replicated: No</p><p>Supported Development Platforms: <em>Win32 (UE4), Win64</em></p><p>Supported Target Build Platforms: <em>Win32 (UE4), Win64</em></p><p><br /></p><p>Documentation online: <a href=\"https://edddison.readthedocs.io/en/latest/plugins/plugin_unreal/\" rel=\"nofollow\">edddison hardware and software documentation</a></p><p><br /></p><p>Example Project:</p><p>(Import and use the included edddison configuration)</p><p><a href=\"https://drive.google.com/file/d/1TyKP9l6gnydvnNvMl2IfejHj8NCBSHv7/view?usp&#61;sharing\" rel=\"nofollow\">Example project for Unreal Editor</a></p><p><a href=\"https://drive.google.com/file/d/1RMXm12_pK8s8_E-UbYPd2rJYbQuuHhnI/view?usp&#61;sharing\" rel=\"nofollow\">Example project packaged as game</a></p><p><br /></p><p>Important/Additional Notes:</p><p>The edddison plugin requires that the edddison editor is installed. It can be downloaded here</p><p><a href=\"https://www.edddison.com/products/edddison-unreal-engine/\" rel=\"nofollow\">https://www.edddison.com/products/edddison-unreal-engine/</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1274",
+      "name": "NONLINEAR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:34.757Z",
+      "updated": "2019-06-20T12:00:34.757Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1389",
+      "name": "MANAGEMENT",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:31.894Z",
+      "updated": "2023-03-28T12:57:52.828Z",
+      "status": "ACTIVE",
+      "referenceCount": 15,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "13c880ac-7bea-407f-8291-824946c735e6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/edddisonUnrealEditor4-1920x1080-3fd5289bcbc8c27b5ef1add2ff0c868d.JPG",
+      "md5": "3fd5289bcbc8c27b5ef1add2ff0c868d",
+      "size": 654895,
+      "uploadedDate": "2018-12-20T17:29:16.769Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/edddisonUnrealEditor3-1920x1080-43f0e98de194e96c2e836dc70c733083.JPG",
+      "md5": "43f0e98de194e96c2e836dc70c733083",
+      "size": 419172,
+      "uploadedDate": "2018-12-20T17:29:23.109Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/edddisontouchcontroller-1920x1080-4c92f3e725cb39b7aef6c9498ee255e8.JPG",
+      "md5": "4c92f3e725cb39b7aef6c9498ee255e8",
+      "size": 105228,
+      "uploadedDate": "2019-05-27T09:11:08.375Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealEditorPlugins-1920x1080-246dd82961210ca37ac48c14a6c8a4b9.JPG",
+      "md5": "246dd82961210ca37ac48c14a6c8a4b9",
+      "size": 133702,
+      "uploadedDate": "2018-12-20T17:29:18.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE52pluginintoolsmenu-1920x1080-300026df4a0f8660011d7a7dc0be7c70.png",
+      "md5": "300026df4a0f8660011d7a7dc0be7c70",
+      "size": 1891754,
+      "uploadedDate": "2023-06-07T16:17:34.396Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE52pluginUserInterface-1920x1080-7cf41b6f0e2188ff2e10372d8a6470dd.png",
+      "md5": "7cf41b6f0e2188ff2e10372d8a6470dd",
+      "size": 152865,
+      "uploadedDate": "2023-06-07T16:17:34.942Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/edddisonEditor2-1920x1080-a8542d08dcb49f41d37d8d74c30f8633.JPG",
+      "md5": "a8542d08dcb49f41d37d8d74c30f8633",
+      "size": 148430,
+      "uploadedDate": "2018-12-20T17:29:17.076Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/edddisonEditor1-1920x1080-07481e62d39af53e667a55841284bdcf.JPG",
+      "md5": "07481e62d39af53e667a55841284bdcf",
+      "size": 113373,
+      "uploadedDate": "2018-12-20T17:29:23.671Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealEditoroverview-1920x1080-1d6814208e55b3dda8149aa3f6c92dd1.JPG",
+      "md5": "1d6814208e55b3dda8149aa3f6c92dd1",
+      "size": 316646,
+      "uploadedDate": "2018-12-20T17:29:19.358Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealEditorinterface-1920x1080-863ec8f80642e42f406e51947ef0ae82.JPG",
+      "md5": "863ec8f80642e42f406e51947ef0ae82",
+      "size": 288022,
+      "uploadedDate": "2018-12-20T17:29:20.447Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealEditorrealtime-1920x1080-04c8ed539d250f6694d5cd97d1419d00.JPG",
+      "md5": "04c8ed539d250f6694d5cd97d1419d00",
+      "size": 321351,
+      "uploadedDate": "2018-12-20T17:29:21.436Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EditorPrefsPerformance-1920x1080-01cc727cb6061ff713ed668469eaa484.JPG",
+      "md5": "01cc727cb6061ff713ed668469eaa484",
+      "size": 169964,
+      "uploadedDate": "2018-12-20T17:29:22.415Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/tablet-1920x1080-6d4decc04dab96353340f191e1917994.jpg",
+      "md5": "6d4decc04dab96353340f191e1917994",
+      "size": 243631,
+      "uploadedDate": "2019-09-11T14:18:56.814Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/tabletop-1920x1080-58a7599486a41a012e2fe6f71a15c946.jpg",
+      "md5": "58a7599486a41a012e2fe6f71a15c946",
+      "size": 282136,
+      "uploadedDate": "2019-09-11T14:18:58.065Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/projection-1920x1080-e46094df31c9bd287a93f381857e3a86.jpg",
+      "md5": "e46094df31c9bd287a93f381857e3a86",
+      "size": 221770,
+      "uploadedDate": "2019-09-11T14:18:59.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/printed3d-1920x1080-841868960ececd113407e1f900fafb58.jpg",
+      "md5": "841868960ececd113407e1f900fafb58",
+      "size": 232752,
+      "uploadedDate": "2019-09-11T14:19:00.318Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/edddisoncreateinteractive3Dpresentations_thumb-284x284-362f352fade7dd16bde1e48b0d6b4838.png",
+      "md5": "362f352fade7dd16bde1e48b0d6b4838",
+      "size": 196464,
+      "uploadedDate": "2018-12-20T17:29:24.588Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/edddisoncreateinteractive3Dpresentations_featured-894x488-bf7495cafb6ca1bc547339efe3a2a2ee.png",
+      "md5": "bf7495cafb6ca1bc547339efe3a2a2ee",
+      "size": 957435,
+      "uploadedDate": "2018-12-20T17:29:24.717Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE52pluginintoolsmenu-1920x1080-300026df4a0f8660011d7a7dc0be7c70_Snapshot.png",
+      "md5": "d09c057d638b11c2dcd94ced40ccc43d",
+      "size": 6389,
+      "uploadedDate": "2023-06-07T16:17:34.802Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE52pluginUserInterface-1920x1080-7cf41b6f0e2188ff2e10372d8a6470dd_Snapshot.png",
+      "md5": "74030d4ed519985ea9f011f69110bb80",
+      "size": 2480,
+      "uploadedDate": "2023-06-07T16:17:35.194Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/tablet-1920x1080-6d4decc04dab96353340f191e1917994_Snapshot.jpg",
+      "md5": "e54209471a0b65ccef510b259e6c75f6",
+      "size": 6220,
+      "uploadedDate": "2019-09-11T14:18:57.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/tabletop-1920x1080-58a7599486a41a012e2fe6f71a15c946_Snapshot.jpg",
+      "md5": "14d420c06496460b70b7a423b8bac0e6",
+      "size": 6534,
+      "uploadedDate": "2019-09-11T14:18:58.816Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/projection-1920x1080-e46094df31c9bd287a93f381857e3a86_Snapshot.jpg",
+      "md5": "80d3a34c7de9816c6949c3ea41935224",
+      "size": 5806,
+      "uploadedDate": "2019-09-11T14:18:59.912Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/printed3d-1920x1080-841868960ececd113407e1f900fafb58_Snapshot.jpg",
+      "md5": "0e82ec2547f6abf430aca59ce7864625",
+      "size": 5789,
+      "uploadedDate": "2019-09-11T14:19:01.047Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/edddisontouchcontroller-1920x1080-4c92f3e725cb39b7aef6c9498ee255e8_Snapshot.JPG",
+      "md5": "23dc5f4c2d88aad791100b09ee6a0922",
+      "size": 3792,
+      "uploadedDate": "2019-05-27T09:11:09.058Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/edddisonUnrealEditor4-1920x1080-3fd5289bcbc8c27b5ef1add2ff0c868d_Snapshot.JPG",
+      "md5": "9f29306857445c3590f7bddfb6de8e8e",
+      "size": 3169,
+      "uploadedDate": "2018-12-20T17:29:16.970Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/edddisonEditor2-1920x1080-a8542d08dcb49f41d37d8d74c30f8633_Snapshot.JPG",
+      "md5": "2bfbae63a665188044165aeeb0007ea8",
+      "size": 2942,
+      "uploadedDate": "2018-12-20T17:29:17.202Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/edddisontouchcontroller-1920x1080-ecd6b03a1e95bbcebd71dfb6a7570563_Snapshot.JPG",
+      "md5": "75ec8e1d9c3d27af80233d3b0b3952ae",
+      "size": 2094,
+      "uploadedDate": "2018-12-20T17:29:18.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealEditorPlugins-1920x1080-246dd82961210ca37ac48c14a6c8a4b9_Snapshot.JPG",
+      "md5": "b1f744f92719ee93479ff3d2d819c85c",
+      "size": 2300,
+      "uploadedDate": "2018-12-20T17:29:18.998Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealEditoroverview-1920x1080-1d6814208e55b3dda8149aa3f6c92dd1_Snapshot.JPG",
+      "md5": "b7ad0b04cf0a04e4e0d708e3b7616028",
+      "size": 3113,
+      "uploadedDate": "2018-12-20T17:29:19.981Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealEditorinterface-1920x1080-863ec8f80642e42f406e51947ef0ae82_Snapshot.JPG",
+      "md5": "07c52eaff4a9f98879cf146b1147bbb6",
+      "size": 3262,
+      "uploadedDate": "2018-12-20T17:29:21.084Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealEditorrealtime-1920x1080-04c8ed539d250f6694d5cd97d1419d00_Snapshot.JPG",
+      "md5": "ef8bef68529fa2f40991105e4b8c7f60",
+      "size": 3383,
+      "uploadedDate": "2018-12-20T17:29:22.069Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EditorPrefsPerformance-1920x1080-01cc727cb6061ff713ed668469eaa484_Snapshot.JPG",
+      "md5": "bbfc01fc05ef3dd2686aa3529f40ec47",
+      "size": 2511,
+      "uploadedDate": "2018-12-20T17:29:22.995Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/edddisonUnrealEditor3-1920x1080-43f0e98de194e96c2e836dc70c733083_Snapshot.JPG",
+      "md5": "dda9358d06d8327653d6a48d637eb612",
+      "size": 2745,
+      "uploadedDate": "2018-12-20T17:29:23.346Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/edddisonEditor1-1920x1080-07481e62d39af53e667a55841284bdcf_Snapshot.JPG",
+      "md5": "c1062f8706f4a64c151e757bbb579a96",
+      "size": 2098,
+      "uploadedDate": "2018-12-20T17:29:24.244Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/edddisonUnrealEditor5-1920x1080-85013ec023a97dd84be58bd3a35fa560_Snapshot.JPG",
+      "md5": "aaea70beabd71650bc62013cf69c7187",
+      "size": 2590,
+      "uploadedDate": "2018-12-20T17:29:24.538Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ba8e64e6bef843679b3b134867b80e74"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

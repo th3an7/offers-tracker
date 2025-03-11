@@ -1,0 +1,238 @@
+{
+  "id": "6f8c5ece7d39402b8b402119a9798eb6",
+  "namespace": "ue",
+  "title": "FPS Tower Defense Toolkit",
+  "description": "The FPS Tower Defense Toolkit is a pure blueprint framework that enables quick & easy creation of Tower Defense games with a First-person Shooter perspective.",
+  "longDescription": "<p><strong>**NEW FEATURES (v3.15)**</strong></p><p><a href=\"https://forums.unrealengine.com/t/fps-tower-defense-toolkit/37661/192\" rel=\"nofollow\"><strong>Change Log</strong></a></p><p><br /></p><p><a href=\"https://goo.gl/Vf5CSr\" rel=\"nofollow\"><strong>Showcase Videos</strong></a></p><p><a href=\"https://forums.unrealengine.com/t/fps-tower-defense-toolkit/37661\" rel=\"nofollow\"><strong>Support Thread</strong></a></p><p><a href=\"https://forums.unrealengine.com/t/fps-tower-defense-toolkit/37661/2?u&#61;stormrage256\" rel=\"nofollow\"><strong>Tutorials/Concept Overviews</strong></a></p><p><br /></p><p><strong>Features:</strong></p><p>• Basic FPS Movement &amp; Combat.</p><p>• Multiple types of AI Wave Spawning systems, with support for both Endless waves &amp; repeating wave cycles with dynamically escalating difficulties.</p><p>• Tower Classes: Tower Base, Shockwave Tower, Machine Gun Tower, Laser Tower, Sniper Tower, Boost Tower &amp; Trap.</p><p>• Weapons Classes: Assault Rifle, Railgun, Laser Rifle, Plasma Rifle, Seeker Rifle, &amp; Arc Rifle.</p><p>• Enemy AI Classes: Core Bomber, Melee Bot &amp; Ranged Bot.</p><p>• A Mission Stats Display system that tracks the damage &amp; kill stats information for both players &amp; towers.</p><p>• Includes a loadout menu at the level start with player driven tower selection.</p><p>• Grid Generators with drag &amp; drop support to create grid cells for tower placement.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fps-tower-defense-toolkit",
+  "creationDate": "2015-07-07T21:19:01.216Z",
+  "lastModifiedDate": "2025-02-17T09:39:05.765Z",
+  "effectiveDate": "2015-08-04T00:00:00.000Z",
+  "viewableDate": "2015-08-04T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-b30626b2534f9aa3b9e0dde0fa971e",
+    "name": "Rohit Kotiveetil"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>• The Wave Manager allows complete control over waves through parameters including Enemy Type, Number Of Units, Spawn Point, Spawn Delay, etc.</p><p>• Modular components are employed throughout the toolkit to handle special functionalities &amp; aid in the creation of new variations to existing entities with minimal coupling.</p><p>• AI Spawn Points support both precached &amp; runtime generation of randomized spawning locations.</p><p>• All information pertaining to the towers are displayed dynamically using a data-driven approach, thus eliminating the need for manual HUD modifications when adding/removing towers.</p><p>• The Grid Generators support 360-degree rotational freedom &amp; thus facilitates placement of towers &amp; traps on inclined surfaces &amp; walls.</p><p><br /></p><p>Intended Platform: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8d8828fc-a0b3-4897-b4c6-83ad856ecde0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreFPSTDTscreenshot1-1920x1080-e7fc343e3b3ea35c0048d3e1e352ec7c.png",
+      "md5": "e7fc343e3b3ea35c0048d3e1e352ec7c",
+      "size": 1853555,
+      "uploadedDate": "2018-02-25T17:54:01.043Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreFPSTDTscreenshot2-1920x1080-efd8e06314ecefd903141cb8d3a356f3.png",
+      "md5": "efd8e06314ecefd903141cb8d3a356f3",
+      "size": 2027352,
+      "uploadedDate": "2018-03-15T09:04:35.249Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreFPSTDTscreenshot5-1920x1080-4882f2251426dd3bc2138cb2719c0f60.png",
+      "md5": "4882f2251426dd3bc2138cb2719c0f60",
+      "size": 1655568,
+      "uploadedDate": "2018-02-25T17:35:17.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreFPSTDTscreenshot6-1920x1080-ca2e82a68096299e969b55398d2293a7.png",
+      "md5": "ca2e82a68096299e969b55398d2293a7",
+      "size": 1636344,
+      "uploadedDate": "2018-02-25T17:35:17.227Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FPSTowerDefenseToolkit_thumb-284x284-b79791ee87ac17f5aef95f49a75d4bdc.png",
+      "md5": "b79791ee87ac17f5aef95f49a75d4bdc",
+      "size": 138078,
+      "uploadedDate": "2018-02-25T18:04:39.420Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FPSTowerDefenseToolkit_featured-894x488-3a58b8d5ddac509da03c406d60d88940.png",
+      "md5": "3a58b8d5ddac509da03c406d60d88940",
+      "size": 639048,
+      "uploadedDate": "2018-02-25T18:04:39.520Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/FPSTowerDefenseKit_FeaturedNew-894x488-21558f479cb9247aca8d957c75bd35a9.png",
+      "md5": "21558f479cb9247aca8d957c75bd35a9",
+      "size": 300932,
+      "uploadedDate": "2015-07-07T21:16:52.939Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Image_894x488",
+      "url": "https://cdn1.epicgames.com/ue/item/FPSTowerDefenseKit_Image_894X488-894x487-f2db252d96498e9120492b6a1566aca0.png",
+      "md5": "f2db252d96498e9120492b6a1566aca0",
+      "size": 310820,
+      "uploadedDate": "2015-07-07T21:17:00.088Z",
+      "width": 894,
+      "height": 487
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/ue/item/FPSTowerDefenseKit_ComingSoon-394x208-17369552d1f67a6b94a17f0e4acc48f0.png",
+      "md5": "17369552d1f67a6b94a17f0e4acc48f0",
+      "size": 81430,
+      "uploadedDate": "2015-07-07T21:16:55.095Z",
+      "width": 394,
+      "height": 208
+    },
+    {
+      "type": "ComingSoon_Small",
+      "url": "https://cdn1.epicgames.com/ue/item/FPSTowerDefenseKit_ComingSoon_Sm-145x208-158a1066f4a4e2f8f4af734b19d67a98.png",
+      "md5": "158a1066f4a4e2f8f4af734b19d67a98",
+      "size": 30678,
+      "uploadedDate": "2015-07-07T21:16:57.064Z",
+      "width": 145,
+      "height": 208
+    }
+  ],
+  "items": [
+    {
+      "id": "d1f8d70fae9b462eb6223ca55a1a718d"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

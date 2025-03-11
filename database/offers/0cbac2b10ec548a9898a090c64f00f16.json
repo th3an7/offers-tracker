@@ -3,14 +3,14 @@
   "namespace": "37baf50c268d47779020d73143bb02b0",
   "title": "Monthly Pack",
   "description": "Monthly Pack",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# A Gift\n<!--text-->\nA Gift\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "auto-chess--montly-pack",
-  "creationDate": "2024-07-09T03:32:30.174Z",
-  "lastModifiedDate": "2024-11-26T08:49:27.865Z",
+  "creationDate": "2024-06-06T19:14:24.193Z",
+  "lastModifiedDate": "2025-03-10T01:31:41.702Z",
   "effectiveDate": "2023-09-29T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2025-03-10T01:31:18.000Z",
   "developer": null,
   "seller": {
     "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden"
+      "path": "spthidden/consumable"
     },
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
       "path": "applications"
@@ -44,8 +44,20 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1879,
+      "referenceCount": 1881,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18083,
+      "comment": null
     },
     {
       "id": "1115",
@@ -57,18 +69,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18073,
       "comment": null
     }
   ],
@@ -82,8 +82,16 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "publisherName",
       "value": "Dragonest Games"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "false"
     },
     {
       "key": "developerName",
@@ -95,15 +103,6 @@
     }
   ],
   "keyImages": [
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/37baf50c268d47779020d73143bb02b0/MonthlyPack_2560x1440-fb5936bf9a8e8aba55ad42efc789f610",
-      "md5": "fb5936bf9a8e8aba55ad42efc789f610",
-      "size": 3697176,
-      "uploadedDate": "2023-09-20T14:28:31.152Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/offer/37baf50c268d47779020d73143bb02b0/MonthlyPack2_1200x1600-193339c419cd47be632f3fb70269299e",
@@ -130,6 +129,15 @@
       "uploadedDate": "2023-09-22T07:46:46.265Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/37baf50c268d47779020d73143bb02b0/MonthlyPack_2560x1440-fb5936bf9a8e8aba55ad42efc789f610",
+      "md5": "fb5936bf9a8e8aba55ad42efc789f610",
+      "size": 3697176,
+      "uploadedDate": "2023-09-20T14:28:31.152Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

@@ -1,0 +1,433 @@
+{
+  "id": "ba8559b2aa794f20b6e84e7ce338b96f",
+  "namespace": "ue",
+  "title": "Variables System",
+  "description": "Have cleaner Blueprints and Code with Data Oriented Design! Simple and easy to manage Variable system for Blueprints and C++",
+  "longDescription": "<p><strong>Videos</strong></p><p>&#x1f4cb; <a href=\"https://youtu.be/nzjmQKLK1Xs\" rel=\"nofollow\">Initiative</a></p><p>&#x1f4aa;&#x1f3fc; In Use-Demo (coming soon)</p><p>&#x1f4da; Tutorial (coming soon)</p><p>&#x1f4af; Review (coming soon)</p><p><br /></p><p><strong>To read</strong></p><p><strong>&#x1f4cc; </strong><a href=\"https://gitlab.com/unreal-marketplace/VariablesSystem/-/wikis/How-to\" rel=\"nofollow\">Documentation</a></p><p>&#x1f4c8; <a href=\"https://gitlab.com/unreal-marketplace/VariablesSystem/-/wikis/Home\" rel=\"nofollow\">Wikia</a></p><p>&#x1f4dc; <a href=\"https://gitlab.com/unreal-marketplace/VariablesSystem/-/wikis/Changelog\" rel=\"nofollow\">Changelog</a></p><p>&#x1f60e; <a href=\"https://gitlab.com/unreal-marketplace/VariablesSystem/-/wikis/Benefits\" rel=\"nofollow\">Benefits</a></p><p>&#x1f64b;‍♂️ FAQ (coming soon)</p><p>&#x1f381; <a href=\"https://cutt.ly/wishlist-varsystem\" rel=\"nofollow\">Wishlist</a></p><p><br /></p><p><strong>Easy access everywhere</strong></p><p>Simplify your development with <em>truly</em> global variables. Read &amp; write data <strong>everywhere across your project with just one node</strong>. It comes with <em>no setup needed, built-in save system</em> to save your hours of work and <em>a unique debugging window</em> to keep view all your variables at once in a single unified space. <strong>Stop polluting your Pawn/ Game Instance/ Game Mode</strong> with all the variables you want to keep access and <strong><em>break free from the painful casting node</em></strong>.</p><p><br /></p><p><strong>Upcoming plans</strong></p><ul><li>Simply code generation process and improve documentation <strong>&#43;5.0$ </strong><em>ETA: Q1 2022</em></li><li>Video tutorial for coin pickup mechanic &#43; store <strong>&#43;2.5$ </strong><em>ETA: Q1 2022</em></li><li>Delegates support for variables <strong>&#43;0.0$ </strong><em>ETA: Q2 2022</em></li><li>Improved debugging tools - reactive watch with editable values <strong>&#43;2.5$ </strong><em>ETA: Q2 2022</em></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "blueprints-variables-system-c",
+  "creationDate": "2018-11-07T18:12:40.500Z",
+  "lastModifiedDate": "2025-02-06T17:58:04.965Z",
+  "effectiveDate": "2018-11-07T18:12:40.444Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-aslnbsjgfh265nw4w7ccaxlpu9n2zp",
+    "name": "Out-of-the-Box Plugins"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong></p><ul><li>Global Variables in form of assets - read &amp; write anywhere you want</li><li>Built-in configurable Save System - decide when &amp; what to save/load</li><li>Custom generic K2 which allows you to use only one node for all variable types</li><li>Instanced variables for multi-instance user cases</li><li>Engine integrated debugging tools &amp; visual colours for each type</li><li>Create your own types with our code generation build step</li></ul><p><br /></p><p><strong>Code Modules</strong></p><ul><li>Editor: Create variable assets, customise their behaviour and debug with in-engine tools.</li><li>Run-time: Allow for global access to variables across your whole project with simple to use Blueprint nodes</li></ul><p><br /></p><p><strong>Contact</strong></p><p>If you have any questions contact us over <a href=\"https://discord.gg/2cD5MwB\" rel=\"nofollow\">Discord</a> or outofthebox.plugins&#64;gmail.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "Stealth",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2023-08-22T16:03:44.093Z",
+      "status": "ACTIVE",
+      "referenceCount": 148,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1b0c43eb-0d3a-4c23-ae50-3ffd4a2d2119"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VS-banner-1920x1080-ba1f9e4e17d3dc32de2933cbf031985d.png",
+      "md5": "ba1f9e4e17d3dc32de2933cbf031985d",
+      "size": 83567,
+      "uploadedDate": "2021-06-20T19:31:49.010Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VS-gallery1-1920x1080-eb16e55f017e7bd5e7b858ca35daa92c.png",
+      "md5": "eb16e55f017e7bd5e7b858ca35daa92c",
+      "size": 187344,
+      "uploadedDate": "2021-06-20T19:31:49.440Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VS-gallery2-1920x1080-8cab4b862a55a0e8144b967119d31280.png",
+      "md5": "8cab4b862a55a0e8144b967119d31280",
+      "size": 107600,
+      "uploadedDate": "2021-06-20T19:31:49.773Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VS-gallery4-1920x1080-bbce36b71e09ca7d49083bca47b9948b.png",
+      "md5": "bbce36b71e09ca7d49083bca47b9948b",
+      "size": 224520,
+      "uploadedDate": "2021-06-20T19:31:50.086Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VS-gallery3-1920x1080-969f300c86049b3d97aab69abcdbe3c5.png",
+      "md5": "969f300c86049b3d97aab69abcdbe3c5",
+      "size": 195822,
+      "uploadedDate": "2021-06-20T19:31:50.519Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VS-gallery5-1920x1080-865bc14bb41ab9054df54275a878c78d.png",
+      "md5": "865bc14bb41ab9054df54275a878c78d",
+      "size": 128515,
+      "uploadedDate": "2021-06-20T19:31:50.838Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VS-gallery6-1920x1080-ab9c88b1a4a650f452b429a78a65d344.png",
+      "md5": "ab9c88b1a4a650f452b429a78a65d344",
+      "size": 79544,
+      "uploadedDate": "2021-06-20T19:31:51.153Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VariablesSystem_thumb-284x284-68cf625b0b0551b89d410c553852ee8e.png",
+      "md5": "68cf625b0b0551b89d410c553852ee8e",
+      "size": 22544,
+      "uploadedDate": "2023-01-08T19:55:59.520Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BlueprintsVariablessystemC_featured-894x488-e93ef0cae70288f4d1bbc6bd5e6124ce.png",
+      "md5": "e93ef0cae70288f4d1bbc6bd5e6124ce",
+      "size": 78361,
+      "uploadedDate": "2019-01-29T19:02:14.448Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VS-banner-1920x1080-ba1f9e4e17d3dc32de2933cbf031985d_Snapshot.png",
+      "md5": "e595311c1eacd2ab7c3743f1069cc217",
+      "size": 5989,
+      "uploadedDate": "2021-06-20T19:31:49.247Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VS-gallery1-1920x1080-eb16e55f017e7bd5e7b858ca35daa92c_Snapshot.png",
+      "md5": "9d0a0c596538c8798961764431026a5a",
+      "size": 5507,
+      "uploadedDate": "2021-06-20T19:31:49.696Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VS-gallery2-1920x1080-8cab4b862a55a0e8144b967119d31280_Snapshot.png",
+      "md5": "519a65e4d9434cc427d7c8913c68381a",
+      "size": 4980,
+      "uploadedDate": "2021-06-20T19:31:50.005Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VS-gallery4-1920x1080-bbce36b71e09ca7d49083bca47b9948b_Snapshot.png",
+      "md5": "e047c87273e09793ec1ec02b9890c23c",
+      "size": 5513,
+      "uploadedDate": "2021-06-20T19:31:50.339Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VS-gallery3-1920x1080-969f300c86049b3d97aab69abcdbe3c5_Snapshot.png",
+      "md5": "24e361557f3afea7f683a240b155a9e7",
+      "size": 5062,
+      "uploadedDate": "2021-06-20T19:31:50.760Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VS-gallery5-1920x1080-865bc14bb41ab9054df54275a878c78d_Snapshot.png",
+      "md5": "17d8a027e3dfbc72c7d46e2c9dc7652e",
+      "size": 5178,
+      "uploadedDate": "2021-06-20T19:31:51.078Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VS-gallery6-1920x1080-ab9c88b1a4a650f452b429a78a65d344_Snapshot.png",
+      "md5": "0a4bff8487b22e9570c73f6b4512efd1",
+      "size": 4492,
+      "uploadedDate": "2021-06-20T19:31:51.412Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-bb97c2a495a920eecfceb4b1c6268044_Snapshot.PNG",
+      "md5": "018d64fce4310ec823fc6c81f8538cb0",
+      "size": 6380,
+      "uploadedDate": "2018-10-23T09:35:53.147Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-cd44f2f5acd2c1cc9c65a693b47980f3_Snapshot.PNG",
+      "md5": "4367042330433d251baccd42463b2e47",
+      "size": 4731,
+      "uploadedDate": "2018-10-23T09:35:53.460Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-4b222e765ebe95c72eb8fc867bb4a3f3_Snapshot.PNG",
+      "md5": "9c0ba3ca64eacd2f343ee231771bf131",
+      "size": 5114,
+      "uploadedDate": "2018-10-23T09:35:53.927Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-d24c69d3e30c538f1dcefd4ec530face_Snapshot.PNG",
+      "md5": "6629c136106901805b3c768cea4a067b",
+      "size": 5864,
+      "uploadedDate": "2018-10-23T09:35:54.259Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-919a48dc53150ce434bf72452b739096_Snapshot.PNG",
+      "md5": "edf8a6004ae764948f34e5d7492d89c6",
+      "size": 7422,
+      "uploadedDate": "2018-10-23T09:35:54.729Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "abe270e5219440e487cf13db9ce4eb62"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

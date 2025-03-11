@@ -1,0 +1,259 @@
+{
+  "id": "a918ed841d5d4246886ca5bfdfc5f121",
+  "namespace": "ue",
+  "title": "Avatar SDK Metaperson Plugin",
+  "description": "Plugin to create personalized Metaperson avatars from selfies",
+  "longDescription": "<p>With this plugin you can create recognizable and customizable avatars. You can also load avatar at runtime and use it as a character in your project. Plugin contains two demo scenes: the first one with the help of the <a href=\"https://metaperson.avatarsdk.com/\" rel=\"nofollow\">Metaperson Creator </a> shows how to create the Metaperson avatar, customize and export it to the &#34;Third Person&#34; scene. The second demonstrates how to load an avatar at runtime from a local drive to a &#34;Third Person&#34; scene. The plugin contains tools that can be used to retarget animations from the Epic skeleton to Metaperson avatars: IK Rig and IK Retargeter. <a href=\"https://accounts.avatarsdk.com/developer/\" rel=\"nofollow\">Create developer account</a> and follow the <a href=\"https://docs.metaperson.avatarsdk.com/business-integration/ue/marketplace_plugin\" rel=\"nofollow\">official documentation.</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "avatar-sdk-metaperson-plugin",
+  "creationDate": "2024-02-19T07:05:04.476Z",
+  "lastModifiedDate": "2025-01-16T17:27:52.219Z",
+  "effectiveDate": "2024-02-19T07:05:04.448Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zbdafytyqe5adnxlnftaptqmu42rvu",
+    "name": "Avatar SDK"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Create full body 3D avatars from a single selfie</li><li> Customize outfits, hair, body shape and more</li><li> Load 3D avatars at runtime</li><li> Retarget animations from Epic skeleton to avatar</li></ul><p>Code Modules:</p><ul><li> AvatarSDKMetaperson2 (Runtime)</li><li> glTFRuntime (Runtime)</li><li> MinizWrapper (Runtime)</li></ul><p>Number of Blueprints: 4</p><p>Number of C&#43;&#43; Classes: 11</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://docs.metaperson.avatarsdk.com/business-integration/ue/marketplace_plugin\" rel=\"nofollow\">https://docs.metaperson.avatarsdk.com/business-integration/ue/marketplace_plugin</a></p><p>Example Project: <a href=\"https://releases.avatarsdk.com/unreal-plugin/avatar_sdk_metaperson_ue_sample_1.0.0.zip\" rel=\"nofollow\">https://releases.avatarsdk.com/unreal-plugin/avatar_sdk_metaperson_ue_sample_1.0.1.zip</a></p><p>Important/Additional Notes: You need to create an account at <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://avatarsdk.com/\" rel=\"nofollow\">https://avatarsdk.com/</a> to generate avatars</p><p>Support: <a href=\"mailto:support&#64;avatarsdk.com\" rel=\"nofollow\">support&#64;avatarsdk.com</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "89f2b560-b158-43fc-b191-bfd4b75d8121"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-8e45370085923a091c6d6522fa0a4479.png",
+      "md5": "8e45370085923a091c6d6522fa0a4479",
+      "size": 1201036,
+      "uploadedDate": "2023-12-12T13:54:29.599Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/12-1920x1080-420f34e6ce37bd033e764d3beac4fb95.png",
+      "md5": "420f34e6ce37bd033e764d3beac4fb95",
+      "size": 1454924,
+      "uploadedDate": "2023-12-12T13:54:30.159Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-45e8e16824b44486af7bd1aabfa6ffe7.png",
+      "md5": "45e8e16824b44486af7bd1aabfa6ffe7",
+      "size": 1353196,
+      "uploadedDate": "2023-12-12T13:54:30.695Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-205af9bcf1efd7b90d156113d6a71df2.png",
+      "md5": "205af9bcf1efd7b90d156113d6a71df2",
+      "size": 1472079,
+      "uploadedDate": "2023-12-12T13:54:31.245Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/21-1920x1080-37fe0330e316c794da33ce3e27bf8fcc.png",
+      "md5": "37fe0330e316c794da33ce3e27bf8fcc",
+      "size": 1468673,
+      "uploadedDate": "2023-12-12T13:54:31.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/22-1920x1080-e34f2e498ba0e5b653c0d647f242a35b.png",
+      "md5": "e34f2e498ba0e5b653c0d647f242a35b",
+      "size": 1500566,
+      "uploadedDate": "2023-12-12T13:54:32.213Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AvatarSDKMetapersonPlugin_thumb-284x284-c0e4980c25e064b9d8d83e57f832f8dc.png",
+      "md5": "c0e4980c25e064b9d8d83e57f832f8dc",
+      "size": 45985,
+      "uploadedDate": "2023-12-12T13:30:14.666Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AvatarSDKMetapersonPlugin_featured-894x488-23b0e1090ceb6d848a21545682218cf5.png",
+      "md5": "23b0e1090ceb6d848a21545682218cf5",
+      "size": 524469,
+      "uploadedDate": "2023-12-12T12:08:59.946Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-8e45370085923a091c6d6522fa0a4479_Snapshot.png",
+      "md5": "261f7c97dad420f33ed0f89473e4fb85",
+      "size": 4976,
+      "uploadedDate": "2023-12-12T13:54:29.957Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/12-1920x1080-420f34e6ce37bd033e764d3beac4fb95_Snapshot.png",
+      "md5": "178e452c1bcf415fa81458efc2a0f104",
+      "size": 5472,
+      "uploadedDate": "2023-12-12T13:54:30.508Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-45e8e16824b44486af7bd1aabfa6ffe7_Snapshot.png",
+      "md5": "22aab1418c323f18c1a85896362c1d78",
+      "size": 5715,
+      "uploadedDate": "2023-12-12T13:54:31.050Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-205af9bcf1efd7b90d156113d6a71df2_Snapshot.png",
+      "md5": "7fa8420ecf97b60ada3e817eb3de00d3",
+      "size": 5539,
+      "uploadedDate": "2023-12-12T13:54:31.587Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/21-1920x1080-37fe0330e316c794da33ce3e27bf8fcc_Snapshot.png",
+      "md5": "e525069812fbd9d38235a58a93b33606",
+      "size": 6039,
+      "uploadedDate": "2023-12-12T13:54:32.010Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/22-1920x1080-e34f2e498ba0e5b653c0d647f242a35b_Snapshot.png",
+      "md5": "d9143c1e2dd09bfc04f3035da8ac8377",
+      "size": 5645,
+      "uploadedDate": "2023-12-12T13:54:32.564Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2023-12-12 102806-Metaperson2 - Unreal Editor-1920x1080-c6286affe7342650cf36bd164aef0505_Snapshot.png",
+      "md5": "ee38b74b081bdbdbe707011520abce44",
+      "size": 6041,
+      "uploadedDate": "2023-12-12T07:32:55.319Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6cf6877fe664454fba11cb77e74883f6"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}
