@@ -1,0 +1,188 @@
+{
+  "id": "3f1fbd99a5804ac5b100c501ed37c760",
+  "namespace": "ue",
+  "title": "Two Foot-IK Tools",
+  "description": "1. Easy and smooth feet placement system. 2. Animation node for stepping blend.",
+  "longDescription": "<p>The plugin was fully reworked for UE5.</p><p><br /></p><h2>Feet to Ground</h2><p><a href=\"https://www.youtube.com/watch?v&#61;kybK_lX0E7E\" rel=\"nofollow\">Video</a></p><p>Animation node for foot and pelvis placement system which is very easy to setup (no jokes, 30 seconds from scratch - see tutorial video). It supports correction of foot orientation and works automatically for falling and crouch locomotion modes. Just add one node to your animation blueprint and select feet and pelvis bones.</p><p><br /></p><h2>Blend Legs</h2><p><a href=\"https://www.youtube.com/watch?v&#61;fGX4L1nhn1w\" rel=\"nofollow\">Video</a></p><p>This animation node is supposed to work in custom blend mode in transitions between states of state machine. It replaces linear blend in transitions between standing animations with different positions of feet. With this blend, the character moves legs one by one instead of default parallel blend.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ik-foot-2-ground-plugin",
+  "creationDate": "2017-03-20T16:01:56.450Z",
+  "lastModifiedDate": "2024-11-06T23:37:50.331Z",
+  "effectiveDate": "2017-05-25T00:00:00.000Z",
+  "viewableDate": "2017-05-25T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-8ba954a7a34115b5479ff854fbfe78",
+    "name": "Yuri N Kalinin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Includes:</p><ul><li>2 Custom Animation Nodes</li><li>2 Legacy Actor Components: FootIK, LowerBodyIK</li></ul><p><br /></p><p>List of Features:</p><ul><li>Very easy to setup (less then one minute for foot placement)</li><li>Flexible settings</li><li>Can work correctly on complicated surfaces</li><li>Doesn&#39;t depend on skeleton (can work with other skeleton then Mannequin)</li></ul><p><br /></p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows x64</p><p>Supported Target Build Platforms: Windows x64, Android, HoloLens</p><p>Documentation: <a href=\"https://drive.google.com/open?id&#61;1ps6p2ib70xNlhQR1yDZTsnLZPaVenznZ\" rel=\"nofollow\">Legacy #1</a> / <a href=\"https://drive.google.com/open?id&#61;1ZB5n5yM74-vD7-heDYJQGI-rEvxXawxH\" rel=\"nofollow\">Legacy #2</a> / <a href=\"https://www.youtube.com/watch?v&#61;0DpxwdX5GqM\" rel=\"nofollow\">New (Tutorial Video)</a></p><p>Example Project: <a href=\"https://drive.google.com/open?id&#61;19JP8k_9EPR14jwyZF08pzxQG_ioyGkLS\" rel=\"nofollow\">4.23</a> / <a href=\"https://drive.google.com/file/d/1zNKVBMFrm_qjyOB5b77ug9qTmKuAqbUY/view?usp&#61;sharing\" rel=\"nofollow\">5.0</a></p><p>Executable Demo: <a href=\"https://drive.google.com/file/d/19OfrUofJCjXR0-O8S3P25_6l_fz5H2Oc/view?usp&#61;sharing\" rel=\"nofollow\">ZIP</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cb060e0f-d32c-48a9-a1ea-ac5207a358bb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-301d44630d613c65fd0d236c632c9ff3.png",
+      "md5": "301d44630d613c65fd0d236c632c9ff3",
+      "size": 2907633,
+      "uploadedDate": "2022-07-13T20:16:05.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-a682a478efdbfdb5872267e36580a27c.png",
+      "md5": "a682a478efdbfdb5872267e36580a27c",
+      "size": 2625790,
+      "uploadedDate": "2022-07-13T20:16:06.196Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-e5a916557b6be6176d79f4648818aa53.png",
+      "md5": "e5a916557b6be6176d79f4648818aa53",
+      "size": 559723,
+      "uploadedDate": "2022-07-13T20:16:06.681Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-45c1c76ad3bf460403d25c247e3725a0.png",
+      "md5": "45c1c76ad3bf460403d25c247e3725a0",
+      "size": 540951,
+      "uploadedDate": "2022-07-13T20:16:07.031Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/IKFootTools_thumb-284x284-de209fa0aa2bc7684a6cafbba94de01d.png",
+      "md5": "de209fa0aa2bc7684a6cafbba94de01d",
+      "size": 135247,
+      "uploadedDate": "2022-07-13T20:16:07.310Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/IKFootTools_featured-894x488-ff5271647c69eee4a271f002a07b1e21.png",
+      "md5": "ff5271647c69eee4a271f002a07b1e21",
+      "size": 642135,
+      "uploadedDate": "2022-07-13T20:16:07.468Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-301d44630d613c65fd0d236c632c9ff3_Snapshot.png",
+      "md5": "6354d7464d99766442f692adecb2a9c8",
+      "size": 5057,
+      "uploadedDate": "2022-07-13T20:16:06.024Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-a682a478efdbfdb5872267e36580a27c_Snapshot.png",
+      "md5": "ee47a9d4bd262d5846f524ec16956f13",
+      "size": 4919,
+      "uploadedDate": "2022-07-13T20:16:06.544Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-e5a916557b6be6176d79f4648818aa53_Snapshot.png",
+      "md5": "42a28c33e0aebcc894d3ea62b51db926",
+      "size": 5560,
+      "uploadedDate": "2022-07-13T20:16:06.903Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-45c1c76ad3bf460403d25c247e3725a0_Snapshot.png",
+      "md5": "02215c9f02e76f3d17484396d2e8ac36",
+      "size": 5286,
+      "uploadedDate": "2022-07-13T20:16:07.262Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a49563dc34614208b6372fc872d79d6e"
+    }
+  ],
+  "catalogNs": null
+}

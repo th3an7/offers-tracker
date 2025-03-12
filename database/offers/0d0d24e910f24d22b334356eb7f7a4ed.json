@@ -1,0 +1,266 @@
+{
+  "id": "0d0d24e910f24d22b334356eb7f7a4ed",
+  "namespace": "ue",
+  "title": "NPC Speech Bubbles",
+  "description": "Fully data driven speech bubbles for NPCs. Scalable and customisable to make your world feel alive",
+  "longDescription": "<h1>NPC Speech Bubbles</h1><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;Pm4ye1LJJqg\" rel=\"nofollow\">DEMO AND CONFIG VIDEO</a></p><p><br /></p><p>A fully data driven approach to dynamic speech bubbles for NPCs.</p><p>Using a couple of Enumerators and a Data Table, you can easily have speech bubbles configured for your NPCs.</p><p><br /></p><p>Setup events for your NPCs... perhaps they are idling, or in combat, maybe they&#39;re investigating... each one can have it&#39;s own group of dialogue speech bubbles to choose from.</p><p><br /></p><p>All you need on an NPC actor is a widget component and the actor component that comes with this package. Then you are ready to go. Simply configure the data table with all of your NPC dialogue options, and the NPCs will randomly pull through the dialogue from that data table based on events, or repeated dialogue.</p><p><br /></p><p>You can have, for example, Town Guards that can chat while they are idle... then have an event where the player is seen, heard or interacted with and have their dialogue changed to new ones... all based on data table items.</p><p><br /></p><p>The speech bubbles auto scale based on the content of the dialogue.</p><p><br /></p><p>This is fully scalable and configurable. From the widget itself (a simple border and inner box PNG), to text colours, to the dialogue itself.</p><p><br /></p><p>Bring your environment to life with NPC Speech Bubbles.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "npc-speech-bubbles",
+  "creationDate": "2024-05-03T20:21:17.538Z",
+  "lastModifiedDate": "2024-11-06T10:05:21.576Z",
+  "effectiveDate": "2024-05-03T20:21:37.600Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-upsr2bcfxjf9sdggy7wbpzne8wkcdv",
+    "name": "NubGamerz"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Data Driven Speech Bubbles</li><li> Dynamic Speech Bubble Sizing</li><li> Customise text colours on the fly</li><li>Actor Component ready for any NPC Actor</li></ul><p>Number of Blueprints: 2 (Plus 2x Enumerators, 1x Structure and 1x Data Table)</p><p>6 Blueprints in Demo folder (Player &#43; NPC used from Third Person Template)</p><p>Input: N/A</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1xIJ2DIb9o59M6fanwtJtKjL7ZKq5TIJUEo0HVgFEZbs/edit?usp&#61;sharing\" rel=\"nofollow\">HERE</a></p><p>Discord: <a href=\"https://discord.gg/Xyzrctw9hD\" rel=\"nofollow\">HERE</a></p><p>Important/Additional Notes: This should work in any UE5 version (5.0&#43;), due to lack of hard drive space, I&#39;m unable to currently test it. This will take time to add support for previous versions as I will need to download each one and try it (I don&#39;t have the fastest internet).</p><p><a href=\"https://www.youtube.com/watch?v&#61;Pm4ye1LJJqg\" rel=\"nofollow\">Demo Video</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e281d4b4-b324-44c6-996c-f34cfaf327e0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DataTable-1920x1080-5e0d261686f26c45f770924128deea35.png",
+      "md5": "5e0d261686f26c45f770924128deea35",
+      "size": 109384,
+      "uploadedDate": "2024-05-02T15:02:39.429Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EventStruct-1920x1080-d2c3e25d1ee13b45784c6a9d616c79a2.png",
+      "md5": "d2c3e25d1ee13b45784c6a9d616c79a2",
+      "size": 14387,
+      "uploadedDate": "2024-05-02T15:02:39.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InGame-1920x1080-2b8a076103944f7f6a05b63d44093e6c.png",
+      "md5": "2b8a076103944f7f6a05b63d44093e6c",
+      "size": 2119387,
+      "uploadedDate": "2024-05-02T15:02:40.110Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InGame2-1920x1080-50cb2d622fec930b5682504a2e08893f.png",
+      "md5": "50cb2d622fec930b5682504a2e08893f",
+      "size": 1895820,
+      "uploadedDate": "2024-05-02T15:02:40.787Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NPCStruct-1920x1080-aa18a8f79c393590804bd00663cd8b08.png",
+      "md5": "aa18a8f79c393590804bd00663cd8b08",
+      "size": 16284,
+      "uploadedDate": "2024-05-02T15:02:41.246Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NPCSpeechBubbles_thumb-284x284-f78226953780d3ccdb3c8134f9aaf8c5.png",
+      "md5": "f78226953780d3ccdb3c8134f9aaf8c5",
+      "size": 27093,
+      "uploadedDate": "2024-05-02T15:02:41.483Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NPCSpeechBubbles_featured-894x488-80df62a084610c0e63c9d500ed64d732.png",
+      "md5": "80df62a084610c0e63c9d500ed64d732",
+      "size": 493229,
+      "uploadedDate": "2024-05-02T15:02:41.665Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DataTable-1920x1080-5e0d261686f26c45f770924128deea35_Snapshot.png",
+      "md5": "d2d0a17caeec1a1b217b8fbedd8c7987",
+      "size": 2727,
+      "uploadedDate": "2024-05-02T15:02:39.728Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EventStruct-1920x1080-d2c3e25d1ee13b45784c6a9d616c79a2_Snapshot.png",
+      "md5": "508362e1c5d394adeecb5d687008682f",
+      "size": 1470,
+      "uploadedDate": "2024-05-02T15:02:39.908Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InGame-1920x1080-2b8a076103944f7f6a05b63d44093e6c_Snapshot.png",
+      "md5": "5941a4a82a7b394d1f2c3bc58c63a3bc",
+      "size": 4942,
+      "uploadedDate": "2024-05-02T15:02:40.529Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InGame2-1920x1080-50cb2d622fec930b5682504a2e08893f_Snapshot.png",
+      "md5": "675adb820fd89edf5159786cdd49fba9",
+      "size": 4774,
+      "uploadedDate": "2024-05-02T15:02:41.182Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NPCStruct-1920x1080-aa18a8f79c393590804bd00663cd8b08_Snapshot.png",
+      "md5": "f51fe57d1eeb90eee1180d231abc865a",
+      "size": 1437,
+      "uploadedDate": "2024-05-02T15:02:41.387Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7c70c1a86880472cb8f7ddefab8eef1b"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,188 @@
+{
+  "id": "ff8d9256121a4e6191ed9c266f3011f9",
+  "namespace": "ue",
+  "title": "Custom Thumbnails",
+  "description": "Easily set custom 2D thumbnails for your blueprints objects and DataAssets.",
+  "longDescription": "<p>A feature I found to be quite missing from the base editor was this : being able to easily and quickly set icons for blueprints in the content browser.</p><p>When you have lots of items, skills, and other kinds of objects of this sort that are represented in game with a Texture2D, it&#39;s pretty sad to have them shown as a white circle in the editor. Hence, I made this plugin!</p><p>The setup is pretty easy, it&#39;s compatible with any projects whether it uses C&#43;&#43; or Blueprints, and can quickly be set on an existing project.</p><p><br /></p><p><br /></p><p><br /></p><h2><strong>To start using with Blueprint :</strong></h2><p>In your blueprint (e.g. the parent blueprint of all the skills/items), click the <strong>Class Settings</strong> button and <strong>add</strong> the <strong>IconThumbnailInterface</strong>. Then, double click the <strong>Get Icon </strong>function on the left panel.</p><p>There, you can return any Texture2D as the thumbnail.</p><p>Please refer to the explanatory screenshot above for more details.</p><p><br /></p><p><br /></p><p><br /></p><h2><strong>To start using with C&#43;&#43; :</strong></h2><p>Please add the module in your dependencies (i.e. in your <strong>ProjectName.build.cs</strong> file), like so for example :</p><blockquote>PrivateDependencyModuleNames.AddRange(new string[] { &#34;CustomThumbnails&#34; });</blockquote><p>Then implement the <strong>IIconThumbnailInterface </strong>in your class and override <strong>GetIcon_Implementation()</strong> to return the UTexture2D you want as the thumbnail.</p><p><br /></p><p><br /></p><h2><strong>New features from version 4.25 onwards :</strong></h2><p><strong>Y</strong>ou can now also tint your icons with an RGB color, with a new <strong>Get Tint </strong>method/function, usable in the same way as the <strong>Get Icon </strong>method/function.</p><p>The plugin now also works with <strong>DataAssets</strong>.</p><p> If you need these features for an older version of the engine, feel free to contact me about it and I&#39;ll send a patch to you.</p><p><br /></p><p>A lot of people have been getting this little plugin (way more than I expected, to be honest) but nobody left any note :(</p><p>Do feel free to leave one if you appreciate it, want something added, etc.</p><p>Thank you very much!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "custom-thumbnails",
+  "creationDate": "2020-08-05T16:20:38.696Z",
+  "lastModifiedDate": "2024-10-30T16:45:28.562Z",
+  "effectiveDate": "2020-08-05T16:22:00.142Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-72qnc2rx2gd3sg4e7uj85hhuwagapc",
+    "name": "JB Dev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Content browser rendering of any Texture2D for any blueprint thumbnail</li></ul><p>Code Modules:</p><ul><li> CustomThumbnails (DeveloperTool)</li><li> CustomThumbnailsEditor (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 4</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64, Win32, MacOS &amp; Linux</p><p>Supported Target Build Platforms: Editor</p><p>Documentation: See screenshot and description</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4c96f182-d800-48fb-9e08-6adf70a3035c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080px-1920x1080-8f965a775e929d30a0809c1bce53e182.png",
+      "md5": "8f965a775e929d30a0809c1bce53e182",
+      "size": 143435,
+      "uploadedDate": "2020-08-03T18:41:42.478Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/blueprint1080-1920x1080-46cd5c511ab9b583b23e958e0195aa57.png",
+      "md5": "46cd5c511ab9b583b23e958e0195aa57",
+      "size": 217060,
+      "uploadedDate": "2020-08-03T18:41:42.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CustomThumbnails_thumb-284x284-63a5d5588c78f65e1f9b5303a069d621.png",
+      "md5": "63a5d5588c78f65e1f9b5303a069d621",
+      "size": 84828,
+      "uploadedDate": "2020-08-03T18:41:43.231Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CustomThumbnails_featured-894x488-c4f2d08732c09e4f2cfcf5fbb98d1dee.png",
+      "md5": "c4f2d08732c09e4f2cfcf5fbb98d1dee",
+      "size": 164454,
+      "uploadedDate": "2020-08-03T18:41:43.306Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080px-1920x1080-8f965a775e929d30a0809c1bce53e182_Snapshot.png",
+      "md5": "a82702376df39d769dcbddf4c7be2f15",
+      "size": 2854,
+      "uploadedDate": "2020-08-03T18:41:42.725Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/blueprint1080-1920x1080-46cd5c511ab9b583b23e958e0195aa57_Snapshot.png",
+      "md5": "23aa293c6314f0adb57c160815320623",
+      "size": 5432,
+      "uploadedDate": "2020-08-03T18:41:43.102Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9be64764f36c46e9af8907c7bebf5a76"
+    }
+  ],
+  "catalogNs": null
+}

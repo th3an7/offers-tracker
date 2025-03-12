@@ -1,0 +1,325 @@
+{
+  "id": "722141dbed4642ed868c1e4eef1e6704",
+  "namespace": "ue",
+  "title": "Orbit Lights",
+  "description": "Easily place and adjust rectangular area lights around target objects. Great for (portfolio) renders!",
+  "longDescription": "<p>Orbit Lights is an editor utility widget that lets you pick target objects and place lights around it. Quickly adjust every light&#39;s position, intensity, color, etc., in one central place - no property hunt in the details panel is needed. This is especially useful for (portfolio) renderings because you can look through the render camera and adjust every light via the widget! Light setups can also be stored as presets and used for different objects (to use the presets across various Unreal projects, manually duplicate the preset file and move it to the other project).</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "orbit-lights",
+  "creationDate": "2023-01-30T18:30:21.555Z",
+  "lastModifiedDate": "2024-12-12T20:34:25.434Z",
+  "effectiveDate": "2023-01-30T18:37:47.315Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wq6qxhwm84r76nmr3feemxd48sbzv5",
+    "name": "TR3D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Documentation: <a href=\"https://tr3d.github.io/OrbitLightsDocs/\" rel=\"nofollow\">Link</a></p><p>Features:</p><ul><li>support for multiple target actors in the scene</li><li>add / remove rectangular area lights</li><li>adjustable light settings</li><li>toggle shadow casting</li><li>hide, unhide or isolate light</li><li>adjust position (including target offset)</li><li>adjust light intensity</li><li>adjust light radius</li><li>adjust light width / height</li><li>adjust barn door angle &amp; length</li><li>adjust color / temperature</li><li>rename light actors</li><li>save &amp; load presets</li><li>undo/redo</li><li>partial sequencer support (lights can&#39;t move on their orbit during run time)</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p><p>Network Replicated: No</p><p><br /></p><p><br /></p><p>Additional Notes:</p><p>The built-in &#39;Blueprint File Utilities &#39; Plugin is required and needs to be enabled!</p><p>For best results, turn on raytracing in project settings.</p><p>Demo assets seen in pictures are not included!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b79fbdf2-841a-4b6d-a4e6-7ec7cbb19651"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/head-1920x1080-74683494e6a566759f5bf3a034899c49-1920x1080-74683494e6a566759f5bf3a034899c49.jpg",
+      "md5": "74683494e6a566759f5bf3a034899c49",
+      "size": 661310,
+      "uploadedDate": "2023-01-12T09:39:08.739Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UI-1920x1080-49880b49e159d60556fb83ecb6f23e59-1920x1080-49880b49e159d60556fb83ecb6f23e59.jpg",
+      "md5": "49880b49e159d60556fb83ecb6f23e59",
+      "size": 380184,
+      "uploadedDate": "2023-01-12T09:39:09.199Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dumpster1-1920x1080-e8715a35724d27e21f243a3261658b41-1920x1080-e8715a35724d27e21f243a3261658b41.jpg",
+      "md5": "e8715a35724d27e21f243a3261658b41",
+      "size": 651173,
+      "uploadedDate": "2023-01-12T09:39:09.592Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dumpster2-1920x1080-bab108ff1c3371c8eb6b44972fea0efe-1920x1080-bab108ff1c3371c8eb6b44972fea0efe.jpg",
+      "md5": "bab108ff1c3371c8eb6b44972fea0efe",
+      "size": 733318,
+      "uploadedDate": "2023-01-12T09:39:09.937Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/material-1920x1080-68a31c3b4131b3d8c29b7e8dd4f9b94b-1920x1080-68a31c3b4131b3d8c29b7e8dd4f9b94b.jpg",
+      "md5": "68a31c3b4131b3d8c29b7e8dd4f9b94b",
+      "size": 718294,
+      "uploadedDate": "2023-01-12T09:39:10.394Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OrbitLights_thumb-284x284-d9217bcbb92553deb7446a0296e6f949.png",
+      "md5": "d9217bcbb92553deb7446a0296e6f949",
+      "size": 89685,
+      "uploadedDate": "2023-01-12T09:39:11.060Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OrbitLights_featured-894x488-7508a753d8f5f8fb3f91f6d3ac87ead9.png",
+      "md5": "7508a753d8f5f8fb3f91f6d3ac87ead9",
+      "size": 323546,
+      "uploadedDate": "2023-01-12T09:39:11.167Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/head-1920x1080-74683494e6a566759f5bf3a034899c49-1920x1080-74683494e6a566759f5bf3a034899c49_Snapshot.jpg",
+      "md5": "5ab3ed98d68e16b4cca6421f21068e1d",
+      "size": 5756,
+      "uploadedDate": "2023-01-12T09:39:09.041Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UI-1920x1080-49880b49e159d60556fb83ecb6f23e59-1920x1080-49880b49e159d60556fb83ecb6f23e59_Snapshot.jpg",
+      "md5": "bf903c873bbfcfc7474e133b36ee1788",
+      "size": 4442,
+      "uploadedDate": "2023-01-12T09:39:09.423Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dumpster1-1920x1080-e8715a35724d27e21f243a3261658b41-1920x1080-e8715a35724d27e21f243a3261658b41_Snapshot.jpg",
+      "md5": "518c2f4db5d8f644b627a57efe756b36",
+      "size": 5525,
+      "uploadedDate": "2023-01-12T09:39:09.820Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dumpster2-1920x1080-bab108ff1c3371c8eb6b44972fea0efe-1920x1080-bab108ff1c3371c8eb6b44972fea0efe_Snapshot.jpg",
+      "md5": "8372597eb3467e0524b45ccd6d30464e",
+      "size": 5504,
+      "uploadedDate": "2023-01-12T09:39:10.200Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/material-1920x1080-68a31c3b4131b3d8c29b7e8dd4f9b94b-1920x1080-68a31c3b4131b3d8c29b7e8dd4f9b94b_Snapshot.jpg",
+      "md5": "0a18a240b59489f7e77dcdc3f82c19c9",
+      "size": 5411,
+      "uploadedDate": "2023-01-12T09:39:10.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/setup-1920x1080-8d2d7050f28f698175ed2566bd7d9a53-1920x1080-8d2d7050f28f698175ed2566bd7d9a53_Snapshot.jpg",
+      "md5": "e1ee131ef7934b6fe070ed69e245453b",
+      "size": 4069,
+      "uploadedDate": "2023-01-12T09:39:11.013Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2bb495df40084c2b809d419cb9453a63"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

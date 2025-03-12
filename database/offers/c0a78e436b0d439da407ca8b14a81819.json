@@ -1,0 +1,320 @@
+{
+  "id": "c0a78e436b0d439da407ca8b14a81819",
+  "namespace": "ue",
+  "title": "Orbit System",
+  "description": "Spline based Orbital System for Actors, incl. Mass based Speed",
+  "longDescription": "<p>With this Blueprint, you can create different Orbits, including Moons.</p><p>The Speed of each Actor in a orbit is calculated by the Mass Parameter of its Parent Object. This also applies to elliptical Orbits, where the Object changes it speed, depending on the distance to the Parent.</p><p><br /></p><p>Orbits are created as Splines.</p><p><br /></p><p><strong>Videos:</strong></p><p>Simple planetary Orbit System: <a href=\"https://youtu.be/LtX2aX88DkQ\" rel=\"nofollow\">https://youtu.be/LtX2aX88DkQ</a> - <a href=\"https://youtu.be/BdJ7eEENpQc\" rel=\"nofollow\">https://youtu.be/BdJ7eEENpQc</a></p><p>Features: <a href=\"https://youtu.be/dtNjLXsaO7o\" rel=\"nofollow\">https://youtu.be/dtNjLXsaO7o</a></p><p>Basic Tutorial: <a href=\"https://youtu.be/fige6QRyrlw\" rel=\"nofollow\">https://youtu.be/fige6QRyrlw</a></p><p><br /></p><p><strong>Updates:</strong></p><ul><li>1.0.1 - Fixed a small Bug with Orbit Names - March 15 2021</li><li>1.0.2 - Fixed a Problem with scaling the Speed of Sub-Orbits - January 08 2022</li><li>1.0.3 - Fixed a Problem with the Orbit Plane, after upgrading to UE5 - If you want to fix it yourself on an existing Project: Go to the &#34;OrbitBuilder&#34; Blueprint: “Construct Orbit Plane and Material” Function → &#34;Make Vector&#34; needs Z&#61;1 instead of Z&#61;0</li><li>1.1.0 - Added dynamic Orbit Material (Planets can now have trails): <a href=\"https://youtu.be/BdJ7eEENpQc\" rel=\"nofollow\">https://youtu.be/BdJ7eEENpQc</a></li><li>1.3.0 - Added Orbits Trails, that can be viewed from the Side too (Tessellation only works in UE 4 atm) - Optimized the construction of Splines. Even using only 2 Spline Points will work now. For good results use 4 or more. - Added Scaling for every Orbit individually. - Added easy method to change Orbit Speed during Gameplay.</li><li>1.4.0 - Added new Plane Orbit Mesh and Material - Added High Quality Orbit Mesh for UE5 - Added another Orbit, that can be viewed from the side, that is cheaper in Performance - Some Optimizations - Fixed a Bug with using different Ticks (Using fixed Ticks like 0.1 should now give a similar result as real time).</li><li>1.5.0 - Added the ability to jump to a time in the Future (in Seconds, during construction). - Fixed some minor Bugs.</li><li>1.5.3- June 21 2023 - Fixed a problem that affected dynamic Orbit Materials on huge elliptical Orbits. Existing Materials should still work</li><li>1.6.0 - December 2023 - Added several Scaling Options. Actors, Orbit Materials and Orbit Speed can now be all scaled along with the Orbit. - Fixed some Problems with dynamic Materials.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "orbit-system",
+  "creationDate": "2021-01-14T18:25:12.485Z",
+  "lastModifiedDate": "2024-11-08T11:55:08.256Z",
+  "effectiveDate": "2021-01-14T18:25:09.603Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9f499825ef4e4aa24522469ee3dae3",
+    "name": "Imperial Eclipse"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p><br /></p><p><strong>Features:</strong></p><ul><li> Spline based Orbits</li><li> Moons for each Orbit (Moons for Moons are also possible)</li><li> Orbit speeds are depending on the Distance to the central Mass</li><li>Elliptical Orbits have correct relative speeds (become faster, the closer they are, to the central Mass)</li><li>Ability to set the amount of rotations (days) an Actor has per Orbit (year)</li><li>Orbits can be rotated along all 3 axes</li><li>Actors can be rotated along all 3 axes</li><li>Orbit is represented by several Methods (simple Plane, high poly and lower poly meshes following the spline of the orbit)</li><li>Individual Scaling of the Orbit, Actors and Orbit-Speeds. </li></ul><p><br /></p><p><strong>Number of Blueprints:</strong></p><ul><li>1 Blueprint for the Orbit System</li><li>6 Blueprints for the Demo Map</li></ul><p><br /></p><p><br /></p><p>Feel free to suggest additional Features, that would be useful to you.</p><p><br /></p><p><br /></p><p>Network Replicated: No</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "22da8a76-8d96-47c3-bdf8-953e6a780d11"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Thumb-1920x1080-48755bcc201b14a03d3f11f6be11b61d.png",
+      "md5": "48755bcc201b14a03d3f11f6be11b61d",
+      "size": 1222620,
+      "uploadedDate": "2021-01-06T14:55:35.576Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ProductImage02-1920x1080-abc8d87b9e236ff83cf05c7b7a2b834a.png",
+      "md5": "abc8d87b9e236ff83cf05c7b7a2b834a",
+      "size": 760883,
+      "uploadedDate": "2021-01-06T14:55:36.061Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OrbitSystem110PT-1920x1080-0385b02a0b3c1573af670b96b7fc6393.png",
+      "md5": "0385b02a0b3c1573af670b96b7fc6393",
+      "size": 396085,
+      "uploadedDate": "2022-05-03T15:39:25.215Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ProductImage01-1920x1080-b62c5ad7e00798c8806731c44e6c1d74.png",
+      "md5": "b62c5ad7e00798c8806731c44e6c1d74",
+      "size": 1744522,
+      "uploadedDate": "2021-01-06T14:55:36.552Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ProductImage03-1920x1080-680b45989ae0f5b336c4d3f5f82856b1.png",
+      "md5": "680b45989ae0f5b336c4d3f5f82856b1",
+      "size": 215897,
+      "uploadedDate": "2021-01-06T14:55:36.998Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ProductImage04-1920x1080-3b84530de0b57b29b67c7b292417a099.png",
+      "md5": "3b84530de0b57b29b67c7b292417a099",
+      "size": 1825534,
+      "uploadedDate": "2021-01-06T14:55:37.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OrbitSystem_thumb-284x284-18754b6897b8d8c990b8db8d3d3d877d.png",
+      "md5": "18754b6897b8d8c990b8db8d3d3d877d",
+      "size": 61875,
+      "uploadedDate": "2021-01-06T14:55:37.991Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OrbitSystem_featured-894x488-7894c61b13a6ccec8560835976e8d33b.png",
+      "md5": "7894c61b13a6ccec8560835976e8d33b",
+      "size": 356077,
+      "uploadedDate": "2021-01-06T14:55:38.115Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OrbitSystem110PT-1920x1080-0385b02a0b3c1573af670b96b7fc6393_Snapshot.png",
+      "md5": "7713ae91bcaff5ba231f76edce936fa6",
+      "size": 2915,
+      "uploadedDate": "2022-05-03T15:39:25.502Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thumb-1920x1080-48755bcc201b14a03d3f11f6be11b61d_Snapshot.png",
+      "md5": "2194efb083b23c57659330f6131a1f5c",
+      "size": 4369,
+      "uploadedDate": "2021-01-06T14:55:35.881Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProductImage02-1920x1080-abc8d87b9e236ff83cf05c7b7a2b834a_Snapshot.png",
+      "md5": "ec4a6c9e2efa44e9448ec741be0fa29b",
+      "size": 4606,
+      "uploadedDate": "2021-01-06T14:55:36.366Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProductImage01-1920x1080-b62c5ad7e00798c8806731c44e6c1d74_Snapshot.png",
+      "md5": "71ba2ca015917e9d668f4cbc2f8b59ec",
+      "size": 4599,
+      "uploadedDate": "2021-01-06T14:55:36.871Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProductImage03-1920x1080-680b45989ae0f5b336c4d3f5f82856b1_Snapshot.png",
+      "md5": "80d194f13a48bb3939273e06ea11a019",
+      "size": 3073,
+      "uploadedDate": "2021-01-06T14:55:37.271Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProductImage04-1920x1080-3b84530de0b57b29b67c7b292417a099_Snapshot.png",
+      "md5": "1269e0e64201e33ea9cde82bfcfbbc48",
+      "size": 6422,
+      "uploadedDate": "2021-01-06T14:55:37.932Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "16ba18de12374b9bbe10a5708064ad4f"
+    }
+  ],
+  "catalogNs": null
+}

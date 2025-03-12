@@ -1,0 +1,158 @@
+{
+  "id": "d6a8034da21742b7b1fabe7368a1d274",
+  "namespace": "ue",
+  "title": "Bytes Conversions",
+  "description": "A plugin that adds eight functions for processing binary bytes",
+  "longDescription": "<p>Plugin that adds the ability to convert bytes array to savegame/string and vice versa. It is also possible to save bytes to a file and retrieve the bytes saved in the file.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "bytes-conversions",
+  "creationDate": "2024-05-27T15:21:41.096Z",
+  "lastModifiedDate": "2024-10-29T11:25:57.943Z",
+  "effectiveDate": "2024-05-27T15:21:41.052Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2n9ku5v4gwe56be4zl6yujlnydunrv",
+    "name": "Flash"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> SaveGame to Bytes &amp; vice versa</li><li> String to Bytes &amp; vice versa</li><li> Save Bytes to file on disk &amp; Load Bytes from file on disk</li></ul><p>Code Modules:</p><ul><li> BytesConversions (Runtime)</li></ul><p>Number of Blueprints: (2 &#43; 1 Widget Blueprint) -&gt; For demo</p><p>Number of C&#43;&#43; Classes: 4</p><p>Supported Development Platforms: Tested on windows, should works on others</p><p>Supported Target Build Platforms: Win64 &amp; Android, cannot compile for Mac &amp; iOS</p><p>Documentation: <a href=\"https://market.jinou.ovh/documentation/show?id&#61;62\" rel=\"nofollow\">HERE</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ee40830b-1fce-4bba-9055-fdb7e36469f3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sans titre-1920x1080-e9fd0380f2844a60c49ec603e1b3892e.png",
+      "md5": "e9fd0380f2844a60c49ec603e1b3892e",
+      "size": 318353,
+      "uploadedDate": "2024-05-24T20:41:13.788Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BytesConversions_thumb-284x284-fd24a5016950dc1eb73b105786c0845b.png",
+      "md5": "fd24a5016950dc1eb73b105786c0845b",
+      "size": 57747,
+      "uploadedDate": "2024-05-29T03:44:44.519Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BytesConversions_featured-894x488-ce031a4e21b25822fc9c39161512439e.png",
+      "md5": "ce031a4e21b25822fc9c39161512439e",
+      "size": 138757,
+      "uploadedDate": "2024-05-27T15:57:56.932Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sans titre-1920x1080-e9fd0380f2844a60c49ec603e1b3892e_Snapshot.png",
+      "md5": "1e52a7bd41c3eaac058369afc743a3b8",
+      "size": 5421,
+      "uploadedDate": "2024-05-24T20:41:14.013Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cd2453d3b2204e02b547f42aac4005cc"
+    }
+  ],
+  "catalogNs": null
+}

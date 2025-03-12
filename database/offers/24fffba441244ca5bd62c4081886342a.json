@@ -1,0 +1,191 @@
+{
+  "id": "24fffba441244ca5bd62c4081886342a",
+  "namespace": "ue",
+  "title": "Placement Tools (Scatter, Spline, etc.)",
+  "description": "A set of 9 Blueprints to help Level Building workflow",
+  "longDescription": "<p><a href=\"https://vimeo.com/265568893\" rel=\"nofollow\">Video Preview</a></p><p><br /></p><p>For Tutorials on how to make effects such as these check out my tutorials at  <a href=\"https://tharlevfx.gumroad.com/\" rel=\"nofollow\">https://tharlevfx.gumroad.com/</a> and follow me on youtube: <a href=\"https://www.youtube.com/&#64;tharlevfx\" rel=\"nofollow\">https://www.youtube.com/&#64;tharlevfx </a></p><p><br /></p><p>9 Blueprints:</p><p>Circular, Rectangular and Patch Spawn for Static Mesh Instances and Blueprints.</p><p>Static Mesh Randomiser, Spline and Path Tools.</p><p><br /></p><p>All designed to be optimal and use Static Mesh Instances for placement, with interactive in Editor handles for ease of use.</p><p><br /></p><p>Common Settings:</p><p>Randomise which Meshes are placed, Rotation, Scale either Seeded or using the BP location as the Seed Value.</p><p>Project Meshes on to uneven surfaces, with the option to align with those surfaces.</p><p>Clump and Edge Factor parameters to control the distribution of Meshes over the selected shape.</p><p><br /></p><p>All Blueprints are Construction Script only so will have no impact on Runtime performance.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "placement-tools",
+  "creationDate": "2018-05-26T04:02:54.767Z",
+  "lastModifiedDate": "2024-10-24T08:31:20.512Z",
+  "effectiveDate": "2018-05-26T04:02:54.737Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a93e783ed14d0f9bda14e68c09c293",
+    "name": "tharlevfx"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 9 Placement Blueprints and 2 Example Blueprints</p><p>Meshes: 8 Example Meshes</p><p>Materials: 4 Example Materials</p><p>Editor only so suitable for all Platforms</p><p><br /></p><p>All the Blueprints have been designed with ease of use in mind but here&#39;s a breakdown of how to use them:</p><p>BP_xxx_Spawn: (Circular, Box, Patch)</p><p>Firstly select Full/Edge/Corner mode as appropriate and load the BP with the different meshes/Blueprints you want to scatter.</p><p>Then use the 3D widgets to place and edit the Radius, Box, Seed Value and Number of Meshes quickly and easily in the Viewport. Adjust the Spline points for the Patch spawn BPs.</p><p>Finally adjust the Projection, Align, Clumping Factor and Mesh/BP settings to create a good random look. Now you can quickly and easily duplicate that BP around the level for quick object placement.</p><p><br /></p><p>BP_Randomiser:</p><p>Select the objects in world you wish to randomise.</p><p>Add an Actor Tag (not Component Tag) to them that matches the one in the Blueprint.</p><p>Set up the Random Parameters and Randomize using the Buttons provided.</p><p>Clear the Tags using the last button to avoid Randomising accidentally in future.</p><p><br /></p><p>BP_Spline_Spawn:</p><p>Set the BP to use whatever Spline and Point Meshes are appropriate. Set them to be Random or Sequential and set the randomization settings accordingly.</p><p>Create Spline points to draw out the path required and Project if necessary.</p><p><br /></p><p>BP_Path_Spawn:</p><p>Similar to above - set the Spline points, Number of Meshes, Seed and Max Offset values using the viewport.</p><p>Load the Mesh array with a number of meshes and whatever randomization settings are required.</p><p>Adjust as appropriate!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6ec5f592-2b00-45b2-86b1-b085073b5195"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Blueprints-1920x1080-444969f4aad809efa269da5c95de1b8a.jpg",
+      "md5": "444969f4aad809efa269da5c95de1b8a",
+      "size": 620210,
+      "uploadedDate": "2018-04-19T14:05:29.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Box-1920x1080-21115f592bf63e01af8eee9f6f72fc60.jpg",
+      "md5": "21115f592bf63e01af8eee9f6f72fc60",
+      "size": 753951,
+      "uploadedDate": "2018-04-19T14:05:29.518Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Circular-1920x1080-e677e7dc6376c8ad8efbfeb5199fb4f0.jpg",
+      "md5": "e677e7dc6376c8ad8efbfeb5199fb4f0",
+      "size": 726436,
+      "uploadedDate": "2018-04-19T14:05:29.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Patch-1920x1080-526e53f454b2d4e24b5ecc92eb064eb2.jpg",
+      "md5": "526e53f454b2d4e24b5ecc92eb064eb2",
+      "size": 735951,
+      "uploadedDate": "2018-04-19T14:05:29.963Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Path-1920x1080-6677898e1fa5ee52e09134d522855d5a.jpg",
+      "md5": "6677898e1fa5ee52e09134d522855d5a",
+      "size": 740317,
+      "uploadedDate": "2018-04-19T14:05:30.159Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Randomiser-1920x1080-4bb6bc2ee6a3e5e10a36c9098884c78f.jpg",
+      "md5": "4bb6bc2ee6a3e5e10a36c9098884c78f",
+      "size": 692257,
+      "uploadedDate": "2018-04-19T14:05:30.328Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Spline-1920x1080-d3b024282fd0b5b2878864ab33970d65.jpg",
+      "md5": "d3b024282fd0b5b2878864ab33970d65",
+      "size": 706021,
+      "uploadedDate": "2018-04-19T14:05:30.479Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PlacementTools_thumb-284x284-b05c7bdcf5f57b4510793bf6cfc36dff.png",
+      "md5": "b05c7bdcf5f57b4510793bf6cfc36dff",
+      "size": 98909,
+      "uploadedDate": "2018-04-19T14:05:30.530Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PlacementTools_featured-894x488-0219b83a8992ae1bc51e061bfb1fbb97.png",
+      "md5": "0219b83a8992ae1bc51e061bfb1fbb97",
+      "size": 458967,
+      "uploadedDate": "2018-04-19T14:05:30.702Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "a335d81d3bcb4ac488da0a72bcb61de4"
+    }
+  ],
+  "catalogNs": null
+}

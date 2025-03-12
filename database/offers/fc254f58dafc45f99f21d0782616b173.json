@@ -1,0 +1,221 @@
+{
+  "id": "fc254f58dafc45f99f21d0782616b173",
+  "namespace": "ue",
+  "title": "Nav Mesh Vehicle AI",
+  "description": "A simple but robust way to handle vehicle AI, using the engine's default navigation system. Work's directly with any vehicle pawn, using the same movement code as any player controlled vehicle. Multiplayer Ready.",
+  "longDescription": "<p>This simple but robust AI system allow&#39;s any vehicle class, including custom one&#39;s, to move to a destination, going around obstacles that can even change at runtime, as long as it affect&#39;s the nav mesh. Very easy to implement using a simple actor component that can be used to set different settings, like a max speed multiplier to a target destination acceptance radius and other performance settings. (See last screenshot for all the options).</p><p><br /></p><p>Update 1: Added out of the box support to simple vehicle pawns, using the simple vehicle component.</p><p><br /></p><p>Update 2: Forward obstacles detection added. The vehicles now try to compensate detected obstacles in front of them by adjusting their throttle. This works for any actor that has the correct object type assigned, including other vehicles.</p><p><br /></p><p>Update 3: Better detection and responses between vehicles, &#34;road&#34; nav modifier so vehicles can prefer a specific path and added 2 more move to modes, loop through a set of path points and a follow target where the vehicle follows a target actor.</p><p><br /></p><p>Update 4: Added path offsetting so vehicles can distance themselfs from walls and obstacles, without needing to change any settings in the nav mesh radius.</p><p><br /></p><p>Update 5: Small update for the nav mesh vehicle AI removing some bugs in the pathfinding and also making the template have the ue5 sports car by default. It was also introduced a steering multiplier in the settings for the vehicles that are not turning enough, like it was with the default ue5 sports car.</p><p><br /></p><p><br /></p><p>Overview: https://youtu.be/-J20gTrL83U</p><p>Multiplayer and Dozens of Vehicles Stress Test: https://youtu.be/frtgMB2dkaA</p><p>Update 1: https://youtu.be/X__LKFrhDW0</p><p>Update 3: https://youtu.be/yGCnsWjXVCo</p><p>Update 4: https://youtu.be/yhpozFaut1M</p><p>Update 5: https://youtu.be/9Ia2zj32Yhk</p><p><br /></p><p>All my other products: <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Advent&#43;Games?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">Click Here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nav-mesh-vehicle-ai",
+  "creationDate": "2021-09-03T16:35:13.074Z",
+  "lastModifiedDate": "2024-10-26T17:53:21.190Z",
+  "effectiveDate": "2021-09-03T16:36:40.753Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-x97b7ufqxd8p5dge3d52s59lv8pj8m",
+    "name": "Advent Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Works with any vehicle pawn, only requiring a few code changes (See bellow for a short tutorial);</li><li> Makes use of the normal player controlled code and settings of the vehicles, like physics, engine curves, tire settings, etc...;</li><li> Works with the engine&#39;s default nav mesh system, like any other AI pawn or character (See important note bellow);</li></ul><p><br /></p><p>Number of Blueprints: 6 (2 main blueprints and 4 used for testing scene and test vehicle).</p><p>Input: None, since it&#39;s a AI system.</p><p>Network Replicated: Yes.</p><p>Supported Development Platforms: Windows, Mac</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation:</p><ul><li>Add to your own Unreal Engine 4 project: https://youtu.be/zNd6wgiBDIg</li><li>Add to Unreal Engine 5 or any custom vehicle class: https://youtu.be/OPoWTcisZdw (NO LONGER NEEDED)</li><li>Combine with pre-determined spline path: https://youtu.be/jGkYGQqWNRI</li><li>Add System To Empty Project: https://youtu.be/EJWFtsa7RLc</li><li>Support Discord: https://discord.gg/PyNzH7N</li></ul><p><br /></p><p>Important/Additional Notes:</p><ul><li> Pay attention to your nav mesh settings, they reset everytime you re-open your level unless you have those settings set on your project settings (it&#39;s a engine related issue). For this reason, make sure you put your agent radious in the nav mesh settings to a high number (recommend 500), so the vehicle doenst try to go through places it can&#39;t fit.</li><li>Make sure if you import the system into your own UE5 project, Chaos vehicles plugin must be enabled, if not you will get errors.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1193",
+      "name": "CYBERPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:54.272Z",
+      "updated": "2022-08-24T18:46:51.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "15b9cd2d-a1fe-40ea-bf8e-d02cecf1b65f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot3-1920x1080-f2af57a1917b2703e351b788a98f6bbe.png",
+      "md5": "f2af57a1917b2703e351b788a98f6bbe",
+      "size": 2778925,
+      "uploadedDate": "2021-08-29T16:28:00.591Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot2-1920x1080-eccf71843ca4c52605b1139442055deb.png",
+      "md5": "eccf71843ca4c52605b1139442055deb",
+      "size": 2794964,
+      "uploadedDate": "2021-08-29T16:28:01.146Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot1-1920x1080-92766d1f5d9680401d936b4852c9649d.jpg",
+      "md5": "92766d1f5d9680401d936b4852c9649d",
+      "size": 273849,
+      "uploadedDate": "2021-08-29T16:28:01.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot4-1920x1080-2518e686be6cadc95f44791547b0c36d.png",
+      "md5": "2518e686be6cadc95f44791547b0c36d",
+      "size": 458194,
+      "uploadedDate": "2021-08-30T14:03:12.654Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/asas_thumb-284x284-8c122086bedf62fa5f78e50030645086.png",
+      "md5": "8c122086bedf62fa5f78e50030645086",
+      "size": 72365,
+      "uploadedDate": "2021-08-30T13:59:34.386Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/asas_featured-894x488-5335d22ac794a391a8e68b5fb021f01d.png",
+      "md5": "5335d22ac794a391a8e68b5fb021f01d",
+      "size": 340672,
+      "uploadedDate": "2021-08-30T13:59:34.509Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot4-1920x1080-2518e686be6cadc95f44791547b0c36d_Snapshot.png",
+      "md5": "7e0ce02cb2fba3b7d6a5cf5daa47ca32",
+      "size": 4475,
+      "uploadedDate": "2021-08-30T14:03:12.871Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot3-1920x1080-f2af57a1917b2703e351b788a98f6bbe_Snapshot.png",
+      "md5": "e366b77f5221c4dc55fae47854a2ba83",
+      "size": 3753,
+      "uploadedDate": "2021-08-29T16:28:00.944Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot2-1920x1080-eccf71843ca4c52605b1139442055deb_Snapshot.png",
+      "md5": "6a998c0b88f8a5dd7268283d4992a5cd",
+      "size": 4326,
+      "uploadedDate": "2021-08-29T16:28:01.483Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot1-1920x1080-92766d1f5d9680401d936b4852c9649d_Snapshot.jpg",
+      "md5": "2cd22b7fea8e15e335f46d3058e0c9f6",
+      "size": 5524,
+      "uploadedDate": "2021-08-29T16:28:01.822Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sem Ttulo-1920x1080-fe86b49401af46d809e90ad8c0e38321_Snapshot.png",
+      "md5": "ee839a29a48f87913328e35f401d94b5",
+      "size": 4430,
+      "uploadedDate": "2021-08-29T15:02:06.148Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "62d4851d26544ac19192c1791b7650ad"
+    }
+  ],
+  "catalogNs": null
+}

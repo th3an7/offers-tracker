@@ -1,0 +1,509 @@
+{
+  "id": "97ef36447df7427ca9b46edf1a438731",
+  "namespace": "ue",
+  "title": "UIWS - Unified Interactive Water System",
+  "description": "Drag and drop Interactive water bodies that simulate interactive ripples and interactive caustics.  Waves interact with foliage.  Works with any material.",
+  "longDescription": "<p>UIWS is the leading solution for dynamic interactive water bodies in Unreal Engine 4. Beautiful unified interactive fluid, interactive caustic lighting, collision and damage handling and more! The plugin is super easy to use with almost no setup required; Simply drag, drop, scale, and play!</p><p><strong><em>Trailer: </em></strong><a href=\"https://youtu.be/ofmMdnL_xgI\" rel=\"nofollow\">https://youtu.be/ofmMdnL_xgI</a></p><p><strong><em>Product Site: </em></strong><a href=\"https://egray.io/uiws\" rel=\"nofollow\">https://egray.io/uiws</a></p><p><strong><em>FAQ: </em></strong><a href=\"https://egray.io/uiws-faq\" rel=\"nofollow\">https://egray.io/uiws-faq</a></p><p><br /></p><p><strong>You might also like: </strong><a href=\"https://egray.io/uipf\" rel=\"nofollow\">Unified Interactive Physical Foliage</a></p><p><br /></p><p><strong>Features</strong>:</p><ul><li>Unified dynamic water body system.</li><li>Real-time fluid interaction with caustic reflection &amp; refraction.</li><li>Automatically interacts with any object, mesh, or even particle effect.</li><li>Collision and Damage particle effect spawning out of the box</li><li>Works with any material</li><li>Designer friendly - easy to setup, no restriction on body scale or number. Just beautiful water for your game!</li><li>Easy to customize in editor or via blueprint.</li><li>Optional full manual control over all system via blueprint or c&#43;&#43; events and overrides</li><li>Underwater post processing</li><li>Well optimized for a wide range of target hardware</li><li>NEW - Spline River Support with falls</li><li>NEW - Custom Mesh surface support</li><li>NEW - <a href=\"https://twitter.com/i/status/1249864718677708800\" rel=\"nofollow\">Physical Ripple Reflection </a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "uiws-unified-interactive-water-system",
+  "creationDate": "2018-11-30T13:09:34.486Z",
+  "lastModifiedDate": "2024-11-05T15:12:12.479Z",
+  "effectiveDate": "2018-11-30T13:09:51.885Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ytyrmz9659c4xl2ju37dw4y5euqtft",
+    "name": "egray.io"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Code Modules</strong>: UIWS (Runtime)</p><p><strong>Number of Blueprints</strong>: 0</p><p><strong>Number of C&#43;&#43; Classes</strong>: 5</p><p><strong>Network Replicated</strong>: N/a</p><p><strong>Supported Development Platforms</strong>: Windows</p><p><strong>Supported Target Build Platforms</strong>: Windows, Android</p><p><strong>Documentation</strong>: <a href=\"https://egray.io/uiwsdocs\" rel=\"nofollow\">https://egray.io/uiwsdocs</a></p><p><strong>Important/Additional Notes</strong>: If you need specific platform or version support get in touch!</p><p><br /></p><p><strong><em>4K Perf Test:</em></strong> <a href=\"https://youtu.be/W7zo-vSNgcY\" rel=\"nofollow\">https://youtu.be/W7zo-vSNgcY</a></p><p><strong>Photorealistic Scene:</strong> <a href=\"https://youtu.be/-Xl18rsUE64\" rel=\"nofollow\">https://youtu.be/-Xl18rsUE64</a></p><p><strong>Playable Demo:</strong> <a href=\"https://egray.io/uiws/demo/\" rel=\"nofollow\">https://egray.io/uiws/demo/</a></p><p><br /></p><p><br /></p><p><br /></p><h3><strong>UIWS 1.7 out now!</strong></h3><p><a href=\"https://egray.io/uiwsdocs/#ReleaseNotes\" rel=\"nofollow\">https://egray.io/uiwsdocs/#ReleaseNotes</a></p><p>Contains numerous bug fixes and quality of life improvements.</p><p>Includes new features (beta): Spline river support and Custom Mesh support. </p><p><em>Important to note that non-flat surfaces don&#39;t yet have support for caustics or auto interaction but I&#39;m hoping to make this available in the future. See release notes for more info.</em></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1221",
+      "name": "BULLET TIME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.164Z",
+      "updated": "2019-06-20T12:00:08.164Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1208",
+      "name": "TURN-BASED COMBAT",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:01.719Z",
+      "updated": "2019-06-20T12:00:01.719Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "798b269a-b760-42c5-9c2c-8e11d723d5be"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fallsabove-1920x1080-c290c40610d337c123c1661f682fe24a.jpg",
+      "md5": "c290c40610d337c123c1661f682fe24a",
+      "size": 295844,
+      "uploadedDate": "2019-03-26T06:33:49.085Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fallshot-1920x1080-ec76a1efa42afa3bd910d9f340b9329e.jpg",
+      "md5": "ec76a1efa42afa3bd910d9f340b9329e",
+      "size": 247828,
+      "uploadedDate": "2019-03-26T06:33:49.279Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fallsclose1-1920x1080-f417f0e1a6b827b07266a5dc8f4573af.jpg",
+      "md5": "f417f0e1a6b827b07266a5dc8f4573af",
+      "size": 265756,
+      "uploadedDate": "2019-03-26T06:33:49.495Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/splineshot-1920x1080-4ffcce09133c769c89aeefc91c203b66.jpg",
+      "md5": "4ffcce09133c769c89aeefc91c203b66",
+      "size": 602883,
+      "uploadedDate": "2019-03-26T06:33:49.757Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/logo-1920x1080-4aa4653735489e2263b58e1c38276c0c.jpg",
+      "md5": "4aa4653735489e2263b58e1c38276c0c",
+      "size": 766565,
+      "uploadedDate": "2018-11-26T07:20:09.687Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/automaticinteraction-1920x1080-0691bdabd5462c0ff40756d736580efd.jpg",
+      "md5": "0691bdabd5462c0ff40756d736580efd",
+      "size": 945557,
+      "uploadedDate": "2018-11-17T04:08:28.371Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/caustics-1920x1080-3f61e509ac800c337ec6a484b3f8003e.jpg",
+      "md5": "3f61e509ac800c337ec6a484b3f8003e",
+      "size": 825635,
+      "uploadedDate": "2018-11-17T04:08:29.945Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/particles-1920x1080-d2a9225bf1721f6de961c28e2df8843f.jpg",
+      "md5": "d2a9225bf1721f6de961c28e2df8843f",
+      "size": 1432990,
+      "uploadedDate": "2018-11-17T04:08:31.524Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pp-1920x1080-6d2d4b6147db410eacdf5718d4ec1c8d.jpg",
+      "md5": "6d2d4b6147db410eacdf5718d4ec1c8d",
+      "size": 463141,
+      "uploadedDate": "2018-11-17T04:08:33.104Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/collision1-1920x1080-a792b9391116428d9ab1c80ff03eed55.jpg",
+      "md5": "a792b9391116428d9ab1c80ff03eed55",
+      "size": 831202,
+      "uploadedDate": "2018-11-17T04:08:34.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/collision2-1920x1080-d4fa5cf195773c4735991576bf4ebff5.jpg",
+      "md5": "d4fa5cf195773c4735991576bf4ebff5",
+      "size": 1152447,
+      "uploadedDate": "2018-11-17T04:08:36.234Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/true-1920x1080-5b90d7a52713401a5f4878443b3f8ed8.jpg",
+      "md5": "5b90d7a52713401a5f4878443b3f8ed8",
+      "size": 1017570,
+      "uploadedDate": "2018-11-17T04:08:37.814Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/optimized epic-1920x1080-58578a5a2d574e4b10d55596e15872d5.jpg",
+      "md5": "58578a5a2d574e4b10d55596e15872d5",
+      "size": 650581,
+      "uploadedDate": "2018-11-17T04:08:39.361Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Optimized low-1920x1080-6fd42dd8feac0316c6bf15e422299e31.jpg",
+      "md5": "6fd42dd8feac0316c6bf15e422299e31",
+      "size": 701780,
+      "uploadedDate": "2018-11-17T04:08:41.229Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UIWSUnifiedInteractiveWaterSystem_thumb-284x284-0121c646b5effda14c54ddc712c4a68c.png",
+      "md5": "0121c646b5effda14c54ddc712c4a68c",
+      "size": 133918,
+      "uploadedDate": "2018-11-26T07:20:10.731Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UIWSUnifiedInteractiveWaterSystem_featured-894x488-732ce91c73c1be2d6d3cb1a3d8acf223.png",
+      "md5": "732ce91c73c1be2d6d3cb1a3d8acf223",
+      "size": 627524,
+      "uploadedDate": "2018-11-17T04:08:42.349Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fallsabove-1920x1080-c290c40610d337c123c1661f682fe24a_Snapshot.jpg",
+      "md5": "b6d0eace2b5f6b6360e35c6ed0cdda47",
+      "size": 2935,
+      "uploadedDate": "2019-03-26T06:33:49.210Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fallshot-1920x1080-ec76a1efa42afa3bd910d9f340b9329e_Snapshot.jpg",
+      "md5": "3d29ea7fbaa4d81c27d4f0e5ac6388c5",
+      "size": 2445,
+      "uploadedDate": "2019-03-26T06:33:49.402Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fallsclose1-1920x1080-f417f0e1a6b827b07266a5dc8f4573af_Snapshot.jpg",
+      "md5": "2a8707a32a72fa96a4bc9bec59046647",
+      "size": 2649,
+      "uploadedDate": "2019-03-26T06:33:49.613Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/splineshot-1920x1080-4ffcce09133c769c89aeefc91c203b66_Snapshot.jpg",
+      "md5": "a50a6b3665f37419e0ebb9a0b6ac935c",
+      "size": 2648,
+      "uploadedDate": "2019-03-26T06:33:49.898Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/logo-1920x1080-4aa4653735489e2263b58e1c38276c0c_Snapshot.jpg",
+      "md5": "f0c21201cf1a0568cd156393a9420f74",
+      "size": 2036,
+      "uploadedDate": "2018-11-26T07:20:10.691Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/logo-1920x1080-4854d441e43e2f579f1869043fa782ac_Snapshot.jpg",
+      "md5": "449abfe8853e5abd1334ceddee0e6729",
+      "size": 1807,
+      "uploadedDate": "2018-11-17T04:08:27.811Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/automaticinteraction-1920x1080-0691bdabd5462c0ff40756d736580efd_Snapshot.jpg",
+      "md5": "10a3f115523763a35a293c92887ca19d",
+      "size": 2930,
+      "uploadedDate": "2018-11-17T04:08:29.365Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/caustics-1920x1080-3f61e509ac800c337ec6a484b3f8003e_Snapshot.jpg",
+      "md5": "f80fbc8a0ae73a31ef2ff2900b95d1df",
+      "size": 3056,
+      "uploadedDate": "2018-11-17T04:08:30.927Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/particles-1920x1080-d2a9225bf1721f6de961c28e2df8843f_Snapshot.jpg",
+      "md5": "3ad230cc2b851d06f0c39bac2cf5a2bd",
+      "size": 3523,
+      "uploadedDate": "2018-11-17T04:08:32.584Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pp-1920x1080-6d2d4b6147db410eacdf5718d4ec1c8d_Snapshot.jpg",
+      "md5": "953c10cd8826e7e57b259b3ef60abd58",
+      "size": 1967,
+      "uploadedDate": "2018-11-17T04:08:34.026Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/collision1-1920x1080-a792b9391116428d9ab1c80ff03eed55_Snapshot.jpg",
+      "md5": "40348dc643717353671c5e63528ddc4a",
+      "size": 2833,
+      "uploadedDate": "2018-11-17T04:08:35.614Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/collision2-1920x1080-d4fa5cf195773c4735991576bf4ebff5_Snapshot.jpg",
+      "md5": "00090b0592abb1ac42763bea696acbb2",
+      "size": 3418,
+      "uploadedDate": "2018-11-17T04:08:37.238Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/true-1920x1080-5b90d7a52713401a5f4878443b3f8ed8_Snapshot.jpg",
+      "md5": "b8d56e5203cb6278c08b209308cdf37a",
+      "size": 3275,
+      "uploadedDate": "2018-11-17T04:08:38.805Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/optimized epic-1920x1080-58578a5a2d574e4b10d55596e15872d5_Snapshot.jpg",
+      "md5": "7dc9f07ed7732dcaf1aab6d9eeeebb94",
+      "size": 2904,
+      "uploadedDate": "2018-11-17T04:08:40.683Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Optimized low-1920x1080-6fd42dd8feac0316c6bf15e422299e31_Snapshot.jpg",
+      "md5": "fed90c551861721182d73db513137033",
+      "size": 2718,
+      "uploadedDate": "2018-11-17T04:08:42.191Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2ccf7735f7384ad8a8a49e0d382dfeb7"
+    }
+  ],
+  "catalogNs": null
+}

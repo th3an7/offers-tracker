@@ -1,0 +1,449 @@
+{
+  "id": "af157f773f084ca89036cd7bc03fb416",
+  "namespace": "ue",
+  "title": "EOSCore",
+  "description": "Epic Online Services (EOS) in Unreal Engine",
+  "longDescription": "<h2><strong>Features</strong></h2><ul><li>Use the <strong>Epic Online Services (EOS)</strong> with Unreal Engine Blueprints</li><li>Use the Epic Online Services WEB Api</li></ul><p><strong>Blueprint Subsystems (EOS Interfaces exposed to Blueprints)</strong></p><ul><li>Achievements</li><li>Authentication</li><li>AntiCheatServer</li><li>AntiCheatClient</li><li>Connect</li><li>Friends</li><li>Ecom</li><li>Leaderboards</li><li>Lobby</li><li>Metrics</li><li>Mods</li><li>Player Data Storage</li><li>Presence</li><li>P2P</li><li>Reports</li><li>RTC (Voice Chat)</li><li>Sanctions</li><li>Sessions</li><li>Stats</li><li>Title Storage</li><li>UI</li><li>UserInfo</li></ul><p><br /></p><p><strong>Web API Features</strong></p><ul><li>Connect Web API</li><li>Voice Web API</li><li>PlayerTicketing</li></ul><p><br /></p><h2><strong>eelDev</strong></h2><ul><li>More <strong>eelDev</strong> Products: <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/eeldev\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/profile/eeldev</a></li><li><strong>Official Discord</strong>: <a href=\"https://discord.gg/3Yu7pEy\" rel=\"nofollow\">https://discord.gg/3Yu7pEy</a></li></ul><p><br /></p><h2>Supported Engine Versions</h2><ul><li>Epic does not allow plugin updates for older engine versions, this means only the 3 latest engine versions are supported. Older engine versions will have an older and outdated version of the plugin.</li><li>If you need support for older engine versions <a href=\"https://eeldev.gumroad.com/\" rel=\"nofollow\">you can purchase the plugin on Gumroad.com</a>.</li><li>It&#39;s also possible to obtain Source Control access to plugin source code through <a href=\"https://eeldev.gumroad.com/\" rel=\"nofollow\">Gumroad</a>.</li></ul><p><br /></p><p><br /></p><h2><strong>Product Support</strong></h2><ul><li>For <strong>product support</strong> and <strong>technical support</strong> you&#39;ll have to verify product ownership as stated here: <a href=\"https://eeldev.com/help\" rel=\"nofollow\">https://eeldev.com/help</a></li><li>You can find product <strong>support hours</strong> and more information in the link above.</li></ul><p><br /></p><p><strong>Notes: To use Epic Online Serivces you&#39;ll have to use the Epic Online Services (EOS SDK) documentation. The plugin is not going to teach you how to use Epic Online Services besides what&#39;s currently available in the plugins documentation and examples. You are welcome to join the Discord server and ask the community for tips but should not expect or demand anyone to answer.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "eoscore",
+  "creationDate": "2020-06-12T20:15:42.918Z",
+  "lastModifiedDate": "2024-11-13T23:59:34.035Z",
+  "effectiveDate": "2020-06-12T20:15:41.087Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dd7a5566df4ce282c131a9996a7a7f",
+    "name": "eelDev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Code Modules</strong></p><ul><li>EOSCore<strong> </strong>(Runtime)</li><li>EOSCoreWeb [Runtime]</li><li>EOSCoreEditor (Editor)</li><li>OnlineSubsystemEOSCore<strong> </strong>(Runtime)</li><li>EOSCoreShared [Runtime]</li></ul><p><strong>SDK Version</strong></p><ul><li>1.16.1</li></ul><p><strong>Plugin Version</strong></p><ul><li><a href=\"https://eeldev.com/index.php/category/unreal-engine/eoscore-unreal-engine/\" rel=\"nofollow\">Changelogs</a></li></ul><p>Number of C&#43;&#43; Classes: <strong>50</strong>&#43;</p><p>Supported Development Platforms: <strong>Windows</strong></p><p>Supported Target Build Platforms: <strong>Windows, Linux, Mac, Android, IOS</strong></p><p>Supported Engine Versions: <strong>5.1, 5.2, 5.3</strong></p><p><strong>Documentation</strong>: <a href=\"https://eeldev.com/\" rel=\"nofollow\">https://eeldev.com/</a></p><p><strong>Video Tutorials</strong>: <a href=\"https://eeldev.com/\" rel=\"nofollow\">https://eeldev.com/</a></p><p><br /></p><h2><strong>Additonal Notes</strong></h2><p><strong>Notes: To use Epic Online Serivces you&#39;ll have to use the Epic Online Services (EOS SDK) documentation. The plugin is not going to teach you how to use Epic Online Services besides what&#39;s currently available in the plugins documentation and examples. </strong></p><p><br /></p><h2>Supported Engine Versions</h2><ul><li>See note above.</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2023-08-21T13:03:30.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 90,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1335",
+      "name": "ATMOSPHERIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:04.954Z",
+      "updated": "2019-06-20T12:01:04.954Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8e78818d-4662-4c6d-8ab2-6e22b9d3595e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/eoscorescreenshot1-1920x1080-4251fba5692c47edf4532fb842aa72e3.png",
+      "md5": "4251fba5692c47edf4532fb842aa72e3",
+      "size": 273308,
+      "uploadedDate": "2020-11-14T15:14:44.877Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/eoscorescreenshot3-1920x1080-e54c122234c1955b309fa67c23cdc315.png",
+      "md5": "e54c122234c1955b309fa67c23cdc315",
+      "size": 258092,
+      "uploadedDate": "2020-11-14T15:15:09.075Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/eoscorescreenshot2-1920x1080-99966bb96970fc4dbce6b9e6cfebae7c.png",
+      "md5": "99966bb96970fc4dbce6b9e6cfebae7c",
+      "size": 264053,
+      "uploadedDate": "2020-11-14T15:15:09.578Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/eoscorescreenshot4-1920x1080-357a3ba2b8da7d688a9dc2dd61e6ebbd.png",
+      "md5": "357a3ba2b8da7d688a9dc2dd61e6ebbd",
+      "size": 446839,
+      "uploadedDate": "2020-12-06T10:38:56.647Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EOSCore_thumb-284x284-c42f09444cfa7e7a614dd6d422b15e80.png",
+      "md5": "c42f09444cfa7e7a614dd6d422b15e80",
+      "size": 22832,
+      "uploadedDate": "2024-05-15T07:01:25.391Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EOSCore_featured-894x488-680a54530b0dbee4b10bb31b00ee542c.png",
+      "md5": "680a54530b0dbee4b10bb31b00ee542c",
+      "size": 79807,
+      "uploadedDate": "2020-12-23T01:37:09.869Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/eoscorescreenshot4-1920x1080-357a3ba2b8da7d688a9dc2dd61e6ebbd_Snapshot.png",
+      "md5": "e41f393045ce2eac7e2fb416f53bd15a",
+      "size": 4530,
+      "uploadedDate": "2020-12-06T10:38:56.912Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/eoscorescreenshot4-1920x1080-21a9a82192463289f0b0c6d6d0d0502b_Snapshot.png",
+      "md5": "70d9d31cfb40387cf17abce1e66b4bfd",
+      "size": 4334,
+      "uploadedDate": "2020-12-06T06:55:12.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/eoscorescreenshot3-1920x1080-e54c122234c1955b309fa67c23cdc315_Snapshot.png",
+      "md5": "234745cdf05b082c69f351eec18f766d",
+      "size": 3788,
+      "uploadedDate": "2020-11-14T15:15:09.344Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/eoscorescreenshot2-1920x1080-99966bb96970fc4dbce6b9e6cfebae7c_Snapshot.png",
+      "md5": "49a1e0c3676cc171e47e198411758b2b",
+      "size": 3403,
+      "uploadedDate": "2020-11-14T15:15:09.817Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/eoscorescreenshot1-1920x1080-4251fba5692c47edf4532fb842aa72e3_Snapshot.png",
+      "md5": "b16eab73416c3a5371227493d9afcd73",
+      "size": 3669,
+      "uploadedDate": "2020-11-14T15:14:45.123Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot7-1920x1080-8bad7218bfb3b301132cb557fa64ecf5_Snapshot.png",
+      "md5": "060bca896128cd4bdf5749ec2d600785",
+      "size": 4154,
+      "uploadedDate": "2020-08-07T06:48:44.581Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot6-1920x1080-4b6366a7c61d20902837fbc54d8fb80e_Snapshot.png",
+      "md5": "567a0a942ec90a1d18e27c2c191f4638",
+      "size": 3948,
+      "uploadedDate": "2020-08-07T06:46:58.852Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot7-1920x1080-4b64945f1519f1190227be296335d751_Snapshot.png",
+      "md5": "9f6713b07d4aca34bd83ef716de098ec",
+      "size": 4217,
+      "uploadedDate": "2020-08-07T06:46:59.292Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot4-1920x1080-2c708c012b86c00f0fac84bcb7109ac1_Snapshot.png",
+      "md5": "1d8b755dd91e5dac62c782dee71b815a",
+      "size": 4177,
+      "uploadedDate": "2020-07-15T22:27:03.021Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot5-1920x1080-962c6c887a12500183c1c6657076d1a1_Snapshot.png",
+      "md5": "5e73583b76c159d86bbcfc7395c57fe5",
+      "size": 3406,
+      "uploadedDate": "2020-07-15T18:24:44.472Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot4-1920x1080-756f9a818e248682b7ec7e1d648d9100_Snapshot.png",
+      "md5": "c0a7f3ac5555ac92db95733a1aef4e73",
+      "size": 4202,
+      "uploadedDate": "2020-06-23T07:31:27.799Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot4-1920x1080-c6b1841145badbd03c19f141ca5695fc_Snapshot.png",
+      "md5": "420861e42f1353d3a94df11eb3382431",
+      "size": 4225,
+      "uploadedDate": "2020-06-23T07:30:01.173Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot3-1920x1080-dedc3d4208aa7a2800ee8b89df59510b_Snapshot.png",
+      "md5": "6ea4031d591d81aea581b5c7403c7fc6",
+      "size": 5105,
+      "uploadedDate": "2020-06-11T23:32:20.280Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot0 - Copy-1920x1080-e2e3b1d7458e9556ac5e96ad8747619b_Snapshot.png",
+      "md5": "b8d81264ecd966201ee63578cc6919fc",
+      "size": 4933,
+      "uploadedDate": "2020-06-11T23:25:10.894Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot1-1920x1080-47edea8c89d4201772af946a1737a25f_Snapshot.png",
+      "md5": "a832f5923691274ff75dc3d1ce820fd0",
+      "size": 4212,
+      "uploadedDate": "2020-06-11T23:12:34.691Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot2-1920x1080-6cb2aeb231c9e142d4bfbbf81aa469d4_Snapshot.png",
+      "md5": "ea94b2575d43297d1bb3f1d9a1cf79a1",
+      "size": 4776,
+      "uploadedDate": "2020-06-11T23:12:35.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/corescreenshot1-1920x1080-2799c511520c876c4656f82034d6b3ef_Snapshot.png",
+      "md5": "47de60e53a5cdce06929daf760df6862",
+      "size": 1434,
+      "uploadedDate": "2020-05-16T05:46:57.880Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9136ba70fa644e008ca79a9d854684b8"
+    }
+  ],
+  "catalogNs": null
+}

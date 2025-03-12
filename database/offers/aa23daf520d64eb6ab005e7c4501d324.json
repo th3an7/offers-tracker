@@ -1,0 +1,154 @@
+{
+  "id": "aa23daf520d64eb6ab005e7c4501d324",
+  "namespace": "ue",
+  "title": "Page Maker - Text Render Actor Animation & Layout Tool",
+  "description": "Easily animate ANY text render actor in seconds!",
+  "longDescription": "<p><a href=\"https://youtu.be/DE-tqct3gMg\" rel=\"nofollow\">Page Maker Demo</a></p><p><br /></p><p>This tool is very simple to use! There are 4 animation types available, and a range of options on each of these animation types. You can easily combine animations, and apply these to ANY text render actor. You can also just use one of my BP_Page actors to do this all EVEN EASIER.</p><p><br /></p><p>Aside from animation, this tool empowers you to easily wrap your text, constraining either the width or the height of your text block! Very helpful for procedurally generated text actors.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "page-maker-text-render-actor-animation-layout-tool",
+  "creationDate": "2023-09-11T23:25:10.618Z",
+  "lastModifiedDate": "2024-12-14T21:42:10.726Z",
+  "effectiveDate": "2023-09-11T23:25:10.594Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3tmlxw89sb6nym689sapzuaukxl7uk",
+    "name": "Farr Out Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Easy to use</li><li> Very versatile</li><li> Makes text render actor animation and layout trivial!</li></ul><p>Number of Blueprints: 3 blueprints &#43; 1 function library (blueprints are two page types, and the animator blueprint)</p><p>&#43; 5 Structs for animation data &#43; 1 Enum for color fade speeds</p><p>Input: Mouse, Keyboard, Gamepad</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://youtu.be/DE-tqct3gMg\" rel=\"nofollow\">Page Maker Demo</a></p><p>BP_TextAnimator acts like a function. Feed it a text actor, and fill in the animation info struct pin. IF you want to use the animation functions manually, to create custom sequences for example, simply deactivate all animations when spawning the TextAnimator. Then you can use it to call whichever animation you want manually.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cd26df13-25d3-42ee-a7d7-fda4fbf000ce"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PageMakerSS2-1920x1080-dd9bfff805c3f5b649f26f3d16992de4.png",
+      "md5": "dd9bfff805c3f5b649f26f3d16992de4",
+      "size": 113774,
+      "uploadedDate": "2023-09-04T19:11:24.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PageMakerSS4-1920x1080-f28ea5e6605ad4691f703e87e325a6ec.png",
+      "md5": "f28ea5e6605ad4691f703e87e325a6ec",
+      "size": 113418,
+      "uploadedDate": "2023-09-04T19:11:24.267Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PageMakerSS3-1920x1080-e74efa284822e70cd1957cafaee9b0a1.png",
+      "md5": "e74efa284822e70cd1957cafaee9b0a1",
+      "size": 179339,
+      "uploadedDate": "2023-09-04T19:11:24.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PageMakerSS1-1920x1080-0aff2cadb37bded10760c28cad221d2a.png",
+      "md5": "0aff2cadb37bded10760c28cad221d2a",
+      "size": 357444,
+      "uploadedDate": "2023-09-04T19:11:24.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PageMakerTextRenderActorAnimationLayoutTool_thumb-284x284-bd8b769b52d8e5c0d18c2b5a930ffe6c.png",
+      "md5": "bd8b769b52d8e5c0d18c2b5a930ffe6c",
+      "size": 54325,
+      "uploadedDate": "2023-09-04T19:11:24.774Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PageMakerTextRenderActorAnimationLayoutTool_featured-894x488-9943a864d9b8b6445966417f09cd3621.png",
+      "md5": "9943a864d9b8b6445966417f09cd3621",
+      "size": 188310,
+      "uploadedDate": "2023-09-04T19:11:24.824Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PageMakerSS2-1920x1080-dd9bfff805c3f5b649f26f3d16992de4_Snapshot.png",
+      "md5": "c881783eba3351944694880218475547",
+      "size": 3785,
+      "uploadedDate": "2023-09-04T19:11:24.174Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PageMakerSS4-1920x1080-f28ea5e6605ad4691f703e87e325a6ec_Snapshot.png",
+      "md5": "e3a73715f4046477ac72a4cf1fe05cc3",
+      "size": 3963,
+      "uploadedDate": "2023-09-04T19:11:24.332Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PageMakerSS3-1920x1080-e74efa284822e70cd1957cafaee9b0a1_Snapshot.png",
+      "md5": "112545a6db61a28102be7205bdfbc54c",
+      "size": 5041,
+      "uploadedDate": "2023-09-04T19:11:24.523Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PageMakerSS1-1920x1080-0aff2cadb37bded10760c28cad221d2a_Snapshot.png",
+      "md5": "fba9a02f5c3435e1ed015649cda44e41",
+      "size": 6510,
+      "uploadedDate": "2023-09-04T19:11:24.699Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "029c50b0c9c74bdda677ab7af4861aec"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}

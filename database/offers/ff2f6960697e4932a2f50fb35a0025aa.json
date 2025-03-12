@@ -1,0 +1,206 @@
+{
+  "id": "ff2f6960697e4932a2f50fb35a0025aa",
+  "namespace": "ue",
+  "title": "FLYING AI PATHFINDING",
+  "description": "A pathfinding solution for flying AI actor's. It can avoid any obstacle in it's path to the target location and it has a lot of settings for you to change movement speed, rotation or even performance related settings. Ready for multiplayer (replicated).",
+  "longDescription": "<p>This system gives your flying actors the ability to avoid obstacles until it reaches the desired destination. It does not need a navmesh and it detects the geometry in your level at runtime, even if your level changes during play. The system is replicated and works on multiplayer projects.</p><p><br /></p><p>Showcase: https://youtu.be/a37TYiobQkw</p><p><br /></p><p>All my other products: <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Advent&#43;Games?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">Click here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "flying-ai-pathfinding",
+  "creationDate": "2022-01-13T18:35:35.376Z",
+  "lastModifiedDate": "2024-10-26T17:54:27.269Z",
+  "effectiveDate": "2022-01-13T18:35:35.350Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-x97b7ufqxd8p5dge3d52s59lv8pj8m",
+    "name": "Advent Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Detects geometry in it&#39;s path at runtime, even dynamic, moving ones.</li><li> It can go around, bellow or above obstacles.</li><li> Can find a way out of complex environment&#39;s (experimental).</li><li>Tons of settings, including performance related ones, exposed for you to edit.</li><li>Does not need a navmesh or any pre-determined placed path points, it&#39;s fully dynamic.</li></ul><p><br /></p><p>Number of Blueprints: 3 (a example pawn, example game mode and the system&#39;s main component)</p><p>Input: None (AI controlled system)</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Yes</li></ul><p>Documentation:</p><ul><li>Showcase: https://youtu.be/a37TYiobQkw</li><li>How To Add Into Your Project: https://youtu.be/TzdExRVkzgQ</li><li>Support Discord: https://discord.gg/PyNzH7N</li></ul><p><br /></p><p>Important/Additional Notes: </p><ul><li>The system does not work to find small, specific entrances or holes in the level, as it doesn&#39;t predict a path over a long distance, it work&#39;s by analyzing the immediate surrounding&#39;s of the AI actor.</li><li>Make sure the collision component (sphere by default) in the AI pawn is the root component, Unreal uses the root component to sweep for collision on AI movement, if you dont use the root as collision the AI might get stuck on the environment meshes.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "92866f2a-912b-45ad-9d19-db560158e8f2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sceenshot1-1920x1080-7cd2f20a31e66295ea2cc9d7440e166d.png",
+      "md5": "7cd2f20a31e66295ea2cc9d7440e166d",
+      "size": 2371059,
+      "uploadedDate": "2022-01-11T21:37:01.704Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot2-1920x1080-dc95036c3b2b6808496105bd5ccffb62.png",
+      "md5": "dc95036c3b2b6808496105bd5ccffb62",
+      "size": 2713943,
+      "uploadedDate": "2022-01-11T21:37:02.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot3-1920x1080-9b0fd06229c95aedf76bbdfd152b4551.png",
+      "md5": "9b0fd06229c95aedf76bbdfd152b4551",
+      "size": 455205,
+      "uploadedDate": "2022-01-11T21:37:02.648Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FLYINGAIPATHFINDING_thumb-284x284-016e7f9f0c37fed5feabe70f9dc998ba.png",
+      "md5": "016e7f9f0c37fed5feabe70f9dc998ba",
+      "size": 80991,
+      "uploadedDate": "2022-01-11T21:37:03.013Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FLYINGAIPATHFINDING_featured-894x488-3c054da2d0cccd0520248f7ef15142b4.png",
+      "md5": "3c054da2d0cccd0520248f7ef15142b4",
+      "size": 372829,
+      "uploadedDate": "2022-01-11T21:37:03.118Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sceenshot1-1920x1080-7cd2f20a31e66295ea2cc9d7440e166d_Snapshot.png",
+      "md5": "01ddfad15007b435e625d6e7b2ef8912",
+      "size": 4076,
+      "uploadedDate": "2022-01-11T21:37:02.027Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot2-1920x1080-dc95036c3b2b6808496105bd5ccffb62_Snapshot.png",
+      "md5": "3b1b41f39b1a6076920b492e33e13368",
+      "size": 4283,
+      "uploadedDate": "2022-01-11T21:37:02.573Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot3-1920x1080-9b0fd06229c95aedf76bbdfd152b4551_Snapshot.png",
+      "md5": "c9f1100c5fc66fe24e187a8497a509b6",
+      "size": 4445,
+      "uploadedDate": "2022-01-11T21:37:02.880Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ce4eefce761a41178871fdad0c7ba8db"
+    }
+  ],
+  "catalogNs": null
+}

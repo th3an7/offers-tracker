@@ -1,0 +1,344 @@
+{
+  "id": "2a3d10bc2c4e41bd8e4a1ee1ad2420be",
+  "namespace": "ue",
+  "title": "Stylised Hair Shader",
+  "description": "An alternative Hair Shader Material with Material instance examples.",
+  "longDescription": "<p>This pack features an alternate shader method for producing hair. It avoids using intense math or light calculations so could be considered as fake but convincing hair which handles transparency and anisotropy in the nicest possible way.</p><p>Nine example materials have been created from the master shader material.</p><p>Supplied with a base RGB, Opacity and Normal Map of hair strands, along with a base hair wig with more to follow in future updates. These Hair stands were generated with Hair Strand Designer which generates the RGB mask maps used in this shader. If you want to drive your own custom colouring, simply paint the base various tones of Red, then paint the roots Green and the Tips Blue, this opens up the possibility of customising in the engine or even in your game.</p><p><br /></p><p>A Secondary shader has been setup to work with pre-existing colour textures. It also supports Frizz, AO and Depth images which also work in this alternative shader. Hair Strand Designer is sold separately and is a great way to produce all of the hair textures you will need.</p><p><br /></p><p>Parameters include: Fresnel , Dual Base colouring, Root and Tip Colouring, Normal Map bending, Shine, Specular,Frizz and Opacity control. Newly added - Rainbow or Oily effect that can be used as a base mix or even emissive.</p><p><br /></p><p><u>Videos:</u></p><p><a href=\"https://youtu.be/r0Mipq26yGQ\" rel=\"nofollow\"><strong><u>-- DEMO VIDEO --</u></strong></a></p><p><a href=\"https://youtu.be/8ksPxcNkTPs\" rel=\"nofollow\"><strong>-- RAINBOW EFFECT (UPDATE) --</strong></a></p><p><br /></p><p>Check out the above example videos for for details on how to use this shader.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylised-hair-shader",
+  "creationDate": "2019-04-29T13:33:17.989Z",
+  "lastModifiedDate": "2024-10-24T07:47:54.525Z",
+  "effectiveDate": "2019-04-29T13:33:17.820Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-de38fe2702471f9669010c31d32f36",
+    "name": "robert ramsay"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Uses RGB to drive Variation, Root and Tip Colours respectively.</li><li>Comes with a full array of parameters for the ideal overall look and feel</li><li>Will work as a realistic and stylised hair shader</li><li>Uses a new rainbow effect for the oily look, purely for style</li></ul><p><strong>Texture Resolutions:</strong></p><ul><li>Hair Strand Textures are 4096 * 4096</li><li>Frizz map is 2048*2048 with the ability to be tiled via the parameters.</li><li>Number of Materials: 9</li></ul><p><br /></p><p><strong>Do Materials derive from a Master Material with instances as variation:</strong> Yes</p><p><strong>Number of Textures</strong>: 4</p><p><strong>Supported Development Platforms:</strong> PC</p><p><strong>Supported Target Build Platforms: </strong>PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d66edcb0-db05-42f4-a516-5a5ddc5bddcf"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HairsSet-1920x1080-cb8a1171d7ffa508a71a9127e626ead3.png",
+      "md5": "cb8a1171d7ffa508a71a9127e626ead3",
+      "size": 1719918,
+      "uploadedDate": "2019-11-07T21:38:02.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-06c2a26a9c948edde06fe6823e079d75.png",
+      "md5": "06c2a26a9c948edde06fe6823e079d75",
+      "size": 1495557,
+      "uploadedDate": "2019-03-26T20:50:29.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-9928146212e17f2806a3a3aa33a727f5.png",
+      "md5": "9928146212e17f2806a3a3aa33a727f5",
+      "size": 1435024,
+      "uploadedDate": "2019-03-26T20:50:29.719Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-666712bd3f26be87f12f52264ac48685.png",
+      "md5": "666712bd3f26be87f12f52264ac48685",
+      "size": 1450014,
+      "uploadedDate": "2019-03-26T20:50:30.150Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-08cb3735ec803c16283d7ce56ee838dd.png",
+      "md5": "08cb3735ec803c16283d7ce56ee838dd",
+      "size": 1446814,
+      "uploadedDate": "2019-03-26T20:50:30.551Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00005-1920x1080-89057805d8a46cc0a10f093b561ebec7.png",
+      "md5": "89057805d8a46cc0a10f093b561ebec7",
+      "size": 2076980,
+      "uploadedDate": "2019-03-26T20:50:30.983Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-ffe231db3cd88c532a272e3b7a59f63d.png",
+      "md5": "ffe231db3cd88c532a272e3b7a59f63d",
+      "size": 2002506,
+      "uploadedDate": "2019-03-26T20:50:31.468Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-be006e3c7dc74e736dd06af4bae87a79.png",
+      "md5": "be006e3c7dc74e736dd06af4bae87a79",
+      "size": 2113120,
+      "uploadedDate": "2019-03-26T20:50:32.004Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 1-1920x1080-427905c349de8cd6c99a999773b9c461.png",
+      "md5": "427905c349de8cd6c99a999773b9c461",
+      "size": 1389492,
+      "uploadedDate": "2019-03-26T20:50:32.456Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MainHairen5thMarBest1HD-1920x1080-c29717451fa02e1270512054c4d71cd3.png",
+      "md5": "c29717451fa02e1270512054c4d71cd3",
+      "size": 1803343,
+      "uploadedDate": "2019-03-26T20:50:32.871Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylisedHairShader_thumb-284x284-73081f415567db40223518618500b983.png",
+      "md5": "73081f415567db40223518618500b983",
+      "size": 118388,
+      "uploadedDate": "2020-03-07T12:30:27.974Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylisedHairShader_featured-894x488-2ccf0697857d7f3f351f017d338d27e7.png",
+      "md5": "2ccf0697857d7f3f351f017d338d27e7",
+      "size": 647992,
+      "uploadedDate": "2020-03-07T12:30:28.100Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HairsSet-1920x1080-cb8a1171d7ffa508a71a9127e626ead3_Snapshot.png",
+      "md5": "895f79bc54069badcb6f3cfea10a0fe6",
+      "size": 7015,
+      "uploadedDate": "2019-11-07T21:38:03.285Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-06c2a26a9c948edde06fe6823e079d75_Snapshot.png",
+      "md5": "d1d89cfcf96eb7088e7371dabf3077af",
+      "size": 18009,
+      "uploadedDate": "2019-03-26T20:50:29.568Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-9928146212e17f2806a3a3aa33a727f5_Snapshot.png",
+      "md5": "1b044785ba94da8660a9ad00f7b17d8f",
+      "size": 18321,
+      "uploadedDate": "2019-03-26T20:50:29.963Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-666712bd3f26be87f12f52264ac48685_Snapshot.png",
+      "md5": "6a8f31823ab4a860c984db9903aad08c",
+      "size": 21693,
+      "uploadedDate": "2019-03-26T20:50:30.402Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-08cb3735ec803c16283d7ce56ee838dd_Snapshot.png",
+      "md5": "7d1ed929bd8b4872e56793d01eb66eb5",
+      "size": 19717,
+      "uploadedDate": "2019-03-26T20:50:30.784Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00005-1920x1080-89057805d8a46cc0a10f093b561ebec7_Snapshot.png",
+      "md5": "ac04a7aff4861ea47862ff91083df464",
+      "size": 23185,
+      "uploadedDate": "2019-03-26T20:50:31.244Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-ffe231db3cd88c532a272e3b7a59f63d_Snapshot.png",
+      "md5": "26db237a6b07baf8701f1ff871a2cfeb",
+      "size": 20861,
+      "uploadedDate": "2019-03-26T20:50:31.774Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-be006e3c7dc74e736dd06af4bae87a79_Snapshot.png",
+      "md5": "60a2e7c7da91c27f6e83888a12c64f37",
+      "size": 25256,
+      "uploadedDate": "2019-03-26T20:50:32.306Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 1-1920x1080-427905c349de8cd6c99a999773b9c461_Snapshot.png",
+      "md5": "adf56cadd233c83ca182b1201d8a62d1",
+      "size": 16712,
+      "uploadedDate": "2019-03-26T20:50:32.691Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MainHairen5thMarBest1HD-1920x1080-c29717451fa02e1270512054c4d71cd3_Snapshot.png",
+      "md5": "c7f241c489d86b3fa605b3313449568a",
+      "size": 21281,
+      "uploadedDate": "2019-03-26T20:50:33.090Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f719df66e57f418b9b6bccb6aca54245"
+    }
+  ],
+  "catalogNs": null
+}

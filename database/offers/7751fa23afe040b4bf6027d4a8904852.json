@@ -1,0 +1,288 @@
+{
+  "id": "7751fa23afe040b4bf6027d4a8904852",
+  "namespace": "ue",
+  "title": "GDXR UVRT Lite",
+  "description": "GDXR UVRT Lite provides a smooth locomotion movement method and a variety of interactable actors specificaly designed with Mobile Virtual Reality in mind.",
+  "longDescription": "<p>Built entierly with blueprints and designed for mobile VR (Suitable for desktop). This template provides you with a starting point to build your own vr projects/games with ease. Although not as complex and as indepth as the <a href=\"https://www.unrealengine.com/marketplace/en-US/product/87aaded1256e4df786ceeffd65e6f1ad\" rel=\"nofollow\">GDXR UVRT</a> project, it still provides everything you need to start building your own VR game/project.</p><p><br /></p><p><strong><u>This template is not replicated (Multiplayer is not setup). </u></strong></p><p><br /></p><p><strong><u>(Im working on tutorials and documentation so they will be up soon). </u></strong></p><p><br /></p><p><strong>Contents.</strong></p><p><strong>Movement</strong></p><ul><li>Ability to switch between teleport movement only and smooth locomotion with teleport movement. (Teleport is used by default).</li><li>Ability to switch between smooth rotation and snap rotation. (Snap Rotation Used by default).</li><li>Player can jump.</li><li>Examples of how to change movement and rotation at runtime.</li></ul><p><strong>Transitions</strong></p><ul><li>Load level with button press that includes VR screen fade example to fade in and out of levels.</li></ul><p><strong>Interactables</strong></p><ul><li>One hand pistol (Same as the default template).</li><li>Two handed Weapon Example</li><li> Snap Grabbing and Free Grabbing Examples. (Default template).</li><li>Crank Wheel with UMG example for out putting value.</li><li>Crank Wheel That rotates back to it&#39;s original location with UMG example.</li><li>Slider Example With UMG example.</li><li>Joy Stick with actor movement example.</li><li>Pull lever with actor example</li><li>Push buttons, these change color when pressed.</li><li>Sliding Draw example.</li><li>Key Card example.</li></ul><p><strong>Misc</strong></p><ul><li>Player hands are set to hidden when you grab an interactable actor.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gdxr-uvrt-lite",
+  "creationDate": "2024-08-12T22:02:01.333Z",
+  "lastModifiedDate": "2024-10-24T09:54:52.427Z",
+  "effectiveDate": "2024-08-12T22:02:01.290Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3zsp7lvtatbgamxr6fcc57ry5sjnma",
+    "name": "GDXR"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><p><strong>Movement</strong></p><ul><li>Ability to switch between teleport movement only and smooth locomotion with teleport movement. (Teleport is used by default).</li><li>Ability to switch between smooth rotation and snap rotation. (Snap Rotation Used by default).</li><li>Player can jump.</li><li>Examples of how to change movement and rotation at runtime.</li></ul><p><strong>Transitions</strong></p><ul><li>Load level with button press that includes VR screen fade example to fade in and out of levels.</li></ul><p><strong>Interactables</strong></p><ul><li>One hand pistol (Same as the default template).</li><li>Two handed Weapon Example</li><li> Snap Grabbing and Free Grabbing Examples. (Default template).</li><li>Crank Wheel with UMG example for out putting value.</li><li>Crank Wheel That rotates back to it&#39;s original location with UMG example.</li><li>Slider Example With UMG example.</li><li>Joy Stick with actor movement example.</li><li>Pull lever with actor example</li><li>Push buttons, these change color when pressed.</li><li>Sliding Draw example.</li><li>Key Card example.</li></ul><p><strong>Misc</strong></p><ul><li>Player hands are set to hidden when you grab an interactable actor.</li></ul><p><br /></p><p>Number of Blueprints: 25</p><p>Input: Enhanced input system with full motion controller support</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: Android, windows, PSVR, OpenXR</p><p>Windows: (Yes)</p><p>OpenXR (All VR Headsets)</p><p><br /></p><p>Documentation: https://dev.azure.com/GDXR/GDXR%20Ultimate%20VR%20Template/_wiki/wikis/GDXR-Ultimate-VR-Template.wiki/1/GDXR-Ultimate-VR-Template</p><p><br /></p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "fd2e0aaa-69d2-4927-a16e-c25705c46aed"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920-1920x1080-4abc181d869a4349b45e0f22ae6f2063.png",
+      "md5": "4abc181d869a4349b45e0f22ae6f2063",
+      "size": 1749206,
+      "uploadedDate": "2024-08-06T14:53:42.515Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192002-1920x1080-8f609765aeae36fe9f27ec66bd72dfee.png",
+      "md5": "8f609765aeae36fe9f27ec66bd72dfee",
+      "size": 1196617,
+      "uploadedDate": "2024-08-06T14:53:43.056Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192001-1920x1080-0ecaba687eed96e3b4c9bd84697a0335.png",
+      "md5": "0ecaba687eed96e3b4c9bd84697a0335",
+      "size": 1236142,
+      "uploadedDate": "2024-08-06T14:53:43.645Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192003-1920x1080-81ac00482afad3cd832d439c25995cca.png",
+      "md5": "81ac00482afad3cd832d439c25995cca",
+      "size": 1237526,
+      "uploadedDate": "2024-08-06T14:53:44.195Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192004-1920x1080-bc364e057f99f7de336d37606708ff08.png",
+      "md5": "bc364e057f99f7de336d37606708ff08",
+      "size": 981475,
+      "uploadedDate": "2024-08-06T14:53:44.814Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192006-1920x1080-26afcf1383929e6ccf8adda4397165de.png",
+      "md5": "26afcf1383929e6ccf8adda4397165de",
+      "size": 1022292,
+      "uploadedDate": "2024-08-06T14:53:45.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192007-1920x1080-264b7f2f315c2003445663aef2cbabf3.png",
+      "md5": "264b7f2f315c2003445663aef2cbabf3",
+      "size": 1003583,
+      "uploadedDate": "2024-08-06T14:53:46.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192005-1920x1080-ce9b06ac0782429896d575f715ea96a7.png",
+      "md5": "ce9b06ac0782429896d575f715ea96a7",
+      "size": 929391,
+      "uploadedDate": "2024-08-06T14:53:46.843Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GDXRUVRTLite_thumb-284x284-19d5b844213e7209340e948a32c1c3f7.png",
+      "md5": "19d5b844213e7209340e948a32c1c3f7",
+      "size": 103554,
+      "uploadedDate": "2024-08-06T14:53:47.210Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GDXRUVRTLite_featured-894x488-a39b916d14616101e8ea173273b3904e.png",
+      "md5": "a39b916d14616101e8ea173273b3904e",
+      "size": 498616,
+      "uploadedDate": "2024-08-06T14:53:47.428Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920-1920x1080-4abc181d869a4349b45e0f22ae6f2063_Snapshot.png",
+      "md5": "09fc95ccb00a580e8c62c1c16844d97a",
+      "size": 5864,
+      "uploadedDate": "2024-08-06T14:53:42.909Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192002-1920x1080-8f609765aeae36fe9f27ec66bd72dfee_Snapshot.png",
+      "md5": "b36c7c578faba91c8e5957bce33e3b8c",
+      "size": 5685,
+      "uploadedDate": "2024-08-06T14:53:43.440Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192001-1920x1080-0ecaba687eed96e3b4c9bd84697a0335_Snapshot.png",
+      "md5": "21066ef545901a9af6232d0b67931d4f",
+      "size": 4992,
+      "uploadedDate": "2024-08-06T14:53:43.997Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192003-1920x1080-81ac00482afad3cd832d439c25995cca_Snapshot.png",
+      "md5": "4fafbf74d41a0f955100de31c928d956",
+      "size": 5725,
+      "uploadedDate": "2024-08-06T14:53:44.553Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192004-1920x1080-bc364e057f99f7de336d37606708ff08_Snapshot.png",
+      "md5": "c0df8c74b6e24a55875b98dc3ca3be3e",
+      "size": 4184,
+      "uploadedDate": "2024-08-06T14:53:45.182Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192006-1920x1080-26afcf1383929e6ccf8adda4397165de_Snapshot.png",
+      "md5": "e8b13fc788a29f5859fb28e6b6f03226",
+      "size": 4754,
+      "uploadedDate": "2024-08-06T14:53:45.686Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192007-1920x1080-264b7f2f315c2003445663aef2cbabf3_Snapshot.png",
+      "md5": "e9049b23e15552ec4c2ffe4eb2e0a75c",
+      "size": 4581,
+      "uploadedDate": "2024-08-06T14:53:46.644Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192005-1920x1080-ce9b06ac0782429896d575f715ea96a7_Snapshot.png",
+      "md5": "ef19e528b010514170f257eb6a2326e2",
+      "size": 4570,
+      "uploadedDate": "2024-08-06T14:53:47.174Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b531ae8d87304407b9c0763c01b869da"
+    }
+  ],
+  "catalogNs": null
+}

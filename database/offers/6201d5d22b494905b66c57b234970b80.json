@@ -1,0 +1,185 @@
+{
+  "id": "6201d5d22b494905b66c57b234970b80",
+  "namespace": "ue",
+  "title": "Objectives System VR",
+  "description": "Blueprint system that allows ​you to ​draw 3D marker in VR and ​add objective​s in easy way​.",
+  "longDescription": "<p><strong>Update </strong></p><p>For Unreal Engine 4.17&#43;</p><p>Now implementation is much easier (each functionality is in Objective Component which makes it more clean and easy to setup). I&#39;ve also added few minor improvements to system: individual text for each objective, more options for Get To Point objective types.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;KGxVjeDlhiU\" rel=\"nofollow\"><strong>Preview</strong></a></p><p><a href=\"https://www.dropbox.com/s/0dnpatfsvuqkjoi/ObjectivesSystemVR_Demo.zip?dl&#61;0\" rel=\"nofollow\"><strong>Demo</strong></a></p><p><br /></p><p>100% Blueprint system using Objective Component storage in any character blueprint and drawing a 3D marker in VR on-screen and off-screen. This system will let you set new objectives types fast and easily.</p><p><br /></p><p>List of Features:</p><p>- Addable Objective Component to character Blueprint</p><p>- Addable Scene Component to HUD Blueprint</p><p>- Adjustable objective info Structure</p><p>- Marker draw compatible with any camera and viewport size</p><p>- Works in FPS and TPS</p><p>- Toggle between objectives</p><p>- Add objectives in editor and runtime</p><p>- Interface to use functions across Blueprints</p><p>- Built-in two types of objectives</p><p>- Multiplayer Support</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "objectives-system-vr",
+  "creationDate": "2017-02-28T15:07:39.702Z",
+  "lastModifiedDate": "2024-10-27T13:13:42.019Z",
+  "effectiveDate": "2017-03-08T00:00:00.000Z",
+  "viewableDate": "2017-03-08T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ed1b535b08429bafe9a2d15c297acf",
+    "name": "Spectral Labs"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "List of Features: <br />- Addable Objective Component to character Blueprint <br />- Markers are drawn in the distance 100u from character <br />- Adjustable objective info Structure <br />- Works in FPS and TPS <br />- Toggle between objectives <br />- Add objectives in editor and runtime <br />- Built-in two types of objectives <br />- 5 types of markers <br />- Multiplayer Support<br />Number of Blueprints: 8 <br />Number of Materials: 5 <br />Number of Textures: 10 <br />Documentation Included: Yes (editor tutorial &#43; demo level)",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6df78bb6-f90b-40d1-be2e-94302c4e75cc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ObjectivesSystemVR_Screenshot1-1920x1080-30564b9758f207b1419921616709a3c5.png",
+      "md5": "30564b9758f207b1419921616709a3c5",
+      "size": 543239,
+      "uploadedDate": "2017-02-28T15:06:17.504Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ObjectivesSystemVR_Screenshot2-1920x1080-2bb4b00c762e333d9b38e42bda9ab515.png",
+      "md5": "2bb4b00c762e333d9b38e42bda9ab515",
+      "size": 482487,
+      "uploadedDate": "2017-02-28T15:06:14.370Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ObjectivesSystemVR_Screenshot3-1920x1080-65169528208e774442386f43f0038d8f.png",
+      "md5": "65169528208e774442386f43f0038d8f",
+      "size": 403710,
+      "uploadedDate": "2017-02-28T15:06:11.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ObjectivesSystemVR_Screenshot4-1920x1080-6c85d24aac211e89202c67dedba13109.png",
+      "md5": "6c85d24aac211e89202c67dedba13109",
+      "size": 345574,
+      "uploadedDate": "2017-02-28T15:06:09.064Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ObjectivesSystemVR_Screenshot5-1920x1080-f19799d369a1d5d59726ee56f0a7f267.png",
+      "md5": "f19799d369a1d5d59726ee56f0a7f267",
+      "size": 242468,
+      "uploadedDate": "2017-02-28T15:06:06.523Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ObjectivesSystemVR_thumb-284x284-572101c4af08c84aa4caadbc8dcfe81d.png",
+      "md5": "572101c4af08c84aa4caadbc8dcfe81d",
+      "size": 30834,
+      "uploadedDate": "2018-02-16T07:41:28.416Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ObjectivesSystemVR_featured-894x488-862bd5fbe299a4282e4997bff0a27422.png",
+      "md5": "862bd5fbe299a4282e4997bff0a27422",
+      "size": 132545,
+      "uploadedDate": "2018-02-16T07:41:28.457Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "f993e86fac98430db0b645e668fa8961"
+    }
+  ],
+  "catalogNs": null
+}

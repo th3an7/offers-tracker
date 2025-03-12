@@ -1,0 +1,338 @@
+{
+  "id": "3789e3f665a0496fb6cbba1ead563c6a",
+  "namespace": "ue",
+  "title": "StatPal: Advanced Stat/Attribute System",
+  "description": "A compact & optimized standalone actor component designed for creating and managing stats and attributes seamlessly.",
+  "longDescription": "<p>Unleash the power of your characters with StatPal: Advanced Stat/Attribute System for Unreal Engine! Inspired by renowned MMORPGs, this comprehensive solution revolutionizes Stat/Attribute management for game developers. With a compact, optimized design, this component-based system enables seamless integration into any project.</p><p><br /></p><p>Elevate your gameplay experience with custom calculations and interdependent stats, allowing for dynamic interactions between different attributes. Whether you&#39;re creating a classic RPG or a modern adventure, this system offers unparalleled flexibility and control over your game&#39;s stats and attributes.</p><p><br /></p><p>Included with the system is a user-friendly stat panel and example item, providing a tangible demonstration of how the system can be easily integrated into your existing item systems. Empower your players with immersive gameplay mechanics and customizable character progression.</p><p><br /></p><p>Demonstration Video: <a href=\"https://www.youtube.com/watch?v&#61;zegpwOu9TOE\" rel=\"nofollow\">[Click Here]</a></p><p>Playable Demo: <a href=\"https://drive.google.com/file/d/1oG7o6k32HO5B7En3GKiX0MOjXOp4CBZS/view?usp&#61;sharing\" rel=\"nofollow\">[Click Here]</a></p><p>Documentation: <a href=\"https://isik.vip/docs/category/statpal---advanced-statattribute-system\" rel=\"nofollow\">[Click Here]</a></p><p>Help Discord: <a href=\"https://discord.gg/zHR7wKgEFA\" rel=\"nofollow\">[Click here]</a> (leave a comment with your Discord username for verification)</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "statpal-advanced-stat-attribute-system",
+  "creationDate": "2024-03-22T12:40:30.416Z",
+  "lastModifiedDate": "2024-10-27T02:04:31.783Z",
+  "effectiveDate": "2024-03-22T12:40:30.349Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2dlffbts7uwnxwnktc2k3c873lltqj",
+    "name": "isikdev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Inspired by popular MMORPGs, offering familiar functionality</li><li>Modular &amp; compact: UObject &amp; Component based</li><li>Independent &amp; interdependent stats/attributes (Stat X can affect Stat Y)</li><li>Custom calculations using Data Assets</li><li>Seamless integration into existing projects</li><li>User-friendly widgets</li><li>Flexible: Endless types of stats/attributes</li><li>Event-based: Implement event-driven mechanics triggered by changes in stats</li><li>Serialization support: Comes with a simple save &amp; load system</li><li>Examples demonstrating easy implementation: Example damage calculation formula &amp; example item equipping/unequipping</li></ul><p><br /></p><p>Number of Blueprints:</p><ul><li>10&#43; Blueprints</li><li>5&#43; Widget Blueprints</li><li>1 Actor Component</li></ul><p><br /></p><p>Input: Mouse &amp; Keyboard</p><p>Network Replicated: No (client based)</p><p>Supported Development Platforms: All</p><p>Important/Additional Notes: This pack contains free icons from <a href=\"http://game-icons.net/\" rel=\"nofollow\">game-icons.net</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1335",
+      "name": "ATMOSPHERIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:04.954Z",
+      "updated": "2019-06-20T12:01:04.954Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "de920717-e2e2-4f2d-a92a-32d24cf1ca74"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-ed6987d0541694ee6b14008ea59147d0.png",
+      "md5": "ed6987d0541694ee6b14008ea59147d0",
+      "size": 1158148,
+      "uploadedDate": "2024-03-20T15:54:55.494Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-6dee916103ce1c5771fc3292915a0d7e.png",
+      "md5": "6dee916103ce1c5771fc3292915a0d7e",
+      "size": 1575869,
+      "uploadedDate": "2024-03-20T15:54:57.320Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-b04e8ceef2c795346b7b0283328f2ab5.png",
+      "md5": "b04e8ceef2c795346b7b0283328f2ab5",
+      "size": 995137,
+      "uploadedDate": "2024-03-20T15:54:56.004Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-95aabddeb6c32da17544f4a8c112575f.png",
+      "md5": "95aabddeb6c32da17544f4a8c112575f",
+      "size": 387080,
+      "uploadedDate": "2024-03-20T15:54:56.501Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-42ab0dc6917597ad0b2424d93695956f.png",
+      "md5": "42ab0dc6917597ad0b2424d93695956f",
+      "size": 240417,
+      "uploadedDate": "2024-03-20T15:54:56.851Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StatPalAdvancedStatAttributeSystem_thumb-284x284-9b9fd9750b683901db58cd46de9d1d8b.png",
+      "md5": "9b9fd9750b683901db58cd46de9d1d8b",
+      "size": 7949,
+      "uploadedDate": "2024-03-20T15:54:57.730Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StatPalAdvancedStatAttributeSystem_featured-894x488-edbde0694f1ab1e4e5f069163caed2da.png",
+      "md5": "edbde0694f1ab1e4e5f069163caed2da",
+      "size": 434274,
+      "uploadedDate": "2024-03-20T15:54:57.857Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-ed6987d0541694ee6b14008ea59147d0_Snapshot.png",
+      "md5": "9bbfe154c2e1a3e39c686002b5c83650",
+      "size": 6058,
+      "uploadedDate": "2024-03-20T15:54:55.776Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-b04e8ceef2c795346b7b0283328f2ab5_Snapshot.png",
+      "md5": "cc4986c853978ff79459c71108d54aac",
+      "size": 5352,
+      "uploadedDate": "2024-03-20T15:54:56.287Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-95aabddeb6c32da17544f4a8c112575f_Snapshot.png",
+      "md5": "110d3ccf40082c22f80a3bf0fbd5fb0f",
+      "size": 5176,
+      "uploadedDate": "2024-03-20T15:54:56.710Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-42ab0dc6917597ad0b2424d93695956f_Snapshot.png",
+      "md5": "fa0797cdd473c67833dac800943d3154",
+      "size": 4420,
+      "uploadedDate": "2024-03-20T15:54:57.052Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-6dee916103ce1c5771fc3292915a0d7e_Snapshot.png",
+      "md5": "0e955f71688bdcebe1b36f0ff5a3a4a4",
+      "size": 6498,
+      "uploadedDate": "2024-03-20T15:54:57.646Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "339b4cb1ca6543cd8ae538c5a3f0d135"
+    }
+  ],
+  "catalogNs": null
+}

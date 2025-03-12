@@ -1,0 +1,434 @@
+{
+  "id": "6d874b00b82d4eae9ae472ff843d5af3",
+  "namespace": "ue",
+  "title": "VICODynamics: Rope/Cloth/Soft-Body Simulation Plugin",
+  "description": "A plugin for Unreal Engine to use the VICO Dynamics soft-body physics library.",
+  "longDescription": "<p>Preview: <a href=\"https://youtu.be/7Rs3joj0aMU\" rel=\"nofollow\">https://youtu.be/7Rs3joj0aMU</a></p><p><br /></p><p>This library is essentially engine independent, but it also simulates a much more accurate system with higher performance, support for multi-threaded and async simulation.</p><p><br /></p><p>Feature Rundown: <a href=\"https://youtu.be/rXN_St1CwBk\" rel=\"nofollow\">https://youtu.be/rXN_St1CwBk</a></p><p>Showcase: <a href=\"https://youtu.be/4xt7ydQWlwA\" rel=\"nofollow\">https://youtu.be/4xt7ydQWlwA</a></p><p><br /></p><p>Can now simulate cloth, either procedurally created sheets or by converting Static Meshes into Cloth, with collision, volume preservation, attachments, tension constraints, drag modifiers, applied forces and physically simulated wind with support for occlusion! And fluids are coming soon as well.</p><p>The beauty of using a particle based simulation is that you are never limited in what you can create out of particles and constraints.</p><p>Another big feature of the VICO Dynamics physics library; is that it runs on the CPU. This means it supports a wide variety of platforms: PC, Mobile and Console! No dependencies to any hardware. Has been tested on Windows, Xbox One, PS4/5, Nintendo Switch, Android, and Meta Quest. NOTE: Console access requires source and that the UE Plugin itself is WIP for Linux and Android (supported, but not production ready just yet).</p><p><br /></p><p>To receive source access to this plugin or the physics library via GitHub and have access to the very latest test versions, send an email with your Marketplace receipt and your GitHub username to <a href=\"mailto:vdue4&#64;vicogamestudio.com\" rel=\"nofollow\">vdue4&#64;vicogamestudio.com</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vico-dynamics-plugin",
+  "creationDate": "2015-12-15T19:53:07.072Z",
+  "lastModifiedDate": "2024-10-25T19:16:36.440Z",
+  "effectiveDate": "2016-09-29T00:00:00.000Z",
+  "viewableDate": "2016-09-29T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-89483a7d5341a1b3d20a0677c13d1e",
+    "name": "VICO Game Studio LLC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Technical Details: Intended Platforms: Windows, Android, VR (Consoles supported with access to Source)</p><p>Example Project: <a href=\"https://drive.google.com/file/d/1bnoKdlPlSR_Hy73Wkb8HQe_YrAJeylj0/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1bnoKdlPlSR_Hy73Wkb8HQe_YrAJeylj0/view?usp&#61;sharing</a> </p><p>Forum Support Thread: <a href=\"https://forums.unrealengine.com/showthread.php?79906-VICODynamics-a-particle-based-physics-library\" rel=\"nofollow\">https://forums.unrealengine.com/showthread.php?79906-VICODynamics-a-particle-based-physics-library</a></p><p>Tutorials Playlist: <a href=\"https://www.youtube.com/playlist?list&#61;PLrGqa6VIm-FjSZLHMKz8ROWTG7EPWnG7i\" rel=\"nofollow\">https://www.youtube.com/playlist?list&#61;PLrGqa6VIm-FjSZLHMKz8ROWTG7EPWnG7i </a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0249ad1a-981b-4f93-b068-22e42fe9f0e0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/VICODynamicsScreenshot1-1920x1080-5c544a4702d96ebd030882096ddbaaf2.png",
+      "md5": "5c544a4702d96ebd030882096ddbaaf2",
+      "size": 514525,
+      "uploadedDate": "2016-09-06T19:00:58.290Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (16) (Custom)-1920x1080-73713cff9317e05e0a440df336a9ab77.jpg",
+      "md5": "73713cff9317e05e0a440df336a9ab77",
+      "size": 101397,
+      "uploadedDate": "2017-10-02T15:26:02.240Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot00015 (Custom)-1920x1080-e3c42a34755b6203a229445b5dce1b59.jpg",
+      "md5": "e3c42a34755b6203a229445b5dce1b59",
+      "size": 198234,
+      "uploadedDate": "2017-10-02T15:42:27.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot00016 (Custom)-1920x1080-f3da8b07a1484fc6490da3de77b43f9b.jpg",
+      "md5": "f3da8b07a1484fc6490da3de77b43f9b",
+      "size": 158692,
+      "uploadedDate": "2017-10-02T15:42:27.839Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/VICODynamicsScreenshot3-1920x1080-769bfb8a9670d63f13d9887e293a0509.png",
+      "md5": "769bfb8a9670d63f13d9887e293a0509",
+      "size": 480764,
+      "uploadedDate": "2016-09-06T19:01:09.133Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/VICODynamicsScreenshot4-1920x1080-491371ef9c0d1d21840c6b3cbba8b335.png",
+      "md5": "491371ef9c0d1d21840c6b3cbba8b335",
+      "size": 523218,
+      "uploadedDate": "2016-09-06T19:01:13.602Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/VICODynamicsScreenshot2-1920x1080-60f1b8295c86a90f7cd539452176ab66.png",
+      "md5": "60f1b8295c86a90f7cd539452176ab66",
+      "size": 493421,
+      "uploadedDate": "2016-09-06T19:01:07.084Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (7) (Custom)-1920x1080-2241894a09ae58cd6cc398b00e4f08ad.jpg",
+      "md5": "2241894a09ae58cd6cc398b00e4f08ad",
+      "size": 110489,
+      "uploadedDate": "2017-10-02T15:26:01.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (6) (Custom)-1920x1080-5d3aa77eef5bf613b79e26b7f2091617.jpg",
+      "md5": "5d3aa77eef5bf613b79e26b7f2091617",
+      "size": 94750,
+      "uploadedDate": "2017-10-02T15:26:01.368Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (24) (Custom)-1920x1080-6fa1d9a23a6872c57e4e3752d148d2d3.jpg",
+      "md5": "6fa1d9a23a6872c57e4e3752d148d2d3",
+      "size": 77521,
+      "uploadedDate": "2017-10-02T15:26:01.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (11) (Custom)-1920x1080-c703ccee931d0f5c9b70673758b744b2.jpg",
+      "md5": "c703ccee931d0f5c9b70673758b744b2",
+      "size": 109057,
+      "uploadedDate": "2017-10-02T15:26:01.646Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (10) (Custom)-1920x1080-edaf1a614c581c14b7c56963cc2d790f.jpg",
+      "md5": "edaf1a614c581c14b7c56963cc2d790f",
+      "size": 111790,
+      "uploadedDate": "2017-10-02T15:26:01.881Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (8) (Custom)-1920x1080-6eb62ea16410238691f20d01b8a9d1ea.jpg",
+      "md5": "6eb62ea16410238691f20d01b8a9d1ea",
+      "size": 122641,
+      "uploadedDate": "2017-10-02T15:26:02.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (9) (Custom)-1920x1080-db976a5d38ddfb04946c9fef5d33be2d.jpg",
+      "md5": "db976a5d38ddfb04946c9fef5d33be2d",
+      "size": 112817,
+      "uploadedDate": "2017-10-02T15:26:02.131Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (14) (Custom)-1920x1080-a35e81a4d51353bf2725dea59ae2f647.jpg",
+      "md5": "a35e81a4d51353bf2725dea59ae2f647",
+      "size": 99297,
+      "uploadedDate": "2017-10-02T15:26:02.349Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (15) (Custom)-1920x1080-7e653c5144d160ff16180451bfc6a252.jpg",
+      "md5": "7e653c5144d160ff16180451bfc6a252",
+      "size": 103755,
+      "uploadedDate": "2017-10-02T15:26:02.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (19) (Custom)-1920x1080-0fcd86a5b332e6a1d7921d98b7a65b21.jpg",
+      "md5": "0fcd86a5b332e6a1d7921d98b7a65b21",
+      "size": 102260,
+      "uploadedDate": "2017-10-02T15:26:02.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (23) (Custom)-1920x1080-36e87a7df442dc32f901aa34814ea1b4.jpg",
+      "md5": "36e87a7df442dc32f901aa34814ea1b4",
+      "size": 57485,
+      "uploadedDate": "2017-10-02T15:26:02.705Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (21) (Custom)-1920x1080-9e532636dfba106f268ea28383ab6fb0.jpg",
+      "md5": "9e532636dfba106f268ea28383ab6fb0",
+      "size": 78112,
+      "uploadedDate": "2017-10-02T15:26:02.918Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (12) (Custom)-1920x1080-04f4c67d6a5d04547a8b0b8920763e32.jpg",
+      "md5": "04f4c67d6a5d04547a8b0b8920763e32",
+      "size": 114809,
+      "uploadedDate": "2017-10-02T15:26:03.039Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (13) (Custom)-1920x1080-b98fcb2656afbcdde64be1dbf66d857f.jpg",
+      "md5": "b98fcb2656afbcdde64be1dbf66d857f",
+      "size": 127431,
+      "uploadedDate": "2017-10-02T15:26:03.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (17) (Custom)-1920x1080-fb6912b85c1be4f7b3e021cc2b9dc972.jpg",
+      "md5": "fb6912b85c1be4f7b3e021cc2b9dc972",
+      "size": 150550,
+      "uploadedDate": "2017-10-02T15:26:03.294Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VICODynamicsScreenshot (18) (Custom)-1920x1080-35ad193e143feec2bdfbb627bb774356.jpg",
+      "md5": "35ad193e143feec2bdfbb627bb774356",
+      "size": 110157,
+      "uploadedDate": "2017-10-02T15:26:03.433Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot00013 (Custom)-1920x1080-35254f7ae64b5e5cdc5dce54a8ec05b7.jpg",
+      "md5": "35254f7ae64b5e5cdc5dce54a8ec05b7",
+      "size": 191004,
+      "uploadedDate": "2017-10-02T15:42:27.573Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot00017 (Custom)-1920x1080-a8212854370d034012ce7e34a69a8acb.jpg",
+      "md5": "a8212854370d034012ce7e34a69a8acb",
+      "size": 195775,
+      "uploadedDate": "2017-10-02T15:42:27.724Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/VICODynamics_Thumb-284x284-b46c25d35c19d0b5f4cb98289df99d60.png",
+      "md5": "b46c25d35c19d0b5f4cb98289df99d60",
+      "size": 42016,
+      "uploadedDate": "2016-09-06T19:01:27.618Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/VICODynamics_Featured-476x246-f1ca6fa99034c842f57509ce7cc59dcf.png",
+      "md5": "f1ca6fa99034c842f57509ce7cc59dcf",
+      "size": 471484,
+      "uploadedDate": "2016-09-06T19:00:54.226Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/VICODynamics_FeaturedNew-894x488-6bc4d94e97117acc36c4b4b5f04f5872.png",
+      "md5": "6bc4d94e97117acc36c4b4b5f04f5872",
+      "size": 124915,
+      "uploadedDate": "2016-09-06T19:00:55.967Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "26bb63d8bcf7435fb1105579c5776ef6"
+    }
+  ],
+  "catalogNs": null
+}

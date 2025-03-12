@@ -1,0 +1,314 @@
+{
+  "id": "7a11e9225c414f94b7a5e19139a42e49",
+  "namespace": "ue",
+  "title": "PathFinder",
+  "description": "PathFinding with TopDown/RTS-Cam",
+  "longDescription": "<p>A PathFinder with Topdown/RTS Camera</p><p><br /></p><p>Pathfinding: <a href=\"https://www.youtube.com/watch?v&#61;QqpaFlBx1KQ\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;QqpaFlBx1KQ</a></p><p>Camera: <a href=\"https://www.youtube.com/watch?v&#61;eEvKYroF2Qg\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;eEvKYroF2Qg</a></p><p>Documentation: <a href=\"http://wiki.teufel-engineering.com/en/pathfinding\" rel=\"nofollow\">http://wiki.teufel-engineering.com/en/pathfinding</a></p><p>QuickStart: https://www.youtube.com/watch?v&#61;yB-wIUuQccI</p><p><br /></p><p><u>V1.3.1 - Bugfix &#43; Update to Unreal Engine 5.3 (in Review) - 18.04.2024</u></p><ul><li>Some Issues with Installing latest Version.</li></ul><p><br /></p><p><u>V1.0.1 - Bugfix Package Project</u></p><p><br /></p><p>ControllerBase &#43; CameraControllerBase:</p><p><br /></p><p>CTRL &#43; E -- Rotate Cam Right (works also when Cam is locked to Unit )</p><p>CTRL &#43; Q - Rotate Cam Left (works also when Cam is locked to Unit )</p><p>CTRL &#43; Left Mouse Click -- Move Cam to Mouse Position</p><p>CTRL &#43; W -- Zoom Cam In</p><p>CTRL &#43; S -- Zoom Cam Out</p><p>CTRL &#43; HOLD SPACE -- Fast Zoom Out to Position</p><p>CTRL &#43; SPACE &#43; Left Mouse - Move Cam to Mouse Position</p><p>Mouse to Screen Edges -- Move Cam to Mouse Position</p><p>Right Click when Unit Selected -- Move Unit</p><p>Shift &#43; Right Click when Char. Sel. -- Move Unit through Waypoints</p><p>CTRL &#43; G when Unit Selected -- Lock Unit on Character</p><p>CTRL &#43; T when Unit Selected -- Switch to Third Person Mode</p><p>Press A when Character Selected - toggle Attack</p><p>Press A &#43; Left Click when Character Selected - Move to Position and Attack</p><p>Press A &#43; Left Click on Enemy - Focus this Enemy</p><p>HOLD TAB -- Show Control-Widget</p><p><br /></p><p>Pathfinding with Dijkstra</p><p><br /></p><p>Generate one or multiple Grids by Datatable. Check if it fits for the Enviorment. Add A CenterPoint to every Grid and load the Pathfinding via my PathProviderHUD. The Controller and a UnitBase as well as two example Maps are allready setup with this Project. You can easily create your own by duplicating my Blueprints and or Maps.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pathfinder-02",
+  "creationDate": "2023-04-01T17:31:34.023Z",
+  "lastModifiedDate": "2024-10-28T11:58:13.534Z",
+  "effectiveDate": "2023-04-01T17:31:33.982Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-c23yjldgpngkl34xmytfm89qemzycb",
+    "name": "Silvan Teufel"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (C&#43;&#43; ParentClasses)</p><ul><li>CameraBase</li><li>PathSeekerBase</li><li>UnitBase (No fighting, States are only: Idle, Run, Patrol ) - for fighting use my RTSUnitTemplate :-&gt; )</li><li>UnitControllerBase</li><li>ControllerBase &#43; Classes for Enhanced Keyboard Input</li><li>CameraControllerBase</li><li>HUDBase</li><li>PathProviderHUD</li><li>UnitBaseHealthBar</li><li>Projectile</li><li>SelectedIcon</li><li>Waypoint</li><li>DijkstraCenter</li><li>NoPathfindingArea</li><li>SelectedIcon</li><li>Waypoint</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li>PathFinder[Runtime]</li><li>Core, CoreUObject, Engine, InputCore</li><li>HeadMountedDisplay, NavigationSystem</li><li>AIModule</li><li>UMG</li></ul><p>Number of Blueprints: 24&#43; (Most times Based on C&#43;&#43; Class, used for Example)</p><p>Number of C&#43;&#43; Classes: 10&#43;</p><p>Network Replicated: No</p><p>Supported Development Platforms: Tested in Windows</p><p>Supported Target Build Platforms: Tested in Windows</p><p>Documentation: http://wiki.teufel-engineering.com/en/pathfinding</p><p>Example Project: https://www.youtube.com/watch?v&#61;ESS5PYtr9mU</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c05b9f96-110c-4353-9771-e0f9a8822828"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-4799dccf5171ada2a9cde60346b0560d.jpg",
+      "md5": "4799dccf5171ada2a9cde60346b0560d",
+      "size": 244977,
+      "uploadedDate": "2023-03-24T11:30:20.697Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-3244b23ed53493958ed1f5c2fcfa91ed.jpg",
+      "md5": "3244b23ed53493958ed1f5c2fcfa91ed",
+      "size": 248462,
+      "uploadedDate": "2023-03-24T11:30:21.054Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-6cf2964bae397539cef554d916656089.jpg",
+      "md5": "6cf2964bae397539cef554d916656089",
+      "size": 223596,
+      "uploadedDate": "2023-03-24T11:30:21.391Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-32f820603be780f7bbd340f0c94c1c34.jpg",
+      "md5": "32f820603be780f7bbd340f0c94c1c34",
+      "size": 67125,
+      "uploadedDate": "2023-03-24T11:30:21.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/22-1920x1080-fa3858d584c53655faf6d05c6a824bcb.jpg",
+      "md5": "fa3858d584c53655faf6d05c6a824bcb",
+      "size": 269027,
+      "uploadedDate": "2023-03-24T11:30:22.058Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/33-1920x1080-92a52d9cbe75404e53a87abf1952f645.jpg",
+      "md5": "92a52d9cbe75404e53a87abf1952f645",
+      "size": 300385,
+      "uploadedDate": "2023-03-24T11:30:22.438Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/44-1920x1080-f15515f7698d515023116c6e510c2ebb.jpg",
+      "md5": "f15515f7698d515023116c6e510c2ebb",
+      "size": 342056,
+      "uploadedDate": "2023-03-24T11:30:22.754Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/55-1920x1080-4a3b8890f33d7cca243c8513a930aa13.jpg",
+      "md5": "4a3b8890f33d7cca243c8513a930aa13",
+      "size": 392528,
+      "uploadedDate": "2023-03-24T11:30:23.111Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/66-1920x1080-d71cd60a0b7e5c36fb6e81693e024150.jpg",
+      "md5": "d71cd60a0b7e5c36fb6e81693e024150",
+      "size": 230115,
+      "uploadedDate": "2023-03-24T11:30:23.527Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PathFinder_thumb-284x284-98015211bc7df3facb76385505dccd9a.png",
+      "md5": "98015211bc7df3facb76385505dccd9a",
+      "size": 59539,
+      "uploadedDate": "2023-03-30T06:29:19.591Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PathFinder_featured-894x488-7d87fb7d9385aad23fd2778420a19d6c.png",
+      "md5": "7d87fb7d9385aad23fd2778420a19d6c",
+      "size": 104990,
+      "uploadedDate": "2023-03-24T11:30:23.961Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-4799dccf5171ada2a9cde60346b0560d_Snapshot.jpg",
+      "md5": "d4ed9171ab5a29bc64ae5fc6c3f3e265",
+      "size": 6076,
+      "uploadedDate": "2023-03-24T11:30:20.909Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-3244b23ed53493958ed1f5c2fcfa91ed_Snapshot.jpg",
+      "md5": "b6723c7390ec7930b6b49447240bf288",
+      "size": 6771,
+      "uploadedDate": "2023-03-24T11:30:21.266Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-6cf2964bae397539cef554d916656089_Snapshot.jpg",
+      "md5": "188bc5cddded5d2c7544c1220c87414e",
+      "size": 4080,
+      "uploadedDate": "2023-03-24T11:30:21.595Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-32f820603be780f7bbd340f0c94c1c34_Snapshot.jpg",
+      "md5": "5c1ca0b5996c8168b5ef286dacea47be",
+      "size": 3234,
+      "uploadedDate": "2023-03-24T11:30:21.929Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/22-1920x1080-fa3858d584c53655faf6d05c6a824bcb_Snapshot.jpg",
+      "md5": "ba0c763ddccacd8562bac98b15318d4e",
+      "size": 5447,
+      "uploadedDate": "2023-03-24T11:30:22.294Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/33-1920x1080-92a52d9cbe75404e53a87abf1952f645_Snapshot.jpg",
+      "md5": "3bc7c188aa9a95c73484f765a0d80d81",
+      "size": 5682,
+      "uploadedDate": "2023-03-24T11:30:22.675Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/44-1920x1080-f15515f7698d515023116c6e510c2ebb_Snapshot.jpg",
+      "md5": "bf148c4c2c68fcc3366a82c7ae6641c0",
+      "size": 5989,
+      "uploadedDate": "2023-03-24T11:30:22.991Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/55-1920x1080-4a3b8890f33d7cca243c8513a930aa13_Snapshot.jpg",
+      "md5": "33871ce5de1540e340940a4a1dcd80a7",
+      "size": 6729,
+      "uploadedDate": "2023-03-24T11:30:23.385Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/66-1920x1080-d71cd60a0b7e5c36fb6e81693e024150_Snapshot.jpg",
+      "md5": "c9143f16cf2ff2092f9f67495c245db0",
+      "size": 5558,
+      "uploadedDate": "2023-03-24T11:30:23.735Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "bf2d81ad971e4daf9ead10f1dd167e9b"
+    }
+  ],
+  "catalogNs": null
+}

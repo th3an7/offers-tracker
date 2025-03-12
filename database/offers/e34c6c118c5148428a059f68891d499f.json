@@ -1,0 +1,482 @@
+{
+  "id": "e34c6c118c5148428a059f68891d499f",
+  "namespace": "ue",
+  "title": "PITCH BLACK: Darkness Anywhere",
+  "description": "Place fading darkness anywhere with precise control.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;w6-5HgcBmgw\" rel=\"nofollow\">Video</a></p><p><a href=\"https://docs.google.com/document/d/1sro1kLc1o6LWLpr_NACjUdfyk95Gsz1MpdZT8Ta009E/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p><strong><em>PITCH BLACK</em></strong> lets you add darkness to your environments with precise control. Place <strong><em>PITCH BLACK</em></strong> actors in pits, corners, caves, and holes to cover them in absolute shadow. No light is powerful enough to overcome it.</p><p><br /></p><p>Plunging into the darkness fades your camera to black, as oblivion overcomes you.</p><p><br /></p><p>Create bottomless pits, horror game cameras, mysterious doorways, or creepy fogs.</p><p><br /></p><p>Each <strong><em>PITCH BLACK</em></strong> actor lets you customize:</p><ul><li>Location, Rotation, and Scale</li><li>Shape (Rectangular or ellipsoid)</li><li>Fade-in distance</li><li>View distance</li><li>Intensity</li><li>Real-time updates</li><li>Darken either inside or outside the mask</li></ul><p><br /></p><p><strong><em>PITCH BLACK</em></strong> achieves its effects in post processing, using the scene depth buffer to determine which pixels should receive darkness.</p><p><br /></p><p><strong><em>PITCH BLACK</em></strong> works with all types of lighting. It can darken both lit and unlit materials. Unlike volumetric materials, it works at all graphics levels.</p><p><br /></p><p>I&#39;m happy to answer any questions you have or provide support via <a href=\"mailto:d&#64;ngant.com\" rel=\"nofollow\">d&#64;ngant.com</a></p><p><br /></p><p>We&#39;re also on <a href=\"https://orbital-market.com/product/pitch-black-darkness-anywhere\" rel=\"nofollow\">Orbital-Market</a>.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pitch-black-darkness-anywhere",
+  "creationDate": "2024-04-29T00:34:22.163Z",
+  "lastModifiedDate": "2024-10-24T16:18:11.526Z",
+  "effectiveDate": "2024-04-29T00:42:53.445Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ymgjazheue6896l6cc25tagwws879g",
+    "name": "Daniel Gant"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong><em>PITCH BLACK</em></strong> features:</p><ul><li>1 Blueprint Actor for rectangular darkness </li><li>1 Blueprint Actor for ellipsoid darkness </li><li>1 Blueprint Actor base class for creating custom post-processing masked materials</li></ul><p><br /></p><p>Those features are supported by:</p><ul><li>1 Post Process Material for box-shaped darkness </li><li>1 Post Process Material for ellipsoid darkness </li><li>1 Material</li><li>6 Material Functions</li></ul><p><br /></p><p>The demo content additionally includes:</p><ul><li>2 Levels</li><li>16 Materials</li><li>8 Blueprints</li><li>4 Material Instances</li><li>14 Static Meshes</li><li>1 Static Mesh by Midge &#34;Mantissa&#34; Sinnaeve distributed under the Creative Commons CC0 license: https://mantissa.xyz/pages/free.html </li><li>Content from Epic&#39;s First Person Template</li></ul><p><br /></p><p>Total file size: About 700MB</p><p><br /></p><p>PITCH BLACK&#39;s primary offering (blueprints and materials) work both with or without Lumen and Nanite.</p><p><br /></p><p>Environments in the screenshots and demonstration video are included except where noted.  The demo project ships with Lumen and Nanite enabled. </p><p><br /></p><p>Translucent materials have some limitations in <strong><em>PITCH BLACK</em></strong>. The demo and documentation discuss this in depth.</p><p><br /></p><p>Documentation: https://docs.google.com/document/d/1sro1kLc1o6LWLpr_NACjUdfyk95Gsz1MpdZT8Ta009E/edit?usp&#61;sharing</p><p>Input: Keyboard, Mouse</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: No</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1114",
+      "name": "ARTIFICIAL INTELLIGENCE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.151Z",
+      "updated": "2019-06-20T11:59:15.151Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "eca0a1e2-ef06-4809-a8d3-0e5a2b357de2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Shrine 1-1920x1080-6510f9f952ea4759ec6c76fd340443b4.png",
+      "md5": "6510f9f952ea4759ec6c76fd340443b4",
+      "size": 746606,
+      "uploadedDate": "2024-04-23T21:31:28.014Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Waist-1920x1080-403ef982063b55a229865e4e83cf4711.png",
+      "md5": "403ef982063b55a229865e4e83cf4711",
+      "size": 949899,
+      "uploadedDate": "2024-04-23T21:31:28.497Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pit Outside-1920x1080-3e9189120876b9db53c9a658a0b1f52e.png",
+      "md5": "3e9189120876b9db53c9a658a0b1f52e",
+      "size": 1481116,
+      "uploadedDate": "2024-04-23T21:31:29.690Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pit Inside-1920x1080-b472069d55624ad41f604c410b033308.png",
+      "md5": "b472069d55624ad41f604c410b033308",
+      "size": 1368757,
+      "uploadedDate": "2024-04-23T21:31:30.302Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mannies-1920x1080-b8bb4ee5c4b7815ab13c7e611728dbcd.png",
+      "md5": "b8bb4ee5c4b7815ab13c7e611728dbcd",
+      "size": 726427,
+      "uploadedDate": "2024-04-23T21:31:29.149Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Night Sky-1920x1080-b5ac2217946b66c1a4b4ad89fc37bbea.png",
+      "md5": "b5ac2217946b66c1a4b4ad89fc37bbea",
+      "size": 2239661,
+      "uploadedDate": "2024-04-23T21:31:30.976Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Museum - Credited-1920x1080-c25bfdf1a71db739cfd30e0d8496b698.png",
+      "md5": "c25bfdf1a71db739cfd30e0d8496b698",
+      "size": 2809552,
+      "uploadedDate": "2024-04-23T21:31:31.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Garage - Credited-1920x1080-233e3efe5db1216f27600b221c5e06a0.png",
+      "md5": "233e3efe5db1216f27600b221c5e06a0",
+      "size": 2026062,
+      "uploadedDate": "2024-04-23T21:31:32.216Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pool-Credited-1920x1080-2b93a3d067dfeebc1ee05e6726f22768.png",
+      "md5": "2b93a3d067dfeebc1ee05e6726f22768",
+      "size": 2954478,
+      "uploadedDate": "2024-04-23T21:31:32.834Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Catwalk-Credited-1920x1080-61507200bfbcc0ecb40b964c0f3ce65c.png",
+      "md5": "61507200bfbcc0ecb40b964c0f3ce65c",
+      "size": 2218263,
+      "uploadedDate": "2024-04-23T21:31:33.398Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Basement 1 - Credited-1920x1080-a04f30afc4d5cdbf6efa7d566fab7cf7.png",
+      "md5": "a04f30afc4d5cdbf6efa7d566fab7cf7",
+      "size": 1443577,
+      "uploadedDate": "2024-04-23T21:31:33.932Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Comparison-1920x1080-ac0f3cb63c08a7cfb45d2e1061a6fb72.png",
+      "md5": "ac0f3cb63c08a7cfb45d2e1061a6fb72",
+      "size": 1132364,
+      "uploadedDate": "2024-04-25T17:21:01.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Editor-1920x1080-50411f2e5f2be0e76df5b04ed0d063d0.png",
+      "md5": "50411f2e5f2be0e76df5b04ed0d063d0",
+      "size": 1586383,
+      "uploadedDate": "2024-04-25T17:21:01.930Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PITCHBLACKDarknessAnywhere_thumb-284x284-04d9d364242c4d8e6de9e3c892c8e625.png",
+      "md5": "04d9d364242c4d8e6de9e3c892c8e625",
+      "size": 43736,
+      "uploadedDate": "2024-04-23T21:31:34.334Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PITCHBLACKDarknessAnywhere_featured-894x488-8d991492e34a8d465dde7b6f634b99b7.png",
+      "md5": "8d991492e34a8d465dde7b6f634b99b7",
+      "size": 138136,
+      "uploadedDate": "2024-04-23T21:31:34.385Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Comparison-1920x1080-ac0f3cb63c08a7cfb45d2e1061a6fb72_Snapshot.png",
+      "md5": "02bba2f3ecf113e2fc26cae4588c6c65",
+      "size": 6646,
+      "uploadedDate": "2024-04-25T17:21:01.687Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Editor-1920x1080-50411f2e5f2be0e76df5b04ed0d063d0_Snapshot.png",
+      "md5": "99aa80db539c8cb44d1bace0d18400b9",
+      "size": 5235,
+      "uploadedDate": "2024-04-25T17:21:02.354Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Shrine 1-1920x1080-6510f9f952ea4759ec6c76fd340443b4_Snapshot.png",
+      "md5": "6007e820c02d616f82240543b1cb500b",
+      "size": 5503,
+      "uploadedDate": "2024-04-23T21:31:28.323Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Waist-1920x1080-403ef982063b55a229865e4e83cf4711_Snapshot.png",
+      "md5": "77878588d6b442bc7decaf73841b8355",
+      "size": 4426,
+      "uploadedDate": "2024-04-23T21:31:28.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Mannies-1920x1080-b8bb4ee5c4b7815ab13c7e611728dbcd_Snapshot.png",
+      "md5": "ff1b76ab4a68783014bdd76fef0efdc6",
+      "size": 4478,
+      "uploadedDate": "2024-04-23T21:31:29.478Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pit Outside-1920x1080-3e9189120876b9db53c9a658a0b1f52e_Snapshot.png",
+      "md5": "374aad597f906f9e456bd81c1d97018a",
+      "size": 4693,
+      "uploadedDate": "2024-04-23T21:31:30.076Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pit Inside-1920x1080-b472069d55624ad41f604c410b033308_Snapshot.png",
+      "md5": "17d0c4fba8d845c019d2255a36902a56",
+      "size": 4048,
+      "uploadedDate": "2024-04-23T21:31:30.691Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Night Sky-1920x1080-b5ac2217946b66c1a4b4ad89fc37bbea_Snapshot.png",
+      "md5": "b6d541cf5983d55c97aef4eee31115c6",
+      "size": 6002,
+      "uploadedDate": "2024-04-23T21:31:31.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Museum - Credited-1920x1080-c25bfdf1a71db739cfd30e0d8496b698_Snapshot.png",
+      "md5": "de16a3a783ff50d4e9373522e571b2e6",
+      "size": 7665,
+      "uploadedDate": "2024-04-23T21:31:32.004Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Garage - Credited-1920x1080-233e3efe5db1216f27600b221c5e06a0_Snapshot.png",
+      "md5": "0c59e426d88f81d143309b2db5044615",
+      "size": 5187,
+      "uploadedDate": "2024-04-23T21:31:32.553Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pool-Credited-1920x1080-2b93a3d067dfeebc1ee05e6726f22768_Snapshot.png",
+      "md5": "63b54a16ca5c73ea3f9a789c1fc3c2c0",
+      "size": 7160,
+      "uploadedDate": "2024-04-23T21:31:33.236Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Catwalk-Credited-1920x1080-61507200bfbcc0ecb40b964c0f3ce65c_Snapshot.png",
+      "md5": "56128d0b2964c59da1eae21e884b9d35",
+      "size": 5313,
+      "uploadedDate": "2024-04-23T21:31:33.727Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Basement 1 - Credited-1920x1080-a04f30afc4d5cdbf6efa7d566fab7cf7_Snapshot.png",
+      "md5": "7a3490b5f65bea3523f11681c77cc81b",
+      "size": 4257,
+      "uploadedDate": "2024-04-23T21:31:34.258Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "06eb96a8f050431a807ca96a9e5a5c60"
+    }
+  ],
+  "catalogNs": null
+}

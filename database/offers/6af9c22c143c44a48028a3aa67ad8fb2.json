@@ -1,0 +1,224 @@
+{
+  "id": "6af9c22c143c44a48028a3aa67ad8fb2",
+  "namespace": "ue",
+  "title": "Minimap, Map and Navigation System",
+  "description": "Build a fully customized and texture based Minimap, Map and Navigation System for your next big title.",
+  "longDescription": "<p>MInimap, Map and Navigation System is a plugin designed to create customizable and optimized texture based Minimaps and Maps for your next big title. Forget dealing with the limitations of RenderTargets to design your Minimaps, which are performance heavy for larger worlds. This system can handle thousands of Points of Interest at a time without affecting the performance, and is designed keeping Open World RPGs in mind, however the flexibility and ease of implementation allows you to use this system in any kind of game you want, from archviz projects to real time strategy games. Actors represented as Points of Interest in the Minimaps and Maps are implemented via Datatable and each POI Actor class added to the Datatable has its own set of unique properties, making it simple to add a variety of different POI having different functionalities.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;zTLjtnlbFjU\" rel=\"nofollow\">Preview</a></p><p><a href=\"https://athian-docs.netlify.app/doc_minimapandmap.html\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://discordapp.com/invite/BJTZSs3\" rel=\"nofollow\">Join Discord</a></p><p><a href=\"https://drive.google.com/file/d/1ix_xSVaMEVyiOErCpB506EF_59oElMIh/view?usp&#61;sharing\" rel=\"nofollow\">Example Project</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "minimap-map-and-navigation-system",
+  "creationDate": "2019-01-24T02:51:00.844Z",
+  "lastModifiedDate": "2024-10-24T02:14:51.173Z",
+  "effectiveDate": "2019-01-24T02:51:00.789Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qw55kvk2ahanfsu8sk8ff39lbuyun9",
+    "name": "Athian Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Texture Based Minimap System</li><li>Transition between multiple Map regions in same level</li><li>Datatable driven Static and Dynamic Points of Interest</li><li>Centrical Player Position, where player marker always stays at the center</li><li>Rectangular and Circular Minimap, with AutoRotate feature to rotate the map with player rotation</li><li>Minimap Texture masking for non rectangular Bounds</li><li>Interactive Map , with Zoom and Pan functionalities</li><li>Tested Multiplayer Support</li><li>Customizable Navigation system, allowing user to add one or many Navigation Markers in the world, to display the location of the destination</li><li>Navigation Out of Bounds notification, to display custom markers when player camera view is not looking at the destination</li><li>Custom destination Actors can be added to highlight the destination from a distance</li><li>Navigation Exit Actors as optional local destinations, when target is at a different Bounds area</li></ul><p><br /></p><p>Code Modules:</p><ul><li> Module Name : IMapsAndNavigation</li><li> Module Type : Runtime</li></ul><p><br /></p><p>Number of Blueprints: 14</p><p>Number of C&#43;&#43; Classes: 14</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows , MacOS</p><p>Supported Target Build Platforms: Windows , MacOS , Android, IOS , PS4, Xbox One, Oculus, Steam VR</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1193",
+      "name": "CYBERPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:54.272Z",
+      "updated": "2022-08-24T18:46:51.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9e7ed615-2ebc-446b-b34d-5b7b837b3bf6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Minimap Map and Navigation System-1920x1080-0df9c9c37c2720db6a18b50dbd248520.png",
+      "md5": "0df9c9c37c2720db6a18b50dbd248520",
+      "size": 1268214,
+      "uploadedDate": "2019-01-08T19:30:23.300Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Minimap Map and Navigation System1-1920x1080-6b9721d5e02ace831da76e01a88febb5.png",
+      "md5": "6b9721d5e02ace831da76e01a88febb5",
+      "size": 1903534,
+      "uploadedDate": "2019-01-08T19:30:23.619Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Minimap Map and Navigation System5-1920x1080-0311e731a14b886ab392cf38344642da.png",
+      "md5": "0311e731a14b886ab392cf38344642da",
+      "size": 1465212,
+      "uploadedDate": "2019-01-08T19:30:23.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Minimap Map and Navigation System6-1920x1080-2f3987f0e8917050d6182851b6b8af5d.png",
+      "md5": "2f3987f0e8917050d6182851b6b8af5d",
+      "size": 764759,
+      "uploadedDate": "2019-01-08T19:30:24.225Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Minimap Map and Navigation System3-1920x1080-84f92e593395f6ca28799b4b16a80b4c.png",
+      "md5": "84f92e593395f6ca28799b4b16a80b4c",
+      "size": 330421,
+      "uploadedDate": "2019-01-08T19:30:24.431Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Minimap Map and Navigation System4-1920x1080-020a57a8116bfb4365c5473707f030c1.png",
+      "md5": "020a57a8116bfb4365c5473707f030c1",
+      "size": 1773359,
+      "uploadedDate": "2019-01-08T19:30:24.694Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MinimapMapandNavigationSystem_thumb-284x284-0285485cfc36b983f24a2cd4c5d6f0c9.png",
+      "md5": "0285485cfc36b983f24a2cd4c5d6f0c9",
+      "size": 130178,
+      "uploadedDate": "2023-01-07T19:55:05.358Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MinimapMapandNavigationSystem_featured-894x488-bdc1ffed7a5972e644b2a36c336057ab.png",
+      "md5": "bdc1ffed7a5972e644b2a36c336057ab",
+      "size": 428455,
+      "uploadedDate": "2019-01-08T19:30:25.192Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Minimap Map and Navigation System-1920x1080-0df9c9c37c2720db6a18b50dbd248520_Snapshot.png",
+      "md5": "74ca31eaa84cf31b112ec264aea0f60b",
+      "size": 15375,
+      "uploadedDate": "2019-01-08T19:30:23.440Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Minimap Map and Navigation System1-1920x1080-6b9721d5e02ace831da76e01a88febb5_Snapshot.png",
+      "md5": "5afd7b92996e2ed47581736300482992",
+      "size": 17728,
+      "uploadedDate": "2019-01-08T19:30:23.821Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Minimap Map and Navigation System5-1920x1080-0311e731a14b886ab392cf38344642da_Snapshot.png",
+      "md5": "d44f8ca98de4f933e2753296f7494fca",
+      "size": 15507,
+      "uploadedDate": "2019-01-08T19:30:24.122Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Minimap Map and Navigation System6-1920x1080-2f3987f0e8917050d6182851b6b8af5d_Snapshot.png",
+      "md5": "3a78eefcea08e35d0fb4684c42ce1608",
+      "size": 10021,
+      "uploadedDate": "2019-01-08T19:30:24.364Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Minimap Map and Navigation System3-1920x1080-84f92e593395f6ca28799b4b16a80b4c_Snapshot.png",
+      "md5": "5561e87fa6ec64ceeb65d57d2ea0ec72",
+      "size": 8374,
+      "uploadedDate": "2019-01-08T19:30:24.538Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Minimap Map and Navigation System4-1920x1080-020a57a8116bfb4365c5473707f030c1_Snapshot.png",
+      "md5": "9d95378ac8dc1137334ae994f768699d",
+      "size": 17896,
+      "uploadedDate": "2019-01-08T19:30:24.913Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2d05b0cd621043d492a1035ecbae80f1"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,392 @@
+{
+  "id": "355fd252670b4679951b4ac262e78282",
+  "namespace": "ue",
+  "title": "Advanced Laser System (Multiplayer ready)",
+  "description": "A very easy-to-use laser system that is simple to set up, suitable for all applications in solo or multiplayer",
+  "longDescription": "<p>You will find several non-exhaustive examples of what is possible to achieve with this LaserComponent. (Emitter, Receiver, Apply damage etc...)</p><p>The laser Component is replicate to be used in multiplayer.</p><p>You can also use this behavior without a Niagara system and as a classic line trace with reflection.</p><p><br /></p><blockquote><a href=\"https://youtu.be/JBnfXlZX-f0\" rel=\"nofollow\"><strong>Video</strong></a></blockquote><blockquote><a href=\"https://mega.nz/file/Me1nDYZI#PT_cIi99J61tfte3TGS6ptUNFctdMVr2oBfg8OdW_jA\" rel=\"nofollow\"><strong>De</strong></a><a href=\"https://mega.nz/file/FC1mlAwQ#5eIn197KU2B4XPGvFE_ocp40aTqwwE3UzQjVq45RC3Y\" rel=\"nofollow\"><strong>mo</strong></a></blockquote><blockquote><a href=\"https://market.jinou.ovh/documentation/show?id&#61;36\" rel=\"nofollow\"><strong>Documentation </strong></a></blockquote><blockquote><a href=\"https://discord.gg/2NXKYbxjUG\" rel=\"nofollow\"><strong>Discord</strong></a></blockquote>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "advanced-laser-system-02",
+  "creationDate": "2024-03-04T17:28:39.318Z",
+  "lastModifiedDate": "2024-10-27T20:52:49.495Z",
+  "effectiveDate": "2024-03-04T17:28:39.281Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-efnj8aaxbh25nqhg5fkq2es7nmtqb8",
+    "name": "Jinou's market"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 1 Laser Component</li><li> 1 Blueprint interface Laser</li><li>1 DamageType</li><li>1 PlayerController</li><li>1 MacroLibrary</li><li> 1 Structure</li><li>2 Niagaras System</li><li>1 SFX</li></ul><p>Number of Blueprints: 5 (15 in the demo)</p><p>Input: Keyboard</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Yes</li></ul><p>Documentation: <a href=\"https://market.jinou.ovh/documentation/show?id&#61;36\" rel=\"nofollow\">Link</a></p><p>Support : If you have any questions or problems you can join my <a href=\"https://discord.gg/2NXKYbxjUG\" rel=\"nofollow\">Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "54aa295e-e3c3-43c4-b2eb-4d2981ac9ab6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen3-1920x1080-e619a581b545de5189ca0e1301fa1a9a.jpg",
+      "md5": "e619a581b545de5189ca0e1301fa1a9a",
+      "size": 284548,
+      "uploadedDate": "2024-02-21T17:45:31.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen2-1920x1080-c517bd64cbcf475b2ba42847112787ee.png",
+      "md5": "c517bd64cbcf475b2ba42847112787ee",
+      "size": 2315128,
+      "uploadedDate": "2024-02-21T17:45:32.557Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen1-1920x1080-b6e83d72cc6fc365c1c4273ea2916f69.png",
+      "md5": "b6e83d72cc6fc365c1c4273ea2916f69",
+      "size": 2500000,
+      "uploadedDate": "2024-02-21T17:45:33.274Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen4-1920x1080-2bed095652eeba752671ef97cc65dcbb.jpg",
+      "md5": "2bed095652eeba752671ef97cc65dcbb",
+      "size": 292229,
+      "uploadedDate": "2024-02-21T17:45:34.204Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen5-1920x1080-d89b0426eabefcd05b4852fa058c21fe.jpg",
+      "md5": "d89b0426eabefcd05b4852fa058c21fe",
+      "size": 308977,
+      "uploadedDate": "2024-02-21T17:45:35.269Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen6-1920x1080-2ed92355ec65460911c333b79e72a294.jpg",
+      "md5": "2ed92355ec65460911c333b79e72a294",
+      "size": 325233,
+      "uploadedDate": "2024-02-21T17:45:36.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen7-1920x1080-bc4cd65c8f94b578034b440c20610453.jpg",
+      "md5": "bc4cd65c8f94b578034b440c20610453",
+      "size": 317917,
+      "uploadedDate": "2024-02-21T17:45:37.399Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen8-1920x1080-7382f1d9dc5f24b51ea9350f0d439a01.jpg",
+      "md5": "7382f1d9dc5f24b51ea9350f0d439a01",
+      "size": 216679,
+      "uploadedDate": "2024-02-21T17:45:38.446Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AdvancedLaserSystemMultiplayerready_thumb-284x284-b6c5d3a0cf97cc6328c868405a8dd90a.png",
+      "md5": "b6c5d3a0cf97cc6328c868405a8dd90a",
+      "size": 117512,
+      "uploadedDate": "2024-05-13T23:39:51.342Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AdvancedLaserSystemMultiplayerready_featured-894x488-819d740c28cdf822521099db2f7c7314.png",
+      "md5": "819d740c28cdf822521099db2f7c7314",
+      "size": 523847,
+      "uploadedDate": "2024-05-13T23:39:51.432Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen3-1920x1080-e619a581b545de5189ca0e1301fa1a9a_Snapshot.jpg",
+      "md5": "31a04b034021077892f07e5e3bb49260",
+      "size": 5999,
+      "uploadedDate": "2024-02-21T17:45:32.365Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen2-1920x1080-c517bd64cbcf475b2ba42847112787ee_Snapshot.png",
+      "md5": "73e34980ace2dba50a0bee09688618e0",
+      "size": 5931,
+      "uploadedDate": "2024-02-21T17:45:33.023Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen1-1920x1080-b6e83d72cc6fc365c1c4273ea2916f69_Snapshot.png",
+      "md5": "c8ad3c4f43d44b1b7f791242204583e7",
+      "size": 6379,
+      "uploadedDate": "2024-02-21T17:45:33.791Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen4-1920x1080-2bed095652eeba752671ef97cc65dcbb_Snapshot.jpg",
+      "md5": "f2335f5e3c40346e6a7988a8f91a05c7",
+      "size": 6129,
+      "uploadedDate": "2024-02-21T17:45:34.943Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen5-1920x1080-d89b0426eabefcd05b4852fa058c21fe_Snapshot.jpg",
+      "md5": "b84732111d07ab23092c197fe0e33968",
+      "size": 6357,
+      "uploadedDate": "2024-02-21T17:45:35.963Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen6-1920x1080-2ed92355ec65460911c333b79e72a294_Snapshot.jpg",
+      "md5": "332d137f2010d2e8285b61796fff5562",
+      "size": 6498,
+      "uploadedDate": "2024-02-21T17:45:37.013Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen7-1920x1080-bc4cd65c8f94b578034b440c20610453_Snapshot.jpg",
+      "md5": "f5a91da336787e0e73417fe04917e4d3",
+      "size": 5126,
+      "uploadedDate": "2024-02-21T17:45:38.095Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen8-1920x1080-7382f1d9dc5f24b51ea9350f0d439a01_Snapshot.jpg",
+      "md5": "6d696793adcd67b98c4fec7a18378279",
+      "size": 5167,
+      "uploadedDate": "2024-02-21T17:45:39.172Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d0145ddd82c6476d8db88107ee6bab18"
+    }
+  ],
+  "catalogNs": null
+}

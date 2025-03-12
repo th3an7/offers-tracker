@@ -1,0 +1,260 @@
+{
+  "id": "2d1749618b62421d88dc5120bf54ab64",
+  "namespace": "ue",
+  "title": "Ballistics System",
+  "description": "A line trace system solution for ballistics. It calculates damage reduction, penetration and ricochet based on the type of surface it hits, as well as the hit object size.",
+  "longDescription": "<p>Showcase: https://youtu.be/KmhNl1LbRkM</p><p><br /></p><p>A line trace system solution for ballistics. It calculates damage reduction, penetration and ricochet based on the type of surface it hits, as well as the hit object size. All the settings are exposed for you to change for each surface type you have in your project and the damage application is already replicated.</p><p>Also, using already placed interface events, you can easly add effects and sounds, both for the hit, exit and ricochet locations.</p><p>This offers a good and cheap solution for realistic ballistics for any shooter projects.</p><p><br /></p><p>All my other products: <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Advent&#43;Games?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">Click Here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ballistics-system",
+  "creationDate": "2021-09-17T21:01:51.407Z",
+  "lastModifiedDate": "2024-10-26T17:53:57.354Z",
+  "effectiveDate": "2021-09-17T21:01:51.364Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-x97b7ufqxd8p5dge3d52s59lv8pj8m",
+    "name": "Advent Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Bullet penetration based on surface type</li><li>Bullet ricochet based on surface type</li><li>Damage calculations based on penetration lenght and surface type</li><li>Cutomize any of the available settings (see in screenshots) for different surface types</li></ul><p><br /></p><p>Number of Blueprints: 2 (main) and 3 (Testing Level)</p><p>Input: Keyboard for testing (doenst influence the system)</p><p>Network Replicated: yes</p><p>Supported Development Platforms: Windows, Mac</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation:</p><ul><li>Import into another project: https://youtu.be/o8ey_dU7pOE</li></ul><p><br /></p><p>Important/Additional Notes: The surface types that appear in the system are the ones you have in your project settings and they are detected based on the physical material you have assigned in the traced material. (Watch the video in the documentation section if you are having problems or leave me a message in the &#34;questions&#34; tab).</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1199",
+      "name": "STEAMPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:57.224Z",
+      "updated": "2019-06-20T11:59:57.224Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f6f2b1ef-b307-4018-9d0f-b9b78021386d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot1-1920x1080-9877b7977c094872c22dcc5a26c5929b.png",
+      "md5": "9877b7977c094872c22dcc5a26c5929b",
+      "size": 2783581,
+      "uploadedDate": "2021-09-14T16:17:32.153Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot2-1920x1080-af9cda73d35fbfa0a5a21dd90a93aa23.png",
+      "md5": "af9cda73d35fbfa0a5a21dd90a93aa23",
+      "size": 2726155,
+      "uploadedDate": "2021-09-14T16:17:32.672Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot3-1920x1080-9dbb929f534dd5228c608115aae17d68.png",
+      "md5": "9dbb929f534dd5228c608115aae17d68",
+      "size": 561392,
+      "uploadedDate": "2021-09-14T16:17:33.154Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot4-1920x1080-8e893b88b6179583ed054c9f8448066e.png",
+      "md5": "8e893b88b6179583ed054c9f8448066e",
+      "size": 2387599,
+      "uploadedDate": "2021-09-14T16:17:33.668Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BallisticsSystem_thumb-284x284-4a9520118a99d33e26e58a5c475f75c0.png",
+      "md5": "4a9520118a99d33e26e58a5c475f75c0",
+      "size": 90576,
+      "uploadedDate": "2021-09-14T16:17:34.103Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BallisticsSystem_featured-894x488-ed7dea868dda88b9fe544ad4908c64f4.png",
+      "md5": "ed7dea868dda88b9fe544ad4908c64f4",
+      "size": 445633,
+      "uploadedDate": "2021-09-14T16:17:34.200Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot1-1920x1080-9877b7977c094872c22dcc5a26c5929b_Snapshot.png",
+      "md5": "c0eeb2971017b56fccda381c1c9a7cac",
+      "size": 4954,
+      "uploadedDate": "2021-09-14T16:17:32.469Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot2-1920x1080-af9cda73d35fbfa0a5a21dd90a93aa23_Snapshot.png",
+      "md5": "086183d71903d4234a387ebe5ecdea92",
+      "size": 5379,
+      "uploadedDate": "2021-09-14T16:17:33.027Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot3-1920x1080-9dbb929f534dd5228c608115aae17d68_Snapshot.png",
+      "md5": "c35736250bdb84f5c51e627da40ef51d",
+      "size": 5159,
+      "uploadedDate": "2021-09-14T16:17:33.450Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot4-1920x1080-8e893b88b6179583ed054c9f8448066e_Snapshot.png",
+      "md5": "019dbac5141c0eb0a045fea19c0fe2e5",
+      "size": 4702,
+      "uploadedDate": "2021-09-14T16:17:33.999Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2a8937c9367241bebd7c77a3cc647ad8"
+    }
+  ],
+  "catalogNs": null
+}

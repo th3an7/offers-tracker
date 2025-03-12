@@ -1,0 +1,356 @@
+{
+  "id": "89dbdac35e2f46dd8e16700eba0d3272",
+  "namespace": "ue",
+  "title": "OmniMaterial",
+  "description": "OmniMaterial boosts development speed with automated, adaptable material creation and input control.",
+  "longDescription": "<p>OmniMaterial is designed to optimize both developer speed and performance. It enables rapid in-engine texture adjustments while keeping instruction counts low through static switches. Automation simplifies material creation and assignment, with customizable conventions to match your workflow. The instance overview remains organized, offering a balance between functionality and ease of use.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "omnimaterial",
+  "creationDate": "2024-08-27T07:38:04.931Z",
+  "lastModifiedDate": "2024-10-29T08:10:30.740Z",
+  "effectiveDate": "2024-08-28T07:20:03.492Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-448dwpeb7nxmnvcm74w3lfuwqtvksc",
+    "name": "ArtSolutionCrafters"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2>Blueprint Features</h2><ul><li>Editor Utility Blueprint: Automates material instance creation</li><li>With Textures: Finds and assigns textures to material instances</li><li>With (Skeletal) Meshes Selected: Finds textures per slot, creates and assigns material instances</li><li>Sets blend mode (Translucent/Masked) and shading model (Subsurface) based on texture suffix</li><li>Customizable Conventions: Adjust texture type conventions in a datatable</li><li>Master Material Detection: Detects master material in the Content folder for flexible organization</li></ul><h2><br /></h2><h2>Material Features</h2><ul><li>Common Material Inputs: BaseColor, Metallic, Roughness, Ambient Occlusion, Normal, Specular, Emissive, Opacity (Masked), Displacement, Subsurface</li><li>Color adjustment: Hue Shift, Saturation, Contrast, Brightness, Tinting</li><li> Grayscale/Normal Adjustments: Intensity, Contrast and Inversion</li><li>Virtual Texture Support</li><li>Triplanar Projection: World Aligned &amp; Object Aligned</li><li>RGB(A) Texture Channel Selection</li><li>Texture Sharing between Slots</li><li>UV Adjustments: Offset, Rotate, Scale, Panning, Continous Rotation</li><li>Adjustable UV Index: use a different UV set for texture sampling</li><li>Unique UV adjustments: Textures can share or have unique UV adjustments</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Input: N/A</p><p>Network Replicated: N/A</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>Documentation: https://docs.google.com/document/d/1SFoPh1hfiO1vqYesPBYS2ZzgmICYuwSfaXmwhCJVKxo/edit?usp&#61;sharing</p><p>Important/Additional Notes: UE4.27 automation is partial; static switches need code.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3089e1fa-2198-4c77-930d-2e2373b435e4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1.OmniMaterial-1920x1080-2daa9cb4e760d8eff75d18289dc0a10f.png",
+      "md5": "2daa9cb4e760d8eff75d18289dc0a10f",
+      "size": 1043197,
+      "uploadedDate": "2024-08-21T10:32:32.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2.ExampleShot-1920x1080-64d1c1926fcc86186cb71a7092cf65ef.png",
+      "md5": "64d1c1926fcc86186cb71a7092cf65ef",
+      "size": 1111542,
+      "uploadedDate": "2024-08-21T10:32:32.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3.FeatureList-1920x1080-2799d35dd58e35bfd663d7061ce97881.png",
+      "md5": "2799d35dd58e35bfd663d7061ce97881",
+      "size": 180404,
+      "uploadedDate": "2024-08-21T10:32:33.007Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4.AutoMat-1920x1080-b06414452c72e59f40928d5c9fbe5a1f.png",
+      "md5": "b06414452c72e59f40928d5c9fbe5a1f",
+      "size": 903094,
+      "uploadedDate": "2024-08-21T10:32:33.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5.ConventionTable-1920x1080-878cf165c0c101e44185b6a56400713c.png",
+      "md5": "878cf165c0c101e44185b6a56400713c",
+      "size": 197627,
+      "uploadedDate": "2024-08-21T10:32:34.065Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7.OmniMaterialDemoLevel-1920x1080-d75473f9fd45830befb721b79bad0b8d.png",
+      "md5": "d75473f9fd45830befb721b79bad0b8d",
+      "size": 2036532,
+      "uploadedDate": "2024-08-21T13:34:14.351Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OmniMaterial_thumb-284x284-de7d034c84a5d78cb1b3367ae81fb4a9.png",
+      "md5": "de7d034c84a5d78cb1b3367ae81fb4a9",
+      "size": 90375,
+      "uploadedDate": "2024-08-30T06:58:47.122Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OmniMaterial_featured-894x488-10b38da5319f8f89d589a949e782b6ee.png",
+      "md5": "10b38da5319f8f89d589a949e782b6ee",
+      "size": 360658,
+      "uploadedDate": "2024-08-30T06:58:47.228Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7.OmniMaterialDemoLevel-1920x1080-d75473f9fd45830befb721b79bad0b8d_Snapshot.png",
+      "md5": "dc84f23fda64f776f7f755799986c17c",
+      "size": 4483,
+      "uploadedDate": "2024-08-21T13:34:14.767Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1.OmniMaterial-1920x1080-2daa9cb4e760d8eff75d18289dc0a10f_Snapshot.png",
+      "md5": "8470c406274ee31e0e137ad08de1d692",
+      "size": 3147,
+      "uploadedDate": "2024-08-21T10:32:32.479Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2.ExampleShot-1920x1080-64d1c1926fcc86186cb71a7092cf65ef_Snapshot.png",
+      "md5": "9098da28e1452dfcc8f9186f965ddf6b",
+      "size": 4246,
+      "uploadedDate": "2024-08-21T10:32:32.924Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3.FeatureList-1920x1080-2799d35dd58e35bfd663d7061ce97881_Snapshot.png",
+      "md5": "bf7ed7afe2803f551f61c9fc8a83467b",
+      "size": 5354,
+      "uploadedDate": "2024-08-21T10:32:33.270Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4.AutoMat-1920x1080-b06414452c72e59f40928d5c9fbe5a1f_Snapshot.png",
+      "md5": "2eaa26eedd4b796e9d9da7217add4197",
+      "size": 4876,
+      "uploadedDate": "2024-08-21T10:32:33.802Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5.ConventionTable-1920x1080-878cf165c0c101e44185b6a56400713c_Snapshot.png",
+      "md5": "731e577cf8cfd694c36f829d147c3804",
+      "size": 4316,
+      "uploadedDate": "2024-08-21T10:32:34.333Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "66eeccf4b509414e853a86983226185d"
+    }
+  ],
+  "catalogNs": null
+}
