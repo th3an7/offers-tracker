@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": "fuga-melodies-of-steel--deluxe-edition",
   "urlSlug": "lawngreen-deluxe-edition",
-  "creationDate": "2024-05-15T22:32:59.752Z",
-  "lastModifiedDate": "2024-12-03T16:05:59.520Z",
+  "creationDate": "2021-07-17T00:39:03.404Z",
+  "lastModifiedDate": "2025-03-13T01:05:34.317Z",
   "effectiveDate": "2021-07-29T01:00:00.000Z",
   "viewableDate": "2021-07-29T01:00:00.000Z",
   "developer": null,
@@ -35,6 +35,18 @@
     }
   ],
   "tags": [
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2023-08-21T13:03:30.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 90,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -68,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18104,
+      "referenceCount": 18155,
       "comment": null
     }
   ],
@@ -80,6 +92,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.blacklist",
@@ -94,12 +110,12 @@
       "value": "CyberConnect2"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "fuga-melodies-of-steel--deluxe-edition"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fuga-melodies-of-steel--deluxe-edition"
     }
   ],
   "keyImages": [
@@ -361,5 +377,7 @@
       "id": "d34211c2a66f4f27ae24a2d0beced0cc"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ee62d03be61b4eafa0936b21d0961693"
+  }
 }

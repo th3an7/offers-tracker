@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "4e57b2b4bfd24d1cb7abf6657a164e0c",
   "creationDate": "2022-09-13T00:54:49.390Z",
-  "lastModifiedDate": "2025-02-06T15:48:45.615Z",
+  "lastModifiedDate": "2025-03-12T06:35:48.409Z",
   "effectiveDate": "2024-11-12T22:25:21.000Z",
   "viewableDate": "2023-12-18T12:41:26.765Z",
   "developer": null,
@@ -36,6 +36,30 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -46,6 +70,18 @@
       "status": "ACTIVE",
       "referenceCount": 1144,
       "comment": null
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 945,
+      "comment": ""
     },
     {
       "id": "1370",
@@ -68,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18104,
+      "referenceCount": 18155,
       "comment": null
     }
   ],
@@ -83,7 +119,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

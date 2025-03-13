@@ -8,7 +8,7 @@
   "productSlug": "the-riftbreaker/deluxe-edition",
   "urlSlug": "the-riftbreaker-deluxe-edition",
   "creationDate": "2022-07-07T21:21:11.589Z",
-  "lastModifiedDate": "2025-02-24T16:01:38.944Z",
+  "lastModifiedDate": "2025-03-12T07:01:20.364Z",
   "effectiveDate": "2022-07-18T17:00:00.000Z",
   "viewableDate": "2022-07-18T17:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2263,
+      "referenceCount": 2265,
       "comment": ""
     },
     {
@@ -72,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18155,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -81,18 +93,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18104,
       "comment": null
     }
   ],
@@ -106,27 +106,58 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "publisherName",
       "value": "EXOR Studios"
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "developerName",
       "value": "EXOR Studios"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-riftbreaker/deluxe-edition"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-riftbreaker/deluxe-edition"
     }
   ],
   "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn2.unrealengine.com/egs-theriftbreakerdeluxeedition-exorstudios-editions-s2-1200x1600-9991eb8160fe.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-23T13:59:01.938Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn2.unrealengine.com/egs-theriftbreakerdeluxeedition-exorstudios-editions-s1-2560x1440-1a39cff0b95f.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-23T13:59:01.938Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn2.unrealengine.com/egs-theriftbreakerdeluxeedition-exorstudios-editions-s2-1200x1600-9991eb8160fe.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-03-23T13:59:01.938Z",
+      "width": 1200,
+      "height": 1600
+    },
     {
       "type": "heroCarouselVideo",
       "url": "com.epicgames.video://b8c229ce-4940-46a8-918f-ec99cd2e52ba?cover=https%3A%2F%2Fcdn2.unrealengine.com%2Fegs-theriftbreakerdeluxeedition-exorstudios-editions-g1c-00-1920x1080-06a1d092baf4.jpg",
@@ -282,39 +313,12 @@
     },
     {
       "type": "GalleryImage",
-      "url": "https://cdn2.unrealengine.com/deluxe-edition-baner-1920x1080-1920x1080-5a542e82e43a.png",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-23T13:59:01.938Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d146df9906eb4560b065d09de8ad7a30/the-riftbreaker-1mjbs.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 894348,
+      "uploadedDate": "2025-02-18T09:42:33.089Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn2.unrealengine.com/egs-theriftbreakerdeluxeedition-exorstudios-editions-s2-1200x1600-9991eb8160fe.jpg",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-23T13:59:01.938Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn2.unrealengine.com/egs-theriftbreakerdeluxeedition-exorstudios-editions-s1-2560x1440-1a39cff0b95f.jpg",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-23T13:59:01.938Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn2.unrealengine.com/egs-theriftbreakerdeluxeedition-exorstudios-editions-s2-1200x1600-9991eb8160fe.jpg",
-      "md5": "7810e895485e11f704d4fee66e07af9c",
-      "size": 1,
-      "uploadedDate": "2024-03-23T13:59:01.938Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [

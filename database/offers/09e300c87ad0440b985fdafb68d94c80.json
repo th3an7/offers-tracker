@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "7fbee7085b074215b8d0713af021ab9c",
   "creationDate": "2024-01-18T22:36:55.901Z",
-  "lastModifiedDate": "2025-01-12T23:54:18.272Z",
+  "lastModifiedDate": "2025-03-12T14:52:00.723Z",
   "effectiveDate": "2025-01-13T13:00:00.000Z",
-  "viewableDate": "2024-04-15T01:59:10.367Z",
+  "viewableDate": "2024-04-15T01:59:10.000Z",
   "developer": null,
   "seller": {
     "id": "o-rucwrek8exq96bxuv3lzaz7mp5wwv6",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1885,
+      "referenceCount": 1887,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2024-10-25T20:00:26.146Z",
-      "status": "ACTIVE",
-      "referenceCount": 258,
-      "comment": ""
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -104,8 +92,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18104,
+      "referenceCount": 18155,
       "comment": null
+    },
+    {
+      "id": "21739",
+      "name": "NFT BLOCKCHAIN",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-06-24T20:06:43.344Z",
+      "updated": "2024-10-25T20:00:26.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 262,
+      "comment": ""
     },
     {
       "id": "1310",
@@ -131,7 +131,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1457,
+      "referenceCount": 1464,
       "comment": null
     }
   ],
