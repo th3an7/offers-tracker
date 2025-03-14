@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "howl-demo",
-  "creationDate": "2023-11-27T15:58:56.882Z",
-  "lastModifiedDate": "2024-01-23T17:44:20.705Z",
+  "creationDate": "2022-11-24T12:30:26.043Z",
+  "lastModifiedDate": "2025-03-13T12:02:55.958Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-01-23T07:00:00.000Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "spthidden"
     },
     {
-      "path": "games/demo"
+      "path": "spthidden/notvisible/demo"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -53,7 +56,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2258,
+      "referenceCount": 2268,
       "comment": ""
     },
     {
@@ -65,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4949,
+      "referenceCount": 4954,
       "comment": ""
     },
     {
@@ -101,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18084,
+      "referenceCount": 18271,
       "comment": null
     },
     {

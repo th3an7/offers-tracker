@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "gp",
   "creationDate": "2024-04-02T19:37:07.508Z",
-  "lastModifiedDate": "2025-03-06T20:59:21.997Z",
+  "lastModifiedDate": "2025-03-13T19:14:39.763Z",
   "effectiveDate": "2024-04-17T15:40:00.000Z",
   "viewableDate": "2024-04-17T15:40:00.000Z",
   "developer": null,
@@ -28,13 +28,26 @@
       "path": "spthidden"
     },
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden/durable"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18271,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
   "keyImages": [],
   "items": [
