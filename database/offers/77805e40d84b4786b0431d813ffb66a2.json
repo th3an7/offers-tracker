@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "825c4e700e0643f18eb2ebeadaabe66e",
-  "creationDate": "2023-04-11T07:24:58.005Z",
-  "lastModifiedDate": "2024-11-05T16:02:47.945Z",
+  "creationDate": "2023-03-20T10:05:31.638Z",
+  "lastModifiedDate": "2025-03-14T09:26:55.176Z",
   "effectiveDate": "2023-04-14T16:00:00.000Z",
   "viewableDate": "2023-04-11T08:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2268,
+      "referenceCount": 2269,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4954,
+      "referenceCount": 4958,
       "comment": ""
     },
     {
@@ -84,6 +84,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18278,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -96,18 +108,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18271,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3544,
+      "referenceCount": 3553,
       "comment": null
     },
     {
@@ -140,6 +140,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -184,5 +188,7 @@
       "id": "c50ebd5320a347028ad1dae65f07b2a2"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "0e65d8e6338943e68169f928702c4706"
+  }
 }

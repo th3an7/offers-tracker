@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "e9c6ddc5224e428eb36b8efd9494f8b3",
   "creationDate": "2023-12-09T12:10:21.553Z",
-  "lastModifiedDate": "2024-11-30T00:00:48.035Z",
+  "lastModifiedDate": "2025-03-14T13:54:01.653Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-02-08T16:59:56.556Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -44,7 +44,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2268,
+      "referenceCount": 2269,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18271,
+      "referenceCount": 18278,
       "comment": null
     },
     {
@@ -118,6 +118,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -160,5 +164,7 @@
       "id": "d9b0b0127a9648d38be36fd67b4a77da"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "4b9bf181ec404f99bf552046c6b25ca0"
+  }
 }

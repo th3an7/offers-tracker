@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": "the-invincible",
   "urlSlug": "the-invincible",
-  "creationDate": "2024-05-07T15:44:06.171Z",
-  "lastModifiedDate": "2025-02-24T16:01:40.417Z",
+  "creationDate": "2022-01-07T23:51:15.284Z",
+  "lastModifiedDate": "2025-03-14T09:43:41.760Z",
   "effectiveDate": "2023-11-06T15:00:00.000Z",
   "viewableDate": "2022-01-27T11:00:00.000Z",
   "developer": null,
@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 251,
+      "comment": ""
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -59,7 +71,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4954,
+      "referenceCount": 4958,
       "comment": ""
     },
     {
@@ -83,7 +95,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18271,
+      "referenceCount": 18278,
       "comment": null
     },
     {
@@ -121,6 +133,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "true"
+    },
+    {
       "key": "publisherName",
       "value": "11 bit studios"
     },
@@ -129,12 +145,12 @@
       "value": "Starward Industries"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-invincible"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-invincible"
     }
   ],
   "keyImages": [

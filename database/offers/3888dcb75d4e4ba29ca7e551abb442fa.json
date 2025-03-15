@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "klonoa-phantasy-reverie-series",
   "creationDate": "2023-10-26T01:26:45.164Z",
-  "lastModifiedDate": "2024-11-05T16:02:47.945Z",
+  "lastModifiedDate": "2025-03-14T17:46:36.200Z",
   "effectiveDate": "2024-05-23T01:00:00.000Z",
   "viewableDate": "2024-05-23T01:00:00.000Z",
   "developer": null,
@@ -39,18 +39,6 @@
   ],
   "tags": [
     {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
-      "comment": null
-    },
-    {
       "id": "1216",
       "name": "Action",
       "namespace": "epic",
@@ -63,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -71,7 +71,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4954,
+      "referenceCount": 4958,
       "comment": ""
     },
     {
@@ -95,36 +95,36 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18271,
+      "referenceCount": 18278,
       "comment": null
     }
   ],
   "customAttributes": [],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/7120b2046fd845578509f66420ffc251/EGS_KLONOAPhantasyReverieSeries_MONKEYCRAFTCoLtd_S1_2560x1440-009372f1e6dd3a2a85c232e02d4e3724",
-      "md5": "009372f1e6dd3a2a85c232e02d4e3724",
-      "size": 882856,
-      "uploadedDate": "2024-05-22T17:14:30.582Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/7120b2046fd845578509f66420ffc251/EGS_KLONOAPhantasyReverieSeries_MONKEYCRAFTCoLtd_S2_1200x1600-1a9924e1119e0668605656ebd016f1ee",
-      "md5": "1a9924e1119e0668605656ebd016f1ee",
-      "size": 984575,
-      "uploadedDate": "2024-05-22T17:14:33.583Z",
+      "url": "https://cdn1.epicgames.com/offer/7120b2046fd845578509f66420ffc251/KPRS_Portrait_1200x1600-d17d0ca3aea4dff9b95d48017cd9337c",
+      "md5": "d17d0ca3aea4dff9b95d48017cd9337c",
+      "size": 778046,
+      "uploadedDate": "2025-03-07T19:39:36.688Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/7120b2046fd845578509f66420ffc251/KPRS_Landscape_2560x1440-ebce46a3682ef43f16e55cd0dff212fc",
+      "md5": "ebce46a3682ef43f16e55cd0dff212fc",
+      "size": 842864,
+      "uploadedDate": "2025-03-07T19:39:39.842Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/7120b2046fd845578509f66420ffc251/EGS_KLONOAPhantasyReverieSeries_MONKEYCRAFTCoLtd_S2_1200x1600-1a9924e1119e0668605656ebd016f1ee",
-      "md5": "1a9924e1119e0668605656ebd016f1ee",
-      "size": 984575,
-      "uploadedDate": "2024-05-22T17:14:36.678Z",
+      "url": "https://cdn1.epicgames.com/offer/7120b2046fd845578509f66420ffc251/KPRS_Portrait_1200x1600-d17d0ca3aea4dff9b95d48017cd9337c",
+      "md5": "d17d0ca3aea4dff9b95d48017cd9337c",
+      "size": 778046,
+      "uploadedDate": "2025-03-07T19:39:42.437Z",
       "width": 1200,
       "height": 1600
     }
@@ -134,5 +134,7 @@
       "id": "08170d4ec81f486187aec7fa95a5cae1"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "7120b2046fd845578509f66420ffc251"
+  }
 }
