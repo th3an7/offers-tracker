@@ -1,0 +1,422 @@
+{
+  "id": "1ddeed0e9dff490599b4a41d628312a5",
+  "namespace": "ue",
+  "title": "Ultimate Landscape Generator",
+  "description": "Procedural generate, edit & simulate  landscapes in less than 10 minutes for artists and non-artists.",
+  "longDescription": "<p>Overview: <a href=\"https://youtu.be/jofWTyUYQUM\" rel=\"nofollow\">YouTube</a></p><p>Tutorials: <a href=\"https://www.youtube.com/playlist?list&#61;PLkppAlnCMgMn7HKfULdRRIEzbliR4R4Ww\" rel=\"nofollow\">YouTube</a></p><p><br /></p><p>Ultimate Landscape is a plugin solution that provides a set of tools to generate &amp; simulate landscapes within the UE4 editor without any other external applications.</p><p>The ultimate Landscape plugin is made for both Artists and Non-Artists people to generate their stunning landscapes in less than 10 minutes.</p><p><br /></p><p>Suitable to create realistic, fantasy, top-down, and any other types of landscapes.</p><p>UL provides two new types of assets in the UE4 editor to create layers and then merge them inside modifiers.</p><p>You can delete these assets after sculpting the landscape and you don&#39;t need them to share or package the project.</p><p>Live landscape sculpting in modifier editor.</p><p>Blend heightmap layers using more than 18 different effects.</p><p>5 methods to generate height maps including importing from other software or editing any existing UE4 landscapes.</p><p>Flexible settings to generate an unlimited variety of height maps.</p><p>Apply multiple erosion effects on the landscape to makes it more natural.</p><p>Create unlimited sub-layers inside each layer file or filter them individually.</p><p>Heightmap editing tools in the editor such as Smoothing, Brightness, Contrast, and etc.</p><p>Single-click to export Height maps or Erosion masks from the plugin as a PNG file.</p><p>Fast speed generating height maps algorithms.</p><p>Optimization options to improve user experience.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ultimate-landscape",
+  "creationDate": "2020-06-14T16:35:06.968Z",
+  "lastModifiedDate": "2024-10-22T12:37:36.493Z",
+  "effectiveDate": "2020-06-14T16:35:05.198Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-42b00912df4814a8d9e24d86b2343d",
+    "name": "Vahid"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Fully procedural landscape generate inside the Unreal Engine 4 editor.</li><li> Suitable for Artists and non-Artists.</li><li> Made for beginners to professionals.</li><li>Includes 9 sample maps with layers &amp; modifiers.</li><li>Live landscape sculpting.</li><li>Simulate erosion effects with a variety of settings.</li><li>Generate natural landscapes in less than 10 minutes.</li><li>Create material masks to apply on landscape.</li><li>5 methods to generate height maps.</li><li>More than 18 blending options.</li><li>A variety of settings to control height maps.</li><li>Unlimited number of sub-layers.</li><li>Photo editing tools inside the editor.</li><li>Share or package the maps without any extra assets.</li><li>Fast and easy to generate landscape.</li><li>Optimizations methods.</li></ul><p>C&#43;&#43; Files : 67</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://www.youtube.com/playlist?list&#61;PLkppAlnCMgMn7HKfULdRRIEzbliR4R4Ww\" rel=\"nofollow\">YouTube</a></p><p>Important/Additional Notes:</p><p>Fully built in C&#43;&#43;</p><p>This plugin is made to use inside UE4 editor and you can&#39;t sculpt landscape during game-play.</p><p>Includes materials and skies from Unreal Engine 4 demo assets.</p><p>If you&#39;re using older versions of UE4 just generate your height maps in newer versions then export it as a PNG file from modifiers and import to your landscape.</p><p>If you experienced any crash you&#39;ve two different methods to fix (One of them should be enough):</p><p>1- Disable the &#34;Show Preview&#34;</p><p>2- Enable &#34;Store Raw Data&#34;</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "02298561-3731-47dc-b819-864488181fbe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/F4-1920x1080-5c9e4d19337b8674d549cbe1f1ec2f89.jpg",
+      "md5": "5c9e4d19337b8674d549cbe1f1ec2f89",
+      "size": 338958,
+      "uploadedDate": "2020-06-01T14:11:24.608Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/F1-1920x1080-a0363927ed7b5ef5684a85b8b338ee9d.jpg",
+      "md5": "a0363927ed7b5ef5684a85b8b338ee9d",
+      "size": 330146,
+      "uploadedDate": "2020-06-01T14:11:25.157Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/F2-1920x1080-4e6844351845861a47154a98f314e8a0.jpg",
+      "md5": "4e6844351845861a47154a98f314e8a0",
+      "size": 322984,
+      "uploadedDate": "2020-06-01T14:11:25.572Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/F3-1920x1080-2d21fa5f6861389e685dd1320b9d9ea0.jpg",
+      "md5": "2d21fa5f6861389e685dd1320b9d9ea0",
+      "size": 307453,
+      "uploadedDate": "2020-06-01T14:11:26.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/A1-1920x1080-5220f48e28bd0be7e7758a19efbe3acd.jpg",
+      "md5": "5220f48e28bd0be7e7758a19efbe3acd",
+      "size": 275824,
+      "uploadedDate": "2020-06-01T14:11:26.483Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/A2-1920x1080-6c8653afc9b3476697582b866962ebdb.jpg",
+      "md5": "6c8653afc9b3476697582b866962ebdb",
+      "size": 340486,
+      "uploadedDate": "2020-06-01T14:11:26.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/A3-1920x1080-728be87233ce230583d3ee6aa0639f14.jpg",
+      "md5": "728be87233ce230583d3ee6aa0639f14",
+      "size": 235771,
+      "uploadedDate": "2020-06-01T14:11:27.343Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/B1-1920x1080-9c78c7adac81b444097b2d72e9e2dac8.jpg",
+      "md5": "9c78c7adac81b444097b2d72e9e2dac8",
+      "size": 297227,
+      "uploadedDate": "2020-06-01T14:11:27.737Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/B2-1920x1080-9a62b13aec20d8de73d96cdf25ba8c68.jpg",
+      "md5": "9a62b13aec20d8de73d96cdf25ba8c68",
+      "size": 279226,
+      "uploadedDate": "2020-06-01T14:11:28.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/B3-1920x1080-206c734f0e4d88d37fd64b8d9242da9b.jpg",
+      "md5": "206c734f0e4d88d37fd64b8d9242da9b",
+      "size": 276373,
+      "uploadedDate": "2020-06-01T14:11:28.576Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/B4-1920x1080-eed8563df57fddcabcaceb5e21b2f809.jpg",
+      "md5": "eed8563df57fddcabcaceb5e21b2f809",
+      "size": 177356,
+      "uploadedDate": "2020-06-01T14:11:28.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/C2-1920x1080-f53b6a4e145093e12363086ebc4aa1d3.jpg",
+      "md5": "f53b6a4e145093e12363086ebc4aa1d3",
+      "size": 283207,
+      "uploadedDate": "2020-06-01T14:11:29.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/C4-1920x1080-abd2e919e0699f79a1bf7c39ae4f78bf.jpg",
+      "md5": "abd2e919e0699f79a1bf7c39ae4f78bf",
+      "size": 195737,
+      "uploadedDate": "2020-06-01T14:11:29.721Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UltimateLandscape_thumb-284x284-d07c4247ee247560d2efb8591d6fe362.png",
+      "md5": "d07c4247ee247560d2efb8591d6fe362",
+      "size": 159146,
+      "uploadedDate": "2020-06-01T14:11:30.009Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UltimateLandscape_featured-894x488-7b9e113bce6fa4308c5c4f4c47f01e16.png",
+      "md5": "7b9e113bce6fa4308c5c4f4c47f01e16",
+      "size": 540284,
+      "uploadedDate": "2020-06-01T14:11:30.119Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/F4-1920x1080-5c9e4d19337b8674d549cbe1f1ec2f89_Snapshot.jpg",
+      "md5": "446c2567e536963069010015198e65a9",
+      "size": 6025,
+      "uploadedDate": "2020-06-01T14:11:24.994Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/F1-1920x1080-a0363927ed7b5ef5684a85b8b338ee9d_Snapshot.jpg",
+      "md5": "5b77a0be3dfa89b4fc8ffc2419e7b1df",
+      "size": 5761,
+      "uploadedDate": "2020-06-01T14:11:25.414Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/F2-1920x1080-4e6844351845861a47154a98f314e8a0_Snapshot.jpg",
+      "md5": "a6c8db8d9f16c305dc1700d9627c8e41",
+      "size": 5575,
+      "uploadedDate": "2020-06-01T14:11:25.822Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/F3-1920x1080-2d21fa5f6861389e685dd1320b9d9ea0_Snapshot.jpg",
+      "md5": "06db890da9d0d78409b8ea47a170d925",
+      "size": 5353,
+      "uploadedDate": "2020-06-01T14:11:26.267Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/A1-1920x1080-5220f48e28bd0be7e7758a19efbe3acd_Snapshot.jpg",
+      "md5": "8c0e00eb2153e1f8c296c1a6ef7d0181",
+      "size": 5489,
+      "uploadedDate": "2020-06-01T14:11:26.749Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/A2-1920x1080-6c8653afc9b3476697582b866962ebdb_Snapshot.jpg",
+      "md5": "4bcc79ad240cb9570f65eae0be2e096f",
+      "size": 5765,
+      "uploadedDate": "2020-06-01T14:11:27.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/A3-1920x1080-728be87233ce230583d3ee6aa0639f14_Snapshot.jpg",
+      "md5": "18bc62307f4cb30f0f759bcae8ad7aee",
+      "size": 4936,
+      "uploadedDate": "2020-06-01T14:11:27.587Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/B1-1920x1080-9c78c7adac81b444097b2d72e9e2dac8_Snapshot.jpg",
+      "md5": "2dc6a0d8a472b309002eedb247cee46a",
+      "size": 6142,
+      "uploadedDate": "2020-06-01T14:11:27.995Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/B2-1920x1080-9a62b13aec20d8de73d96cdf25ba8c68_Snapshot.jpg",
+      "md5": "a7f5fa35c021e197c7ddadda10344a87",
+      "size": 4766,
+      "uploadedDate": "2020-06-01T14:11:28.456Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/B3-1920x1080-206c734f0e4d88d37fd64b8d9242da9b_Snapshot.jpg",
+      "md5": "6528009f23e6c7717a3def405c4e1ada",
+      "size": 4801,
+      "uploadedDate": "2020-06-01T14:11:28.855Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/B4-1920x1080-eed8563df57fddcabcaceb5e21b2f809_Snapshot.jpg",
+      "md5": "009a14dda1423b9fdee58bcdbcb93b59",
+      "size": 3939,
+      "uploadedDate": "2020-06-01T14:11:29.224Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/C2-1920x1080-f53b6a4e145093e12363086ebc4aa1d3_Snapshot.jpg",
+      "md5": "7a75688ea9919ab3223557bcc96501c4",
+      "size": 5252,
+      "uploadedDate": "2020-06-01T14:11:29.610Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/C4-1920x1080-abd2e919e0699f79a1bf7c39ae4f78bf_Snapshot.jpg",
+      "md5": "97b9de16d7c902abd50bdc328faf543c",
+      "size": 4394,
+      "uploadedDate": "2020-06-01T14:11:29.954Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2b92bb9eb7f74af5ae9559a4fb24f7d1"
+    }
+  ],
+  "catalogNs": null
+}

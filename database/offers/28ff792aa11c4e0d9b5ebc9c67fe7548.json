@@ -1,0 +1,209 @@
+{
+  "id": "28ff792aa11c4e0d9b5ebc9c67fe7548",
+  "namespace": "ue",
+  "title": "Projectile Path Tracer",
+  "description": "Dynamically predict and display the path of any physics projectile in real-time.",
+  "longDescription": "<p>Using a choice of functions or simple macros, the path of any physics projectile can be predicted and displayed through a beam particle.</p><p>Using the initial location and velocity, the beam created by the blueprint will align itself to follow the path the projectile will take, the point it will land, and even where it will bounce.</p><p>This can be used to aim grenades, arrows, or nearly any physics-based projectile.</p><p>You can also use the function to predict the path of a projectile independently, without displaying it. Like a highly advanced Line/Sphere/Capsule/Box Trace that accounts for physics.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;xCVfQOYyqQA&amp;feature&#61;youtu.be/\" rel=\"nofollow\">Video</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "projectile-path-tracer",
+  "creationDate": "2016-01-13T00:20:55.530Z",
+  "lastModifiedDate": "2024-10-18T01:26:24.067Z",
+  "effectiveDate": "2016-02-17T00:00:00.000Z",
+  "viewableDate": "2016-02-17T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-1c5998415740aab30839ed8a1e8e49",
+    "name": "Alchemic Iron Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>List of Features:</p><p>Functions and Macros for predicting and displaying the path of projectiles</p><p>• Predict the trajectory a projectile take through the air, where it will collide with a surface, and where it will bounce after collision</p><p>• Contains 5 different texture sets to customize the appearance of the beam (2 per set)</p><p>• Easy color customization of the beam</p><p>• Prediction can be updated in real time as needed by calling the function</p><p>• Efficient enough to update the trajectory every frame, even on mobile</p><p>• Works with any projectile by providing the required inputs</p><p><br /></p><p>Contains:</p><p>• 11 Functions</p><p>• 3 Macros</p><p>• 5 Particles</p><p>• 4 Materials</p><p>• 11 Textures</p><p>• 3 Demo levels with examples of usage for FPS, Third Person, and Sidescroller</p><p><br /></p><p>Platforms Tested: Desktop, iOS, Android</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "080237b4-4107-484c-8572-1ed90554cf4b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProjectilePathTracer_Screenshot1-1920x1080-80892530d3215eb1128c475c41772ed5.png",
+      "md5": "80892530d3215eb1128c475c41772ed5",
+      "size": 653899,
+      "uploadedDate": "2017-04-20T14:17:06.847Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProjectilePathTracer_Screenshot2-1920x1080-a0f463bd2e9039d14895396e6470b774.png",
+      "md5": "a0f463bd2e9039d14895396e6470b774",
+      "size": 512094,
+      "uploadedDate": "2017-04-20T14:17:04.810Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProjectilePathTracer_Screenshot3-1920x1080-34c46e8225826730df58416b46ab8aa2.png",
+      "md5": "34c46e8225826730df58416b46ab8aa2",
+      "size": 451696,
+      "uploadedDate": "2017-04-20T14:17:01.986Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProjectilePathTracer_Screenshot4-1920x1080-7bf19874b346134e7712574e988bdccf.png",
+      "md5": "7bf19874b346134e7712574e988bdccf",
+      "size": 700087,
+      "uploadedDate": "2017-04-20T14:17:00.589Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ProjectilePathTracer_Screenshot5-1920x1080-d53e2e566ab282b3df23ff1d0b8037c0.png",
+      "md5": "d53e2e566ab282b3df23ff1d0b8037c0",
+      "size": 334453,
+      "uploadedDate": "2017-04-20T14:16:59.128Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ProjectilePathTracer_Thumb-512x512-29af6d9292b464259cb5d4ea6c42c121.png",
+      "md5": "29af6d9292b464259cb5d4ea6c42c121",
+      "size": 307087,
+      "uploadedDate": "2017-04-20T14:16:57.703Z",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/ProjectilePathTracer_Featured-894x488-1445c83fc25ffc8207276e2b82a9c0a0.png",
+      "md5": "1445c83fc25ffc8207276e2b82a9c0a0",
+      "size": 434168,
+      "uploadedDate": "2017-04-20T14:17:08.381Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "12013619beec4c2789d7f9c733992f71"
+    }
+  ],
+  "catalogNs": null
+}

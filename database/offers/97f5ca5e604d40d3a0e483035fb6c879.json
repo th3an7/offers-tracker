@@ -1,0 +1,770 @@
+{
+  "id": "97f5ca5e604d40d3a0e483035fb6c879",
+  "namespace": "ue",
+  "title": "ILIAD - Paint and draw on Unreal Engine - Beta version",
+  "description": "Paint and draw with Blueprint brushes on Unreal Engine",
+  "longDescription": "<p><strong>ILIAD will not be supported anymore, as it&#39;s been replaced by Odyssey</strong>: <a href=\"https://praxinos.coop/odyssey.php\" rel=\"nofollow\">https://praxinos.coop/odyssey.php</a></p><p><br /></p><p><a href=\"https://www.youtube.com/channel/UCdSBI-_VlBRRRjY_tDz73xQ\" rel=\"nofollow\">Watch our videos on YouTube</a>!</p><p>ILIAD is a painting plugin with a dedicated interface to edit and create 2D textures directly in Unreal Engine. Express your art thanks to our powerful Blueprint-based brush engine and create brushes to make traditional tools (crayons, paintbrushes, grease pencils...) with specific value (symmetry on various axes, seamless results, etc.)</p><p><br /></p><p>ILIAD can suit several purposes, such as :</p><p>• editing 2D textures used in materials on 3D assets (diffuse, specular, normal, etc.)</p><p>• creating 2D images like tile sets or sprites for 2D video games</p><p>• drawing sketches for storyboard or design</p><p>• making 2D animations</p><p>Video game, animation, architecture, automotive... ILIAD can be helpful for any industries!</p><p><br /></p><p><strong>Need help or advice with ILIAD ? </strong></p><p>You can join Praxinos team on <a href=\"https://discordapp.com/invite/gEd6pj7\" rel=\"nofollow\">discord</a> to chat with us and share your projects!</p><p><br /></p><p><strong>Love our plugin and want to help our team ?</strong></p><p>You can support us on <a href=\"https://www.patreon.com/praxinos\" rel=\"nofollow\">Patreon </a>and get a new pack of brushes every month!</p><p><br /></p><p><strong><u>UE 4.23 users</u></strong>: brushes are <strong><u>not</u></strong> included by default,<a href=\"https://my.pcloud.com/publink/show?code&#61;XZKDnhkZxPllnjP3N0F3H37HKiSIVHsqOLmV\" rel=\"nofollow\"> you must download this project</a>.</p><p><strong><u>UE 4.27 users</u></strong>: If you&#39;re experiencing crashing when opening a texture (which may happen on Windows if you&#39;ve never installed tablet drivers before), please change this setting: Editor Preferences &gt; search “Stylus”&gt; Set Stylus input driver to “none”.</p><p><br /></p><p>About ULIS: ULIS is a library developed by our own company, Praxinos. The license agreement of ULIS only concerns software companies or developers willing to use it to create a new application from it. ULIS being included in ILIAD as a compiled library, it is not concerned anymore by its original license agreement. Feel free then to use ILIAD for any type of content, accordingly to the Marketplace EULA.</p><p>If you are interested in developing a new application or software using ULIS and its source code, <a href=\"https://praxinos.coop/ulis.php\" rel=\"nofollow\">please click here</a> to find more information.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "iliad-intelligent-layered-imaging-architecture-for-drawing-beta-version",
+  "creationDate": "2019-12-18T09:24:07.569Z",
+  "lastModifiedDate": "2024-10-15T09:11:52.137Z",
+  "effectiveDate": "2019-12-18T09:24:07.523Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wvhu7wtvnzxs282ebp7a2dtsdpbkry",
+    "name": "PraxinosCoop"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Edit Textures directly in Unreal Viewport or through the Texture Editor</li><li>Create 2D animations</li><li>Static Mesh selector</li><li>Color Selectors (RGB, HSL, HSV, Lab)</li><li>Layer stack saved within Texture data</li><li>40 Blending modes and 9 Alpha modes (erase, multiply, overlay, burn, etc)</li><li>Blueprint-based brushes with dedicated nodes</li><li>Compatible with graphic tablet &amp; pressure sensitive (plus tilt and azimuth)</li><li>Exports layers as 2D textures</li><li>Many shortcuts (pan, rotate, clear, fill, etc)</li><li>Create and edit any Texture 2D</li><li>Includes 75 brushes: pencils, chalks, watercolour, etc</li><li><strong> </strong>Import PSD files as Texture2D</li><li>Export Texture2D as PNG, JPG, BMP and TGA <strong> </strong></li><li><strong> </strong>Supported platforms : Win64 bit and MacOS BigSur</li><li>...and so much more!</li></ul><p><br /></p><p>Please, keep in mind this is a beta version : you may experience bugs and issues.</p><p><a href=\"https://praxinos.coop/Documentation/Iliad/User/html/Iliad-User-Documentation/Release-Notes/Version-0.8/\" rel=\"nofollow\">ILIAD Release note</a></p><p><a href=\"https://github.com/Praxinos/Iliad\" rel=\"nofollow\">Official Repository</a></p><p><a href=\"https://praxinos.coop/Documentation/Iliad/Developer/version/v0.7.427/\" rel=\"nofollow\">Developer Documentation</a></p><p><a href=\"https://praxinos.coop/Documentation/Iliad/User/html/\" rel=\"nofollow\">User Documentation</a></p><p><a href=\"https://praxinos.coop\" rel=\"nofollow\">Praxinos Website</a></p><p><a href=\"https://discordapp.com/invite/gEd6pj7\" rel=\"nofollow\">Praxinos Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "43e893fd-2444-4d4b-ac7c-d0229b28d61d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo001-1920x1080-e23f339b8c4feeb15823cd2320304552.png",
+      "md5": "e23f339b8c4feeb15823cd2320304552",
+      "size": 1005886,
+      "uploadedDate": "2022-05-06T07:41:12.472Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo002-1920x1080-e5f47b91765da9a1d0f20339584017bc.png",
+      "md5": "e5f47b91765da9a1d0f20339584017bc",
+      "size": 507708,
+      "uploadedDate": "2022-05-06T07:41:12.989Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo003-1920x1080-f86cbf82960ca3e3945905977a71d0f0.png",
+      "md5": "f86cbf82960ca3e3945905977a71d0f0",
+      "size": 1412403,
+      "uploadedDate": "2022-05-06T07:41:13.369Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo004-1920x1080-9115e90194d6dc488435d2f7523b0e83.png",
+      "md5": "9115e90194d6dc488435d2f7523b0e83",
+      "size": 1069974,
+      "uploadedDate": "2022-05-06T07:41:13.676Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo005-1920x1080-99d89153d8667df8e34d4220129b63b9.png",
+      "md5": "99d89153d8667df8e34d4220129b63b9",
+      "size": 3113576,
+      "uploadedDate": "2022-05-06T07:41:14.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo006-1920x1080-c19d5c21cb7985160090e36f55b850dd.png",
+      "md5": "c19d5c21cb7985160090e36f55b850dd",
+      "size": 1841901,
+      "uploadedDate": "2022-05-06T07:41:14.801Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo007-1920x1080-afd676724e9a8e5abdaa6120310eaf35.png",
+      "md5": "afd676724e9a8e5abdaa6120310eaf35",
+      "size": 734131,
+      "uploadedDate": "2022-05-06T07:41:15.344Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo008withoutshapes-1920x1080-99e32cdcf235afc930da7b23b671f305.png",
+      "md5": "99e32cdcf235afc930da7b23b671f305",
+      "size": 495784,
+      "uploadedDate": "2022-06-22T08:41:02.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo009-1920x1080-b933b6fd754f918a20dfd1ed5a5fa9c8.png",
+      "md5": "b933b6fd754f918a20dfd1ed5a5fa9c8",
+      "size": 768974,
+      "uploadedDate": "2022-05-06T07:41:16.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo010-1920x1080-dc4a32284bcba37af45c1812d4d5f41f.png",
+      "md5": "dc4a32284bcba37af45c1812d4d5f41f",
+      "size": 1868335,
+      "uploadedDate": "2022-05-06T07:41:16.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo011withoutshapes-1920x1080-26f9b1b250e3fbacb12525298c528365.png",
+      "md5": "26f9b1b250e3fbacb12525298c528365",
+      "size": 1234700,
+      "uploadedDate": "2022-06-22T08:41:02.596Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IliadPromo012-1920x1080-793cae3e3e5e16520882e63a2cb88cce.png",
+      "md5": "793cae3e3e5e16520882e63a2cb88cce",
+      "size": 388290,
+      "uploadedDate": "2022-05-06T09:09:07.267Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ILIADIntelligentLayeredImagingArchitectureforDrawingBetaversion_thumb-284x284-1d24a197e37216bc08707143b3a6f86c.png",
+      "md5": "1d24a197e37216bc08707143b3a6f86c",
+      "size": 8550,
+      "uploadedDate": "2021-01-18T20:47:11.960Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ILIADPaintanddrawonUnrealEngineBetaversion_featured-894x488-95acbcb4ebee440b0d315f64148135d4.png",
+      "md5": "95acbcb4ebee440b0d315f64148135d4",
+      "size": 559918,
+      "uploadedDate": "2022-05-06T12:12:20.998Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo008withoutshapes-1920x1080-99e32cdcf235afc930da7b23b671f305_Snapshot.png",
+      "md5": "28885e11c771a6809247e770f8623aca",
+      "size": 6703,
+      "uploadedDate": "2022-06-22T08:41:02.413Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo011withoutshapes-1920x1080-26f9b1b250e3fbacb12525298c528365_Snapshot.png",
+      "md5": "df57210f526980659f86e469860d0144",
+      "size": 8605,
+      "uploadedDate": "2022-06-22T08:41:02.938Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo012-1920x1080-793cae3e3e5e16520882e63a2cb88cce_Snapshot.png",
+      "md5": "6005f7904f931385f133b3fdd0415d96",
+      "size": 7842,
+      "uploadedDate": "2022-05-06T09:09:07.527Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo001-1920x1080-e23f339b8c4feeb15823cd2320304552_Snapshot.png",
+      "md5": "af95755febe58fa5c1f592a4b62978b4",
+      "size": 7926,
+      "uploadedDate": "2022-05-06T07:41:12.814Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo002-1920x1080-e5f47b91765da9a1d0f20339584017bc_Snapshot.png",
+      "md5": "ff5115506af4eb8abc984f853bab19e5",
+      "size": 7503,
+      "uploadedDate": "2022-05-06T07:41:13.281Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo003-1920x1080-f86cbf82960ca3e3945905977a71d0f0_Snapshot.png",
+      "md5": "5fc39720b3f5670dc6b8eb3664a495ec",
+      "size": 7544,
+      "uploadedDate": "2022-05-06T07:41:13.481Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo004-1920x1080-9115e90194d6dc488435d2f7523b0e83_Snapshot.png",
+      "md5": "a32935117a2945ab3ee64872c8a78f07",
+      "size": 6853,
+      "uploadedDate": "2022-05-06T07:41:13.982Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo005-1920x1080-99d89153d8667df8e34d4220129b63b9_Snapshot.png",
+      "md5": "38a5cfcaf63d4d8157e5a3d9f3bea0a2",
+      "size": 7753,
+      "uploadedDate": "2022-05-06T07:41:14.644Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo006-1920x1080-c19d5c21cb7985160090e36f55b850dd_Snapshot.png",
+      "md5": "e88a02ed22753fbf7a3f2a9bf1613389",
+      "size": 8297,
+      "uploadedDate": "2022-05-06T07:41:15.166Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo007-1920x1080-afd676724e9a8e5abdaa6120310eaf35_Snapshot.png",
+      "md5": "106edbfe8f80c93322abe5a27572c1ab",
+      "size": 6296,
+      "uploadedDate": "2022-05-06T07:41:15.653Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo008-1920x1080-340ace78fbda5a7b5e43d138f376d414_Snapshot.png",
+      "md5": "c5d038edc304f1b2ba1368391d5b68f5",
+      "size": 6969,
+      "uploadedDate": "2022-05-06T07:41:16.146Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo009-1920x1080-b933b6fd754f918a20dfd1ed5a5fa9c8_Snapshot.png",
+      "md5": "e43055b68b46d427926880e6357d8420",
+      "size": 5542,
+      "uploadedDate": "2022-05-06T07:41:16.680Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo010-1920x1080-dc4a32284bcba37af45c1812d4d5f41f_Snapshot.png",
+      "md5": "b4056243caaae3ba66d12a8ba671ae4c",
+      "size": 11643,
+      "uploadedDate": "2022-05-06T07:41:17.266Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo011-1920x1080-39ed8c878ff0e3b0545e18ace1c43831_Snapshot.png",
+      "md5": "a73b2d2c1b76735ea14a34106c924949",
+      "size": 8614,
+      "uploadedDate": "2022-05-06T07:41:17.872Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo012-1920x1080-893d35933eecf8a90e60ed40531123d2_Snapshot.png",
+      "md5": "3f26968391db2f057620d22cee16e8dd",
+      "size": 7697,
+      "uploadedDate": "2022-05-06T07:41:18.335Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo012-1920x1080-5d7a82aa2f60eeffe0dd96c819cd2402_Snapshot.png",
+      "md5": "e87a0431b40f6bb887ca3e481cdf0233",
+      "size": 7368,
+      "uploadedDate": "2022-05-02T08:05:05.899Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo001-1920x1080-e23f339b8c4feeb15823cd2320304552_Snapshot.png",
+      "md5": "af95755febe58fa5c1f592a4b62978b4",
+      "size": 7926,
+      "uploadedDate": "2022-05-02T07:58:37.798Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo006-1920x1080-82476db376f1faf633d827bacc4205f7_Snapshot.png",
+      "md5": "b72d79645ba89a6f4ef1837ff8c33567",
+      "size": 8339,
+      "uploadedDate": "2022-05-02T07:58:38.417Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo005-1920x1080-99d89153d8667df8e34d4220129b63b9_Snapshot.png",
+      "md5": "38a5cfcaf63d4d8157e5a3d9f3bea0a2",
+      "size": 7753,
+      "uploadedDate": "2022-05-02T07:58:39.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo002-1920x1080-e5f47b91765da9a1d0f20339584017bc_Snapshot.png",
+      "md5": "ff5115506af4eb8abc984f853bab19e5",
+      "size": 7503,
+      "uploadedDate": "2022-05-02T07:58:39.456Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo003-1920x1080-f86cbf82960ca3e3945905977a71d0f0_Snapshot.png",
+      "md5": "5fc39720b3f5670dc6b8eb3664a495ec",
+      "size": 7544,
+      "uploadedDate": "2022-05-02T07:58:39.706Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo004-1920x1080-9115e90194d6dc488435d2f7523b0e83_Snapshot.png",
+      "md5": "a32935117a2945ab3ee64872c8a78f07",
+      "size": 6853,
+      "uploadedDate": "2022-05-02T07:58:40.175Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo007-1920x1080-afd676724e9a8e5abdaa6120310eaf35_Snapshot.png",
+      "md5": "106edbfe8f80c93322abe5a27572c1ab",
+      "size": 6296,
+      "uploadedDate": "2022-05-02T07:58:40.617Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo009-1920x1080-b933b6fd754f918a20dfd1ed5a5fa9c8_Snapshot.png",
+      "md5": "e43055b68b46d427926880e6357d8420",
+      "size": 5542,
+      "uploadedDate": "2022-05-02T07:58:41.031Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo010-1920x1080-dc4a32284bcba37af45c1812d4d5f41f_Snapshot.png",
+      "md5": "b4056243caaae3ba66d12a8ba671ae4c",
+      "size": 11643,
+      "uploadedDate": "2022-05-02T07:58:41.576Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo011-1920x1080-39ed8c878ff0e3b0545e18ace1c43831_Snapshot.png",
+      "md5": "a73b2d2c1b76735ea14a34106c924949",
+      "size": 8614,
+      "uploadedDate": "2022-05-02T07:58:42.065Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IliadPromo013-1920x1080-893d35933eecf8a90e60ed40531123d2_Snapshot.png",
+      "md5": "3f26968391db2f057620d22cee16e8dd",
+      "size": 7697,
+      "uploadedDate": "2022-05-02T07:58:42.480Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/iliad2-1920x1080-067fc87f1c67f6ffd68cc2d4e661fd18_Snapshot.jpg",
+      "md5": "fe784f98556fb8a6f817171abbe5eecd",
+      "size": 5905,
+      "uploadedDate": "2021-10-25T19:39:14.065Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/iliad-1920x1080-c77ccfbd16a6a4a7b63310cd3b7a43d8_Snapshot.jpg",
+      "md5": "bbb3ba623767afb76bb762316d6f33a1",
+      "size": 7818,
+      "uploadedDate": "2021-10-25T19:39:14.849Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/grue-1920x1080-8e1ea93289211da14a023553e60b5871_Snapshot.png",
+      "md5": "378fba2bb7fa0d67bb9607d38e23f4ce",
+      "size": 5194,
+      "uploadedDate": "2021-01-12T17:20:15.797Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rocks-1920x1080-bd3e2b012336a7cd78972b4b59178b42_Snapshot.png",
+      "md5": "e928746a1e07b88e43f600f84acb6946",
+      "size": 7187,
+      "uploadedDate": "2021-01-12T17:20:16.474Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/blueprint-1920x1080-5b8cad40fe8e2e061c6416eefa199580_Snapshot.png",
+      "md5": "80987c863d897d6fe41b4503251ee92a",
+      "size": 5416,
+      "uploadedDate": "2021-01-12T17:20:17.049Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplace-2-1920x1080-b7b1ea892f1ff1b9cd671deb3b712fda_Snapshot.png",
+      "md5": "57d91c07334150805314af82aa167edc",
+      "size": 7481,
+      "uploadedDate": "2020-05-26T09:07:05.345Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplace-1-1920x1080-5883e7f74917f5e1fdce6daeac91afe6_Snapshot.png",
+      "md5": "cd2b925200a599fc08a9294e4cecaa7d",
+      "size": 7887,
+      "uploadedDate": "2020-05-26T09:07:06.010Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplace-3-1920x1080-9a6f7701c8a4eb12e1ff143328ddc01a_Snapshot.png",
+      "md5": "b35821938e3a283cebeeebcfbd6efef9",
+      "size": 6400,
+      "uploadedDate": "2020-05-26T09:07:06.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/showbrushesmarketplace-1920x1080-58d0c7f56774d5c5a5c00eb544605761_Snapshot.png",
+      "md5": "5b6804294dd37a0a3c7b4e82a45444f2",
+      "size": 5551,
+      "uploadedDate": "2020-04-02T11:48:34.950Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplace-social-1920x1080-5889b1134a569305151b57e9fc58f97d_Snapshot.png",
+      "md5": "91cfa776cb720a97bb1d3b6a53778f28",
+      "size": 6293,
+      "uploadedDate": "2020-03-30T17:07:36.170Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace09-1920x1080-9fac90ee0e04fca72296bd23652f205f_Snapshot.png",
+      "md5": "cefa0cbf7887b6122afd04e2987c47bd",
+      "size": 5658,
+      "uploadedDate": "2019-12-09T14:09:10.280Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace07-1920x1080-e439449a1aaac7d558ee8fd5da9db7f7_Snapshot.png",
+      "md5": "f31f1246b887d953599db12256521eb4",
+      "size": 6239,
+      "uploadedDate": "2019-12-09T14:09:10.882Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace08-1920x1080-092a7e0cb92c3a08bf53af1b1e53f1ab_Snapshot.png",
+      "md5": "57b842d8101a50f115bfe6ddc44f7f28",
+      "size": 6344,
+      "uploadedDate": "2019-12-09T14:09:11.622Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace05-1920x1080-0ab46971e2e9900f16030c35839741cc_Snapshot.png",
+      "md5": "273b82f51d495b3ee349b6bc0d1b5530",
+      "size": 7080,
+      "uploadedDate": "2019-12-09T14:09:12.316Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace06-1920x1080-ded98ad86ddf5543d5470f7bca84c1d3_Snapshot.png",
+      "md5": "dc84d645adbfd55c2f81ac41a219ae7a",
+      "size": 6121,
+      "uploadedDate": "2019-12-09T14:09:12.975Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace04-1920x1080-0376d6c8f8d625110a38146cf5d54750_Snapshot.png",
+      "md5": "ac5edfbf7d6f4de3d2b29e8fcd323ab4",
+      "size": 6164,
+      "uploadedDate": "2019-12-09T14:09:13.575Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace03-1920x1080-5103edd5434f1940529a1af433a9434a_Snapshot.png",
+      "md5": "ce2c209efa75752bf58b396556ceb191",
+      "size": 5926,
+      "uploadedDate": "2019-12-09T14:09:14.143Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace01-1920x1080-4b36785a815db2fe71792c7e5c8cd2f5_Snapshot.png",
+      "md5": "be8bfe99a0c1deaebca95174689a6c71",
+      "size": 6754,
+      "uploadedDate": "2019-12-09T14:09:14.690Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/images-marketplace02-1920x1080-ca051c8b0e2dca34db7ef2c1e120b720_Snapshot.png",
+      "md5": "d3a31019eaca472e652037b6c905cc24",
+      "size": 7180,
+      "uploadedDate": "2019-12-09T14:09:15.362Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/iliadBP1-1920x1080-3d52bac2ccdcf88976ea1b051fb10af2_Snapshot.png",
+      "md5": "9ff402ea79793a8736641e3e711d43b3",
+      "size": 6332,
+      "uploadedDate": "2019-12-09T14:09:16.311Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/iliadBP2-1920x1080-cd549896c25df006f67a7a7249832e31_Snapshot.png",
+      "md5": "394a652299902320a1dd5992838c69cf",
+      "size": 6251,
+      "uploadedDate": "2019-12-09T14:09:17.370Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/iliadBP3-1920x1080-3f88e7eb258e0cb47dccf75e5b16196d_Snapshot.png",
+      "md5": "135332d01fff0c4fb34aeb49fa4d458d",
+      "size": 5576,
+      "uploadedDate": "2019-12-09T14:09:18.340Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/iliadBP4-1920x1080-bbfb4f274f253e72796a641187bbd0b7_Snapshot.png",
+      "md5": "f43f928c90b2d0182f441e98d57c10d8",
+      "size": 6144,
+      "uploadedDate": "2019-12-09T14:09:19.263Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cf5fde388ecc4284af76cea0f038bcbf"
+    }
+  ],
+  "catalogNs": null
+}

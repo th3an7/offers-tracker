@@ -1,0 +1,254 @@
+{
+  "id": "a57008b11465414bae0035a301e34225",
+  "namespace": "ue",
+  "title": "UMG Calendar",
+  "description": "UMG Calendar/Date picker Widget entirely Blueprint made",
+  "longDescription": "<p>A Calendar widget entirely made in UMG:</p><p>May be used to display calendar and/or to pick a date or a date range (since V1.2.0).</p><p>Several options available to customize the widget:</p><ul><li>Week may start on monday or sunday</li><li>Highlighting of today or not</li><li>Display buttons menu</li><li>Display a list for month and year in the header</li><li>Set a year range for the calendar</li><li>Set starting month</li><li>Select a style among the 4 styles provided</li><li>Pick a single date or a date range</li></ul><p><br /></p><p>Bind the OnDateClicked event to get the date selected by the user or the OnRangeSelected event to get the range selected if applicable.</p><p><br /></p><p><strong><u>Update V1.1 :</u></strong></p><ul><li>Fix minor bug on year date display</li><li>Support for 4.24</li></ul><p><br /></p><p><strong><u>Update V1.2 :</u></strong></p><ul><li>Add option to select a date range</li><li>Add a DatePicker widget which displays a clickable textfield which opens the calendar on click.</li></ul><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "umg-calendar",
+  "creationDate": "2019-08-24T14:30:45.925Z",
+  "lastModifiedDate": "2024-10-03T15:59:49.960Z",
+  "effectiveDate": "2019-08-24T15:28:56.832Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dazd7wescnfr92ljv4llwlysfnt3uq",
+    "name": "GHenson"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li> Entirely made in Blueprint and UMG</li><li> 4 pre-made styles provided</li><li>Many options to customize the calendar</li><li>Demo level included for an example of integration</li></ul><p><br /></p><p><strong>Number of Blueprints</strong>: 2 main widgets &#43; 8 sub-widgets</p><p><strong>Input</strong>: Mouse</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms:</strong> Windows</p><p><strong>Supported Target Build Platforms:</strong> Windows</p><p><strong>Documentation</strong>: <a href=\"https://gitlab.com/GHDocumentation/ue4/wikis/UMG-Calendar-Documentation\" rel=\"nofollow\">https://gitlab.com/GHDocumentation/ue4/wikis/UMG-Calendar-Documentation</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a58437eb-718a-4dfa-b42d-18edf720c52e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cal1-1920x1080-b176d93f4027a155d04046a8e3651c4c.png",
+      "md5": "b176d93f4027a155d04046a8e3651c4c",
+      "size": 199204,
+      "uploadedDate": "2019-07-14T15:29:18.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cal2-1920x1080-bb0d27c3587fcce206796858f73f38eb.png",
+      "md5": "bb0d27c3587fcce206796858f73f38eb",
+      "size": 236196,
+      "uploadedDate": "2019-07-14T15:29:18.864Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cal3-1920x1080-cc4bdefa51f47fdaac7eac1a7f0fd670.png",
+      "md5": "cc4bdefa51f47fdaac7eac1a7f0fd670",
+      "size": 308170,
+      "uploadedDate": "2019-07-14T15:29:19.244Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cal4-1920x1080-3a208c7624637735ab4de36f0769e4ce.png",
+      "md5": "3a208c7624637735ab4de36f0769e4ce",
+      "size": 328793,
+      "uploadedDate": "2019-07-14T15:29:19.643Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cal5-1920x1080-0e00b5e329a362a028a76f19af8367b4.png",
+      "md5": "0e00b5e329a362a028a76f19af8367b4",
+      "size": 212065,
+      "uploadedDate": "2019-07-14T15:29:20.002Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cal6-1920x1080-cdd0219190e396e998baaf280b0c4b03.png",
+      "md5": "cdd0219190e396e998baaf280b0c4b03",
+      "size": 215759,
+      "uploadedDate": "2019-07-14T15:29:20.359Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cal7-1920x1080-5662272d6b48598feba1b97273b3f979.png",
+      "md5": "5662272d6b48598feba1b97273b3f979",
+      "size": 224132,
+      "uploadedDate": "2019-07-14T15:29:20.739Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UMGCalendar_thumb-284x284-836816d5fb49e9c201bd58d44d68a03a.png",
+      "md5": "836816d5fb49e9c201bd58d44d68a03a",
+      "size": 33758,
+      "uploadedDate": "2019-07-14T15:29:21.017Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UMGCalendar_featured-894x488-225d65edc291fcbcaf3c52d60f5ba2e1.png",
+      "md5": "225d65edc291fcbcaf3c52d60f5ba2e1",
+      "size": 85241,
+      "uploadedDate": "2019-07-14T15:29:21.055Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cal1-1920x1080-b176d93f4027a155d04046a8e3651c4c_Snapshot.png",
+      "md5": "1d967ef16da42955b7862ef58cda0e73",
+      "size": 6209,
+      "uploadedDate": "2019-07-14T15:29:18.789Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cal2-1920x1080-bb0d27c3587fcce206796858f73f38eb_Snapshot.png",
+      "md5": "4921a2db8b00a1dd72bf3fc909c3405b",
+      "size": 5289,
+      "uploadedDate": "2019-07-14T15:29:19.126Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cal3-1920x1080-cc4bdefa51f47fdaac7eac1a7f0fd670_Snapshot.png",
+      "md5": "b3e36f2b2589cb378ab173b801aa3c5e",
+      "size": 4600,
+      "uploadedDate": "2019-07-14T15:29:19.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cal4-1920x1080-3a208c7624637735ab4de36f0769e4ce_Snapshot.png",
+      "md5": "de9aa4aff5e6d4830dea5583c6e22200",
+      "size": 6011,
+      "uploadedDate": "2019-07-14T15:29:19.895Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cal5-1920x1080-0e00b5e329a362a028a76f19af8367b4_Snapshot.png",
+      "md5": "0ec1623af738914e5f819b24cfb8ee5c",
+      "size": 6357,
+      "uploadedDate": "2019-07-14T15:29:20.233Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cal6-1920x1080-cdd0219190e396e998baaf280b0c4b03_Snapshot.png",
+      "md5": "81f4e6ca0b294ab94cc3103ee0726c5d",
+      "size": 6534,
+      "uploadedDate": "2019-07-14T15:29:20.585Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cal7-1920x1080-5662272d6b48598feba1b97273b3f979_Snapshot.png",
+      "md5": "5e4fe2faeaf469e1ec29ce13dde0db1c",
+      "size": 6512,
+      "uploadedDate": "2019-07-14T15:29:20.970Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "98f36a4fdc6941a783e8f46f9154df23"
+    }
+  ],
+  "catalogNs": null
+}

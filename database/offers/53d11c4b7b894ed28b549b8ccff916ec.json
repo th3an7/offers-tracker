@@ -1,0 +1,302 @@
+{
+  "id": "53d11c4b7b894ed28b549b8ccff916ec",
+  "namespace": "ue",
+  "title": "Smart Spline Generator",
+  "description": "Generate various assets that automatically align to any surface, in a highly customizable way.",
+  "longDescription": "<h1><a href=\"https://youtube.com/watch?v&#61;bvrKHUgBYKc\" rel=\"nofollow\">VIDEO PREVIEW</a></h1><p><br /></p><p><a href=\"https://discord.gg/qWHeGuNbXh\" rel=\"nofollow\"><strong>DISCORD SERVER (SUPPORT, DISCUSSION)</strong></a></p><p><br /></p><p>Generate various assets that automatically align/react to any surface, in a highly customizable way. Create ivy, vine, ropes, bridges, fences, and more – with many customizable parameters &amp; possibility to use your own meshes.</p><p><br /></p><p>•\tFast and easy generation of surface-aligning assets</p><p>•\tMany parameters for controlling generation behavior, all described in their tooltips and in documentation levels</p><p>•\tIn-engine documentation: All the features explained on working examples in demo levels</p><p>•\tPossibility to use your own meshes</p><p>•\tSet of starting presets included</p><p>•\tWith the help of UE Merge tool, you can convert any generated asset into static mesh, to reuse it in different levels/projects – or to export &amp; edit it in your 3D package!</p><p>•\tMade 100% in Blueprints.</p><p><br /></p><p><strong>Latest update (4.21&#43;):</strong></p><ul><li>Added new &#34;StripStem&#34; feature that significantly decreases vert count on stem-heavy assets (e.g. vines with many sub stems, long cables &amp; ropes, etc.) while retaining almost the same look. It uses a poly strip as stem spline meshes instead of regular cylinders and thanks to UE SplineThicken material function it retains the cylindrical look. For example, on one of the more advanced vine presets it reduces vert count by over half.</li><li>Improved generation speed</li><li>Faster &amp; more convenient asset handling, because the RunConstructionScriptOnDrag is now turned off by default.</li><li>New: Stem thickness control (start thickness, end thickness &amp; thickness falloff)</li><li>New: On/Off switch for spline mesh shadow casting &amp; collision - useful for optimizing your assets individually.</li></ul><p><br /></p><p><a href=\"https://orbital-market.com/product/smart-spline-generator\" rel=\"nofollow\">Smart Spline Generator on Orbital Market</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smart-spline-generator",
+  "creationDate": "2016-06-08T19:29:52.389Z",
+  "lastModifiedDate": "2024-10-04T03:31:26.950Z",
+  "effectiveDate": "2016-06-29T00:00:00.000Z",
+  "viewableDate": "2016-06-29T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ba6abe9e5e4b288fe96cf79be542df",
+    "name": "S. Krezel"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of blueprints: 24 (1 main generator blueprint &amp; 23 default presets)</p><p><br /></p><p>List of features:</p><p>•\tLarge set of generation parameters, like spline direction, sub-spline amount, spline/sub-spline length, curve, mesh amount, align rotation, height above ground, random irregularity levels, and many, many more…</p><p>•\tAutomatic bridge mechanic: Automatically finds nearby surfaces to make bridges with. Control bridge gravity and more (presented in the video)</p><p>•\tLow-poly edge snapping: Generate lower-poly assets without problems caused by low poly count near surface edges (presented in the video)</p><p>•\tAutomatic spline mesh optimization – replaces most of the spline mesh sections with low-poly versions, leaving only critical areas like edges or corners</p><p>•\tCompatible with UE Merge Actors tool, which allows you to convert any generated asset into a single static mesh</p><p>•\tMany starting default presets that you can derive from.</p><p><br /></p><p>Intended Platforms: All</p><p>Platforms Tested: Windows</p><p>Documentation Included: Yes (all features explained on working examples in demo levels)</p><p><br /></p><h1>____________________ | <a href=\"https://unrealengine.com/marketplace/en-US/profile/S.&#43;Krezel\" rel=\"nofollow\">MORE TOOLS BY S. KREZEL</a> | ____________________</h1>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "422f1b0c-af2b-4f6b-b66b-dc1356f69ae9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_screenshot1-1920x1080-b5ba556fda96f76f68573f68c01c312a.png",
+      "md5": "b5ba556fda96f76f68573f68c01c312a",
+      "size": 607977,
+      "uploadedDate": "2016-06-08T19:29:37.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_screenshot2-1920x1080-1a2019bbe8e247865e011da99e19fb4a.png",
+      "md5": "1a2019bbe8e247865e011da99e19fb4a",
+      "size": 412857,
+      "uploadedDate": "2016-06-08T19:29:35.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_screenshot3-1920x1080-b65c693950a7180e785cef9581d729a3.png",
+      "md5": "b65c693950a7180e785cef9581d729a3",
+      "size": 649476,
+      "uploadedDate": "2016-06-08T19:29:33.652Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_screenshot4-1920x1080-c20fd07476e6826dc51a8982a1e110c4.png",
+      "md5": "c20fd07476e6826dc51a8982a1e110c4",
+      "size": 474575,
+      "uploadedDate": "2016-06-08T19:29:31.667Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_screenshot5-1920x1080-6697b669635a20396d6677eeaed46d38.png",
+      "md5": "6697b669635a20396d6677eeaed46d38",
+      "size": 519596,
+      "uploadedDate": "2016-06-08T19:29:29.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_Thumb-284x284-61b67865587f4fd44aee4463656ec6da.png",
+      "md5": "61b67865587f4fd44aee4463656ec6da",
+      "size": 156645,
+      "uploadedDate": "2016-06-08T19:29:26.657Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_Featured-476x246-1e3abf2ae71194f82036f7c805d6ef36.png",
+      "md5": "1e3abf2ae71194f82036f7c805d6ef36",
+      "size": 175194,
+      "uploadedDate": "2016-06-08T19:29:39.914Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/SmartSplineGenerator_FeaturedNew-894x488-a1155af91784deafbd05c8fb5ad154d3.png",
+      "md5": "a1155af91784deafbd05c8fb5ad154d3",
+      "size": 515404,
+      "uploadedDate": "2016-06-08T19:29:38.616Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "f153902c3bbd46da8e91ea3d521caa5b"
+    }
+  ],
+  "catalogNs": null
+}

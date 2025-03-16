@@ -1,0 +1,188 @@
+{
+  "id": "af98110080a4411a8eaf3b8e931b8655",
+  "namespace": "ue",
+  "title": "EasyXMLParser",
+  "description": "EasyXMLParser is a library to easily get values from xml.",
+  "longDescription": "<p>Values in XML can be obtained by the following types.</p><p>&#43; string</p><p>&#43; int</p><p>&#43; float</p><p>&#43; bool</p><p><br /></p><p><br /></p><p>For example, you can easily refer to values ??by simply connecting tags with dots as follows:</p><p><br /></p><p>&lt;Root&gt;</p><p>&lt;ABC id&#61;&#34;1&#34;&gt;123&lt;/ABC&gt;</p><p>&lt;ABC id&#61;&#34;2&#34;&gt;456&lt;/ABC&gt;</p><p>&lt;ABC id&#61;&#34;3&#34;&gt;789&lt;/ABC&gt;</p><p>&lt;/Root&gt;</p><p><br /></p><p>Root.ABC[1] &#61;&gt; 456</p><p>Root.ABC[2].&#64;id &#61;&gt; 3</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easyxmlparser",
+  "creationDate": "2019-06-10T13:48:22.980Z",
+  "lastModifiedDate": "2024-10-15T10:39:45.267Z",
+  "effectiveDate": "2019-06-10T13:48:22.885Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zyblkxhevfvhrs86f4fxbea3uhveds",
+    "name": "ayumax"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Code Modules</strong>: EasyXMLParser</p><p><strong>Supported Development Platforms</strong>: Windows, Mac</p><p><strong>Supported Target Build Platforms</strong>: Windows, Mac, iOS, Android</p><p><strong>Documentation</strong>: <a href=\"https://github.com/ayumax/EasyXMLParser/blob/master/README.md\" rel=\"nofollow\">https://github.com/ayumax/EasyXMLParser/blob/master/README.md</a></p><p><strong>Example Project</strong>: <a href=\"https://github.com/ayumax/EasyXMLParser\" rel=\"nofollow\">https://github.com/ayumax/EasyXMLParser</a></p><p><strong>Change log</strong>:</p><p>[08/29/2019] Version 1.0.1: (4.20, 4.21, 4.22)</p><ul><li>Compatible with android, ios and mac</li></ul><p>(04/29/2019) Version 1.00:(4.20, 4.21, 4.22)</p><ul><li>Initial release</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6bb95d43-7c38-4609-9df2-064fd32b8abf"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY0-1920x1080-35121e9f8793fcf55d9715360aed0a32.png",
+      "md5": "35121e9f8793fcf55d9715360aed0a32",
+      "size": 48538,
+      "uploadedDate": "2019-05-04T16:29:46.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 4-1920x1080-5e5e734b25725a8d3a78504b8a520bde.png",
+      "md5": "5e5e734b25725a8d3a78504b8a520bde",
+      "size": 120185,
+      "uploadedDate": "2019-05-04T16:29:46.475Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY5-1920x1080-033643a99c59cc5b3eb2d15ccf01ea79.png",
+      "md5": "033643a99c59cc5b3eb2d15ccf01ea79",
+      "size": 122529,
+      "uploadedDate": "2019-05-04T16:29:46.730Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 1-1920x1080-13ac2340e920ee97ffb70547ed28b0e2.png",
+      "md5": "13ac2340e920ee97ffb70547ed28b0e2",
+      "size": 560362,
+      "uploadedDate": "2019-05-04T16:29:47.005Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 2-1920x1080-0dd91643a0c7bd0ddae75f08f707f7bc.png",
+      "md5": "0dd91643a0c7bd0ddae75f08f707f7bc",
+      "size": 324925,
+      "uploadedDate": "2019-05-04T16:29:47.285Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 3-1920x1080-63935518c3e1dfb09ffc6b38a0e39666.png",
+      "md5": "63935518c3e1dfb09ffc6b38a0e39666",
+      "size": 294540,
+      "uploadedDate": "2019-05-04T16:29:47.607Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EasyXMLParser_thumb-284x284-e929735bc801483bf690c640e7f9640b.png",
+      "md5": "e929735bc801483bf690c640e7f9640b",
+      "size": 6865,
+      "uploadedDate": "2019-05-04T16:29:47.843Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EasyXMLParser_featured-894x488-68aabaab0b3ef17177c814d0c5840778.png",
+      "md5": "68aabaab0b3ef17177c814d0c5840778",
+      "size": 103612,
+      "uploadedDate": "2019-05-04T16:29:47.934Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0-1920x1080-35121e9f8793fcf55d9715360aed0a32_Snapshot.png",
+      "md5": "1c6f5e933b4ebe682cc51771389553e5",
+      "size": 3131,
+      "uploadedDate": "2019-05-04T16:29:46.405Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 4-1920x1080-5e5e734b25725a8d3a78504b8a520bde_Snapshot.png",
+      "md5": "7e05ee161d77fd1eea3c9530adb403e6",
+      "size": 4220,
+      "uploadedDate": "2019-05-04T16:29:46.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY5-1920x1080-033643a99c59cc5b3eb2d15ccf01ea79_Snapshot.png",
+      "md5": "071d1d684ba17dadf6b8b2a153edabe7",
+      "size": 4250,
+      "uploadedDate": "2019-05-04T16:29:46.871Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 1-1920x1080-13ac2340e920ee97ffb70547ed28b0e2_Snapshot.png",
+      "md5": "e3613da057ab2b4bd40126a92710e2bb",
+      "size": 11252,
+      "uploadedDate": "2019-05-04T16:29:47.202Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 2-1920x1080-0dd91643a0c7bd0ddae75f08f707f7bc_Snapshot.png",
+      "md5": "ddada87fbfcd8d2a59071efe4e69a4db",
+      "size": 6738,
+      "uploadedDate": "2019-05-04T16:29:47.498Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 3-1920x1080-63935518c3e1dfb09ffc6b38a0e39666_Snapshot.png",
+      "md5": "2e05eeb4d584157a2acd356fc5b6264e",
+      "size": 6192,
+      "uploadedDate": "2019-05-04T16:29:47.753Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0195015d72c048088e28fef7a932f3c2"
+    }
+  ],
+  "catalogNs": null
+}

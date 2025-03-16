@@ -1,0 +1,224 @@
+{
+  "id": "8013d15afdea431899416cbc88dce540",
+  "namespace": "ue",
+  "title": "Google Speech Kit",
+  "description": "Google speech api integration",
+  "longDescription": "<p>This is Unreal Engine wrapper for Google&#39;s <a href=\"https://cloud.google.com/text-to-speech/\" rel=\"nofollow\">Cloud Text-to-Speech</a> and synchronous <a href=\"https://cloud.google.com/speech-to-text/\" rel=\"nofollow\">Cloud Speech-to-Text</a> speech recognition APIs.</p><p>With this plugin you will be able to synthesise natural human male and female speech on 31 languages with multiple variants and recognise speech from 119 languages and dialects.</p><p><br /></p><p>Seamless TTS caching will protect your wallet! If tts node meets synthesis parameters that already been used, it will not make request to google but load sample from file.</p><p><br /></p><p>Android is finally supported!</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "google-speech-kit",
+  "creationDate": "2019-07-09T17:18:02.276Z",
+  "lastModifiedDate": "2024-10-10T12:10:50.131Z",
+  "effectiveDate": "2019-07-09T17:21:38.961Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ey5k787alnnl45b9zc6z73r4r238bt",
+    "name": "Ilgar Lunin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Text to speech synthesis Blueprint node</li><li>Text to speech node caching</li><li>Speech recognition Blueprint node</li><li>Variant based speech recognition Blueprint node</li><li>Percentage based string comparison to recognise voice commands</li><li>Async oculus frame sequence generation in runtime from TTS results</li></ul><p><br /></p><p><strong>Code Modules</strong>:</p><ul><li> GoogleSpeechKit (Runtime)</li></ul><p><br /></p><p><strong>Number of Blueprints</strong>: 0</p><p><strong>Number of C&#43;&#43; Classes</strong>: 16</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>: Windows, Mac</p><p><strong>Supported Target Build Platforms</strong>: Windows, Mac</p><p><strong>Relies on 3rd party services or subscriptions: </strong>Yes</p><p><strong>!!! Documentation !!!</strong>: <a href=\"https://github.com/IlgarLunin/UE4GoogleSpeechKit-docs\" rel=\"nofollow\">https://github.com/IlgarLunin/UE4GoogleSpeechKit-docs</a></p><p><strong>!!! Discord !!!</strong>: <a href=\"https://discord.gg/Tkf7xe2\" rel=\"nofollow\">https://discord.gg/Tkf7xe2</a></p><p><br /></p><p>Please reach me out in discord for any help, and read documentation</p><p><br /></p><p>Demo project (unreal 5.0&#43;): <a href=\"https://drive.google.com/file/d/14df7BEs3Vn1pfkSL_HqQCcZ0wO7t9yR6/view?usp&#61;drive_link\" rel=\"nofollow\">here</a></p><p><br /></p><p><strong>| NOTE</strong>: Use <a href=\"https://www.unrealengine.com/marketplace/en-US/product/d3c56f7d6af44915a9c818659b4a3d2e\" rel=\"nofollow\">Offline Speech Recognition</a> plugin if you don&#39;t want internet connection to be a requirement, or you don&#39;t want to pay for 3rd party subscription.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e6d2bb09-22a4-4eb5-bbfd-547d3eb7a36f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4EditorsuJ2voA7gM-1920x1080-7999d07e89435dee464d76a8cc2210e1.png",
+      "md5": "7999d07e89435dee464d76a8cc2210e1",
+      "size": 375350,
+      "uploadedDate": "2019-06-24T14:22:40.207Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4EditorOubhsloMju-1920x1080-28118db74ea140db0bf4a93c500299a7.png",
+      "md5": "28118db74ea140db0bf4a93c500299a7",
+      "size": 287356,
+      "uploadedDate": "2019-06-24T14:22:41.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4EditorFmebNRw38B-1920x1080-c2475237a61fed8c631812d80b40d6d5.png",
+      "md5": "c2475237a61fed8c631812d80b40d6d5",
+      "size": 298034,
+      "uploadedDate": "2019-06-26T14:11:46.836Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor0dQCnqXJBp-1920x1080-36666bca04f10cb8970c4e451bfeb259.png",
+      "md5": "36666bca04f10cb8970c4e451bfeb259",
+      "size": 254264,
+      "uploadedDate": "2019-09-23T06:03:25.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/googletts-1920x1080-d7cd8ae2db69354244dadb6894eb44da.png",
+      "md5": "d7cd8ae2db69354244dadb6894eb44da",
+      "size": 328836,
+      "uploadedDate": "2019-10-26T10:19:26.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GoogleSpeechKit_thumb-284x284-dae5fc9a1b197d0f897f1e3e6c971be2.png",
+      "md5": "dae5fc9a1b197d0f897f1e3e6c971be2",
+      "size": 20701,
+      "uploadedDate": "2019-06-24T14:22:41.635Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GoogleSpeechKit_featured-894x488-c8778c765299932d355a1f5a3feb8f68.png",
+      "md5": "c8778c765299932d355a1f5a3feb8f68",
+      "size": 145156,
+      "uploadedDate": "2019-06-24T14:22:41.710Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/googletts-1920x1080-d7cd8ae2db69354244dadb6894eb44da_Snapshot.png",
+      "md5": "13a5786307553ab4d4772bce33b878c3",
+      "size": 4678,
+      "uploadedDate": "2019-10-26T10:19:27.147Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor0dQCnqXJBp-1920x1080-36666bca04f10cb8970c4e451bfeb259_Snapshot.png",
+      "md5": "7e82ead15755a47ecd2d451b37dff6d9",
+      "size": 4003,
+      "uploadedDate": "2019-09-23T06:03:25.473Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4EditorFmebNRw38B-1920x1080-c2475237a61fed8c631812d80b40d6d5_Snapshot.png",
+      "md5": "d542be9581ffa2b91373a2917e7ddc60",
+      "size": 4523,
+      "uploadedDate": "2019-06-26T14:11:47.035Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4EditorsuJ2voA7gM-1920x1080-7999d07e89435dee464d76a8cc2210e1_Snapshot.png",
+      "md5": "d9afa1c26cb1220eb7bc09e51bcc57b9",
+      "size": 4715,
+      "uploadedDate": "2019-06-24T14:22:40.493Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4EditorHK2fB9sXfD-1920x1080-1a97b018c60f8993aa7414a70abd758d_Snapshot.png",
+      "md5": "36bb6496ceaa52c1c6ab6f17a9778acc",
+      "size": 4647,
+      "uploadedDate": "2019-06-24T14:22:40.927Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4EditorOubhsloMju-1920x1080-28118db74ea140db0bf4a93c500299a7_Snapshot.png",
+      "md5": "37777cd97b30915f67428eba887dedb1",
+      "size": 4553,
+      "uploadedDate": "2019-06-24T14:22:41.260Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4EditorsTwSWWcdS1-1920x1080-affd61a32e085dde5c96abfbd69f2cf1_Snapshot.png",
+      "md5": "093d79f1f46de8f2d791aedb565e7e96",
+      "size": 5019,
+      "uploadedDate": "2019-06-24T14:22:41.590Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3b06142f75a04c80a242d00b87c85336"
+    }
+  ],
+  "catalogNs": null
+}

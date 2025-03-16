@@ -1,0 +1,245 @@
+{
+  "id": "c8f61b007fb44f4abcb7b0974cebff6b",
+  "namespace": "ue",
+  "title": "Smooth Sync",
+  "description": "Smooth Sync will Sync your transforms Smoothly across the network using Unreal's networking.",
+  "longDescription": "<p><br /></p><p><strong>Videos:</strong></p><p><a href=\"https://youtu.be/RYo2-uvZ_i8\" rel=\"nofollow\">See Smooth Sync in Action</a></p><p><a href=\"https://youtu.be/a2EQLA7sa9w\" rel=\"nofollow\">Getting Started With Smooth Sync</a></p><p><br /></p><p><strong>What Smooth Sync Does</strong></p><p>Provides simple, drop-in Syncing of transforms Smoothly across the network using customizable <strong>interpolation</strong> and <strong>extrapolation</strong>.</p><p>Owned Actors: Sends transform from owner to non-owners.</p><p>Unowned Actors: Sends transform from server to clients.</p><p><br /></p><p>Works with physics Actors and non-physics Actors. Dedicated and Listen servers.</p><p><br /></p><p><strong>Smooth Sync differs from Unreal&#39;s Replicate Movement in two key ways:</strong></p><p>1) Using <a href=\"https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking#Entity_interpolation\" rel=\"nofollow\">custom interpolation</a> and extrapolation, Smooth Sync can be set to your game&#39;s specific needs.</p><p>2) Optionally allow clients to determine the position of any Actor. This can remove the need for client side prediction.</p><p><br /></p><p>We have a consistent record of <strong>prompt</strong> and <strong>effective</strong> <strong>support</strong>. Contact us via email or forums any time and we will work with you to resolve any issue. </p><p><br /></p><p>We are <a href=\"http://grabblesgame.com\" rel=\"nofollow\">game developers</a> too so we know how important it is to have working products and to put out fixes fast.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smooth-sync",
+  "creationDate": "2018-06-21T14:58:13.612Z",
+  "lastModifiedDate": "2024-10-01T01:02:25.326Z",
+  "effectiveDate": "2018-06-21T14:58:13.583Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qczfjrjflxp74ms98b5v2z8nrwy2ja",
+    "name": "Noble Whale Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Performs <strong>interpolation</strong> and <strong>extrapolation</strong> to compensate for lag. </li><li>Full <strong>source code</strong> is provided so you can see everything with detailed comments. </li><li><strong>Highly Configurable </strong>so you choose what to send, when to send it, and what to do with it.</li><li>Requires <strong>zero coding</strong>.</li><li>Sends the transforms of Actors across the network.</li><li>Optional float <strong>compression </strong>to half-floats.</li></ul><p>Code Modules:</p><ul><li> SmoothSyncPlugin (RunTime)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64, Win32, Linux, Mac, Android, iOS, HTML5</p><p>Supported Target Build Platforms: Win64, Win32, Linux, Mac, Android, iOS, HTML5</p><p>Documentation: <a href=\"http://noblewhale.com/smooth_sync_unreal\" rel=\"nofollow\">http://noblewhale.com/smooth_sync_unreal</a></p><p>Forums: <a href=\"https://forums.unrealengine.com/t/smooth-sync-sync-your-transforms-smoothly-across-the-network/112583\" rel=\"nofollow\">https://forums.unrealengine.com/t/smooth-sync-sync-your-transforms-smoothly-across-the-network/112583</a></p><p>Discord: <a href=\"https://discord.gg/w4v5AZR5QQ\" rel=\"nofollow\">https://discord.gg/w4v5AZR5QQ</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "415bb5fc-e58e-4d50-870f-5325c776f51b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealSS1-1920x1080-677f1d895340cb994512081acee27d5a.png",
+      "md5": "677f1d895340cb994512081acee27d5a",
+      "size": 732958,
+      "uploadedDate": "2019-03-27T16:40:12.926Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealSS2-1920x1080-315319ce7e70c82a585fea0ef31f5fd2.png",
+      "md5": "315319ce7e70c82a585fea0ef31f5fd2",
+      "size": 723214,
+      "uploadedDate": "2019-03-27T16:40:13.219Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SmoothSync_thumb-284x284-2f81eb32576af08ecfdc81558e8caa79.png",
+      "md5": "2f81eb32576af08ecfdc81558e8caa79",
+      "size": 17458,
+      "uploadedDate": "2019-03-27T17:11:07.140Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SmoothSync_featured-894x488-9348810b8428a499bb1423a458a79bed.png",
+      "md5": "9348810b8428a499bb1423a458a79bed",
+      "size": 44389,
+      "uploadedDate": "2019-04-16T16:05:31.730Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealSS1-1920x1080-677f1d895340cb994512081acee27d5a_Snapshot.png",
+      "md5": "ce8a9dfeae3be88168a5dac22ec79da9",
+      "size": 10850,
+      "uploadedDate": "2019-03-27T16:40:13.097Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealSS2-1920x1080-315319ce7e70c82a585fea0ef31f5fd2_Snapshot.png",
+      "md5": "7517fdc6a2ad57c8313c85c2cf0fa30e",
+      "size": 10550,
+      "uploadedDate": "2019-03-27T16:40:13.372Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealSS2-1920x1080-fd022ac7169c53b80cb9b10f7bead5f2_Snapshot.png",
+      "md5": "5c6adb1ae21abc4b903cc608fe76c3c2",
+      "size": 9862,
+      "uploadedDate": "2019-03-27T14:46:13.600Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealSS1-1920x1080-6bdff3fdcb80a9b74623ab213cb5f800_Snapshot.png",
+      "md5": "aef64f22bd5d1f93ed0e9e81ec1f3e7e",
+      "size": 10158,
+      "uploadedDate": "2019-03-27T14:43:30.776Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealSS2-1920x1080-eb49c37650cfec5d4ed59bfb5b82a884_Snapshot.png",
+      "md5": "55da43b2d5643eeb1e301509477fd148",
+      "size": 9878,
+      "uploadedDate": "2019-03-27T14:43:31.046Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothSyncUnrealImageOne-1920x1080-45d7aac3b87c6b378ec89f4df9d339dd_Snapshot.png",
+      "md5": "36c7ceb04ab27a5d261908283b38cdd6",
+      "size": 10780,
+      "uploadedDate": "2018-05-30T22:29:43.631Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothSyncUnrealImageTwo-1920x1080-1cb32d1f8175de8b261e62c180f63fbd_Snapshot.png",
+      "md5": "86af53a567e750aec8ba31b94bed0168",
+      "size": 10478,
+      "uploadedDate": "2018-05-30T22:29:43.991Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fbfb8b45f6b9446cb841b7f5d1eb10ef"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,296 @@
+{
+  "id": "4610b3eef5e14c92bddd8eabef953083",
+  "namespace": "ue",
+  "title": "Feedback Event Factory",
+  "description": "Feedback Event Factories are perfect for managing sounds, particle systems, force feedback, camera shakes, time dilation, animations and more...all within a single Blueprint!",
+  "longDescription": "<p>Speed up your development process, reduce code/blueprint complexity &amp; never forget to give the player what they deserve again w/ the <strong>Feedback Event Factory</strong> code plugin! It doesn&#39;t matter what type of game you&#39;re making, utilizing this plugin will make development for Unreal Engine faster by aggregating settings and control for feedback events (sounds, particle systems, force feedback, camera shake, etc.) into a single spot.</p><p><br /></p><p>In addition to being a workflow enhancer, the <strong>Feedback Event Factory</strong> includes unique support like Head/Loop/Tail control for Sounds and allowing developers to specify multiple Particle Systems in a single factory; each with unique attachment settings.</p><p><br /></p><p>More advanced features include specifying control over whether a Sound or Particle System should only trigger for the player that owns the <strong>Feedback Event Factory</strong> (e.g. the player firing the weapon) or for all players in a networked multiplayer match.</p><p><br /></p><p>...and more!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "feedback-event-factory",
+  "creationDate": "2018-02-23T20:52:46.081Z",
+  "lastModifiedDate": "2024-10-12T21:17:48.037Z",
+  "effectiveDate": "2018-02-23T20:52:46.009Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vshfmww8jag3qe2qrzawvmqqc2qhuc",
+    "name": "Masonic Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>For a complete overview, view our <a href=\"https://youtu.be/9hZVdtQVu5U\" rel=\"nofollow\">Advanced Video Tutorial</a>! Additional documentation:</p><ul><li><a href=\"https://www.masonicstudios.com/feedbackeventfactory\" rel=\"nofollow\">Simple Tutorial</a> for the basics.</li><li><a href=\"https://www.masonicstudios.com/blog/2018/02/23/give-the-player-what-they-deserve\" rel=\"nofollow\">Blog Post</a> for the philosophy.</li><li><a href=\"https://forums.unrealengine.com/t/code-plugin-feedback-event-factory/104554\" rel=\"nofollow\">Support Thread</a> for additional help.</li></ul><p><br /></p><p><strong>Create &amp; manage the following feedback events:</strong></p><ol><li>Particle Systems</li><li>Sounds</li><li>Force Feedback</li><li>Camera Shake</li><li>Actors</li><li>Animations</li><li>Time Dilation</li><li>AI Noises</li></ol><p> </p><p><strong>Code Modules:</strong></p><ul><li> FeedbackEventFactory (Runtime, Editor)</li></ul><p><br /></p><p><strong>Number of Blueprints:</strong> 1</p><p><strong>Number of C&#43;&#43; Classes:</strong> 1</p><p><br /></p><p><strong>Network Replicated:</strong> <u>No</u>, this would be highly inefficient!</p><p><br /></p><p><strong>Supported Development Platforms:</strong> Win32, Win64</p><p><strong>Supported Target Build Platforms:</strong> In theory, all platforms. Don&#39;t have resources for testing them all.</p><p><br /></p><p><strong>Important/Additional Notes:</strong> <a href=\"https://www.masonicstudios.com/\" rel=\"nofollow\">Masonic Studios</a> is dedicated to supporting this and every other product we release on the Unreal Engine Marketplace. Please don&#39;t hesitate to reach out w/ requests for help or more information!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3e11ffc2-fc87-413c-936b-ccd6d9664559"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery00-1920x1080-8cbc9e138ca2344b0b08c98d5a02ebd3.png",
+      "md5": "8cbc9e138ca2344b0b08c98d5a02ebd3",
+      "size": 1168223,
+      "uploadedDate": "2018-02-13T01:13:43.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery06-1920x1080-437902a8b650a530c2baad8b5ad9d5bd.png",
+      "md5": "437902a8b650a530c2baad8b5ad9d5bd",
+      "size": 651760,
+      "uploadedDate": "2018-02-13T02:08:39.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery07-1920x1080-792303c0f2938c18b155d092c9d305fb.png",
+      "md5": "792303c0f2938c18b155d092c9d305fb",
+      "size": 531979,
+      "uploadedDate": "2018-02-13T02:08:39.212Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery01-1920x1080-cc3d8731a103ec65633eeba8b65b1575.png",
+      "md5": "cc3d8731a103ec65633eeba8b65b1575",
+      "size": 160930,
+      "uploadedDate": "2018-02-13T02:08:38.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery02-1920x1080-b3cf753a113b2595c4b5d48861dac14e.png",
+      "md5": "b3cf753a113b2595c4b5d48861dac14e",
+      "size": 225411,
+      "uploadedDate": "2018-02-13T02:08:38.498Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery03-1920x1080-968c6450446e8510a358dc668fbe5394.png",
+      "md5": "968c6450446e8510a358dc668fbe5394",
+      "size": 200449,
+      "uploadedDate": "2018-02-13T02:08:38.680Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery04-1920x1080-ee8cdde5dcb920622c76333284e5795b.png",
+      "md5": "ee8cdde5dcb920622c76333284e5795b",
+      "size": 233165,
+      "uploadedDate": "2018-02-13T02:08:38.797Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEFGallery05-1920x1080-016c97abf91f887d68af6b8d5b44a162.png",
+      "md5": "016c97abf91f887d68af6b8d5b44a162",
+      "size": 236527,
+      "uploadedDate": "2018-02-13T02:08:38.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FeedbackEventFactory_thumb-284x284-559466e5e8634d57c406c336a6cb557f.png",
+      "md5": "559466e5e8634d57c406c336a6cb557f",
+      "size": 40716,
+      "uploadedDate": "2018-02-23T22:06:30.406Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FeedbackEventFactory_featured-894x488-6f04ef1c979ed768f4228e5fb2619cda.png",
+      "md5": "6f04ef1c979ed768f4228e5fb2619cda",
+      "size": 471557,
+      "uploadedDate": "2018-02-13T01:13:44.295Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "d378087844174d67ac07c7cb30fc9515"
+    }
+  ],
+  "catalogNs": null
+}

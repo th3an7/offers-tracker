@@ -1,0 +1,143 @@
+{
+  "id": "67e8100f9f3f40f293d44c95194e177c",
+  "namespace": "ue",
+  "title": "Rama's Melee Weapon Plugin",
+  "description": "This plugin adds a melee weapon system to your game with customizable per-bone collision detection!",
+  "longDescription": "<h2><strong>~~~~~~~~~~~~~~~~~~~~~~~~~~~~</strong></h2><h2><strong>** The UE5 Update Is Complete!!!! **</strong></h2><h2><strong>~~~~~~~~~~~~~~~~~~~~~~~~~~~~</strong></h2><h2>UE5 Video: <a href=\"https://www.youtube.com/watch?v&#61;SH3yhIXEJQ0\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;SH3yhIXEJQ0</a></h2><h2><br /></h2><p>I had to do a full re-coding of the plugin to make the transition to the Joyful Chaos Engine, and do some fancy tricks under the hood to get everything working in this early UE5 release, but it is all done now! Woohooo! ♥ Rama</p><h2><br /></h2><h2>Plugin Tutorial Video Playlist</h2><p>https://www.youtube.com/watch?v&#61;aufEB4TCf30&amp;list&#61;PLanD4oBjFkL9PMvxrUJIzvrIBxuw_Pbpi&amp;ab_channel&#61;RamaUE4Plugins</p><h2><br /></h2><h1><strong>Sample Project for UE5</strong></h1><p><br /></p><p>Unreal Engine 5 Sample Project That Demonstrates New Features (Requires That You Have The Plugin Already)</p><p><a href=\"http://www.lightningfitness.org/ue4code/RamaMeleeWeapon_Project_UE5_requiresplugin.zip\" rel=\"nofollow\">http://www.lightningfitness.org/ue4code/RamaMeleeWeapon_Project_UE5_requiresplugin.zip</a></p><p><br /></p><p>1. Press the v key to change between 3 weapons using only data assets, and a single Rama Melee Weapon Component!</p><p><br /></p><p>2. The new DataAsset feature I&#39;ve added, along with the function SetRamaMeleeWeapon, makes it easy for you to have 100s of weapons available on a single actual Rama Melee Component, and also make your full weapon inventory available to every Blueprint of Every Character, with a single variable!</p><p><br /></p><p>3. Initial Overlaps on SwingStart (The SwingStart happens when the shapes are already within another actor) can now be included using the new feature, see Tech Specs for more exact info!</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h1><strong>Rama Entertainment Videos (REVs)</strong></h1><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h2><strong>UE5 Video With Chaos Engine C&#43;&#43; Code Explanation</strong></h2><h2><a href=\"https://www.youtube.com/watch?v&#61;SH3yhIXEJQ0\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;SH3yhIXEJQ0</a></h2><p><br /></p><p>This video is a must-watch for those of you transitioning to UE5! I explain the new features I added in UE5!</p><p><br /></p><p>Annnnd,</p><p><br /></p><p>For all you Lovely Unreal Engine C&#43;&#43; programmers, or those interested in learning C&#43;&#43;, I give you a description of the code changes I had to make, a full rewrite of the plugin, to work with UE5&#39;s Chaos Engine!</p><p><br /></p><p>Enjoy!</p><p><br /></p><p>♥</p><p><br /></p><p>Rama</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h2><strong>UE4</strong></h2><p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;aufEB4TCf30\" rel=\"nofollow\">youtube.com/watch?v&#61;aufEB4TCf30</a></p><p><br /></p><p>Video Documentation</p><p>• <a href=\"https://www.youtube.com/watch?v&#61;aufEB4TCf30\" rel=\"nofollow\">Intro</a></p><p>• <a href=\"https://www.youtube.com/watch?v&#61;IPPgDeM9Hv8\" rel=\"nofollow\">Part 1</a></p><p>• <a href=\"https://www.youtube.com/watch?v&#61;gjW_jQSuJ2Q\" rel=\"nofollow\">Part 2</a></p><p>• <a href=\"https://www.youtube.com/watch?v&#61;h2lk-NH6HqY\" rel=\"nofollow\">Part 3</a></p><p><br /></p><p><strong>Updates: </strong></p><p>See Technical info section</p><p><br /></p><p>Rama&#39;s Melee Weapon plugin has these powerful Features:</p><p><br /></p><p>1. Ability to specify exactly which parts of a weapon’s physics asset deal damage.</p><p><br /></p><p>2. Complete control over which parts of a swing animation deal the damage, allowing you to ignore the wind up and wind down from a swing animation, through the use of UE4 animation notifies.</p><p><br /></p><p>3. Per-bone accuracy, so you can know exactly which bones of a character mesh were hit by the weapon!</p><p><br /></p><p>4. My very own custom PhysX core coding, so that efficient volume shapes are used to represent the weapon’s collision as it swings through the air. I went deep into Nvidia’s PhysX system and wrote a lot of custom code to make this system as efficient and customizeable as possible! I added a lot of code to draw PhysX shapes in the editor and during runtime so you can see exactly what my Rama Melee Plugin is doing!</p><p><br /></p><p>5. The whole system can be utilized entirely in Blueprints, but my plugin includes all the source code so you can extend every part of my system, including the hardcore PhysX coding! I have many videos demonstrating the usefulness and mechanics of this plugin <a href=\"http://ue4code.com/melee_weapon_system_plugin_per_bone_collision_accuracy\" rel=\"nofollow\">here</a>.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rama-s-melee-weapon-plugin",
+  "creationDate": "2016-02-12T16:03:39.850Z",
+  "lastModifiedDate": "2024-10-15T14:37:03.896Z",
+  "effectiveDate": "2016-05-23T00:00:00.000Z",
+  "viewableDate": "2016-05-23T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-c86000a278413184b89c0633cf7a2f",
+    "name": "Rama"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Intended Platforms: Any platform the UE5 Chaos Engine works with :)</p><p>Platforms Tested: Desktop</p><p><br /></p><p><strong>Important\\Additional Notes</strong>: Entire C&#43;&#43; source code is included!</p><p><br /></p><p>Updates:</p><p>6/7/2016 ~ Hit results now return the physical material that was struck by the melee weapon!</p><p><br /></p><p>8/27/2016 ~ The physics asset shape index is now returned with the Weapon Hit event so you can apply custom damage amounts based on which weapon shape made contact!</p><p><br /></p><p>5/13/2018 ~ Deep Tracing is now an optional feature for use with weapons that pass through everything they hit very fast and you want to report all hits, even within a single trace tick (think Lightning Sword). See related Product Picture for more info! ♥ Rama</p><p><br /></p><p>~~~ UE5 ~~~</p><p>4/22/2022</p><p>Include Initial Overlaps During Swing Start ~ allows you to return a hit event if SwingStart happens when the melee weapon is already inside of a target actor, you can turn this feature on or off during runtime!</p><p><br /></p><p>Draw Shape Indices ~ Makes setting up the damage map much more intuitive!</p><p><br /></p><p>New Data Assets ~ So that you can have just a single Rama Melee Component, and change the mesh/DamageMap using SetRamaMeleeWeapon function</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4c507d9f-fa8d-4c30-9a6f-48441d5bd08f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_Screenshot01-1920x1080-0f9d359964f0dec8d2fbab1e9d6dd4a7.png",
+      "md5": "0f9d359964f0dec8d2fbab1e9d6dd4a7",
+      "size": 422055,
+      "uploadedDate": "2016-05-03T17:29:36.335Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_Screenshot02-1920x1080-19883fecd189a4296d5c448a5e8d390e.png",
+      "md5": "19883fecd189a4296d5c448a5e8d390e",
+      "size": 300295,
+      "uploadedDate": "2016-05-03T17:29:33.806Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_Screenshot03-1920x1080-1f2f21ba99ed51c94aec00b2a2be34a4.png",
+      "md5": "1f2f21ba99ed51c94aec00b2a2be34a4",
+      "size": 368323,
+      "uploadedDate": "2016-05-03T17:29:32.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_Screenshot04-1920x1080-8f60a7754e5f5e3458b093a64aaeca01.png",
+      "md5": "8f60a7754e5f5e3458b093a64aaeca01",
+      "size": 869281,
+      "uploadedDate": "2016-05-03T17:29:30.311Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_Screenshot05-1920x1080-d4924433def1fa4b0a2d5d0a49811498.png",
+      "md5": "d4924433def1fa4b0a2d5d0a49811498",
+      "size": 909603,
+      "uploadedDate": "2016-05-03T17:29:28.301Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DeepTrace-1920x1080-343f44078e9ee28ec2f684c42df83443.jpg",
+      "md5": "343f44078e9ee28ec2f684c42df83443",
+      "size": 389209,
+      "uploadedDate": "2018-05-13T21:15:51.793Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_Thumb-284x284-64a1ad16ef6151beec16d0470c70d17f.png",
+      "md5": "64a1ad16ef6151beec16d0470c70d17f",
+      "size": 210383,
+      "uploadedDate": "2016-05-03T17:29:25.495Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_Featured-476x246-8f4255bfcb802fa6b4ac05d7b5b95767.png",
+      "md5": "8f4255bfcb802fa6b4ac05d7b5b95767",
+      "size": 323895,
+      "uploadedDate": "2016-05-03T17:29:39.612Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaMeleePlugin_FeaturedNew-894x488-d8c9842bea02cd91ed9ab4dc6ee56267.png",
+      "md5": "d8c9842bea02cd91ed9ab4dc6ee56267",
+      "size": 217110,
+      "uploadedDate": "2016-05-03T17:29:37.982Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "eb61ad23d7e843b98644ca3e8d5b8cad"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": "d1336ce708464522a0b5fd5d9f783c7a",
+  "namespace": "ue",
+  "title": "EZPilot - Simple 3D AI Navigation Mesh and Component",
+  "description": "This plugin will easily create convincing flying AI movement, using only a navigation volume and a simple actor component!",
+  "longDescription": "<p>What is EZPilot?</p><p>EZPilot is a code plugin that contains a 3d Navigation mesh and Navigation Component, which contains commands like move to location, to create convincing and efficient 3d movement for your flying AI.</p><p><br /></p><p>How can I use EZPilot?</p><p>You just need to add the volume (or volumes) in your level where you want the AI to navigate, and add the component to your AI, then you can command your AI to freely and efficiently move anywhere!</p><p><br /></p><p>Is EZPilot complicated?</p><p>EZPilot is quite easy to understand, with heavily commented blueprints and C&#43;&#43; code, but for those more interested in the technical side of things, there is heavy documentation covering the asset, and if you find yourself with more questions outside of that, there is a Discord Support server where you will be helped!</p><p><br /></p><p>How big is EZPilot?</p><p>EZPilot takes up less than 1 MB on disk space (by itself, without the showcase), and an extremely small amount of memory and CPU (its hard to estimate because Unreal Engine takes up quite a large amount itself, but EZPilot is practically unnoticeable in your levels performance, how do we know it doesnt effect performance? It always keeps 120 fps on an empty project).</p><p><br /></p><p>Will EZPilot be receiving updates?</p><p>It is unlikely that I will update EZPilot as of today, aside from engine version updates, unless there is an overwhelming number of requests for it to change. However, I am always working on other assets, and you can find me in the Discord server if you feel that something is missing in your project!</p><p><br /></p><p>The core pathfinding volume behind EZPilot can be found <a href=\"https://youtu.be/IyJKrvy9afo\" rel=\"nofollow\">here</a> for free, created by Reids channel.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ezpilot-simple-3d-ai-navigation-mesh-and-component",
+  "creationDate": "2022-10-16T13:49:20.013Z",
+  "lastModifiedDate": "2024-10-15T13:50:15.848Z",
+  "effectiveDate": "2022-10-16T13:49:19.939Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pzv6gx6uncl9dxmu9xnd638j9stqlr",
+    "name": "EZSystems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Contains a clean and optimized volume written in C&#43;&#43; that handles all the pathfinding for you.</li><li> Contains a commented actor component that provides useful navigation functions such as &#34;Move to Location&#34;</li><li> Easy to use, just add the volume to the world, and the component to your actor, and the rest is done for you!</li></ul><p>Code Modules:</p><ul><li> EZPilot_NavigationVolume.cpp and .h - Runtime (Used to generate 3d pathfinding for AI)</li><li> EZPilot_NavNode.cpp and .h - Runtime (Used for the coordinate system)</li></ul><p>Number of Blueprints: 3 (Not including showcase content) - EZPilotComponent, NavBlockingVolume, and NavVolume.</p><p>Number of C&#43;&#43; Classes: 2 - EZPilot Volume and Node (coordinate system)</p><p>Network Replicated: Yes</p><p>Supported Development/Target Build Platforms: Windows, Android, Linux, and MacOS.</p><p>Documentation: <a href=\"https://docs.google.com/document/d/103JH12kbekhbsmbBZoewMlXflAoyyBEpLgl7Fb5wQXU/edit?usp&#61;sharing\" rel=\"nofollow\">CLICK HERE</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1z5agXl7bDkTSgi4thTDhAzKdZ5jyQY8g/view?usp&#61;sharing\" rel=\"nofollow\">Google Drive</a></p><p>Showcase Video: <a href=\"https://youtu.be/zEOBmf-zAVQ\" rel=\"nofollow\">YouTube</a></p><p>Notes:</p><p>The core pathfinding volume behind EZPilot can be found <a href=\"https://youtu.be/IyJKrvy9afo\" rel=\"nofollow\">here</a> for free, created by Reids channel.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1193",
+      "name": "CYBERPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:54.272Z",
+      "updated": "2022-08-24T18:46:51.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2f5ce44d-d56e-4504-a565-0442e0c011d4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-2c760050e2ebf68213afde0987cbde8b.png",
+      "md5": "2c760050e2ebf68213afde0987cbde8b",
+      "size": 1347643,
+      "uploadedDate": "2022-10-15T19:27:02.812Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-2e24caaa7b58b2ed7f64fc8c45dabdef.png",
+      "md5": "2e24caaa7b58b2ed7f64fc8c45dabdef",
+      "size": 120402,
+      "uploadedDate": "2022-10-15T19:27:03.164Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-b88ee0afea82b25a4d6df6cf4bcacc74.png",
+      "md5": "b88ee0afea82b25a4d6df6cf4bcacc74",
+      "size": 621548,
+      "uploadedDate": "2022-10-15T19:27:03.499Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-d4eb17cb03d318dccb8dc9528ec9d28a.png",
+      "md5": "d4eb17cb03d318dccb8dc9528ec9d28a",
+      "size": 1060871,
+      "uploadedDate": "2022-10-15T19:27:03.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery05-1920x1080-07c7b0ee60bdfddd89794678c3759592.png",
+      "md5": "07c7b0ee60bdfddd89794678c3759592",
+      "size": 1020962,
+      "uploadedDate": "2022-10-15T19:27:04.243Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery06-1920x1080-ed0376556ac4dedad6c069cc2f3c2814.png",
+      "md5": "ed0376556ac4dedad6c069cc2f3c2814",
+      "size": 1422458,
+      "uploadedDate": "2022-10-15T19:27:04.672Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery07-1920x1080-bc4a067fab7a85c05eef3f444179748a.png",
+      "md5": "bc4a067fab7a85c05eef3f444179748a",
+      "size": 174838,
+      "uploadedDate": "2022-10-15T19:27:05.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EZPilotSimple3DAINavigationMeshandComponent_thumb-284x284-c02b4b5bbbb75a7c097b3f7cebc1f7e2.png",
+      "md5": "c02b4b5bbbb75a7c097b3f7cebc1f7e2",
+      "size": 89939,
+      "uploadedDate": "2022-10-15T19:27:05.378Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EZPilotSimple3DAINavigationMeshandComponent_featured-894x488-f4cf395196d80fa472ba8efa1ea873ce.png",
+      "md5": "f4cf395196d80fa472ba8efa1ea873ce",
+      "size": 399264,
+      "uploadedDate": "2022-10-15T19:27:05.486Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-2c760050e2ebf68213afde0987cbde8b_Snapshot.png",
+      "md5": "903f72527b65d48fdfc59011adaa0049",
+      "size": 6671,
+      "uploadedDate": "2022-10-15T19:27:03.084Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-2e24caaa7b58b2ed7f64fc8c45dabdef_Snapshot.png",
+      "md5": "3f555ead5dc1c8382408fec5035f30df",
+      "size": 6243,
+      "uploadedDate": "2022-10-15T19:27:03.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-b88ee0afea82b25a4d6df6cf4bcacc74_Snapshot.png",
+      "md5": "d49f76c57c59bdded32b4c425711c7a8",
+      "size": 6112,
+      "uploadedDate": "2022-10-15T19:27:03.740Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-d4eb17cb03d318dccb8dc9528ec9d28a_Snapshot.png",
+      "md5": "84ee2127e59aa38fba32d33ee8c37dfe",
+      "size": 4619,
+      "uploadedDate": "2022-10-15T19:27:04.114Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-07c7b0ee60bdfddd89794678c3759592_Snapshot.png",
+      "md5": "ad3a92dc510ceb7693ac4fc4ecdb4a01",
+      "size": 4499,
+      "uploadedDate": "2022-10-15T19:27:04.502Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery06-1920x1080-ed0376556ac4dedad6c069cc2f3c2814_Snapshot.png",
+      "md5": "c46f7c312833bbdc7ecd40bed8e42b84",
+      "size": 5382,
+      "uploadedDate": "2022-10-15T19:27:04.950Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery07-1920x1080-bc4a067fab7a85c05eef3f444179748a_Snapshot.png",
+      "md5": "070dd89038b01291b47db53f076a3f6d",
+      "size": 5604,
+      "uploadedDate": "2022-10-15T19:27:05.274Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7258db38e67c4b369f85a70fbe0406ad"
+    }
+  ],
+  "catalogNs": null
+}

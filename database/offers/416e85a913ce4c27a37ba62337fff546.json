@@ -1,0 +1,350 @@
+{
+  "id": "416e85a913ce4c27a37ba62337fff546",
+  "namespace": "ue",
+  "title": "Snow Generator",
+  "description": "Create realistic to stylized snow meshes from scratch!",
+  "longDescription": "<p>&gt;&gt; <a href=\"https://sites.google.com/view/snowgenerator-userguide\" rel=\"nofollow\">DOCUMENTATION</a> FOR QUICK SET UP</p><p>&gt;&gt; <a href=\"https://www.youtube.com/watch?v&#61;5FoaIA9e8v4\" rel=\"nofollow\">TUTORIAL VIDEO</a></p><p><br /></p><p>Create realistic to stylized snow meshes from scratch with the <strong>Snow Generator</strong>!</p><p>This simple and handy tool allows you to easily create snow meshes without having to open any modeling software.</p><p>Customize at will with plenty of modifier variables ranging from basic snow thickness to procedural noise and displacement mapping.</p><p><br /></p><p><strong><u>Key features:</u></strong></p><p>⮞ <strong>User friendly</strong>, in-editor, tool interface.</p><p>⮞ <strong>30&#43; variables</strong> to tweak and play with.</p><p>⮞ Generate snow in <strong>any visual style</strong> you want.</p><p>⮞ <strong>No Blueprint knowledge</strong> needed.</p><p>⮞ <strong>Plug and Use</strong>.</p><p>⮞ Clear and precise <strong>documentation</strong>.</p><p><br /></p><p><strong><u>Tool functionalities:</u></strong></p><p>⮞ <strong>Modular</strong> snow generation.</p><p>⮞ <strong>Displacement</strong> and <strong>procedural noise</strong> available.</p><p>⮞ <strong>UV</strong> settings.</p><p>⮞ <strong>Mesh baking</strong> (supports nanite).</p><p>⮞ Save and load <strong>setting presets</strong>.</p><p><br /></p><p><strong><u>Notes and disclaimers:</u></strong></p><p>⮞ This tool is in a <strong>Beta stage</strong>. Some <strong>bugs and errors can occur</strong>, feel free to report them.</p><p>⮞ The tool needs <strong>Unreal&#39;s Geometry Script and Editor Scripting Utilities plugins</strong> to work properly. Enabling the Snow Generator plugin should <strong>automatically install the necessary dependencies</strong>.</p><p>⮞ Generation <strong>loading times</strong> can easily reach <strong>long minutes</strong> if parameters are not set with care. It is highly advised to<strong> read the whole documentation</strong> before diving into using the tool.</p><p>⮞ This tool is based on  <a href=\"https://www.artstation.com/cb3dart\" rel=\"nofollow\">CB3DART</a> &#39;s work and research. My creation uses the fundamentals he explained in a <a href=\"https://www.youtube.com/watch?v&#61;JDVENTPIf3w&amp;list&#61;PLf3utpF5Uf12EK9MD7BE7vReiv22Cm98H&amp;pp&#61;iAQB\" rel=\"nofollow\">short series of videos</a>. Feel free to check out his work!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "snow-generator",
+  "creationDate": "2024-08-15T16:48:10.888Z",
+  "lastModifiedDate": "2024-10-03T11:51:43.122Z",
+  "effectiveDate": "2024-08-15T18:00:56.433Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ftk9g3px4f5q9mjjapfe8tgkx3a3mp",
+    "name": "MaxTools"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 2</p><p>Number of c&#43;&#43; classes: 7</p><p>Network Replicated: No (Editor Only)</p><p>Windows: Yes</p><p>Other platforms: No</p><p><a href=\"https://sites.google.com/view/snowgenerator-userguide\" rel=\"nofollow\">Documentation</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e90d5632-05ce-4389-9347-47faa691a426"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SnowGeneratorGallery001-1920x1080-53c17b75fc1092399f1b7bedd75f987e.png",
+      "md5": "53c17b75fc1092399f1b7bedd75f987e",
+      "size": 1806843,
+      "uploadedDate": "2024-08-03T01:27:10.850Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SnowGeneratorGallery01-1920x1080-cd1a98f368ad058896ffe9aa6de2411c.png",
+      "md5": "cd1a98f368ad058896ffe9aa6de2411c",
+      "size": 1567816,
+      "uploadedDate": "2024-08-02T01:58:33.433Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SnowGeneratorGallery02-1920x1080-e858a64e9f05365a8a9b0b078f6d89fc.png",
+      "md5": "e858a64e9f05365a8a9b0b078f6d89fc",
+      "size": 2015408,
+      "uploadedDate": "2024-08-02T19:08:07.728Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SnowGeneratorGallery03-1920x1080-df2c760077d57021e8e5f5ad801d503a.png",
+      "md5": "df2c760077d57021e8e5f5ad801d503a",
+      "size": 684293,
+      "uploadedDate": "2024-08-02T01:58:34.736Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SnowGeneratorGallery04-1920x1080-bd975f833cd17ca2e139e42990122202.png",
+      "md5": "bd975f833cd17ca2e139e42990122202",
+      "size": 670854,
+      "uploadedDate": "2024-08-02T01:58:35.368Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SnowGeneratorGallery05-1920x1080-88881eefbaa1dc024e0727a0bf763b63.png",
+      "md5": "88881eefbaa1dc024e0727a0bf763b63",
+      "size": 284900,
+      "uploadedDate": "2024-08-02T02:17:03.499Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SnowGenerator_thumb-284x284-f501455fabcce5d5dd0b087541971be6.png",
+      "md5": "f501455fabcce5d5dd0b087541971be6",
+      "size": 99137,
+      "uploadedDate": "2024-07-31T20:38:18.800Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SnowGenerator_featured-894x488-8d487f711f3edcf6d51634bcc59f9842.png",
+      "md5": "8d487f711f3edcf6d51634bcc59f9842",
+      "size": 483722,
+      "uploadedDate": "2024-07-31T20:38:19.045Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SnowGeneratorGallery001-1920x1080-53c17b75fc1092399f1b7bedd75f987e_Snapshot.png",
+      "md5": "c92eb93018cdadec2794e31dfd30c818",
+      "size": 4979,
+      "uploadedDate": "2024-08-03T01:27:11.233Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SnowGeneratorGallery02-1920x1080-e858a64e9f05365a8a9b0b078f6d89fc_Snapshot.png",
+      "md5": "afa26cae32c4444a6b0210eed9f80ed7",
+      "size": 5426,
+      "uploadedDate": "2024-08-02T19:08:08.129Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SnowGeneratorGallery05-1920x1080-88881eefbaa1dc024e0727a0bf763b63_Snapshot.png",
+      "md5": "8dd324dcba0a0511504c7134afbc193c",
+      "size": 4589,
+      "uploadedDate": "2024-08-02T02:17:03.745Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SnowGeneratorGallery01-1920x1080-cd1a98f368ad058896ffe9aa6de2411c_Snapshot.png",
+      "md5": "b61643da94738a54a9c0b5c33f8961ed",
+      "size": 5682,
+      "uploadedDate": "2024-08-02T01:58:33.835Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SnowGeneratorGallery02-1920x1080-acfd9fcbac2fafd24fb2069c0097c54c_Snapshot.png",
+      "md5": "903523a8403e1002f69e22fbec20257a",
+      "size": 5457,
+      "uploadedDate": "2024-08-02T01:58:34.557Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SnowGeneratorGallery03-1920x1080-df2c760077d57021e8e5f5ad801d503a_Snapshot.png",
+      "md5": "17d0007d3cfea82250e34efda51c5f70",
+      "size": 3390,
+      "uploadedDate": "2024-08-02T01:58:35.030Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SnowGeneratorGallery04-1920x1080-bd975f833cd17ca2e139e42990122202_Snapshot.png",
+      "md5": "e917b3f123451a0731f5cf9b049ca921",
+      "size": 4278,
+      "uploadedDate": "2024-08-02T01:58:35.707Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920x1080-black-solid-color-background-1920x1080-f9074fffd52042b93f097aa3bd77b008_Snapshot.jpg",
+      "md5": "1ff834404d6d0e12b9ab29ead9207862",
+      "size": 827,
+      "uploadedDate": "2024-07-31T20:38:18.702Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "55c46e7c59a747e7b6cc26ddbb9223ad"
+    }
+  ],
+  "catalogNs": null
+}

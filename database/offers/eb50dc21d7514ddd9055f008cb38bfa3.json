@@ -1,0 +1,218 @@
+{
+  "id": "eb50dc21d7514ddd9055f008cb38bfa3",
+  "namespace": "ue",
+  "title": "Landscape Auto Material",
+  "description": "Boost your outdoor production using auto-painting landscape material and production-quality forest setting.",
+  "longDescription": "<p><a href=\"http://youtube.com/watch?v&#61;wkypCxc2Mzg\" rel=\"nofollow\"><strong>&lt; PLAY VIDEO &gt;</strong></a></p><p><a href=\"http://youtube.com/watch?v&#61;CzSutH-zAgU\" rel=\"nofollow\"><strong>&lt; PLAY FLY DEMO VIDEO &gt;</strong></a></p><p><br /></p><p>Landscape Auto Material is a flexible autopainting material for Unreal Engine 4 Landscape component. When you are drawing the topology of your landscape, proper material layers are drawn automatically.</p><p>You can paint these and additional landscape layers by hand, or apply masks from World Machine (or any other terrain generator). You don&#39;t need to edit complex shader systems; just link the textures and start making your awesome levels!</p><p>The package includes production-quality assets: realistic grass, translucent water with distortion and caustics, 7 tree types, 6 types of bushes, 5 types of flowers, 3 different stones and a blowball effect. A sample scene to get started is also included in the bundle.</p><p><br /></p><p>– Landscape auto-mapping based on the corner of the slope</p><p>– Grass auto-generation and smart distribution based on the natural rules of composition</p><p>– Triplanar (boxmapping) mapping, eliminating the texture stretching at vertical sides</p><p>– An opportunity to set up your materials and models easily</p><p>– Handling of the painting process for different layers using a weight system</p><p>– Height-mask blending</p><p>– Tessellation and Displacement (UE5 don&#39;t support tessellation)</p><p>– Material Layer Color-variations</p><p>- World Machine height-map support</p><p><br /></p><p>Latest updates:</p><p>- World Machine Example (imported heightmap)</p><p>- Improved height-blend for additional layers</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "landscape-auto-material",
+  "creationDate": "2015-12-02T00:10:35.785Z",
+  "lastModifiedDate": "2024-10-18T21:49:19.522Z",
+  "effectiveDate": "2016-01-06T00:00:00.000Z",
+  "viewableDate": "2016-01-06T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-befa1695284690b33864dc59d67b4e",
+    "name": "VEA GAMES"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Physically-Based Rendering: Yes</p><p>Texture Size : from 256x256 to 2048x2048</p><p>Collision: Yes, automatically generated (static meshes).</p><p>Keep in mind that landscape&#39;s auto generated meshes couldn&#39;t have collision due to performance issue. Use Foliage tool to make trees and cliffs.</p><p><br /></p><p>Vertex Count:</p><p>LODs: 1-4</p><p>Number of Meshes: 41</p><p>Number of Materials and Material Instances: 13 materials and 12 instances</p><p>Number of Textures: 62</p><p>Intended Platform: Desktop</p><p>Platforms Tested: Desktop Windows, MacOS 10.11 El Capitan</p><p>Documentation Included: Yes</p><p>Important\\Additional Notes: For more information visit <a href=\"https://www.veagames.com/lam-ue4\" rel=\"nofollow\">veagames.com/lam-ue4</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3f6d44e9-055d-48e1-b49b-1ed0b5cebe5f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_Screenshot_02-1920x1080-70ad28cc7677b7f9960041531c217cb4.png",
+      "md5": "70ad28cc7677b7f9960041531c217cb4",
+      "size": 1131017,
+      "uploadedDate": "2016-01-06T15:18:09.640Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewScreenHeightmap-1920x1080-bdda01a97ece7217ddec7dd705541f20.jpg",
+      "md5": "bdda01a97ece7217ddec7dd705541f20",
+      "size": 1822312,
+      "uploadedDate": "2019-02-20T18:52:02.846Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_Screenshot_03-1920x1080-e834d52e949a2f412905a02a7eda0504.png",
+      "md5": "e834d52e949a2f412905a02a7eda0504",
+      "size": 1056322,
+      "uploadedDate": "2016-01-06T15:18:14.036Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_Screenshot_04-1920x1080-0a57124b17de8d017d9828e856d85752.png",
+      "md5": "0a57124b17de8d017d9828e856d85752",
+      "size": 1187586,
+      "uploadedDate": "2016-01-06T15:18:18.456Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_Screenshot_05-1920x1080-af224ad22b30dbaa0fa4914937ebfb05.png",
+      "md5": "af224ad22b30dbaa0fa4914937ebfb05",
+      "size": 1141927,
+      "uploadedDate": "2016-01-06T15:18:25.786Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_Thumb-284x284-f196a8edb34f9892f9dd031359e0aa6d.png",
+      "md5": "f196a8edb34f9892f9dd031359e0aa6d",
+      "size": 52704,
+      "uploadedDate": "2015-12-02T00:07:52.492Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_Featured-476x246-42d8da630342d5a4c500f2d4d9541841.png",
+      "md5": "42d8da630342d5a4c500f2d4d9541841",
+      "size": 76068,
+      "uploadedDate": "2015-12-02T00:07:19.992Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewScreenHeightmap-1920x1080-bdda01a97ece7217ddec7dd705541f20_Snapshot.jpg",
+      "md5": "17e5ee5eddea646e37aa78d92e1180e0",
+      "size": 3238,
+      "uploadedDate": "2019-02-20T18:52:03.083Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_ComingSoon-394x208-06d83239de6d00c17d9870b035076b33.png",
+      "md5": "06d83239de6d00c17d9870b035076b33",
+      "size": 54810,
+      "uploadedDate": "2015-12-02T00:07:15.873Z",
+      "width": 394,
+      "height": 208
+    },
+    {
+      "type": "ComingSoon_Small",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_ComingSoon_Sm-145x208-b6a1e665a3edb4e8502aeacc0109bc4a.png",
+      "md5": "b6a1e665a3edb4e8502aeacc0109bc4a",
+      "size": 19861,
+      "uploadedDate": "2015-12-02T00:07:17.717Z",
+      "width": 145,
+      "height": 208
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_FeaturedNew-894x488-d9f18a6a44595c8495f565bdf21e4faf.png",
+      "md5": "d9f18a6a44595c8495f565bdf21e4faf",
+      "size": 249481,
+      "uploadedDate": "2015-12-02T00:07:23.736Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Image_894x488",
+      "url": "https://cdn1.epicgames.com/ue/item/LAM_Image_894X488-896x488-7e9e8e248dbbd3b2d889864efe8789a4.png",
+      "md5": "7e9e8e248dbbd3b2d889864efe8789a4",
+      "size": 252274,
+      "uploadedDate": "2015-12-02T00:07:26.310Z",
+      "width": 896,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "d7d15c8caff1465da51133e1da7ce872"
+    }
+  ],
+  "catalogNs": null
+}

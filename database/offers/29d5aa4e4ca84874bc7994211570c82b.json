@@ -1,0 +1,326 @@
+{
+  "id": "29d5aa4e4ca84874bc7994211570c82b",
+  "namespace": "ue",
+  "title": "ODBC FOR SQLServer",
+  "description": "SQLServer",
+  "longDescription": "<p><strong>Odbc for sqlserver is a blueprint plugin which can query/insert/update data from sqlserver.excute store procedure,open/close translate etc.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "odbc-for-sqlserver",
+  "creationDate": "2022-04-22T23:55:54.629Z",
+  "lastModifiedDate": "2024-10-05T14:17:55.673Z",
+  "effectiveDate": "2022-04-22T23:55:54.593Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-xtldhnhsc5jxxw8x83pkdqfr4n2neb",
+    "name": "SusanChen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Query data from oracle by Blueprint (SQL/Prepare)</li><li> Store Procedure</li><li> Translate</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li>  DsSQLServerODBC(Runtime)</li></ul><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:17</p><p>Network Replicated: No</p><p>Supported Development Platforms: [Win64]</p><p>Supported Target Build Platforms: [Win64]</p><p>Documentation: http://dascad.net/html/sqlserver/doc.pdf</p><p>Example Project: http://dascad.net/html/sqlserver/BPDemo.rar</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4c02379f-e5f7-4b9e-b9c2-1e21df72f4c8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver01-1920x1080-241e6c2fd086b1fc7a40df8f1832419e.png",
+      "md5": "241e6c2fd086b1fc7a40df8f1832419e",
+      "size": 310244,
+      "uploadedDate": "2022-04-20T09:30:15.346Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver02-1920x1080-1d03cd314bf9582b2b8fe55a7e86022c.png",
+      "md5": "1d03cd314bf9582b2b8fe55a7e86022c",
+      "size": 457390,
+      "uploadedDate": "2022-04-20T09:30:15.767Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver03-1920x1080-b28ecd10615925957ee4071ce251d77c.png",
+      "md5": "b28ecd10615925957ee4071ce251d77c",
+      "size": 367492,
+      "uploadedDate": "2022-04-20T09:30:16.160Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver04-1920x1080-1033de5ea836e21ea42d09af003c7991.png",
+      "md5": "1033de5ea836e21ea42d09af003c7991",
+      "size": 445173,
+      "uploadedDate": "2022-04-20T09:30:16.578Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver05-1920x1080-bc9251647cc93b68ef9f39fa82c0e261.png",
+      "md5": "bc9251647cc93b68ef9f39fa82c0e261",
+      "size": 410184,
+      "uploadedDate": "2022-04-20T09:30:17.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver06-1920x1080-7fdad73f6b80aa2ff0737a97c880fec9.png",
+      "md5": "7fdad73f6b80aa2ff0737a97c880fec9",
+      "size": 509516,
+      "uploadedDate": "2022-04-20T09:30:17.409Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver07-1920x1080-ccf91d5ccdc28834e3ce73585dbe287f.png",
+      "md5": "ccf91d5ccdc28834e3ce73585dbe287f",
+      "size": 347774,
+      "uploadedDate": "2022-04-20T09:30:17.862Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver08-1920x1080-46b4eb4b471bd1063cf286a76e3547ad.png",
+      "md5": "46b4eb4b471bd1063cf286a76e3547ad",
+      "size": 353278,
+      "uploadedDate": "2022-04-20T09:30:18.335Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver09-1920x1080-0687df47d243fa84685a202bd29f32ba.png",
+      "md5": "0687df47d243fa84685a202bd29f32ba",
+      "size": 440382,
+      "uploadedDate": "2022-04-20T09:30:18.720Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver10-1920x1080-abed7a53f62fc9ec5a2a1894b52339f8.png",
+      "md5": "abed7a53f62fc9ec5a2a1894b52339f8",
+      "size": 619463,
+      "uploadedDate": "2022-04-20T09:30:19.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sqlserver11-1920x1080-b20784fd64ad0efb9faf9764958db6fe.png",
+      "md5": "b20784fd64ad0efb9faf9764958db6fe",
+      "size": 795765,
+      "uploadedDate": "2022-04-20T09:30:19.590Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ODBCFORSQLServer_thumb-284x284-517349abf18491a2caf6381d61e8af2e.png",
+      "md5": "517349abf18491a2caf6381d61e8af2e",
+      "size": 28889,
+      "uploadedDate": "2022-04-20T09:30:19.973Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ODBCFORSQLServer_featured-894x488-55b29d589818a90057cb6b108aefb757.png",
+      "md5": "55b29d589818a90057cb6b108aefb757",
+      "size": 158935,
+      "uploadedDate": "2022-04-20T09:30:20.093Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver01-1920x1080-241e6c2fd086b1fc7a40df8f1832419e_Snapshot.png",
+      "md5": "b80cfa709ed262feca0ddb354fd56014",
+      "size": 3561,
+      "uploadedDate": "2022-04-20T09:30:15.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver02-1920x1080-1d03cd314bf9582b2b8fe55a7e86022c_Snapshot.png",
+      "md5": "5dff309877122802f2071cac42dfb2b1",
+      "size": 4538,
+      "uploadedDate": "2022-04-20T09:30:16.020Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver03-1920x1080-b28ecd10615925957ee4071ce251d77c_Snapshot.png",
+      "md5": "51491f87b75b0e2c4c29273c81e95948",
+      "size": 3812,
+      "uploadedDate": "2022-04-20T09:30:16.406Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver04-1920x1080-1033de5ea836e21ea42d09af003c7991_Snapshot.png",
+      "md5": "943219008d95d5c005da415f286c0f11",
+      "size": 4058,
+      "uploadedDate": "2022-04-20T09:30:16.826Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver05-1920x1080-bc9251647cc93b68ef9f39fa82c0e261_Snapshot.png",
+      "md5": "aac247c34d5edcf695ee59caa2f4d329",
+      "size": 4248,
+      "uploadedDate": "2022-04-20T09:30:17.268Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver06-1920x1080-7fdad73f6b80aa2ff0737a97c880fec9_Snapshot.png",
+      "md5": "2a6468767575a46686417185b4bda234",
+      "size": 4697,
+      "uploadedDate": "2022-04-20T09:30:17.697Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver07-1920x1080-ccf91d5ccdc28834e3ce73585dbe287f_Snapshot.png",
+      "md5": "1945bba6440a1557cc3cc967436188f3",
+      "size": 3831,
+      "uploadedDate": "2022-04-20T09:30:18.185Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver08-1920x1080-46b4eb4b471bd1063cf286a76e3547ad_Snapshot.png",
+      "md5": "371f4187d23d18592ea0b250b1bffbca",
+      "size": 3900,
+      "uploadedDate": "2022-04-20T09:30:18.597Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver09-1920x1080-0687df47d243fa84685a202bd29f32ba_Snapshot.png",
+      "md5": "0c657597c327d7b0535a0e9f42d21db8",
+      "size": 4565,
+      "uploadedDate": "2022-04-20T09:30:18.992Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver10-1920x1080-abed7a53f62fc9ec5a2a1894b52339f8_Snapshot.png",
+      "md5": "4c3720d01a8b623de10b8965fdb8b78e",
+      "size": 5289,
+      "uploadedDate": "2022-04-20T09:30:19.404Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sqlserver11-1920x1080-b20784fd64ad0efb9faf9764958db6fe_Snapshot.png",
+      "md5": "231a3b6d0d97b48241ba2fbeda452e20",
+      "size": 6510,
+      "uploadedDate": "2022-04-20T09:30:19.864Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7c7c5910751045589d57a3fe1d8ea84d"
+    }
+  ],
+  "catalogNs": null
+}

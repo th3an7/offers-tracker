@@ -1,0 +1,252 @@
+{
+  "id": "79d2dd58387c4696a0f3458275f739d6",
+  "namespace": "ue",
+  "title": "Houdini Niagara Plugin",
+  "description": "The Houdini Niagara Plug-in allows importing and processing of Point Cache assets in Unreal’s Niagara Visual Effects System.",
+  "longDescription": "<p>Houdini is built from the ground up to be a procedural system that empowers artists to work freely, create multiple iterations and rapidly share workflows with colleagues. Houdini and its breakthrough procedural based technology has been recognized four times by the Academy of Motion Pictures, Arts and Sciences and has been used in countless video games, movies and TV shows. With many tools for working with and manipulating particles, Houdini is the ideal tool for creating particle FX for use in Unreal’s Niagara Visual Effects System.</p><p><br /></p><p>The plug-in brings point cache data saved out as a custom JSON file into Niagara along with attributes such as age, life, id and color. These point caches can be static or animated point clouds created using procedural modeling techniques or using Particle, FLIP Fluid or Rigid Body simulation tools. You can even export points from Houdini’s crowd system to combine Crowd simulations with vertex animation tools. </p><p><br /></p><p>With these powerful techniques combined with a rich data interface for importing and processing important attributes into Niagara, this plug-in is a must have for creating Realtime FX for your games.</p><p><br /></p><p><strong>Please note</strong> that a Houdini or Houdini Indie license is required to export the point cache files. Houdini Indie is an affordable product available for indie gamedevs and provides all the tools needed to use this plug-in to export to Niagara. </p><p><br /></p><p><strong>Download and Purchase Houdini: </strong><a href=\"https://www.sidefx.com/download/\" rel=\"nofollow\">https://www.sidefx.com/download/</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "79d2dd58387c4696a0f3458275f739d6",
+  "creationDate": "2020-06-29T15:21:28.974Z",
+  "lastModifiedDate": "2024-10-15T13:34:44.608Z",
+  "effectiveDate": "2020-06-29T15:21:26.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-39217dda384441aea848b4b4ff58ee",
+    "name": "Side Effects"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong> This plug-in adds a new &#34;Houdini Data Interface&#34; to Niagara with the ability to import HoudiniPointCache assets. This data interface imports and processes these caches. You can export the cache files using the Niagara ROP, available via SideFXLabs.</p><p><br /></p><p>Supported file types for the point caches:</p><p>*.hjson: Houdini JSON point cache (ascii)</p><p>*.hbjson: Houdini JSON point cache (binary)</p><p>*.hcsv: Houdini CSV point cache (legacy CSV, used by previous plugin)</p><p><br /></p><p><strong>Installation:</strong></p><p>Copy the &#34;HoudiniNiagara&#34; folder contained in this release&#39;s zip file into the &#34;Engine/Plugins/FX&#34; directory of Unreal Engine.</p><p><br /></p><p><strong>Code Modules: </strong></p><p>HoudiniNiagara [Runtime]</p><p>HoudiniNiagaraEditor [Editor]</p><p><br /></p><p><strong>Number of Blueprints:</strong> 0</p><p><strong>Number of C&#43;&#43; Classes: </strong>11</p><p><strong>Network Replicated: </strong>No</p><p><br /></p><p><strong>Supported Development Platforms:</strong> Windows/Mac</p><p><br /></p><p><strong>Supported Target Build Platforms:</strong> Windows/Mac</p><p><br /></p><p><strong>Documentation: </strong><a href=\"https://www.sidefx.com/docs/unreal/_niagara.html\" rel=\"nofollow\">https://www.sidefx.com/docs/unreal/_niagara.html</a></p><p><strong>Quickstart Videos:</strong> <a href=\"https://www.sidefx.com/tutorials/houdini-to-ue4s-niagara/\" rel=\"nofollow\">https://www.sidefx.com/tutorials/houdini-to-ue4s-niagara/</a></p><p><br /></p><p><strong>Example Project: </strong>https://www.sidefx.com/contentlibrary/houdini-niagara-for-ue4/</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "20e61173-5507-4772-a88d-953e1f9d29c3"
+    },
+    {
+      "key": "BuyLink",
+      "value": "https://github.com/sideeffects/HoudiniNiagara/releases"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/houdininiagarademo1-1920x1080-4747e5b9caaff4aa0d562bd44059cf95.jpg",
+      "md5": "4747e5b9caaff4aa0d562bd44059cf95",
+      "size": 366608,
+      "uploadedDate": "2020-06-24T18:53:04.939Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/houdininiagarademo1a-1920x1080-74a4322f1a915a3feec5064bbd105d75.jpg",
+      "md5": "74a4322f1a915a3feec5064bbd105d75",
+      "size": 121658,
+      "uploadedDate": "2020-06-24T18:53:05.650Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/houdininiagarademo1b-1920x1080-80d6be596e5a17ce1dcdb20b1dad4056.jpg",
+      "md5": "80d6be596e5a17ce1dcdb20b1dad4056",
+      "size": 249240,
+      "uploadedDate": "2020-06-24T18:53:05.940Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/houdininiagarademo2a-1920x1080-991ed3e00933fcc5ce53352b660b526f.jpg",
+      "md5": "991ed3e00933fcc5ce53352b660b526f",
+      "size": 338034,
+      "uploadedDate": "2020-06-24T18:53:06.520Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/houdininiagarademo2b-1920x1080-d6794efb4cb0687dd058d0915a0f36c1.jpg",
+      "md5": "d6794efb4cb0687dd058d0915a0f36c1",
+      "size": 169663,
+      "uploadedDate": "2020-06-24T18:53:06.900Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/houdininiagarademo3-1920x1080-454af0932fbeb94806478dbf85218525.jpg",
+      "md5": "454af0932fbeb94806478dbf85218525",
+      "size": 433745,
+      "uploadedDate": "2020-06-24T18:53:07.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HoudiniNiagaraPlugin_thumb-284x284-fa17b8d2eb95b4b3b20c08c28a9b6df2.png",
+      "md5": "fa17b8d2eb95b4b3b20c08c28a9b6df2",
+      "size": 137049,
+      "uploadedDate": "2020-06-24T18:53:07.710Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HoudiniNiagaraPlugin_featured-894x488-23426c15bf0454b946a9189f0f0807f6.png",
+      "md5": "23426c15bf0454b946a9189f0f0807f6",
+      "size": 416457,
+      "uploadedDate": "2020-06-24T18:53:07.812Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/houdininiagarademo1-1920x1080-4747e5b9caaff4aa0d562bd44059cf95_Snapshot.jpg",
+      "md5": "ad48355a12b05538b6298924f79d9fb8",
+      "size": 6421,
+      "uploadedDate": "2020-06-24T18:53:05.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/houdininiagarademo1a-1920x1080-74a4322f1a915a3feec5064bbd105d75_Snapshot.jpg",
+      "md5": "e3094c1acd26dc5937f80cf94bdaf782",
+      "size": 3897,
+      "uploadedDate": "2020-06-24T18:53:05.868Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/houdininiagarademo1b-1920x1080-80d6be596e5a17ce1dcdb20b1dad4056_Snapshot.jpg",
+      "md5": "3569cf02bd1f7a5be52297f053115fd9",
+      "size": 6165,
+      "uploadedDate": "2020-06-24T18:53:06.252Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/houdininiagarademo2a-1920x1080-991ed3e00933fcc5ce53352b660b526f_Snapshot.jpg",
+      "md5": "677d704827ec275b1e069eac2bf2c1fb",
+      "size": 5328,
+      "uploadedDate": "2020-06-24T18:53:06.765Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/houdininiagarademo2b-1920x1080-d6794efb4cb0687dd058d0915a0f36c1_Snapshot.jpg",
+      "md5": "f39c82015f0e0b60c0e7af785a2ac01d",
+      "size": 4845,
+      "uploadedDate": "2020-06-24T18:53:07.143Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/houdininiagarademo3-1920x1080-454af0932fbeb94806478dbf85218525_Snapshot.jpg",
+      "md5": "514102cfe9b57d8987e10e5f3e4eeb57",
+      "size": 7006,
+      "uploadedDate": "2020-06-24T18:53:07.546Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "34ce87d1a4e74707b21af62055a5cd03"
+    }
+  ],
+  "catalogNs": null
+}

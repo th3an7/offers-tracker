@@ -1,0 +1,257 @@
+{
+  "id": "c5b63db61ce44ecf882b3394292ddd18",
+  "namespace": "ue",
+  "title": "Morse Code Text To Audio - Run Time Radio & Telegraph",
+  "description": "Blueprint actor translates regular text into Morse-code and emits it as audio, offering five adjustable soundscapes to simulate various types of radio transmissions, operators, and telegraph equipment.",
+  "longDescription": "<p>Examples of different kinds of Morse audio that can be emitted:</p><p><a href=\"https://soundcloud.com/user-665009105/morse-code-text-to-audio-converter\" rel=\"nofollow\">https://soundcloud.com/user-665009105/morse-code-text-to-audio-converter</a></p><p><br /></p><p>A speed setting allows rapid Morse for historic accuracy, or slow enough for a gameplay mechanic (eg so a bonus puzzle clue could be decrypted by a sufficiently-enthusiastic player.)</p><p><br /></p><p>If you need to generate authentic transmission protocols, Morse prosigns can be included in the text much like markup code. Eg. ATTENTION will be spelled out in Morse, while &lt;ATTENTION&gt; will use the prosign code instead.</p><p><br /></p><p>At any time during the game, other Blueprints can send new text to be translated and sounded out, or signal to stop, or start. (You can also use this to implement whatever kind of distance or volume trigger best works for your game, because signals usually only need to be played when a player is nearby)</p><p><br /></p><p>The Blueprint can also drive other actors such as signal lamps or Morse keys.</p><p><br /></p><p>The Blueprint uses (ITU-R recommended) International Morse Code, documented here:</p><p><a href=\"http://www.itu.int/rec/R-REC-M.1677-1-200910-I/\" rel=\"nofollow\">http://www.itu.int/rec/R-REC-M.1677-1-200910-I/</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "morse-code-text-to-audio-run-time-radio-telegraph",
+  "creationDate": "2018-04-03T16:47:05.779Z",
+  "lastModifiedDate": "2024-10-01T21:43:34.936Z",
+  "effectiveDate": "2018-04-03T16:47:05.740Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kmfdcdkyau3hqrkdp7vcv9nptggd7q",
+    "name": "Rabbit Hole Averted"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>A selection of five soundscapes, including radio technology of WWI, WWII, telegraph equipment, and operator / radio room.</li><li>Every soundscape can be further adjusted with speed of transmission, amount of radio hiss and atmospheric radio warble, etc.</li><li>Blueprint includes tone-start and tone-stop events to drive other actors, such as animating a Morse key tapping in the code, or a signal lamp blinking the message. A simple demo level with a key and lamp is included to show how these might be hooked up.</li><li>ITU-R recommended International Morse code prosigns are also recognized. These can be included in text like mark-up language.</li></ul><p><br /></p><p>Number of Blueprints: One master Blueprint, plus three examples/variations in the demo level.</p><p>Input: Text; both instance-editable, and/or passed by other actors during gameplay.</p><p>Network Replicated: No</p><p>Supported Development Platforms: PC</p><p>Supported Target Build Platforms: PC</p><p>Documentation: Blueprint Tutorial in the &#34;Blueprints&#34; folder.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "eda7b46a-68ee-4001-a9cf-0d0844471df8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Text2MorseScreenshot1-1920x1080-2e7c432a68162ed9cf8e2633d5de62da.png",
+      "md5": "2e7c432a68162ed9cf8e2633d5de62da",
+      "size": 836861,
+      "uploadedDate": "2018-03-16T06:48:25.998Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MorsecodeTexttoAudioruntimeRadioTelegraph_thumb-284x284-bd0a53b095886206d088a559f5b63e0d.png",
+      "md5": "bd0a53b095886206d088a559f5b63e0d",
+      "size": 173853,
+      "uploadedDate": "2018-03-16T06:53:17.818Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MorsecodeTexttoAudioruntimeRadioTelegraph_featured-894x488-a5370b0fe1fddce60cede5f75a7429de.png",
+      "md5": "a5370b0fe1fddce60cede5f75a7429de",
+      "size": 817342,
+      "uploadedDate": "2018-03-16T06:53:18.010Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "d6d4401d5e824e3d8b6ce3c5eb891f21"
+    }
+  ],
+  "catalogNs": null
+}

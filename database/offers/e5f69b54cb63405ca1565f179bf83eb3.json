@@ -1,0 +1,119 @@
+{
+  "id": "e5f69b54cb63405ca1565f179bf83eb3",
+  "namespace": "ue",
+  "title": "Filter Toolkit",
+  "description": "Pack of several filters for signal processing",
+  "longDescription": "<p>** Help &amp; support on Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a> **</p><p><br /></p><p>Filter Toolkit is a set of signal filters. These filters can be used to improve the quality of a signal, and to allow an easier process of these signals (accelerometer, gyroscope, magnetometer, etc.).</p><p><br /></p><p>It includes 8 different filters (ActorComponent) taking a float as input and returning a float:</p><ul><li>A low-pass filter cutting the signal when the amplitude between two successive samples of the signal is below a threshold</li><li>A high-pass filter doing the same when the amplitude is above a threshold</li><li>A mean filter with a customizable size</li><li>A median filter with a customizable size</li><li>A derivative filter computing the derivative of a signal</li><li>A generic kernel filter with a customizable fixed kernel</li><li>A generic Infinite Impulse Response (IIR) filter</li><li>A dynamic kernel filter having two inputs: the input value of the signal and the new associated kernel value (allowing you to give more or less weight to an input according to another signal)</li></ul><p><br /></p><p>And in addition to this, a mean filter for vectors (useful to process the signal from the accelerometer), and a PID controller for more complex systems.</p><p><br /></p><p>A basic knowledge of signal processing is advised to use this pack.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "filter-toolkit",
+  "creationDate": "2018-05-08T18:42:44.445Z",
+  "lastModifiedDate": "2024-10-08T10:15:05.399Z",
+  "effectiveDate": "2018-05-08T18:42:44.415Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1f385b3839424280bd68decb808ffb",
+    "name": "Isara Tech."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Threshold-based low-pass filter</li><li> Threshold-based high-pass filter</li><li> Mean filter (for float and Vector)</li><li>Median filter</li><li>Generic kernel filter</li><li>Dynamic kernel filter</li><li>Generic Infinite Impulse Response filter</li><li>Derivative filter</li><li>PID controller</li></ul><p>Number of Blueprints: 10</p><p>Network Replicated: No</p><p>Supported Development Platforms: All platforms</p><p>Supported Target Build Platforms: All platforms</p><p>Documentation: <a href=\"https://docs.isaratech.com/ue4-blueprints/filter-toolkit\" rel=\"nofollow\">https://docs.isaratech.com/ue4-blueprints/filter-toolkit</a></p><p>Quick Start Guide: http://isaratech.com/docs/filter-toolkit/quickstart/</p><p>Website: <a href=\"http://isaratech.com/uws/\" rel=\"nofollow\">http://isaratech.com/</a></p><p>Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a></p><p><br /></p><p>Important/Additional Notes: A basic knowledge of signal processing is advised to use this pack.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e1715702-5e4d-4f6e-871a-fafe24ac7ffe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/LowPass threshold-1920x1080-62b3cfe31908fa338c51c42389baad0d.png",
+      "md5": "62b3cfe31908fa338c51c42389baad0d",
+      "size": 155949,
+      "uploadedDate": "2018-04-15T07:20:16.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mean filter-1920x1080-1d6abebb0576ff2593e76c671b82c906.png",
+      "md5": "1d6abebb0576ff2593e76c671b82c906",
+      "size": 154536,
+      "uploadedDate": "2018-04-15T07:20:16.746Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Tutorial-1920x1080-2400658654257bbc53b0e9afa73003de.png",
+      "md5": "2400658654257bbc53b0e9afa73003de",
+      "size": 332213,
+      "uploadedDate": "2018-04-15T07:20:16.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FilterToolkit_thumb-284x284-80e20dbfe9b8a6c8d34fafd6f3af74b2.png",
+      "md5": "80e20dbfe9b8a6c8d34fafd6f3af74b2",
+      "size": 16594,
+      "uploadedDate": "2018-04-15T07:20:16.882Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FilterToolkit_featured-894x488-24fc9c9cfae51ea1fe5192b1f4fa9ae4.png",
+      "md5": "24fc9c9cfae51ea1fe5192b1f4fa9ae4",
+      "size": 41094,
+      "uploadedDate": "2018-04-15T07:20:16.957Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "275d12ed8022400f84c2fd6ae9b45580"
+    }
+  ],
+  "catalogNs": null
+}

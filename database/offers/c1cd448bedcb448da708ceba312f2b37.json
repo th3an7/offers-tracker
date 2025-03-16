@@ -1,0 +1,146 @@
+{
+  "id": "c1cd448bedcb448da708ceba312f2b37",
+  "namespace": "ue",
+  "title": "JigSaw Puzzle Template",
+  "description": "JigSaw Puzzle Template is a Blueprint based template to create your own jigsaw puzzle based games.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;iuXUmY8D28g\" rel=\"nofollow\">Video</a></p><p><br /></p><p>JigSaw Puzzle Template is a Blueprint based template that makes puzzle out of any image , irrespective of its pixel resolution. The main Puzzle Widget takes several input parameters, like , number of rows , number of columns , the Size and position of the Widget , and the input texture to use. This will equally work on square based as well as rectangular based grids of any size. The widget just auto calculates number of tiles needed to create the puzzle , based on number of rows and number of columns, and it randomly arranges the tile to make the puzzle. Simple drag and drop operation is performed in order to solve the puzzle. Fully Customizable Material lets you create your own Jigsaw Tile Variations with your own set of Tile textures.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "jigsaw-puzzle-template",
+  "creationDate": "2016-01-26T19:34:25.826Z",
+  "lastModifiedDate": "2024-10-23T02:17:25.438Z",
+  "effectiveDate": "2016-02-24T00:00:00.000Z",
+  "viewableDate": "2016-02-24T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-qw55kvk2ahanfsu8sk8ff39lbuyun9",
+    "name": "Athian Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>• 2 Main Widget Blueprints for creating the Puzzle</p><p>• 4 Widgets for Demonstration Purposes</p><p>• 1 Material and 1 Material Instance for creating the JigSaw Tiles</p><p>• 4 Sample Image Textures for testing</p><p>• 7 Textures for creating the Jigsaw Tile Variations</p><p>• 4 Gradient textures for demonstration</p><p><br /></p><p>Supported Platform - All</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;bRRuZGOd1qs\" rel=\"nofollow\">Tutorial Video</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "City Builder",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2023-08-22T23:07:49.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 175,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2df678ba-ae9e-49ac-8442-e77aa51c1412"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_JigSawPuzzle_screenshot_01-1920x1080-fccce131f19061d823ec6857530b0599.png",
+      "md5": "fccce131f19061d823ec6857530b0599",
+      "size": 414361,
+      "uploadedDate": "2016-01-26T19:32:53.427Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_JigSawPuzzle_screenshot_02-1920x1080-5df89c6f0904a5622edae3b5d194cc54.png",
+      "md5": "5df89c6f0904a5622edae3b5d194cc54",
+      "size": 441517,
+      "uploadedDate": "2016-01-26T19:32:55.717Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_JigSawPuzzle_screenshot_03-1920x1080-0db193b4f6f5eb4995d2ff340ecbabd4.png",
+      "md5": "0db193b4f6f5eb4995d2ff340ecbabd4",
+      "size": 718246,
+      "uploadedDate": "2016-01-26T19:32:58.936Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_JigSawPuzzle_screenshot_04-1920x1080-5a680bd562dac2f333382ae532b68313.png",
+      "md5": "5a680bd562dac2f333382ae532b68313",
+      "size": 483748,
+      "uploadedDate": "2016-01-26T19:33:01.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_JigSawPuzzle_screenshot_05-1920x1080-1f23f20c37c57a0d6d7c43564c60870c.png",
+      "md5": "1f23f20c37c57a0d6d7c43564c60870c",
+      "size": 227572,
+      "uploadedDate": "2016-01-26T19:33:03.840Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/JigSawPuzzleTemplate_thumb-284x284-05e0d6eceda82ea9e48682027c80a5fd.png",
+      "md5": "05e0d6eceda82ea9e48682027c80a5fd",
+      "size": 185072,
+      "uploadedDate": "2023-02-12T20:19:58.099Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/JigSawPuzzle_Featured-476x246-760886dec9f87c78c774dc27d9e8f804.png",
+      "md5": "760886dec9f87c78c774dc27d9e8f804",
+      "size": 43373,
+      "uploadedDate": "2016-01-26T19:32:48.296Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/JigSawPuzzle_FeaturedNew-894x488-badcecefbb81e03176c25557f1fd72ac.png",
+      "md5": "badcecefbb81e03176c25557f1fd72ac",
+      "size": 152579,
+      "uploadedDate": "2016-01-26T19:32:50.591Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "b0a68b3d225542b1a716855cb6f732f1"
+    }
+  ],
+  "catalogNs": null
+}

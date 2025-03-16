@@ -1,0 +1,216 @@
+{
+  "id": "8693e5cc57174c8c925853db8b6e8776",
+  "namespace": "ue",
+  "title": "CIGI SDK for Unreal",
+  "description": "Common Image Generator Interface (CIGI) SDK for Unreal",
+  "longDescription": "<p>The Common Image Generator Interface (CIGI) is a simulation standard for connecting 3D visual applications with simulation hosts. The CIGI SDK for Unreal enables Common Image Generator Interface support for Unreal using either CIGI 3.3 or CIGI 4.0. The CIGI plugin is compatible with WGS-84 positions, which makes integrations with world visualization plugins such as Cesium (as shown in the gallery images) very simple. You may use your own host or the comprehensive Host Emulator provided with this software. Full source code is provided in C&#43;&#43; for SDK licensees.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cigi-sdk-for-unreal",
+  "creationDate": "2023-08-12T12:50:27.990Z",
+  "lastModifiedDate": "2024-10-15T13:54:13.448Z",
+  "effectiveDate": "2023-08-07T16:41:10.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hugvgmuektrtzm5y4zljflmxd2azrr",
+    "name": "SimBlocks.io"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><p><strong>Host to IG Packets</strong></p><ul><li>IG Control</li><li>Entity Control</li><li>Entity Position</li><li>Articulated Part Control</li><li>View Control</li><li>Velocity Control</li><li>Acceleration Control</li><li>Weather Control</li><li>Celestial Sphere Control</li><li>HAT\\HOT Request</li><li>Line of Sight Request</li><li>Collision Detection</li><li>Component Control</li><li>Symbol Control</li></ul><p><br /></p><p>IG to Host Packets:</p><ul><li>Start of Frame</li><li>HAT\\HOT Response</li><li>Line of Sight Response</li><li>Position Response</li><li>Weather Conditions Response</li><li>Aerosol Concentration Response</li><li>Maritime Surface Conditions Response</li><li>Terrestrial Surface Conditions Response</li><li>Collision Detection Notification</li><li>Animation Stop Notification</li><li>Event Notification</li></ul><p> </p><p>Code Modules: </p><ul><li> UnrealCIGI </li></ul><p><br /></p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: https://www.simblocks.io/cigi-sdk-for-unreal</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "77e04f1b-9387-4ff6-a150-3bed30d89ac3"
+    },
+    {
+      "key": "BuyLink",
+      "value": "https://www.simblocks.io/cigi-sdk-for-unreal"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cesium Unreal CIGI - Entity Parenting-1920x1080-6678f3d8ba938c026f97cbe7e56b5de4.jpg",
+      "md5": "6678f3d8ba938c026f97cbe7e56b5de4",
+      "size": 439520,
+      "uploadedDate": "2023-08-06T04:15:15.952Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cesium Unreal CIGI - Velocity Control-1920x1080-2e3bdb47751b5160cf0845a517204e05.jpg",
+      "md5": "2e3bdb47751b5160cf0845a517204e05",
+      "size": 568358,
+      "uploadedDate": "2023-08-06T04:15:16.376Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cesium Unreal CIGI - View Control-1920x1080-9e0992415e98fb0ab36afe47aeb71201.jpg",
+      "md5": "9e0992415e98fb0ab36afe47aeb71201",
+      "size": 557868,
+      "uploadedDate": "2023-08-06T04:15:16.763Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CesiumUnrealCIGIMoment-1920x1080-5afc65b5c957b16a2976db6f79a4b632.jpg",
+      "md5": "5afc65b5c957b16a2976db6f79a4b632",
+      "size": 2740807,
+      "uploadedDate": "2023-08-06T04:15:17.459Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CIGISDKforUnreal_thumb-284x284-048073c2f636081cff1ca29afc29e57f.png",
+      "md5": "048073c2f636081cff1ca29afc29e57f",
+      "size": 122887,
+      "uploadedDate": "2023-08-06T04:15:17.759Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CIGISDKforUnreal_featured-894x488-cadd86e04d2bb8792cfdd2fe6db8fd5d.png",
+      "md5": "cadd86e04d2bb8792cfdd2fe6db8fd5d",
+      "size": 522288,
+      "uploadedDate": "2023-08-06T04:15:17.825Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cesium Unreal CIGI - Entity Parenting-1920x1080-6678f3d8ba938c026f97cbe7e56b5de4_Snapshot.jpg",
+      "md5": "b1c643836dd4d6d0fa19e4380bd0d622",
+      "size": 6667,
+      "uploadedDate": "2023-08-06T04:15:16.210Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cesium Unreal CIGI - Velocity Control-1920x1080-2e3bdb47751b5160cf0845a517204e05_Snapshot.jpg",
+      "md5": "6e7a74d37dc2cd6e7a7acd7b499b3579",
+      "size": 7967,
+      "uploadedDate": "2023-08-06T04:15:16.626Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cesium Unreal CIGI - View Control-1920x1080-9e0992415e98fb0ab36afe47aeb71201_Snapshot.jpg",
+      "md5": "42604d798615e25f4039351d330f0924",
+      "size": 8013,
+      "uploadedDate": "2023-08-06T04:15:17.290Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CesiumUnrealCIGIMoment-1920x1080-5afc65b5c957b16a2976db6f79a4b632_Snapshot.jpg",
+      "md5": "e2bf41d57acf93a002d2bb660c9e852c",
+      "size": 8554,
+      "uploadedDate": "2023-08-06T04:15:17.717Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ec20714dfb8c4d3385279d35001728e7"
+    }
+  ],
+  "catalogNs": null
+}

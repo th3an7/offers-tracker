@@ -1,0 +1,158 @@
+{
+  "id": "3c2d872179ad437483506efa24d9a659",
+  "namespace": "ue",
+  "title": "Ancient Cistern",
+  "description": "An Ancient Cistern environment based on ancient Roman water storage structures.",
+  "longDescription": "<p><strong>**Please note that as of Unreal Engine 5 Tessellation is no longer supported in the material system so tessellated displacement will only work in Unreal 4 versions of the engine**</strong></p><p><br /></p><p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;8oucp92sL_Q\" rel=\"nofollow\">youtube.com/watch?v&#61;8oucp92sL_Q</a></p><p><br /></p><p>An Ancient Cistern environment which uses advanced tessellated displacement in conjunction with vertex paint, mesh LODs, BSP &#39;boxing&#39;, minimalist instanced geometry and textures to achieve a high level of detail with lower performance overhead.</p><p><br /></p><p>This environment includes many custom materials and techniques that you can dissect and utilize in your own project.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ancient-cistern",
+  "creationDate": "2016-03-31T16:13:48.817Z",
+  "lastModifiedDate": "2024-10-08T17:46:43.922Z",
+  "effectiveDate": "2016-04-19T00:00:00.000Z",
+  "viewableDate": "2016-04-19T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-6bc450616f4407a48745e1caa21a74",
+    "name": "C-Media"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "* Physically-Based Rendering: Yes <br />* Texture Size (please list textures for each resolution): 4096x, 2048x, 1024x, 512x and 32x <br />* Collision: Yes, auto-generated <br />* Vertex Count: <br />* LODs: Yes, 3 <br />* Number of Meshes: 51 <br />* Number of Materials and Material Instances: 83 <br />* Number of Textures: 112 <br />* Engine Compatibility: 4.11 <br />* Intended Platform: Desktop, Console, VR <br />* Platforms Tested: Desktop and VR <br />* Documentation Included: No <br />* Important\\Additional Notes: The flames on the torches are actually a video file which is automatically played in a PIE session via blueprint but in order for them to show up while editing you must right click the Movies/Flame01 Media Player file and click Play",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bc8d617e-94f3-4fd5-b35b-988c94874f2d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_AncientCistern_screenshot_01-1920x1080-a188c68ac8ba7e6e528a3b6041fcbe97.png",
+      "md5": "a188c68ac8ba7e6e528a3b6041fcbe97",
+      "size": 1175242,
+      "uploadedDate": "2016-03-31T16:12:33.904Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_AncientCistern_screenshot_02-1920x1080-aa304d66a4e7514ea1f68d968faec2e5.png",
+      "md5": "aa304d66a4e7514ea1f68d968faec2e5",
+      "size": 1140030,
+      "uploadedDate": "2016-03-31T16:12:30.438Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_AncientCistern_screenshot_03-1920x1080-81954fe3412be5788b3a5210c9526532.png",
+      "md5": "81954fe3412be5788b3a5210c9526532",
+      "size": 1256021,
+      "uploadedDate": "2016-03-31T16:12:25.143Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_AncientCistern_screenshot_04-1920x1080-1b88f365fe34ff5e5c262bca2a9f2a06.png",
+      "md5": "1b88f365fe34ff5e5c262bca2a9f2a06",
+      "size": 1049007,
+      "uploadedDate": "2016-03-31T16:12:23.403Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_AncientCistern_screenshot_05-1920x1080-6603e9c5fd3c9e511d29ddb6856f4822.png",
+      "md5": "6603e9c5fd3c9e511d29ddb6856f4822",
+      "size": 1071278,
+      "uploadedDate": "2016-03-31T16:12:19.490Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/AncientCistern_Thumb-284x284-774121bc4404bbc04ab1b84afee62f1b.png",
+      "md5": "774121bc4404bbc04ab1b84afee62f1b",
+      "size": 163891,
+      "uploadedDate": "2016-03-31T16:12:17.043Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/AncientCistern_featured-476x246-c505a7102400a61e7212ea87ef8e2b4f.png",
+      "md5": "c505a7102400a61e7212ea87ef8e2b4f",
+      "size": 212265,
+      "uploadedDate": "2016-03-31T16:12:38.527Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/AncientCistern_FeaturedNew-894x488-1e0831f8555bda472c53de66fad8a163.png",
+      "md5": "1e0831f8555bda472c53de66fad8a163",
+      "size": 777352,
+      "uploadedDate": "2016-03-31T16:12:43.522Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "bce60baa14004cb7900b8ef823aa84e2"
+    }
+  ],
+  "catalogNs": null
+}

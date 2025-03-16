@@ -1,0 +1,197 @@
+{
+  "id": "5a56cc801a534567a8b8fc1d77ac66b3",
+  "namespace": "ue",
+  "title": "Instance Objects",
+  "description": "This plugin allows you to bind and call distinct functions on different actor instances.",
+  "longDescription": "<p>This plugin allows the user to assign events and or function to multiple instances of an actor. The actor parent class must be “InstanceEditableActor”.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "instance-objects",
+  "creationDate": "2024-01-18T09:47:58.138Z",
+  "lastModifiedDate": "2024-10-15T11:01:13.884Z",
+  "effectiveDate": "2024-01-18T09:47:58.096Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ufc4wvqaazap343e7rjrmnzmrkzqfu",
+    "name": "TelepoleGames"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Assign functions to be called on multiple instances of the same type</li><li> Assign function and events through editor UI</li><li> Users can configure which function/events are assignable through project settings</li></ul><p>Code Modules:</p><ul><li> InstanceOB (Editor)</li><li> InstanceOB_Runtime (Runtime)</li></ul><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 4</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p><a href=\"https://docs.google.com/presentation/d/1gOolh7AhnInLMXcev6mUPJkX1YTjYV9tCMISyPbcRoI/edit#slide&#61;id.p\" rel=\"nofollow\">Documentation</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4dccd0ae-a876-4410-8a00-b179577fb6a4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Instance ObjectsTitle-1920x1080-5604014272b10f69d3e0c08bf4dcab91.png",
+      "md5": "5604014272b10f69d3e0c08bf4dcab91",
+      "size": 83355,
+      "uploadedDate": "2024-01-16T22:03:35.594Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/G1-1920x1080-7f96ec38ba59be6ba3038313c5deeabc.png",
+      "md5": "7f96ec38ba59be6ba3038313c5deeabc",
+      "size": 1246815,
+      "uploadedDate": "2024-01-16T21:50:29.460Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/G3-1920x1080-40b620a8cff76cf9d3cfd67aa174dda4.png",
+      "md5": "40b620a8cff76cf9d3cfd67aa174dda4",
+      "size": 455648,
+      "uploadedDate": "2024-01-17T03:59:29.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/G4-1920x1080-a8994ba021e233f043e4e72f3a2ed352.png",
+      "md5": "a8994ba021e233f043e4e72f3a2ed352",
+      "size": 203116,
+      "uploadedDate": "2024-01-17T03:59:29.927Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/InstanceObjects_thumb-284x284-051cac7ce312979061ef5ebebce6c9ea.png",
+      "md5": "051cac7ce312979061ef5ebebce6c9ea",
+      "size": 25340,
+      "uploadedDate": "2024-01-16T21:50:29.864Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/InstanceObjects_featured-894x488-5c14121864354881b736b618c01246b8.png",
+      "md5": "5c14121864354881b736b618c01246b8",
+      "size": 38800,
+      "uploadedDate": "2024-01-16T21:50:29.980Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/G3-1920x1080-40b620a8cff76cf9d3cfd67aa174dda4_Snapshot.png",
+      "md5": "6aef4877aa7fb8813ef4e9425a1caedc",
+      "size": 4641,
+      "uploadedDate": "2024-01-17T03:59:29.783Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/G4-1920x1080-a8994ba021e233f043e4e72f3a2ed352_Snapshot.png",
+      "md5": "4ce2768ef97a21aa4f6e998fca03358b",
+      "size": 3028,
+      "uploadedDate": "2024-01-17T03:59:30.089Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Instance ObjectsTitle-1920x1080-5604014272b10f69d3e0c08bf4dcab91_Snapshot.png",
+      "md5": "c00aba4fe2171829e52092976ba827ad",
+      "size": 2039,
+      "uploadedDate": "2024-01-16T22:03:35.863Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/G2-1920x1080-93a93ddf13b50e6f8f771405967d8e2c_Snapshot.png",
+      "md5": "e4cb133bf6e76fe51a45804ba7261841",
+      "size": 5738,
+      "uploadedDate": "2024-01-16T22:03:36.380Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/G1-1920x1080-7f96ec38ba59be6ba3038313c5deeabc_Snapshot.png",
+      "md5": "38ca500a71d0b7b4a5722c8e2d4e0192",
+      "size": 6180,
+      "uploadedDate": "2024-01-16T21:50:29.753Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ace2d6294ff74902b58bfbe63310321b"
+    }
+  ],
+  "catalogNs": null
+}

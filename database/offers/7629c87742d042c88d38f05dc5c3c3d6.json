@@ -1,0 +1,236 @@
+{
+  "id": "7629c87742d042c88d38f05dc5c3c3d6",
+  "namespace": "ue",
+  "title": "Bug Reporter",
+  "description": "Report any bug in your project with ease! Github Mantis & Jira integration.",
+  "longDescription": "<h1><strong><u>THIS ASSET WILL NO LONGER BE UPDATED FOR NEW UE VERSIONS. The existing support is continued on Discord.</u></strong></h1><p><br /></p><p><br /></p><p>Report any bug in your project with ease!</p><p>Github Mantis &amp; Jira integration.</p><p><br /></p><p>Features:</p><ul><li> Screenshot storage &amp; upload</li><li>Mantis hub, GitHub, and Jira integration</li><li>Persistent local settings</li><li>Actors in your level to show the bugs</li><li>Dynamic tags/labels/priorities pulled from your platform</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "bug-reporter",
+  "creationDate": "2022-01-05T00:30:43.377Z",
+  "lastModifiedDate": "2024-10-15T09:34:51.517Z",
+  "effectiveDate": "2022-01-05T00:30:43.334Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-92xhxtas3s8zmk649eudmsrbt935kf",
+    "name": "Corentin Guillaume"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules:</p><ul><li>Editor: BugReporterIssue Widget: Window to report bugs in the project.</li><li>Editor: BugReporterSettings Widget: Window to set up the integration parameters.</li><li>Editor: InLevel_Issue Blueprint: Actors to show where a bug was reported.</li><li>Runtime: BugReporterAttach Blueprint: Blueprint to force the viewport position where the player is.</li></ul><p><br /></p><p>Number of Blueprints: 9</p><p>Number of C&#43;&#43; Classes: 174</p><p>Network Replicated: Not relevant</p><p>Supported Development Platforms: All (not tested on Linux)</p><p>Supported Target Build Platforms: Not included in the build</p><p>Documentation: <a href=\"https://docs.google.com/presentation/d/1Y3WIFg4uSSiTYNNicDLGc3eW3qcQJE1ZG43Aw-Fdx5k/edit?usp&#61;sharing\" rel=\"nofollow\">Link </a></p><p><strong><u>Discord support : </u></strong><a href=\"https://discord.gg/jx8eXXqh2m\" rel=\"nofollow\">Link</a></p><p>Example Project: Not relevant</p><p>Required plugin: EditorScriptingUtilities (provided by UE and enabled for you).</p><p>Important/Additional Notes: This plugin is NOT intended to be used in the build, only in the editor.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b17ac180-6ea2-4ab8-9eb4-e9c6dc8d4761"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen1-1920x1080-afbedc88dff8f1e8f710317cd3dd07c4.png",
+      "md5": "afbedc88dff8f1e8f710317cd3dd07c4",
+      "size": 468827,
+      "uploadedDate": "2021-10-23T14:08:40.525Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen2-1920x1080-e7def8a35926688a8813789d707f3354.png",
+      "md5": "e7def8a35926688a8813789d707f3354",
+      "size": 778854,
+      "uploadedDate": "2021-10-23T14:08:49.054Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BugReporter_thumb-284x284-11285e874939549c2a7d297ec0440362.png",
+      "md5": "11285e874939549c2a7d297ec0440362",
+      "size": 32957,
+      "uploadedDate": "2021-10-23T14:08:53.766Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BugReporter_featured-894x488-ddd2f83c4c2f4f21e41dc8693a1d145c.png",
+      "md5": "ddd2f83c4c2f4f21e41dc8693a1d145c",
+      "size": 103515,
+      "uploadedDate": "2021-10-23T14:08:55.202Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen1-1920x1080-afbedc88dff8f1e8f710317cd3dd07c4_Snapshot.png",
+      "md5": "2d3b959b59054d72a7a1eeefc30a7411",
+      "size": 6024,
+      "uploadedDate": "2021-10-23T14:08:43.366Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen2-1920x1080-e7def8a35926688a8813789d707f3354_Snapshot.png",
+      "md5": "514f8f9ba2420c81990b09d0c44544ee",
+      "size": 5758,
+      "uploadedDate": "2021-10-23T14:08:50.874Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2537e9d806104aea9e45e0b5719034b6"
+    }
+  ],
+  "catalogNs": null
+}

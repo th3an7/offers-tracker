@@ -1,0 +1,203 @@
+{
+  "id": "d7df59e893f84bccbdcbd9899f773ede",
+  "namespace": "ue",
+  "title": "Prefab Tool",
+  "description": "Prefab Tool brings nested prefab support to Unreal Engine.",
+  "longDescription": "<p>Prefab Tool allows you to store collection of preconfigured actors as prefab asset in the content browser, and then add the prefab to the same or any other levels as many time as you like. Actor references and hierarchy inside prefab are preserved.</p><p><br /></p><p>Prefab can be edited in the level editor directly, all changes to the prefab can then be propagated to all existing prefab instances.</p><p><br /></p><p>You can disconnect a prefab instance to prevent it being automatically updated from prefab changes. Or you can choose to revert any changes to the prefab instance.</p><p><br /></p><p>Prefab can be nested to support complex scene hierarchy. Changes to nested prefab can be reverted or propagated like normal prefab.</p><p><br /></p><p>Prefab can be converted back to normal actor or blueprint asset to be spawned in runtime.</p><p><br /></p><p><strong>Video:</strong></p><p><a href=\"https://www.youtube.com/watch?v&#61;kCrdBcNTYjQ\" rel=\"nofollow\">What&#39;s new in 1.2.0</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;duhIujCvVZo&amp;list&#61;PLAKCoctl4aHxOAivwllQerHZDbrQ9dZmv&amp;index&#61;8\" rel=\"nofollow\">What&#39;s new in 1.0.6</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;-veFrjmEyPE&amp;index&#61;7&amp;list&#61;PLAKCoctl4aHxOAivwllQerHZDbrQ9dZmv\" rel=\"nofollow\">What&#39;s new in 1.0.3</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;Ntn5o-hIl5k\" rel=\"nofollow\">1.0 Preview</a></p><p><strong>Support:</strong></p><p><a href=\"https://discord.gg/dT3QWx9\" rel=\"nofollow\">Discord</a></p><p><a href=\"https://forums.unrealengine.com/showthread.php?144556-Prefab-Tool-Prefab-Support-for-Unreal-Engine\" rel=\"nofollow\">Support thread</a> </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "prefab-tool",
+  "creationDate": "2017-06-08T20:16:47.370Z",
+  "lastModifiedDate": "2024-10-15T11:19:05.378Z",
+  "effectiveDate": "2017-08-08T00:00:00.000Z",
+  "viewableDate": "2017-08-08T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-64fcefb01e4787a414d5b4056c87e1",
+    "name": "Mary Nate"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>List of Features:</p><p>- Create Prefab from collection of actors in the level</p><p>- Nested Prefab to support complex scene hierarchy</p><p>- Generate Blueprint from Prefab</p><p>- Preview Prefab Thumbnail in Content Browser</p><p>- Drag and drop Prefab into the level to instantiate actors collection</p><p>- Edit Prefab directly inside level editor</p><p>- Lock/Unlock Prefab instances</p><p>- Apply changes of Prefab to all Prefab instances</p><p>- Revert changes of Prefab instances</p><p>- Convert Prefab instances to normal actors</p><p><br /></p><p>Known Limitation and Issues:</p><p>- Prefab is base on actor hierarchy, actor types which can&#39;t be attached to other actor is not supported (BSP Brush/Group Actor/Landscape).</p><p><br /></p><p>Modules:</p><p>- PrefabAsset (Runtime)</p><p>- PrefabAssetEditor (Editor)</p><p><br /></p><p>Network Replicated: N/A (Editor plugin)</p><p>Supported Development Platforms: Windows,</p><p>Supported Target Build Platforms: Windows (Prebuilt Binary for Mac/Linux/Android but not tested)</p><p>Documentation Included: N/A</p><p>Example Project: N/A</p><p>Important/Additional Notes:</p><p>- Full c&#43;&#43; source code included, works with both Launcher and GitHub builds</p><p>- Works with both c&#43;&#43; and blueprint only projects</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "27357f70-0c6c-45a3-b1c0-344982a6c28a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PrefabTool_screenshot_01-1920x1080-681d9e9467b43e5f1b0f072bf437632e.png",
+      "md5": "681d9e9467b43e5f1b0f072bf437632e",
+      "size": 702335,
+      "uploadedDate": "2017-06-08T20:14:50.474Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PrefabTool_screenshot_02-1920x1080-53350fa5fdcde4b65b25d5815a6d5cee.png",
+      "md5": "53350fa5fdcde4b65b25d5815a6d5cee",
+      "size": 732726,
+      "uploadedDate": "2017-06-08T20:14:48.582Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PrefabTool_screenshot_03-1920x1080-7403e58c722d23b176627f24cc3ab210.png",
+      "md5": "7403e58c722d23b176627f24cc3ab210",
+      "size": 907398,
+      "uploadedDate": "2017-06-08T20:14:46.813Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PrefabTool_screenshot_04-1920x1080-314f346ed6f439c89ae18cdcd3f3d034.png",
+      "md5": "314f346ed6f439c89ae18cdcd3f3d034",
+      "size": 762227,
+      "uploadedDate": "2017-06-08T20:14:43.892Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PrefabTool_screenshot_05-1920x1080-1bf61c5163eb181ef1942c880f51540c.png",
+      "md5": "1bf61c5163eb181ef1942c880f51540c",
+      "size": 379185,
+      "uploadedDate": "2017-06-08T20:14:41.921Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PrefabTool_screenshot_06-1920x1080-4c71e7c9e0be5772e133fd8b3c9e7f02.png",
+      "md5": "4c71e7c9e0be5772e133fd8b3c9e7f02",
+      "size": 748615,
+      "uploadedDate": "2017-06-08T20:14:39.977Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PrefabTool_screenshot_07-1920x1080-20aa31f5bda5983079ee60067c73f5f7.png",
+      "md5": "20aa31f5bda5983079ee60067c73f5f7",
+      "size": 726890,
+      "uploadedDate": "2017-06-08T20:14:38.560Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PrefabTool_thumb-284x284-a432a029e29a69ba5019ed38d083e7d5.png",
+      "md5": "a432a029e29a69ba5019ed38d083e7d5",
+      "size": 10565,
+      "uploadedDate": "2017-09-03T04:59:26.474Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PrefabTool_featured-894x488-cf953caf68496a6d227e5928c7cdb3e3.png",
+      "md5": "cf953caf68496a6d227e5928c7cdb3e3",
+      "size": 261039,
+      "uploadedDate": "2017-09-02T10:25:51.642Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "7ade995e71c7477bb8a4b3df65bec2a1"
+    }
+  ],
+  "catalogNs": null
+}

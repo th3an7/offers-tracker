@@ -1,0 +1,248 @@
+{
+  "id": "4f4c7bf43f3a4824885c2c50178212fd",
+  "namespace": "ue",
+  "title": "Runtime Gizmo (Transform Tool)",
+  "description": "Edit/transform static mesh actors using convenient mouse interaction. Works at runtime and in packaged builds.",
+  "longDescription": "<p>This asset adds transform gizmos to your project. You can change the location, rotation and scale of static mesh actors at runtime by convenient mouse interaction. This works in PIE and packaged builds and does not use UE4 editor code. Editing is simple and feels similar to the gizmos found in the editor.</p><p><br /></p><p><a href=\"https://youtu.be/2uvQ_Q-TBRQ\" rel=\"nofollow\">Showcase Video</a></p><p><br /></p><p><strong>Example usages:</strong></p><ul><li>Enable players to set up their house with furniture as desired.</li><li>Create a map editor within your game.</li><li>ArchViz projects can use this to edit the environment in shipping builds.</li></ul><p><br /></p><p><strong>Features:</strong></p><ul><li>Edit location, rotation and scale of static mesh actors using convenient mouse interaction.</li><li>Fully made in Blueprints.</li><li>Asset is fully independent of the editor, other assets or libraries.</li><li>Works in PIE (Play in Editor), standalone games and shipping/packaged builds.</li><li>Very simple integration in your project.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runtime-gizmo",
+  "creationDate": "2019-04-05T17:17:03.709Z",
+  "lastModifiedDate": "2024-10-23T12:02:34.259Z",
+  "effectiveDate": "2019-04-05T17:20:40.942Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kqgbeqehctnf9cvasrryshybb6ep57",
+    "name": "Blue Mountains"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 1 Actor Blueprint for the Gizmo, 1 Blueprint for the screen widget and 1 Blueprint to fly around.</p><p>Input: Mouse:</p><ul><li>Left Mouse Button: Select static mesh actor to edit. Select gizmo to transform the selected mesh.</li><li>Space Key: Switch between transform modes (location, rotation, scale)</li><li>M: Cycle between global and local axis translate.</li></ul><p>Network Replicated: No. Dealing with changes made by the gizmo must be done by you.</p><p>Supported Development Platforms: Windows, Linux, MAC</p><p>Supported Target Build Platforms: Windows, Linux, MAC (Any platform with mouse support)</p><p>Documentation: <a href=\"https://drive.google.com/open?id&#61;1138z2En4tJi3lJwib_5LfDaxMi7Xo-mF\" rel=\"nofollow\">https://drive.google.com/open?id&#61;1138z2En4tJi3lJwib_5LfDaxMi7Xo-mF</a></p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0bcfb36f-ead2-42e2-91c1-236183c76496"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery0-1920x1080-a9ef4259508e75fc6a5c832b69255047.png",
+      "md5": "a9ef4259508e75fc6a5c832b69255047",
+      "size": 896556,
+      "uploadedDate": "2019-03-11T14:05:18.627Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery1-1920x1080-233f654c433aeff0a72f4d73e6a0f155.png",
+      "md5": "233f654c433aeff0a72f4d73e6a0f155",
+      "size": 1113747,
+      "uploadedDate": "2019-03-11T14:05:19.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery2-1920x1080-057df34415c18eeb9e9277abc6145662.png",
+      "md5": "057df34415c18eeb9e9277abc6145662",
+      "size": 1114633,
+      "uploadedDate": "2019-03-11T14:05:19.525Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery3-1920x1080-bad8d9e3f2fa267ebfab513e9f9126f8.png",
+      "md5": "bad8d9e3f2fa267ebfab513e9f9126f8",
+      "size": 1073882,
+      "uploadedDate": "2019-03-11T14:05:19.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RuntimeGizmo_thumb-284x284-9ceedb2322b9cd383f5a5c6002b4bc35.png",
+      "md5": "9ceedb2322b9cd383f5a5c6002b4bc35",
+      "size": 65441,
+      "uploadedDate": "2019-03-11T14:05:20.258Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RuntimeGizmo_featured-894x488-f7323dc8d9632f63418ae0ab505716e2.png",
+      "md5": "f7323dc8d9632f63418ae0ab505716e2",
+      "size": 297560,
+      "uploadedDate": "2019-03-11T14:05:20.330Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery0-1920x1080-a9ef4259508e75fc6a5c832b69255047_Snapshot.png",
+      "md5": "8bb36b8aafc5b62517a4b01ad294cec8",
+      "size": 13925,
+      "uploadedDate": "2019-03-11T14:05:18.901Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery1-1920x1080-233f654c433aeff0a72f4d73e6a0f155_Snapshot.png",
+      "md5": "1f2ab2cabbf2c84ce0b91f295dc62052",
+      "size": 12405,
+      "uploadedDate": "2019-03-11T14:05:19.310Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery2-1920x1080-057df34415c18eeb9e9277abc6145662_Snapshot.png",
+      "md5": "c725803e70d0e679cb9a86492546eef1",
+      "size": 12341,
+      "uploadedDate": "2019-03-11T14:05:19.773Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery3-1920x1080-bad8d9e3f2fa267ebfab513e9f9126f8_Snapshot.png",
+      "md5": "e0c4c1d24a9a15bdb719183438b515cd",
+      "size": 11752,
+      "uploadedDate": "2019-03-11T14:05:20.209Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7289e540fd0e42608202a6fef63e5d52"
+    }
+  ],
+  "catalogNs": null
+}

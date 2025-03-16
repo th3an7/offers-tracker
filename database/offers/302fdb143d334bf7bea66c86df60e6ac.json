@@ -1,0 +1,296 @@
+{
+  "id": "302fdb143d334bf7bea66c86df60e6ac",
+  "namespace": "ue",
+  "title": "Art of Shader - Stylized Post Process",
+  "description": "The ultimate Stylized Post Process Effect pack, with over 30 Materials that can be combined and blended to give your scene a unique stylized look.",
+  "longDescription": "<p>Art of Shader - Stylized Post Process is a pack of 37 Post Process Blendable Materials that you customize and tweak to create a unique stylized look for your scene. The Blueprint Actors facilitate the easy combining, blending and grouping of the Post process materials based on certain common properties. From WaterColor, OilPaint, Aquarelle, Cartoon, ComicBook , CelShaded and many more Effects, choose, combine and customize via the parameterized material instances to suit your style.</p><p><br /></p><p><strong>Please Note :</strong> Assets displayed in the Images are for demonstration purposes only are not included in this pack.</p><p><br /></p><p><a href=\"https://youtu.be/Bpvj075xnkA\" rel=\"nofollow\">Trailer Video</a></p><p><a href=\"https://drive.google.com/file/d/1J25okNMfyjbNK1AUGDM-uT_duzKNSs1f/view?usp&#61;sharing\" rel=\"nofollow\">Playable Demo</a></p><p><a href=\"https://discord.gg/fBCkdhM\" rel=\"nofollow\">Join Me on Discord</a></p><p><a href=\"https://athian-docs.netlify.app/doc_artofshader\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p><a href=\"https://www.youtube.com/playlist?list&#61;PLSsBDmERZUmXXGAAwLh2wMrOM7JOYrXyB\" rel=\"nofollow\">Tutorial Series : Mastering Post Process Shaders</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "art-of-shader-stylized-post-process-pack",
+  "creationDate": "2020-07-28T14:01:46.932Z",
+  "lastModifiedDate": "2024-10-22T14:15:24.051Z",
+  "effectiveDate": "2020-07-28T14:01:45.010Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qw55kvk2ahanfsu8sk8ff39lbuyun9",
+    "name": "Athian Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 37 Stylized Post Process Blendable Materials, divided into 26 MainShaders and 11 SceneShaders</li><li> AOS Blueprint Actor for easily combining and grouping multiple Blendable Materials based on common properties</li><li>Localization allows you to apply the shaders only to certain objects, or exclude certain objects from given effects, via custom depth stencils</li><li>ScreenSpace Localization lets you split the screen based on user defined shape and size, and apply multiple Blendable Materials simultaneously at different parts of the screen.</li><li> Separate out the MainObjects placed in the environment from the Background via SceneDepth. Apply different shader combination simultaneously to your main environment and background scene.</li><li>AOSRuntime Blueprints and Widgets, including Dynamic UMG Based Color Wheel allows you to tweak and modify the post process materials at runtime.</li></ul><p><br /></p><p>Number of Blueprints: 4 &#43; 2 Tutorial Blueprints</p><p>Number of Materials: 37</p><p>Number of Material Instances: 40</p><p>Number of UMG Widgets: 8</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1154",
+      "name": "CO-OP CAMPAIGN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:35.195Z",
+      "updated": "2019-06-20T11:59:35.195Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2a90a4b2-44d1-4150-be68-2b4cd53b869d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho01-1920x1080-a1eb9f630cea43c8e38b2efbfb86a18b.jpg",
+      "md5": "a1eb9f630cea43c8e38b2efbfb86a18b",
+      "size": 1671548,
+      "uploadedDate": "2020-07-26T12:12:40.795Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho02-1920x1080-6e8537cac4dccc4ba78de226ca6544c1.png",
+      "md5": "6e8537cac4dccc4ba78de226ca6544c1",
+      "size": 2307987,
+      "uploadedDate": "2020-07-26T12:12:41.684Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho03-1920x1080-a89f557a08f1942b0bc27f1477cae3f2.png",
+      "md5": "a89f557a08f1942b0bc27f1477cae3f2",
+      "size": 1663147,
+      "uploadedDate": "2020-07-26T12:12:42.328Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho04-1920x1080-bedcbee16e0c50d940828dd662f6a445.png",
+      "md5": "bedcbee16e0c50d940828dd662f6a445",
+      "size": 1647822,
+      "uploadedDate": "2020-07-26T12:12:42.950Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho05-1920x1080-63b97cf8eb2758f8e93aa74db5ea4683.png",
+      "md5": "63b97cf8eb2758f8e93aa74db5ea4683",
+      "size": 1673372,
+      "uploadedDate": "2020-07-26T12:12:43.527Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho06-1920x1080-00662427484a05930c3690f52311aaac.png",
+      "md5": "00662427484a05930c3690f52311aaac",
+      "size": 1167332,
+      "uploadedDate": "2020-07-26T12:12:44.101Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho07-1920x1080-ad05fc6266802c275617fdce8dbd2ce7.png",
+      "md5": "ad05fc6266802c275617fdce8dbd2ce7",
+      "size": 2960395,
+      "uploadedDate": "2020-07-26T12:12:44.708Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AOSStylizedPostProcessScreensho08-1920x1080-5fe2c43fa28d7b85bc9465e8217e2477.jpg",
+      "md5": "5fe2c43fa28d7b85bc9465e8217e2477",
+      "size": 1623494,
+      "uploadedDate": "2020-07-26T12:12:45.506Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ArtofShaderStylizedPostProcess_thumb-284x284-2e8c56af7b5b9a54e81232ebbe0fae4e.png",
+      "md5": "2e8c56af7b5b9a54e81232ebbe0fae4e",
+      "size": 156619,
+      "uploadedDate": "2023-02-12T20:41:32.137Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ArtofShaderStylizedPostProcessPack_featured-894x488-0edcf726a4ae2fa29a7cf955b5830a93.png",
+      "md5": "0edcf726a4ae2fa29a7cf955b5830a93",
+      "size": 1132589,
+      "uploadedDate": "2020-07-26T12:12:46.404Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho01-1920x1080-a1eb9f630cea43c8e38b2efbfb86a18b_Snapshot.jpg",
+      "md5": "e1e03c1a3a00977b9fb08bf215d15264",
+      "size": 7861,
+      "uploadedDate": "2020-07-26T12:12:41.480Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho02-1920x1080-6e8537cac4dccc4ba78de226ca6544c1_Snapshot.png",
+      "md5": "416e123ebea1a6e9f456e64c8b74d5e6",
+      "size": 7442,
+      "uploadedDate": "2020-07-26T12:12:42.107Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho03-1920x1080-a89f557a08f1942b0bc27f1477cae3f2_Snapshot.png",
+      "md5": "51a6f303296c2ef57b17fca2415a93be",
+      "size": 5815,
+      "uploadedDate": "2020-07-26T12:12:42.754Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho04-1920x1080-bedcbee16e0c50d940828dd662f6a445_Snapshot.png",
+      "md5": "6bff6c368b4df1e9a1308b67b326e42f",
+      "size": 5806,
+      "uploadedDate": "2020-07-26T12:12:43.333Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho05-1920x1080-63b97cf8eb2758f8e93aa74db5ea4683_Snapshot.png",
+      "md5": "e9ede747d5515fe587658752aead61d5",
+      "size": 6994,
+      "uploadedDate": "2020-07-26T12:12:43.907Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho06-1920x1080-00662427484a05930c3690f52311aaac_Snapshot.png",
+      "md5": "79da5fa1612fcdaf54eacaf26d329ec0",
+      "size": 6379,
+      "uploadedDate": "2020-07-26T12:12:44.463Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho07-1920x1080-ad05fc6266802c275617fdce8dbd2ce7_Snapshot.png",
+      "md5": "0f7f6434a05baeeeda7d4c659c2184e5",
+      "size": 6104,
+      "uploadedDate": "2020-07-26T12:12:45.124Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AOSStylizedPostProcessScreensho08-1920x1080-5fe2c43fa28d7b85bc9465e8217e2477_Snapshot.jpg",
+      "md5": "3f1eeabde9707f4fdae1ee44bd92781d",
+      "size": 8282,
+      "uploadedDate": "2020-07-26T12:12:46.183Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d2b52d0d24de4ace904bda62a4136b5f"
+    }
+  ],
+  "catalogNs": null
+}

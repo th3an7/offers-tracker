@@ -1,0 +1,353 @@
+{
+  "id": "24975877725044b6be615e6b91124367",
+  "namespace": "ue",
+  "title": "Procedural Starfield",
+  "description": "Create a glowing 360° starfield,  perfect for dynamic space backgrounds in any scene.",
+  "longDescription": "<p>Create a stunning starfield with ease using the Procedural Starfield Blueprint. This tool allows you to generate a beautiful, glowing 360° starfield perfect for any space-themed scene. With just a few settings, you can customize the number of stars, their scale, and the overall radius of the starfield, ensuring it fits perfectly within your level.</p><p><br /></p><p>The blueprint is highly efficient, leveraging Instanced Static Meshes (ISMs) to keep performance smooth, even with thousands of stars. In our tests, the blueprint handled up to 12,000 stars while maintaining a solid 120fps on an RTX2080, making it ideal for high-performance gaming environments.</p><p><br /></p><p>When placing the starfield into your level for the first time, you may experience a slight delay as the instances are set up. This is normal and only occurs during the initial setup in the editor. Once in place, the starfield will perform seamlessly in real time, creating a visually rich background that enhances the depth and atmosphere of your game.</p><p><br /></p><p>Customize the star colors and glow with the provided material instances, and easily adjust settings like bloom, exposure, and anti-aliasing to achieve the perfect look for your game. The Procedural Starfield Blueprint is designed to be both powerful and user-friendly, helping you bring your space scenes to life with minimal effort.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-starfield",
+  "creationDate": "2024-10-02T00:48:21.338Z",
+  "lastModifiedDate": "2024-10-02T01:22:46.957Z",
+  "effectiveDate": "2024-10-02T00:48:21.306Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-u6299svg6btbpfgl59eh7b3xgylmjr",
+    "name": "YD Visual"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> High performance instanced static mesh stars.</li><li> Full sphere of stars in all directions</li><li> Customize count, size, distance and color/glow of the stars.</li></ul><p>Number of Blueprints: 1</p><p>Input: NA</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1RaAy6fV1-mGsTj5S4B2a51s1Dq-kli6j\" rel=\"nofollow\">https://drive.google.com/file/d/1RaAy6fV1-mGsTj5S4B2a51s1Dq-kli6j</a></p><p>Important/Additional Notes: (None)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1237",
+      "name": "STORY RICH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:16.304Z",
+      "updated": "2023-08-01T18:12:20.587Z",
+      "status": "ACTIVE",
+      "referenceCount": 157,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f126924b-1345-4672-ab56-0f762b6891ef"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g01gv00-1920x1080-2bfcc5a8deea25ee2a60abbdcd41b26f.jpg",
+      "md5": "2bfcc5a8deea25ee2a60abbdcd41b26f",
+      "size": 256715,
+      "uploadedDate": "2024-09-26T08:56:37.185Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g02as01-1920x1080-d92010fc96bd0e6b8bc2034912dc14b8.jpg",
+      "md5": "d92010fc96bd0e6b8bc2034912dc14b8",
+      "size": 102893,
+      "uploadedDate": "2024-09-26T08:56:37.571Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g03as02-1920x1080-2217e2d7095212745a089685ea420906.jpg",
+      "md5": "2217e2d7095212745a089685ea420906",
+      "size": 158942,
+      "uploadedDate": "2024-09-26T08:56:37.936Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g04zs00-1920x1080-8ad2bfea50526026e17885166f9b408e.jpg",
+      "md5": "8ad2bfea50526026e17885166f9b408e",
+      "size": 172234,
+      "uploadedDate": "2024-09-26T08:56:38.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g05zs01-1920x1080-e5177d0a0f24d82053f08dbda6e2e474.jpg",
+      "md5": "e5177d0a0f24d82053f08dbda6e2e474",
+      "size": 192101,
+      "uploadedDate": "2024-09-26T08:56:38.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g06sbz-1920x1080-97417d4efdeda6731d7e36aa4d2f995c.jpg",
+      "md5": "97417d4efdeda6731d7e36aa4d2f995c",
+      "size": 773551,
+      "uploadedDate": "2024-09-26T08:56:39.203Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g07otherv00-1920x1080-c552c05df04e29544bc11b6873c68319.jpg",
+      "md5": "c552c05df04e29544bc11b6873c68319",
+      "size": 387739,
+      "uploadedDate": "2024-09-26T08:56:39.708Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g08otherv01-1920x1080-a36cb3b5f1eda544f51d3f5e626be699.jpg",
+      "md5": "a36cb3b5f1eda544f51d3f5e626be699",
+      "size": 532772,
+      "uploadedDate": "2024-09-26T08:56:40.193Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralStarfield_thumb-284x284-7b9f3c4b1bae479f4c3a3d1e722dedb2.png",
+      "md5": "7b9f3c4b1bae479f4c3a3d1e722dedb2",
+      "size": 124582,
+      "uploadedDate": "2024-09-26T09:12:22.586Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralStarfield_featured-894x488-820c912ffc147dc75ec6e776c4852655.png",
+      "md5": "820c912ffc147dc75ec6e776c4852655",
+      "size": 677233,
+      "uploadedDate": "2024-09-26T08:58:25.307Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g01gv00-1920x1080-2bfcc5a8deea25ee2a60abbdcd41b26f_Snapshot.jpg",
+      "md5": "2ae78b26c6755cc23739e1c47105f5d0",
+      "size": 3372,
+      "uploadedDate": "2024-09-26T08:56:37.448Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g02as01-1920x1080-d92010fc96bd0e6b8bc2034912dc14b8_Snapshot.jpg",
+      "md5": "55212423d13ac1a0b40c9a44edd17e36",
+      "size": 2754,
+      "uploadedDate": "2024-09-26T08:56:37.802Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g03as02-1920x1080-2217e2d7095212745a089685ea420906_Snapshot.jpg",
+      "md5": "61ff6e9f6dd66ac5df8a0c068cd640e0",
+      "size": 3357,
+      "uploadedDate": "2024-09-26T08:56:38.180Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g04zs00-1920x1080-8ad2bfea50526026e17885166f9b408e_Snapshot.jpg",
+      "md5": "b9cecc5302aa213cfe7677d4ef5661c1",
+      "size": 3595,
+      "uploadedDate": "2024-09-26T08:56:38.649Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g05zs01-1920x1080-e5177d0a0f24d82053f08dbda6e2e474_Snapshot.jpg",
+      "md5": "3341c3cb32e21935e21d4c0657161739",
+      "size": 3988,
+      "uploadedDate": "2024-09-26T08:56:39.058Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g06sbz-1920x1080-97417d4efdeda6731d7e36aa4d2f995c_Snapshot.jpg",
+      "md5": "01f7157d2663a7bb7998f84a4e2968d6",
+      "size": 8454,
+      "uploadedDate": "2024-09-26T08:56:39.459Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g07otherv00-1920x1080-c552c05df04e29544bc11b6873c68319_Snapshot.jpg",
+      "md5": "426447954e609122b4f73847c34d85e6",
+      "size": 6916,
+      "uploadedDate": "2024-09-26T08:56:40.021Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/g08otherv01-1920x1080-a36cb3b5f1eda544f51d3f5e626be699_Snapshot.jpg",
+      "md5": "938af3ff4b407636ea511b6626e1d193",
+      "size": 10362,
+      "uploadedDate": "2024-09-26T08:56:40.449Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gv00-1920x1080-2bfcc5a8deea25ee2a60abbdcd41b26f_Snapshot.jpg",
+      "md5": "2ae78b26c6755cc23739e1c47105f5d0",
+      "size": 3372,
+      "uploadedDate": "2024-09-26T06:07:12.992Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "786a14f8ea074815afee7a194261412d"
+    }
+  ],
+  "catalogNs": null
+}

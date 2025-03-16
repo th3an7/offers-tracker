@@ -1,0 +1,452 @@
+{
+  "id": "f6f919417d3c4aa68d9ad2e48aaddb8a",
+  "namespace": "ue",
+  "title": "Brushify - Natural Roads Pack",
+  "description": "Includes 12 Realistic natural road splines with textures and additional props. Includes a ready-made example environment. Also includes the Brushify landscape auto material. Use #brushify to support the project!",
+  "longDescription": "<p><strong>Now Updated for 2024 / Unreal Engine 5.4 and beyond</strong></p><p><strong>Find out more about the complete Brushify system at</strong>: <a href=\"http://www.brushify.io/\" rel=\"nofollow\"><strong>www.brushify.io</strong></a></p><p><strong>Extensive Documentation: </strong><a href=\"http://www.brushify.io/docs\" rel=\"nofollow\"><strong>www.brushify.io/docs</strong></a></p><p><strong>Contact our Direct Email Support: <em>support&#64;brushify.io</em></strong></p><p><br /></p><p><strong>Videos: </strong></p><p><a href=\"https://www.youtube.com/watch?v&#61;rhsEQMDrXwU\" rel=\"nofollow\"><strong>Brushify: Bootcamp - Road Splines in Unreal Engine 5</strong></a></p><p><a href=\"https://youtu.be/S-CB2u_lvKU?si&#61;xUUR1UbXdmprIwjK\" rel=\"nofollow\"><strong>Brushify - Beginner Tutorial in Unreal Engine 5</strong></a></p><p><br /></p><p><br /></p><p>Add realistic Natural Roads to your levels with the Brushify - Natural Roads Pack. The Brushify road material allows you to easily add roads to any unreal engine landscape. These also work seamlessly with other Brushify packs.</p><p><br /></p><p><strong><u>READY MADE LEVEL</u></strong></p><p>Complete playable Natural Roads level ready to go out of the box.</p><p>The level is setup to showcase how the splines can be used in combination with the materials in this pack to create realistic natural roads.</p><p>Allows you to immediately start testing your Gameplay, creating cinematics and learning from the example setup.</p><p><br /></p><p><strong><u>ROAD SPLINES &amp; MATERIALS</u></strong></p><p><strong>This pack contains 12 Unique Natural Road materials &amp; textures created for use with the UE5 spline system.</strong></p><p><strong> </strong>Choose from Pebbles, Dirt and Mud.</p><p><br /></p><p>The Brushify Road material can be applied to any Unreal Engine spline and has Parallax mapping, Soft blending with the terrain and a Distance LOD texture feature to prevent tiling in the distance.</p><p><br /></p><p><strong><u>PROPS</u></strong></p><p>Props include Wooden Fences, Wooden Signs, Stone walls, Wooden walkways.</p><p><br /></p><p><strong><u>BRUSHIFY LANDSCAPE AUTO MATERIAL</u></strong></p><p>The fastest way to build detailed fully playable landscapes. This material allows users to paint multiple biomes with ease across huge landscapes. Each biome is it&#39;s own Automatic Paint Layer. There are 11 landscape layers for you to choose from including Grass, Desert, Forest, Snow, Beach, Dunes, Mud, Craters.</p><p><br /></p><p>Simply apply this material to <strong>any landscape</strong> and it will be automatically textured and covered with optimized Rocks/Grass which match that biome.</p><p><br /></p><p>Supports Runtime Virtual Texturing (RVT), Parallax Occlusion Mapping (POM), Tri-planar mapping, Tessellation/Height, Roughness, Reduced Distance Tiling Feature, 3 stage Level Of Detail system (Far, Medium and Near), optimized Shader overdraw and Flow mapping.</p><p><br /></p><p>The entire shader is fully modular in design and functions can be removed and customized in order to streamline the system to your project.</p><p><br /></p><p><strong><u>COMBINING PACKS</u></strong></p><p><strong>Brushify packs can easily be merged together, in the Epic launcher, click &#39;Add to project&#39; then choose &#39;Overwrite files&#39;. This is required because Brushify packs share some generic objects, textures and shaders.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "brushify-natural-roads-pack",
+  "creationDate": "2019-06-06T01:55:22.782Z",
+  "lastModifiedDate": "2024-10-21T07:37:30.538Z",
+  "effectiveDate": "2019-06-06T01:55:22.354Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9cyhpvwefuectkq9pfavb4gsec6z8u",
+    "name": "JoeGarth"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>12 unique natural road materials/textures for use with the UE5 spline system. Choose from pebbles, dirt and mud.</li><li> Advanced Roads material with Parallax mapping, Soft blending and Distance LOD texture capability.</li><li>Includes wooden fences, stone walls, signs and walkways.</li><li>This pack contains a ready-made level already built using the Brushify assets.</li><li>Includes the Brushify Landscape Auto material that automatically textures the terrain as users paint.</li><li>Automaterial includes 9 Paintable Biome materials Grass, GrassDry, Desert, Dunes, Beach, Forest, ForestDry, Snow, Mud</li></ul><p><br /></p><p><strong>Texture Sizes</strong>: Up to 4096x4096</p><p>PBR: Yes</p><p>LODs: Yes</p><p>Collision: Yes</p><p>All meshes include material instances and textures.</p><p>2 Stone Wall Meshes</p><p>4 Wooden Fence Meshes</p><p>3 Wooden Signpost Meshes</p><p>3 Rock Meshes</p><p>1 Walkway mesh</p><p>1 Grass mesh</p><p><br /></p><p><strong>Brushify Materials:</strong></p><p>Contains Road Shader</p><p>Contains Landscape Auto Material (auto textures terrain, paint down multiple biomes, easy material and layer setup)</p><p>Contains Near Mesh shader (easily switch assets to different biomes: snow, desert, coast)</p><p>Contains Simple Water Shader</p><p>Contains Foliage Material</p><p>Contains Cloud Shadows Material</p><p><br /></p><p><a href=\"https://bit.ly/36hW854\" rel=\"nofollow\">View Brushify Changelog</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "defeeb43-6ace-4c09-89f0-ee3f52081e8d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/keyshot01v2-1920x1080-d287f4ecccfa2735e688fe82c6d3e815.jpg",
+      "md5": "d287f4ecccfa2735e688fe82c6d3e815",
+      "size": 328334,
+      "uploadedDate": "2024-04-03T13:49:41.774Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Roads02-1920x1080-dd3155d553de66bc6d9fc7b678aaf668.jpg",
+      "md5": "dd3155d553de66bc6d9fc7b678aaf668",
+      "size": 951806,
+      "uploadedDate": "2024-04-03T13:49:42.591Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Roads03-1920x1080-580d9cd4d46579e3ef3331f8385db0c2.jpg",
+      "md5": "580d9cd4d46579e3ef3331f8385db0c2",
+      "size": 1027330,
+      "uploadedDate": "2024-04-03T13:49:43.532Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Signs02-1920x1080-c8816baca5ca4e989d8d5b73362550b6.jpg",
+      "md5": "c8816baca5ca4e989d8d5b73362550b6",
+      "size": 759066,
+      "uploadedDate": "2024-04-03T13:49:44.488Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Signs-1920x1080-9d0d6ffb68a5e0a5e313b56fff989671.jpg",
+      "md5": "9d0d6ffb68a5e0a5e313b56fff989671",
+      "size": 595850,
+      "uploadedDate": "2024-04-03T13:49:45.391Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Bridges02-1920x1080-670fdc19d0063d5c770991a652d6ebad.jpg",
+      "md5": "670fdc19d0063d5c770991a652d6ebad",
+      "size": 1623448,
+      "uploadedDate": "2024-04-03T13:49:46.404Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MudRoad01-1920x1080-de837a09c8b113075f12b0507d5b22cc.jpg",
+      "md5": "de837a09c8b113075f12b0507d5b22cc",
+      "size": 579400,
+      "uploadedDate": "2024-04-03T13:49:47.376Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MudRoad02-1920x1080-ba8b29faff30d71cd0c30933b7f1b11e.jpg",
+      "md5": "ba8b29faff30d71cd0c30933b7f1b11e",
+      "size": 537337,
+      "uploadedDate": "2024-04-03T13:49:48.245Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BrushifyNaturalRoadsPack_thumb-284x284-d9c13c873a087fcd1c98ab3170f2ce9d.png",
+      "md5": "d9c13c873a087fcd1c98ab3170f2ce9d",
+      "size": 143016,
+      "uploadedDate": "2024-04-03T13:49:49.057Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BrushifyNaturalRoadsPack_featured-894x488-290d0e31045bf138af6cfe4cff582252.png",
+      "md5": "290d0e31045bf138af6cfe4cff582252",
+      "size": 523265,
+      "uploadedDate": "2024-04-03T13:49:49.218Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/keyshot01v2-1920x1080-d287f4ecccfa2735e688fe82c6d3e815_Snapshot.jpg",
+      "md5": "b1c0a71bffb88153832582eb4cac2b7a",
+      "size": 4086,
+      "uploadedDate": "2024-04-03T13:49:42.296Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Roads02-1920x1080-dd3155d553de66bc6d9fc7b678aaf668_Snapshot.jpg",
+      "md5": "8e181ae6498add05fbb04afc703f119a",
+      "size": 4773,
+      "uploadedDate": "2024-04-03T13:49:43.194Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Roads03-1920x1080-580d9cd4d46579e3ef3331f8385db0c2_Snapshot.jpg",
+      "md5": "dbe3b7cf11c46ed577636bd676f8e38e",
+      "size": 4235,
+      "uploadedDate": "2024-04-03T13:49:44.117Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Signs02-1920x1080-c8816baca5ca4e989d8d5b73362550b6_Snapshot.jpg",
+      "md5": "1fb543d1e450b853a8010998c00bed20",
+      "size": 4235,
+      "uploadedDate": "2024-04-03T13:49:45.071Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Signs-1920x1080-9d0d6ffb68a5e0a5e313b56fff989671_Snapshot.jpg",
+      "md5": "59c9dafd1beaf5e43c13184b8a7cfd10",
+      "size": 3268,
+      "uploadedDate": "2024-04-03T13:49:45.994Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Bridges02-1920x1080-670fdc19d0063d5c770991a652d6ebad_Snapshot.jpg",
+      "md5": "4a6fd06f1577e4e652c9557ff59379b1",
+      "size": 4372,
+      "uploadedDate": "2024-04-03T13:49:47.048Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MudRoad01-1920x1080-de837a09c8b113075f12b0507d5b22cc_Snapshot.jpg",
+      "md5": "452bd150e6b906799464532edbc88408",
+      "size": 5007,
+      "uploadedDate": "2024-04-03T13:49:47.929Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MudRoad02-1920x1080-ba8b29faff30d71cd0c30933b7f1b11e_Snapshot.jpg",
+      "md5": "486fb9cefc4c6f9e8c8aecace80550ed",
+      "size": 4846,
+      "uploadedDate": "2024-04-03T13:49:48.894Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/keyshot01-1920x1080-db82afcd8b1de72c148aaac262d546f6_Snapshot.jpg",
+      "md5": "1f39fce7b57e1799aa98c27bcc697205",
+      "size": 2319,
+      "uploadedDate": "2019-05-12T13:50:29.221Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/keyshot02-1920x1080-b67d1d3470561f0fda8404cca089f55b_Snapshot.jpg",
+      "md5": "62969a09aa6103476d32d185ff964c60",
+      "size": 2238,
+      "uploadedDate": "2019-05-12T13:50:29.555Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/roads02-1920x1080-b779b3b3789332e271e33114d3074191_Snapshot.jpg",
+      "md5": "2b1335b508bfa0012229715ce4d3ab6a",
+      "size": 2035,
+      "uploadedDate": "2019-05-12T13:50:29.884Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/signs02-1920x1080-0a7a90f3538c158572f535cdac05be87_Snapshot.jpg",
+      "md5": "866f93e75e6080fd2bb1d4d17d2d00b2",
+      "size": 2010,
+      "uploadedDate": "2019-05-12T13:50:30.244Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/signs-1920x1080-1f65a5adbf404825eacfff0ff64909dc_Snapshot.jpg",
+      "md5": "f9fbe41525eaa387ac7e5d7814e5a564",
+      "size": 1558,
+      "uploadedDate": "2019-05-12T13:50:30.429Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/roads03-1920x1080-f0c8fd7a30c15eda8b66c65fef065dc7_Snapshot.jpg",
+      "md5": "e3776620ad6394a7aa602429193dd586",
+      "size": 2155,
+      "uploadedDate": "2019-05-12T13:50:30.832Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/roads01-1920x1080-e1d5e81a17d758f50b422b1a367b715e_Snapshot.jpg",
+      "md5": "36984ed24a438d9e5dded6210f5376ec",
+      "size": 2137,
+      "uploadedDate": "2019-05-12T13:50:31.236Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bridges-1920x1080-77210dafaa827373e4425dd343a0de86_Snapshot.jpg",
+      "md5": "a5aee2e5622faba092ee99af50eede0f",
+      "size": 2328,
+      "uploadedDate": "2019-05-12T13:50:31.743Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a8eeb37fbf6b4f60bc78b243e7a7e7a0"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,302 @@
+{
+  "id": "c0fed8e53a6c4da5b4536373c5d3c318",
+  "namespace": "ue",
+  "title": "3D Draw",
+  "description": "This asset contains a 3D drawing Blueprint system ready for Multiplayer and VR",
+  "longDescription": "<p>Want to implement drawing in your game or simulation? then 3D Draw is for you!</p><p>3D Draw comes with multiplayer support, VR support, collision support, and all of that with great optimization! </p><p>Plus it&#39;s super easy to use! Check out our documentation below.</p><p><br /></p><p>Trailer: <a href=\"https://youtu.be/gJq5KsbnI9g\" rel=\"nofollow\">https://youtu.be/gJq5KsbnI9g</a></p><p><br /></p><p>Be aware only Oculus controls are currently set up for VR.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "3d-draw",
+  "creationDate": "2021-04-15T15:22:27.418Z",
+  "lastModifiedDate": "2024-10-22T21:55:51.814Z",
+  "effectiveDate": "2021-04-15T15:22:27.366Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wvdmlt8cxw2c9jpfr4agjkdyxdmwvg",
+    "name": "Hanging Spiders"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Multiplayer support (tested with Steam&#39;s Advanced Sessions Plugin).</li><li>VR ready (Currently only Oculus controls are set up but other controls, such as Vive and Valve Index can be added).</li><li>Collision support (add collisions to your drawings).</li><li>2D physics game example included!</li><li>Highly customizable (Add new brushes &amp; colors, change optimization settings &amp; brush settings).</li><li>Comes with 5 unique brushes.</li><li>Drawing tool models included!</li></ul><p><br /></p><p>Number of Blueprints: 20</p><p>Input: Keyboard &amp; VR (Oculus)</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1mSp3D0jU5p0wLA7MXMlZ7ToLrhYLKBn__ycNbcyXl3Q/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1mSp3D0jU5p0wLA7MXMlZ7ToLrhYLKBn__ycNbcyXl3Q/edit?usp&#61;sharing</a></p><p>Important/Additional Notes: For updates and future plans follow us on Twitter: <a href=\"https://twitter.com/NikolichStefan\" rel=\"nofollow\">https://twitter.com/NikolichStefan</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "69e42450-c26b-468d-9cd9-8f78b67681c8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3DrawV2Thumb01-1920x1080-a4605325b7d8aed232d7ea70351cf1ac.png",
+      "md5": "a4605325b7d8aed232d7ea70351cf1ac",
+      "size": 567968,
+      "uploadedDate": "2022-12-15T18:17:49.127Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MP Example-1920x1080-12f42bd17cde8f4152011984f015758e.png",
+      "md5": "12f42bd17cde8f4152011984f015758e",
+      "size": 1493188,
+      "uploadedDate": "2022-12-15T18:17:49.657Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VR Example-1920x1080-2e1683e5c44225f12854eebf1639e1f1.png",
+      "md5": "2e1683e5c44225f12854eebf1639e1f1",
+      "size": 919313,
+      "uploadedDate": "2022-12-15T18:17:50.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2D Example-1920x1080-4979923af43b7751f8d2e4d9058f5aea.png",
+      "md5": "4979923af43b7751f8d2e4d9058f5aea",
+      "size": 726652,
+      "uploadedDate": "2022-12-15T18:17:50.787Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ModelsShowcase-1920x1080-29ea5778146ab9ef0faf8137e1d35262.png",
+      "md5": "29ea5778146ab9ef0faf8137e1d35262",
+      "size": 404002,
+      "uploadedDate": "2022-12-15T18:17:51.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pic1-1920x1080-1944f0380e97b25205abe66c84a98603.png",
+      "md5": "1944f0380e97b25205abe66c84a98603",
+      "size": 1159189,
+      "uploadedDate": "2021-04-09T05:15:04.160Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pic2-1920x1080-d9ba390ad730cf135b484004f26ca892.png",
+      "md5": "d9ba390ad730cf135b484004f26ca892",
+      "size": 522303,
+      "uploadedDate": "2021-04-09T05:15:04.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pic3-1920x1080-408539f5f3d9d732a778a26062607db3.png",
+      "md5": "408539f5f3d9d732a778a26062607db3",
+      "size": 511565,
+      "uploadedDate": "2021-04-09T05:15:05.194Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/3DDraw_thumb-284x284-e7fd74cc679ff7c72beabe1321a3166a.png",
+      "md5": "e7fd74cc679ff7c72beabe1321a3166a",
+      "size": 37282,
+      "uploadedDate": "2022-12-15T18:17:51.608Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/3DDraw_featured-894x488-6aef63c242f6e546ed78ee41f180f041.png",
+      "md5": "6aef63c242f6e546ed78ee41f180f041",
+      "size": 259012,
+      "uploadedDate": "2022-12-15T18:17:51.660Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3DrawV2Thumb01-1920x1080-a4605325b7d8aed232d7ea70351cf1ac_Snapshot.png",
+      "md5": "e5299de661b094b1f77d72e2004d81fa",
+      "size": 5300,
+      "uploadedDate": "2022-12-15T18:17:49.434Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MP Example-1920x1080-12f42bd17cde8f4152011984f015758e_Snapshot.png",
+      "md5": "a0d7f5c1e2e7cbf9f325e37ee514f3e4",
+      "size": 6616,
+      "uploadedDate": "2022-12-15T18:17:50.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VR Example-1920x1080-2e1683e5c44225f12854eebf1639e1f1_Snapshot.png",
+      "md5": "875d9f6e6afa2bc1985057c5c1d8a5e3",
+      "size": 5368,
+      "uploadedDate": "2022-12-15T18:17:50.624Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2D Example-1920x1080-4979923af43b7751f8d2e4d9058f5aea_Snapshot.png",
+      "md5": "8b7878465d34b5cb501d82a3c2c98aa1",
+      "size": 4184,
+      "uploadedDate": "2022-12-15T18:17:51.040Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ModelsShowcase-1920x1080-29ea5778146ab9ef0faf8137e1d35262_Snapshot.png",
+      "md5": "2998c18072e08644c64152eabda46278",
+      "size": 4589,
+      "uploadedDate": "2022-12-15T18:17:51.512Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3Draw5-1920x1080-641f07c29ca5681757ce2714a0f6a43c_Snapshot.png",
+      "md5": "626238df0adc0d50033f6ab87a8fe17a",
+      "size": 5379,
+      "uploadedDate": "2021-04-09T05:15:03.327Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5 Brushes-1920x1080-b0d06accd22ee25b2ec204718af546e8_Snapshot.png",
+      "md5": "ef64dabc56092cec80a32706cb87b12a",
+      "size": 6923,
+      "uploadedDate": "2021-04-09T05:15:03.955Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pic1-1920x1080-1944f0380e97b25205abe66c84a98603_Snapshot.png",
+      "md5": "afaf312a6e184afc7b9ca64d397bb294",
+      "size": 4558,
+      "uploadedDate": "2021-04-09T05:15:04.522Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pic2-1920x1080-d9ba390ad730cf135b484004f26ca892_Snapshot.png",
+      "md5": "ff48bfa2285258f36173406057cb89a6",
+      "size": 5216,
+      "uploadedDate": "2021-04-09T05:15:05.026Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pic3-1920x1080-408539f5f3d9d732a778a26062607db3_Snapshot.png",
+      "md5": "1750645af23aa21c71a6b02bd4a4853c",
+      "size": 5257,
+      "uploadedDate": "2021-04-09T05:15:05.508Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "aaad3c91d5ab48bda3a0ad6d36167d10"
+    }
+  ],
+  "catalogNs": null
+}

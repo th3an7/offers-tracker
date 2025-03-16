@@ -1,0 +1,206 @@
+{
+  "id": "3e226b9920644851933d011f56d8c279",
+  "namespace": "ue",
+  "title": "Masked Blur",
+  "description": "Post process FX for masking object with shadow and blur distortion effect.",
+  "longDescription": "Preview: <a href=\"https://youtu.be/6VsiFGPmPTg\" rel=\"nofollow\">youtu.be/6VsiFGPmPTg</a><br /><br />Post process material for masking any actor with additional shadow and blur distortion effects. Can be useful for cut scenes, games, cartoon post processing.<br /><br />Adjustable Features: <br />• mask radius <br />• mask sharpness <br />• shadow intensity <br />• blur distortion<br /><br />Can be useful for cut scenes, games, cartoon post processing. Level example and Tutorial Blueprint are included.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "masked-blur",
+  "creationDate": "2016-04-14T17:35:56.889Z",
+  "lastModifiedDate": "2024-10-09T01:58:30.191Z",
+  "effectiveDate": "2016-04-27T00:00:00.000Z",
+  "viewableDate": "2016-04-27T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-c8e13370634e09bd2cd9b33574f5ff",
+    "name": "Andrey Harchenko"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Instructions: <br />1) Add PostProcess volume to a level <br />2) Place BP_maskedblur to a level <br />3) Specify your post process volume in BP_masked blur setting &#34;Post Process volume&#34; <br />4) Specify your target actor in BP_masked blur setting settings &#34;Target Actor&#34;<br /><br />Number of Materials: 5 <br />Do Materials derive from a Master Material with instances as variation: No <br />Number of Textures: 0 <br />Texture Resolution (complete list): - <br />Engine Compatibility: 4.10.4, 4.11 <br />Intended Platform: Windows <br />Platforms Tested: Windows <br />Documentation Included: Yes",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1112",
+      "name": "TIME ATTACK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:14.123Z",
+      "updated": "2019-06-20T11:59:14.123Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1114",
+      "name": "ARTIFICIAL INTELLIGENCE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.151Z",
+      "updated": "2019-06-20T11:59:15.151Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "448354af-001e-4b71-900c-3e2103e2be2f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/MaksedBlur_screenshot_1-1920x1080-3fb6176520dd3363edd4f01a82e38719.png",
+      "md5": "3fb6176520dd3363edd4f01a82e38719",
+      "size": 917714,
+      "uploadedDate": "2016-04-14T17:34:08.903Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/MaksedBlur_screenshot_2-1920x1080-dbdd93d3e3b41c0e80c20836c05c7050.png",
+      "md5": "dbdd93d3e3b41c0e80c20836c05c7050",
+      "size": 569768,
+      "uploadedDate": "2016-04-14T17:34:05.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/MaksedBlur_screenshot_3-1920x1080-f0867944306d0096c0fc2abc385c713c.png",
+      "md5": "f0867944306d0096c0fc2abc385c713c",
+      "size": 871754,
+      "uploadedDate": "2016-04-14T17:34:03.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/MaksedBlur_screenshot_4-1920x1080-d5ffe2d921ddbdad19d1e53d91cd1439.png",
+      "md5": "d5ffe2d921ddbdad19d1e53d91cd1439",
+      "size": 856203,
+      "uploadedDate": "2016-04-14T17:34:02.352Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/MaksedBlur_screenshot_5-1920x1080-fbc7f6819d5649eabc88f48601a06697.png",
+      "md5": "fbc7f6819d5649eabc88f48601a06697",
+      "size": 823551,
+      "uploadedDate": "2016-04-14T17:34:00.652Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/MaskedBlur_Thumb-284x284-dceeb158af5dc24172298c67b684d4fe.png",
+      "md5": "dceeb158af5dc24172298c67b684d4fe",
+      "size": 55057,
+      "uploadedDate": "2016-04-14T17:33:58.023Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/MaskedBlur_Featured-476x246-c71eda52b880188c2072987070fdd8b9.png",
+      "md5": "c71eda52b880188c2072987070fdd8b9",
+      "size": 74892,
+      "uploadedDate": "2016-04-14T17:34:13.322Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/MaskedBlur_FeaturedNew-894x488-71a4391b95651301d3864bb4e6b218f8.png",
+      "md5": "71a4391b95651301d3864bb4e6b218f8",
+      "size": 201493,
+      "uploadedDate": "2016-04-14T17:34:11.641Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "02e4e130e84048398aa9457efa2efc88"
+    }
+  ],
+  "catalogNs": null
+}

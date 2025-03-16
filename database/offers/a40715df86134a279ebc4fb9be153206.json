@@ -1,0 +1,134 @@
+{
+  "id": "a40715df86134a279ebc4fb9be153206",
+  "namespace": "ue",
+  "title": "TCP Blueprint Plugin",
+  "description": "This plugin facilitates the creation of TCP socket connection's as client using pure Blueprints.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;Et0woN_u9Lg\" rel=\"nofollow\">youtube.com/watch?v&#61;Et0woN_u9Lg</a></p><p>Tutorial as fast as posible: <a href=\"https://www.youtube.com/watch?v&#61;rOQSwnmOh34\" rel=\"nofollow\">youtube.com/watch?v&#61;rOQSwnmOh34</a></p><p><br /></p><p>This plugin facilitates the connection to TCP server&#39;s by providing easy to use Blueprint nodes.</p><p><br /></p><p>Use this plugin for prototyping and as a reference to implement your own custom TCP system.</p><p><br /></p><p>The plugin it&#39;s intended to provide functionality to connect with external servers, helping you to extend UE4 by using open source projects or commercial products.</p><p>Note this plugin only exposes functionality to create the <strong>client part</strong> and <strong>not for creating a server</strong>. </p><p><br /></p><p>For testing purposes i created python scripts and a TCP /WEBSOCKET utility server (windows exe), keep in mind these scripts and application are not part of the plugin and are provided &#34;as is&#34; to help users have a quickstart and testing enviroment.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tcp-blueprint-plugin",
+  "creationDate": "2016-06-02T15:01:32.629Z",
+  "lastModifiedDate": "2024-10-15T10:33:44.955Z",
+  "effectiveDate": "2016-09-29T00:00:00.000Z",
+  "viewableDate": "2016-09-29T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-01390661464bf08740ea805ac2a9bd",
+    "name": "luis alberto"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Modules:</p><p>• BluNet (Runtime)</p><p><br /></p><p>Features:</p><p>• quickly create a TCP client and implement your custom data reading logic</p><p>• connect /disconnect methods</p><p>• events: onConnect/onDisconnect/onConnectionFail</p><p>• receive and send: int32,float,string</p><p>• define your custom IP (v4) and port directly from blueprint&#39;s</p><p>• create multiple TCP connections</p><p>• no need to write c&#43;&#43; code, you can create a full client using only blueprint&#39;s</p><p>• full plugin source code c&#43;&#43; is included</p><p><br /></p><p>Example Project: <a href=\"http://motion.mx/ue4/tcpexample/TCPexample.zip\" rel=\"nofollow\">motion.mx/ue4/tcpexample/TCPexample.zip</a></p><p><br /></p><p>Updates are released only for the latest two versions of Unreal Engine, past versions will not be updated.</p><p><br /></p><p>Tested with windows 10.</p><p><br /></p><p>UPDATE 03/01/2019</p><p>Added easy to use &#34;bp_EasyStringTCP&#34; to the blueprint, just drag it to your viewport and use its method &#34;SendStringToServer&#34; to send strings and the &#34;onTcpStringReceived&#34; event to listen for incoming strings.</p><p>Quick tutorial: multiplayer chat using tcp <a href=\"https://www.youtube.com/watch?v&#61;HAOY7kSi9PU\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;HAOY7kSi9PU</a></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5d649b1a-0210-44ef-896e-677bf3ef1b59"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_view_screenshot_1-1920x1080-93dc5313bd2feff61de62ce8417124f6.png",
+      "md5": "93dc5313bd2feff61de62ce8417124f6",
+      "size": 565347,
+      "uploadedDate": "2016-06-02T15:00:11.113Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_connect_screenshot_2-1920x1080-ccfd69e00207a1838075733b89b1234d.png",
+      "md5": "ccfd69e00207a1838075733b89b1234d",
+      "size": 242605,
+      "uploadedDate": "2016-06-02T15:00:17.930Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_listeners_screenshot_3-1920x1080-9571884567719188db2e922929bcd345.png",
+      "md5": "9571884567719188db2e922929bcd345",
+      "size": 377079,
+      "uploadedDate": "2016-06-02T15:00:05.343Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_reading_screenshot_4-1920x1080-dba269c852be561360203461b6944180.png",
+      "md5": "dba269c852be561360203461b6944180",
+      "size": 286681,
+      "uploadedDate": "2016-06-02T15:00:15.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_readingString_screenshot_5-1920x1080-dbf316326ea98111ae43005b2efdc671.png",
+      "md5": "dbf316326ea98111ae43005b2efdc671",
+      "size": 266731,
+      "uploadedDate": "2016-06-02T15:00:01.017Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/BluNet_Thumb-284x284-2a44aa4c6abdbc1eb96129679f5daa7b.png",
+      "md5": "2a44aa4c6abdbc1eb96129679f5daa7b",
+      "size": 124878,
+      "uploadedDate": "2016-06-02T14:59:58.146Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/BluNet_Featured-476x246-866fa66dd9dd67f9d8426bc828b755c3.png",
+      "md5": "866fa66dd9dd67f9d8426bc828b755c3",
+      "size": 188325,
+      "uploadedDate": "2016-06-02T15:00:22.145Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/BluNet_FeaturedNew-894x488-76c38c11ab71878a58f5047cc01cae68.png",
+      "md5": "76c38c11ab71878a58f5047cc01cae68",
+      "size": 803058,
+      "uploadedDate": "2016-06-02T15:00:20.935Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "c58d99c00aa54f8c8279a662c4cad75b"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,218 @@
+{
+  "id": "8ba5b16e9ad9408bb5d87be0511d0431",
+  "namespace": "ue",
+  "title": "LayerSpawnSystem",
+  "description": "A spawn system developed for the open world,It can procedural arrange spawn point and set your Ecosystem,100% blurprint",
+  "longDescription": "<p><strong>This is a spawn system developed for the open world</strong></p><p><br /></p><p><strong>This System:</strong></p><p>Procedural Spawn Point</p><p>SpawnVolume(Ecosystem)</p><p>Respawn System(BetweenTime/Cave)</p><p>SpawnByProbability(anyAI)</p><p>SpawnByLayer(Include/UnInclude/Underwater)</p><p>CrewSpawn</p><p>Limit Max Spawn By Type</p><p><br /></p><p><br /></p><p><strong>PS. All Spawn Code Run In Server , Client Will Do Nothing</strong></p><p><strong>The spawn system makes sure that when player in check range.</strong></p><p><strong>It&#39;s been made 100% in Blueprints and it&#39;s easy to read/expand upon.</strong></p><p><br /></p><p><strong>Included in this package:</strong></p><ul><li>4 Different Color Roaming AI(Use to identify the spawning layer)</li><li>A Example ProceduralFoliageSpawner(Use to spawn &#34;SpawnPoint&#34;)</li><li>3 Example SpawnPointLayer(Grass,Rock,Sand)</li><li>A Example Map</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "layerspawnsystem",
+  "creationDate": "2023-03-17T11:27:46.196Z",
+  "lastModifiedDate": "2024-10-10T22:37:37.151Z",
+  "effectiveDate": "2023-03-17T11:56:15.378Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qtwx6snrpdpmsjxwpnbdrl8hd9y3p3",
+    "name": "SakanaGame"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features: </strong></p><ul><li>Procedural Spawn &#34;SpawnPoint&#34; With ProceduralFoliageSpawner</li><li>Specify AI Can/Not Spawn Layer</li><li>Ecosystem: Volume To Set Spawn AI</li><li>Custom: You can independent set &#34;SpawnPoint&#34; Spawn Data as you want</li><li>Probabilistic Spawn</li><li>Specific AI Max Spawn Quantity In Map</li><li>Crew(team?)</li><li>Respawn By Time(Alone or Point(Cave))</li></ul><p><br /></p><p><strong>Documentation: </strong><a href=\"https://www.wikiful.com/&#64;SakanaGame/layerspawn/document\" rel=\"nofollow\">中文</a> | <a href=\"https://www.wikiful.com/&#64;SakanaGame/layerspawn/document-english\" rel=\"nofollow\">English</a></p><p><strong>Support : </strong>QQGroup-576751402</p><p><strong>Demo: </strong><a href=\"https://drive.google.com/file/d/1tKb6lY_k-Ouxe4LsN1mw4U_wY9rrE1EJ/view?usp&#61;share_link\" rel=\"nofollow\">GoogleDrive</a></p><p>Number of Blueprints:4</p><p>Network Replicated: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1235",
+      "name": "TIME MANIPULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:15.189Z",
+      "updated": "2019-06-20T12:00:15.189Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3687a19b-b41b-4bca-8583-1b05c9be5e80"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-b1b963303bf091043953a52a01e3138d.png",
+      "md5": "b1b963303bf091043953a52a01e3138d",
+      "size": 2083607,
+      "uploadedDate": "2023-03-14T11:55:10.716Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-8f85a8b5db9405ec7917c9100d492e2d.png",
+      "md5": "8f85a8b5db9405ec7917c9100d492e2d",
+      "size": 740010,
+      "uploadedDate": "2023-03-14T11:55:11.316Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-03c40206027df620176b0b66f8779475.png",
+      "md5": "03c40206027df620176b0b66f8779475",
+      "size": 281937,
+      "uploadedDate": "2023-03-14T11:55:11.796Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-d0b76828967a32423eeb5d7bb68627be.png",
+      "md5": "d0b76828967a32423eeb5d7bb68627be",
+      "size": 362499,
+      "uploadedDate": "2023-03-14T11:55:12.324Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-991302b14e826d55a66c14fd92b5e1ff.png",
+      "md5": "991302b14e826d55a66c14fd92b5e1ff",
+      "size": 487587,
+      "uploadedDate": "2023-03-14T11:55:12.759Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LayerSpawnSystem_thumb-284x284-892aac5eb5f18b51c576c6628cf2222c.png",
+      "md5": "892aac5eb5f18b51c576c6628cf2222c",
+      "size": 117707,
+      "uploadedDate": "2023-03-14T11:55:13.114Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LayerSpawnSystem_featured-894x488-23ce05944310f49dedaee9db9797041a.png",
+      "md5": "23ce05944310f49dedaee9db9797041a",
+      "size": 356834,
+      "uploadedDate": "2023-03-14T11:55:13.247Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-b1b963303bf091043953a52a01e3138d_Snapshot.png",
+      "md5": "b026418c01055b10b7b8d4258c6f2b86",
+      "size": 4717,
+      "uploadedDate": "2023-03-14T11:55:11.134Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-8f85a8b5db9405ec7917c9100d492e2d_Snapshot.png",
+      "md5": "9edf043a2cbbcb3df4d7d8c66a2da6b4",
+      "size": 4699,
+      "uploadedDate": "2023-03-14T11:55:11.649Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-03c40206027df620176b0b66f8779475_Snapshot.png",
+      "md5": "92e2027101a8e675e655e8381ef9396f",
+      "size": 4214,
+      "uploadedDate": "2023-03-14T11:55:12.104Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-d0b76828967a32423eeb5d7bb68627be_Snapshot.png",
+      "md5": "294d22689f64a5ae3ac7aa950da52351",
+      "size": 5665,
+      "uploadedDate": "2023-03-14T11:55:12.596Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-991302b14e826d55a66c14fd92b5e1ff_Snapshot.png",
+      "md5": "0846a21d1fbb40aa015b134a539c7bd5",
+      "size": 4460,
+      "uploadedDate": "2023-03-14T11:55:13.037Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5516087ba64540fea41c12d259d58e1a"
+    }
+  ],
+  "catalogNs": null
+}

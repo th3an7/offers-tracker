@@ -1,0 +1,413 @@
+{
+  "id": "bc7fcf7d4e60450ca51158289d355ff4",
+  "namespace": "ue",
+  "title": "DBTween",
+  "description": "DBTween is a Tween animation plugin.You can easily create a complex Tween animation using just one function",
+  "longDescription": "<p>Version 3.0&#xff1a;</p><ul><li>  Add DORotator</li><li>  DoPath add return value curRotator</li><li>  Changed:Change all class names from Tween to DBTween.To avoid compiler errors caused by conflicts with other plug-in parameter class names</li><li><strong><em><u>Because the class name has been changed, users upgrading from older versions should make a backup before upgrading</u></em></strong></li></ul><p>Version 2.0&#xff1a;</p><p>Add Feature:Play Tween animations by curve</p><p>Version 1.0:</p><p>Video: <a href=\"https://www.bilibili.com/video/bv1M64y1s7a9\" rel=\"nofollow\">DBTween Plugin Demo</a></p><p>Windows exe Demo:<a href=\"http://www.lexuehudong.com/cdn/usermanual/DBTweenDemoExe.zip\" rel=\"nofollow\">DBTweenDemoExe</a></p><p>We can use the following asynchronous or synchronous functions to create a complex Tween animation. Function as follows:</p><p><em>DOFloat, DOVector2D, DOVector3D, DOVector4D, DOColor, DOFade, DOMove, DORotation, DOScale, DOSize, DOPath</em></p><p><em>DOFloatSync, DOVector2DSync, DOVector3DSync, DOVector4DSync, DOColorSync, DOFadeSync, DOMoveSync, DORotationSync, DOScaleSync, DOSizeSync, DOPathSync</em></p><p>And there are 31 types of curves.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dbtween",
+  "creationDate": "2021-08-10T00:44:37.604Z",
+  "lastModifiedDate": "2024-10-15T10:06:45.635Z",
+  "effectiveDate": "2021-08-10T00:44:37.513Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nd3rqlb68v4amx44f6j7t36ysay4js",
+    "name": "DearBing"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Tween Animation Control</li></ul><p> Set TweenAnimation ease type:<em> Linear,Sine,Quad,Cubic,Quart,Quint,Expo,Circ,Back,Bounce</em></p><ul><li> Support for asynchronous calls function </li></ul><p>Code Modules: (Runtime) </p><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:13</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: (Windows, Mac)</p><p>Supported Target Build Platforms: (Win64, Mac, IOS, Android)</p><p>Documentation: <a href=\"http://www.lexuehudong.com/cdn/usermanual/DBTween_UserManual.pdf\" rel=\"nofollow\">http://www.lexuehudong.com/cdn/usermanual/DBTween_UserManual.pdf</a></p><p>Example Project: <a href=\"http://www.lexuehudong.com/cdn/usermanual/DBTweenDemoProject426.zip\" rel=\"nofollow\">http://www.lexuehudong.com/cdn/usermanual/DBTweenDemoProject426.zip</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2b4f6fee-ac9d-4b4c-b374-ed8a914089e0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EaseType-1920x1080-bc0466c140b93faec256cfaded3f9d18.jpg",
+      "md5": "bc0466c140b93faec256cfaded3f9d18",
+      "size": 348991,
+      "uploadedDate": "2021-08-07T03:11:21.514Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TweenTest-1920x1080-5bcf5d0eebae136170737b01435bb6eb.jpg",
+      "md5": "5bcf5d0eebae136170737b01435bb6eb",
+      "size": 1265598,
+      "uploadedDate": "2021-08-07T03:11:21.915Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/API3-1920x1080-59fb1048b4f7295be2117829f94d4683.jpg",
+      "md5": "59fb1048b4f7295be2117829f94d4683",
+      "size": 162234,
+      "uploadedDate": "2021-08-07T03:11:23.395Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/API1-1920x1080-857f6454dd00887f7d3303c9208f1863.png",
+      "md5": "857f6454dd00887f7d3303c9208f1863",
+      "size": 472528,
+      "uploadedDate": "2021-10-09T07:25:57.821Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/API2-1920x1080-ca414866fb4497e81bc5122e416b87b8.png",
+      "md5": "ca414866fb4497e81bc5122e416b87b8",
+      "size": 300195,
+      "uploadedDate": "2021-10-09T07:25:58.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SyncAPI-1920x1080-ad04cb7aa542ca1a4c703f04bc079606.png",
+      "md5": "ad04cb7aa542ca1a4c703f04bc079606",
+      "size": 195033,
+      "uploadedDate": "2021-10-09T07:25:58.537Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CppCall-1920x1080-b73393e9641d332ed3be266f19baf22a.jpg",
+      "md5": "b73393e9641d332ed3be266f19baf22a",
+      "size": 131624,
+      "uploadedDate": "2022-09-16T15:16:59.176Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DBTween_thumb-284x284-cc7b3bb09bb2f499b922a916f13d12d3.png",
+      "md5": "cc7b3bb09bb2f499b922a916f13d12d3",
+      "size": 22680,
+      "uploadedDate": "2021-08-07T03:11:23.691Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DBTween_featured-894x488-d427da10aa4f27c0bf243ff3c4b20339.png",
+      "md5": "d427da10aa4f27c0bf243ff3c4b20339",
+      "size": 95408,
+      "uploadedDate": "2021-08-07T03:11:23.781Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CppCall-1920x1080-b73393e9641d332ed3be266f19baf22a_Snapshot.jpg",
+      "md5": "d1f77ad7c72d9abd4d3471b3de3b819b",
+      "size": 5388,
+      "uploadedDate": "2022-09-16T15:16:59.406Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/API1-1920x1080-857f6454dd00887f7d3303c9208f1863_Snapshot.png",
+      "md5": "8ff96bb466749d2c2019458a50453700",
+      "size": 6946,
+      "uploadedDate": "2021-10-09T07:25:58.060Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/API2-1920x1080-ca414866fb4497e81bc5122e416b87b8_Snapshot.png",
+      "md5": "a228076598dbae9f727b568fbe2d6c5c",
+      "size": 5321,
+      "uploadedDate": "2021-10-09T07:25:58.391Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SyncAPI-1920x1080-ad04cb7aa542ca1a4c703f04bc079606_Snapshot.png",
+      "md5": "93b7d63e04c52ec5d8f2976ae1df1e56",
+      "size": 3972,
+      "uploadedDate": "2021-10-09T07:25:58.784Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EaseType-1920x1080-bc0466c140b93faec256cfaded3f9d18_Snapshot.jpg",
+      "md5": "924e5ba3a253ac032b60e8546b78f91f",
+      "size": 5479,
+      "uploadedDate": "2021-08-07T03:11:21.727Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TweenTest-1920x1080-5bcf5d0eebae136170737b01435bb6eb_Snapshot.jpg",
+      "md5": "1d747c4ad205b98af52b3c6811f27e85",
+      "size": 3785,
+      "uploadedDate": "2021-08-07T03:11:22.179Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/API1-1920x1080-28d21341c04e5ce94fbc44c926290e60_Snapshot.png",
+      "md5": "3c9a80ce72c317ea017b799e4ad5fd88",
+      "size": 7003,
+      "uploadedDate": "2021-08-07T03:11:22.601Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/API2-1920x1080-4e9c4fa97fb8d4ed36b4c6bd4dd7fdfb_Snapshot.png",
+      "md5": "4b54cec6bf1ae1468061e6974ac43adb",
+      "size": 5263,
+      "uploadedDate": "2021-08-07T03:11:22.930Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SyncAPI-1920x1080-24a11af33003291489a45db7e8c48575_Snapshot.png",
+      "md5": "c340c0800f8ed3d838d5e47c15e27baf",
+      "size": 4925,
+      "uploadedDate": "2021-08-07T03:11:23.288Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/API3-1920x1080-59fb1048b4f7295be2117829f94d4683_Snapshot.jpg",
+      "md5": "4defcadf80d11fba692a1db2acd7f84e",
+      "size": 3384,
+      "uploadedDate": "2021-08-07T03:11:23.644Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "96fce4ef7f7c4b44abd25f3112ad7e8d"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,374 @@
+{
+  "id": "1d708776a1f94220a9863462f8c78bda",
+  "namespace": "ue",
+  "title": "Physically Based Atmosphere",
+  "description": "This plugin enables the user to create multiple physically based atmospheres that can be rendered simultaneously.",
+  "longDescription": "<p><a href=\"https://youtu.be/4jDdOeP6Z2c\" rel=\"nofollow\">[Video]</a></p><p><a href=\"https://cloud.lab132.com/s/RZjZsPGbASmsCLy\" rel=\"nofollow\">[Demo]</a></p><p><a href=\"https://cloud.lab132.com/s/sBLG8eCpfXbPP8i\" rel=\"nofollow\">[SampleProject]</a></p><p><a href=\"https://cloud.lab132.com/s/tyZKxf4BAJoeTAs\" rel=\"nofollow\">[Documentation]</a></p><p>The plugin allows access to a material that offers a multitude of parameters to adjust and create a variety of unique and realistic atmospheres. All atmospheres are calculated by considering the sun’s position, the planet’s position, and the point of view to allow the realistic rendering of the atmosphere. If the relationship between those influence factors and the atmosphere changes, it updates automatically.  </p><p>Based on different material instances for each atmosphere, it is possible to render multiple different-looking atmospheres simultaneously.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "physically-based-atmosphere",
+  "creationDate": "2022-12-06T10:17:55.873Z",
+  "lastModifiedDate": "2024-10-15T09:56:49.510Z",
+  "effectiveDate": "2022-12-06T10:17:55.818Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-sthl3ke4pkrc3v9l7g9zsnqk8a6qkh",
+    "name": "LAB132"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><strong>Physically Based</strong> Atmosphere Shader based on <strong>Rayleigh </strong>and <strong>Mie Scattering</strong></li><li>Easy to use <strong>plug and play components</strong>: <strong>Atmosphere Component</strong> to display the atmosphere, <strong>Atmosphere Sun Component</strong> to automatically set the sun position</li><li><strong>Caching </strong>of intermediate values to <strong>improve performance</strong></li><li><strong>Customizable </strong>from realistic earth like atmosphere to alien planets</li></ul><p><br /></p><p>Code Modules:</p><ul><li> Atmosphere, Runtime Module</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows, Mac, Linux</p><p>Supported Target Build Platforms: <strong>Any</strong></p><p><br /></p><p>Important/Additional Notes:</p><ul><li>Currently, there is no inside view for the Atmosphere.</li><li>The material for the atmosphere can be applied to shapes other than spheres, but decent results can only be expected with spherical shapes.</li><li>The textures of the planets in the screenshots are <strong>NOT </strong>part of the plugin. To download them, visit: https://www.solarsystemscope.com/textures/</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "969e39e3-d29e-47df-89d7-8ac6c4ce60d1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-3abb25eb608acfa022c5dfe20a6d32a6.png",
+      "md5": "3abb25eb608acfa022c5dfe20a6d32a6",
+      "size": 1521804,
+      "uploadedDate": "2022-11-18T13:06:33.286Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-c11425faa8e1073307548c187365b07e.png",
+      "md5": "c11425faa8e1073307548c187365b07e",
+      "size": 1569687,
+      "uploadedDate": "2022-11-18T13:06:33.943Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-5c01ebeb6d101b21dfcc0aa8468542c3.png",
+      "md5": "5c01ebeb6d101b21dfcc0aa8468542c3",
+      "size": 1775154,
+      "uploadedDate": "2022-11-18T13:06:34.641Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-f1a317139a42d12a6887cb179ee03996.png",
+      "md5": "f1a317139a42d12a6887cb179ee03996",
+      "size": 1520017,
+      "uploadedDate": "2022-11-18T13:06:35.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-a8892a3aef0fe14d1690e63f5c5660a8.png",
+      "md5": "a8892a3aef0fe14d1690e63f5c5660a8",
+      "size": 1765987,
+      "uploadedDate": "2022-11-18T13:06:35.892Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-f0e0939f4e3e8daefab6704dbf37876b.png",
+      "md5": "f0e0939f4e3e8daefab6704dbf37876b",
+      "size": 1193938,
+      "uploadedDate": "2022-11-18T13:06:36.657Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/07-1920x1080-b3ed8b45ea56d46cd4628e9154b47121.png",
+      "md5": "b3ed8b45ea56d46cd4628e9154b47121",
+      "size": 1277462,
+      "uploadedDate": "2022-11-18T13:06:37.277Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/08-1920x1080-b4e699c4c25f84f8e6206ffd3abf7788.png",
+      "md5": "b4e699c4c25f84f8e6206ffd3abf7788",
+      "size": 1243221,
+      "uploadedDate": "2022-11-18T13:06:37.946Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/09-1920x1080-5a922d8969834f78ed3df34ed35c812d.png",
+      "md5": "5a922d8969834f78ed3df34ed35c812d",
+      "size": 1661021,
+      "uploadedDate": "2022-11-18T13:06:38.645Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-196db679bec9faba025363c78b2e94f0.png",
+      "md5": "196db679bec9faba025363c78b2e94f0",
+      "size": 1768933,
+      "uploadedDate": "2022-11-18T13:06:39.363Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-4e62f9c3f4d06e95503dc5f83f69eb4f.png",
+      "md5": "4e62f9c3f4d06e95503dc5f83f69eb4f",
+      "size": 2041424,
+      "uploadedDate": "2022-11-18T13:06:40.066Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PhysicallyBasedAtmosphere_thumb-284x284-1c673ed7c57de0fc4953dcb607a2c949.png",
+      "md5": "1c673ed7c57de0fc4953dcb607a2c949",
+      "size": 103373,
+      "uploadedDate": "2022-11-18T13:06:40.560Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PhysicallyBasedAtmosphere_featured-894x488-3b858258515f921727e97996eb961919.png",
+      "md5": "3b858258515f921727e97996eb961919",
+      "size": 638321,
+      "uploadedDate": "2022-11-18T13:06:40.738Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-3abb25eb608acfa022c5dfe20a6d32a6_Snapshot.png",
+      "md5": "56dac192ac26b851f7d26d2727595deb",
+      "size": 4887,
+      "uploadedDate": "2022-11-18T13:06:33.698Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-c11425faa8e1073307548c187365b07e_Snapshot.png",
+      "md5": "995b2257afd73b72adb8ec85b0cc09b8",
+      "size": 4055,
+      "uploadedDate": "2022-11-18T13:06:34.376Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-5c01ebeb6d101b21dfcc0aa8468542c3_Snapshot.png",
+      "md5": "7383664d3d75e03d478921fbec850db5",
+      "size": 3935,
+      "uploadedDate": "2022-11-18T13:06:35.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-f1a317139a42d12a6887cb179ee03996_Snapshot.png",
+      "md5": "0cb79edd049d6054ebc124a9330d736b",
+      "size": 5193,
+      "uploadedDate": "2022-11-18T13:06:35.684Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-a8892a3aef0fe14d1690e63f5c5660a8_Snapshot.png",
+      "md5": "7cde52c3fc0c3fa741f0678c9c607442",
+      "size": 4026,
+      "uploadedDate": "2022-11-18T13:06:36.365Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-f0e0939f4e3e8daefab6704dbf37876b_Snapshot.png",
+      "md5": "c948565033da26f242fb1bd2ca1c5e34",
+      "size": 4203,
+      "uploadedDate": "2022-11-18T13:06:37.077Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-1920x1080-b3ed8b45ea56d46cd4628e9154b47121_Snapshot.png",
+      "md5": "e17613c028b6a33d809af50edbf73a2e",
+      "size": 4415,
+      "uploadedDate": "2022-11-18T13:06:37.703Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/08-1920x1080-b4e699c4c25f84f8e6206ffd3abf7788_Snapshot.png",
+      "md5": "ae1cd3e536c90e513aac70266ccad00c",
+      "size": 4077,
+      "uploadedDate": "2022-11-18T13:06:38.352Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/09-1920x1080-5a922d8969834f78ed3df34ed35c812d_Snapshot.png",
+      "md5": "c9fa1e985aec19f8b38fa0fa9521ec65",
+      "size": 5157,
+      "uploadedDate": "2022-11-18T13:06:39.082Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-196db679bec9faba025363c78b2e94f0_Snapshot.png",
+      "md5": "8160a95000dff713314e6213f69c8c58",
+      "size": 5223,
+      "uploadedDate": "2022-11-18T13:06:39.790Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-4e62f9c3f4d06e95503dc5f83f69eb4f_Snapshot.png",
+      "md5": "78b23ea89ec338236b8e589b64354fce",
+      "size": 5340,
+      "uploadedDate": "2022-11-18T13:06:40.513Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "31dd2fdd8b4a4f33bbd6cf0a7d471393"
+    }
+  ],
+  "catalogNs": null
+}

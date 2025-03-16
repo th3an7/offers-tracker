@@ -1,0 +1,296 @@
+{
+  "id": "bd381d04a42f4bf2bccf546422624e8b",
+  "namespace": "ue",
+  "title": "Snap In Inventory System",
+  "description": "Snap in to any project and have a working Battle Royale inspired inventory system in seconds. Attachments, weight system, consumables all supported out of the box and customizable without editing code",
+  "longDescription": "<p>This system was written to be dynamic and non-intrusive to existing projects. You can truly “snap it in” to any project and get going with a “Battle Royale” inspired inventory system. Simply add your items to the datatable manually or via excel and add the “Snap-In Inventory blueprint” to your player’s character mesh and you have the basic working system, inputs and all! The major functions for attaching and dropping items are all built in and can easily be used in your project as is, or simply connect them to your existing character functions. See the screenshots for more info.</p><p><br /></p><p>All settings and customization can be done from the mentioned child actor’s defaults without ever touching the back-end code at all. This system goes to great lengths to be as dynamic as possible allowing beginners and advanced users to use it without having to edit the back-end.</p><p><br /></p><p>An example project which is built off the TPS template is provided to show the various functionalities and basic “how-to” integration.</p><p><br /></p><p><strong>Only</strong> the inventory portion of the project is ‘officially’ supported (everything inside the SI_Inventory folder).</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "snap-in-inventory-system-battle-royale-style",
+  "creationDate": "2018-03-10T03:31:19.667Z",
+  "lastModifiedDate": "2024-10-10T22:17:47.036Z",
+  "effectiveDate": "2018-03-10T03:31:19.628Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e9zj4xazhn3ek8wqp9vfkedjgey3kp",
+    "name": "Thanks Tips!"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Full containers support!</li><li>Manage all items in an excel sheet/data table</li><li>Easy, <strong>non-intrusive</strong> implementation</li><li>Replicated (inc dedicated server support)</li><li>UMG and BP (inc psd files)</li><li>Weapon/item attachments (extMag, suppressor…etc)</li><li>“split consumable system”. i.e. Drop ten 5.56 ammo for a buddy</li><li>Toggle Weight System</li><li>Weight expansion items. Like backpacks, vest…etc.</li><li>Quick-slot system</li><li>Sample project with shooting, ammo depletion, attachments</li><li>Drag/drop and double click support</li><li>Input and UI built-in</li></ul><p><br /></p><p><u>Add custom/additional:</u></p><ul><li>&#34;attach-to&#34; sockets by updating a list</li><li>Item attachments</li><li>Inventory equip and quick slots</li><li>Hover-over tool-tips (dynamically added and customizable PER item)</li><li>Single items, wearables, consumables; like ammo, health and more</li></ul><p><br /></p><p><strong>Main BP:</strong> <strong>2</strong></p><p><strong>Main Widgets:</strong> <strong>2</strong></p><p><a href=\"https://youtu.be/MnKT4DDedSY\" rel=\"nofollow\"><strong>Features Overview</strong></a></p><p><br /></p><p><u>Support:</u></p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;cGbAkI90a3U\" rel=\"nofollow\"><strong>Video</strong></a></p><p><a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1423514-snap-in-inventory-system-battle-royale-style\" rel=\"nofollow\"><strong>Forum</strong></a></p><p><a href=\"https://discord.gg/AFaKAdj\" rel=\"nofollow\"><strong>Discord</strong></a><strong> -best place for support!</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "227d1126-aa4c-445e-b789-3d31de56f9a4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SnapIn-Inventory1920-1920x1080-1dc8b18138f3dae3a27e98045736f0a1.png",
+      "md5": "1dc8b18138f3dae3a27e98045736f0a1",
+      "size": 1324648,
+      "uploadedDate": "2018-04-24T17:39:39.228Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ContainersPromo-1920x1080-601356caf622526559cc7f5c3dc69b91.jpg",
+      "md5": "601356caf622526559cc7f5c3dc69b91",
+      "size": 152659,
+      "uploadedDate": "2018-05-21T16:36:31.278Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FeatureImage-1920x1080-a628ddd9ef9c459f182a1e2920ee477d.jpg",
+      "md5": "a628ddd9ef9c459f182a1e2920ee477d",
+      "size": 92733,
+      "uploadedDate": "2018-02-06T08:56:41.911Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/hudsplitquickslot-1920x1080-8ab78c71647ef75783beacda6c76c61b.jpg",
+      "md5": "8ab78c71647ef75783beacda6c76c61b",
+      "size": 175587,
+      "uploadedDate": "2018-02-06T08:53:49.307Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/hudattachments-1920x1080-1ef029099d51904e564b33ef7554b82a.jpg",
+      "md5": "1ef029099d51904e564b33ef7554b82a",
+      "size": 104744,
+      "uploadedDate": "2018-02-06T08:53:49.197Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/invinventorysettings-1920x1080-df924f1f137460129d9d6e8731054c00.jpg",
+      "md5": "df924f1f137460129d9d6e8731054c00",
+      "size": 289069,
+      "uploadedDate": "2018-02-06T08:53:49.564Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/invmenu-1920x1080-c4e75761711014169c3c3a7e248a6f4a.jpg",
+      "md5": "c4e75761711014169c3c3a7e248a6f4a",
+      "size": 206130,
+      "uploadedDate": "2018-02-06T08:53:49.919Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/hudtooltips-1920x1080-39bb7e1d7d3eef65d99496d975753db3.jpg",
+      "md5": "39bb7e1d7d3eef65d99496d975753db3",
+      "size": 136870,
+      "uploadedDate": "2018-02-06T08:53:49.382Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SIInventoryinputs-1920x1080-762d6ffa33b7ba5d802eaf289a8a2454.jpg",
+      "md5": "762d6ffa33b7ba5d802eaf289a8a2454",
+      "size": 253047,
+      "uploadedDate": "2018-02-06T08:53:50.211Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/customfunction-1920x1080-f3140ed0cc3f6cfac0aff5a79840830c.jpg",
+      "md5": "f3140ed0cc3f6cfac0aff5a79840830c",
+      "size": 362759,
+      "uploadedDate": "2018-03-12T10:55:39.515Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/datatable01-1920x1080-d9e2c280cdc05df93e5dadf7ceb463e2.jpg",
+      "md5": "d9e2c280cdc05df93e5dadf7ceb463e2",
+      "size": 357802,
+      "uploadedDate": "2018-04-17T02:36:01.262Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/datatable02excel-1920x1080-fba8619d36f812ec71a56f2e6d12446d.jpg",
+      "md5": "fba8619d36f812ec71a56f2e6d12446d",
+      "size": 419609,
+      "uploadedDate": "2018-04-17T02:36:01.360Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SnapInInventorySystem_thumb-284x284-e98d3abc9d631648183f02995970811e.png",
+      "md5": "e98d3abc9d631648183f02995970811e",
+      "size": 85227,
+      "uploadedDate": "2021-08-23T02:26:15.590Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SnapInInventorySystemBattleRoyalestyle_featured-894x488-0e0b377204a79f3a1ca78e1d83c7788e.png",
+      "md5": "0e0b377204a79f3a1ca78e1d83c7788e",
+      "size": 352128,
+      "uploadedDate": "2018-02-06T08:53:50.334Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "17386f7d36ae4f81800504cc6a2ad77c"
+    }
+  ],
+  "catalogNs": null
+}

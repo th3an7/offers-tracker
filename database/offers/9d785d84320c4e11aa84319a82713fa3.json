@@ -1,0 +1,134 @@
+{
+  "id": "9d785d84320c4e11aa84319a82713fa3",
+  "namespace": "ue",
+  "title": "Game Facts",
+  "description": "A system that implement \"facts\" into gameplay, keeping track of things that happen in the world for later use.",
+  "longDescription": "<p>System that make use of tags to keep track of things that happen during gameplay in order to be used at a later stage from other systems.</p><p>The system has endless use cases, i will just mention a few to give an idea of what it is:</p><ul><li>Quest systems.</li><li>Story progression.</li><li>Characters short and long term memory.</li></ul><p><br /></p><p>Let&#39;s say that a particular quest need a door to be opened, a specific item to be picked up in the world and specific dialogue line to be triggered in order to be completed.</p><p><br /></p><p>In a normal scenario you would have to retrieve the door actor to check if it was opened, maybe check in the inventory if the item has been picked up and need a very specific way to store the FACT that a specific dialogue line has been triggered, this however has a few potential issues:</p><ul><li>Maybe the door has been unloaded or is in another level, it&#39;s not in the world anymore and you can&#39;t check if it is open.</li><li>The quest need an item to be picked up, but it does not care if you actually have it in an inventory so you can&#39;t rely on checking the inventory item quantity.</li></ul><p><br /></p><p>A solution would be to store a boolean for each of these FACTS which is fine, game facts work the same way, instead of storing boolean store gameplay tags with an associated integer for more flexibility.</p><p>Following up on the above example, the plugin could do something like this:</p><ul><li>Add a game facts component to the game state, game instance or whatever, somewhere global that we know is always loaded.</li><li>When the door is opened add the fact to the game state.</li><li>When the item is picked up add the fact to the game state.</li><li>When the specific dialogue line is triggered add the fact to the game state.</li><li>Once the quest need a resolution, simply retrieve the facts stored in the game state and proceed however you want.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "game-facts",
+  "creationDate": "2024-10-06T15:49:57.567Z",
+  "lastModifiedDate": "2024-10-09T18:45:15.643Z",
+  "effectiveDate": "2024-10-06T15:49:57.544Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qdn4p9xgqhvek6vzfwxr3w9cghyvam",
+    "name": "defaltdobrasao"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Implemented in a component allowing game facts to be stored on every actor.</li><li> Replicated with FFastArraySerializer for network optimization.</li></ul><p>Code Modules:</p><ul><li> GameFacts (Runtime)</li></ul><p>Number of Blueprints: None</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64</p><p>Documentation: https://drive.google.com/file/d/1Z5EhZrPII3pwdvgJ7uKeps_5xWtLxl-t/view?usp&#61;sharing</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "130be119-19ad-4470-af62-e3bdb889308c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EventsHD-1920x1080-f746e14122e67493579cd5a9811a70c4.png",
+      "md5": "f746e14122e67493579cd5a9811a70c4",
+      "size": 438487,
+      "uploadedDate": "2024-09-30T19:59:39.475Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CheckDoorFactHD-1920x1080-f87d3be2f5d75122bfd7b440f4c4d924.png",
+      "md5": "f87d3be2f5d75122bfd7b440f4c4d924",
+      "size": 581841,
+      "uploadedDate": "2024-09-30T19:59:39.942Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DoorOpenHD-1920x1080-01cdf56e970c01dbe6fe5ac501f681ad.png",
+      "md5": "01cdf56e970c01dbe6fe5ac501f681ad",
+      "size": 550813,
+      "uploadedDate": "2024-09-30T19:59:40.396Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GameFacts_thumb-284x284-5262840beab41a99c6aa71eed8554dad.png",
+      "md5": "5262840beab41a99c6aa71eed8554dad",
+      "size": 115900,
+      "uploadedDate": "2024-09-30T19:59:40.672Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GameFacts_featured-894x488-ee5286d56ff19f1931e1992a860c35bf.png",
+      "md5": "ee5286d56ff19f1931e1992a860c35bf",
+      "size": 195515,
+      "uploadedDate": "2024-09-30T19:59:40.768Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EventsHD-1920x1080-f746e14122e67493579cd5a9811a70c4_Snapshot.png",
+      "md5": "af66f5a89ee8792e66cc367ad9b585e9",
+      "size": 4467,
+      "uploadedDate": "2024-09-30T19:59:39.705Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CheckDoorFactHD-1920x1080-f87d3be2f5d75122bfd7b440f4c4d924_Snapshot.png",
+      "md5": "1cc613a5405ce56021ed1bcd553f6bd9",
+      "size": 4978,
+      "uploadedDate": "2024-09-30T19:59:40.174Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DoorOpenHD-1920x1080-01cdf56e970c01dbe6fe5ac501f681ad_Snapshot.png",
+      "md5": "8a63a3a0a7cd95b2d02160271fa9db44",
+      "size": 4965,
+      "uploadedDate": "2024-09-30T19:59:40.628Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ef8e2ca605394c50ae94c98ac9fc094d"
+    }
+  ],
+  "catalogNs": null
+}

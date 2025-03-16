@@ -1,0 +1,242 @@
+{
+  "id": "567772f9678c490996d3b6015f84d709",
+  "namespace": "ue",
+  "title": "Transform Tool Plugin",
+  "description": "Advanced editor transform tool",
+  "longDescription": "<p>Check out demos: <a href=\"https://www.youtube.com/watch?v&#61;a7Uanrcvehs\" rel=\"nofollow\">here</a> and <a href=\"https://www.youtube.com/watch?v&#61;tHEnJOa1Cjo\" rel=\"nofollow\">here</a>.</p><p>Runtime module demo: <a href=\"https://www.youtube.com/watch?v&#61;mMzfH3HBzZg\" rel=\"nofollow\">here</a>.</p><p>Try Win64 <a href=\"https://drive.google.com/open?id&#61;17j7Lo2teBLXiHjVb2MUgus3J2U9ZFSoz\" rel=\"nofollow\">packaged demo</a></p><p>Investigate <a href=\"https://drive.google.com/file/d/1aynbccny9vgpP2hy_GgSrecibU3eEMa_/view?usp&#61;sharing\" rel=\"nofollow\">example project</a></p><p><br /></p><p>The way delta applied is rewritten to properly handle local space transformations. Duplicate with transform command. On/Off snap actor to surface normal while dragging.</p><p><br /></p><p>In other words, it gives you a number of well known and widely used 3d transformation features everybody got used to! And, thus, brings in editor workflow closer to industry standard.</p><p><br /></p><p>With runtime module you will be able to implement custom gizmos for your game.</p><p><br /></p><p>Discord: <a href=\"https://discord.gg/u4HNjAT\" rel=\"nofollow\">link</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "transform-tool-plugin",
+  "creationDate": "2018-06-18T14:51:47.300Z",
+  "lastModifiedDate": "2024-10-15T20:14:25.372Z",
+  "effectiveDate": "2018-06-18T14:51:47.274Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ey5k787alnnl45b9zc6z73r4r238bt",
+    "name": "Ilgar Lunin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Arcball rotation</li><li>Screen space rotation</li><li>Pivot mode (Gizmo/Object)</li><li>Preserve child transform (Actors/Components)</li><li>Duplicate with transform command, which works outside editor mode</li><li>Bounding box based center pivot command, also works outside</li><li>Extra dual axis translation handles</li><li>Object space transformations</li></ul><p><br /></p><p>Read documentation: <a href=\"https://docs.google.com/document/d/e/2PACX-1vS4dl529FD9LUDtQmnaZ7qGVP1w79mO1QsHcZJ30ckpFPPaPtUhLyhis3uhi39EIkqvaYC17LQQ8Fi4/pub\" rel=\"nofollow\">here</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6f0f8383-ded6-4ba3-a168-99f9d586a3cb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-34-44-1920x1080-6c5bd6421d277b936c9030970b22cfd9.jpg",
+      "md5": "6c5bd6421d277b936c9030970b22cfd9",
+      "size": 175057,
+      "uploadedDate": "2018-05-29T11:00:47.841Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-31-05-1920x1080-b9eac33e970382323615e7c3df62d383.jpg",
+      "md5": "b9eac33e970382323615e7c3df62d383",
+      "size": 189809,
+      "uploadedDate": "2018-05-29T11:00:48.322Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-22-27-1920x1080-f61f1dff7fe58bf4bd7bb647aa74cba6.jpg",
+      "md5": "f61f1dff7fe58bf4bd7bb647aa74cba6",
+      "size": 174905,
+      "uploadedDate": "2018-05-29T11:00:48.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-22-43-1920x1080-fd68691880b5c26ceacf75bcd0be8378.jpg",
+      "md5": "fd68691880b5c26ceacf75bcd0be8378",
+      "size": 184508,
+      "uploadedDate": "2018-05-29T11:00:48.971Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-24-22-1920x1080-eec9a267de3e2fac81688ed226f9d305.jpg",
+      "md5": "eec9a267de3e2fac81688ed226f9d305",
+      "size": 178102,
+      "uploadedDate": "2018-05-29T11:00:49.278Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-25-03-1920x1080-2b5c4bed805a5cd5f226619a6153641e.jpg",
+      "md5": "2b5c4bed805a5cd5f226619a6153641e",
+      "size": 179642,
+      "uploadedDate": "2018-05-29T11:00:49.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-25-43-1920x1080-64eba1317f085277ab0ee63c71162ee1.jpg",
+      "md5": "64eba1317f085277ab0ee63c71162ee1",
+      "size": 174624,
+      "uploadedDate": "2018-05-29T11:00:50.066Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-26-59-1920x1080-a7f9498201dc7e4b37a42ffda62511af.jpg",
+      "md5": "a7f9498201dc7e4b37a42ffda62511af",
+      "size": 235309,
+      "uploadedDate": "2018-05-29T11:00:50.447Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2018-05-2909-28-09-1920x1080-26290d9fe0578d49299838dd8cf909f3.jpg",
+      "md5": "26290d9fe0578d49299838dd8cf909f3",
+      "size": 234102,
+      "uploadedDate": "2018-05-29T11:00:50.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TransformToolplugin_thumb-284x284-535bd977bc3cecb54af760513ab00237.png",
+      "md5": "535bd977bc3cecb54af760513ab00237",
+      "size": 16552,
+      "uploadedDate": "2018-05-29T11:00:51.105Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TransformToolplugin_featured-894x488-21ca44dd45c658e849ac162fa9acb88a.png",
+      "md5": "21ca44dd45c658e849ac162fa9acb88a",
+      "size": 273840,
+      "uploadedDate": "2018-05-29T11:00:51.183Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-34-44-1920x1080-6c5bd6421d277b936c9030970b22cfd9_Snapshot.jpg",
+      "md5": "1f354b079895d5e3b104683cb39807f5",
+      "size": 2400,
+      "uploadedDate": "2018-05-29T11:00:48.143Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-31-05-1920x1080-b9eac33e970382323615e7c3df62d383_Snapshot.jpg",
+      "md5": "968f58785358b4f4bce89eb9f92edd0c",
+      "size": 2698,
+      "uploadedDate": "2018-05-29T11:00:48.539Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-22-27-1920x1080-f61f1dff7fe58bf4bd7bb647aa74cba6_Snapshot.jpg",
+      "md5": "0fb86c00b1e0788e5fde481e8fa5829f",
+      "size": 2165,
+      "uploadedDate": "2018-05-29T11:00:48.838Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-22-43-1920x1080-fd68691880b5c26ceacf75bcd0be8378_Snapshot.jpg",
+      "md5": "47e0fac33ea4e77984fa5220726e5221",
+      "size": 2316,
+      "uploadedDate": "2018-05-29T11:00:49.170Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-24-22-1920x1080-eec9a267de3e2fac81688ed226f9d305_Snapshot.jpg",
+      "md5": "b24a0bfb9400e9c932e22e08ddbc3ae5",
+      "size": 2192,
+      "uploadedDate": "2018-05-29T11:00:49.459Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-25-03-1920x1080-2b5c4bed805a5cd5f226619a6153641e_Snapshot.jpg",
+      "md5": "840ecc3d51ec20024c1b91e24d402d82",
+      "size": 2198,
+      "uploadedDate": "2018-05-29T11:00:49.881Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-25-43-1920x1080-64eba1317f085277ab0ee63c71162ee1_Snapshot.jpg",
+      "md5": "c7eb452dbdbb3bfc5e3690dfcace779f",
+      "size": 2175,
+      "uploadedDate": "2018-05-29T11:00:50.275Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-26-59-1920x1080-a7f9498201dc7e4b37a42ffda62511af_Snapshot.jpg",
+      "md5": "99d352a87ad4647b301716a8b30a7b37",
+      "size": 2913,
+      "uploadedDate": "2018-05-29T11:00:50.717Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2018-05-2909-28-09-1920x1080-26290d9fe0578d49299838dd8cf909f3_Snapshot.jpg",
+      "md5": "5fbedf357e03aa4705a104edc0e0f5fa",
+      "size": 2878,
+      "uploadedDate": "2018-05-29T11:00:51.075Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e55e8eabc8484be6b93831409335fae6"
+    }
+  ],
+  "catalogNs": null
+}

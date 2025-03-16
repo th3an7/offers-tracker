@@ -1,0 +1,197 @@
+{
+  "id": "7c9f3e5a7efd42eea1635304998af23c",
+  "namespace": "ue",
+  "title": "Mapvania - grid minimap",
+  "description": "Grid-based map system like in metroidvania games",
+  "longDescription": "<p>UE5 Update now out</p><p><br /></p><p>Feb 2021 - V3 has been changed to make adding the kit even easier, with fewer steps needed to get started</p><p>blueprints have also been cleaned up</p><p><a href=\"https://docs.google.com/document/d/1EF0QR8wJdkO_okAtHDb6kfESZU1IcfwLkfPXmRPKN6s/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation V3</a></p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;sSJ2wo8Uuho\" rel=\"nofollow\">Video</a></p><p><a href=\"https://docs.google.com/document/d/1KUoh--V-xoRD_7QweFoZMfq9XJhhUk-Zdvdq5ZaJR0U/edit?usp&#61;sharing\" rel=\"nofollow\">DocumentationV2</a></p><p><a href=\"https://docs.google.com/document/d/1cYmONsm0b2UCEsgjlVSGdic0IR-OViukCE5ZEjODdXU/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation</a>V1</p><p><a href=\"https://discord.gg/ujrfrYu\" rel=\"nofollow\">Support Discord</a></p><p>This map blueprint system&#39;s main function is to provide an easy-to-use 5x3 tile minimap and full map that can be changed in size (40x25) default size.</p><p><br /></p><p>If you have any bugs/issues, or requests, feel free to post them on the support discord.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mapvania-grid-minimap",
+  "creationDate": "2018-01-09T03:12:03.844Z",
+  "lastModifiedDate": "2024-10-21T05:32:44.339Z",
+  "effectiveDate": "2018-01-09T03:12:03.772Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-185080f6b5453f9f18788e94db5277",
+    "name": "Infectedfury"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Track player location</li><li> Update map as the player progresses</li><li> Display mini map</li><li>Display full map</li><li>Set Map tile colors for different rooms</li><li>Set Powerups/items on the map</li><li>Set special room icons</li><li>Map room to reveal tiles</li><li>Basic item pickup to update items on a map</li><li>Highlight the current location</li></ul><p>Number of Blueprints: 9</p><p>Number of Materials: 4 (not including UE4 mannequin)</p><p>Number of textures:\t25 (not including UE4 mannequin)</p><p>Number of Maps: 2</p><p>Input: (Keyboard)</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: (Any)</p><p>Supported Target Build Platforms: (Any)</p><p>Documentation: WIP</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f63e9432-7269-4b3b-b56a-86ba3c648327"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mapvania_Screenshots_01-1920x1080-e036fb7559ad0e3ceffc8f009ec37bc0.png",
+      "md5": "e036fb7559ad0e3ceffc8f009ec37bc0",
+      "size": 1218200,
+      "uploadedDate": "2017-12-17T10:27:12.550Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mapvania_Screenshots_02-1920x1080-6f8b612eba7bfcca6e33b2f86a07ff2a.png",
+      "md5": "6f8b612eba7bfcca6e33b2f86a07ff2a",
+      "size": 1351746,
+      "uploadedDate": "2017-12-17T10:27:12.704Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mapvania_Screenshots_03-1920x1080-7799af79803c79678feef94b866b3d3f.png",
+      "md5": "7799af79803c79678feef94b866b3d3f",
+      "size": 1279739,
+      "uploadedDate": "2017-12-17T10:27:12.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mapvania_Screenshots_04-1920x1080-59eb5c89d248957818112ce877234718.png",
+      "md5": "59eb5c89d248957818112ce877234718",
+      "size": 218525,
+      "uploadedDate": "2017-12-17T10:27:13.018Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mapvania_Screenshots_05-1920x1080-57bbfd6c303b424acc2ed287513a75f1.png",
+      "md5": "57bbfd6c303b424acc2ed287513a75f1",
+      "size": 314817,
+      "uploadedDate": "2017-12-17T10:27:13.145Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Mapvaniagridminimap_thumb-284x284-19d0c96bb546b69758abf0bfb743e614.png",
+      "md5": "19d0c96bb546b69758abf0bfb743e614",
+      "size": 69233,
+      "uploadedDate": "2021-02-08T00:55:26.373Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Mapvaniagridminimap_featured-894x488-2ffad554bf4ddd74b4ea79d592bc9cd3.png",
+      "md5": "2ffad554bf4ddd74b4ea79d592bc9cd3",
+      "size": 232296,
+      "uploadedDate": "2021-02-08T00:55:26.484Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4dcc780aad634dd3b38e921cf88d707f"
+    }
+  ],
+  "catalogNs": null
+}

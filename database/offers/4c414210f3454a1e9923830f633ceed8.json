@@ -1,0 +1,176 @@
+{
+  "id": "4c414210f3454a1e9923830f633ceed8",
+  "namespace": "ue",
+  "title": "Runtime Draw 2D Spawn 3D",
+  "description": "Quickly draw 2D to generate 3D scenes",
+  "longDescription": "<p>这是一个运行时工具&#xff0c;可让您快速绘制 2D 并生成相应的 3D 场景&#xff0c;并自定义门窗的大小和位置&#xff0c;而无需任何第三方插件或C&#43;&#43;代码&#xff0c;所有这些都是通过蓝图完成的。稍后将添加其他更多功能&#xff0c;所有这些功能在运行时可用并打包。</p><p>视频&#xff1a;<a href=\"https://youtu.be/8RPUNNpZAJc\" rel=\"nofollow\">https://youtu.be/8RPUNNpZAJc</a></p><p>文档&#xff1a;<a href=\"https://1drv.ms/b/s!AmHCoPgT2AZfgQrMMuXqO6aqw2wh?e&#61;spT1h6\" rel=\"nofollow\">https://1drv.ms/b/s!AmHCoPgT2AZfgQrMMuXqO6aqw2wh?e&#61;spT1h6</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runtime-draw-2d-spawn-3d",
+  "creationDate": "2023-03-27T14:04:20.789Z",
+  "lastModifiedDate": "2024-10-08T23:18:55.884Z",
+  "effectiveDate": "2023-03-27T14:04:20.746Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2skxvkcpll3hxehuwygmw4jyjbeq7u",
+    "name": "Motora"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong> 特点</strong>&#xff1a;</p><ul><li>用直线画墙&#xff0c;点击创建3D场景;</li><li>自定义门窗的位置和尺寸;</li><li>显示窗户到墙端点的距离或窗户到窗户/门的距离;</li><li>快速设置捕捉范围和壁厚;</li><li>没有C&#43;&#43;&#xff0c;也没有任何第三方插件;</li></ul><p>蓝图数量&#xff1a;70</p><p>C&#43;&#43;课数&#xff1a;0</p><p>网络已复制&#xff1a;否</p><p>支持的开发平台&#xff1a;桌面</p><p>支持的目标构建平台&#xff1a;桌面</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "48a8f22a-34f2-4372-94ec-69fd3f7a673e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-6c7442d103d7530e58c55e4b5c29ae7d.jpg",
+      "md5": "6c7442d103d7530e58c55e4b5c29ae7d",
+      "size": 269227,
+      "uploadedDate": "2023-03-18T14:08:30.621Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-7232102f55d31d1349f006858232a7c5.jpg",
+      "md5": "7232102f55d31d1349f006858232a7c5",
+      "size": 588880,
+      "uploadedDate": "2023-03-18T14:08:31.093Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-ed78e935619218dc95a45066ed5faba6.jpg",
+      "md5": "ed78e935619218dc95a45066ed5faba6",
+      "size": 333056,
+      "uploadedDate": "2023-03-18T14:08:31.540Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-95ab6225c5d192dd74c13a22fac7ed5c.jpg",
+      "md5": "95ab6225c5d192dd74c13a22fac7ed5c",
+      "size": 338957,
+      "uploadedDate": "2023-03-18T14:08:32.026Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RuntimeDraw2DSpawn3D_thumb-284x284-df3cfb4ff831ac13275fdbe0da2ed328.png",
+      "md5": "df3cfb4ff831ac13275fdbe0da2ed328",
+      "size": 27134,
+      "uploadedDate": "2023-03-18T14:08:32.424Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RuntimeDraw2DSpawn3D_featured-894x488-5aa362d7a36255b6dbe0d8f574c0d646.png",
+      "md5": "5aa362d7a36255b6dbe0d8f574c0d646",
+      "size": 83457,
+      "uploadedDate": "2023-03-18T14:08:32.476Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-6c7442d103d7530e58c55e4b5c29ae7d_Snapshot.jpg",
+      "md5": "6bd219e98411a2e06ccf895357bda57f",
+      "size": 3883,
+      "uploadedDate": "2023-03-18T14:08:30.903Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-7232102f55d31d1349f006858232a7c5_Snapshot.jpg",
+      "md5": "0181758d91ef5f02c835646252267a8a",
+      "size": 3134,
+      "uploadedDate": "2023-03-18T14:08:31.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-ed78e935619218dc95a45066ed5faba6_Snapshot.jpg",
+      "md5": "ed66b1ac47ebb90d6a36813ab2cdd344",
+      "size": 3607,
+      "uploadedDate": "2023-03-18T14:08:31.839Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-95ab6225c5d192dd74c13a22fac7ed5c_Snapshot.jpg",
+      "md5": "bbecf59c1a49ced2484e60500773b021",
+      "size": 3515,
+      "uploadedDate": "2023-03-18T14:08:32.318Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9df710052fb6407ea8f7484227ae7d04"
+    }
+  ],
+  "catalogNs": null
+}

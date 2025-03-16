@@ -1,0 +1,170 @@
+{
+  "id": "63a5480a99ab4b04ad4892a8d21ed467",
+  "namespace": "ue",
+  "title": "UMG Video Player",
+  "description": "Customizable UMG Video Player for Unreal Engine 4",
+  "longDescription": "<p>** Help &amp; support on Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a> **</p><p><br /></p><p>The Video Player is a user interface for playing video in your game or your application.</p><p><br /></p><p>It proposes most of the standard controls when playing a video:</p><ul><li>A play/pause button to start or stop a video</li><li>A progress bar to show the current media position, and to allow the user to move in the video at a different position</li><li>A volume control slider with a mute button</li><li>Show (or not) the subtitles attached to an audio file</li></ul><p><br /></p><p>Most of the aspects of the video player can be easily customized, either by editing the widget Blueprint, or by selecting the appropriate options.</p><p><br /></p><p>To ease the localization process the sound of the video can be easily replaced by another sound file, this way you can keep one video file with only the audio being localized.</p><p><br /></p><p>Note: A Blueprint tutorial <strong>UMGVideoPlayerTutorial </strong>and an example video are included to quickly show you the basics of the UMG Video Player in a user-friendly.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "umg-video-player",
+  "creationDate": "2018-10-22T18:21:00.585Z",
+  "lastModifiedDate": "2024-10-08T10:18:21.424Z",
+  "effectiveDate": "2018-10-22T18:21:00.546Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1f385b3839424280bd68decb808ffb",
+    "name": "Isara Tech."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Video player interface with standard controls</li><li> Show subtitles from audio file</li><li> Easy to use and easy to skin</li></ul><p>Number of C&#43;&#43; classes: 1</p><p>Number of Blueprints: 4</p><p>Input: Mouse, Touch</p><p>Network Replicated: No</p><p>Supported Development Platforms: All</p><p>Supported Target Build Platforms: All</p><p>Documentation: https://docs.isaratech.com/ue4-blueprints/video-player</p><p>Website: <a href=\"http://isaratech.com/uws/\" rel=\"nofollow\">http://isaratech.com/</a></p><p>Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dcf600e3-9069-409f-84b2-47b2ff8d357f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot-1920x1080-d1153284f93c2bd1f4d8c942b4bfae2b.jpg",
+      "md5": "d1153284f93c2bd1f4d8c942b4bfae2b",
+      "size": 368190,
+      "uploadedDate": "2018-09-28T08:49:30.640Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot2-1920x1080-1aff1c8ffac3b3a2082e004481a5a96b.jpg",
+      "md5": "1aff1c8ffac3b3a2082e004481a5a96b",
+      "size": 728370,
+      "uploadedDate": "2018-09-28T08:49:31.010Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenshotClean-1920x1080-49caf0b69927a6827f04d887de568ccf.jpg",
+      "md5": "49caf0b69927a6827f04d887de568ccf",
+      "size": 346669,
+      "uploadedDate": "2018-09-28T08:49:31.369Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UMGVideoPlayer_thumb-284x284-b08356aac5ea85e014b300cdd5662e4d.png",
+      "md5": "b08356aac5ea85e014b300cdd5662e4d",
+      "size": 149573,
+      "uploadedDate": "2018-09-28T08:49:31.739Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UMGVideoPlayer_featured-894x488-1bc5de74c5c2756716f36227a0d8b017.png",
+      "md5": "1bc5de74c5c2756716f36227a0d8b017",
+      "size": 793627,
+      "uploadedDate": "2018-09-28T08:49:31.904Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot-1920x1080-d1153284f93c2bd1f4d8c942b4bfae2b_Snapshot.jpg",
+      "md5": "15c68a1893c1440c7ea3937737c2548d",
+      "size": 3295,
+      "uploadedDate": "2018-09-28T08:49:30.863Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot2-1920x1080-1aff1c8ffac3b3a2082e004481a5a96b_Snapshot.jpg",
+      "md5": "6abfc05e568f47b852e2ecfca0492a40",
+      "size": 3352,
+      "uploadedDate": "2018-09-28T08:49:31.253Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenshotClean-1920x1080-49caf0b69927a6827f04d887de568ccf_Snapshot.jpg",
+      "md5": "b826d0da5dfb9ec53bb8a0512721b107",
+      "size": 3064,
+      "uploadedDate": "2018-09-28T08:49:31.650Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b55de3e90f4b4dc2b1f608b5f2858eaa"
+    }
+  ],
+  "catalogNs": null
+}

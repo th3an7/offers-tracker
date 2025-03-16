@@ -1,0 +1,239 @@
+{
+  "id": "f69d62dcaf83426cbd47b06251580d56",
+  "namespace": "ue",
+  "title": "Rail Cart System",
+  "description": "RCS is a basic easy to implement, expand and adapt rail asset that requires minimal setup.",
+  "longDescription": "<p>The rail cart system is designed to be a basic and easy to implement and expand rail system for your projects. Its designed in a way that all the hard work is pretty much done for you. Create your spline track, then add the cart and change a few properties to configure it to your desire.</p><p><br /></p><p>It comes with multiple rail track sections, and a function to randomize the track spline mesh components, this will help break away from the repetitive duplicated track part and make it appear more dynamic when world building.</p><p><br /></p><p><strong>Update:</strong></p><ul><li>Now the asset is replicated (including the interaction systems.)</li><li>New checkbox has been added to the splines to hide the track mesh. &#34;this is due to the UE5 heavy performance impact when creating long splines, so you can hide the track, place the spline layout then toggle on the track again to see if it suits your needs</li><li>Other additional performance enhancements.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rail-cart-system",
+  "creationDate": "2023-02-19T23:19:18.964Z",
+  "lastModifiedDate": "2024-10-18T23:34:33.478Z",
+  "effectiveDate": "2023-02-19T23:19:18.908Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ww8k6l97jc37pl6t4lkcnqplfks2mm",
+    "name": "Umbra Assets"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features: </strong></p><ul><li> Easy to setup, implement and configure. Minimal modification required</li><li> Variety of track mesh components to prevent using the same part through-out the spline</li><li> Additional example carts that open the users perspective of uses for the system.</li></ul><p><strong>Number of Blueprints:</strong></p><p>2 (Main, Important Blueprints)</p><p>5 (Including some example Blueprints for the project)</p><p>8 (Including the additional example character and Gamemode Blueprints (Epic Default Project))</p><p><strong>Network Replicated:</strong> Yes</p><p><strong>Supported Development Platforms: </strong>Windows</p><p><strong>Overview Video: </strong><a href=\"https://www.youtube.com/watch?v&#61;gCkyK5iUK64\" rel=\"nofollow\">Here</a></p><p><strong>Documentation:</strong> <a href=\"https://drive.google.com/file/d/17Xzpi__T18xz9-vRDAHf0KHAig0kImTB/view?usp&#61;share_link\" rel=\"nofollow\">Here</a></p><p><strong>Important/Additional Notes:</strong></p><p>This is not the final version of the asset, I have a few other additional features planned for the near future. If you have any other requested features or notice any issues, please post a question about them.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1362",
+      "name": "MASSIVELY MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:18.133Z",
+      "updated": "2019-06-20T12:01:18.133Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "21628e5e-da0f-4049-a99e-91dd47cdc394"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RCS02-1920x1080-549ca67a7c15b5a70a304d5711fa419e.png",
+      "md5": "549ca67a7c15b5a70a304d5711fa419e",
+      "size": 1566434,
+      "uploadedDate": "2023-02-17T00:27:14.450Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RCS03-1920x1080-814d5bc0aa523a1079ca6bd85b7a485d.png",
+      "md5": "814d5bc0aa523a1079ca6bd85b7a485d",
+      "size": 1433028,
+      "uploadedDate": "2023-02-17T00:27:15.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RCS04-1920x1080-bb538008d853b0f53b626dfb028dfdc8.png",
+      "md5": "bb538008d853b0f53b626dfb028dfdc8",
+      "size": 1621930,
+      "uploadedDate": "2023-02-17T00:27:15.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RailCartSystem_thumb-284x284-5a12a0784867f2daff63c5b3b4ce72ae.png",
+      "md5": "5a12a0784867f2daff63c5b3b4ce72ae",
+      "size": 98923,
+      "uploadedDate": "2024-08-01T08:06:41.870Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RailCartSystem_featured-894x488-589c6f742efb1f2718bd38130819d1dc.png",
+      "md5": "589c6f742efb1f2718bd38130819d1dc",
+      "size": 522285,
+      "uploadedDate": "2024-08-01T08:06:42.037Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RCS01-1920x1080-0c99da53028ab0a7c1e76e7d4a27a66b_Snapshot.png",
+      "md5": "03bddcc0f71e34b244d32a97458be211",
+      "size": 5579,
+      "uploadedDate": "2023-02-17T00:27:14.272Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RCS02-1920x1080-549ca67a7c15b5a70a304d5711fa419e_Snapshot.png",
+      "md5": "286ac8a278cb0fcefbf0d96c66dae2e2",
+      "size": 5043,
+      "uploadedDate": "2023-02-17T00:27:14.722Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RCS03-1920x1080-814d5bc0aa523a1079ca6bd85b7a485d_Snapshot.png",
+      "md5": "b90cc560f2f7cfb44580624d48faa343",
+      "size": 4129,
+      "uploadedDate": "2023-02-17T00:27:15.358Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RCS04-1920x1080-bb538008d853b0f53b626dfb028dfdc8_Snapshot.png",
+      "md5": "62c07a96173bde0b3429a32493a93c59",
+      "size": 5514,
+      "uploadedDate": "2023-02-17T00:27:15.821Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9cfe02cc9ed3404c96ba5d3259366890"
+    }
+  ],
+  "catalogNs": null
+}

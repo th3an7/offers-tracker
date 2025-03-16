@@ -1,0 +1,242 @@
+{
+  "id": "7f317bcd79c5421d9af437b9165f55c2",
+  "namespace": "ue",
+  "title": "MODO Bridge",
+  "description": "MODO Unreal Bridge is a plugin for Unreal Engine that you can use to transfer and update 3D meshes, textures and materials dynamically from Modo scene to a game level in the Unreal Engine 4 editor and vice versa.",
+  "longDescription": "<p>Modo has the ability to communicate with the Unreal Engine in real-time. To improve the workflow for Game Engine users, you can use a network protocol to share data between Modo and the Unreal Engine. The connection between Modo and Unreal can be on the same machine, across multiple machines over LAN, or machines connected over internet. Entire scenes or selected elements from a scene can bi-directionally be pushed and updated between <strong>Modo Bridge</strong> client and server. Mesh geometry, normals, UVs, textures, materials, as well as scene hierarchy, lights, and cameras can be synchronize between both applications.</p><p>The Foundry provides an inbuilt server plugin for <strong>Modo Bridge</strong> in Modo and a plug-in <strong>Modo Bridge</strong> client for Unreal Engine Editor. Once downloaded and installed from the Epic marketplace, you can start the communication between both applications. You can then push changes made to the connected application.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modo-bridge-01",
+  "creationDate": "2018-11-21T21:54:04.797Z",
+  "lastModifiedDate": "2024-10-15T13:42:28.665Z",
+  "effectiveDate": "2018-11-21T21:54:44.800Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-788a7ec110488e860f0e966da40ac6",
+    "name": "Foundry"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Transferring mesh items, vertex maps, materials and textures, from Modo to Unreal.</li><li>Transferring static mesh actors and vertex maps from Unreal to Modo.</li><li>Transferring modified selected <strong>Polygons</strong>, <strong>Edges</strong>, and <strong>Vertices</strong> from Modo to Unreal. For more information, see <a href=\"https://help.thefoundry.co.uk/modo/content/help/pages/modeling/selection_modes_types.html\" rel=\"nofollow\">Selection Modes and Types</a>.</li><li>Transferring data changes made in Unreal to Modo. For example, repositioning a mesh.</li><li>Transferring data using a separate server and client computers on the same network.</li><li>Transferring items, materials, and textures from multiple Modo scenes to Unreal.</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 17</p><p>Supported Development Platforms: Win64, Mac</p><p>Supported Target Build Platforms: Win64, Mac</p><p><br /></p><p>Important/Additional Notes: Due to underlying code overhaul and major networking changes <strong>Modo Bridge </strong>will only work with Modo version 12.2 and later versions. If you are using Modo version 12.1 and earlier use <strong>Modo Bridge Legacy </strong>plugin from Epic marketplace.</p><p><br /></p><p>Documentation: <a href=\"https://learn.foundry.com/modo/content/help/pages/appendices/unreal_modo_bridge.html\" rel=\"nofollow\">help.thefoundry.co.uk/unreal_modo_bridge.html</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1286",
+      "name": "BIKES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:40.678Z",
+      "updated": "2019-06-20T12:00:40.678Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b7d564c4-3bf8-42c7-a8f4-41ce14062b4a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Firstcap-1920x1080-0713e58142fa44a8b6464890de11b85d.PNG",
+      "md5": "0713e58142fa44a8b6464890de11b85d",
+      "size": 158354,
+      "uploadedDate": "2018-11-19T17:24:26.258Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Second-1920x1080-d57d7b9acc72ce40727b0266e7230efd.png",
+      "md5": "d57d7b9acc72ce40727b0266e7230efd",
+      "size": 1625173,
+      "uploadedDate": "2018-11-19T17:24:26.685Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Third-1920x1080-a2dede9432ecf719b8cb3da5bef8c2ff.PNG",
+      "md5": "a2dede9432ecf719b8cb3da5bef8c2ff",
+      "size": 1397796,
+      "uploadedDate": "2018-11-19T17:24:27.229Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Forth-1920x1080-087ddf2e2753fa04f87228c6212ef858.PNG",
+      "md5": "087ddf2e2753fa04f87228c6212ef858",
+      "size": 1173894,
+      "uploadedDate": "2018-11-19T17:24:27.775Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Fifth-1920x1080-8838ef9379adb82e61aaba671d6a76b0.PNG",
+      "md5": "8838ef9379adb82e61aaba671d6a76b0",
+      "size": 2626482,
+      "uploadedDate": "2018-11-19T17:24:28.404Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MODOBridge_thumb-284x284-a7484d23eae447530997dfcbff2c7730.png",
+      "md5": "a7484d23eae447530997dfcbff2c7730",
+      "size": 13962,
+      "uploadedDate": "2018-11-19T17:24:29.278Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MODOBridge_featured-894x488-443b77a7a0fadcb4225042c7a309f616.png",
+      "md5": "443b77a7a0fadcb4225042c7a309f616",
+      "size": 51192,
+      "uploadedDate": "2018-11-19T17:24:29.338Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Firstcap-1920x1080-0713e58142fa44a8b6464890de11b85d_Snapshot.PNG",
+      "md5": "e7a1fb7050f034f516370e1e1fc249bd",
+      "size": 2966,
+      "uploadedDate": "2018-11-19T17:24:26.422Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Second-1920x1080-d57d7b9acc72ce40727b0266e7230efd_Snapshot.png",
+      "md5": "fa371d277dd0d1a662c7356af73583c6",
+      "size": 19762,
+      "uploadedDate": "2018-11-19T17:24:27.000Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Third-1920x1080-a2dede9432ecf719b8cb3da5bef8c2ff_Snapshot.PNG",
+      "md5": "d027648d131a033c1c027b77748b2836",
+      "size": 17310,
+      "uploadedDate": "2018-11-19T17:24:27.563Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Forth-1920x1080-087ddf2e2753fa04f87228c6212ef858_Snapshot.PNG",
+      "md5": "52914add51cac94b57ec76113d4f54bc",
+      "size": 14498,
+      "uploadedDate": "2018-11-19T17:24:28.097Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Fifth-1920x1080-8838ef9379adb82e61aaba671d6a76b0_Snapshot.PNG",
+      "md5": "45d8f6ec7c56f5bdc6e7d9d8ce7730f3",
+      "size": 26553,
+      "uploadedDate": "2018-11-19T17:24:28.877Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "41dbf797856d4451801ce8ac421d3044"
+    }
+  ],
+  "catalogNs": null
+}

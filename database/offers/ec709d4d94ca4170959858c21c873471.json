@@ -1,0 +1,146 @@
+{
+  "id": "ec709d4d94ca4170959858c21c873471",
+  "namespace": "ue",
+  "title": "X_GameSaveSystem",
+  "description": "A simple, practical and powerful save system for storing UObjects, actors, and their Components",
+  "longDescription": "<p>The plug-in is a subsystem, through LoadActor and SaveActor function to achieve data storage, when passed to any Actor, he will save the data created in the Actor, you can set whether to save SaveGame variable to save read variable. You can also pass any variable of type UObject. The introduction of the Actor, can choose to save some components through interfaces, can choose to save the component is to cover the original component or only returns a pointer to a component, by using the interface GetComponentsToSaveByXGame to select the components need to be stored</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "x-gamesavesystem",
+  "creationDate": "2024-02-14T18:01:04.896Z",
+  "lastModifiedDate": "2024-10-15T10:22:54.247Z",
+  "effectiveDate": "2024-02-14T18:01:04.869Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2kytquyycxvv9rw5bjc2wj6lsvatum",
+    "name": "DSLong"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li>\tsubsystem</li><li>\tread</li><li>\tstore</li></ul><p>Code modules: SaveSystem X_GameSaveSystem</p><p>Number of blueprints: 0</p><p>Number of C&#43;&#43; classes: 4</p><p>Network replication: (Yes/No) No</p><p>Supported development platforms: Window</p><p>Supported target build platforms: Window</p><p>Documentation: <a href=\"https://github.com/lojokerol/SaveSystem/blob/main/README.md\" rel=\"nofollow\">SaveSystem/README.md at main · lojokerol/SaveSystem (github.com)</a></p><p>https://github.com/lojokerol/SaveSystem/blob/main/README.md</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4f62f15f-0539-4c65-a6c1-97076d8b3cdd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/img21-1920x1080-4677325bc4c260cfaf0cbb3c24828560.png",
+      "md5": "4677325bc4c260cfaf0cbb3c24828560",
+      "size": 302688,
+      "uploadedDate": "2024-01-04T14:27:16.747Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/XGameSaveSystem_thumb-284x284-2e132473719ac0bb3cb619d1920f366a.png",
+      "md5": "2e132473719ac0bb3cb619d1920f366a",
+      "size": 40414,
+      "uploadedDate": "2024-01-04T14:27:17.127Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/XGameSaveSystem_featured-894x488-4d000fece58faa6ab9fcb9d51f477484.png",
+      "md5": "4d000fece58faa6ab9fcb9d51f477484",
+      "size": 165617,
+      "uploadedDate": "2024-01-04T14:27:17.273Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/img21-1920x1080-4677325bc4c260cfaf0cbb3c24828560_Snapshot.png",
+      "md5": "f93dd93827f10aac76ad62a72ea35819",
+      "size": 4537,
+      "uploadedDate": "2024-01-04T14:27:17.051Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "71630d6e0ff2437882bc009c06768420"
+    }
+  ],
+  "catalogNs": null
+}

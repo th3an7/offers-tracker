@@ -1,0 +1,131 @@
+{
+  "id": "be751eedc4a14cc09e39945bc5a531c4",
+  "namespace": "ue",
+  "title": "Unreal.js",
+  "description": "Javascript runtime built for UnrealEngine",
+  "longDescription": "<p><strong>Preview</strong>: <a href=\"https://www.youtube.com/watch?v&#61;QDEy71oiHOg\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;QDEy71oiHOg</a></p><p><strong>Unreal.js is a plug-in which brings V8-powered JavaScript into Unreal Engine 4.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "unrealjs",
+  "creationDate": "2016-05-10T15:17:00.238Z",
+  "lastModifiedDate": "2024-10-15T06:01:37.106Z",
+  "effectiveDate": "2016-09-01T00:00:00.000Z",
+  "viewableDate": "2016-09-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-5310866e1f49cc9230934e0fa67baa",
+    "name": "NCSOFT Corporation"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Modules</strong>:</p><ul><li>V8 (Runtime)</li><li>JavascriptUMG (Runtime)</li><li>JavascriptHttp (Runtime)</li><li>JavascriptWebSocket (Runtime)</li><li>JavascriptEditor (Editor)</li><li>JavascriptConsole (Editor)</li></ul><p><strong>Features</strong>:</p><ul><li>Powered by latest V8 (ES6)</li><li>CommonJS modules</li><li>Full access to the whole UnrealEngine API</li><li>Free to subclass existing classes including blueprint</li><li>Web-dev like UMG (Jade, pseudo-css, pseudo-angular.js, React)</li><li>Live reload &lt;br /&gt;• Communicate with outer world: REST(http), websocket, process(pipe), arraybuffer, etc.</li><li>Bridge API for editor extension</li><li>Auto-completion for Visual Studio Code (auto-generated *.d.ts)</li><li>Debugging within Visual Studio, Visual Studio Code, WebStorm, V8 Inspector and all IDE which supports V8 protocol</li><li>Profiling supported by V8</li><li>Dedicated JavaScript console on UnrealEditor</li><li>(Full) access to existing JavaScript libraries via npm, bower, etc.</li></ul><p><strong>Platforms Tested</strong>: Windows, Mac</p><p><strong>Intended Platforms</strong>: Windows, Mac</p><p><strong>Documentation</strong>: <a href=\"https://github.com/ncsoft/Unreal.js/wiki\" rel=\"nofollow\">https://github.com/ncsoft/Unreal.js/wiki</a></p><p><strong>Example Project</strong>: <a href=\"https://drive.google.com/file/d/0B8EsJUQpOkucRVJna3dEczJHN2M\" rel=\"nofollow\">https://drive.google.com/file/d/0B8EsJUQpOkucRVJna3dEczJHN2M</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1339",
+      "name": "SNOW",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:06.887Z",
+      "updated": "2019-06-20T12:01:06.887Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9fa01ca3-2d5a-4bfa-a1c2-5a41e82eb196"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/UnrealJSScreenshot01-1920x1080-0de33736653a1c908944e2f45c90a534.png",
+      "md5": "0de33736653a1c908944e2f45c90a534",
+      "size": 390693,
+      "uploadedDate": "2016-05-26T14:26:31.994Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/UnrealJSScreenshot1-1920x1080-2c0284b1c0f590b90c5457e1381b0c93.png",
+      "md5": "2c0284b1c0f590b90c5457e1381b0c93",
+      "size": 933171,
+      "uploadedDate": "2016-05-26T14:26:36.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/UnrealJS_Thumb-288x288-9966133f072a1c9812c81cf1e3bd4ec3.png",
+      "md5": "9966133f072a1c9812c81cf1e3bd4ec3",
+      "size": 11167,
+      "uploadedDate": "2016-05-26T14:25:21.061Z",
+      "width": 288,
+      "height": 288
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/UnrealJS_Featured-476x246-8f909f896a43427df3ede8eb8f471933.png",
+      "md5": "8f909f896a43427df3ede8eb8f471933",
+      "size": 11202,
+      "uploadedDate": "2016-05-26T14:25:34.195Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/UnrealJS_FeaturedNew-894x488-69cb77d78e9190f2d8aa7afe21e5fd1b.png",
+      "md5": "69cb77d78e9190f2d8aa7afe21e5fd1b",
+      "size": 14021,
+      "uploadedDate": "2016-05-26T14:25:31.652Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "d90f92a8b9aa491da359666fa05b7cbb"
+    }
+  ],
+  "catalogNs": null
+}

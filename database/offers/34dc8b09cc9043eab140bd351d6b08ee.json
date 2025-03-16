@@ -1,0 +1,224 @@
+{
+  "id": "34dc8b09cc9043eab140bd351d6b08ee",
+  "namespace": "ue",
+  "title": "SerialPort",
+  "description": "Blueprint Serial communication",
+  "longDescription": "<p>Serialport is a serial communication blueprint plugin which can communicate with serial devices, such as GPS, laser, point cloud and other devices.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "serialport",
+  "creationDate": "2022-03-28T19:06:48.515Z",
+  "lastModifiedDate": "2024-10-05T14:37:45.317Z",
+  "effectiveDate": "2022-03-28T19:06:48.447Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-xtldhnhsc5jxxw8x83pkdqfr4n2neb",
+    "name": "SusanChen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Connect Local serial port</li><li> Write Byte data to serial</li><li> Read Byte from serial</li><li>Convert FString to Byte</li><li>Convert Bytes to FString</li><li>Bytes to Hex String</li><li>HexString To Bytes</li></ul><p>Code Modules:</p><ul><li> SerialPort(Runtime)</li></ul><p><br /></p><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:4</p><p>Network Replicated: No</p><p>Supported Development Platforms:[Win64]</p><p>Supported Target Build Platforms:[Win64]</p><p>Documentation: </p><p>    http://dascad.net/html/SerialPort/doc.pdf</p><p>    http://dascad.net/SerialPort/index.html</p><p>Example Project: http://dascad.net/html/SerialPort/demo.rar</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b78b7e19-4245-4df9-9959-97149c2cb047"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/serial01-1920x1080-1b683e415d822eb584f0da9825b9ca79.png",
+      "md5": "1b683e415d822eb584f0da9825b9ca79",
+      "size": 235068,
+      "uploadedDate": "2022-03-25T03:49:37.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/serial02-1920x1080-05dbc33fc2355ce33d1f51b231b2fe36.png",
+      "md5": "05dbc33fc2355ce33d1f51b231b2fe36",
+      "size": 86708,
+      "uploadedDate": "2022-03-25T03:49:37.582Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Serial_thumb-284x284-18cc4c248ad62773cdae431d17130339.png",
+      "md5": "18cc4c248ad62773cdae431d17130339",
+      "size": 15493,
+      "uploadedDate": "2022-03-25T03:49:37.866Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Serial_featured-894x488-4f91ce6453e233229dc9bb98f2508b5b.png",
+      "md5": "4f91ce6453e233229dc9bb98f2508b5b",
+      "size": 159497,
+      "uploadedDate": "2022-03-25T03:49:37.946Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/serial01-1920x1080-1b683e415d822eb584f0da9825b9ca79_Snapshot.png",
+      "md5": "a0a4f8d4dc198683a1a88793595f09a4",
+      "size": 3621,
+      "uploadedDate": "2022-03-25T03:49:37.505Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/serial02-1920x1080-05dbc33fc2355ce33d1f51b231b2fe36_Snapshot.png",
+      "md5": "d601f609e4908eaafd69a996518b7047",
+      "size": 2037,
+      "uploadedDate": "2022-03-25T03:49:37.828Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9a303ae655f34f8f876d17460cf72f2d"
+    }
+  ],
+  "catalogNs": null
+}

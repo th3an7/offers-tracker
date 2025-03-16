@@ -1,0 +1,254 @@
+{
+  "id": "0156485dec04449e8c8b91994e96536e",
+  "namespace": "ue",
+  "title": "FPS Wizard",
+  "description": "FPS Wizard is a plugin that allows you to create a multiplayer FPS game without having to write a single line of code.",
+  "longDescription": "<p>FPS Wizard is a comprehensive plugin for Unreal Engine 4 that lets users create their own multiplayer FPS game without having to know how to code. It includes objects like weapons, characters, projectiles, bullet shells, explosions, game modes, and much much more. All of our object types have tons of customizable properties that are adjustable in the editor. You can also use your own meshes, animations, and other assets with our objects relatively seamlessly. FPS Wizard also supports both split-screen and network multiplayer out of the box; so you can play <strong><u>your</u></strong> game with your friends! FPS Wizard also offers users the ability to extend the functionality of our objects through Unreal&#39;s Blueprint system. You can also share your FPS Wizard creations with others through our official Discord channel. FPS Wizard is also an evolving product-and will receive tons of updates and new features over its lifetime.</p><p><br /></p><p><strong>NEW IN 1.5! </strong>Aim down sights, droppable/swappable weapons (with physics support!), and an extendable &#34;interact&#34; interface.</p><p><br /></p><p><a href=\"https://drive.google.com/open?id&#61;1RfU256Hoj9LfmO7P9Wr6g4k1luL3Kv2w\" rel=\"nofollow\"><strong><u>Try a playable demo!</u></strong></a></p><p><a href=\"https://discord.gg/PKcqE3r\" rel=\"nofollow\">Join our Discord!</a></p><p>Check out our website: <a href=\"http://www.groundbreakinggames.net/\" rel=\"nofollow\">www.groundbreakinggames.net/</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;zd0XIDPnR4A&amp;list&#61;PLj6zyIuyUI1UVRKHSR_rCeacP4fpxUm8g\" rel=\"nofollow\"><strong><u>Tutorials</u></strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fps-wizard",
+  "creationDate": "2017-11-14T22:40:52.388Z",
+  "lastModifiedDate": "2024-10-15T13:25:44.311Z",
+  "effectiveDate": "2017-11-14T22:40:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-79219b3be24f4487b66eedcd3124a0",
+    "name": "Christopher Simms"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><strong>Steam and null subsystem support</strong></li><li><strong>Local splitscreen support</strong></li><li><strong>UI/menu widgets (main menu, map select, server browser, settings, scoreboard, etc)</strong></li><li><strong>Basic AI with extendable behavior tree and tasks</strong></li><li><strong>Three base game modes: Deathmatch, Territories, and CTF.</strong></li><li>Each game mode has customizable settings like time limit, teams enabled/disabled, number of rounds, score limit, etc.</li><li><strong>Completely customizable weapons: properties for everything from accuracy bias to recoil to fire rate to damage.</strong></li><li>Semi-auto, burst fire, and full-auto firing modes can be enabled or disabled for the player to toggle between</li><li><strong>Material-specific impact decal/effect/sound bindings for projectiles</strong></li><li>Mappings for keyboard/mouse and controllers</li><li>Aim assist/acceleration for gamepads</li><li>Customizable ranking/progression</li><li>Multiple rounds per match/intermission &amp; post-game screens/transitions</li><li>Per-weapon animation slots for firing, reloading, etc for weapon and character meshes</li><li>Physical and raycast projectiles</li><li>Bullet shells</li><li>Crosshairs automatically scale to reflect accuracy at a given range (you can use your own 128x128 crosshairs as well!)</li><li>Debug, 2D, and 3D HUD</li></ul><p><br /></p><p><br /></p><p>Code Modules:</p><ul><li>FPSWizard [Runtime]</li></ul><p><br /></p><p>Number of Blueprints: 92</p><p>Number of C&#43;&#43; Classes: 38</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64, Win32</p><p>Supported Target Build Platforms: Win64, Win32, HTML5, Android</p><p>Documentation: https://www.youtube.com/channel/UCfh7KqmEU2E-EocgIeEYsWQ/videos</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8714bd54-da9d-4b4f-a724-3277b3e2d63d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FPSWizard_Screenshot-1920x1080-78aab7a1d9e96fdcf5b3b4023f3509d6.png",
+      "md5": "78aab7a1d9e96fdcf5b3b4023f3509d6",
+      "size": 681304,
+      "uploadedDate": "2017-09-13T21:13:53.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FPSWizard_Screenshot (2)-1920x1080-ffcd66fa5f4269ebb803c1905d933552.png",
+      "md5": "ffcd66fa5f4269ebb803c1905d933552",
+      "size": 623189,
+      "uploadedDate": "2017-09-13T21:13:54.324Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FPSWizard_Screenshot (3)-1920x1080-cc654d39dadda37321b79505bd822fc6.png",
+      "md5": "cc654d39dadda37321b79505bd822fc6",
+      "size": 684106,
+      "uploadedDate": "2017-09-13T21:13:54.477Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FPSWizard_Screenshot (4)-1920x1080-05b3b1ef75ea610c94279c557d5117c6.png",
+      "md5": "05b3b1ef75ea610c94279c557d5117c6",
+      "size": 740212,
+      "uploadedDate": "2017-09-13T21:13:54.623Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FPSWizard_Screenshot (5)-1920x1080-6ac4204ecaffb21543834bf8017a2438.png",
+      "md5": "6ac4204ecaffb21543834bf8017a2438",
+      "size": 348830,
+      "uploadedDate": "2017-09-13T21:13:54.769Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Menu-1920x1080-ba577b67f9554ef7b2737ac0a12227ad.png",
+      "md5": "ba577b67f9554ef7b2737ac0a12227ad",
+      "size": 1193990,
+      "uploadedDate": "2018-02-16T22:50:34.225Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FPSWizard_thumb-284x284-abb755e357046e717b150119bde06fed.png",
+      "md5": "abb755e357046e717b150119bde06fed",
+      "size": 50109,
+      "uploadedDate": "2020-09-08T20:56:20.986Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FPSWizard_featured-894x488-4b0ef8c7a74436b484942270a4b00ee7.png",
+      "md5": "4b0ef8c7a74436b484942270a4b00ee7",
+      "size": 180403,
+      "uploadedDate": "2020-04-30T20:54:58.203Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "1de36d8eab034205b7cb298aa761128b"
+    }
+  ],
+  "catalogNs": null
+}

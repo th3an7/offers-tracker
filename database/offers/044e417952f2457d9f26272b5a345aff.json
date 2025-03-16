@@ -1,0 +1,314 @@
+{
+  "id": "044e417952f2457d9f26272b5a345aff",
+  "namespace": "ue",
+  "title": "RGBA Texture Channel Packer",
+  "description": "Texture packer is a tool for custom RGBA texture packing without the need of using third-party software",
+  "longDescription": "<p>This tool was created for quick and easy RGB&#43;A texture packing.</p><p>No need to use third-party software, drag and drop textures (even normal maps), extract any color channel you&#39;d like from the selected texture and assign it to a channel of your choice.</p><p>No need for heavy plug-ins or addons, just drag and drop the BP_ChannelPacker actor into the scene, and start packing!</p><p><br /></p><p>Quickly and intuitively create you own packed textures!</p><p>Packing Crashes Fixed for v5.1</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "texture-channel-packer",
+  "creationDate": "2020-08-10T14:15:23.196Z",
+  "lastModifiedDate": "2024-10-10T23:44:37.969Z",
+  "effectiveDate": "2020-08-10T14:15:21.371Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jrd3j9bky4jstmsymbx56wtceu7k2v",
+    "name": "Raul Castillo"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Quick channel extraction from RGB and Normal textures</li><li>Custom packed texture size</li><li>Custom creation path</li><li>Asign custom name to your packed texture</li><li>Viewport visualizer for each channel</li><li>Custom compression settings</li><li>One click generation</li><li>Easy to use </li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Number of Materials: 1</p><p>Number of Material Functions: 1</p><p>Input: None</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://www.youtube.com/watch?v&#61;eejd2uQKzIg&amp;feature&#61;youtu.be\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;eejd2uQKzIg&amp;feature&#61;youtu.be</a></p><p>Important/Additional Notes: Output resolution must be a power of two texture, due to how the main function works and it&#39;s hard coded into UE by default.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "25dd7483-4109-49ae-9b44-7e49bf791305"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Home-1920x1080-774502aca60e442cb1caf514e7107475.png",
+      "md5": "774502aca60e442cb1caf514e7107475",
+      "size": 1481277,
+      "uploadedDate": "2022-04-23T01:33:42.263Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Features1-1920x1080-a8d5ada1caf50ef560725b6fb1e0e4da.png",
+      "md5": "a8d5ada1caf50ef560725b6fb1e0e4da",
+      "size": 476947,
+      "uploadedDate": "2022-04-23T01:33:42.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Features2-1920x1080-54ee02d214fbf6225020885598bb648f.png",
+      "md5": "54ee02d214fbf6225020885598bb648f",
+      "size": 149001,
+      "uploadedDate": "2022-04-23T01:33:43.259Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Packed-1920x1080-9b79a5ca192d2a274135ba50a61bf7af.png",
+      "md5": "9b79a5ca192d2a274135ba50a61bf7af",
+      "size": 298676,
+      "uploadedDate": "2022-04-23T01:33:43.702Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RGBATextureChannelPacker_thumb-284x284-026c0c594f815dcf925af7dae899423c.png",
+      "md5": "026c0c594f815dcf925af7dae899423c",
+      "size": 38883,
+      "uploadedDate": "2022-04-23T01:33:44.100Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RGBATextureChannelPacker_featured-894x488-d3b4d70adbf8f73b3e75c151f57b3a9d.png",
+      "md5": "d3b4d70adbf8f73b3e75c151f57b3a9d",
+      "size": 361192,
+      "uploadedDate": "2022-04-23T01:33:44.231Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Home-1920x1080-774502aca60e442cb1caf514e7107475_Snapshot.png",
+      "md5": "c40c5b64e211277ee9a49b1d0ec80f5b",
+      "size": 6193,
+      "uploadedDate": "2022-04-23T01:33:42.648Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Features1-1920x1080-a8d5ada1caf50ef560725b6fb1e0e4da_Snapshot.png",
+      "md5": "382eed7a44dfb9c436386da4687941dd",
+      "size": 5929,
+      "uploadedDate": "2022-04-23T01:33:43.079Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Features2-1920x1080-54ee02d214fbf6225020885598bb648f_Snapshot.png",
+      "md5": "d360d6ce3645faf62bb94ad09304b8ef",
+      "size": 5696,
+      "uploadedDate": "2022-04-23T01:33:43.559Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Packed-1920x1080-9b79a5ca192d2a274135ba50a61bf7af_Snapshot.png",
+      "md5": "747c452828e0e629d827c75f420a032c",
+      "size": 6810,
+      "uploadedDate": "2022-04-23T01:33:43.982Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SeparateChannels-1920x1080-dc4b5b344e21e1381c8daf107d701aca_Snapshot.png",
+      "md5": "55f8df08b30b9a63c1f51e1f40c4e48f",
+      "size": 8266,
+      "uploadedDate": "2020-08-12T19:54:49.533Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Showcase-1920x1080-0674b656c9ffa5f505d16c298406fe70_Snapshot.png",
+      "md5": "f37ceaecd6dd00f51c51514f32f3e3a4",
+      "size": 5928,
+      "uploadedDate": "2020-08-12T19:36:51.786Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Features-1920x1080-269e288b8922c89fca922216a1b53104_Snapshot.png",
+      "md5": "9fa4d42572b35ea6071bcd99ccc463d1",
+      "size": 7984,
+      "uploadedDate": "2020-08-12T19:36:51.941Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Features2-1920x1080-9847d24922340f005bbe37e3657b7931_Snapshot.png",
+      "md5": "a3ec4fc1635106dade9d52c198392fcc",
+      "size": 7023,
+      "uploadedDate": "2020-08-12T19:36:52.044Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080Featured-1920x1080-9b7de203e9b1fe43ed47f6e43e19e84d_Snapshot.png",
+      "md5": "ab18c5a130aa1bf3b124ca77aa56192a",
+      "size": 6473,
+      "uploadedDate": "2020-08-05T17:39:51.972Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/interface-1920x1080-191906766620f4fbe946d22957eaaa65_Snapshot.jpg",
+      "md5": "f889f8b7bea5c8d185824c1dfb454dc3",
+      "size": 6044,
+      "uploadedDate": "2020-08-05T17:39:52.600Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/normal-1920x1080-bfeba4415dd162f60e3b90b0f87b03b6_Snapshot.jpg",
+      "md5": "8574cb92757a33e44f0383c88f6363d0",
+      "size": 5717,
+      "uploadedDate": "2020-08-05T17:39:53.067Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/preview-1920x1080-7a00330971c496a89a5d562640cfc8e9_Snapshot.jpg",
+      "md5": "fc37bf7387427214c57ba01f38ae60ff",
+      "size": 6741,
+      "uploadedDate": "2020-08-05T17:39:53.472Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rgbpacked-1920x1080-fb5d79c3e199b822820e785b796299da_Snapshot.jpg",
+      "md5": "5ea1dbe10c10583496fb075f9cbb113e",
+      "size": 10226,
+      "uploadedDate": "2020-08-05T17:39:53.866Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/simpleinterface-1920x1080-295eca8ed0dfb980c2f8c94642ca06cd_Snapshot.jpg",
+      "md5": "4f65e70689e9677eb396cee72245be0a",
+      "size": 6590,
+      "uploadedDate": "2020-08-05T17:39:54.281Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "875af72be50b45ef8eb0fd2407468e73"
+    }
+  ],
+  "catalogNs": null
+}

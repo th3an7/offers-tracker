@@ -1,0 +1,158 @@
+{
+  "id": "01fd30e3103549c48ffd0472d007f64e",
+  "namespace": "ue",
+  "title": "Radar System with Minimap",
+  "description": "Radar System is a Bluprint based minimap system with multiplayer support that uses Scene Capture component to detect nearby enemies and other points of interest.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;EjQZU30cyHs\" rel=\"nofollow\">youtube.com/watch?v&#61;EjQZU30cyHs</a></p><p><a href=\"https://discord.gg/uBmnnxjahv\" rel=\"nofollow\">Discord</a></p><p><br /></p><p>With Radar System , you can quickly develop your own radar UI with minimap and multiplayer support. This system is designed keeping both single player and multiplayer games in mind, and HLSL based material helps you to easily create custom Arcs for your Radar Mechanism.</p><p>Features -</p><p>1&gt;Fully Customizable HLSL based material to design your own unique radar UI</p><p>2&gt;Minimap System to detect nearby enemies and desired points of interest</p><p>3&gt;Scene Captured component adjusted to capture only the points of interest actors, thus preventing any frame rate drops even if the capture happens in realtime</p><p>4&gt;Supports both Single Player and Multiplayer Games</p><p>5&gt;Marker Destruction Mechanism</p><p>6&gt;Ability to Design your own custom marker and add a variety of markers in the scene, varying in textures, colors and sizes</p><p>7&gt;Add Texts along with the markers. Useful for cases where you need to show the distance of an actor from player</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "radar-system-with-minimap",
+  "creationDate": "2017-03-17T14:42:54.002Z",
+  "lastModifiedDate": "2024-10-22T14:14:07.578Z",
+  "effectiveDate": "2017-03-22T00:00:00.000Z",
+  "viewableDate": "2017-03-22T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-qw55kvk2ahanfsu8sk8ff39lbuyun9",
+    "name": "Athian Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "3 Blueprints Demonstrating Radar Mechanism , 2 Character Blueprints for Allies and Enemies , 9 files driving the AI mechanism for the Allies and Enemies(just for demonstrating different types of markers in same level) <br />1 Demo Level <br />4 Materials and 4 Material Instances <br />3 Textures <br />2 Widget Blueprints<br />1 Tutorial Blueprint walking you through the entire process of creating your own customized radar system , with custom points of interest detection mechanism<br /><br />Tested Platforms: Windows, Mac, PS4, iOS, Android, Xbox One, Oculus",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "77159867-e5d9-43c0-b7d2-4fa78ffdca81"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_screenshot01-1920x1080-00ebefbd6141944df4044348c5355dbc.png",
+      "md5": "00ebefbd6141944df4044348c5355dbc",
+      "size": 979938,
+      "uploadedDate": "2017-03-17T14:41:13.448Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_screenshot02-2086x1080-e894d5d89cd442c0cbec41cd1abaa860.png",
+      "md5": "e894d5d89cd442c0cbec41cd1abaa860",
+      "size": 1002982,
+      "uploadedDate": "2017-03-17T14:41:09.749Z",
+      "width": 2086,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_screenshot03-1920x1080-8daf719340df7c9211790f0f34249587.png",
+      "md5": "8daf719340df7c9211790f0f34249587",
+      "size": 1017816,
+      "uploadedDate": "2017-03-17T14:41:05.580Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_screenshot04-1920x1080-8dffeae60f18faaa26762001c2bdd8ab.png",
+      "md5": "8dffeae60f18faaa26762001c2bdd8ab",
+      "size": 778102,
+      "uploadedDate": "2017-03-17T14:41:01.208Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_screenshot05-1920x1080-9798fbf81780a310cc6d9f4c06636ae4.png",
+      "md5": "9798fbf81780a310cc6d9f4c06636ae4",
+      "size": 535262,
+      "uploadedDate": "2017-03-17T14:40:57.878Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_screenshot06-1920x1080-5e01552f80caa425170288ec48b4b70b.png",
+      "md5": "5e01552f80caa425170288ec48b4b70b",
+      "size": 997251,
+      "uploadedDate": "2017-03-17T14:40:55.391Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_Thumb-284x284-ea34563f08c6ae95dce92c846397d56c.png",
+      "md5": "ea34563f08c6ae95dce92c846397d56c",
+      "size": 108462,
+      "uploadedDate": "2017-03-17T14:41:18.594Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/RadarSystem_FeaturedNew-894x488-99352a3ead53f93fea97e20c10a71fd7.png",
+      "md5": "99352a3ead53f93fea97e20c10a71fd7",
+      "size": 302291,
+      "uploadedDate": "2017-03-17T14:41:22.818Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "9c6cb357629f461bb3dcc5f84a936da9"
+    }
+  ],
+  "catalogNs": null
+}

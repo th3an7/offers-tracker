@@ -1,0 +1,404 @@
+{
+  "id": "1ab22ed2961a4cc19b9151bd072df998",
+  "namespace": "ue",
+  "title": "Mod Browser & Manager by mod.io",
+  "description": "Cross platform mod API for Unreal Engine 4 and 5, to allow the browsing and downloading of mods via a C++/Blueprint interface.",
+  "longDescription": "<p>The mod.io plugin for Unreal Engine enables <a href=\"https://mod.io/\" rel=\"nofollow\">cross platform mod and UGC support</a>, and is live in over 100 games on stores including Steam, Epic, Xbox, PlayStation, Switch, iOS and Android. mod.io provides all the functionality needed to support the discovery and installation of mods in-game, is easy to implement, and provides powerful metrics and dashboards for game owners to grow their mod community. mod.io is created by the team behind <a href=\"https://www.moddb.com/\" rel=\"nofollow\">ModDB.com</a> who have 20&#43; years experience working with UGC.</p><p><br /></p><p><strong>Benefits of using mod.io:</strong></p><ul><li>Ship UGC everywhere your game is released with one unified solution</li><li>Easy to setup and well documented, with everything solved from submission to download</li><li>Moderation and reporting systems to ensure content is safe and follows the rules you define</li><li>Deeply customizable, build your own mod site or discord bot or use ones we&#39;ve made for you</li><li>Patronage, sales and marketplace functionality for mods can be enabled</li><li>Built with a love for mods and continually improving for your benefit</li></ul><p><br /></p><p><strong>Large studios and publishers:</strong></p><p>A private white label option is available to license, <a href=\"mailto:hello&#64;mod.io?subject&#61;Whitelabel\" rel=\"nofollow\">contact us</a> to discuss.</p><p><br /></p><p><strong>Find out more:</strong></p><p><a href=\"https://mod.io/about\" rel=\"nofollow\">About us</a> | <a href=\"https://mod.io/games/add\" rel=\"nofollow\">Add Game</a> | <a href=\"https://discord.mod.io/\" rel=\"nofollow\">Chat on Discord</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mod-browser-manager",
+  "creationDate": "2019-10-10T17:49:29.109Z",
+  "lastModifiedDate": "2024-10-15T03:59:22.534Z",
+  "effectiveDate": "2019-10-10T17:49:28.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-mun2cbn9ptjp2p8eule4dc8lvzfxvb",
+    "name": "mod.io"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>The UE4.26 to 5.1 mod.io plugin simplifies the process of connecting your game to mod.io, a <a href=\"https://docs.mod.io\" rel=\"nofollow\">cross platform mod API</a>. It allows you to browse, tag, rate, download, update and upload mods in-game.</p><p><br /></p><p><strong>Documentation:</strong> <a href=\"https://unreal.mod.io\" rel=\"nofollow\">https://unreal.mod.io</a></p><p><strong>Support: </strong><a href=\"https://discord.mod.io\" rel=\"nofollow\">https://discord.mod.io</a> #unreal channel</p><p><br /></p><p><strong>Features:</strong></p><ul><li>Standalone</li><li>Open source, MIT licensed</li><li>Support from Unreal Engine 4.26 onwards</li><li>Mod browsing, tagging, rating</li><li>Automatic downloads and updates</li><li>Email, GOG and Steam SSO</li><li>Intuitive Blueprints layer with delegate outputs for handling events</li><li>C&#43;&#43; Subsystem interface compatible with UE4/5 data types and delegates</li><li>Customizable though UE4/5 editor settings</li><li>Console plugins available on verification</li></ul><p><br /></p><p><strong>Supported Development Platforms:</strong> Win64, macOS, Linux</p><p><strong>Supported Target Build Platforms:</strong> Win64, macOS, Linux</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "63d64e0c-db8a-463a-b4a9-cf437083d83a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01TRUSTED-1920x1080-b2a6823fc4e5b0d9e650bcbc17ca4f35.png",
+      "md5": "b2a6823fc4e5b0d9e650bcbc17ca4f35",
+      "size": 2344914,
+      "uploadedDate": "2022-05-03T06:03:17.110Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03CONNECT-1920x1080-18277ef44e7a992db875d903fb8f8a40.png",
+      "md5": "18277ef44e7a992db875d903fb8f8a40",
+      "size": 278086,
+      "uploadedDate": "2022-05-03T06:03:17.657Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04CONTROL-1920x1080-3ea3dd859aa61b9683715446cf838ecd.png",
+      "md5": "3ea3dd859aa61b9683715446cf838ecd",
+      "size": 525307,
+      "uploadedDate": "2022-05-03T06:03:18.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05BACKED-1920x1080-a0462fddb53c9099bdba72903aac8cb1.png",
+      "md5": "a0462fddb53c9099bdba72903aac8cb1",
+      "size": 421008,
+      "uploadedDate": "2022-05-03T06:03:18.489Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06AUTOMATES-1920x1080-a46c78338b4412ba978356c1da708496.png",
+      "md5": "a46c78338b4412ba978356c1da708496",
+      "size": 388402,
+      "uploadedDate": "2022-05-03T06:03:18.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/07REVIEW-1920x1080-34f76259e183b1c10021f2d8842aa878.png",
+      "md5": "34f76259e183b1c10021f2d8842aa878",
+      "size": 364810,
+      "uploadedDate": "2022-05-03T06:03:19.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02USEDBY-1920x1080-bd4b0488df0a47ede7d0f720c10a35d1.png",
+      "md5": "bd4b0488df0a47ede7d0f720c10a35d1",
+      "size": 933061,
+      "uploadedDate": "2022-05-03T06:03:19.660Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/08ENABLE-1920x1080-5b86aa7ef724469091951a915e6d88e4.png",
+      "md5": "5b86aa7ef724469091951a915e6d88e4",
+      "size": 1805069,
+      "uploadedDate": "2022-05-03T06:03:20.244Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ModBrowserManagerbymodio_thumb-284x284-19bcdd4b83b753e0df223ec2d8c56400.png",
+      "md5": "19bcdd4b83b753e0df223ec2d8c56400",
+      "size": 135004,
+      "uploadedDate": "2022-05-03T06:03:20.818Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ModBrowserManagerbymodio_featured-894x488-cc66981fa0dfa238f9847730c80e13dd.png",
+      "md5": "cc66981fa0dfa238f9847730c80e13dd",
+      "size": 561530,
+      "uploadedDate": "2022-05-03T06:03:20.952Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01TRUSTED-1920x1080-b2a6823fc4e5b0d9e650bcbc17ca4f35_Snapshot.png",
+      "md5": "3f9095cb3e7167b04b01abf63135db15",
+      "size": 7408,
+      "uploadedDate": "2022-05-03T06:03:17.518Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03CONNECT-1920x1080-18277ef44e7a992db875d903fb8f8a40_Snapshot.png",
+      "md5": "ed57ccd9d39bf48a5cbc9286a0f7bfce",
+      "size": 3890,
+      "uploadedDate": "2022-05-03T06:03:17.913Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04CONTROL-1920x1080-3ea3dd859aa61b9683715446cf838ecd_Snapshot.png",
+      "md5": "dcb4f21faba417b30e4aa18373392a6b",
+      "size": 4590,
+      "uploadedDate": "2022-05-03T06:03:18.337Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05BACKED-1920x1080-a0462fddb53c9099bdba72903aac8cb1_Snapshot.png",
+      "md5": "bfe3b546112babf3412331a552710431",
+      "size": 3952,
+      "uploadedDate": "2022-05-03T06:03:18.737Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06AUTOMATES-1920x1080-a46c78338b4412ba978356c1da708496_Snapshot.png",
+      "md5": "fc2917a5dcc596bfded578a06db14138",
+      "size": 4331,
+      "uploadedDate": "2022-05-03T06:03:19.101Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07REVIEW-1920x1080-34f76259e183b1c10021f2d8842aa878_Snapshot.png",
+      "md5": "ab443aa2255824cffc8e8b59bf7427dc",
+      "size": 3852,
+      "uploadedDate": "2022-05-03T06:03:19.487Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02USEDBY-1920x1080-bd4b0488df0a47ede7d0f720c10a35d1_Snapshot.png",
+      "md5": "b7c327d5e4cde44e366d1f4a4ec6a604",
+      "size": 5109,
+      "uploadedDate": "2022-05-03T06:03:19.961Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/08ENABLE-1920x1080-5b86aa7ef724469091951a915e6d88e4_Snapshot.png",
+      "md5": "1087fa9c19481a91c12c13c72f6ae879",
+      "size": 5828,
+      "uploadedDate": "2022-05-03T06:03:20.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-In-editor-settings-configuration-1920x1080-e391db9240b6d0597e4affac3a05b2df_Snapshot.png",
+      "md5": "2d9a2dc446cf773b1eb43687a7b520f8",
+      "size": 4428,
+      "uploadedDate": "2019-07-10T06:31:26.993Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-rating-blueprint-1920x1080-9506602da027e8ab7ec7d22b91048d91_Snapshot.png",
+      "md5": "f01405c9af51613ab535d392f6485a3f",
+      "size": 5722,
+      "uploadedDate": "2019-07-10T06:31:27.384Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-browse-blueprint-1920x1080-ed758ce3b9a6dc30f0a33783c6419014_Snapshot.png",
+      "md5": "acc5d9b79a2300445863ac88d94d2fa0",
+      "size": 5818,
+      "uploadedDate": "2019-07-10T06:31:27.870Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-queue-downloads-1920x1080-81c72f57f150ecd24492f1e708a9049a_Snapshot.png",
+      "md5": "086e5fa8652439ebe6fda72237a0a65b",
+      "size": 5533,
+      "uploadedDate": "2019-07-10T06:31:28.400Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-example-project-auth-1920x1080-acb1f6d62e457fdb5029010ab5e1df68_Snapshot.png",
+      "md5": "0c5af1d102a57b74ac238eac8e732ece",
+      "size": 7071,
+      "uploadedDate": "2019-07-10T06:31:28.812Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-example-project-download-1920x1080-5dbc1cfcc41bb2ee02778ae2e3890b0e_Snapshot.png",
+      "md5": "2907423b7b4bbd894c911b66bef6ccf4",
+      "size": 7071,
+      "uploadedDate": "2019-07-10T06:31:29.208Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-c-interface-1920x1080-b8d4de8cc1c1d4090694f554d3c9f7ba_Snapshot.png",
+      "md5": "d5d820da47dc674ae2db2f88c45c64cd",
+      "size": 5752,
+      "uploadedDate": "2019-07-10T06:31:29.536Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/08-homepage-1920x1080-e93967183e18789efdc917ce3f77ea46_Snapshot.png",
+      "md5": "6372c1f73f0dd606532e27e134b1b559",
+      "size": 10266,
+      "uploadedDate": "2019-07-10T06:31:30.025Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/09-options-1920x1080-d8aa303a21d8e96a64251fd83a420be4_Snapshot.png",
+      "md5": "5d836d240cc6d49da3fb80eab008da36",
+      "size": 6818,
+      "uploadedDate": "2019-07-10T06:31:30.420Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/modio-unreal-settings-1920x1080-1a934f82faeb9647edbcf25877e95c59_Snapshot.png",
+      "md5": "2d9a2dc446cf773b1eb43687a7b520f8",
+      "size": 4428,
+      "uploadedDate": "2019-06-21T05:28:19.055Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/modio-unreal-web-homepage-1920x1080-5257a46780784977ce7bacf3c2521e35_Snapshot.png",
+      "md5": "6372c1f73f0dd606532e27e134b1b559",
+      "size": 10266,
+      "uploadedDate": "2019-06-21T05:28:19.577Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/modio-unreal-web-options-1920x1080-2134dffabe56a5eda2a373d373db9a88_Snapshot.png",
+      "md5": "5d836d240cc6d49da3fb80eab008da36",
+      "size": 6818,
+      "uploadedDate": "2019-06-21T05:28:19.970Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "593a77cfdaad4131b365881793f48dad"
+    }
+  ],
+  "catalogNs": null
+}

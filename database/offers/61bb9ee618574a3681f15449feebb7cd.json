@@ -1,0 +1,320 @@
+{
+  "id": "61bb9ee618574a3681f15449feebb7cd",
+  "namespace": "ue",
+  "title": "Teleportation and Portals",
+  "description": "Simple portal and teleporter Blueprints",
+  "longDescription": "<p>Demo video available at: <a href=\"https://youtu.be/gvW4gJt48D0\" rel=\"nofollow\">https://youtu.be/gvW4gJt48D0</a></p><p><br /></p><p>Simple portals and teleporters are a complete and flexible solution for all teleportation mechanics, whether used in puzzle games or any other project. Multiple copies of the BP_Portal or BP_Teleporter actor can be placed anywhere in a level, and each can target any desired output location and rotation. An optional Target Actor parameter is included, which, when set, connects two portals or teleporters to each other and overrides relevant sub parameters. For portals, &#34;Portal Definition&#34;, in pixels, can also be customized with a Blueprint variable, making it easy to improve performance when needed. Portals handle all location and rotation updates for transiting actors, including projectiles, realistically, preserving the relative angle and point of impact of an incoming object upon its exit at the output location. This makes portals both flexible and easy to fine tune in puzzle levels.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "teleportation-and-portals",
+  "creationDate": "2022-08-11T23:44:00.195Z",
+  "lastModifiedDate": "2024-10-10T23:27:43.464Z",
+  "effectiveDate": "2022-08-11T23:44:00.142Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-umgsnda33trlkxvjppm3gx6qcjskaq",
+    "name": "Starlight Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Location and rotation portal transits implemented entirely in Blueprints</li><li>Realistic real-time rendering through portal mouths</li><li>Target any output location and rotation, or another portal</li><li>Spawn as many portals as needed </li><li>Teleport pads for faster travel</li><li>Teleport pad handling of any actor</li></ul><p>Number of Blueprints: 2</p><p>Input: NA</p><p>Network Replicated: No</p><p>Supported Development Platforms: Desktop</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1TgeSo-C22BaTtYBbXSLwfgJ93DPAGnSTVMmp5IN3wMA/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1TgeSo-C22BaTtYBbXSLwfgJ93DPAGnSTVMmp5IN3wMA/edit?usp&#61;sharing</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7a52a5ac-43fb-49cd-8193-7a7364e57698"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen Shot 2022-08-08 at 11.43.32 AM-1920x1080-78a2c0f3189c75d6d8f06938f8b420b2.png",
+      "md5": "78a2c0f3189c75d6d8f06938f8b420b2",
+      "size": 2369410,
+      "uploadedDate": "2022-08-08T17:13:00.630Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen Shot 2022-08-08 at 11.32.44 AM-1920x1080-fa90f8c22ba9455c5a52c830ecd295e3.png",
+      "md5": "fa90f8c22ba9455c5a52c830ecd295e3",
+      "size": 2589800,
+      "uploadedDate": "2022-08-08T17:13:01.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen Shot 2022-08-08 at 11.32.56 AM-1920x1080-875c060cd256cc3dc51f5d91e970dbf1.png",
+      "md5": "875c060cd256cc3dc51f5d91e970dbf1",
+      "size": 2574152,
+      "uploadedDate": "2022-08-08T17:13:02.176Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen Shot 2022-08-08 at 11.36.37 AM-1920x1080-3534907af1e6c2cb73d765ec4693aaba.png",
+      "md5": "3534907af1e6c2cb73d765ec4693aaba",
+      "size": 2475774,
+      "uploadedDate": "2022-08-08T19:40:20.184Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen Shot 2022-08-08 at 11.40.08 AM-1920x1080-b12378f8f518f49aabd741bb529adb59.png",
+      "md5": "b12378f8f518f49aabd741bb529adb59",
+      "size": 2504066,
+      "uploadedDate": "2022-08-08T19:40:20.899Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen Shot 2022-08-08 at 5.35.14 PM-1920x1080-e08061c13d6fd7e78a6a1ab7fee4d4c8.png",
+      "md5": "e08061c13d6fd7e78a6a1ab7fee4d4c8",
+      "size": 2169402,
+      "uploadedDate": "2022-08-08T21:39:35.772Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen Shot 2022-08-08 at 11.35.51 AM-1920x1080-3b45f12affd6b6041f92e4c64e0111d2.png",
+      "md5": "3b45f12affd6b6041f92e4c64e0111d2",
+      "size": 2582372,
+      "uploadedDate": "2022-08-08T17:13:02.945Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TeleportationandPortals_thumb-284x284-644d6fa054bcce4f7bb2a6b9e14d21e9.png",
+      "md5": "644d6fa054bcce4f7bb2a6b9e14d21e9",
+      "size": 133994,
+      "uploadedDate": "2022-08-08T21:33:01.992Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TeleportationandPortals_featured-894x488-9d1f346681012f7bb8f8f084ee37a1da.png",
+      "md5": "9d1f346681012f7bb8f8f084ee37a1da",
+      "size": 527103,
+      "uploadedDate": "2022-08-08T17:13:05.363Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 5.35.14 PM-1920x1080-e08061c13d6fd7e78a6a1ab7fee4d4c8_Snapshot.png",
+      "md5": "420f1b1c230c7b878a24b676bc6a37ee",
+      "size": 6283,
+      "uploadedDate": "2022-08-08T21:39:36.186Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.36.37 AM-1920x1080-3534907af1e6c2cb73d765ec4693aaba_Snapshot.png",
+      "md5": "44086a92f6bf066a8c2cb5e19272b062",
+      "size": 5714,
+      "uploadedDate": "2022-08-08T19:40:20.668Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.40.08 AM-1920x1080-b12378f8f518f49aabd741bb529adb59_Snapshot.png",
+      "md5": "f0b94bc913659b4c6a5a065b9d1e5423",
+      "size": 5153,
+      "uploadedDate": "2022-08-08T19:40:21.387Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.43.32 AM-1920x1080-78a2c0f3189c75d6d8f06938f8b420b2_Snapshot.png",
+      "md5": "e4dda353d238d7abba31d1c941fab258",
+      "size": 4412,
+      "uploadedDate": "2022-08-08T17:13:01.070Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.32.44 AM-1920x1080-fa90f8c22ba9455c5a52c830ecd295e3_Snapshot.png",
+      "md5": "96f223a3eff6ab2b03938793abc31cf4",
+      "size": 5375,
+      "uploadedDate": "2022-08-08T17:13:01.891Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.32.56 AM-1920x1080-875c060cd256cc3dc51f5d91e970dbf1_Snapshot.png",
+      "md5": "7751fe0de895d4dc48dddd0a709fe533",
+      "size": 5370,
+      "uploadedDate": "2022-08-08T17:13:02.656Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.35.51 AM-1920x1080-3b45f12affd6b6041f92e4c64e0111d2_Snapshot.png",
+      "md5": "81ed01c3d44c0edb12e7754aa7c341d4",
+      "size": 5477,
+      "uploadedDate": "2022-08-08T17:13:03.406Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.36.37 AM-1920x1080-87d6bc4d7e47ea457ee0f4bfc6cb1fea_Snapshot.png",
+      "md5": "e03962808e77e08f21c7b3bc72c0bfa6",
+      "size": 5438,
+      "uploadedDate": "2022-08-08T17:13:04.232Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2022-08-08 at 11.40.08 AM-1920x1080-2820863666dba51af9592481aa573cb7_Snapshot.png",
+      "md5": "5245dbc583a570b2bd1e17cf94dfa182",
+      "size": 4952,
+      "uploadedDate": "2022-08-08T17:13:05.130Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9db963c4b0c243e1b2e899d655890b2d"
+    }
+  ],
+  "catalogNs": null
+}

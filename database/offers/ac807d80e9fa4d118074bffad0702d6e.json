@@ -1,0 +1,386 @@
+{
+  "id": "ac807d80e9fa4d118074bffad0702d6e",
+  "namespace": "ue",
+  "title": "Drivable News Van",
+  "description": "Drivable (news) van with damage morph targets, lights, dirt and more.",
+  "longDescription": "<p>Based on Unreal&#39;s default vehicle system (Chaos for UE5 and PhysX for UE4). News van model with damage morph targets, lights and doors.</p><p>Skeletal mesh is correctly rigged with proper bone scales and bone naming.</p><p><br /></p><p>Video preview: <a href=\"https://youtu.be/CO3jc10ojzU\" rel=\"nofollow\">https://youtu.be/CO3jc10ojzU</a></p><p><br /></p><p>Number of Skeletal Meshes: 3 (1x News Van, 1x Van, 1x Roof Attachment)</p><p>Rigged: Yes</p><p>Average Triangle Count: 50357</p><p>LODs: Yes</p><p>Number of Textures: 18</p><p>Texture types: BaseColor, Normal, Occlusion Roughness Metallic (ORM)</p><p>Texture Size: 2048x2048 and 4096x4096</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "drivable-news-van",
+  "creationDate": "2021-03-05T17:07:18.703Z",
+  "lastModifiedDate": "2024-10-23T11:58:56.700Z",
+  "effectiveDate": "2021-03-05T17:13:04.927Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kqgbeqehctnf9cvasrryshybb6ep57",
+    "name": "Blue Mountains"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Two models: News Van and Van without roof attachment.</li><li>Drivable and rigged</li><li>Doors</li><li>Damage morph targets</li><li>Coloring of the vehicle can be changed in the material.</li><li>Amount of dirt on the body can be changed in material.</li><li>Front, rear, brake, reverse and blinker lights.</li><li>Custom collision for skeletal meshes.</li><li>Interior</li></ul><p>Number of Blueprints: 1</p><p>Input: Keyboard Input, <a href=\"https://pastebin.com/raw/rwHfyp4n\" rel=\"nofollow\">DefaultInput.ini</a> (Using EnhancedInput since UE 5.1)</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1QwycZhgxdhQMhLJRFViULN5MUmLLXksw/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1QwycZhgxdhQMhLJRFViULN5MUmLLXksw/view?usp&#61;sharing</a></p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1234",
+      "name": "PVP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:14.666Z",
+      "updated": "2023-07-18T10:54:22.176Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 1473,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7694d4ad-4924-4597-a3f2-9d7ac1e11762"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00012-1920x1080-86b15a42d1d5a6677c899100106437cd.png",
+      "md5": "86b15a42d1d5a6677c899100106437cd",
+      "size": 2544505,
+      "uploadedDate": "2021-03-01T16:40:22.558Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00011-1920x1080-e0c5a635df3e850707d2afcf7f360ad2.jpg",
+      "md5": "e0c5a635df3e850707d2afcf7f360ad2",
+      "size": 403132,
+      "uploadedDate": "2021-03-01T16:40:20.885Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-ff755c3d7adbb213097a9705c5ef8bc2.png",
+      "md5": "ff755c3d7adbb213097a9705c5ef8bc2",
+      "size": 2753165,
+      "uploadedDate": "2021-03-01T18:21:04.430Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00024-1920x1080-1f0ed04b3ccbc6cc9dcc443912164baf.png",
+      "md5": "1f0ed04b3ccbc6cc9dcc443912164baf",
+      "size": 2715945,
+      "uploadedDate": "2021-03-05T16:43:05.696Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00015-1920x1080-ccbe4423fe35b92774526a5aa4d24bb1.png",
+      "md5": "ccbe4423fe35b92774526a5aa4d24bb1",
+      "size": 3037843,
+      "uploadedDate": "2021-03-01T16:39:04.919Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-f92f3cd11235a264d64c899c35b3241a.png",
+      "md5": "f92f3cd11235a264d64c899c35b3241a",
+      "size": 2186473,
+      "uploadedDate": "2021-03-01T16:34:22.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00014-1920x1080-63770ca755dc931141de34eee7223da6.png",
+      "md5": "63770ca755dc931141de34eee7223da6",
+      "size": 2555934,
+      "uploadedDate": "2021-03-01T16:39:05.645Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00021-1920x1080-a0330fe6844aa91ec9ea5d54f4d51209.png",
+      "md5": "a0330fe6844aa91ec9ea5d54f4d51209",
+      "size": 2799123,
+      "uploadedDate": "2021-03-01T16:40:21.846Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Underside.JPG-1920x1080-fdd031ce3d48f16ed359336213c947e6.jpg",
+      "md5": "fdd031ce3d48f16ed359336213c947e6",
+      "size": 213493,
+      "uploadedDate": "2021-03-01T16:39:06.403Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DrivableNewsVan_thumb-284x284-47b4929fb23af548f1663f8d159b51bc.png",
+      "md5": "47b4929fb23af548f1663f8d159b51bc",
+      "size": 106842,
+      "uploadedDate": "2021-03-05T17:17:21.214Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DrivableVan_featured-894x488-469a3472c8201aa08614b47eaf3fe914.png",
+      "md5": "469a3472c8201aa08614b47eaf3fe914",
+      "size": 353225,
+      "uploadedDate": "2021-03-01T16:34:23.560Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00024-1920x1080-1f0ed04b3ccbc6cc9dcc443912164baf_Snapshot.png",
+      "md5": "dbff78ceabc4d1710d5263455324bd77",
+      "size": 5368,
+      "uploadedDate": "2021-03-05T16:43:06.104Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-ff755c3d7adbb213097a9705c5ef8bc2_Snapshot.png",
+      "md5": "fcb8ede0b0dcbfcd7e895f9c7ae0ed99",
+      "size": 4699,
+      "uploadedDate": "2021-03-01T18:21:04.846Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00011-1920x1080-e0c5a635df3e850707d2afcf7f360ad2_Snapshot.jpg",
+      "md5": "47a9e033ff683d61c008142e5333d9fd",
+      "size": 6342,
+      "uploadedDate": "2021-03-01T16:40:21.562Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00021-1920x1080-a0330fe6844aa91ec9ea5d54f4d51209_Snapshot.png",
+      "md5": "32077aba288833fbcf7d6343d20c755b",
+      "size": 6071,
+      "uploadedDate": "2021-03-01T16:40:22.301Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00012-1920x1080-86b15a42d1d5a6677c899100106437cd_Snapshot.png",
+      "md5": "057d6d1e04de08f47145e1d037f2373d",
+      "size": 5367,
+      "uploadedDate": "2021-03-01T16:40:22.983Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00015-1920x1080-ccbe4423fe35b92774526a5aa4d24bb1_Snapshot.png",
+      "md5": "841f3ccb00798d3c1c29f002c733c57e",
+      "size": 7172,
+      "uploadedDate": "2021-03-01T16:39:05.391Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00014-1920x1080-63770ca755dc931141de34eee7223da6_Snapshot.png",
+      "md5": "bca312cc2283f1670f658a7f760fd35c",
+      "size": 5713,
+      "uploadedDate": "2021-03-01T16:39:06.085Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Underside.JPG-1920x1080-fdd031ce3d48f16ed359336213c947e6_Snapshot.jpg",
+      "md5": "68b4a473e5829fd59a51a7c0944d9297",
+      "size": 5033,
+      "uploadedDate": "2021-03-01T16:39:07.004Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-f92f3cd11235a264d64c899c35b3241a_Snapshot.png",
+      "md5": "c88159b1ae1b371f43bc67a7a1108cae",
+      "size": 3917,
+      "uploadedDate": "2021-03-01T16:34:23.385Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dd744e37bf2f4c17bc898079add8c790"
+    }
+  ],
+  "catalogNs": null
+}

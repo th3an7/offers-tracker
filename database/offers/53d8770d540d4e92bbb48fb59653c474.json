@@ -1,0 +1,161 @@
+{
+  "id": "53d8770d540d4e92bbb48fb59653c474",
+  "namespace": "ue",
+  "title": "Vive Mocap Kit",
+  "description": "Using SteamVR for real-time motion capture",
+  "longDescription": "<p>The plugin is intended to retarget real-time human body motion to any skeleton by using SteamVR-compatible VR Headset (HTC Vive), Motion Controllers and tracked devices (Vive Trackers). It&#39;s also possible to use Scene Components instead to provide input from third-party tracking systems. The plugin supports custom skeletal meshes and can be used both for animation recording and for in-game player body representation. Transforms of untracked bones are reconstructed by using inverse kinematics.</p><p>The plugin supports tracking of feet, knees, flexible spine, shoulders, elbows and hand palms. Main demo project is ready to capture animation at UE4 Mannequin skeleton and to save resulted animations in Anim Sequences for future export in FBX format.</p><p><strong>Minimum setup (for in-game VR avatars)</strong></p><p>Two trackers for feet, one tracker for pelvis, two controllers (or trackers) for hands, HMD (or tracker) for head</p><p><strong>Recommended setup (for animation capture)</strong></p><p>Two trackers for feet, two trackers for spine (pelvis and ribcage), two trackers for elbows, two controllers (or trackers) for hands, HMD (or tracker) for head</p><p><strong>Maximum setup</strong></p><p>Recommended &#43; two knees trackers</p><p><br /></p><p>Video:</p><ul><li><a href=\"https://youtu.be/OkaaqVYO8R8\" rel=\"nofollow\">Capture in VR headset</a></li><li><a href=\"https://youtu.be/nNwqdJI4POA\" rel=\"nofollow\">Capture without VR headset</a></li><li><a href=\"https://youtu.be/ltFaKA16jzs\" rel=\"nofollow\">Mocap in editor viewport</a></li></ul><p><br /></p><p><a href=\"https://forums.unrealengine.com/t/vive-mocap-kit-support/101951\" rel=\"nofollow\">Support Thread</a></p><p><br /></p><p>Features:</p><ul><li>Automatic and manual calibration</li><li>Custom skeletons supported</li><li>Animation export to FBX and BVH</li><li>Twist bones</li><li>Fingers solver</li><li>Captured flexible spine from two trackers or spine interpolated from one tracker to head</li><li>Capturing to scaled and non-scaled meshes</li><li>Capture without Motion Controllers and headset</li><li>Input from Scene Components (can be used with optical tracking systems instead of SteamVR)</li><li>Source code is included</li><li>Capture in editor viewport</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vive-mocap-kit",
+  "creationDate": "2017-09-21T11:15:54.379Z",
+  "lastModifiedDate": "2024-10-22T14:02:47.217Z",
+  "effectiveDate": "2017-09-21T11:15:54.858Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8ba954a7a34115b5479ff854fbfe78",
+    "name": "Yuri N Kalinin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules: 3 - ViveMocapKit (Runtime), VMKFingersSolver (Runtime), VMKFingersSolverEditor (Editor)</p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 4</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64/SteamVR</p><p>Supported Target Build Platforms: Win64/SteamVR</p><p>Documentation: <a href=\"https://drive.google.com/file/d/0B6s-2uvAvszmLVRPOUFhTnVXTE0/view?resourcekey&#61;0-O-cvSf6Da8PTlQbx9ujcqw\" rel=\"nofollow\">PDF</a>, finger solver (page 10): <a href=\"https://drive.google.com/file/d/18_8C0msxjulwfBNc7BZPCwnBtskz2Qig/view\" rel=\"nofollow\">PDF</a></p><p><u>Demo Project (for motion capture)</u>: <a href=\"https://drive.google.com/file/d/14je-nJcMiyK6ukU09-51HxT4liAMS4gv/view?usp&#61;sharing\" rel=\"nofollow\">5.4</a> | <a href=\"https://drive.google.com/file/d/1jHjl10hrABoAG_kFivIrN9jAZeFz8Sih/view?usp&#61;sharing\" rel=\"nofollow\">5.3</a> | <a href=\"https://drive.google.com/file/d/18b-s27Wnt8KT7Jz5E19smUmtia--ZYUW/view?usp&#61;share_link\" rel=\"nofollow\">5.2</a> | <a href=\"https://drive.google.com/file/d/1qW5p1-Xj7m5sE-2O_uIfLeb_7ZEjnmKI/view?usp&#61;share_link\" rel=\"nofollow\">5.1</a> | <a href=\"https://drive.google.com/file/d/1VKIOsPukxVOXC-5t5vmgX9UNQopz_ZRA/view?usp&#61;share_link\" rel=\"nofollow\">5.0 with Metahuman</a></p><p>Simple Demo Project: <a href=\"https://drive.google.com/file/d/1Z4hyHl-h7Q0ZMX3k4-QoabiRKxz817Mb/view?usp&#61;sharing\" rel=\"nofollow\">5.2&#43;</a></p><p>Executable Demo: <a href=\"https://drive.google.com/file/d/1edQ5t84S0EGDfG3ob1HKWWazxic2UBdG/view?usp&#61;sharing\" rel=\"nofollow\">ZIP</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a52a05e9-8fae-40a4-957b-a696fbc026b2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ViveMocapKit_Screenshot_001-1920x1080-118f598ea544b3632a52a5fe04caceb5.jpg",
+      "md5": "118f598ea544b3632a52a5fe04caceb5",
+      "size": 690557,
+      "uploadedDate": "2017-09-14T18:26:36.816Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ViveMocapKit_Screenshot_005-1920x1080-ef3080b815041e6fa0daa3338dbf7a67.jpg",
+      "md5": "ef3080b815041e6fa0daa3338dbf7a67",
+      "size": 731386,
+      "uploadedDate": "2017-09-14T18:26:37.435Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ViveMocapKit_Screenshot_002-1920x1080-5355235719f6aaebdb822d1edf3a4d26.png",
+      "md5": "5355235719f6aaebdb822d1edf3a4d26",
+      "size": 460558,
+      "uploadedDate": "2017-09-14T18:26:37.662Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ViveMocapKit_Screenshot_003-1920x1080-14b8939d1a4e17ec89cb1fcde5e4eb5e.png",
+      "md5": "14b8939d1a4e17ec89cb1fcde5e4eb5e",
+      "size": 780512,
+      "uploadedDate": "2017-09-14T18:26:37.868Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ViveMocapKit_Screenshot_004-1920x1080-b5c570acdc7c6d95b12cbef78574509c.png",
+      "md5": "b5c570acdc7c6d95b12cbef78574509c",
+      "size": 471092,
+      "uploadedDate": "2017-09-14T18:26:38.081Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ViveMocapKitResubmissionforReview_thumb-284x284-4dd628fbd2301c1dc4f6778cfbd2c4c1.png",
+      "md5": "4dd628fbd2301c1dc4f6778cfbd2c4c1",
+      "size": 123520,
+      "uploadedDate": "2017-09-14T18:23:08.023Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ViveMocapKitResubmissionforReview_featured-894x488-0d92592ea56108b87f1c06f61318247a.png",
+      "md5": "0d92592ea56108b87f1c06f61318247a",
+      "size": 283143,
+      "uploadedDate": "2017-09-14T18:23:08.134Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "c5714954833e45629e233185a216b21c"
+    }
+  ],
+  "catalogNs": null
+}

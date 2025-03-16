@@ -1,0 +1,194 @@
+{
+  "id": "1abd5424c39d426c81068388a39a61c3",
+  "namespace": "ue",
+  "title": "Capsule Trace Rotation",
+  "description": "A simple plugin that adds rotation to capsule trace functions.",
+  "longDescription": "<p>In the engine versions of capsule trace functions there is no option to change orientarion of the capsule. This plugin fixes that by adding 6 new function: <em>CapsuleTraceSingleByChannelWithRotation</em> ; <em> CapsuleTraceMultiByChannelWithRotation </em>; <em>CapsuleTraceSingleForObjectsWithRotation</em> ; <em>CapsuleTraceMultiForObjectsWithRotation</em> ; <em>CapsuleTraceSingleByProfileWithRotation</em> ; <em>CapsuleTraceMultiByProfileWithRotation, </em>that allow you to change rotation of the traced capule.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "capsule-trace-rotation",
+  "creationDate": "2021-10-28T17:18:00.353Z",
+  "lastModifiedDate": "2024-10-08T07:27:14.654Z",
+  "effectiveDate": "2021-11-08T03:01:28.689Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7jbaxl6qesurxmpr8fv7de5m9pecdr",
+    "name": "Revilian"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Blueprint nodes that add rotation to capsule trace functions.</li></ul><p><br /></p><p>Code Modules:</p><ul><li> CapsuleTraceRotation [Runtime]</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Win64, Win32</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1e927c44-6254-4068-8bd6-e57f07d53162"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-da8476ae17cf05d900f756d7ab86e998.png",
+      "md5": "da8476ae17cf05d900f756d7ab86e998",
+      "size": 598269,
+      "uploadedDate": "2021-10-27T05:02:30.695Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-d47b1dfe03771fae390df36bde4a4990.png",
+      "md5": "d47b1dfe03771fae390df36bde4a4990",
+      "size": 2005665,
+      "uploadedDate": "2021-10-27T05:02:29.207Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-deb5a8f48ce31467ae6554ba076c0c92.png",
+      "md5": "deb5a8f48ce31467ae6554ba076c0c92",
+      "size": 2077485,
+      "uploadedDate": "2021-10-27T05:02:29.747Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-b19a35ba198f948e796d4c13c18d81c3.png",
+      "md5": "b19a35ba198f948e796d4c13c18d81c3",
+      "size": 1995139,
+      "uploadedDate": "2021-10-27T05:02:30.262Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-6b23f8d55a289b685d09240bde4c32c7.png",
+      "md5": "6b23f8d55a289b685d09240bde4c32c7",
+      "size": 2013236,
+      "uploadedDate": "2021-10-27T05:02:31.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CapsuleTraceRotation_thumb-284x284-d46534f27828143ff65f98f6ac9bc318.png",
+      "md5": "d46534f27828143ff65f98f6ac9bc318",
+      "size": 16658,
+      "uploadedDate": "2021-10-27T05:02:31.499Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CapsuleTraceRotation_featured-894x488-67b933eedaaf7498583da0e07209e184.png",
+      "md5": "67b933eedaaf7498583da0e07209e184",
+      "size": 48699,
+      "uploadedDate": "2021-10-27T05:02:31.577Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-d47b1dfe03771fae390df36bde4a4990_Snapshot.png",
+      "md5": "bf697719e676f6f8458d97e481a30dff",
+      "size": 4460,
+      "uploadedDate": "2021-10-27T05:02:29.550Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-deb5a8f48ce31467ae6554ba076c0c92_Snapshot.png",
+      "md5": "5be740860cb161794759ae624f47f5bd",
+      "size": 4305,
+      "uploadedDate": "2021-10-27T05:02:30.116Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-b19a35ba198f948e796d4c13c18d81c3_Snapshot.png",
+      "md5": "b94f535aa251def0f4967f795e845a7c",
+      "size": 4394,
+      "uploadedDate": "2021-10-27T05:02:30.575Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-da8476ae17cf05d900f756d7ab86e998_Snapshot.png",
+      "md5": "03eed3ba956203c4fdf7414546f05455",
+      "size": 5128,
+      "uploadedDate": "2021-10-27T05:02:30.971Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-6b23f8d55a289b685d09240bde4c32c7_Snapshot.png",
+      "md5": "eca8aea92e3e7f0b85eed68b5c9efcb2",
+      "size": 4299,
+      "uploadedDate": "2021-10-27T05:02:31.435Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f336b3bbeffb47c69cbfa91a7b8da98a"
+    }
+  ],
+  "catalogNs": null
+}

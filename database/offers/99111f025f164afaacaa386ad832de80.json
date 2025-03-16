@@ -1,0 +1,299 @@
+{
+  "id": "99111f025f164afaacaa386ad832de80",
+  "namespace": "ue",
+  "title": "Time Control Toolkit",
+  "description": "A toolkit which includes networked time dilation controls and various time widgets.",
+  "longDescription": "<p>Time Control Toolkit provides a quick solution for time dilation controls and for various time widgets (i.e. calendar counters and match timers). </p><p><br /></p><ul><li>Watch the <a href=\"https://youtu.be/PzkNnF3LJD0\" rel=\"nofollow\"><strong>Showcase Video</strong></a></li><li>View the <a href=\"https://docs.google.com/document/d/e/2PACX-1vQTG5nucN62SutVWeMac1KyrzrqhjHUEtt-4iY7NMZ0fdr9PYA6vhu9480XWZuYVN_JDS7T9rBtDJWN/pub\" rel=\"nofollow\"><strong>Documentation</strong></a></li><li>Join the <a href=\"https://discord.gg/thVat7mvPS\" rel=\"nofollow\"><strong>Discord Server</strong></a></li><li>Download the<strong> </strong><a href=\"https://drive.google.com/file/d/1tUMrn2GOuntcI9ul23BQKhhHzbz9yzLO/view?usp&#61;sharing\" rel=\"nofollow\"><strong>Demo Build</strong></a></li></ul><p><br /></p><p><strong>Features: </strong></p><ul><li>Time dilation controls with widgets automatically populated from data table for easy customization</li><li>Pause and unpause</li><li>Slow motion trigger examples callable via Blueprint Library functions</li><li>Match timer countdown with example &#34;TimerFinished&#34; event and game over screen called via event dispatcher</li><li>Day, month, and year counter widgets</li><li>Calendar date with date progression based on custom day length widget</li><li>Example input configuration using Enhanced Input for camera control hotkeys</li><li>Fully replicated</li></ul><p><br /></p><p>Contact: I can be reached at the <a href=\"https://discord.gg/thVat7mvPS\" rel=\"nofollow\"><strong>Discord</strong></a><strong> </strong>or by email at vince.gamedev&#64;gmail.com.</p><p><br /></p><p><a href=\"https://orbital-market.com/product/rts-camera-system-01\" rel=\"nofollow\"><strong>Orbital Market</strong></a></p><p><em>(Orbital Market is a useful search engine for the Unreal Engine Marketplace)</em></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "time-control-toolkit",
+  "creationDate": "2024-05-10T22:42:48.651Z",
+  "lastModifiedDate": "2024-10-23T15:42:57.898Z",
+  "effectiveDate": "2024-05-10T22:50:08.187Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dvpsc9t87wabh2uzz8ur9u7b9jndnp",
+    "name": "Vince D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>The core of the system is configured with a TimeSystemComponent which you add to the Game State. There is also an example PlayerController, Game Mode, and Pawn class included in the asset. The PlayerController class has an additional layer of complexity over a typical PlayerController for replication purposes, as described in the documentation. The Game Mode has a post-login event which allows clients to grab replicated time values from the server on login.</p><p><br /></p><p>This asset uses a handful of icons for the time controls widgets which are from gameicons.net, which are licensed under <a href=\"https://creativecommons.org/licenses/by/3.0/\" rel=\"nofollow\"><strong>CC By 3.0</strong></a>. The specific icons included are: Pause button icon (Guard13007), Play button icon (Guard13007), Fast forward button icon (Delapouite), and Time trap icon (Lorc).</p><p><br /></p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2023-08-23T04:44:32.409Z",
+      "status": "ACTIVE",
+      "referenceCount": 392,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "951c69be-ff00-462d-9b40-8808279443f7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleTimeSystemTitle-1920x1080-e38a3948c9f5c37a31061ca013a47669.png",
+      "md5": "e38a3948c9f5c37a31061ca013a47669",
+      "size": 127510,
+      "uploadedDate": "2024-05-06T22:01:31.728Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TimeSystemTimeControls-1920x1080-40fe425aeefce9d80a17b6f3cc4a3383.png",
+      "md5": "40fe425aeefce9d80a17b6f3cc4a3383",
+      "size": 2010508,
+      "uploadedDate": "2024-05-04T18:51:08.969Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VariousTimerWidgets-1920x1080-f0dfd9106d98e2028ce752d22d74b7ce.png",
+      "md5": "f0dfd9106d98e2028ce752d22d74b7ce",
+      "size": 1623530,
+      "uploadedDate": "2024-05-06T22:01:32.210Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TimeSystemReplicated-1920x1080-f78ef04da42ad2a7c2187063be591e63.png",
+      "md5": "f78ef04da42ad2a7c2187063be591e63",
+      "size": 1941550,
+      "uploadedDate": "2024-05-04T18:51:09.436Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TimeSystemSlowMotion-1920x1080-f686bd22e1c80132d1362accf4f4b594.png",
+      "md5": "f686bd22e1c80132d1362accf4f4b594",
+      "size": 1207391,
+      "uploadedDate": "2024-05-04T18:51:09.982Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TimeSystemBlueprints-1920x1080-23284a3a828dcd0493600af961847636.png",
+      "md5": "23284a3a828dcd0493600af961847636",
+      "size": 598447,
+      "uploadedDate": "2024-05-04T18:51:10.420Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleTimeSystem_thumb-284x284-6bd0776e5d70a2ecdce70846a6b19b8b.png",
+      "md5": "6bd0776e5d70a2ecdce70846a6b19b8b",
+      "size": 33172,
+      "uploadedDate": "2024-05-06T22:01:32.588Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleTimeSystem_featured-894x488-90cbd186e813058216feacfbaabf5eb7.png",
+      "md5": "90cbd186e813058216feacfbaabf5eb7",
+      "size": 80583,
+      "uploadedDate": "2024-05-06T22:01:32.666Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SimpleTimeSystemTitle-1920x1080-e38a3948c9f5c37a31061ca013a47669_Snapshot.png",
+      "md5": "bd6416fd08c8a812358cdd2232cba5fc",
+      "size": 3536,
+      "uploadedDate": "2024-05-06T22:01:32.014Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VariousTimerWidgets-1920x1080-f0dfd9106d98e2028ce752d22d74b7ce_Snapshot.png",
+      "md5": "2f714c057b32974ebca0f733acefb7b5",
+      "size": 7193,
+      "uploadedDate": "2024-05-06T22:01:32.519Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SimpleTimeSystemTitle-1920x1080-405e0783205a975466df4e3fcd9c02f6_Snapshot.png",
+      "md5": "a4e6eb2cd85032d521f08288220de243",
+      "size": 3340,
+      "uploadedDate": "2024-05-06T21:14:33.813Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SimpleTimeSystemTitle-1920x1080-f66a73a913e52b0e241ad84964bbad48_Snapshot.png",
+      "md5": "ae32be9a4bdf3a60cedd12b71016f435",
+      "size": 3991,
+      "uploadedDate": "2024-05-04T18:51:08.289Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VariousTimerWidgets-1920x1080-f4b53fbecfeb24dbccd6f6ecf5bb1ce3_Snapshot.png",
+      "md5": "1cfaaafe964ff75130bc370eab0e9c21",
+      "size": 7431,
+      "uploadedDate": "2024-05-04T18:51:08.795Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TimeSystemTimeControls-1920x1080-40fe425aeefce9d80a17b6f3cc4a3383_Snapshot.png",
+      "md5": "870ef3724c6388bc65cd5361a542bdde",
+      "size": 7116,
+      "uploadedDate": "2024-05-04T18:51:09.276Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TimeSystemReplicated-1920x1080-f78ef04da42ad2a7c2187063be591e63_Snapshot.png",
+      "md5": "a2247411d6bffeb45c9c1e767b435ca3",
+      "size": 8148,
+      "uploadedDate": "2024-05-04T18:51:09.786Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TimeSystemSlowMotion-1920x1080-f686bd22e1c80132d1362accf4f4b594_Snapshot.png",
+      "md5": "22ce3312f948540641c9c1bcd304f153",
+      "size": 6706,
+      "uploadedDate": "2024-05-04T18:51:10.265Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TimeSystemBlueprints-1920x1080-23284a3a828dcd0493600af961847636_Snapshot.png",
+      "md5": "3077b2cf20d6be52ca734c35a80b28da",
+      "size": 6064,
+      "uploadedDate": "2024-05-04T18:51:10.656Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0545af3372904f8480f6893c4ba24175"
+    }
+  ],
+  "catalogNs": null
+}

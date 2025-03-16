@@ -1,0 +1,158 @@
+{
+  "id": "799969b942d34725b0c3de7b4e8203aa",
+  "namespace": "ue",
+  "title": "E3DS AutomationTools",
+  "description": "E3DSAutomation Plugin- Use this automation plugin to package and upload your application to the E3DS pixel streaming system.",
+  "longDescription": "<p>E3DS Automation Tools is a plugin used for automatically packaging your Unreal Engine Pixel Streaming project, zipping it up, and uploading it to Eagle 3D Streaming System. It makes your overall process very smooth by taking the responsibility of uploading your project to the perfect place it should be. It is all done with just a single click.</p><p><br /></p><p>Documentation Link:</p><p><a href=\"https://eagle3dstreaming.atlassian.net/wiki/spaces/docs/pages/175341580/E3DSAutomation&#43;Plugin-&#43;How&#43;to&#43;Use&#43;the&#43;Automation&#43;Plugin&#43;to&#43;Package&#43;and&#43;Upload&#43;your&#43;application&#43;on&#43;the&#43;Control&#43;Panel\" rel=\"nofollow\">E3DSAutomation Plugin- How to Use the Automation Plugin to Package and Upload your application on the Control Panel</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "e3ds-automationtools",
+  "creationDate": "2024-02-05T04:45:58.345Z",
+  "lastModifiedDate": "2024-10-21T19:07:46.338Z",
+  "effectiveDate": "2024-02-05T04:45:58.300Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tebeu2qjegnhgplbv5jahrp9ftxxw8",
+    "name": "Eagle 3D Streaming"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Install the plugin by searching &#34;E3dsAutomationTools&#34; in the plugins section.</li><li>Enable the plugin in Project Settings&gt; Plugins &gt; E3DS Automation Tools Settings.</li><li>Provide the following data on the settings page:</li><li>Executable Path: Download &#34;el_am.exe&#34; from <a href=\"https://e3dshosting.s3.amazonaws.com/e3ds&#43;automation&#43;tool/el_am.exe\" rel=\"nofollow\">link</a> and set its path in the input field.</li><li>Engine Folder Path: Automatically added when opening the project with the plugin.</li><li>Engine Exe Path: Set the path of Unreal Engine&#39;s executable file.</li><li>UProject Path: Set the path of the opened project.</li><li>Path to 7Zip: Set the path to your 7Zip executable file (usually in &#34;C:\\Program Files\\7-Zip&#34;).</li><li>API key: Obtain from your E3DS control panel account at <a href=\"https://chat.openai.com/c/eagle3dstreaming.com\" rel=\"nofollow\">Api Keys</a>.</li><li>E3DSStreaming App Name: Enter the application name for uploading.</li><li>Packaging Mode: Choose Development or Shipping build.</li><li>Packaging folder: Specify the path to store the packaged application on your computer.</li><li>E3DS Dedicated Server App Name: If applicable, enter the dedicated server app name.</li><li>Testing URL: Set the URL for the uploaded application.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ce940458-a89d-4900-81ba-3ac1e2254832"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/autoPlugin-1920x1080-39a0c86cdd27c7e34bbddfb0701c4f88.png",
+      "md5": "39a0c86cdd27c7e34bbddfb0701c4f88",
+      "size": 211850,
+      "uploadedDate": "2024-01-23T17:33:58.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/E3DSAutomationTools_thumb-284x284-337fb8bee185199052a9511abcb360ea.png",
+      "md5": "337fb8bee185199052a9511abcb360ea",
+      "size": 29337,
+      "uploadedDate": "2024-01-23T17:33:58.966Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/E3DSAutomationTools_featured-894x488-c8fbfff79ae20c45d595d4be392dddeb.png",
+      "md5": "c8fbfff79ae20c45d595d4be392dddeb",
+      "size": 292603,
+      "uploadedDate": "2024-01-23T17:33:59.106Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/autoPlugin-1920x1080-39a0c86cdd27c7e34bbddfb0701c4f88_Snapshot.png",
+      "md5": "e62406723b7997b0691fa54bd2e189bb",
+      "size": 3027,
+      "uploadedDate": "2024-01-23T17:33:58.910Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c1243bdfd18f422980e533aed5e9b129"
+    }
+  ],
+  "catalogNs": null
+}

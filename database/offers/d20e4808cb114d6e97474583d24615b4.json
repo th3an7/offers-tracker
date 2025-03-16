@@ -1,0 +1,140 @@
+{
+  "id": "d20e4808cb114d6e97474583d24615b4",
+  "namespace": "ue",
+  "title": "VR Spectator Control Window",
+  "description": "Want to be able to use Unreal Engine UMG together with the spectator view in your VR apps? You can now do so with our Spectator Control Window plugin!",
+  "longDescription": "<p>We created the VR Spectator Control Window for one of our own projects to be able to have a configuration window available to an operator while someone else was using the VR experience.</p><p>The VR Spectator Control Window plugin allows you to use your created or new UMG widget in a separate window next to the default Unreal Engine Virtual Reality Spectator screen. This allows you to interact with a VR environment while someone is using your VR experience. This way you can set the VR Spectator screen to any mode you like and have the ability to control the experience.</p><p><br /></p><p>An example video can be found here: <a href=\"https://youtu.be/fSzOc46p-74\" rel=\"nofollow\">https://youtu.be/fSzOc46p-74</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vr-spectator-control-window",
+  "creationDate": "2018-11-26T13:24:56.579Z",
+  "lastModifiedDate": "2024-10-02T19:52:52.525Z",
+  "effectiveDate": "2018-11-26T13:24:56.553Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6dnyxehmqkzjxdwftcbfcw9hdcazub",
+    "name": "MarcoAlting"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>v1.3 updates:</strong></p><ul><li>Resize option added and available as Blueprint node.</li><li>Events for window activation and de-activation</li></ul><p><br /></p><p><strong>Features</strong>:</p><ul><li>Creates an extra window to interact with you VR application/game</li><li>Setting available for window title, size and position</li><li>Option to enable giving back input control to the user after each UMG interaction in the control window.</li><li>Possibility to create multiple windows</li><li>Works in Runtime and Editor</li></ul><p><br /></p><p><strong>Code Modules</strong>: Runtime: SpectatorControlWindow</p><p><strong>Supported Development Platforms</strong>: Windows 64</p><p><strong>Supported Target Build Platforms</strong>: Window 64</p><p><strong>Documentation</strong>: http://www.alting-multimedia.nl/vr-spectator-control-window</p><p><strong>Example Project</strong>: https://drive.google.com/file/d/1_-3RL4HlKZW7zJi9-YL2cuLnF3EoDIN1/view?usp&#61;sharing</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "11f817e3-c077-4276-8cd2-b29363ebc730"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/marketplacecover-1920x1080-765ac0343dd7278f9c9316edf834cb3a.jpg",
+      "md5": "765ac0343dd7278f9c9316edf834cb3a",
+      "size": 157159,
+      "uploadedDate": "2018-11-02T14:13:30.408Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRSpectatorControlWindow-1920x1080-b50911dce04b06694cdeafbce6239365.jpg",
+      "md5": "b50911dce04b06694cdeafbce6239365",
+      "size": 688813,
+      "uploadedDate": "2019-01-28T10:53:05.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VRSpectatorControlWindow_thumb-284x284-52c685c531cbd465b9d3fa70338647a5.png",
+      "md5": "52c685c531cbd465b9d3fa70338647a5",
+      "size": 62995,
+      "uploadedDate": "2018-11-02T14:13:30.617Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VRSpectatorControlWindow_featured-894x488-b487121d7440f2621e5de645fe480d78.png",
+      "md5": "b487121d7440f2621e5de645fe480d78",
+      "size": 358823,
+      "uploadedDate": "2019-01-28T10:53:06.149Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VRSpectatorControlWindow-1920x1080-b50911dce04b06694cdeafbce6239365_Snapshot.jpg",
+      "md5": "db1d98edcc516d633f5f170858c9f8e7",
+      "size": 3067,
+      "uploadedDate": "2019-01-28T10:53:06.073Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplacecover-1920x1080-765ac0343dd7278f9c9316edf834cb3a_Snapshot.jpg",
+      "md5": "089cd87c218085da1d506e6970ac94ea",
+      "size": 2871,
+      "uploadedDate": "2018-11-02T14:13:30.580Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fc6f217bd96949c087237ad39b64bda2"
+    }
+  ],
+  "catalogNs": null
+}

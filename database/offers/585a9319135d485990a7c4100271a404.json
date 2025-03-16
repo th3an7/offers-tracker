@@ -1,0 +1,326 @@
+{
+  "id": "585a9319135d485990a7c4100271a404",
+  "namespace": "ue",
+  "title": "PolygonArea",
+  "description": "This is a tool capable of dividing different areas on the map effortlessly and promptly.It provides components for multiple events, such as entry and exit, and for simultaneously listening to events.",
+  "longDescription": "<p>MAreaEditor&#xff1a;Editor blueprint for editing polygon areas</p><p>MAreaSpawnPoint&#xff1a;Creates actors that belongs to this area</p><ul><li>AreaID: ID of the owning area</li><li>EnemyClass: Actor type created</li><li>QuantityGroup: Number of actors created per group</li><li>ConcurrentQuantity: The maximum number of concurrent creations on the field</li><li>SpawnInterval&#xff1a;Create interval</li></ul><p>MAreaComponent &#xff1a;The component of the marked area detection actor</p><ul><li>EnterAreaEvent&#xff1a;Triggered when the parent object enters the area</li><li>ExitAreaEvent&#xff1a;Triggered when the parent object leaves the area</li></ul><p>MAreaGearComponent &#xff1a;Flag gear to monitor area events</p><ul><li>ComponentEnterEvent&#xff1a;Triggered when AreaComponent enters the area</li><li>ComponentExitEvent&#xff1a;Triggered when AreaComponent leaves the area</li><li>ClearGroupEvent&#xff1a;Triggered upon the destruction of all group actors created by AreaSpawnPoint within the area</li><li>ClearAreaEvent&#xff1a;Triggered upon the destruction of all actors spawned by AreaSpawnPoint within the area</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "polygonarea",
+  "creationDate": "2024-08-01T17:58:10.702Z",
+  "lastModifiedDate": "2024-10-15T04:24:28.882Z",
+  "effectiveDate": "2024-08-01T17:58:19.205Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-23ln5ardjm8a7grwtw97l3zpn6hwnj",
+    "name": "Painting Fish"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> MAreaEditor Revise the blueprint of the polygonal area</li><li> MAreaSpawnPoint Creates actors that belongs to this area</li><li> MAreaComponent The component of the marked area detection actor</li><li>MAreaGearComponent Flag gear to monitor area events</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><p>Number of Blueprints:2</p><p>Number of C&#43;&#43; Classes:8</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: Project path&#xff1a;</p><ul><li>Plugins\\PolygonArea\\Docs\\PolygonArea(Chinese).pdf</li><li>Plugins\\PolygonArea\\Docs\\PolygonArea(English).pdf</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4e66a1e5-e477-4b53-8ebb-66e7dd541288"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Editor1-1920x1080-bef31ceee623f0bdf045f29923ea0796.png",
+      "md5": "bef31ceee623f0bdf045f29923ea0796",
+      "size": 2170508,
+      "uploadedDate": "2024-07-17T11:29:21.045Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Editor2-1920x1080-89b106b7d25fb4ac410dbe5adeb3706d.png",
+      "md5": "89b106b7d25fb4ac410dbe5adeb3706d",
+      "size": 2190760,
+      "uploadedDate": "2024-07-17T11:29:21.816Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Editor3-1920x1080-0c47cc6f12f7434bb44c029ef5467c30.png",
+      "md5": "0c47cc6f12f7434bb44c029ef5467c30",
+      "size": 2199189,
+      "uploadedDate": "2024-07-17T11:29:22.495Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Editor4-1920x1080-74252be1786b8a4910ad7c83715b3d94.png",
+      "md5": "74252be1786b8a4910ad7c83715b3d94",
+      "size": 1737017,
+      "uploadedDate": "2024-07-17T11:29:23.169Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Editor5-1920x1080-ade91ecbcc228bf863e09e6d697d3df1.png",
+      "md5": "ade91ecbcc228bf863e09e6d697d3df1",
+      "size": 1763295,
+      "uploadedDate": "2024-07-17T11:29:23.846Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Editor6-1920x1080-1255ae3a10ccc378dfdb074b2ebd00d9.png",
+      "md5": "1255ae3a10ccc378dfdb074b2ebd00d9",
+      "size": 1829776,
+      "uploadedDate": "2024-07-17T11:29:24.579Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AreaManager-1920x1080-8ca335177093a69a53c62bb4c7192521.png",
+      "md5": "8ca335177093a69a53c62bb4c7192521",
+      "size": 304259,
+      "uploadedDate": "2024-07-17T11:29:25.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AreaSpawnPointConfig-1920x1080-c783d058be22363b7449a57ef9addb1e.png",
+      "md5": "c783d058be22363b7449a57ef9addb1e",
+      "size": 1650958,
+      "uploadedDate": "2024-07-17T11:29:25.774Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AreaSpawnPointOverride-1920x1080-fd7c2cbb677aa75888f500022554e28c.png",
+      "md5": "fd7c2cbb677aa75888f500022554e28c",
+      "size": 358111,
+      "uploadedDate": "2024-07-17T11:29:26.389Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ComponentEvent-1920x1080-e413ffaaedeece1208f5834604d0b1b1.png",
+      "md5": "e413ffaaedeece1208f5834604d0b1b1",
+      "size": 546785,
+      "uploadedDate": "2024-07-17T11:29:27.013Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GearComponentEvent-1920x1080-2adc994859995e1fc440d6b7aa58f906.png",
+      "md5": "2adc994859995e1fc440d6b7aa58f906",
+      "size": 671968,
+      "uploadedDate": "2024-07-17T11:29:27.548Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PolygonArea_thumb-284x284-d4e88ba15d7abef43d41bf47abd69d29.png",
+      "md5": "d4e88ba15d7abef43d41bf47abd69d29",
+      "size": 124730,
+      "uploadedDate": "2024-07-17T11:29:28.055Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PolygonArea_featured-894x488-dae4cd8388289e46149e8d4467577109.png",
+      "md5": "dae4cd8388289e46149e8d4467577109",
+      "size": 186277,
+      "uploadedDate": "2024-07-17T11:29:28.207Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Editor1-1920x1080-bef31ceee623f0bdf045f29923ea0796_Snapshot.png",
+      "md5": "0229110a2bbda8c15f5acadba6eeb895",
+      "size": 5270,
+      "uploadedDate": "2024-07-17T11:29:21.512Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Editor2-1920x1080-89b106b7d25fb4ac410dbe5adeb3706d_Snapshot.png",
+      "md5": "d28b2fc34b969ce12f768788aba08a7a",
+      "size": 5210,
+      "uploadedDate": "2024-07-17T11:29:22.278Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Editor3-1920x1080-0c47cc6f12f7434bb44c029ef5467c30_Snapshot.png",
+      "md5": "16a94a22a0b3eef9834f0b938bc63afa",
+      "size": 5239,
+      "uploadedDate": "2024-07-17T11:29:22.933Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Editor4-1920x1080-74252be1786b8a4910ad7c83715b3d94_Snapshot.png",
+      "md5": "3adb7fa3dc95aa80314d285e6a6e970e",
+      "size": 6070,
+      "uploadedDate": "2024-07-17T11:29:23.593Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Editor5-1920x1080-ade91ecbcc228bf863e09e6d697d3df1_Snapshot.png",
+      "md5": "ddd0d8af71fd6ac53f1e23ff027bb170",
+      "size": 6142,
+      "uploadedDate": "2024-07-17T11:29:24.254Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Editor6-1920x1080-1255ae3a10ccc378dfdb074b2ebd00d9_Snapshot.png",
+      "md5": "7f08c55c98d6c7b808475ce98755acb2",
+      "size": 5793,
+      "uploadedDate": "2024-07-17T11:29:25.013Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AreaManager-1920x1080-8ca335177093a69a53c62bb4c7192521_Snapshot.png",
+      "md5": "a54351227509159b1e7c2699cbc47fcd",
+      "size": 3788,
+      "uploadedDate": "2024-07-17T11:29:25.532Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AreaSpawnPointConfig-1920x1080-c783d058be22363b7449a57ef9addb1e_Snapshot.png",
+      "md5": "219e7f08c9a7d20153107f5efbf77e36",
+      "size": 5907,
+      "uploadedDate": "2024-07-17T11:29:26.177Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AreaSpawnPointOverride-1920x1080-fd7c2cbb677aa75888f500022554e28c_Snapshot.png",
+      "md5": "61b6067c1301fed32f7682fbc16cd6f2",
+      "size": 3822,
+      "uploadedDate": "2024-07-17T11:29:26.835Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ComponentEvent-1920x1080-e413ffaaedeece1208f5834604d0b1b1_Snapshot.png",
+      "md5": "09bd82c487b9a54c63acaf1e9a8001bf",
+      "size": 4986,
+      "uploadedDate": "2024-07-17T11:29:27.328Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GearComponentEvent-1920x1080-2adc994859995e1fc440d6b7aa58f906_Snapshot.png",
+      "md5": "b7f115d7c9ca107dac3234f825ce7c90",
+      "size": 5518,
+      "uploadedDate": "2024-07-17T11:29:27.925Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9fc13a075abc41458f626600f34f5766"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,290 @@
+{
+  "id": "6019cfbf80bb4942add3b61d9180380a",
+  "namespace": "ue",
+  "title": "Live Blueprint Debugger",
+  "description": "Integrates the Blueprint Debugger's variables window directly into the Level Editor's details panel for any selected Actor that is an instance of a Blueprint class.",
+  "longDescription": "<p>The Live Blueprint Debugger plugin integrates the Blueprint Debugger&#39;s variables window directly into the Level Editor&#39;s details panel. When playing or simulating in the editor, a new &#34;Blueprint&#34; section will appear in the details panel for any selected Actor that is an instance of a Blueprint class. Blueprint variables are also updated live in real time.</p><p><br /></p><p><br /></p><h2>New in 1.1</h2><ul><li>Option to keep actor selected when playing or simulating.</li><li>Support for Unreal Engine 4.27 in addition to 5.1&#43;.</li></ul><p><br /></p><p><br /></p><h2>Features</h2><ul><li>Live Blueprint variable data directly in the Actor details panel.</li><li>Fast filtering for specific Blueprint variables.</li><li>When a variable changes, it is highlighted for 1 second in the details panel.</li></ul><h2><br /></h2><h2>Technical Details</h2><p>This plugin customizes the Actor details panel such that any Actor that is derived from a Blueprint class will have its class variables shown in the details panel. All of the Blueprint variables will appear in sections labeled &#34;Blueprint Properties - [category]&#34;, where &#34;[category]&#34; is the category name from the Blueprint Editor. In turn, all of these categories appear under the overall &#34;Blueprint&#34; section header in the details panel.</p><p><br /></p><p>To support real-time live variables, the Live Blueprint Debugger plugin prepopulates a list of all of the Blueprint variables up to 5 levels deep (of nested structures, for example) and does not expand Object references. Because the list is pre-populated instead of expanded on demand, as with the existing Blueprint tools, the variables can be tracked and updated in real-time and can be filtered as fast as any other Actor details.</p><p><br /></p><p><br /></p><p><br /></p><h2>Differences from the Blueprint Editor&#39;s Blueprint Debugger</h2><ul><li>Does not expand &#34;UObject&#34; references for faster performance</li><li>Maximum 5 levels of nesting</li><li>Real time updates</li><li>Fast filtering</li><li>No breakpoints or call stacks</li></ul><p><br /></p><p><br /></p><p><br /></p><h2>Documentation and Support</h2><p><a href=\"https://github.com/jlnordin/LiveBlueprintVariableDebugging\" rel=\"nofollow\">https://github.com/jlnordin/LiveBlueprintVariableDebugging</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "live-blueprint-debugger",
+  "creationDate": "2023-02-20T01:28:23.819Z",
+  "lastModifiedDate": "2024-10-15T08:37:09.283Z",
+  "effectiveDate": "2023-02-20T01:35:51.541Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q7bfeejfw4us5sqqz2gny4vu3h58fv",
+    "name": "Justin Nordin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Blueprint variables and categories in Actor details panel</li><li>Real-time updates</li><li>Highlight when values change</li><li>Fast filtering</li></ul><p><strong>Code Modules:</strong></p><ul><li> LiveBlueprintDebugger, Editor Module</li></ul><p><strong>Number of Blueprints:</strong> 0</p><p><strong>Number of C&#43;&#43; Classes:</strong> 4</p><p><strong>Network Replicated:</strong> N/A</p><p><strong>Supported Development Platforms:</strong> 64-bit Windows</p><p><strong>Supported Target Build Platforms:</strong> All</p><p><strong>Documentation:</strong> <a href=\"https://github.com/jlnordin/LiveBlueprintVariableDebugging\" rel=\"nofollow\">https://github.com/jlnordin/LiveBlueprintVariableDebugging</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5f8748e9-6f95-480e-9a03-375157fd8bad"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/title-image-1920x1080-b005a1f52b4f8e778109b0e1e84fd6d5.png",
+      "md5": "b005a1f52b4f8e778109b0e1e84fd6d5",
+      "size": 1670160,
+      "uploadedDate": "2023-02-19T10:15:47.258Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot-1-1920x1080-1b6a636d14011e16e6ff3eb19827eb87.png",
+      "md5": "1b6a636d14011e16e6ff3eb19827eb87",
+      "size": 2911828,
+      "uploadedDate": "2023-02-19T10:15:47.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot-2-1920x1080-9fc69b4f28e0eab06157d42e5672469c.png",
+      "md5": "9fc69b4f28e0eab06157d42e5672469c",
+      "size": 2901570,
+      "uploadedDate": "2023-02-19T10:15:48.212Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot-3-1920x1080-b61448c31b7d392091863bd1db320e68.png",
+      "md5": "b61448c31b7d392091863bd1db320e68",
+      "size": 815858,
+      "uploadedDate": "2023-02-19T10:15:48.731Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot-4-1920x1080-4e390408c711eb633f5ad16b1a28d00a.png",
+      "md5": "4e390408c711eb633f5ad16b1a28d00a",
+      "size": 867710,
+      "uploadedDate": "2023-02-19T10:15:49.075Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LiveBlueprintDebugger_thumb-284x284-d49601927e674d46f6141c7e342e807b.png",
+      "md5": "d49601927e674d46f6141c7e342e807b",
+      "size": 16426,
+      "uploadedDate": "2023-02-19T10:15:49.334Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LiveBlueprintDebugger_featured-894x488-c438f11c087b5ba011a201e7f891665f.png",
+      "md5": "c438f11c087b5ba011a201e7f891665f",
+      "size": 342458,
+      "uploadedDate": "2023-02-19T10:15:49.390Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/title-image-1920x1080-b005a1f52b4f8e778109b0e1e84fd6d5_Snapshot.png",
+      "md5": "62d6e146ef6f4d21ba47717a02a4bb8e",
+      "size": 7351,
+      "uploadedDate": "2023-02-19T10:15:47.534Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot-1-1920x1080-1b6a636d14011e16e6ff3eb19827eb87_Snapshot.png",
+      "md5": "a977c6b9abbfa0529c42f79a65e4c595",
+      "size": 6609,
+      "uploadedDate": "2023-02-19T10:15:47.985Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot-2-1920x1080-9fc69b4f28e0eab06157d42e5672469c_Snapshot.png",
+      "md5": "3680320972bb4c593891c2c6a0471c65",
+      "size": 6579,
+      "uploadedDate": "2023-02-19T10:15:48.572Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot-3-1920x1080-b61448c31b7d392091863bd1db320e68_Snapshot.png",
+      "md5": "ddada36d95662c7520cc55bd213c8a4e",
+      "size": 6781,
+      "uploadedDate": "2023-02-19T10:15:48.959Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot-4-1920x1080-4e390408c711eb633f5ad16b1a28d00a_Snapshot.png",
+      "md5": "2b39a09537f1e88a7f006685e2bdfcc6",
+      "size": 6381,
+      "uploadedDate": "2023-02-19T10:15:49.296Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "302c0a6724684329a41e921fcbef9100"
+    }
+  ],
+  "catalogNs": null
+}

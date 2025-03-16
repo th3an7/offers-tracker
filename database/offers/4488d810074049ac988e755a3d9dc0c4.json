@@ -1,0 +1,368 @@
+{
+  "id": "4488d810074049ac988e755a3d9dc0c4",
+  "namespace": "ue",
+  "title": "Cronos Play for Unreal Engine",
+  "description": "With support for C++ and Blueprint, the Cronos Play for Unreal Engine Plugin lets you easily connect to the Cronos blockchain.",
+  "longDescription": "<p>The Cronos Play Unreal Engine Plugin enables games to interact easily with the Cronos blockchain and with common Web3 smart contract standards. These include ERC20 fungible token contracts and ERC721 and ERC1155 non-fungible token (NFT) contracts. Game developers will be able to let end-users log in with their crypto wallets via WalletConnect.</p><p><br /></p><p>End-users may then access Cronos as part of their in-game interactions. For example, end-users can retrieve their cryptocurrency and NFT token balances, trade, stake, or lend their assets. They can even leverage their holdings to access premium content as part of a suite of out-of-the-box functionalities.</p><p><br /></p><p>This plugin supports both C&#43;&#43; and Blueprints Visual Scripting development. It is compatible with Unreal Engine 4.27, 5.0, and 5.1.</p><p><br /></p><p>Documentation: <a href=\"https://docs.cronos.org/cronos-play/getting-started_unreal\" rel=\"nofollow\">https://docs.cronos.org/cronos-play/getting-started_unreal</a></p><p>Release Page: <a href=\"https://github.com/cronos-labs/play-unreal-plugin/releases\" rel=\"nofollow\">https://github.com/cronos-labs/play-unreal-plugin/releases</a></p><p>Recent Releases:</p><ul><li>Cronos Play for Unreal Engine Plugin v5.0: <a href=\"https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.12-alpha/CronosPlayForUnrealEngine5.0.zip\" rel=\"nofollow\">https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.12-alpha/CronosPlayForUnrealEngine5.0.zip</a></li><li>Cronos Play for Unreal Engine Plugin v5.1: <a href=\"https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.12-alpha/CronosPlayForUnrealEngine5.1.zip\" rel=\"nofollow\">https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.12-alpha/CronosPlayForUnrealEngine5.1.zip</a></li><li>Example Project &#34;Metaverse&#34; for Unreal Engine v5.1: <a href=\"https://github.com/cronos-labs/play-unreal-demo/releases/download/v0.0.10-alpha/CronosPlayMetaverseDemo.zip\" rel=\"nofollow\">https://github.com/cronos-labs/play-unreal-demo/releases/download/v0.0.10-alpha/CronosPlayMetaverseDemo.zip</a></li><li>Cronos Play for Unreal Engine Plugin v5.2: <a href=\"https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.16-alpha/CronosPlayForUnrealEngine5.2.zip\" rel=\"nofollow\">https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.16-alpha/CronosPlayForUnrealEngine5.2.zip</a></li><li>Cronos Play for Unreal Engine Plugin v5.3: <a href=\"https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.18-alpha/CronosPlayForUnrealEngine5.3.zip\" rel=\"nofollow\">https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.18-alpha/CronosPlayForUnrealEngine5.3.zip</a></li><li>Cronos Play for Unreal Engine Plugin v5.4: <a href=\"https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.20-alpha/CronosPlayForUnrealEngine5.4.zip\" rel=\"nofollow\">https://github.com/cronos-labs/play-unreal-plugin/releases/download/v0.0.20-alpha/CronosPlayForUnrealEngine5.4.zip</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cronos-play-for-unreal-engine",
+  "creationDate": "2022-09-21T02:54:55.844Z",
+  "lastModifiedDate": "2024-10-09T14:39:12.481Z",
+  "effectiveDate": "2022-09-21T02:54:55.805Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-evxd7v8uffu6wghv4mefqjyvn8f48k",
+    "name": "Cronos Labs"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Easily obtain the following pieces of contract/wallet address information by using Blueprint or C&#43;&#43;</p><p>-Get Token Symbol  </p><p>-Token Name</p><p>-Token TotalSupply</p><p>-Token Balance</p><p>-Account Balance</p><p>-Get TokenURI</p><p>-Get ERC20 Transaction History </p><p>-Get ERC721 Transaction History </p><p><br /></p><p>Transfer Functions</p><p>–Transfer ERC20, ERC721, ERC1155 tokens using the allowance mechanism</p><p>–Allow &#96;approved_address&#96; to withdraw ERC20, ERC721, ERC1155 tokens from your account multiple times, up to the &#96;amount&#96; amount</p><p><br /></p><p>Wallet Functions</p><p>–Connect with WalletConnect</p><p>–Restore wallet from mnemonic words</p><p><br /></p><p>Code Modules:</p><ul><li> CronosPlayUnreal: Runtime </li></ul><p><br /></p><p>Number of Blueprints: 92</p><p>Number of C&#43;&#43; Classes: 6</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64, Mac, Linux</p><p>Supported Target Build Platforms: Win64, Mac, Linux, Android, iOS</p><p>Important/Additional Notes: Please visit <a href=\"https://cronos.org/play\" rel=\"nofollow\">Cronos Play</a> or fill <a href=\"https://airtable.com/shrFiQnLrcpeBp2lS\" rel=\"nofollow\">Contact Form</a> for more information.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "72132d30-7650-4f3c-8e51-d1a9745ac7e4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sendtokens-1920x1080-e7f76a3345dffb39193eafbf45e4cfad.png",
+      "md5": "e7f76a3345dffb39193eafbf45e4cfad",
+      "size": 631984,
+      "uploadedDate": "2022-07-28T08:39:10.387Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Getaddressbalance-1920x1080-ab5ea7dd7d643e671f18e45f9c4e1012.png",
+      "md5": "ab5ea7dd7d643e671f18e45f9c4e1012",
+      "size": 551533,
+      "uploadedDate": "2022-07-28T08:39:10.874Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GETNFTERC1155-1920x1080-503d35850da6eecfd0479984776efda5.png",
+      "md5": "503d35850da6eecfd0479984776efda5",
+      "size": 488265,
+      "uploadedDate": "2022-07-28T08:39:11.322Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/getnfterc1155balance-1920x1080-2d04a16746486cc3b876c26ce60e138c.png",
+      "md5": "2d04a16746486cc3b876c26ce60e138c",
+      "size": 753730,
+      "uploadedDate": "2022-07-28T08:39:11.763Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/getimagefornft-1920x1080-310246b6f7b9876438a0deecfc27b2cd.png",
+      "md5": "310246b6f7b9876438a0deecfc27b2cd",
+      "size": 780753,
+      "uploadedDate": "2022-07-28T08:39:12.221Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ERC721display-1920x1080-2a5d8f7a553cfed174f0b2f283331952.png",
+      "md5": "2a5d8f7a553cfed174f0b2f283331952",
+      "size": 2734972,
+      "uploadedDate": "2022-07-28T08:39:12.743Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/erc1155nftdisplay-1920x1080-405aae79dae8d15d2c448325c95f583c.png",
+      "md5": "405aae79dae8d15d2c448325c95f583c",
+      "size": 2745095,
+      "uploadedDate": "2022-07-28T08:39:13.450Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/walletconnectshowqrcode-1920x1080-78ab7bd351c246840403e1c374ee698a.png",
+      "md5": "78ab7bd351c246840403e1c374ee698a",
+      "size": 2129728,
+      "uploadedDate": "2022-07-28T08:39:14.083Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/walletconnectensuresession-1920x1080-31553578bc859cc857d24658332311d6.png",
+      "md5": "31553578bc859cc857d24658332311d6",
+      "size": 889745,
+      "uploadedDate": "2022-07-28T08:39:14.671Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Decentralizedlogin-1920x1080-03daab93725e328b05fb9a0d8dff8e6a.png",
+      "md5": "03daab93725e328b05fb9a0d8dff8e6a",
+      "size": 633191,
+      "uploadedDate": "2022-07-28T08:39:15.128Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CronosPlayUnrealEnginePlugin_thumb-284x284-b7fd87a81c7dc81170ca773933aea0cd.png",
+      "md5": "b7fd87a81c7dc81170ca773933aea0cd",
+      "size": 56445,
+      "uploadedDate": "2022-07-28T08:39:15.509Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CronosPlayUnrealEnginePlugin_featured-894x488-f91dd8aca1820fffa8196f8ee2f83dbb.png",
+      "md5": "f91dd8aca1820fffa8196f8ee2f83dbb",
+      "size": 270992,
+      "uploadedDate": "2022-07-28T08:39:15.642Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sendtokens-1920x1080-e7f76a3345dffb39193eafbf45e4cfad_Snapshot.png",
+      "md5": "8ea4fe8b5878c75d81e1e3370de3ec92",
+      "size": 4391,
+      "uploadedDate": "2022-07-28T08:39:10.701Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Getaddressbalance-1920x1080-ab5ea7dd7d643e671f18e45f9c4e1012_Snapshot.png",
+      "md5": "eea46862e397d491d46f1867bbd543ea",
+      "size": 5013,
+      "uploadedDate": "2022-07-28T08:39:11.153Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GETNFTERC1155-1920x1080-503d35850da6eecfd0479984776efda5_Snapshot.png",
+      "md5": "e311d2f8b4a07c5b16f5202e0febbe98",
+      "size": 3817,
+      "uploadedDate": "2022-07-28T08:39:11.607Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/getnfterc1155balance-1920x1080-2d04a16746486cc3b876c26ce60e138c_Snapshot.png",
+      "md5": "36bbb295703c96e0d3813e897cc66b99",
+      "size": 4744,
+      "uploadedDate": "2022-07-28T08:39:12.051Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/getimagefornft-1920x1080-310246b6f7b9876438a0deecfc27b2cd_Snapshot.png",
+      "md5": "b821c88a0186f1a55d17652645f24d45",
+      "size": 4970,
+      "uploadedDate": "2022-07-28T08:39:12.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ERC721display-1920x1080-2a5d8f7a553cfed174f0b2f283331952_Snapshot.png",
+      "md5": "96f36ab0242eea884f60e98cc4774a55",
+      "size": 7112,
+      "uploadedDate": "2022-07-28T08:39:13.202Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/erc1155nftdisplay-1920x1080-405aae79dae8d15d2c448325c95f583c_Snapshot.png",
+      "md5": "3c30b86007477caf0f73bc64d182cfe8",
+      "size": 7033,
+      "uploadedDate": "2022-07-28T08:39:13.894Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/walletconnectshowqrcode-1920x1080-78ab7bd351c246840403e1c374ee698a_Snapshot.png",
+      "md5": "44735e45ec6d3f1da99d88e4c64fb8cf",
+      "size": 6187,
+      "uploadedDate": "2022-07-28T08:39:14.493Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/walletconnectensuresession-1920x1080-31553578bc859cc857d24658332311d6_Snapshot.png",
+      "md5": "66264f081b2b56db08059b90eb1615ac",
+      "size": 5360,
+      "uploadedDate": "2022-07-28T08:39:14.978Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Decentralizedlogin-1920x1080-03daab93725e328b05fb9a0d8dff8e6a_Snapshot.png",
+      "md5": "edbb2d87f3f3312db1deeac33860e5e2",
+      "size": 4514,
+      "uploadedDate": "2022-07-28T08:39:15.417Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "852dd61ef4b343f0b8c63ee1e2e14bba"
+    }
+  ],
+  "catalogNs": null
+}

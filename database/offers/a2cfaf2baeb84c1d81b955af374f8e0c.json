@@ -1,0 +1,326 @@
+{
+  "id": "a2cfaf2baeb84c1d81b955af374f8e0c",
+  "namespace": "ue",
+  "title": "Fast AI Plugin (Multiplayer)",
+  "description": "Fast AI is a single-player and multi-player AI system, written in C++ for optimal performance. Create AI NPC for Lifecycle, Melee, Ranged, animal, zombie, civilian, guard AI.",
+  "longDescription": "<p>Fast AI is an AI system written in C&#43;&#43; for optimal performance. It supports both single-player and multi-player. It comes with many features, examples and AI spawners. It lets you create variety of AI system for open world to linear games. It lets you create AI NPC for Lifecycle, Melee, Ranged, animal, zombie, civilian, guard AI.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;hWzvAKHFtIQ\" rel=\"nofollow\">Demo Showcase Video</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;qu8ZIQe45Fk\" rel=\"nofollow\">Tutorial Video</a></p><p><a href=\"https://discord.gg/QRZc7Pkwm4\" rel=\"nofollow\">Discord</a></p><p><br /></p><p>NOTE: The Player and NPC AI are based on the Character class.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fast-ai-plugin",
+  "creationDate": "2021-07-23T21:56:37.237Z",
+  "lastModifiedDate": "2024-10-15T13:37:14.726Z",
+  "effectiveDate": "2021-07-23T21:56:37.047Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tmccr6k79sdm3euqu5xqr89f2xjuhy",
+    "name": "AltairGamesLLC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>FEATURES:</p><ul><li>Quick and easy integration</li><li>Single-player &amp; Multi-player</li><li>Melee, Ranged, animal, zombie, civilian, guard AI examples</li><li>Lifecycle that let&#39;s NPC to have schedules as day/night routine (UE 5.2&#43; Only)</li><li>Basic flying Actors (i.e. a Raven example provided)</li><li>Trace Based Melee Hit Detection</li><li>Player Activated AI</li><li>Sight and Hearing Senses</li><li>Send and receive messages to communicate with other AI</li><li>Individual setting for Idle, Roam, Melee, Flee, Ranged, Investigate, Follow</li><li>Ranged Aim Offset</li><li>AI Spawners Blueprint (Ideal for both linear and open world maps)</li><li>Hit reaction animation inputs with cooldown</li><li>Foot Step Component with unlimited foot types support</li><li>Example of a 3rd person character</li><li>Additional blueprints utilizing the Animation Sharing plugin to create 300&#43; basic roaming AI with significant improved FPS</li></ul><p><br /></p><p>Version: 2.2.3</p><p>Number of Blueprints: 45</p><p>Number of C&#43;&#43; Classes: 23</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1VNWmGtFKpOSGQxmb_BpdQ_aQDXKNcOYJil_zRFu4-AA/edit?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Example Project: Included with the plugin</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7224db51-6435-41aa-979a-e8a30dd28701"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ai6.PNG-1920x1080-8d865df10106b711cb3455078c6f4f67.jpg",
+      "md5": "8d865df10106b711cb3455078c6f4f67",
+      "size": 2492685,
+      "uploadedDate": "2021-08-01T04:44:52.768Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ai5.PNG-1920x1080-8031f1d189c0f7aeef593f7f80451dd4.jpg",
+      "md5": "8031f1d189c0f7aeef593f7f80451dd4",
+      "size": 2552139,
+      "uploadedDate": "2021-08-01T04:44:53.439Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ai4-1920x1080-caea72b9fee2d1fc64ff364bc4cd96a7.png",
+      "md5": "caea72b9fee2d1fc64ff364bc4cd96a7",
+      "size": 1288671,
+      "uploadedDate": "2021-08-01T04:44:54.081Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ai3-1920x1080-353c881e54f8e5ebcda1b044c5e06075.png",
+      "md5": "353c881e54f8e5ebcda1b044c5e06075",
+      "size": 2379619,
+      "uploadedDate": "2021-08-01T04:44:54.648Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ai1.PNG-1920x1080-fb679ad1a3a42113048ec05d90309c03.png",
+      "md5": "fb679ad1a3a42113048ec05d90309c03",
+      "size": 1253811,
+      "uploadedDate": "2021-08-01T04:44:55.330Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/p1.PNG-1920x1080-eb4fae50770162db64589fbd5a658d3f.jpg",
+      "md5": "eb4fae50770162db64589fbd5a658d3f",
+      "size": 1392733,
+      "uploadedDate": "2023-03-11T14:09:48.740Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FastAIPluginMultiplayer_thumb-284x284-a0a5d7f46ab0c17cfbe224abe1e3347c.png",
+      "md5": "a0a5d7f46ab0c17cfbe224abe1e3347c",
+      "size": 81274,
+      "uploadedDate": "2022-09-23T05:45:39.245Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FastAIPluginMultiplayer_featured-894x488-753725de8872f39c39cac74cb896e10b.png",
+      "md5": "753725de8872f39c39cac74cb896e10b",
+      "size": 609466,
+      "uploadedDate": "2021-09-17T04:43:14.638Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/p1.PNG-1920x1080-eb4fae50770162db64589fbd5a658d3f_Snapshot.jpg",
+      "md5": "70a2e150575606740806075d804469c4",
+      "size": 4092,
+      "uploadedDate": "2023-03-11T14:09:49.103Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ai6.PNG-1920x1080-8d865df10106b711cb3455078c6f4f67_Snapshot.jpg",
+      "md5": "04a2ba138b0d548284e6bf1864bdfe72",
+      "size": 8187,
+      "uploadedDate": "2021-08-01T04:44:53.225Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ai5.PNG-1920x1080-8031f1d189c0f7aeef593f7f80451dd4_Snapshot.jpg",
+      "md5": "5f8106c890487b67ab51116cba5b88ed",
+      "size": 6929,
+      "uploadedDate": "2021-08-01T04:44:53.895Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ai4-1920x1080-caea72b9fee2d1fc64ff364bc4cd96a7_Snapshot.png",
+      "md5": "08043fbaf0b50aa182649564632c661b",
+      "size": 6025,
+      "uploadedDate": "2021-08-01T04:44:54.442Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ai3-1920x1080-353c881e54f8e5ebcda1b044c5e06075_Snapshot.png",
+      "md5": "adc6b8db87637c77623f2d85dd649b8c",
+      "size": 6636,
+      "uploadedDate": "2021-08-01T04:44:55.127Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ai1.PNG-1920x1080-fb679ad1a3a42113048ec05d90309c03_Snapshot.png",
+      "md5": "f4c6249eec050627a5cbb1091700d741",
+      "size": 5929,
+      "uploadedDate": "2021-08-01T04:44:55.682Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/f6.PNG-1920x1080-dcfbf8e71aa558d5869970bb28ad5f6c_Snapshot.jpg",
+      "md5": "2703aca970a4d5fd3bf1807d2eb13236",
+      "size": 5711,
+      "uploadedDate": "2021-07-23T22:32:59.226Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/f7.PNG-1920x1080-90975630e869ab5121efb346a0ed8234_Snapshot.jpg",
+      "md5": "eff1f25b49c6771a6bf8d2087e29cc23",
+      "size": 5094,
+      "uploadedDate": "2021-07-20T23:37:41.558Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/f5.PNG-1920x1080-f755ee257c5f09465420e5d6f66f1533_Snapshot.jpg",
+      "md5": "505972aa3924e9a345a86318b9cd8253",
+      "size": 4178,
+      "uploadedDate": "2021-07-20T23:37:42.091Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/f4.PNG-1920x1080-5a3fc4f812e638cecad6ceb1a1daca7a_Snapshot.jpg",
+      "md5": "592204854aa37646e64a56ed4a47bbfa",
+      "size": 3289,
+      "uploadedDate": "2021-07-20T23:37:42.561Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/f3.PNG-1920x1080-2af5a541c56f2ca08de839d2399c010c_Snapshot.jpg",
+      "md5": "3b15b3fc69cb8000e60bf9c2fb62a6d8",
+      "size": 3945,
+      "uploadedDate": "2021-07-20T23:37:43.061Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/f2.PNG-1920x1080-152359bdafbeb2466df4fc212a18ed12_Snapshot.jpg",
+      "md5": "42b604502c850838259202feb3453d8f",
+      "size": 6323,
+      "uploadedDate": "2021-07-20T23:37:43.508Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "bd07c4d66a974523ad29ed8fef32685e"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,248 @@
+{
+  "id": "babb875f9a7f4c61bc8cf6d601f6357a",
+  "namespace": "ue",
+  "title": "Fantasy Books Generator",
+  "description": "Fantasy Books plus generator. The generator comes with 10 fantasy book materials ready to use.",
+  "longDescription": "<p>Fantasy Books Generator with efficient generator based on hierarchically instanced static meshes with a few useful settings. </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fantasy-books-generator",
+  "creationDate": "2022-05-12T13:33:21.598Z",
+  "lastModifiedDate": "2024-10-08T23:26:00.911Z",
+  "effectiveDate": "2022-05-12T13:35:46.470Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nacezn9acrmxpqm6czm5vwbst8v9ck",
+    "name": "LimitsFree"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Fantasy Books Generator Blueprint comes with 10 stylized book materials and customizable settings within the material instance (see images above to see all parameters).</li><li> Books Generator Blueprint dynamically spawns hierarchical instanced meshes systems per new material to decrease CPU calls drastically.</li><li> This generator has many settings for procedural book placements including randomization. (Most settings can be seen in the images above)</li><li>Custom books and materials can be used as well. I recommend watching the tutorial as I mention there how to do it.</li><li>Only 188 faces per book on 0 LOD.</li></ul><p><br /></p><p>Tutorial video link:</p><p>https://youtu.be/9XR-es1wrP0</p><p><br /></p><p><br /></p><p>Number of Unique Meshes: 1</p><p>Collision: Cube collision of the book size.</p><p>Vertex Count: only 228 vertices/188 faces</p><p>LODs: 4 LODs (UE4 generated)</p><p>Number of Materials and Material Instances: 11</p><p>Number of Textures: 10 sets of PBR textures</p><p>Texture Resolutions: (2048x2048)</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Android: Yes</p><p>Mac: Untested</p><p><br /></p><p>Important/Additional Notes:</p><p>If you need any help with a product or just want to be up to date regarding new projects you can join my discord.</p><p>Discord: https://discord.gg/kXMFUb8v</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "02f8b9e8-18b0-470d-8d5b-e0aca19703f7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BooksSide.png-1920x1080-c238e4a96bca49b3343aedfb70fdb28b.png",
+      "md5": "c238e4a96bca49b3343aedfb70fdb28b",
+      "size": 2498953,
+      "uploadedDate": "2022-05-10T16:48:46.607Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BooksBack.png-1920x1080-53bfc158ef3f46a521b863bbae0d3035.png",
+      "md5": "53bfc158ef3f46a521b863bbae0d3035",
+      "size": 2851787,
+      "uploadedDate": "2022-05-10T16:48:45.228Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BooksFront.png-1920x1080-f1064f39eee5af8fe0d546b4ff27a763.png",
+      "md5": "f1064f39eee5af8fe0d546b4ff27a763",
+      "size": 2604565,
+      "uploadedDate": "2022-05-10T16:48:45.926Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BookMaterial.png-1920x1080-8348248f189c51bc2ffc638846697080.png",
+      "md5": "8348248f189c51bc2ffc638846697080",
+      "size": 1457306,
+      "uploadedDate": "2022-05-10T16:48:44.594Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RandomBooks-1920x1080-96882209508734f1a100b25e9b2f1c59.png",
+      "md5": "96882209508734f1a100b25e9b2f1c59",
+      "size": 2582840,
+      "uploadedDate": "2022-05-10T16:48:47.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GeneratorSettings-1920x1080-1a9793cccd73163db8a402e90aa0caa9.png",
+      "md5": "1a9793cccd73163db8a402e90aa0caa9",
+      "size": 2029931,
+      "uploadedDate": "2022-05-10T16:48:47.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FantasyBooksGenerator_thumb-284x284-baa49bf06eb57a759bf122e63df1e8b9.png",
+      "md5": "baa49bf06eb57a759bf122e63df1e8b9",
+      "size": 186296,
+      "uploadedDate": "2022-05-15T12:49:22.077Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FantasyBooksGenerator_featured-894x488-9ea420b671804cc2a076b14419163340.png",
+      "md5": "9ea420b671804cc2a076b14419163340",
+      "size": 887652,
+      "uploadedDate": "2022-05-15T12:49:22.204Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BookMaterial.png-1920x1080-8348248f189c51bc2ffc638846697080_Snapshot.png",
+      "md5": "a5984cdd96e4d25586fb21d2dfe97d6d",
+      "size": 5642,
+      "uploadedDate": "2022-05-10T16:48:44.955Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BooksBack.png-1920x1080-53bfc158ef3f46a521b863bbae0d3035_Snapshot.png",
+      "md5": "4b752ec4940424a933e0067ed6ed7c8d",
+      "size": 7181,
+      "uploadedDate": "2022-05-10T16:48:45.669Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BooksFront.png-1920x1080-f1064f39eee5af8fe0d546b4ff27a763_Snapshot.png",
+      "md5": "e749a3d090f3e90e9cc3a1ef5e48cc29",
+      "size": 7605,
+      "uploadedDate": "2022-05-10T16:48:46.345Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BooksSide.png-1920x1080-c238e4a96bca49b3343aedfb70fdb28b_Snapshot.png",
+      "md5": "a41a4df9cc5c5ef8c4e9a013752d3872",
+      "size": 7211,
+      "uploadedDate": "2022-05-10T16:48:47.027Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RandomBooks-1920x1080-96882209508734f1a100b25e9b2f1c59_Snapshot.png",
+      "md5": "8f3b0e5ee99dd416146dd7a8f02cdf7a",
+      "size": 9108,
+      "uploadedDate": "2022-05-10T16:48:47.666Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GeneratorSettings-1920x1080-1a9793cccd73163db8a402e90aa0caa9_Snapshot.png",
+      "md5": "601eb83a64e34d5aaae61903e93098a9",
+      "size": 9293,
+      "uploadedDate": "2022-05-10T16:48:48.251Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "65fc0cc59944427fb9293b69b4c91835"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,197 @@
+{
+  "id": "b42bb6a6a7f34b2e9a54dc4751fea06c",
+  "namespace": "ue",
+  "title": "Fire Propagation",
+  "description": "A basic fire propagation system made in Blueprint.",
+  "longDescription": "<p>This Blueprint adds an easy to use and multiplayer ready fire propagation system to your project. It offers two possibilities to use it.</p><p>In editor use, place fire grids in your level during level creation  (e.g. fuel puddle, woodpile) and ignite them in the game thru other fire grids, or from a Blueprint.</p><p>You can also create fire grids at runtime, right there where you need it. (e.g. Molotow cocktail, lightning strike)</p><p>Demo video: <a href=\"https://youtu.be/HY2V7Klk83A\" rel=\"nofollow\">https://youtu.be/HY2V7Klk83A</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fire-propagation",
+  "creationDate": "2017-12-21T08:28:53.190Z",
+  "lastModifiedDate": "2024-10-10T22:28:37.971Z",
+  "effectiveDate": "2017-12-21T08:28:53.064Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-c1fcad04414004890afb616c840177",
+    "name": "Capaxi"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>100% Blueprint</li><li>Fire follows terrain</li><li>Create fire grids in the editor or during runtime</li><li>Changes behaviour based on the material underneath</li><li>Works in multiplayer games</li></ul><p><br /></p><p>Number of Blueprints: 3</p><p>Input: Mouse, Keyboard for demo character</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: Editor Tutorials (Only UE 4)</p><p>Important/Additional Notes: This is not an art pack! Provided particles, sounds, decals etc. are placeholders and meant to be swapped out to fit the needs of your game.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c4a399fa-a315-49ea-a28f-f3b8d0b9ce1c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/grounds-1920x1080-631dc80694b009d72658a6bc95e34610.png",
+      "md5": "631dc80694b009d72658a6bc95e34610",
+      "size": 1702310,
+      "uploadedDate": "2017-12-13T22:09:54.607Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/terrain-1920x1080-57919879833360702e84d677af7725f0.png",
+      "md5": "57919879833360702e84d677af7725f0",
+      "size": 2075322,
+      "uploadedDate": "2017-12-13T22:09:54.939Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fire_terrain-1920x1080-87a10cec72c8e44f4b58ad339084f5b9.png",
+      "md5": "87a10cec72c8e44f4b58ad339084f5b9",
+      "size": 2609240,
+      "uploadedDate": "2017-12-13T22:09:55.219Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/stair-1920x1080-b2b9e2d6c53473feddb560500b68b6f1.png",
+      "md5": "b2b9e2d6c53473feddb560500b68b6f1",
+      "size": 1859905,
+      "uploadedDate": "2017-12-13T22:09:55.476Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fire_ignoreObstacles-1920x1080-b558e7a0bd384a9f87420df18a7e79dc.png",
+      "md5": "b558e7a0bd384a9f87420df18a7e79dc",
+      "size": 2408547,
+      "uploadedDate": "2017-12-13T22:09:55.780Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FirePropagation_thumb-284x284-d3dab956ed1621561e802a05cf1bd2d0.png",
+      "md5": "d3dab956ed1621561e802a05cf1bd2d0",
+      "size": 19992,
+      "uploadedDate": "2017-12-13T22:09:55.867Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FirePropagation_featured-894x488-4e3cf57a3c6c2b9eea88303c3041ffff.png",
+      "md5": "4e3cf57a3c6c2b9eea88303c3041ffff",
+      "size": 76349,
+      "uploadedDate": "2017-12-13T22:09:55.945Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "c568673e267f45b68c953f67e6cde4fa"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,194 @@
+{
+  "id": "4e5f1c2bb1b8476fb5ba0ab7fade1172",
+  "namespace": "ue",
+  "title": "Gregstr's Importer",
+  "description": "Gregstr's Importer helps you to import fbx assets with PBR textures",
+  "longDescription": "<p>Gregstr&#39;s Importer can make importing FBX assets with PBR textures easier.</p><p>Just click on the icon in the toolbar, choose a subfolder with your mesh and textures and your mesh will be imported and textures will be applied as texture parameters to a material instance of the Master material (you can choose your own, or just use the included one), that will be applied to your imported mesh.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gregstr-s-importer",
+  "creationDate": "2024-04-03T16:37:46.758Z",
+  "lastModifiedDate": "2024-10-15T04:17:19.883Z",
+  "effectiveDate": "2024-04-03T16:37:46.682Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y2ezkllwsqp25wsup4nk6yfa8d8ey8",
+    "name": "gregstr"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Import assets from subfolder</li><li>Create material instance of master material with imported textures and assign it to the mesh</li><li>Default master material included with the plugin</li></ul><p>Code Modules:</p><ul><li> Importer (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 5</p><p>Supported Development Platforms:</p><ul><li>Windows</li></ul><p>Supported Target Build Platforms:</p><ul><li>Windows Editor only</li></ul><p><a href=\"https://gregstr.eu/importer/docs\" rel=\"nofollow\">Documentation/Tutorial</a></p><p>Important/Additional Notes:</p><ul><li>Updated:</li><li>Now should be able to import any typical PBR setup</li><li>With or without textures subfolder</li><li>If you find any bugs contact me over email or on the marketplace (if unreal engine crashes, please include your crash log)</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "83c985b9-66ce-4fb2-98d6-993787abd472"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1UEmainscaled-1920x1080-83fe7e2677309c7bf9dacc3958974781.png",
+      "md5": "83fe7e2677309c7bf9dacc3958974781",
+      "size": 1150122,
+      "uploadedDate": "2024-03-27T19:27:46.817Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2UEchoosefolderscaled-1920x1080-8d241632c2136e2443644051094fdba9.png",
+      "md5": "8d241632c2136e2443644051094fdba9",
+      "size": 796160,
+      "uploadedDate": "2024-03-27T19:27:47.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3UEimportedscaled-1920x1080-a3a1540198468d978ad3cd78963a543b.png",
+      "md5": "a3a1540198468d978ad3cd78963a543b",
+      "size": 1220614,
+      "uploadedDate": "2024-03-27T19:27:47.883Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4UEdonescaled-1920x1080-6fbda7b9d1664e77d2247d5ada40f2b8.png",
+      "md5": "6fbda7b9d1664e77d2247d5ada40f2b8",
+      "size": 1321052,
+      "uploadedDate": "2024-03-27T19:27:48.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5UEsettingsscaled-1920x1080-5c3656dfea511315c0f1f939c0d135ea.png",
+      "md5": "5c3656dfea511315c0f1f939c0d135ea",
+      "size": 139424,
+      "uploadedDate": "2024-03-27T19:27:49.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GregstrsImporter_thumb-284x284-93e0a55182fc65d336ee8e424bbc5df2.png",
+      "md5": "93e0a55182fc65d336ee8e424bbc5df2",
+      "size": 7614,
+      "uploadedDate": "2024-03-27T19:27:49.300Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GregstrsImporter_featured-894x488-1c605cbaf7a568e363085a9197845456.png",
+      "md5": "1c605cbaf7a568e363085a9197845456",
+      "size": 321209,
+      "uploadedDate": "2024-03-27T19:27:49.437Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1UEmainscaled-1920x1080-83fe7e2677309c7bf9dacc3958974781_Snapshot.png",
+      "md5": "1860d3d7acc916b715525327fadf613c",
+      "size": 4826,
+      "uploadedDate": "2024-03-27T19:27:47.160Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2UEchoosefolderscaled-1920x1080-8d241632c2136e2443644051094fdba9_Snapshot.png",
+      "md5": "026d9959fa971dbc4da93947075f9f30",
+      "size": 5102,
+      "uploadedDate": "2024-03-27T19:27:47.665Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3UEimportedscaled-1920x1080-a3a1540198468d978ad3cd78963a543b_Snapshot.png",
+      "md5": "47148674b99e50f2b467459f1d161e8c",
+      "size": 5091,
+      "uploadedDate": "2024-03-27T19:27:48.231Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4UEdonescaled-1920x1080-6fbda7b9d1664e77d2247d5ada40f2b8_Snapshot.png",
+      "md5": "818af501e807f3c9a62a07d743f60f49",
+      "size": 6151,
+      "uploadedDate": "2024-03-27T19:27:48.859Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5UEsettingsscaled-1920x1080-5c3656dfea511315c0f1f939c0d135ea_Snapshot.png",
+      "md5": "561e03715b7e3f2c9ac5a2bbd99c38c2",
+      "size": 2529,
+      "uploadedDate": "2024-03-27T19:27:49.255Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5d692ea736bf4cfda24c9fbcba5c26e4"
+    }
+  ],
+  "catalogNs": null
+}

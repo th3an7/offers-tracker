@@ -1,0 +1,206 @@
+{
+  "id": "8e49faf0b0e947fcbf8839f2dfe1d4db",
+  "namespace": "ue",
+  "title": "System Mic Control",
+  "description": "Control microphone device in the system.",
+  "longDescription": "<p>Control physical microphone (recording) devices in the system (mmsys.cpl). Set volume, mute, boost for microphone and change default microphone device from UE project at runtime.</p><p><br /></p><p>Discord: Andrew Bindraw#9014</p><p>mrbindraw&#64;gmail.com</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "system-mic-control",
+  "creationDate": "2020-10-25T18:04:53.274Z",
+  "lastModifiedDate": "2024-10-16T19:36:04.174Z",
+  "effectiveDate": "2020-10-25T18:04:51.004Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vaydmfjex5zetcsum5fv95v67rlzcq",
+    "name": "Andrew Bindraw"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Set master volume and mute for default microphone device in the system</li><li>Set Increase/Decrease of level for microphone boost (if supported by device)</li><li>Get settings: volume, mute, boost, name, id for default microphone device in the system</li><li>Get a list of all enabled physical recording devices in the system from mmsys.cpl</li><li>Change default microphone device in the system from UE project (game relaunch required)</li></ul><p><br /></p><p>Check FREE example project for UEditor without sources (*.cpp)</p><p><a href=\"https://drive.google.com/drive/folders/1wY-BKU25UzTQfosj9fcnk_3Yk9YCIm2Q?usp&#61;drive_link\" rel=\"nofollow\"><strong>DemoSysMicControlEditor</strong></a></p><p><br /></p><p>Code Modules:</p><ul><li>SystemMicControl (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: No</p><p>Supported Platforms: Windows</p><p><br /></p><p>Documentation:</p><p><a href=\"https://docs.google.com/document/d/1f4oxyx62nUqJlzRWh1GH82JP05CQSrbp1fiLGXZs4zA/edit?usp&#61;sharing\" rel=\"nofollow\">Readme_SystemMicControl</a></p><p><br /></p><p>Example Project:</p><p><a href=\"https://drive.google.com/drive/folders/1LXc0STR-yqXG48ipwk_M2hnrq55G8jYI?usp&#61;drive_link\" rel=\"nofollow\"><strong>DemoSysMicControl</strong></a> (after buy)</p><p>Open mmsys.cpl and check Recording tab.</p><p><br /></p><p>All Plugins:</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Andrew&#43;Bindraw?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5262e4aa-d47e-4deb-b0c4-fd8e0e583ba8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY0-1920x1080-e032da2802c42e27c32b301f70ffc03b.png",
+      "md5": "e032da2802c42e27c32b301f70ffc03b",
+      "size": 375679,
+      "uploadedDate": "2020-10-24T18:09:45.670Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SystemMicControl_thumb-284x284-a3a9b81a640dffe055135c5e642956db.png",
+      "md5": "a3a9b81a640dffe055135c5e642956db",
+      "size": 92767,
+      "uploadedDate": "2020-10-24T18:09:45.934Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SystemMicControl_featured-894x488-52ab1c6fa99fdd2d6ed64eef93fc4454.png",
+      "md5": "52ab1c6fa99fdd2d6ed64eef93fc4454",
+      "size": 187729,
+      "uploadedDate": "2020-10-24T18:09:46.017Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0-1920x1080-e032da2802c42e27c32b301f70ffc03b_Snapshot.png",
+      "md5": "09b103a270df4aefff412a4c47435b33",
+      "size": 4206,
+      "uploadedDate": "2020-10-24T18:09:45.893Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3df27558436541b8aaae37e2c8fa28a1"
+    }
+  ],
+  "catalogNs": null
+}

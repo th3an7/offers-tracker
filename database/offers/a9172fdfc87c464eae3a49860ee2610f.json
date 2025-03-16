@@ -1,0 +1,371 @@
+{
+  "id": "a9172fdfc87c464eae3a49860ee2610f",
+  "namespace": "ue",
+  "title": "Universal Camera",
+  "description": "A flexible camera for your games!",
+  "longDescription": "<p>The Universal Camera is a flexible camera that can be used in a wide variety of games and architectural visualization.</p><p><br /></p><p><a href=\"https://heac01.github.io/docs/Universal-Camera/Introduction/\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p>Move around, rotate, edge scroll, screen slide, mouse drag, follow an actor, use the async traveling tasks...</p><p>You can tweak all of those tools in the camera defaults.</p><p><br /></p><p>Enable camera lag for smooth movement and rotations.</p><p>Enable auto-positioning for the camera to adapt to the terrain height.</p><p>Quickly set the boundaries in your level.</p><p>Try the <a href=\"https://1drv.ms/u/s!AhiJ5zgIv0iHhDHlWw9l3M5p2hHz?e&#61;apLvnr\" rel=\"nofollow\">demo</a>!</p><p><br /></p><p>I am willing to release multiple tools to help you work with the camera, so don’t hesitate to send me feedback and suggestions on what features you want to see implemented.</p><p>You can email me at <a href=\"mailto:heac.unreal&#64;gmail.com\" rel=\"nofollow\"><strong>heac.unreal&#64;gmail.com</strong></a><strong> </strong>or join the <a href=\"https://discord.gg/hASmT9Rhnr\" rel=\"nofollow\">Discord</a>.</p><p><br /></p><p><a href=\"https://1drv.ms/u/s!AhiJ5zgIv0iHhDHlWw9l3M5p2hHz?e&#61;apLvnr\" rel=\"nofollow\">Demo</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;1854Tua2UdY\" rel=\"nofollow\">Overview Video</a></p><p><a href=\"https://heac01.github.io/docs/Universal-Camera/Introduction/\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://discord.gg/hASmT9Rhnr\" rel=\"nofollow\">Discord (update notes &amp; discussion)</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "universal-camera",
+  "creationDate": "2021-06-19T16:16:31.863Z",
+  "lastModifiedDate": "2024-10-05T18:40:39.285Z",
+  "effectiveDate": "2021-06-19T16:16:31.810Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8bylv25z93turb8ge8f8k2lals8g4n",
+    "name": "Mathieu Jacq"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Quickly Enable / Disable features during runtime</li><li>Control Movement / Offset / Rotation / Zoom</li><li>Movement &amp; Zoom Scaling</li><li>Location / Offset / Rotation / Zoom Constraints / Quickly set the boundaries in your level</li><li>Terrain Height Adaptation</li><li>Edge Scrolling</li><li>Precise Mouse Drag</li><li>Rotate Around Pivot</li><li>Screen Sliding</li><li>Lag for smooth Movement / Offset / Rotation / Zoom</li><li>Async Traveling Functions</li><li>Placeholder Cameras to jump to target viewpoint</li><li>Follow Actor</li><li>Get the ideal Location and Zoom to get the focus view of an Actor depending on your Rotation</li><li>Save &amp; Load</li><li>A ton of settings to get the behavior that you want</li><li>Override some of the functions to implement your own logic</li></ul><p>Code Modules:</p><ul><li> Runtime</li></ul><p>Number of C&#43;&#43; Classes: 1</p><p>Supported Development Platforms: Win64 (Ask me if you want to see more platforms).</p><p>Supported Target Build Platforms: Win64 (Ask me if you want to see more platforms).</p><p><br /></p><p><a href=\"https://1drv.ms/b/s!AhiJ5zgIv0iHhDUTtt4YFznnpebR?e&#61;IfK8fr\" rel=\"nofollow\">Documentation</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5a3a096c-787f-4cb5-9d1c-98d847ec5d76"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UniversalCamera-1920x1080-3b10481995ed7d45839ac832244001d9.png",
+      "md5": "3b10481995ed7d45839ac832244001d9",
+      "size": 2336551,
+      "uploadedDate": "2022-07-02T14:03:21.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VideoInDescription-1920x1080-4c64ef497ec31007eaeb5b8917390448.png",
+      "md5": "4c64ef497ec31007eaeb5b8917390448",
+      "size": 1953779,
+      "uploadedDate": "2022-07-01T15:10:09.153Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyBlueprints-1920x1080-52e9273158ecdbe8f47656583be85f73.png",
+      "md5": "52e9273158ecdbe8f47656583be85f73",
+      "size": 1774931,
+      "uploadedDate": "2022-07-01T15:10:09.844Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Demo2-1920x1080-2ff68e566a4343288b8bb52a81313740.png",
+      "md5": "2ff68e566a4343288b8bb52a81313740",
+      "size": 2069277,
+      "uploadedDate": "2022-07-01T15:10:10.502Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DataDriven-1920x1080-79cc4c1b3ff24d9eee82b4a060be8f74.png",
+      "md5": "79cc4c1b3ff24d9eee82b4a060be8f74",
+      "size": 566262,
+      "uploadedDate": "2022-07-01T14:34:26.017Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CamTravelMontage-1920x1080-1d91ab430abae5df5422cb373e339378.png",
+      "md5": "1d91ab430abae5df5422cb373e339378",
+      "size": 315223,
+      "uploadedDate": "2023-01-02T13:59:20.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UniversalCamera_thumb-284x284-7c5f28633dc3baba1c501e25c2de9f32.png",
+      "md5": "7c5f28633dc3baba1c501e25c2de9f32",
+      "size": 125471,
+      "uploadedDate": "2023-01-17T17:30:22.238Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UniversalCamera_featured-894x488-6aa45f1a0db7bf47cffc8d1b5d1cca2b.png",
+      "md5": "6aa45f1a0db7bf47cffc8d1b5d1cca2b",
+      "size": 583491,
+      "uploadedDate": "2023-01-02T13:43:06.232Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CamTravelMontage-1920x1080-1d91ab430abae5df5422cb373e339378_Snapshot.png",
+      "md5": "729f4bddcdc4f3df49ea3eecc1091bf5",
+      "size": 3561,
+      "uploadedDate": "2023-01-02T13:59:21.000Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UniversalCamera-1920x1080-3b10481995ed7d45839ac832244001d9_Snapshot.png",
+      "md5": "c9a28f066eea4fdf07230fa5f139cbef",
+      "size": 8613,
+      "uploadedDate": "2022-07-02T14:03:21.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VideoInDescription-1920x1080-4c64ef497ec31007eaeb5b8917390448_Snapshot.png",
+      "md5": "4c790b68c14a11e58cead7d055d721a0",
+      "size": 7616,
+      "uploadedDate": "2022-07-01T15:10:09.578Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyBlueprints-1920x1080-52e9273158ecdbe8f47656583be85f73_Snapshot.png",
+      "md5": "20de67321d95f756e67eed7e4447cd53",
+      "size": 8057,
+      "uploadedDate": "2022-07-01T15:10:10.263Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Demo2-1920x1080-2ff68e566a4343288b8bb52a81313740_Snapshot.png",
+      "md5": "87946c9e8eb8e7b6de267e6d2cbb4f81",
+      "size": 5690,
+      "uploadedDate": "2022-07-01T15:10:10.899Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DataDriven-1920x1080-79cc4c1b3ff24d9eee82b4a060be8f74_Snapshot.png",
+      "md5": "8a4b550b300d1f32e494dbb96d4ec820",
+      "size": 4306,
+      "uploadedDate": "2022-07-01T14:34:26.332Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VideoInDescription-1920x1080-ecc8930a45483c6c7f48d3afe426a3ca_Snapshot.png",
+      "md5": "80e306579e8e6c7b05b6bbe45ba5229e",
+      "size": 7079,
+      "uploadedDate": "2022-07-01T14:33:57.182Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Blueprints2-1920x1080-801b63d808abb4efb01c2c84d6cb394c_Snapshot.png",
+      "md5": "cc804b29ca9301d5d0e984b5cb9c6ed7",
+      "size": 7859,
+      "uploadedDate": "2022-07-01T14:33:57.677Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Demo2-1920x1080-1705731f3d08c41ab7d54cc4474cfb05_Snapshot.png",
+      "md5": "6d843bcedc39ad8e4516c0cc3669f498",
+      "size": 5577,
+      "uploadedDate": "2022-07-01T14:33:58.316Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Inputs-1920x1080-0e92658dc73dd771779617d67aeff293_Snapshot.png",
+      "md5": "eb9733664f4c538f07a88c72645f2b37",
+      "size": 6783,
+      "uploadedDate": "2021-06-18T13:13:08.193Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Adaptive-1920x1080-2756ed415f5ef9199d5ae7af9d3ed99d_Snapshot.jpg",
+      "md5": "9af6427407f47d80846ba0009dcf99cf",
+      "size": 9124,
+      "uploadedDate": "2021-06-18T00:51:30.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Inputs-1920x1080-7c7709d54ad58f770c55c25705fe2619_Snapshot.jpg",
+      "md5": "2eedfb0a1a0dccb1704d54e5c1a12d80",
+      "size": 6747,
+      "uploadedDate": "2021-06-18T00:51:31.427Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Features-1920x1080-b0af42563ff07eeacdf79d725ce58dd9_Snapshot.jpg",
+      "md5": "5bea5dc84a0f3e116b3a084fceeca230",
+      "size": 6163,
+      "uploadedDate": "2021-06-18T00:51:32.180Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "abb1519fc5ac4ecdbfc6473f6c10f715"
+    }
+  ],
+  "catalogNs": null
+}

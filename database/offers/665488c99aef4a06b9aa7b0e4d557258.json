@@ -1,0 +1,284 @@
+{
+  "id": "665488c99aef4a06b9aa7b0e4d557258",
+  "namespace": "ue",
+  "title": "Physics Based Side Scroller Camera",
+  "description": "Collision-based camera system including room transitions. Works for any number and shape of rooms, with a single camera.",
+  "longDescription": "<p><a href=\"https://youtu.be/oa_k1DclSak\" rel=\"nofollow\">VIDEO</a></p><p><a href=\"https://youtu.be/a5Y_FKNyBI0\" rel=\"nofollow\">TUTORIAL</a></p><p><a href=\"https://docs.google.com/document/d/1Ektb9swRhXnSeEeRl-yHALrPI1y0MfbCN8uJOZpGjWA/edit?usp&#61;sharing\" rel=\"nofollow\">DOCUMENTATION</a></p><p><a href=\"https://github.com/PendingKill/SideScrollerCameraSampleProject\" rel=\"nofollow\">SAMPLE PROJECT</a></p><p><br /></p><p>This plugin provides a complete sidescroller camera system based on collision probes and blocking volumes. If the player goes near a wall and the probe hits a blocking volume, the camera stops moving any further, preventing the player from seeing beyond the room’s boundaries.</p><p><br /></p><p>Fully customizable:</p><ul><li>Rooms of any size and shape (i.e. non-rectangular rooms, sloping ceilings, hilly terrain). Not just boxes.</li><li>Collision distances in each direction</li><li>Collision channel</li><li>Camera offset</li><li>Distance from the character to the camera</li><li>Camera Lag and Camera Lag Speed</li></ul><p><br /></p><p>Also includes transitions with two varieties. Simply place our custom TransitionVolume and choose:</p><ul><li>Panning: camera follows the player as they travel between rooms.</li><li>Fading: camera will fade out as the player hits the entry point, and gets teleported to the exit. You can use horizontal, vertical, even diagonal orientations.</li><li>Transition logic is written in Blueprints for easy customization.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "physics-based-side-scroller-camera",
+  "creationDate": "2021-02-01T14:59:21.465Z",
+  "lastModifiedDate": "2024-10-15T07:14:48.597Z",
+  "effectiveDate": "2021-02-01T15:23:42.040Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yj8n8exfglwh8vxvsxbqp86jn4uwp5",
+    "name": "Pending Kill"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 2.5D Support, including projects based on the Side Scroller template (Note: character must traverse along Y and Z axes. Paper2D is currently not supported)</li><li> Block cameras using standard Camera Blocking Volumes</li><li> Place blocking volumes in any configuration</li><li>Adjustable camera transitions between rooms</li><li>Adjustable camera lag</li><li>Customize parameters in Blueprints</li></ul><p>Code Modules:</p><ul><li> SideScrollerDynamicCamera [Runtime]</li></ul><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win32, Win64, MacOS, Linux</p><p>Supported Target Build Platforms: Win32, Win64, MacOS, Linux, Android</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1Ektb9swRhXnSeEeRl-yHALrPI1y0MfbCN8uJOZpGjWA/edit?usp&#61;sharing\" rel=\"nofollow\">Docs Link</a>, <a href=\"https://youtu.be/a5Y_FKNyBI0\" rel=\"nofollow\">Video Link</a></p><p>Support: pendingkillgames&#64;gmail.com</p><p>Example Project: <a href=\"https://github.com/PendingKill/SideScrollerCameraSampleProject\" rel=\"nofollow\">GitHub Link</a></p><p>Important/Additional Notes: Character must traverse along Y and Z axes. Paper2D is currently not supported.</p><p>If migrating a UE4 project to UE5, reset the SideScrollerCameraActorchild actor in your character class by clearing the child actor class, compiling, then setting it back to SideScrollerCameraActor. There is a bug when migrating that will offset the camera from the character unless you reset the child actor.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "28a16b1a-1dd9-439b-a646-b82a97df18f5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sidescrollergallery1-1920x1080-19c0a8ba04345c4234adc5feef227e07.png",
+      "md5": "19c0a8ba04345c4234adc5feef227e07",
+      "size": 1857120,
+      "uploadedDate": "2021-01-30T19:09:57.303Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sidescrollergallery2-1920x1080-3cb35e72c81bac8439bb2e90e2fbc0a1.png",
+      "md5": "3cb35e72c81bac8439bb2e90e2fbc0a1",
+      "size": 1829279,
+      "uploadedDate": "2021-01-30T19:09:57.917Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sidescrollergallery3-1920x1080-4cdf86baf37b9593e2358260ba9a375b.png",
+      "md5": "4cdf86baf37b9593e2358260ba9a375b",
+      "size": 1650224,
+      "uploadedDate": "2021-01-30T19:09:58.478Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sidescrollergallery4-1920x1080-3ff8243676911cf0b8811ae57ba15ead.png",
+      "md5": "3ff8243676911cf0b8811ae57ba15ead",
+      "size": 651993,
+      "uploadedDate": "2021-01-30T19:09:59.029Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sidescrollergallery5-1920x1080-6e4db070d2b68cd91900e28bd1a55594.png",
+      "md5": "6e4db070d2b68cd91900e28bd1a55594",
+      "size": 359888,
+      "uploadedDate": "2021-01-30T19:09:59.451Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sidescrollergallery6-1920x1080-0e326d0678ee3a53260efa8ce5c5cfb5.png",
+      "md5": "0e326d0678ee3a53260efa8ce5c5cfb5",
+      "size": 186231,
+      "uploadedDate": "2021-01-30T19:09:59.825Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PhysicsBasedSideScrollerCamera_thumb-284x284-4f8bdf414cf2f0257944b6386f9b89a4.png",
+      "md5": "4f8bdf414cf2f0257944b6386f9b89a4",
+      "size": 76558,
+      "uploadedDate": "2021-01-30T19:10:00.187Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PhysicsBasedSideScrollerCamera_featured-894x488-88df5f1dd254a24149540be4518aee76.png",
+      "md5": "88df5f1dd254a24149540be4518aee76",
+      "size": 342165,
+      "uploadedDate": "2021-01-30T19:10:00.265Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sidescrollergallery1-1920x1080-19c0a8ba04345c4234adc5feef227e07_Snapshot.png",
+      "md5": "19339a03a1004702928d1bd9c4d56a71",
+      "size": 4429,
+      "uploadedDate": "2021-01-30T19:09:57.685Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sidescrollergallery2-1920x1080-3cb35e72c81bac8439bb2e90e2fbc0a1_Snapshot.png",
+      "md5": "6e7e85d1f5f5b12ff077bc2c6574b5c5",
+      "size": 4766,
+      "uploadedDate": "2021-01-30T19:09:58.289Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sidescrollergallery3-1920x1080-4cdf86baf37b9593e2358260ba9a375b_Snapshot.png",
+      "md5": "fe1e0c8f8d971daa50a9e9486e9bba41",
+      "size": 4406,
+      "uploadedDate": "2021-01-30T19:09:58.831Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sidescrollergallery4-1920x1080-3ff8243676911cf0b8811ae57ba15ead_Snapshot.png",
+      "md5": "f789b674053cecb0e42d355b1fec4abe",
+      "size": 6490,
+      "uploadedDate": "2021-01-30T19:09:59.329Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sidescrollergallery5-1920x1080-6e4db070d2b68cd91900e28bd1a55594_Snapshot.png",
+      "md5": "659157cf8e174460788e900a897e822c",
+      "size": 5257,
+      "uploadedDate": "2021-01-30T19:09:59.709Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sidescrollergallery6-1920x1080-0e326d0678ee3a53260efa8ce5c5cfb5_Snapshot.png",
+      "md5": "c2372c78834cf572a969b27c8602c8c2",
+      "size": 3664,
+      "uploadedDate": "2021-01-30T19:10:00.087Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ce216aa2b8874da280b82b92c855104f"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,212 @@
+{
+  "id": "c88050f7954648a39b8023158c248bd9",
+  "namespace": "ue",
+  "title": "Dynamic Rain Overlay",
+  "description": "Quickly add (and modify) rain on any material using this function!",
+  "longDescription": "<p><a href=\"https://youtu.be/jdUY3IxLnS0\" rel=\"nofollow\">https://youtu.be/jdUY3IxLnS0</a></p><p><br /></p><p>The Dynamic Rain Overlay system is a quick way to add dynamic rain effects to your materials. Simply hook this material function into your existing materials and edit Global Rain Amount material parameter to control the amount of rain.</p><p><br /></p><p>Comes with both animated and static impact droplets. And a macro wetness / puddle overlay.</p><p><br /></p><p>Tiling amounts, and intensity are all exposed, and can be easily tweaked for each material. Puddles will automatically smooth the normals of the geometry underneath, but this can easily be tweaked to the user&#39;s liking. In addition, world space tiling can be used on static objects to prevent seams on UV borders.</p><p><br /></p><p>All inputs are optional, and the material function has default values. You would only need to override this values when necessary.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dynamic-rain-overlay",
+  "creationDate": "2017-10-17T16:53:55.233Z",
+  "lastModifiedDate": "2024-10-08T19:51:01.188Z",
+  "effectiveDate": "2017-10-17T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-862deda8c64a88a81416f083f29d8a",
+    "name": "Emre Switzer"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2>Features: </h2><ul><li>Animated &amp; Static Impact Droplets</li><li>Global Rain Amount Material Parameter</li><li>Puddle Normal Smoothing</li><li>Directional Occlusion (only upwards facing pixels will receive rain. The bias and falloff for this can easily be tweaked)</li></ul><h2>Texture Resolutions: </h2><ul><li>2048 x 2048 (1 - Puddle Texture)</li><li>1024 x 1024 (3 - Droplets)</li></ul><p>Number of Materials: <strong>2 Material Functions</strong></p><p>Number of Textures: <strong>4 </strong></p><h2>Documentation: </h2><p>Basic Setup and Use: <a href=\"https://www.youtube.com/watch?v&#61;pwRNdddoTTs\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;pwRNdddoTTs</a></p><p><br /></p><p><strong>Intended for use on High End PC and Next Gen Consoles</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4d5b56e2-6b5c-4570-8185-640f4330e902"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-56ef23f7f24ff89cb0f7f6bbfac5d2db.jpg",
+      "md5": "56ef23f7f24ff89cb0f7f6bbfac5d2db",
+      "size": 1033265,
+      "uploadedDate": "2017-09-05T16:50:38.531Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-6385c13a386669dcc632a89c57df8688.jpg",
+      "md5": "6385c13a386669dcc632a89c57df8688",
+      "size": 615496,
+      "uploadedDate": "2017-09-05T16:50:38.783Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-bc5e7b3d9c2f7a23bd6d2ae6d1a6eed4.jpg",
+      "md5": "bc5e7b3d9c2f7a23bd6d2ae6d1a6eed4",
+      "size": 836985,
+      "uploadedDate": "2017-09-05T16:50:39.003Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-814c6f9058311807bf027da7a0f58712.jpg",
+      "md5": "814c6f9058311807bf027da7a0f58712",
+      "size": 410646,
+      "uploadedDate": "2017-09-05T16:30:48.782Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DynamicRainOverlay_thumb-284x284-a3f72adeb8883bc09d3e996cd46b73a1.png",
+      "md5": "a3f72adeb8883bc09d3e996cd46b73a1",
+      "size": 106240,
+      "uploadedDate": "2017-09-05T17:21:52.016Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DynamicRainOverlay_featured-894x488-bc21dd8acf5eeadf16bbc76bfdfb4cfe.png",
+      "md5": "bc21dd8acf5eeadf16bbc76bfdfb4cfe",
+      "size": 531949,
+      "uploadedDate": "2017-09-05T17:21:52.171Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "b2012404eec84857bddd1de6e39dac27"
+    }
+  ],
+  "catalogNs": null
+}

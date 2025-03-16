@@ -1,0 +1,182 @@
+{
+  "id": "294bebf1d7c2459a913365d1281e25aa",
+  "namespace": "ue",
+  "title": "VR Hands Solver",
+  "description": "Hand and arm solver for VR, and universal fingers solver to capture fingers animation.",
+  "longDescription": "<p>The plugin includes two components and one animation node.</p><ol><li>Custom <strong>Hand Skeletal Mesh</strong> component for implementing hands in VR. Fingers solver allow to switch between fingers poses, to trace world to grab objects, to receive input from Oculus Touch/Valve Knuckles/VR gloves (with 1 DOF). It supports skeletal meshes with or without arm bones. <u>See documentation for skeleton requirements</u>.</li><li><strong>Body Solver</strong>, actor component to predict spine orientation. it&#39;s responsible for shoulders placement and hands scaling. Requires two-steps body calibration.</li><li><strong>Fingers Solver</strong>: animation node to control humanoid fingers at any skeletal mesh (including full-body models). It works as a separate system and isn&#39;t needed for <strong>Hand Skeletal Mesh</strong> component, but useful to implement unified input from motion controllers with fingers tracking (Oculus Touch, Valve Knuckles) or VR gloves.</li></ol><p><br /></p><p>Fingers Solver also can be used to capture fingers animationin Unreal Editor and blend it to existing full-body animation.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;El1ImJ0Bf9U\" rel=\"nofollow\">Video #1</a> | <a href=\"https://www.youtube.com/watch?v&#61;UCDDIto2xmA\" rel=\"nofollow\">Video #2</a> (demo with Valve Knuckles) | <a href=\"https://www.youtube.com/watch?v&#61;ltirUEGiKeU\" rel=\"nofollow\">Video #3</a> (OpenXR features)</p><p><a href=\"https://www.youtube.com/watch?v&#61;0cW9yifwcTE\" rel=\"nofollow\">Video tutorial: Fingers Solver for any skeletal mesh</a></p><p>Video: <a href=\"https://www.youtube.com/watch?v&#61;OeeNxiUspHw\" rel=\"nofollow\">Fingers mocap in Unreal Editor</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vr-hands-solver",
+  "creationDate": "2018-12-27T13:07:58.516Z",
+  "lastModifiedDate": "2024-10-15T16:43:08.596Z",
+  "effectiveDate": "2018-12-27T13:07:58.480Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8ba954a7a34115b5479ff854fbfe78",
+    "name": "Yuri N Kalinin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>input from VR gloves and controllers with fingers tracking</li><li>arms prediction works in room space VR (360 degrees tracking)</li><li>easy setup of finger poses</li><li>fingers tracing to grab objects</li><li>supports mirrored skeletal meshes</li></ul><p><strong>Code Modules:</strong></p><ul><li>VRHandsSolver (Runtime) </li><li>VRHandsSolverEditor (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 4</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows x64, Linux</p><p>Supported Target Build Platforms: Windows x64, Linux, Android (Oculus Quest)</p><p>Documentation: <a href=\"https://drive.google.com/open?id&#61;18_8C0msxjulwfBNc7BZPCwnBtskz2Qig\" rel=\"nofollow\">PDF</a> | <a href=\"https://www.youtube.com/playlist?list&#61;PLl4Fsvk8JAxJj8SONL5SUqrk1xPX8OMm7\" rel=\"nofollow\">Fingers Mocap</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1Pc4_TLOpgb8JSbxdtzzfkNnYpfAIeXJe/view?usp&#61;sharing\" rel=\"nofollow\">5.2-5.4</a> | <a href=\"https://drive.google.com/file/d/1zeHCj4H36UIZahl5UPp7Rk2KY6vgPgiE/view?usp&#61;share_link\" rel=\"nofollow\">5.1</a> | <a href=\"https://drive.google.com/file/d/1_fMu8fVPoQo-iofrqkmHLr79NbkWPfy4/view?usp&#61;sharing\" rel=\"nofollow\">4.27&#43;</a> | <a href=\"https://github.com/AntiAnti/FingersMocapMP/releases\" rel=\"nofollow\">Fingers Mocap 5.2</a></p><p>Executable Demo: <a href=\"https://drive.google.com/file/d/1SaypupKRG1URDBWpQ_RBfvEz0_7bB5Jf/view?usp&#61;sharing\" rel=\"nofollow\">ZIP</a></p><p>Important/Additional Notes: Known issue - upperarms can jump around with late update enabled in motion controllers.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3c0c1557-e3de-4fdd-8f79-baf8343c4ece"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr00-1920x1080-0073366928de69a0ed689b80cff0c652.jpg",
+      "md5": "0073366928de69a0ed689b80cff0c652",
+      "size": 463009,
+      "uploadedDate": "2018-12-12T15:43:59.907Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr01-1920x1080-851b3ed51e5282f4a929af2b5462e73f.jpg",
+      "md5": "851b3ed51e5282f4a929af2b5462e73f",
+      "size": 568422,
+      "uploadedDate": "2018-12-12T15:44:00.123Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr02-1920x1080-9ed153a72ca965686d93ee6865d2539b.jpg",
+      "md5": "9ed153a72ca965686d93ee6865d2539b",
+      "size": 476949,
+      "uploadedDate": "2018-12-12T15:44:00.349Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr03-1920x1080-c3464cd58ffeb0878f064cccb7b42637.jpg",
+      "md5": "c3464cd58ffeb0878f064cccb7b42637",
+      "size": 478041,
+      "uploadedDate": "2018-12-12T15:44:00.655Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr05-1920x1080-4a8b696b0e9e73a1994f8cebe5cb2019.jpg",
+      "md5": "4a8b696b0e9e73a1994f8cebe5cb2019",
+      "size": 541518,
+      "uploadedDate": "2018-12-12T15:44:00.882Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VRHandsSolver_thumb-284x284-9b96f92744665aad36b01b72d97de61d.png",
+      "md5": "9b96f92744665aad36b01b72d97de61d",
+      "size": 136902,
+      "uploadedDate": "2018-12-12T15:44:01.069Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VRHandsSolver_featured-894x488-3ee5c3177ca8a84e5a5c6770287c14cc.png",
+      "md5": "3ee5c3177ca8a84e5a5c6770287c14cc",
+      "size": 523130,
+      "uploadedDate": "2018-12-12T15:44:01.234Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr00-1920x1080-0073366928de69a0ed689b80cff0c652_Snapshot.jpg",
+      "md5": "0c6eaf3a91454f36141fe61f9a0e8530",
+      "size": 2544,
+      "uploadedDate": "2018-12-12T15:44:00.038Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr01-1920x1080-851b3ed51e5282f4a929af2b5462e73f_Snapshot.jpg",
+      "md5": "a82b4ca1814d939d52911e3e229f3df1",
+      "size": 3162,
+      "uploadedDate": "2018-12-12T15:44:00.261Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr02-1920x1080-9ed153a72ca965686d93ee6865d2539b_Snapshot.jpg",
+      "md5": "d6536a196d88858247064e15854e06a4",
+      "size": 2518,
+      "uploadedDate": "2018-12-12T15:44:00.532Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr03-1920x1080-c3464cd58ffeb0878f064cccb7b42637_Snapshot.jpg",
+      "md5": "e308a332a71bd12fdf484d3149d9261b",
+      "size": 2481,
+      "uploadedDate": "2018-12-12T15:44:00.778Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr05-1920x1080-4a8b696b0e9e73a1994f8cebe5cb2019_Snapshot.jpg",
+      "md5": "3e8ca1534129230f55e6a93500161c7f",
+      "size": 3184,
+      "uploadedDate": "2018-12-12T15:44:01.004Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "18ad28594a104db1bb37186747d14ff2"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,332 @@
+{
+  "id": "3fc7531ad96d4ea18100f5f3b3c49ae8",
+  "namespace": "ue",
+  "title": "SmoothLODCreator",
+  "description": "The plugin allows to create a smooth transition between mesh LODs",
+  "longDescription": "<p>Video TestScene: <a href=\"https://youtube.com/watch?v&#61;6Cj91C5tCvg\" rel=\"nofollow\"><strong>youtube.com/watch?v&#61;6Cj91C5tCvg</strong></a></p><p>Video2 TestScene: <a href=\"https://www.youtube.com/watch?v&#61;2B2ALZWcqAE\" rel=\"nofollow\">youtube.com/watch?v&#61;2B2ALZWcqAE</a></p><p>Tutorial 1: <a href=\"https://www.youtube.com/watch?v&#61;jBtugzTSrwQ\" rel=\"nofollow\">youtube.com/watch?v&#61;jBtugzTSrwQ</a></p><p><br /></p><p>Projects often contain meshes in which different Levels Of Details (LOD) differ in size and color. If the LOD change happens instantly and the change in color and size becomes visible it is highly annoying. The plugin allows to create a smooth transition between mesh LODs.</p><p>The Plugin creates the smooth transition for Static Meshes and for Instanced Static Meshes (foliage, etc.)</p><p>The smooth transition in many cases allows to output low-level LODs at a closer distance.</p><p>The plugin allows to automatically calculate screen sizes for LODs and modify the material for correct smoothing when changing LODs. To get better smoothing when LOD is changing you can adjust manually the screen size for smoothLOD and parameters for smoothLOD materials.</p><p>In addition, the materials given in the plugin can be useful for a smooth dissolution of the last LOD, which allows you to start drawing models at closer distances. This function will also be useful if there is fog on the scene.</p><p>This plugin is a good example to learn how to programmatically generate LODs for meshes and modify materials in UE4 engine.</p><p>The system with smoothed LODs also significantly improves the situation with the display of different LODs for the left and right eyes in virtual reality glasses</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smoothlodcreator",
+  "creationDate": "2018-08-30T17:59:33.269Z",
+  "lastModifiedDate": "2024-10-15T09:58:54.958Z",
+  "effectiveDate": "2018-08-30T17:59:33.217Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-b71d45bc244326a6f9932318159891",
+    "name": "SforT"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p><strong>Features:</strong></p><p><strong>Functions for LODs:</strong></p><p>- Create smooth LOD</p><p>- Update materials by screen size</p><p>- Add smooth LOD</p><p>- Get LODs screen size</p><p><strong>Functions for meshes:</strong></p><p>- Mesh data details and property view</p><p>- Create mesh</p><p><strong>Functions for materials:</strong></p><p><strong>! This version of the plugin does not work with instance materials yet !</strong></p><p>- Create and set materials</p><p>- Edit material</p><p>- Set distance params</p><p>Functions for log.</p><p>Functions for widget.</p><p><br /></p><p>The plugin is designed for UE4Editor</p><p>Number of C&#43;&#43; Classes: 5</p><p><br /></p><p>Supported Development Platforms: Win32, Win64, Linux</p><p>Supported Target Build Platforms: Win32, Win64, Linux</p><p><br /></p><p>Documentation: Instructions for working with the plugin https://www.youtube.com/watch?v&#61;jBtugzTSrwQ</p><p>If you bought this plugin you can email us and we will send you the Demo Project</p><p>sciencetech.contact&#64;gmail.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "40d1f4da-066c-41df-9a83-1235b7e8bead"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SmoothLOD-1920x1080-20ad69563d78561c60efe613a1e496b5.png",
+      "md5": "20ad69563d78561c60efe613a1e496b5",
+      "size": 1025384,
+      "uploadedDate": "2018-11-21T21:43:13.006Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SmoothLODCreatorGallery1-1920x1080-a3d75df2e1d396989a02f37492494cb9.png",
+      "md5": "a3d75df2e1d396989a02f37492494cb9",
+      "size": 2593858,
+      "uploadedDate": "2018-08-23T23:33:52.032Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SmoothLODCreatorGallery2-1920x1080-df07025dbad60eaa6415ae9414d6c7e6.png",
+      "md5": "df07025dbad60eaa6415ae9414d6c7e6",
+      "size": 1183999,
+      "uploadedDate": "2018-08-23T23:33:52.471Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SmoothLODCreator_thumb-284x284-6df87966a7a438a442f5164aac9dc5c9.png",
+      "md5": "6df87966a7a438a442f5164aac9dc5c9",
+      "size": 132808,
+      "uploadedDate": "2018-08-23T23:07:00.753Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SmoothLODCreator_featured-894x488-431371879701e1199cef1a027e4ab25c.png",
+      "md5": "431371879701e1199cef1a027e4ab25c",
+      "size": 597008,
+      "uploadedDate": "2018-08-23T23:07:00.830Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothLOD-1920x1080-20ad69563d78561c60efe613a1e496b5_Snapshot.png",
+      "md5": "b2f2e8773a1acb849221640634628692",
+      "size": 17369,
+      "uploadedDate": "2018-11-21T21:43:13.261Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothLODCreatorGallery1-1920x1080-a3d75df2e1d396989a02f37492494cb9_Snapshot.png",
+      "md5": "52cc1d33368cdf5f1e6bc0a76145dc77",
+      "size": 23431,
+      "uploadedDate": "2018-08-23T23:33:52.330Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothLODCreatorGallery2-1920x1080-df07025dbad60eaa6415ae9414d6c7e6_Snapshot.png",
+      "md5": "f5374a20946bfb539457627824607f6f",
+      "size": 13905,
+      "uploadedDate": "2018-08-23T23:33:52.731Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothLODCreatorGallery2-1920x1080-f85750fbca4449d273835e976e4034d8_Snapshot.png",
+      "md5": "4c9c4a2f34f1a6c268f899910ec61c15",
+      "size": 11935,
+      "uploadedDate": "2018-08-23T23:07:00.233Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothLODCreatorGallery1-1920x1080-2fb1763700e1c30c89f726eb2c03495a_Snapshot.png",
+      "md5": "074e10eb3e2af0b4e1640320045e8ed1",
+      "size": 22788,
+      "uploadedDate": "2018-08-23T23:07:00.703Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8714af797ddc45899f0c18b8bf97c2a7"
+    }
+  ],
+  "catalogNs": null
+}

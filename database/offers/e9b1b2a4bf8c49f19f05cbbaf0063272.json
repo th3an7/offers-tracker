@@ -1,0 +1,194 @@
+{
+  "id": "e9b1b2a4bf8c49f19f05cbbaf0063272",
+  "namespace": "ue",
+  "title": "Modular Characters Blueprint",
+  "description": "Create modular randomised characters (meshes, materials and materials parameters) with a powerful blueprint system.",
+  "longDescription": "Preview: <a href=\"https://www.youtube.com/watch?v&#61;Wg-Kziqiwu0\" rel=\"nofollow\">youtube.com/watch?v&#61;Wg-Kziqiwu0</a><br /><br />Now with a new modular human example! Includes 2 heads with many different clothes.<br /><br />Use this modular character system to easily set up your characters in-game to randomise meshes, materials and material parameters.<br /><br />This blueprint system is useful for diversifying enemies, creating unique crowds and making customisable player characters for your game.<br /><br />Features: <br />• Endless modularity. There is no limit to what characters can be made from. Whether you are making humans, animals, tanks or spaceships, the number of modular slots are infinite. <br />• Includes a robot character example with a number of modular parts (heads, arms, legs) held together by a common chassis.<br />• Supports multiple randomised materials and exposed material parameters, allowing you to easily create modular material setups using Colours, Scalars and Texture2D parameters. <br />• The blueprint system is organised, properly commented and comes with a step-by-step tutorial PDF on how to implement a modular character, using both a robot and a human character as examples. <br />• Allows synchronised common parameters between modular parts and independent randomisation for keeping mesh styles or material/colour styles as consistent or inconsistent as you please. <br />• Start this project as a base project from scratch or migrate the system to your own project and start making your characters modular!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modular-characters-blueprint",
+  "creationDate": "2016-04-14T19:29:08.757Z",
+  "lastModifiedDate": "2024-10-09T09:21:11.716Z",
+  "effectiveDate": "2016-04-27T00:00:00.000Z",
+  "viewableDate": "2016-04-27T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7e44cb3a94494090cd4d25d7c5d41c",
+    "name": "Regan Ware"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "• (3) Blueprints, one master modular character blueprint and two example children (Modular Robot and Modular Human) <br />• Base slot using inherited mesh from pawn class to drive anims <br />• Any number of additional slots <br />• Slots to populated by possible elements <br />• Possible elements contain a mesh, any number of materials and material parameters <br />• Possible elements are chosen randomly <br />• Each possible element chooses material and parameter values randomly<br /><br />Example Robot: <br />• (9) Skeletal Meshes <br />• (3) Materials <br />• (16) 2k Textures<br /><br />Example Human<br /><br />• (15) Skeletal Meshes<br /><br />• (12) Materials<br /><br />• (54) 512-2k textures<br /><br />• (1) Skeleton<br />• (1) Idle Animation<br />• (1) Demo level<br /><br />Intended Platforms: Windows<br />Platforms Tested: Windows<br />Documentation Included: Yes",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1253",
+      "name": "PSYCHEDELIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:24.178Z",
+      "updated": "2019-06-20T12:00:24.178Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "acd9c6e9-fc0c-4e47-82f5-0ccb696a012f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_Screenshot1-1920x1080-cba0186b9564450f8ffb67ece53dc46d.png",
+      "md5": "cba0186b9564450f8ffb67ece53dc46d",
+      "size": 630711,
+      "uploadedDate": "2016-04-14T19:27:45.375Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_Screenshot2-1920x1080-82185eeb9c5a4e9d5153546635e58cff.png",
+      "md5": "82185eeb9c5a4e9d5153546635e58cff",
+      "size": 672942,
+      "uploadedDate": "2016-04-14T19:27:42.315Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_Screenshot3-1920x1080-5153f0c9faec562fd8bf7f86d7ef6599.png",
+      "md5": "5153f0c9faec562fd8bf7f86d7ef6599",
+      "size": 692279,
+      "uploadedDate": "2016-04-14T19:27:40.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_Screenshot4-1920x1080-6be1f670022a8067a9e46f46708a02f3.png",
+      "md5": "6be1f670022a8067a9e46f46708a02f3",
+      "size": 733607,
+      "uploadedDate": "2016-04-14T19:27:38.062Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_Screenshot5-1920x1080-9ff82e24410a09beb5f3cf1363107e37.png",
+      "md5": "9ff82e24410a09beb5f3cf1363107e37",
+      "size": 349610,
+      "uploadedDate": "2016-04-14T19:27:35.749Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_Thumb-284x284-d5dc722cf080a8584353b6bc8c599b10.png",
+      "md5": "d5dc722cf080a8584353b6bc8c599b10",
+      "size": 108929,
+      "uploadedDate": "2016-06-23T14:43:23.317Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_Featured-476x246-706f771eb194ecdc6c8a8011853d9395.png",
+      "md5": "706f771eb194ecdc6c8a8011853d9395",
+      "size": 155939,
+      "uploadedDate": "2016-06-23T14:43:21.333Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularCharactersBlueprint_FeaturedNew-894x488-371064847c7340f1d845bfa0c671c221.png",
+      "md5": "371064847c7340f1d845bfa0c671c221",
+      "size": 574341,
+      "uploadedDate": "2016-04-14T19:27:47.271Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "7982feaad50842889552d0ea4b0d65ef"
+    }
+  ],
+  "catalogNs": null
+}

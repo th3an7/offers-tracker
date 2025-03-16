@@ -1,0 +1,374 @@
+{
+  "id": "0cfbb571d05545c3b248d88f8fcb2a55",
+  "namespace": "ue",
+  "title": "Niagara Death Effect",
+  "description": "Dissolve&Death Effects of Skeletal and Static meshes with Niagara.",
+  "longDescription": "<p>Skeletal Mesh and Static Mesh Dissolve Effects controlled by Niagara and Material Instance parameters.</p><p>If you want to use it with a custom mesh, you need to check &#34;<strong><u>Allow CPUAccess</u></strong>&#34; in the detail panel of the mesh.</p><p><strong>Preview : </strong><a href=\"https://youtu.be/fYNJqqCHCyw\" rel=\"nofollow\">https://youtu.be/fYNJqqCHCyw</a></p><p>Use Niagara Effect in <strong>Sequencer - Use Blueprint </strong>: <a href=\"https://youtu.be/5QUorXH-dVM\" rel=\"nofollow\">https://youtu.be/5QUorXH-dVM</a></p><p><strong>-------------------------------------------------------------------------------------------------------------------------</strong></p><p>Click <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/AlexHuang?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\"><strong>My Marketplace</strong></a> to view all of my products. Hope you enjoy it!</p><p>You can also join my <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://www.patreon.com/A1exHuang\" rel=\"nofollow\">patreon</a>, I often share some interesting projects there.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "niagara-dissolve-effect-part-1",
+  "creationDate": "2022-09-08T23:37:32.036Z",
+  "lastModifiedDate": "2024-10-22T14:38:24.417Z",
+  "effectiveDate": "2022-09-08T23:37:31.965Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wblm7rla57jupc8a8fftwrm9fj5h4x",
+    "name": "AlexHuang"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Type of Emitters: GPU</p><p>Number of Unique Effects: 7</p><p>Number of Materials: 20</p><p>Number of Textures: 8</p><p>Number of Blueprints: 10</p><p>Number of Unique Meshes: 6</p><p>Supported Development Platforms:</p><p>Windows: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a556b9fe-75ed-42ff-9a9b-c140edaa4f47"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-4a60a25ce11ccea456baa940ab38b8a4.png",
+      "md5": "4a60a25ce11ccea456baa940ab38b8a4",
+      "size": 1951342,
+      "uploadedDate": "2022-09-07T15:36:54.566Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-484874e1ce6f612506d0af3746b70cb9.png",
+      "md5": "484874e1ce6f612506d0af3746b70cb9",
+      "size": 1339104,
+      "uploadedDate": "2022-09-07T15:36:52.460Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-86fbda4b784f1fda4ceedfdd71f2df94.png",
+      "md5": "86fbda4b784f1fda4ceedfdd71f2df94",
+      "size": 886911,
+      "uploadedDate": "2022-09-07T15:36:53.079Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-f329c4fe5fb9217a912de52d8b1dfa4f.png",
+      "md5": "f329c4fe5fb9217a912de52d8b1dfa4f",
+      "size": 570353,
+      "uploadedDate": "2022-09-07T15:36:53.540Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-773948e62fb306785fc84b231a0ac613.png",
+      "md5": "773948e62fb306785fc84b231a0ac613",
+      "size": 561740,
+      "uploadedDate": "2022-09-07T15:36:54.036Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-cf287d69f3f47892bbddd84b575a7ab0.png",
+      "md5": "cf287d69f3f47892bbddd84b575a7ab0",
+      "size": 692264,
+      "uploadedDate": "2022-09-07T15:36:55.180Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-37fdc293c5275959a386c16e04a29072.png",
+      "md5": "37fdc293c5275959a386c16e04a29072",
+      "size": 560758,
+      "uploadedDate": "2022-09-07T15:36:55.587Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NiagaraDeathDissolveEffectPart1_thumb-284x284-23ff41b6c3ba9bbf3ea895069a746748.png",
+      "md5": "23ff41b6c3ba9bbf3ea895069a746748",
+      "size": 155683,
+      "uploadedDate": "2022-09-12T03:19:15.672Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NiagaraDissolveEffect1_featured-894x488-070188822ac8c66ed16232cdc5e05adf.png",
+      "md5": "070188822ac8c66ed16232cdc5e05adf",
+      "size": 527116,
+      "uploadedDate": "2022-09-07T15:36:56.090Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-484874e1ce6f612506d0af3746b70cb9_Snapshot.png",
+      "md5": "2258056d80a04c607ddfbd3a9abb0f78",
+      "size": 5719,
+      "uploadedDate": "2022-09-07T15:36:52.857Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-86fbda4b784f1fda4ceedfdd71f2df94_Snapshot.png",
+      "md5": "59c11ddf6d025d9e9a0837bfe40d47d7",
+      "size": 4577,
+      "uploadedDate": "2022-09-07T15:36:53.426Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-f329c4fe5fb9217a912de52d8b1dfa4f_Snapshot.png",
+      "md5": "bec2aee58e14559955c938037b852ce1",
+      "size": 4478,
+      "uploadedDate": "2022-09-07T15:36:53.855Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-773948e62fb306785fc84b231a0ac613_Snapshot.png",
+      "md5": "a90d7d7242c09ee4a43af9a3475af780",
+      "size": 4579,
+      "uploadedDate": "2022-09-07T15:36:54.324Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-4a60a25ce11ccea456baa940ab38b8a4_Snapshot.png",
+      "md5": "16eb4cdc486b5d8c19848faa9726f314",
+      "size": 8571,
+      "uploadedDate": "2022-09-07T15:36:55.011Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-cf287d69f3f47892bbddd84b575a7ab0_Snapshot.png",
+      "md5": "c58d2ee84919f1fa534f0e99c801ce7d",
+      "size": 5057,
+      "uploadedDate": "2022-09-07T15:36:55.481Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-37fdc293c5275959a386c16e04a29072_Snapshot.png",
+      "md5": "d8bb342ff5d36d1e06eea690776a877e",
+      "size": 4726,
+      "uploadedDate": "2022-09-07T15:36:55.921Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ab1e69bb87e7408490c02e3182ce0117"
+    }
+  ],
+  "catalogNs": null
+}

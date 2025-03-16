@@ -1,0 +1,308 @@
+{
+  "id": "b88abab9ae674f4cac80a47019cb0da5",
+  "namespace": "ue",
+  "title": "Shadow Mocap Plugin",
+  "description": "Shadow is the easy to use, portable motion capture suit for live performance. This plugin enables live-streaming of character animation from the Shadow motion capture system into Unreal Engine.",
+  "longDescription": "<p>Preview with Epic Skeleton: <a href=\"https://youtu.be/ex4O4kiL840\" rel=\"nofollow\">youtu.be/ex4O4kiL840</a></p><p><br /></p><p>Preview with Shadow Skeleton: <a href=\"https://youtu.be/1MH4SJwtLDE\" rel=\"nofollow\">youtu.be/1MH4SJwtLDE</a></p><p><br /></p><p>The Shadow Mocap plugin allows you to apply full-body motion capture animation to your character in real time. Simply place our animation node in your blueprint to start live streaming mocap data.</p><p><br /></p><p>Use the plugin to record animation live in your level with instant visual feedback. Create cutting edge, immersive experiences in virtual reality and augmented reality. Use the power of the Unreal Engine to previsualize shots and motion sequences at unprecedented quality.</p><p><br /></p><p>The Shadow Mocap plugin performs live retargeting to the Epic skeleton, so it is compatible with most characters available in the Unreal Marketplace.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shadow-mocap-plugin",
+  "creationDate": "2016-10-13T14:29:22.806Z",
+  "lastModifiedDate": "2024-10-15T03:28:52.732Z",
+  "effectiveDate": "2016-11-17T00:00:00.000Z",
+  "viewableDate": "2016-11-17T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2f2b7c6f1e4de5a42bbdb7f43ddd4b",
+    "name": "Motion Workshop"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>This plugin contains an animation graph node that can be used in your Animation Blueprint. Place the Shadow Mocap node in your AnimGraph to apply the live animation to your character.</p><p><br /></p><p>This plugin requires a <a href=\"https://www.motionshadow.com\" rel=\"nofollow\">Shadow Motion Capture System</a>. Your character must be rigged to either the Epic skeleton or a skeleton that matches the one used in the Shadow software.</p><p><br /></p><p>You can stream from multiple Shadow mocap systems simultaneously and choose which Shadow animation to apply to your character.</p><p><br /></p><p>Example Project: <a href=\"https://www.motionshadow.com/download/media/ShadowMocapExample.zip\" rel=\"nofollow\">motionshadow.com/download/media/ShadowMocapExample.zip</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2123abf8-4ff2-4a06-8312-7e74ea3a0025"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainimagecomp-1920x1080-80ffff925a22f8b0feb923f86a9dbf7e.jpg",
+      "md5": "80ffff925a22f8b0feb923f86a9dbf7e",
+      "size": 304932,
+      "uploadedDate": "2022-03-16T21:25:42.445Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshotwizard-1920x1080-bcd5964dce898e6dc60e874c327fd5e3.png",
+      "md5": "bcd5964dce898e6dc60e874c327fd5e3",
+      "size": 1051677,
+      "uploadedDate": "2022-03-16T21:25:43.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshotsoldier-1920x1080-84856411dfaa9fc7edcfb01fae7857ed.png",
+      "md5": "84856411dfaa9fc7edcfb01fae7857ed",
+      "size": 1015989,
+      "uploadedDate": "2022-03-16T21:25:43.663Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshotsoulcity-1920x1080-66ff324e6308100c2f4e2f5e98d99b52.png",
+      "md5": "66ff324e6308100c2f4e2f5e98d99b52",
+      "size": 1406851,
+      "uploadedDate": "2022-03-16T21:25:44.178Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshotwraitheditor-1920x1080-57f861dc35a3200122ff25283c7e8918.png",
+      "md5": "57f861dc35a3200122ff25283c7e8918",
+      "size": 1340199,
+      "uploadedDate": "2022-03-16T21:25:44.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshotpluginswindow-1920x1080-f5bf827e01bfb909ac3ba41728a054cc.png",
+      "md5": "f5bf827e01bfb909ac3ba41728a054cc",
+      "size": 566873,
+      "uploadedDate": "2022-03-16T21:25:45.138Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshotanimblueprint-1920x1080-f0e427508b9faf001ce28bbfd9e3edb4.png",
+      "md5": "f0e427508b9faf001ce28bbfd9e3edb4",
+      "size": 694213,
+      "uploadedDate": "2022-03-16T21:25:45.578Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ShadowMocap_screenshot_2-1920x1080-3c65dbe53c26cf91ce04633cbb7cb3cb.png",
+      "md5": "3c65dbe53c26cf91ce04633cbb7cb3cb",
+      "size": 699505,
+      "uploadedDate": "2016-10-13T14:28:33.811Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ShadowMocap_Thumb-284x284-96d5688301298d21e492956ebf471d38.png",
+      "md5": "96d5688301298d21e492956ebf471d38",
+      "size": 3833,
+      "uploadedDate": "2016-10-13T14:28:19.988Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShadowMocapPlugin_featured-894x488-258cf0c08daa0a1aaac881b675645d99.png",
+      "md5": "258cf0c08daa0a1aaac881b675645d99",
+      "size": 455043,
+      "uploadedDate": "2022-03-16T21:25:45.969Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainimagecomp-1920x1080-80ffff925a22f8b0feb923f86a9dbf7e_Snapshot.jpg",
+      "md5": "bcd98105fb25e556e270fe4b0fe63010",
+      "size": 7307,
+      "uploadedDate": "2022-03-16T21:25:42.966Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshotwizard-1920x1080-bcd5964dce898e6dc60e874c327fd5e3_Snapshot.png",
+      "md5": "cd812dccf79a707f93d61025d65af5d9",
+      "size": 6185,
+      "uploadedDate": "2022-03-16T21:25:43.472Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshotsoldier-1920x1080-84856411dfaa9fc7edcfb01fae7857ed_Snapshot.png",
+      "md5": "b217daf46e59d35e40d895ef8083ce66",
+      "size": 6262,
+      "uploadedDate": "2022-03-16T21:25:43.968Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshotsoulcity-1920x1080-66ff324e6308100c2f4e2f5e98d99b52_Snapshot.png",
+      "md5": "c69555301d6b4e1b8f170d1680dc4629",
+      "size": 6967,
+      "uploadedDate": "2022-03-16T21:25:44.513Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshotwraitheditor-1920x1080-57f861dc35a3200122ff25283c7e8918_Snapshot.png",
+      "md5": "9701398f048a756261d4f1b642df78e9",
+      "size": 7575,
+      "uploadedDate": "2022-03-16T21:25:45.011Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshotpluginswindow-1920x1080-f5bf827e01bfb909ac3ba41728a054cc_Snapshot.png",
+      "md5": "b080dc44392b4aae25ef69bf4666fa3a",
+      "size": 6102,
+      "uploadedDate": "2022-03-16T21:25:45.403Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshotanimblueprint-1920x1080-f0e427508b9faf001ce28bbfd9e3edb4_Snapshot.png",
+      "md5": "9daee7ce1d2e57e4ef5161011bd76e41",
+      "size": 5431,
+      "uploadedDate": "2022-03-16T21:25:45.850Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/ShadowMocap_FeaturedNew-894x488-3d4c9357844d9ff0959ae0493dae4674.png",
+      "md5": "3d4c9357844d9ff0959ae0493dae4674",
+      "size": 802615,
+      "uploadedDate": "2016-10-13T14:28:36.231Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4fec3e3575c245a2881433be8e6ec1cb"
+    }
+  ],
+  "catalogNs": null
+}

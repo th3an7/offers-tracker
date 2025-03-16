@@ -1,0 +1,170 @@
+{
+  "id": "362651520df94e4fa65492dbcba44ae2",
+  "namespace": "ue",
+  "title": "Visual Studio Integration Tool",
+  "description": "Visual Studio Integration Tool is a plugin that enables deep integration with Visual Studio 2022.",
+  "longDescription": "<p>Visual Studio Integration Tool is an Unreal Engine plugin that works in conjunction with Visual Studio to display Unreal Engine Tests in VS. <strong><u>As of Visual Studio 2022 version 17.9, you no longer need this plugin to view information about Blueprints in C&#43;&#43; code.</u></strong></p><p><br /></p><p><strong><u>Installing</u></strong></p><p><strong>Visual Studio</strong></p><p>The tool requires the IDE support for Unreal Engine component from Visual Studio to be installed. You can find it under the &#34;Game development with C&#43;&#43;&#34; workload in the Visual Studio Installer (<a href=\"https://raw.githubusercontent.com/microsoft/vc-ue-extensions/main/Docs/images/ide_support_ue.png\" rel=\"nofollow\">figure 1</a>).</p><p><br /></p><p><strong>Unreal Engine</strong></p><p>You can install the plugin in a couple of ways:</p><ul><li>Through the Epic Games Launcher:</li><li>Select the &#34;Install to Engine&#34; option within the Launcher. From there, you can select an engine version for installation.</li><li>If you&#39;re using the Marketplace website, you can add the plugin to your account and you will have an option to open the Launcher in order to install it as detailed above.</li><li>If you already added the plugin to your account, go Library -&gt; Vault in the and locate the plugin there.</li><li>Through source distribution:</li><li>If you&#39;re unable to use the Marketplace-based distribution (e.g. you&#39;re building the Unreal Engine from source), then you can install the plugin manually by following the instructions found at <a href=\"https://github.com/microsoft/vc-ue-extensions#readme\" rel=\"nofollow\">https://github.com/microsoft/vc-ue-extensions#readme</a></li></ul><p><br /></p><p><strong><u>Enabling the plugin</u></strong></p><ul><li>Through the Unreal Editor</li><li>Open your project and then use the Plugin Manager to enable &#34;VisualStudioTools&#34;.</li><li>See <a href=\"https://docs.unrealengine.com/INT/working-with-plugins-in-unreal-engine/\" rel=\"nofollow\">official documentation</a> for more information on how to install and enable plugins.</li><li>(Advanced) Alternatively, you can manually edit the &#39;.uproject&#39; descriptor for your project and add an entry for the &#34;VisualStudioTools&#34; plugin.</li></ul><p><br /></p><p><strong><u>Usage</u></strong></p><p>Unreal Engine Test Adapter in Visual Studio 2022</p><ol><li>Begin by installing and enabling the plugin.</li><li>Add the &#34;<strong>Unreal Engine Test Adapter</strong>&#34; Component in the Visual Studio Installer</li><li>Open your solution in Visual Studio.</li><li>Open Test Explorer via <strong>View </strong>&gt; <strong>Test Explorer</strong></li><li>You should now see your Unreal Engine tests in Visual Studio</li></ol><p><br /></p><p><s>Blueprints Integration in Visual Studio 2022</s> <em>(Obsolete since VS2022 v17.9)</em></p><ol><li><s>Begin by installing and enabling the Blueprints Integration plugin.</s></li><li><s>Open your solution in Visual Studio.</s></li><li><s>You should now be able to see </s><a href=\"https://learn.microsoft.com/en-us/visualstudio/ide/find-code-changes-and-other-history-with-codelens?view&#61;vs-2022\" rel=\"nofollow\"><s>Code Lens hints</s></a><s> with Blueprints references when opening files that contain UCLASS macros.</s></li><li><s>Click on the Code Lens to show a pop-up that will display your Blueprint information. (</s><a href=\"https://raw.githubusercontent.com/microsoft/vc-ue-extensions/main/Docs/images/codelens.png\" rel=\"nofollow\"><s>figure 2</s></a><s>).</s></li><li><s>You can find the logs from the plugin execution in the Output Window.</s></li><li><s>To refresh your blueprint information in the IDE, you can select the &#34;Rescan UE Blueprint for &lt;project&gt;&#34; option under the “Project” menu. (</s><a href=\"https://raw.githubusercontent.com/microsoft/vc-ue-extensions/main/Docs/images/bp_rescan.png\" rel=\"nofollow\"><s>figure 3</s></a><s>).</s></li></ol><p><br /></p><p><strong><u>Troubleshooting</u></strong></p><p>If you encounter any issues when setting up Visual Studio in conjunction with the Unreal Editor plugin, please refer to the <a href=\"https://github.com/microsoft/vc-ue-extensions/blob/main/Docs/Troubleshooting.md\" rel=\"nofollow\">Troubleshooting</a> guide in the repository. This guide provides solutions for common issues and is periodically updated to ensure that the latest solutions are available.</p><p><br /></p><p><strong><u>Reporting issues</u></strong></p><p>To report new issues, provide feedback, or request new features, please use the following options: <a href=\"https://aka.ms/feedback/cpp/unrealengine/report\" rel=\"nofollow\">Report a Problem</a> and <a href=\"https://aka.ms/feedback/cpp/unrealengine/suggest\" rel=\"nofollow\">Suggest a Feature</a>. These options will allow you to submit your issue or feedback directly to our team and help us improve the plugin moving forward.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "visual-studio-integration-tool",
+  "creationDate": "2022-10-14T18:44:48.606Z",
+  "lastModifiedDate": "2024-10-15T11:06:59.553Z",
+  "effectiveDate": "2022-10-14T18:48:45.741Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q422h4dnjykmtqh9thkkbdmejwxxwz",
+    "name": "Microsoft Corp"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Enables Visual Studio to display Blueprint references from the UE Editor</li></ul><p>Code Modules:</p><p>Module: VisualStudioTools</p><p>Type: Editor</p><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win32, Win64</p><p>Supported Target Build Platforms: None (plugin is for development time only and not included in package builds)</p><p>Documentation: Located inside plugin</p><p>Example Project: No Sample Project</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8a639215-7f85-4cc7-b155-fa2137326209"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/uproperty1080.PNG-1920x1080-8a7ff873829cfcca47e6657176b4e02f.jpg",
+      "md5": "8a7ff873829cfcca47e6657176b4e02f",
+      "size": 808025,
+      "uploadedDate": "2022-10-07T22:39:00.890Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/uclass1080.PNG-1920x1080-af50d013294329c6103f539103e7f0fc.jpg",
+      "md5": "af50d013294329c6103f539103e7f0fc",
+      "size": 711292,
+      "uploadedDate": "2022-10-07T22:39:01.374Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ufunction1080.PNG-1920x1080-e98e61340b4c474d9d7bedb5312bc52e.jpg",
+      "md5": "e98e61340b4c474d9d7bedb5312bc52e",
+      "size": 661609,
+      "uploadedDate": "2022-10-07T22:39:01.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VisualStudioIntegrationTool_thumb-284x284-a93c1b2a68dc923edf010e9333e282fd.png",
+      "md5": "a93c1b2a68dc923edf010e9333e282fd",
+      "size": 28982,
+      "uploadedDate": "2022-10-07T22:39:02.176Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VisualStudioIntegrationTool_featured-894x488-862268d456d4452d88094a9f6b1a6226.png",
+      "md5": "862268d456d4452d88094a9f6b1a6226",
+      "size": 218886,
+      "uploadedDate": "2022-10-07T22:39:02.274Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/uproperty1080.PNG-1920x1080-8a7ff873829cfcca47e6657176b4e02f_Snapshot.jpg",
+      "md5": "579965a9ad4f0a27d81a692df14d1521",
+      "size": 5591,
+      "uploadedDate": "2022-10-07T22:39:01.202Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/uclass1080.PNG-1920x1080-af50d013294329c6103f539103e7f0fc_Snapshot.jpg",
+      "md5": "855cd7d1fe42ed719f2b93a44e3458ae",
+      "size": 5299,
+      "uploadedDate": "2022-10-07T22:39:01.674Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ufunction1080.PNG-1920x1080-e98e61340b4c474d9d7bedb5312bc52e_Snapshot.jpg",
+      "md5": "7b1186216ef02c7b0b8a3910985af5a9",
+      "size": 5164,
+      "uploadedDate": "2022-10-07T22:39:02.097Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "577b939b51fa41b08e21f4e61d6b19bd"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,125 @@
+{
+  "id": "ab3640f34b15431a9723fc23a825e888",
+  "namespace": "ue",
+  "title": "Turtles And Tortoises",
+  "description": "Models and animations of turtles and tortoises",
+  "longDescription": "Preview: <a href=\"https://www.youtube.com/watch?v&#61;pnGs22wz5LI\" rel=\"nofollow\">youtube.com/watch?v&#61;pnGs22wz5LI</a><br /><br />This package includes 3D Models of 10 species of turtles and tortoises <br />(Alligator snapping turtle, Chinese box turtle, Chinese pond turtle, <br />Green sea turtle, Loggerhead sea turtle, Aldabra giant tortoise, <br />Galapagos tortoise, Red-footed tortoise, Yellow-footed tortoise, African <br />spurred tortoise(Sulcata)). <br /><br />This package includes 13 middle poly models and 13 low poly models <br />(SnappingTurtle, BoxTurtle, ChinesePondTurtle, Greenseaturtle, <br />LoggerHeadSeaTurtle, LoggerHeadSeaTurtleYoung, AldabraGiantTortoise, <br />DomeGalapagosTortoise, SuddlebackGalapagosTortoise, <br />DomeToSuddlebackMopher, RedFootedTortoise, YellowFootedTortoise, Sulcata).<br />Low poly models are also set as LOD1 of middle poly models. <br />DomeToSuddlebackMopher have DomeGalapagosTortoise as a base mesh and <br />SuddlebackGalapagosTortoise as Morph Target.<br />BoxTurtle and ChinesePondTurtle are shared the skeleton. <br />Greenseaturtle and LoggerHeadSeaTurtle are shared the skeleton. <br />AldabraGiantTortoise and GalapagosTortoises are shared the skeleton. <br />RedFootedTortoise, YellowFootedTortoise and Sulcata are shared the skeleton.<br /><br />There are walk, attack, hit and eat animations. <br />There are swim animations except Sulcata skeleton.<br />Blueprints for a simple random walk are included Blueprints folder for <br />each turtle or tortoise. <br />These are subclasses of BP_CommonTurtle. <br />This is using the root motion. <br />These Blueprints are used in Maps/Demonstration. <br />These can be used by drag and drop into the scene.<br /><br /><a href=\"http://eizouasobi.blogspot.jp/search/label/TurtlesAndTortoises\" rel=\"nofollow\">For more information</a>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "turtles-and-tortoises",
+  "creationDate": "2017-02-02T22:14:09.919Z",
+  "lastModifiedDate": "2024-10-02T01:22:28.107Z",
+  "effectiveDate": "2017-02-08T00:00:00.000Z",
+  "viewableDate": "2017-02-08T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-97baa2cf714756aef47be6ba33eba9",
+    "name": "JUNNICHI SUKO"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Scaled to Epic skeleton:No <br />Rigged:Yes <br />Rigged to Epic skeleton:No <br />Animated:Yes <br />Number of characters:5(5 Skeletons, 13 middle poly Skeletal Meshes, 13 <br />low poly Skeletal Meshes)<br /><br />Vertex counts of characters: <br />AlligatorSnappingturtleMiddle:10118 <br />AlligatorSnappingturtleLow:2351 <br />BoxTurtleMiddle:4998 <br />BoxTurtleLow:1164 <br />PondTurtleMiddle:5364 <br />PondTurtleLow:1191 <br />GiantTortoiseMiddle:7293 <br />GiantTortoiseLow:1672 <br />GreenSeaturtleMiddle:3592 <br />GreenSeaturtleLow:832 <br />LoggerHeadSeaturtleMiddle:3820 <br />LoggerHeadSeaturtleLow:886 <br />RedFootedTortoiseMiddle:6426 <br />RedFootedTortoiseLow:1334 <br />YellowFootedTortoiseMiddle:6426 <br />YellowFootedTortoiseLow:1334 <br />SulcataMiddle:6866 <br />SulcataLow:1452<br />Texture Resolutions: <br />BaseColor:4096x4096 <br />Normal:4096x496 <br />Roughness:512x512<br />Number of Animations: <br />BoxTurtle:56 <br />(56InPlaceAnimations&#43;24RootMotion walk variations) <br />GiantTortoise:35 <br />(35InPlaceAnimations&#43;8RootMotion walk variations) <br />SeaTurtle:36 <br />(36InPlaceAnimations&#43;10RootMotion walk variations) <br />AlligatorSnappingTurtle:66 <br />(66InPlaceAnimations&#43;30RootMotion walk variations) <br />Sulcata:24 <br />(24InPlaceAnimations&#43;10RootMotion walk variations)<br />Animation types:both(InPlace animations&#43;root motion variation of walk <br />animations. Swim animations are InPlace only.) <br /><br />Intended Platform:Windows, OS X <br />Platforms Tested:Windows, OS X <br />Documentation Included:No<br />Additional Notes: <br />Number of bones: <br />BoxTurtle:56 <br />GiantTortoise:38 <br />SeaTurtle:43 <br />AlligatorSnappingTurtle:62 <br />Sulcata:35",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b7130991-4692-48e0-ae75-4b9fbb467024"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TurtlesAndTortoises_screenshot1-1920x1080-2c5f59dff641f87ddd38bf914f9f9d54.png",
+      "md5": "2c5f59dff641f87ddd38bf914f9f9d54",
+      "size": 254620,
+      "uploadedDate": "2017-02-02T22:11:17.322Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TurtlesAndTortoises_screenshot2-1920x1080-e775927163ab83aac3a86f1de427af33.png",
+      "md5": "e775927163ab83aac3a86f1de427af33",
+      "size": 138919,
+      "uploadedDate": "2017-02-02T22:11:19.912Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TurtlesAndTortoises_screenshot3-1920x1080-f6560429e9e820a27015bcc1356eeef3.png",
+      "md5": "f6560429e9e820a27015bcc1356eeef3",
+      "size": 136027,
+      "uploadedDate": "2017-02-02T22:11:22.139Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TurtlesAndTortoises_screenshot4-1920x1080-099d5a17e6dcfe09e965f7f47991cdff.png",
+      "md5": "099d5a17e6dcfe09e965f7f47991cdff",
+      "size": 292270,
+      "uploadedDate": "2017-02-02T22:11:24.594Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TurtlesAndTortoises_screenshot5-1920x1080-d73cb3507e74481012d542f87e306698.png",
+      "md5": "d73cb3507e74481012d542f87e306698",
+      "size": 311810,
+      "uploadedDate": "2017-02-02T22:11:27.043Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/TurtlesAndTortoises_Thumb-284x284-e721b26b79885f5d59f40543d2ff8a79.png",
+      "md5": "e721b26b79885f5d59f40543d2ff8a79",
+      "size": 33869,
+      "uploadedDate": "2017-02-02T22:11:14.176Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/TurtlesAndTortoises_FeaturedNew-894x488-7d4698281692d4af020c9e5843f09dc1.png",
+      "md5": "7d4698281692d4af020c9e5843f09dc1",
+      "size": 152930,
+      "uploadedDate": "2017-02-02T22:11:12.563Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "13911a7386744ffda4c8a352c68ecc76"
+    }
+  ],
+  "catalogNs": null
+}

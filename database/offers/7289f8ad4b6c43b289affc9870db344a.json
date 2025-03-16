@@ -1,0 +1,218 @@
+{
+  "id": "7289f8ad4b6c43b289affc9870db344a",
+  "namespace": "ue",
+  "title": "Mesh Tool",
+  "description": "Mesh Tool is an mesh editor for Unreal Engine. It allows you to edit mesh assets and prototype props and levels without leaving Unreal Editor.",
+  "longDescription": "<p>Mesh Tool is an mesh editor for Unreal Engine. It allows you to edit mesh assets and prototype props and levels without leaving Unreal Editor.</p><p><a href=\"https://www.youtube.com/playlist?list&#61;PLAKCoctl4aHxyY9fZbQIpdtEdzlj09GSn\" rel=\"nofollow\">Youtube Playlist</a></p><p><a href=\"https://discord.gg/dT3QWx9\" rel=\"nofollow\">Discord</a></p><p><a href=\"https://trello.com/b/b6DO7iSz/mesh-tool-roadmap\" rel=\"nofollow\">Roadmap</a></p><p><a href=\"https://forums.unrealengine.com/showthread.php?135144-Mesh-Tool-A-Mesh-Editor\" rel=\"nofollow\">Support thread</a></p><p><a href=\"https://docs.google.com/document/d/1yCEFGz4LEWdhZEw3bk_tCPI3Gg6D-29_AhtkeWJqm1g/pub\" rel=\"nofollow\">User Guide</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mesh-tool",
+  "creationDate": "2017-05-02T14:06:48.828Z",
+  "lastModifiedDate": "2024-10-15T06:09:48.422Z",
+  "effectiveDate": "2017-07-20T00:00:00.000Z",
+  "viewableDate": "2017-07-20T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-64fcefb01e4787a414d5b4056c87e1",
+    "name": "Mary Nate"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><strong>Highlight of Features:</strong></h2><p><strong><u>Select &amp; Transform</u></strong></p><ul><li>Vertex/Edge/Face/Quad/Object Mode</li><li>Select/Translate/Rotate/Scale elements</li><li>Vertex Snap</li><li>Delta Transform</li><li>Marquee Select</li><li>Convert Selection between Vertex/Edge/Face</li><li>Show/Hide Transform Widget</li><li>Customizable Transform Widget Pivot</li></ul><p><strong><u>Vertex Op</u></strong></p><ul><li>Create Face from Selected Vertices</li><li>Collapse/Weld Vertices</li><li>Align Vertices</li><li>Set as Ruler</li></ul><p><strong><u>Edge Op</u></strong></p><ul><li>Split/Turn/Bridge/Extrude Edges</li><li>Insert Edge Loop</li></ul><p><strong><u>Face Op</u></strong></p><ul><li>Slab Transform</li><li>Draw Quad/Circle/Box on Customizable Draw Plane</li><li>Flip Faces Normal</li><li>Extrude/Inset/Duplicate/Separate Faces</li><li>Assign Material to Individual Faces</li><li>Flatten Faces / Plane Cut/ Mirror Faces</li></ul><p><strong><u>Texture Map (UV) Op</u></strong></p><ul><li>Planar or Box Mapping</li><li>Pan/Rotate/Scale/Flip UV</li><li>Match UV / Flow UV</li></ul><p><strong><u>Object Op</u></strong></p><ul><li>Flip All /Weld All Vertices</li><li>Hide/Show Other Actors</li><li>Recompute Normal</li><li>Insert Primitive</li><li>Auto UV / Auto Smooth</li></ul><p><strong><u>Mesh Op</u></strong></p><ul><li>Save/Duplicate/Browse to Current Editing Static Mesh</li></ul><p><strong>Modules: </strong></p><p>- MeshTool (Editor)</p><p><strong>Important/Additional Notes:</strong></p><p>- Full c&#43;&#43; source code included, works with both Luancher and Github builds</p><p>- Works with both C&#43;&#43; and Blueprint only projects</p><p>- Supported Development Platforms: Windows (Prebuilt Binary for Mac but not tested)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1353",
+      "name": "CAPITALISM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:13.701Z",
+      "updated": "2019-06-20T12:01:13.701Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c6ad1012-50ce-4552-94bf-a0441250c1d8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_1-1920x1080-a7751495162a17e1c59710433142ab2b.png",
+      "md5": "a7751495162a17e1c59710433142ab2b",
+      "size": 638509,
+      "uploadedDate": "2017-05-02T13:39:58.691Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_2-1920x1080-be05050133b85dd7343a63dedffd731c.png",
+      "md5": "be05050133b85dd7343a63dedffd731c",
+      "size": 1174807,
+      "uploadedDate": "2017-05-02T13:39:56.896Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_3-1920x1080-c3f44a2766abcd8598db2a96633019a2.png",
+      "md5": "c3f44a2766abcd8598db2a96633019a2",
+      "size": 996679,
+      "uploadedDate": "2017-05-02T13:39:54.890Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_4-1920x1080-0f3cb98f936d5790a89aadbe4d6ad220.png",
+      "md5": "0f3cb98f936d5790a89aadbe4d6ad220",
+      "size": 1141446,
+      "uploadedDate": "2017-05-02T13:39:51.779Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_5-1920x1080-6e5fa3f84ff88891dca914a73fcb3df0.png",
+      "md5": "6e5fa3f84ff88891dca914a73fcb3df0",
+      "size": 1036510,
+      "uploadedDate": "2017-05-02T13:39:49.761Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_6-1920x1080-f85e7e9ada2603a0c20de52d919f525b.png",
+      "md5": "f85e7e9ada2603a0c20de52d919f525b",
+      "size": 888883,
+      "uploadedDate": "2017-05-02T13:39:48.005Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_7-1920x1080-f1a41d6b0fbeedc0703dd9deb1e4248f.png",
+      "md5": "f1a41d6b0fbeedc0703dd9deb1e4248f",
+      "size": 937981,
+      "uploadedDate": "2017-05-02T13:39:45.579Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_8-1920x1080-e413c40e0498f6aa25c3998a22b31dd6.png",
+      "md5": "e413c40e0498f6aa25c3998a22b31dd6",
+      "size": 936135,
+      "uploadedDate": "2017-05-02T13:39:42.673Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_9-1920x1080-c45654a79826bca4cbf2270cb26a5248.png",
+      "md5": "c45654a79826bca4cbf2270cb26a5248",
+      "size": 1223603,
+      "uploadedDate": "2017-05-02T13:39:38.757Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_screenshot_10-1920x1080-b1dc112dc7f0a5870bc4d835f8bcd669.png",
+      "md5": "b1dc112dc7f0a5870bc4d835f8bcd669",
+      "size": 889721,
+      "uploadedDate": "2017-05-02T13:39:36.665Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_Thumb-284x284-461c74db35dd55de1ff1fa5395568f2f.png",
+      "md5": "461c74db35dd55de1ff1fa5395568f2f",
+      "size": 42985,
+      "uploadedDate": "2017-05-02T13:39:29.913Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_MeshTool_Featured-894x488-a681bb727062112b27757ed550bb7238.png",
+      "md5": "a681bb727062112b27757ed550bb7238",
+      "size": 263043,
+      "uploadedDate": "2017-05-02T13:40:00.882Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "74864b6f8e6d49c8976afbb5a0db3836"
+    }
+  ],
+  "catalogNs": null
+}

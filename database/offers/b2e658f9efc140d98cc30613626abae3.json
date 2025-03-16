@@ -1,0 +1,332 @@
+{
+  "id": "b2e658f9efc140d98cc30613626abae3",
+  "namespace": "ue",
+  "title": "Arc Inventory",
+  "description": "GAS-Based inventory system with Item Creation, Slot Configuration, and procedurally generated items",
+  "longDescription": "<p>Arc Inventory is a Gameplay Ability System based inventory solution that allows for the creation of ability-powered items and inventory management, and can slot seamlessly into your GAS-based game. Arc Inventory is built from the ground up for multiplayer, and supports everything from passive items, active items, stacking items, and more. Using Arc Inventory, you can create shooter gameplay, RPG gameplay, and even procedurally generate items or create an attachment system.</p><p><br /></p><p>Arc Inventory is used in multiple games, and powers very different gameplay systems with this easy to use, designer focused system.</p><p><br /></p><p><strong>An Arc Inventory example project is available!</strong></p><p><a href=\"https://github.com/punyhumangames/ArcInventoryExample\" rel=\"nofollow\"><strong>Have a look at the Arc Inventory example project</strong></a><strong>.</strong></p><p><br /></p><p><strong>Arc Inventory 2.0 is here! </strong></p><p><a href=\"https://docs.punyhuman.com/arcinventory/updateto2/\" rel=\"nofollow\"><strong>Please consult our documentation for the Migration Guide</strong></a><strong>.</strong></p><p><br /></p><p><strong>Support</strong></p><p><a href=\"https://punyhumangames.github.io/ArcPluginsDocumentation/arcinventory/\" rel=\"nofollow\"><strong>Documentation</strong></a></p><p>For real-time support from the developers of this plugin, <a href=\"https://discord.gg/punyhuman\" rel=\"nofollow\"><strong>please join our Discord here</strong></a>.</p><p><br /></p><p><strong>Note: This plugin requires the use of the Unreal Engine&#39;s Gameplay Ability System.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "arc-inventory",
+  "creationDate": "2020-11-02T22:07:21.884Z",
+  "lastModifiedDate": "2024-10-15T13:03:41.186Z",
+  "effectiveDate": "2020-11-03T15:54:00.453Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7ekfvk8lwfh4csblcnd86p6zrglqfp",
+    "name": "Puny Human"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Inventory Components that support Bags, Equipment, and Active items.</li><li>Fully integrated with Epic’s Gameplay Ability System</li><li>Supports Multiplayer</li><li>Supports any game play mechanics GAS can do</li><li>Easy to set up</li><li>Requires minimal code</li><li>Full Blueprint Integration</li></ul><p><br /></p><p>Code Modules:</p><ul><li>ArcInventory</li></ul><p>Number of Blueprints: 5</p><p>Number of C&#43;&#43; Classes: 54</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows / Mac / Linux</p><p>Supported Target Build Platforms: Windows / Mac / Linux</p><p><a href=\"https://github.com/punyhumangames/ArcInventoryExample\" rel=\"nofollow\"><strong>Example Project</strong></a> (requires UE5.0)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ee4027dd-0a9f-4ac9-a7e6-78994f67c133"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CreateVisualInventories-resize-1920x1080-aa1f503e2572d47ed5164fd40a1d3508.png",
+      "md5": "aa1f503e2572d47ed5164fd40a1d3508",
+      "size": 741655,
+      "uploadedDate": "2020-06-11T00:43:35.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IntegrateWithYourGame-resize-1920x1080-6b5925b507eb5bed00e55edb22076b36.PNG",
+      "md5": "6b5925b507eb5bed00e55edb22076b36",
+      "size": 477895,
+      "uploadedDate": "2020-06-11T00:43:36.410Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyToCreateItems-resize-1920x1080-768fde2bb79369fbed670d1f2cb1bb83.PNG",
+      "md5": "768fde2bb79369fbed670d1f2cb1bb83",
+      "size": 195455,
+      "uploadedDate": "2020-06-11T00:43:36.749Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasySlotConfig-resize-1920x1080-d1c5dcfde5232f18e70c9f5fefb36173.PNG",
+      "md5": "d1c5dcfde5232f18e70c9f5fefb36173",
+      "size": 197882,
+      "uploadedDate": "2020-06-11T00:43:37.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyUMGIntegration-resize-1920x1080-4c875960fcd3b21a907f5d5604fe97ce.PNG",
+      "md5": "4c875960fcd3b21a907f5d5604fe97ce",
+      "size": 74025,
+      "uploadedDate": "2020-06-11T00:43:37.557Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ProcedurallyGeneratedItems-resize-1920x1080-3f683557a6ae6555c78d83dff79bcd2a.PNG",
+      "md5": "3f683557a6ae6555c78d83dff79bcd2a",
+      "size": 526016,
+      "uploadedDate": "2020-06-11T00:43:37.886Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ArcInventory_thumb-284x284-dd5fa6ac4952f592e5e47bd2ad631b81.png",
+      "md5": "dd5fa6ac4952f592e5e47bd2ad631b81",
+      "size": 94047,
+      "uploadedDate": "2020-12-30T15:38:11.647Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ArcInventory_featured-894x488-bd9ec10b3706574cb59d4882d4f8a87e.png",
+      "md5": "bd9ec10b3706574cb59d4882d4f8a87e",
+      "size": 446399,
+      "uploadedDate": "2020-12-30T15:38:11.735Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CreateVisualInventories-resize-1920x1080-aa1f503e2572d47ed5164fd40a1d3508_Snapshot.png",
+      "md5": "321a120d666f1656003e28a223dcb648",
+      "size": 4969,
+      "uploadedDate": "2020-06-11T00:43:36.272Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IntegrateWithYourGame-resize-1920x1080-6b5925b507eb5bed00e55edb22076b36_Snapshot.PNG",
+      "md5": "560416b5139174ac8d76721d253c203e",
+      "size": 4761,
+      "uploadedDate": "2020-06-11T00:43:36.667Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyToCreateItems-resize-1920x1080-768fde2bb79369fbed670d1f2cb1bb83_Snapshot.PNG",
+      "md5": "53d418332a34d3d38f0ef3ac10b02f81",
+      "size": 2993,
+      "uploadedDate": "2020-06-11T00:43:37.045Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasySlotConfig-resize-1920x1080-d1c5dcfde5232f18e70c9f5fefb36173_Snapshot.PNG",
+      "md5": "464cef591c8f45f9b603f32e7360d0d1",
+      "size": 3037,
+      "uploadedDate": "2020-06-11T00:43:37.498Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyUMGIntegration-resize-1920x1080-4c875960fcd3b21a907f5d5604fe97ce_Snapshot.PNG",
+      "md5": "22a6184a3426fd84cf925fad36f8b981",
+      "size": 2848,
+      "uploadedDate": "2020-06-11T00:43:37.768Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProcedurallyGeneratedItems-resize-1920x1080-3f683557a6ae6555c78d83dff79bcd2a_Snapshot.PNG",
+      "md5": "036f39a46e6cab6a589f5124fd3d2752",
+      "size": 3837,
+      "uploadedDate": "2020-06-11T00:43:38.154Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6e6a5057c2e34f428a76bd930e3fe3f1"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,290 @@
+{
+  "id": "6ee5f1328def47d5ae8e682335b1ba44",
+  "namespace": "ue",
+  "title": "Vein Growth Effect & Point Cloud Function Library in Blueprint",
+  "description": "A vein (vine) growth effect and a point cloud function library all in Blueprints without particle systems.",
+  "longDescription": "<p><strong>2020/12/19</strong></p><p>An <strong>update</strong> for 4.26.0.</p><p>3 Niagara Effect Added.</p><p><strong>Preview Video:</strong>https://youtu.be/x-Z-Y0oHQJE</p><p><br /></p><p>---------------------------------------------------------------------------------</p><p><strong>Preview Video: </strong><a href=\"https://www.youtube.com/watch?v&#61;p9u-j8suzDc\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;p9u-j8suzDc</a></p><p><br /></p><p>A vein (vine) growth effect and a point cloud function library (without particle systems).</p><p><br /></p><p><strong>Includes</strong>:</p><ul><li>Random point generator using R Sequence.</li><li>Point cloud generation from static meshes.</li><li>kNN algorithm in point cloud.</li><li>Dijkstra path finding system in point cloud.</li><li>An example vein growth effect.</li><li>A spline mesh to procedural mesh conversion function library.</li></ul><p><br /></p><p><strong>Notice: </strong></p><ul><li>All created in Blueprints.</li><li>Generation process will cause frame rate drops, but after the generation, results can be saved to a sav. file or static mesh.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vein-growth-effect-point-cloud-function-library-in-blueprint",
+  "creationDate": "2020-03-13T16:28:49.679Z",
+  "lastModifiedDate": "2024-10-10T22:44:39.145Z",
+  "effectiveDate": "2020-03-13T16:28:48.149Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-52dc8efab2424d9a101123dc1c9fee",
+    "name": "CHENGZHONG YU"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>A point cloud generation Blueprint.</li><li>A point cloud calculation library that includes common algorithms such as &#34;kNN&#34; and &#34;Dijkstra path finding&#34;.</li><li>An example vein growth effect using this point cloud function library.</li><li>A Spline Mesh to Procedural Mesh conversion function library.</li></ul><p><strong>Number of Blueprints</strong>: 5</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>:</p><ul><li><strong>Windows</strong>: Yes</li><li><strong>Mac</strong>: Yes</li></ul><p>Documentation: Inside the project</p><p><strong>Important/Additional Notes:</strong></p><ul><li><strong>Support iOS platform. </strong>Android platform haven&#39;t been tested</li><li>Calculation on runtime will cause frame rate drops. Generating the static mesh in the Editor first and using this mesh on runtime is our recommendation.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "30ac909f-fe44-4dcb-be36-00fd4902cd1c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VeinGroth5-1920x1080-58f998c825e2210c988657ef508cce04.png",
+      "md5": "58f998c825e2210c988657ef508cce04",
+      "size": 1454104,
+      "uploadedDate": "2020-03-01T11:14:35.732Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VeinGroth2-1920x1080-34092a89f8d4ebdaf0f759e959fef37a.png",
+      "md5": "34092a89f8d4ebdaf0f759e959fef37a",
+      "size": 1905327,
+      "uploadedDate": "2020-03-01T11:14:37.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VeinGroth1-1920x1080-1d736c229aeceff1c77d4f76a7253466.png",
+      "md5": "1d736c229aeceff1c77d4f76a7253466",
+      "size": 1265596,
+      "uploadedDate": "2020-03-01T11:14:37.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/QQ20201219155446-1920x1080-30a13ed47743bf8018a0107a6096f608.png",
+      "md5": "30a13ed47743bf8018a0107a6096f608",
+      "size": 2223317,
+      "uploadedDate": "2020-12-19T07:49:45.525Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/QQ20201219155455-1920x1080-8679c36f8eaefa74cbfebb961e83ab5d.png",
+      "md5": "8679c36f8eaefa74cbfebb961e83ab5d",
+      "size": 2283336,
+      "uploadedDate": "2020-12-19T07:49:46.070Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/QQ20201219155457-1920x1080-b58b76e4b48553c588abe9b428da2fef.png",
+      "md5": "b58b76e4b48553c588abe9b428da2fef",
+      "size": 1917007,
+      "uploadedDate": "2020-12-19T07:49:46.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VeinGrowthEffectPointCloudFunctionLibraryinBlueprint_thumb-284x284-4e36e727f36ded686f682ed6be4dad79.png",
+      "md5": "4e36e727f36ded686f682ed6be4dad79",
+      "size": 126901,
+      "uploadedDate": "2020-03-01T11:14:38.054Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VeinGrowthEffectPointCloudFunctionLibraryinBlueprint_featured-894x488-cda8f7c8a1fe510c50e483cac115f027.png",
+      "md5": "cda8f7c8a1fe510c50e483cac115f027",
+      "size": 557765,
+      "uploadedDate": "2020-03-01T11:14:38.202Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/QQ20201219155446-1920x1080-30a13ed47743bf8018a0107a6096f608_Snapshot.png",
+      "md5": "7ab27b7fbc7aca2bfa747843123c5a7a",
+      "size": 6657,
+      "uploadedDate": "2020-12-19T07:49:45.869Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/QQ20201219155455-1920x1080-8679c36f8eaefa74cbfebb961e83ab5d_Snapshot.png",
+      "md5": "a788663d943e22dd76848c8f7cf135f9",
+      "size": 6759,
+      "uploadedDate": "2020-12-19T07:49:46.404Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/QQ20201219155457-1920x1080-b58b76e4b48553c588abe9b428da2fef_Snapshot.png",
+      "md5": "5762f4c4bd82c98bc99dcae8920a68eb",
+      "size": 6502,
+      "uploadedDate": "2020-12-19T07:49:46.927Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VeinGroth5-1920x1080-58f998c825e2210c988657ef508cce04_Snapshot.png",
+      "md5": "ec69d9c5fff3264fc22b08aa01c87767",
+      "size": 5568,
+      "uploadedDate": "2020-03-01T11:14:35.976Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VeinGroth4-1920x1080-5d23e8f7ab5c742626ea0ae021f7019a_Snapshot.png",
+      "md5": "6e27582e2e3c816871f60f66bc2e25e6",
+      "size": 5530,
+      "uploadedDate": "2020-03-01T11:14:36.422Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VeinGroth3-1920x1080-7f8c518db3360856969eb5941dcbf60b_Snapshot.png",
+      "md5": "758dea75db0ea0fd5f551eeaef019b19",
+      "size": 5344,
+      "uploadedDate": "2020-03-01T11:14:37.033Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VeinGroth2-1920x1080-34092a89f8d4ebdaf0f759e959fef37a_Snapshot.png",
+      "md5": "61607784829975a57882ef2da0f5618c",
+      "size": 5971,
+      "uploadedDate": "2020-03-01T11:14:37.432Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VeinGroth1-1920x1080-1d736c229aeceff1c77d4f76a7253466_Snapshot.png",
+      "md5": "33eb794e63954a219566924cfacf405d",
+      "size": 5475,
+      "uploadedDate": "2020-03-01T11:14:37.880Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "97cde0c2a2ff477ba6f2635e67e08c79"
+    }
+  ],
+  "catalogNs": null
+}

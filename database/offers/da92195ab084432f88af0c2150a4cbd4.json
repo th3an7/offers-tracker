@@ -1,0 +1,203 @@
+{
+  "id": "da92195ab084432f88af0c2150a4cbd4",
+  "namespace": "ue",
+  "title": "Smart Time Step",
+  "description": "Dynamically switch dynamic time step and fixed time step.",
+  "longDescription": "<p>Preview Video: <a href=\"https://youtu.be/icU68VS8XEk\" rel=\"nofollow\">Link</a></p><p>Setup Video: <a href=\"https://youtu.be/XIWT0ALfeHk\" rel=\"nofollow\">Link</a></p><p><br /></p><p>Low frame rate can cause physics simulation error. Fixed time step could fix the problem, but the game run slower if the frame rate doesn&#39;t reach the target.</p><p>Smart time step is dynamically switch dynamic time step and fixed time step. So, the game doesn&#39;t run slower when the frame rate doesn&#39;t reach the target, but only run slower on low fps to prevent the physics simulation error.</p><p><br /></p><p><strong>The SmartTimeStep parameters set by the functions won&#39;t be saved, use save game to save and load the parameters.</strong></p><p><strong>Time dilation will override the time step clamp.</strong></p><p><br /></p><p>Patch 1.0.1:&#xfeff;</p><p>- Fix the frame rate doesn&#39;t apply on packaged project.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smart-time-step",
+  "creationDate": "2021-12-16T07:01:21.073Z",
+  "lastModifiedDate": "2024-10-15T10:33:44.239Z",
+  "effectiveDate": "2021-12-16T07:01:21.007Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tcl2wtkpr8zqb9mut9bahmab7gaj7d",
+    "name": "Forge9"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Correct the incorrect physics simulation caused by high time step (low frame rate).</li><li>Dynamically switch dynamic time step and fixed time step.</li></ul><p>Code Modules:</p><ul><li> SmartTimeStep</li></ul><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1maIIifVYvSnymsaPkXrQGKVtlnG4S8pe/view?usp&#61;sharing\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e4a92727-1e3e-4ba6-9eac-d46d747d762d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-014d371647a91fe21a6226a9f0ac0240.png",
+      "md5": "014d371647a91fe21a6226a9f0ac0240",
+      "size": 69917,
+      "uploadedDate": "2021-11-26T15:52:13.182Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/guide-1920x1080-b0311d78c4676b31d64e9e0969f611d3.png",
+      "md5": "b0311d78c4676b31d64e9e0969f611d3",
+      "size": 204041,
+      "uploadedDate": "2021-11-26T16:13:31.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DefaultTimeStep-1920x1080-acb9f57fe5d6d9273c6df874cfa79402.png",
+      "md5": "acb9f57fe5d6d9273c6df874cfa79402",
+      "size": 355370,
+      "uploadedDate": "2021-12-10T18:01:04.019Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FixedTimeStep-1920x1080-21f29376fcc8631f680b141efc2dc55b.png",
+      "md5": "21f29376fcc8631f680b141efc2dc55b",
+      "size": 412687,
+      "uploadedDate": "2021-12-10T18:01:04.453Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SmartTimeStep-1920x1080-a2300b8177a85a562ed8680cbf160f9c.png",
+      "md5": "a2300b8177a85a562ed8680cbf160f9c",
+      "size": 477068,
+      "uploadedDate": "2021-12-10T18:01:04.877Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SmartTimeStep_thumb-284x284-ff790f2f8bb7deb555bd738ec5231690.png",
+      "md5": "ff790f2f8bb7deb555bd738ec5231690",
+      "size": 4826,
+      "uploadedDate": "2021-12-11T03:39:49.037Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SmartTimeStep_featured-894x488-174eaa3b0ba2591c3fab27b0d6d1e600.png",
+      "md5": "174eaa3b0ba2591c3fab27b0d6d1e600",
+      "size": 136204,
+      "uploadedDate": "2021-12-11T03:41:46.306Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DefaultTimeStep-1920x1080-acb9f57fe5d6d9273c6df874cfa79402_Snapshot.png",
+      "md5": "4745c65ec265d67dff99083d0c6e39bb",
+      "size": 4575,
+      "uploadedDate": "2021-12-10T18:01:04.306Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FixedTimeStep-1920x1080-21f29376fcc8631f680b141efc2dc55b_Snapshot.png",
+      "md5": "b61cfc353d0f6b06bb771a3b43dbfbe1",
+      "size": 4743,
+      "uploadedDate": "2021-12-10T18:01:04.732Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmartTimeStep-1920x1080-a2300b8177a85a562ed8680cbf160f9c_Snapshot.png",
+      "md5": "a33368478b708c706390a67bc214e255",
+      "size": 4651,
+      "uploadedDate": "2021-12-10T18:01:05.166Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/guide-1920x1080-b0311d78c4676b31d64e9e0969f611d3_Snapshot.png",
+      "md5": "16f232803228c4c7e84a2207b6ec6134",
+      "size": 4439,
+      "uploadedDate": "2021-11-26T16:13:31.490Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-014d371647a91fe21a6226a9f0ac0240_Snapshot.png",
+      "md5": "33015902ea13ccbdfc87a19acae9408c",
+      "size": 4210,
+      "uploadedDate": "2021-11-26T15:52:13.411Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ImagePlaceholder-1920x1080-9eed71f8f97ed7e3b9beca35fa8a7271_Snapshot.png",
+      "md5": "778ae32f970b490af04320573e9fe2b7",
+      "size": 4526,
+      "uploadedDate": "2021-11-14T08:20:06.256Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ca2396101fdd4a5ca88ba3872fc9742a"
+    }
+  ],
+  "catalogNs": null
+}

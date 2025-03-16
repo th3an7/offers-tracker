@@ -1,0 +1,155 @@
+{
+  "id": "65a432d8f04a4c75950714bc634bb3cc",
+  "namespace": "ue",
+  "title": "Line Renderer Component",
+  "description": "Line Renderer Component",
+  "longDescription": "<p>Line Renderer Component allows one to easily draw lines with thickness. Implementation is based on the engine BatchedLines with the modification to control how vertex and normal buffer are filled with the data. This allows to have flexible system to control which lines should be shown, deleted and so on.</p><p><br /></p><p>Customization-wise, <em>Line Renderer Component</em> provides two example Line materials (<strong>M_LineDrawer_Opaque_Unlit</strong> and <strong>M_LineDrawer_Opaque_Unlit</strong>) as well as the example level (in Plugin&#39;s Content directory). Check <strong>BP_LineDrawer</strong> for how to use API.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "line-renderer-component",
+  "creationDate": "2023-12-19T21:17:21.763Z",
+  "lastModifiedDate": "2024-10-15T10:27:55.563Z",
+  "effectiveDate": "2023-12-19T21:17:21.723Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-f93jkczy3xt8z2gxhbgaec72ey39kb",
+    "name": "Petr Leontev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Line drawing in Blueprints via simple interface (Actor Component)</li><li>Each line has Unique ID (user has full control over it)</li><li>Each line can have its own Thickness value as well as Color</li><li>Line material customization (Lit, Unlit, Translucent, etc.)</li><li>Per-line operators: hide/show, add/remove</li></ul><p><br /></p><p>UPD: Bounding box issues have been fixed!</p><p><br /></p><p>Code Modules:</p><ul><li> LineComponentModule (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 2</p><p>Supported Development Platforms: Win64, Linux, Android, Mac, OculusVR</p><p>Supported Target Build Platforms: Win64, Linux, Android, Mac, OculusVR</p><p><br /></p><p>Documentation: <a href=\"https://github.com/RaiaN/LineRendererComponent\" rel=\"nofollow\">https://github.com/RaiaN/LineRendererComponent</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f87981f1-732b-42c6-9e9b-8f33279ba346"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot01-1920x1080-80c25db343c8a77d280b15334a65969a.png",
+      "md5": "80c25db343c8a77d280b15334a65969a",
+      "size": 267813,
+      "uploadedDate": "2023-12-15T11:06:57.019Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-2533dcb6d296b9f555f665158743f89f.png",
+      "md5": "2533dcb6d296b9f555f665158743f89f",
+      "size": 2231377,
+      "uploadedDate": "2024-05-05T20:27:21.064Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LineRendererComponent_thumb-284x284-0cb86e4d587cb20c3de987a394958784.png",
+      "md5": "0cb86e4d587cb20c3de987a394958784",
+      "size": 36122,
+      "uploadedDate": "2023-12-15T10:55:28.341Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LineRendererComponent_featured-894x488-277d92c6a6b62516c9dfa1495bc86d68.png",
+      "md5": "277d92c6a6b62516c9dfa1495bc86d68",
+      "size": 382929,
+      "uploadedDate": "2024-05-05T20:26:48.583Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-2533dcb6d296b9f555f665158743f89f_Snapshot.png",
+      "md5": "abdfa9b347e9ade2de65c41f0b2d6d3f",
+      "size": 3269,
+      "uploadedDate": "2024-05-05T20:27:21.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot01-1920x1080-80c25db343c8a77d280b15334a65969a_Snapshot.png",
+      "md5": "a330cac4f74143e91ab228e7192c02ca",
+      "size": 4248,
+      "uploadedDate": "2023-12-15T11:06:57.307Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot02-1920x1080-849fd7216ba18260862b7da0a51679bd_Snapshot.png",
+      "md5": "4f5ee6443da7733c53d10cd9e07ce2ec",
+      "size": 3907,
+      "uploadedDate": "2023-12-15T11:06:57.945Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot02-1920x1080-80c25db343c8a77d280b15334a65969a_Snapshot.png",
+      "md5": "a330cac4f74143e91ab228e7192c02ca",
+      "size": 4248,
+      "uploadedDate": "2023-12-15T11:06:07.975Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot01-1920x1080-849fd7216ba18260862b7da0a51679bd_Snapshot.png",
+      "md5": "4f5ee6443da7733c53d10cd9e07ce2ec",
+      "size": 3907,
+      "uploadedDate": "2023-12-15T10:55:28.271Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "60969a09aae14619b80dc923eb3bda62"
+    }
+  ],
+  "catalogNs": null
+}

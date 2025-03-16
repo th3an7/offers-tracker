@@ -1,0 +1,335 @@
+{
+  "id": "773a2697c1384d4b91a883c1f5c54802",
+  "namespace": "ue",
+  "title": "HeightMapper",
+  "description": "All in one tool for quickly obtaining nanite geometry based on a nightmap",
+  "longDescription": "<h2><strong>&#x1f4fd;️</strong><a href=\"https://youtu.be/PS7uf7bqGe0\" rel=\"nofollow\"><strong>Trailer</strong></a></h2><h2><strong>&#x1f4fd;️</strong><a href=\"https://youtu.be/QZanN5C3HEU\" rel=\"nofollow\"><strong>Update V1.1</strong></a></h2><h2><strong>&#x1f4fd;️</strong><a href=\"https://youtu.be/N-4fA4IWkXg\" rel=\"nofollow\"><strong>Update V1.2 3D Displacement</strong></a></h2><h2><strong>&#x1f4fd;️</strong><a href=\"https://youtu.be/U61WPcsf4nU\" rel=\"nofollow\"><strong>Demo</strong></a></h2><p><br /></p><p>Features:</p><ul><li>Support for models with multimaterials. Change only part of the model that you need</li><li>Native support for Megascans. Automatic adjustment of the depth texture</li><li>Built-in optimization</li><li>Fill holes in model</li><li>Edge weld</li><li>Support for complex geometry models (see the manual)</li><li>Simple and user-friendly UI. Hide the functions you don&#39;t need.</li><li>The ability to create different profiles for fast work</li><li>The ability to both overwrite and save under a new model name</li></ul><p>Update V1.1</p><ul><li>Mesh generation</li><li>Carsh fix</li><li>Interface improvements</li></ul><p>Update V1.1.1</p><ul><li>Hotfix</li></ul><p>Update V1.2</p><ul><li>3D Diplacement</li><li>Profile saver</li><li>Restore settings button</li></ul><p>Update V1.2.1</p><ul><li>Hotfix crashes</li></ul><p>UpdateV1.3</p><ul><li>Update to 5.1</li><li>Remesh Function (only in 5.1)</li></ul><p>UpdateV1.3.1</p><ul><li>Update to 5.2</li><li>Bugfixes</li><li>Add a lot of presets</li></ul><p>UpdateV1.3.2</p><ul><li>Hotfix for 5.3</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "heightmapper",
+  "creationDate": "2022-07-03T18:49:24.462Z",
+  "lastModifiedDate": "2024-10-03T17:02:08.488Z",
+  "effectiveDate": "2022-07-03T18:52:35.362Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pdw6te4kqmjnqejdmpfny3pm3ubcjb",
+    "name": "Andrey Pietilya"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 8</p><p>Geometry Script plugin must be activated in project</p><p>Documentation: <a href=\"https://www.dropbox.com/scl/fi/2hyzq1ru30wrm9k35gtk8/HeightMapper.paper?dl&#61;0&amp;rlkey&#61;4stosjo73yh6pl2089jzak7he\" rel=\"nofollow\">Link</a></p><p>Support discord: <a href=\"https://discord.gg/7ZjsgrJVVD\" rel=\"nofollow\">Link</a></p><p>Known issues:</p><ul><li>Does not support vertes color (until there is support in scripts, I can&#39;t fix it)</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1353",
+      "name": "CAPITALISM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:13.701Z",
+      "updated": "2019-06-20T12:01:13.701Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "179ce2de-35cf-42d0-8b9f-ecea6b0385ba"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot6-1920x1080-c751955b9d89181c98404a4cdcbc1fc8.png",
+      "md5": "c751955b9d89181c98404a4cdcbc1fc8",
+      "size": 2438261,
+      "uploadedDate": "2022-07-23T20:24:08.898Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot1-1920x1080-657514ca3ef9396f4c4cf4e1fd4ba976.png",
+      "md5": "657514ca3ef9396f4c4cf4e1fd4ba976",
+      "size": 2990933,
+      "uploadedDate": "2022-06-29T17:43:23.915Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot4-1920x1080-b31d469af8f050df5e68313c72857f50.png",
+      "md5": "b31d469af8f050df5e68313c72857f50",
+      "size": 2238045,
+      "uploadedDate": "2022-06-29T17:43:24.542Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot2-1920x1080-384f6ea9ab072d984897cb2087417ad2.png",
+      "md5": "384f6ea9ab072d984897cb2087417ad2",
+      "size": 2027226,
+      "uploadedDate": "2022-06-29T17:43:25.189Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot3-1920x1080-52754053dda4413f5bd0f3633343f789.png",
+      "md5": "52754053dda4413f5bd0f3633343f789",
+      "size": 2076667,
+      "uploadedDate": "2022-06-29T17:43:25.803Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HeightMapper_thumb-284x284-d8b5ba94792c48d59c5c7a11e2140db9.png",
+      "md5": "d8b5ba94792c48d59c5c7a11e2140db9",
+      "size": 114097,
+      "uploadedDate": "2022-07-23T20:24:09.440Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HeightMapper_featured-894x488-a12e9a0d34c53b95a2d2a51cc37dace1.png",
+      "md5": "a12e9a0d34c53b95a2d2a51cc37dace1",
+      "size": 381934,
+      "uploadedDate": "2022-07-23T20:24:09.540Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot6-1920x1080-c751955b9d89181c98404a4cdcbc1fc8_Snapshot.png",
+      "md5": "baf4f1cd4ee4096532b8415c581df9f3",
+      "size": 6653,
+      "uploadedDate": "2022-07-23T20:24:09.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot5 2-1920x1080-18023aa988db66446e5f61c8471f3cf1_Snapshot.png",
+      "md5": "4ef0462c627e06ba9350fad8cd4b0af2",
+      "size": 6249,
+      "uploadedDate": "2022-07-15T20:18:09.580Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot1-1920x1080-657514ca3ef9396f4c4cf4e1fd4ba976_Snapshot.png",
+      "md5": "b0991bf95877f051164cdc51a3ffa4af",
+      "size": 9538,
+      "uploadedDate": "2022-06-29T17:43:24.354Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot4-1920x1080-b31d469af8f050df5e68313c72857f50_Snapshot.png",
+      "md5": "eadb5983b3e955e03606d94931543405",
+      "size": 6944,
+      "uploadedDate": "2022-06-29T17:43:24.933Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot2-1920x1080-384f6ea9ab072d984897cb2087417ad2_Snapshot.png",
+      "md5": "8d676d41b3578cf17bad056595946f8d",
+      "size": 8173,
+      "uploadedDate": "2022-06-29T17:43:25.579Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot3-1920x1080-52754053dda4413f5bd0f3633343f789_Snapshot.png",
+      "md5": "25eac8f4de61acedc0cdcca7c76b360c",
+      "size": 7626,
+      "uploadedDate": "2022-06-29T17:43:26.200Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6f5ecb490dd34bc8ab44a361b37a6940"
+    }
+  ],
+  "catalogNs": null
+}

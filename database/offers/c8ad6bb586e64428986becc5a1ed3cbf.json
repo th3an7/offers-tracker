@@ -1,0 +1,162 @@
+{
+  "id": "c8ad6bb586e64428986becc5a1ed3cbf",
+  "namespace": "ue",
+  "title": "Event System",
+  "description": "Event System Abandon the Delegate",
+  "longDescription": "<p>The UE4 Blueprint Delegate will cause various references to the Blueprint class. Multiple Blueprints will be recompiled and remodified when the Blueprint class is modified by multiple people.This plug-in broadcasts messages based on the event name;No other blueprints are referenced, just change the message type of the broadcast event</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "event-system",
+  "creationDate": "2021-04-12T21:31:59.819Z",
+  "lastModifiedDate": "2024-10-15T02:03:38.325Z",
+  "effectiveDate": "2021-04-12T21:31:59.793Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5xxeenglswvwvlwwl62gty85sy4m4t",
+    "name": "butterfly"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features&#xff1a;</p><ul><li>Custom K2Node</li><li>Dynamic parameter node</li><li>GameSubSystem</li></ul><p>Code Modules:</p><ul><li> EventsEditor [Editor]</li><li> EventsRuntime [Runtime]</li><li> EventSystemRuntime [Runtime]</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 66</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: Win64,Android</p><p>Supported Target Build Platforms: Win64,Android</p><p>Documentation: <a href=\"https://www.youtube.com/watch?v&#61;IpKZDVSJw08\" rel=\"nofollow\"><strong><u>https://www.youtube.com/watch?v&#61;IpKZDVSJw08</u></strong></a> ;</p><p><a href=\"https://docs.google.com/document/d/1UVHBJi1djndyrrGsixNEqk7T8QqUxy7WzFFWIprlvoU/edit?usp&#61;sharing\" rel=\"nofollow\"><strong>C&#43;&#43; Documentation</strong></a></p><p>Important/Additional Notes:</p><p><br /></p><p>GITHUB: <a href=\"https://github.com/tsxy2007/EventSystem.git\" rel=\"nofollow\">https://github.com/tsxy2007/EventSystem.git</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "0d7c4d73-74b1-48b7-8825-1c3c5258c174"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/QQ2021040110065811-1920x1080-935057474a61b60a338ccc5b8927f45f.png",
+      "md5": "935057474a61b60a338ccc5b8927f45f",
+      "size": 266080,
+      "uploadedDate": "2021-04-07T04:52:54.437Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/QQ20210401101249-1920x1080-43ec8099a3573fd40a66da2b902e8bf0.png",
+      "md5": "43ec8099a3573fd40a66da2b902e8bf0",
+      "size": 513730,
+      "uploadedDate": "2021-04-07T04:52:54.750Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/eventsystemc-1920x1080-fcd762f97863181352b667d56c7d6793.png",
+      "md5": "fcd762f97863181352b667d56c7d6793",
+      "size": 329594,
+      "uploadedDate": "2021-11-23T10:53:19.438Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EventSystem_thumb-284x284-72351275e45158309674d2ca12ede204.png",
+      "md5": "72351275e45158309674d2ca12ede204",
+      "size": 43319,
+      "uploadedDate": "2021-04-07T04:52:55.061Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EventSystem_featured-894x488-791e990e06289c3d36ede59f3ea6593a.png",
+      "md5": "791e990e06289c3d36ede59f3ea6593a",
+      "size": 116966,
+      "uploadedDate": "2021-04-07T04:52:55.128Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/eventsystemc-1920x1080-fcd762f97863181352b667d56c7d6793_Snapshot.png",
+      "md5": "d1dd18732c5b3058613ab70507fd9487",
+      "size": 3892,
+      "uploadedDate": "2021-11-23T10:53:19.684Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/QQ2021040110065811-1920x1080-935057474a61b60a338ccc5b8927f45f_Snapshot.png",
+      "md5": "d1b721949961c2bf4caa4d0472c18958",
+      "size": 3866,
+      "uploadedDate": "2021-04-07T04:52:54.664Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/QQ20210401101249-1920x1080-43ec8099a3573fd40a66da2b902e8bf0_Snapshot.png",
+      "md5": "1f0efaf8bd2072d42de8eea1ba8e4f0a",
+      "size": 5680,
+      "uploadedDate": "2021-04-07T04:52:55.008Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "45db0921da344a548f70dab099fe743b"
+    }
+  ],
+  "catalogNs": null
+}

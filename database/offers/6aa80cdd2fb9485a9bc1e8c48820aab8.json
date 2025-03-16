@@ -1,0 +1,326 @@
+{
+  "id": "6aa80cdd2fb9485a9bc1e8c48820aab8",
+  "namespace": "ue",
+  "title": "Crane Balk",
+  "description": "Blueprint asset for simulate sci-fi industrial robotic Crane Balk",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;WqxXWKwfYvc\" rel=\"nofollow\">Video</a></p><p><br /></p><p><a href=\"https://www.dropbox.com/s/fe8uuikyvlz4em3/UE_CraneBalk.pdf?dl&#61;0\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p><a href=\"https://www.dropbox.com/s/ig1anr0hionptbq/CraneBalkDemo.zip?dl&#61;0\" rel=\"nofollow\">Demo</a></p><p><br /></p><p><br /></p><p>Crane Balk it&#39;s easy to use asset which provide in-game experience of sci-fi industrial robotic Crane.</p><p><br /></p><p>CraneBalk is supported Automatic and Manual steering modes:</p><p>Automatic mode - you just need place cargo and target objects on the level.</p><p>Manual mode - player can move Crane within working area and pick up any spotted cargos. </p><p><br /></p><p>Parameters give you wide control for fine adjustment and easy asset using. You just need put a Cargo and Target actors at the level. No programmers skill required.</p><p><br /></p><p>The asset contain physical rubber cables simulation for better looking experience and adjustable working area size. </p><p><br /></p><p>Suitable for sci-fi, industrial style games and technical presentation.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "crane-balk",
+  "creationDate": "2019-03-08T16:19:00.410Z",
+  "lastModifiedDate": "2024-10-08T19:10:47.672Z",
+  "effectiveDate": "2019-03-08T16:19:00.033Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-c8e13370634e09bd2cd9b33574f5ff",
+    "name": "Andrey Harchenko"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Easy to use </li><li>Two modes: Fully Automatic / Manual cargo pickup</li><li>Adjustable size. Uses HISM for reducing draw calls</li><li>Physical cables simulation </li><li>Blueprint events - pause, resume, pickup</li><li>Supported static and skeletal meshes as cargo meshes</li></ul><p><strong>Number of Blueprints</strong>: 5</p><p><strong>Number of Static Meshes</strong>: 20</p><p><strong>Number of Skeletal Meshes</strong>: 2</p><p><strong>Number of Textures</strong>: (18) 2048x2048, (2) 4096x4096</p><p><strong>Verts</strong>: 120 - 9,012</p><p><strong>Input</strong>: Gamepad, Keyboard, Mouse</p><p><strong>Network Replicated</strong>: No</p><p><strong>LODs</strong>: No</p><p><strong>Supported Development Platforms</strong>: Windows</p><p><strong>Supported Target Build Platforms</strong>: Windows, Play Station 4, Nintendo Switch</p><p><strong>Documentation</strong>: Included</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dd5d1f98-fb78-474a-a89c-72e9b0a1b6eb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Scr02-1920x1080-48c3e4a3b312bcc1562d2585f8211343.png",
+      "md5": "48c3e4a3b312bcc1562d2585f8211343",
+      "size": 2021520,
+      "uploadedDate": "2019-02-18T04:22:56.716Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Scr01-1920x1080-0b3af6bcc16f5b410dace7d497af5711.png",
+      "md5": "0b3af6bcc16f5b410dace7d497af5711",
+      "size": 2109505,
+      "uploadedDate": "2019-03-07T20:48:06.695Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Scr03-1920x1080-c991a141ab2c48a131f4a5530ebe1388.png",
+      "md5": "c991a141ab2c48a131f4a5530ebe1388",
+      "size": 1212198,
+      "uploadedDate": "2019-02-18T04:22:57.818Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Scr04-1920x1080-d857c24469bd067ad2fef828ac7c57a2.png",
+      "md5": "d857c24469bd067ad2fef828ac7c57a2",
+      "size": 1529973,
+      "uploadedDate": "2019-03-07T20:47:19.315Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Scr05-1920x1080-1eb7f0bc4e72547266ee394f65dfd8ab.png",
+      "md5": "1eb7f0bc4e72547266ee394f65dfd8ab",
+      "size": 2250789,
+      "uploadedDate": "2019-03-07T20:47:19.788Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Scr06-1920x1080-780cad769ff4f625cb21c4ffbc877108.png",
+      "md5": "780cad769ff4f625cb21c4ffbc877108",
+      "size": 2450497,
+      "uploadedDate": "2019-02-18T04:22:58.703Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CraneBalk_thumb-284x284-3551fe3a6e8b1bdf5056cbdca90ec95a.png",
+      "md5": "3551fe3a6e8b1bdf5056cbdca90ec95a",
+      "size": 96651,
+      "uploadedDate": "2019-02-18T04:22:59.046Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CraneBalk_featured-894x488-0f7324341129f8a33a21f9e053524e27.png",
+      "md5": "0f7324341129f8a33a21f9e053524e27",
+      "size": 394598,
+      "uploadedDate": "2019-02-18T04:22:59.129Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr01-1920x1080-0b3af6bcc16f5b410dace7d497af5711_Snapshot.png",
+      "md5": "179b3fc8bf55d3bbd21a97f605ba9aea",
+      "size": 20720,
+      "uploadedDate": "2019-03-07T20:48:06.982Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr04-1920x1080-d857c24469bd067ad2fef828ac7c57a2_Snapshot.png",
+      "md5": "8818b725b3d47aba7b0d1b21ea528008",
+      "size": 18762,
+      "uploadedDate": "2019-03-07T20:47:19.587Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr05-1920x1080-1eb7f0bc4e72547266ee394f65dfd8ab_Snapshot.png",
+      "md5": "a8fef982dbb5dfe8fc3194a5e3d393a2",
+      "size": 20087,
+      "uploadedDate": "2019-03-07T20:47:20.079Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr02-1920x1080-48c3e4a3b312bcc1562d2585f8211343_Snapshot.png",
+      "md5": "b101fe3ebeb3f132add3216098abc0cc",
+      "size": 19448,
+      "uploadedDate": "2019-02-18T04:22:56.968Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr01-1920x1080-795eec19177bb7ae349eae21166cfda1_Snapshot.png",
+      "md5": "1ef96274d78278188b2c479c0ff3f22a",
+      "size": 20007,
+      "uploadedDate": "2019-02-18T04:22:57.642Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr03-1920x1080-c991a141ab2c48a131f4a5530ebe1388_Snapshot.png",
+      "md5": "c6d0cc3d79cd5142a916e50efec0418a",
+      "size": 9279,
+      "uploadedDate": "2019-02-18T04:22:58.064Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr04-1920x1080-a43f73839580e0886555447a6731ab2f_Snapshot.png",
+      "md5": "fa93bfad7a83fbb7bf31ab043a87b28a",
+      "size": 18417,
+      "uploadedDate": "2019-02-18T04:22:58.524Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Scr06-1920x1080-780cad769ff4f625cb21c4ffbc877108_Snapshot.png",
+      "md5": "f1db1eb3b5810dfa9f8a5bba8b54af44",
+      "size": 18627,
+      "uploadedDate": "2019-02-18T04:22:58.939Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d27fa8d89dcb450783ed8367f8bd4315"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,167 @@
+{
+  "id": "33e41f6c65bb459ba408e3fbe5249482",
+  "namespace": "ue",
+  "title": "Classic Survival Horror Camera System",
+  "description": "This is a highly pluggable blueprint camera system that provides features reminiscent of classic survival horror games. It can be added to any project in no time at all, with only some minor updates to the player pawn.",
+  "longDescription": "Preview: <a href=\"https://youtu.be/t1Joat9DTtE\" rel=\"nofollow\">youtu.be/t1Joat9DTtE</a><br /><br />The Classic Survival Horror Camera System provides plug and play camera features reminiscent of classic fixed camera survival horror games. More specifically, it provides a scalable approach to a ‘fixed camera’ game by utilizing a Camera Trigger blueprint that easily maps camera changes, whilst also resolving the functional limitations associated with the standard ‘trigger box’ approach for achieving fixed cameras found within the Unreal Engine documentation. <br /><br />In addition, the Classic Survival Horror Camera System provides four Camera Blueprint variations to really bring scenes to life; a Rotating Camera that rotates to follow the player pawn, a Single Axis Moving Camera which follows the player pawn along a single axis within prescribed bounds, a Single Axis Moving Camera that also rotates to follow the player, and of course a Fixed Camera with a static view point.<br /><br />Using the Classic Survival Horror Camera System couldn’t be easier; getting started is as simple as adding an interface and some functions into your player pawn, then away you go placing cameras and camera triggers in your level. Associating cameras to camera triggers is just a simple configuration change (object selection) and then for each camera object, you can tweak some performance settings (movement bounds, rotation speed etc).",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "classic-survival-horror-camera-system",
+  "creationDate": "2016-03-31T16:47:50.825Z",
+  "lastModifiedDate": "2024-10-10T21:56:38.557Z",
+  "effectiveDate": "2016-04-19T00:00:00.000Z",
+  "viewableDate": "2016-04-19T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-a9d5134fdd4439b96f6e73f97722ce",
+    "name": "InnerVision Software"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 5 Blueprints, 2 Interfaces and a sample character blueprint</p><p><br /></p><p>List of Features:</p><p>scalable 2-way camera trigger</p><p>rotating camera</p><p>single axis moving camera</p><p>single axis moving and rotating camera</p><p>character follow</p><p>camera bounds</p><p>rotation speed</p><p>movement speed</p><p><br /></p><p>Intended Platform: All</p><p><br /></p><p>Platforms Tested: PC, though it should work on any.</p><p><br /></p><p>Documentation Included: Yes. Comes with extensive commenting within the</p><p>blueprints and an online tutorial covering integration with an existing</p><p>character blueprint: <a href=\"http://classicsurvivalhorrorcamerasystem.innervision.software\" rel=\"nofollow\">http:/classicsurvivalhorrorcamerasystem.innervision.software</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d43f8165-ade3-4213-9027-d9f2d3e06847"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Screenshot_1-1920x1080-fc2bf6d1aa702c43b9a135e873419163.png",
+      "md5": "fc2bf6d1aa702c43b9a135e873419163",
+      "size": 361260,
+      "uploadedDate": "2016-08-26T13:52:25.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Screenshot_2-1920x1080-f96aaea6014d724923daf3e645e4db5e.png",
+      "md5": "f96aaea6014d724923daf3e645e4db5e",
+      "size": 718227,
+      "uploadedDate": "2016-08-26T13:52:23.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Screenshot_3-1920x1080-7a4071143c42763427811fe86102ccff.png",
+      "md5": "7a4071143c42763427811fe86102ccff",
+      "size": 570049,
+      "uploadedDate": "2016-08-26T13:52:21.344Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Screenshot_4-1920x1080-3314c459f7d293c292d7684aa9d45bc1.png",
+      "md5": "3314c459f7d293c292d7684aa9d45bc1",
+      "size": 530848,
+      "uploadedDate": "2016-08-26T13:52:19.431Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Screenshot_5-1920x1080-e0a25dc7f5f6f13ba3a0e57e676c6935.png",
+      "md5": "e0a25dc7f5f6f13ba3a0e57e676c6935",
+      "size": 377482,
+      "uploadedDate": "2016-08-26T13:52:17.548Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Screenshot_6-1920x1080-1ed211cdadde723b1095f2d22d020304.png",
+      "md5": "1ed211cdadde723b1095f2d22d020304",
+      "size": 750977,
+      "uploadedDate": "2016-08-26T13:52:15.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Thumb-284x284-ab737a411182c5f91cb843c613bcff6a.png",
+      "md5": "ab737a411182c5f91cb843c613bcff6a",
+      "size": 92052,
+      "uploadedDate": "2016-03-31T16:46:04.038Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_Featured-476x246-eb499fabb74013ffba9ff59a9ff37fbd.png",
+      "md5": "eb499fabb74013ffba9ff59a9ff37fbd",
+      "size": 137787,
+      "uploadedDate": "2016-03-31T16:46:18.034Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/ClassicSurvivalHorrorCameraSystem_FeaturedNew-894x488-1ab4e0d002f8f0aa209d45d075ad3ce9.png",
+      "md5": "1ab4e0d002f8f0aa209d45d075ad3ce9",
+      "size": 493787,
+      "uploadedDate": "2016-03-31T16:46:17.575Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "2cc6d82a639b4469b9117bfb35db8379"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,152 @@
+{
+  "id": "79abb37a1f3a4b1fa24f97b10eb6baf9",
+  "namespace": "ue",
+  "title": "Component Picker Tool",
+  "description": "Easy and fast way of connecting components together without any \"glue\" logic in the parent Actor",
+  "longDescription": "<p>Component Picker Tool allows for creating new properties called &#34;Component Picker&#34;.</p><p>Those properties are expected to be used in components as public fields, then when that component is added to an Actor the &#34;Component Picker&#34; property will allow to reference any component from this Actor&#39;s hierarchy.</p><p><br /></p><p>This plugin&#39;s purpose is to reduce the unnecessary boiler plate code that often creeps in to unreal projects to handle the communication between components.</p><p><br /></p><p>How it works:</p><p>Component Picker holds a referenced component&#39;s name.</p><p>Whenever this name changes it will automatically get updated, doesn&#39;t matter if blueprint is in memory or not, it will be marked as dirty for you to save.</p><p>At runtime the &#34;GetComponent&#34; function evaluates target component and caches it, so there is no need to cache it&#39;s output yourself.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "component-picker-tool",
+  "creationDate": "2024-06-10T21:46:32.605Z",
+  "lastModifiedDate": "2024-10-15T08:19:18.134Z",
+  "effectiveDate": "2024-06-10T21:46:46.897Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ey65vh689xhj3666fqrvrej4y32edq",
+    "name": "Jeremy The Jeremiah"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> Provides code and blueprints with a new property called &#34;Component Picker&#34;</li><li> &#34;Component Picker&#34; will throw compilation errors when left empty in Actor. In code there are additional meta tags that can be used for customization.</li></ul><p>Code Modules: </p><ul><li> ComponentPicker (Runtime)</li><li> ComponentPickerEditor (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No (References are resolved locally and don&#39;t need replication)</p><p>Supported Development Platforms: Should work everywhere</p><p>Supported Target Build Platforms: Should work everywhere</p><p>Documentation: https://docs.google.com/document/d/1hAvPwLHpfLLOSNlj879JzgbrUPBrgNMx2KS4b6RfJ6c/edit?usp&#61;sharing</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8fe9bd99-fd64-4303-b534-d46041d65130"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Guide-1920x1080-2a6f29b7198333627fb75398506f8fe9.png",
+      "md5": "2a6f29b7198333627fb75398506f8fe9",
+      "size": 261613,
+      "uploadedDate": "2024-05-26T21:19:44.190Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Code-1920x1080-0a791dc043fb39413624300af1247381.png",
+      "md5": "0a791dc043fb39413624300af1247381",
+      "size": 157095,
+      "uploadedDate": "2024-05-26T21:19:43.799Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ComponentPickerTool_thumb-284x284-2e7c55dd9b96669454245de249ab8560.png",
+      "md5": "2e7c55dd9b96669454245de249ab8560",
+      "size": 48518,
+      "uploadedDate": "2024-05-26T21:19:44.503Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ComponentPickerTool_featured-894x488-f2f64f6cf7ea60667e4e21a5f265f600.png",
+      "md5": "f2f64f6cf7ea60667e4e21a5f265f600",
+      "size": 191969,
+      "uploadedDate": "2024-05-26T21:19:44.626Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Code-1920x1080-0a791dc043fb39413624300af1247381_Snapshot.png",
+      "md5": "22e8263ad73fe0885cfc250f267037ac",
+      "size": 3134,
+      "uploadedDate": "2024-05-26T21:19:44.046Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Guide-1920x1080-2a6f29b7198333627fb75398506f8fe9_Snapshot.png",
+      "md5": "2c5f2db7acba4fc45a98c7dc2a2d59a9",
+      "size": 3702,
+      "uploadedDate": "2024-05-26T21:19:44.458Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cf7f6e35761a4c8086fec27461cc58ed"
+    }
+  ],
+  "catalogNs": null
+}

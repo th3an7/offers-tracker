@@ -1,0 +1,197 @@
+{
+  "id": "9e6b2ae53ea8462ca0f4df559c7e8795",
+  "namespace": "ue",
+  "title": "Ornate Tiles Pack",
+  "description": "Ornate tile set with tileable PBR textures and custom dirt layer system in the shader.",
+  "longDescription": "<p>This pack contains 6 different ornate tiles that are all tileable and are ready for PBR. This pack also comes with a master material which has functionality to allow you to tile the different textures uniquely per material and add different layers of dirt, dust and leaking per material to best suit the scene you are creating.</p><p><br /></p><p>Each material is instanced from the master shader and has functionality to turn off different features like the dirt, normal map and other parts of the shader. Each material comes with 3 texture maps albedo, normal and PSM ( Pack Specular Map). In the PSM the red channel contains the roughness map, green channel contains metal and blue channel contains AO.</p><p><br /></p><p>Visit this Youtube link to see how it works. https://youtu.be/UHbqfsNu30o</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ornate-tiles-pack",
+  "creationDate": "2018-02-27T13:34:15.497Z",
+  "lastModifiedDate": "2024-10-10T19:46:00.143Z",
+  "effectiveDate": "2018-02-27T13:34:15.464Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5v9l7trzrdk2rtg4pq7dxyw3e3pzy3",
+    "name": "Matthew Syrett"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Tileable textures, with full function in the shader to tile the textures.</li><li>Use of dirt maps and dust maps in the shader to layer and customize dirt dependent on the scene.</li><li>PBR ready</li></ul><p>Texture Resolutions: (complete list)</p><ul><li>OrnateTile01 1024x1024</li><li>OrnateTile02 1024x1024</li><li>OrnateTile03 1024x1024</li><li>OrnateTile04 1024x1024</li><li>OrnateTile05 1024x1024</li><li>OrnateTile06 1024x1024</li><li>Dirt Map 1024x1024</li></ul><p>Number of Materials: 6 Material Instances</p><p>Do Materials derive from a Master Material with instances as variation: Yes</p><p>Number of Textures: 22</p><p>Supported Development Platforms: Windows, Mac, PS4, Xbox One, Vive, and Oculus.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fb1b3068-42f5-4b78-b8f4-5062fa271b86"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MainShot-1920x1080-c20a32e4d8a9cc3fc73702dacd696ade.png",
+      "md5": "c20a32e4d8a9cc3fc73702dacd696ade",
+      "size": 2732005,
+      "uploadedDate": "2018-02-20T16:31:14.474Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MainShot1-1920x1080-a4529e428e970d850de1766129d11f39.png",
+      "md5": "a4529e428e970d850de1766129d11f39",
+      "size": 2274812,
+      "uploadedDate": "2018-02-20T16:31:14.716Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ornate Tile 01-1920x1080-d14cfae7c4b28a0e915c4d1dfcf874ad.png",
+      "md5": "d14cfae7c4b28a0e915c4d1dfcf874ad",
+      "size": 1973292,
+      "uploadedDate": "2018-02-20T16:31:15.882Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ornate Tile 02-1920x1080-fc111e8e3c6c44f8560fe5a3a41edda3.png",
+      "md5": "fc111e8e3c6c44f8560fe5a3a41edda3",
+      "size": 1425174,
+      "uploadedDate": "2018-02-20T16:31:14.925Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ornate Tile 03-1920x1080-8089a77287edc31cdae8cb9fa09944de.png",
+      "md5": "8089a77287edc31cdae8cb9fa09944de",
+      "size": 1759966,
+      "uploadedDate": "2018-02-20T16:31:15.161Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ornate Tile 04-1920x1080-2540ac5c2549fccfe457e120928cb960.png",
+      "md5": "2540ac5c2549fccfe457e120928cb960",
+      "size": 1695599,
+      "uploadedDate": "2018-02-20T16:31:15.417Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ornate Tile 05-1920x1080-6dafc4f96de93dc1d58df4e77d31601a.png",
+      "md5": "6dafc4f96de93dc1d58df4e77d31601a",
+      "size": 1736224,
+      "uploadedDate": "2018-02-20T16:31:15.635Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ornate Tile 06-1920x1080-efc8e73a83c3e59ca10891ac461b9637.png",
+      "md5": "efc8e73a83c3e59ca10891ac461b9637",
+      "size": 1941120,
+      "uploadedDate": "2018-02-20T16:31:16.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NoDirt-1920x1080-0b4a96f44f8c1e3707e073a9ce54af62.png",
+      "md5": "0b4a96f44f8c1e3707e073a9ce54af62",
+      "size": 1684883,
+      "uploadedDate": "2018-02-20T16:47:06.951Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dirt-1920x1080-4174c02da44f7068e7a2f7aa19aa0d55.png",
+      "md5": "4174c02da44f7068e7a2f7aa19aa0d55",
+      "size": 1646621,
+      "uploadedDate": "2018-02-20T16:47:07.200Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dust-1920x1080-6534d6d690f3ea6151b07bcb8bd996dd.png",
+      "md5": "6534d6d690f3ea6151b07bcb8bd996dd",
+      "size": 1672578,
+      "uploadedDate": "2018-02-20T16:47:07.436Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Leaking-1920x1080-8bdadbcec79eabb90abdff21e765d9a5.png",
+      "md5": "8bdadbcec79eabb90abdff21e765d9a5",
+      "size": 1776797,
+      "uploadedDate": "2018-02-20T16:47:07.766Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Instanced Material-1920x1080-8f4fad50efd8d5276e2bbcc3e3d01f80.PNG",
+      "md5": "8f4fad50efd8d5276e2bbcc3e3d01f80",
+      "size": 1399457,
+      "uploadedDate": "2018-02-20T16:31:16.274Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OrnateTilesPack_thumb-284x284-77dabb1138dc983f877029af9c8c1dcd.png",
+      "md5": "77dabb1138dc983f877029af9c8c1dcd",
+      "size": 106363,
+      "uploadedDate": "2018-02-20T16:31:16.328Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OrnateTilesPack_featured-894x488-bd45c98fba60f47b79a35f1c23b2aeab.png",
+      "md5": "bd45c98fba60f47b79a35f1c23b2aeab",
+      "size": 698976,
+      "uploadedDate": "2018-02-20T16:31:16.441Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "b9c10571dde745c5ad05c959b013f737"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,251 @@
+{
+  "id": "ff439820f18e463caf0b38400ebe8389",
+  "namespace": "ue",
+  "title": "Ariel Voice Generation",
+  "description": "Give your NPCs a voice! Easily create & customize voices for your NPCs. Get unlimited access to Ariel.",
+  "longDescription": "<p><strong>[API UPDATE - May 16 2024]</strong></p><p>We have updated the model used for premium voices. The overall quality has highly improved, and there is less unwanted noise. However, there are some cases where you still want to use the old Ariel voices (i.e: if you have already started working on a game and you have generated voicelines with the old model). In this case, please do not hesitate to contact us through our <a href=\"https://discord.gg/qDMwNCDE8X\" rel=\"nofollow\">Discord server</a> or by <a href=\"mailto:contact&#64;xandimmersion.com\" rel=\"nofollow\">email</a>.</p><p><br /></p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;JPoVvLgIM3o\" rel=\"nofollow\"><strong>Make your characters talk</strong>!</a></p><p><br /></p><p>&#x1f579;️ Write your sentences and the plugin will generate audio files for the characters in your game. Select the language, speaker, pitch and speed to customize the voice of your characters. </p><p>The audio can be played in <strong>runtime </strong>or saved in a directory as<strong> audio file.</strong></p><p><br /></p><p><strong>[Version 1.2.1 new features!]</strong></p><ul><li>A lot of new languages for premium voices! (See <a href=\"https://github.com/X-Immersion/Ariel_Unreal_documentation/blob/1.2.1/README.md#speakers\" rel=\"nofollow\">speakers list</a> for more details)</li><li>The speakers list is now automatically obtained from the API server (no more hardcoded)</li><li>Ariel response now returns the audio bytes (as a TArray&lt;uint8&gt;)</li><li>Added a new node to convert audio bytes into a <strong>SoundWave Asset</strong>. Can be done at Runtime, on packaged projects!</li><li>Added the &#39;langauge&#39; parameter (relevant for speaker with multiple languages)</li><li>Added the &#39;Voice Adjustments&#39; parameter</li><li>Added a new struct &#39;FArielSpeaker&#39;</li><li>Removed the unused file formats in &#39;EArielAudioFormat&#39; (WAV and MP3 are available)</li></ul><p><br /></p><p><br /></p><p><strong> [Version 1.2 new features!]</strong></p><ul><li>New alien voices and effects!</li><li>[Editor and Runtime] you can now filter speakers by language and/or gender</li><li>[Editor] you can now scheme the filename (using speaker name, uuid, dates and more!)</li><li>[Editor] content is now in a scoll box</li><li>Small bug fixes</li></ul><p><br /></p><p><br /></p><p>&#x1f3a4; This <strong>neural text-to-speech</strong> package transforms text into high quality voices.</p><p><br /></p><p><strong>Save time and money</strong> while remaining flexible!</p><p><br /></p><p><strong>Contact us</strong> for additional or custom voices at <em>contact&#64;xandimmersion.com </em>or join our <a href=\"https://discord.gg/qDMwNCDE8X\" rel=\"nofollow\">discord server</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ariel-voice-generation",
+  "creationDate": "2023-02-16T10:30:18.201Z",
+  "lastModifiedDate": "2024-10-15T06:19:59.125Z",
+  "effectiveDate": "2023-02-16T10:30:18.146Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3ha3hv53yvzleu9zfy4zn7c7sbpvdw",
+    "name": "X and Immersion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/78WMagHKaow\" rel=\"nofollow\">&#x1f3ac; <strong>Youtube tutorial video</strong></a></p><p><br /></p><p>Features:</p><ul><li><strong> 26 </strong>high <strong>neuronal</strong> <strong>voices </strong>for video games, <a href=\"https://www.youtube.com/watch?v&#61;KUWxbLZ5WwQ\" rel=\"nofollow\">Including <strong>fantastics voices</strong> (Orc, goblin, ...)</a>. <em>!! NEW API model. Please check the top of description !!</em></li><li> Another <strong>62 fast voices</strong> in several languages.</li></ul><p>Code Modules:</p><ul><li>Ariel Runtime (C&#43;&#43; Blueprint library).</li><li>Ariel Editor (Blueprint Editor Utility Widget).</li></ul><p><br /></p><p>&#x1f4d3; <a href=\"https://github.com/X-Immersion/Ariel_Unreal_documentation/blob/1.2.1/README.md\" rel=\"nofollow\">Documentation link </a></p><p><br /></p><p>Number of Blueprints: 2 (Demo and Editor Utility Widget)</p><p>Number of C&#43;&#43; Classes: 8 (4 runtime and 4 editor)</p><p>Number of C&#43;&#43; Enums: 2</p><p>Number of C&#43;&#43; Structs: 1</p><p>Supported Development Platforms: Available for Unreal 5.0 and 5.1 (old version), 5.2, 5.3 and 5.4 (new version).</p><p>Supported Target Build Platforms: Tested with Windows x64, MacOS and Linux.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7a3354f0-44c7-43ea-8656-23814c9f393d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ariel19201080-1920x1080-813dfb5b3c56eec628a30a2f8f28ac54.png",
+      "md5": "813dfb5b3c56eec628a30a2f8f28ac54",
+      "size": 1959693,
+      "uploadedDate": "2023-02-16T10:29:06.373Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/editor-1920x1080-d39f77927dbd884e20703710dcc99edc.png",
+      "md5": "d39f77927dbd884e20703710dcc99edc",
+      "size": 247353,
+      "uploadedDate": "2023-02-22T14:55:13.549Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/blueprint nodes-1920x1080-96653bb79519d8d2e135e89ad3b03ab3.png",
+      "md5": "96653bb79519d8d2e135e89ad3b03ab3",
+      "size": 220051,
+      "uploadedDate": "2023-02-22T14:55:13.977Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/demo-1920x1080-4a67e5de7bf7b24a4dc51489b70a4f23.png",
+      "md5": "4a67e5de7bf7b24a4dc51489b70a4f23",
+      "size": 997932,
+      "uploadedDate": "2023-02-22T14:55:14.396Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ArielVoiceGeneration_thumb-284x284-4463c7b9441299fbb973d61d31a1b335.png",
+      "md5": "4463c7b9441299fbb973d61d31a1b335",
+      "size": 89393,
+      "uploadedDate": "2023-02-16T10:30:16.969Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ArielVoiceGeneration_featured-894x488-d84a2eee8204f6f73b7a20327290ec11.png",
+      "md5": "d84a2eee8204f6f73b7a20327290ec11",
+      "size": 254060,
+      "uploadedDate": "2023-01-04T10:06:32.781Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/editor-1920x1080-d39f77927dbd884e20703710dcc99edc_Snapshot.png",
+      "md5": "7cfe82e3b6f91150d65b681ef684fb9b",
+      "size": 4416,
+      "uploadedDate": "2023-02-22T14:55:13.812Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/blueprint nodes-1920x1080-96653bb79519d8d2e135e89ad3b03ab3_Snapshot.png",
+      "md5": "71af7ed0ee7caef5910a65a5a7faa180",
+      "size": 4135,
+      "uploadedDate": "2023-02-22T14:55:14.211Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/demo-1920x1080-4a67e5de7bf7b24a4dc51489b70a4f23_Snapshot.png",
+      "md5": "fcd5118d3940dd69d60cdc2a3580d50d",
+      "size": 5810,
+      "uploadedDate": "2023-02-22T14:55:14.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Ariel19201080-1920x1080-813dfb5b3c56eec628a30a2f8f28ac54_Snapshot.png",
+      "md5": "3da8a058ea922611b484275622daf9c0",
+      "size": 6882,
+      "uploadedDate": "2023-02-16T10:29:06.799Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ARIELGALLERY0-1920x1080-c00d899a692f2bae82db70c1882b15aa_Snapshot.png",
+      "md5": "57d4c785448afae9ab5831e362321b77",
+      "size": 7202,
+      "uploadedDate": "2023-01-04T10:06:31.923Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ARIELGALLERY1-1920x1080-80ece28a65e827d800edd5ecf6f8303d_Snapshot.png",
+      "md5": "a11ba253ffd46fef32550067698c6c21",
+      "size": 5905,
+      "uploadedDate": "2023-01-04T10:06:32.279Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ARIELGALLERY2-1920x1080-d48edf4fb07a5de27be6f7c517d41134_Snapshot.png",
+      "md5": "cf14308d0d08dd9d57c995d1783527c2",
+      "size": 6074,
+      "uploadedDate": "2023-01-04T10:06:32.648Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8a71dcd4b9d04a1e87400ec3b0372a33"
+    }
+  ],
+  "catalogNs": null
+}

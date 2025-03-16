@@ -1,0 +1,317 @@
+{
+  "id": "c7bb02b44c834226a27a2edf35cb7eae",
+  "namespace": "ue",
+  "title": "Level Designer",
+  "description": "Achieve high quality level block outs in under a minute",
+  "longDescription": "<p>❗<strong>Required Plugins </strong>(Free)❗</p><ul><li>Geometry Script</li><li>Dataprep Editor</li><li>Dataprep Geometry Operations</li></ul><p>This asset allows you to quickly block out levels; starting by dragging in a BP_Room actor, tweak variables to determine what kind of room it is, and easily spawn another room snapped after it. This utilizes geometry scripts but also comes with the ability to bake out your rooms into the below static meshes:</p><ol><li>Each individual part of the room (floor, walls, front door, back door, stairs, ramps, etc)</li><li>Consolidated room (combination of each room&#39;s parts above)</li><li>Consolidation of multiple rooms (front door, hallway, room 1, room 2, stairway)</li></ol><p><strong>⚠️ Important ⚠️</strong></p><p>This asset relies completely on the <u>Geometry Script</u> plugin (free from Epic) which uses real-time building of rooms. Projects can experience occasional random crashing (nothing game-breaking). Additionally, the editor utility recompiles the main blueprint when using functions, so please ensure you aren&#39;t spamming the buttons as compiling needs to finish before continuing</p><p>Dataprep plugins allow for additional steps to be performed during generation like setting collisions to &#34;Complex As Simple&#34;</p><p><a href=\"https://github.com/dylogaming/LevelDesigner/wiki\" rel=\"nofollow\">DOCUMENTATION</a></p><p><a href=\"https://youtu.be/yklEKIaUp8c\" rel=\"nofollow\">TUTORIAL</a></p><p><a href=\"https://discord.gg/AB65GBxFNT\" rel=\"nofollow\">DISCORD</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "level-designer",
+  "creationDate": "2024-08-30T16:51:57.097Z",
+  "lastModifiedDate": "2024-10-19T23:43:04.522Z",
+  "effectiveDate": "2024-08-30T16:51:57.068Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ldbc3w89emxnb3rf2jhckfbb47lt6q",
+    "name": "DYLO Gaming"
+  },
+  "linkedOfferId": null,
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Exposed 3d vectors allowing for quick &amp; easy modification of room details (drag a point to extend the floor, stairs, increase steepness, location of windows</li><li> Custom Editor Utility Widget made with functions to accelerate room building with preset parameters (should this room be just the floor, a hallway, have a ceiling, have windows, stairs, etc)</li><li> Detailed baking allowing you to have complete control of your creations as well as allowing for optimization</li><li>Clear measurements of room dimensions (length, width, height &#61; X,Y,Z)</li><li>Window &amp; Pillar arrays</li></ul><p>Number of Blueprints: 12</p><ul><li>You&#39;ll more than likely just use 2, the main room actor &amp; the editor utility widget</li></ul><p>Input: Keyboard &amp; Mouse</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><a href=\"https://github.com/dylogaming/LevelDesigner/wiki\" rel=\"nofollow\">DOCUMENTATION</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e6b4ed95-32d1-40ca-9228-f5e974c46854"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/level designer-1920x1080-aca02d00c9f5526fb47154356f7ecbc3.png",
+      "md5": "aca02d00c9f5526fb47154356f7ecbc3",
+      "size": 2214687,
+      "uploadedDate": "2024-08-27T00:30:16.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-fe8398115488e583ec36c73e1cccfac1.png",
+      "md5": "fe8398115488e583ec36c73e1cccfac1",
+      "size": 973119,
+      "uploadedDate": "2024-08-30T16:47:24.080Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-c659623376023afb61ebdb017c5686c5.png",
+      "md5": "c659623376023afb61ebdb017c5686c5",
+      "size": 2334684,
+      "uploadedDate": "2024-08-30T16:47:24.514Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/level designer 1280 x 720 px 1920 x 1080 px-1920x1080-566e717ecfcb973968115f0b43574c19.png",
+      "md5": "566e717ecfcb973968115f0b43574c19",
+      "size": 1362277,
+      "uploadedDate": "2024-08-30T17:03:19.106Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/level designer 1280 x 720 px 1920 x 1080 px-1920x1080-996813c20c818866cefa1462aba139af.png",
+      "md5": "996813c20c818866cefa1462aba139af",
+      "size": 1610452,
+      "uploadedDate": "2024-10-01T05:23:10.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/level designer 1280 x 720 px 1920 x 1080 px 1-1920x1080-2590ecca22349b92f61b3371a32de253.png",
+      "md5": "2590ecca22349b92f61b3371a32de253",
+      "size": 2027968,
+      "uploadedDate": "2024-10-01T05:23:11.272Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LevelDesigner_thumb-284x284-2f1bf811aa2b43c8327836094f13e365.png",
+      "md5": "2f1bf811aa2b43c8327836094f13e365",
+      "size": 126972,
+      "uploadedDate": "2024-08-27T00:30:17.307Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LevelDesigner_featured-894x488-79ff89abcc12da4e21bf1b874a019b33.png",
+      "md5": "79ff89abcc12da4e21bf1b874a019b33",
+      "size": 549301,
+      "uploadedDate": "2024-08-27T00:30:17.425Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/level designer 1280 x 720 px 1920 x 1080 px-1920x1080-996813c20c818866cefa1462aba139af_Snapshot.png",
+      "md5": "48a26e8f46072ee8739c88004129f1ca",
+      "size": 6130,
+      "uploadedDate": "2024-10-01T05:23:11.080Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/level designer 1280 x 720 px 1920 x 1080 px 1-1920x1080-2590ecca22349b92f61b3371a32de253_Snapshot.png",
+      "md5": "adc196787c4afbe2061255fdcf3bbc17",
+      "size": 6989,
+      "uploadedDate": "2024-10-01T05:23:11.560Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/level designer 1280 x 720 px 1920 x 1080 px-1920x1080-566e717ecfcb973968115f0b43574c19_Snapshot.png",
+      "md5": "4a799a2e9c7787640ce7a2dc86cdf294",
+      "size": 6871,
+      "uploadedDate": "2024-08-30T17:03:19.368Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-fe8398115488e583ec36c73e1cccfac1_Snapshot.png",
+      "md5": "eb688fe973e1500ab12af5e8dcbabfd8",
+      "size": 7242,
+      "uploadedDate": "2024-08-30T16:47:24.374Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-c659623376023afb61ebdb017c5686c5_Snapshot.png",
+      "md5": "b85007b90e456f38378ba230af37869a",
+      "size": 7725,
+      "uploadedDate": "2024-08-30T16:47:24.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-39649083648136ef0f6c6a6f3ede384e_Snapshot.png",
+      "md5": "8d7671226611bb7727a78b6cc784aba2",
+      "size": 6834,
+      "uploadedDate": "2024-08-30T16:47:25.270Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/level designer-1920x1080-aca02d00c9f5526fb47154356f7ecbc3_Snapshot.png",
+      "md5": "631edda0d2ddce6d031ff8e0443da860",
+      "size": 6634,
+      "uploadedDate": "2024-08-27T00:30:17.226Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "30b955f2e71a4ac2bb1d4b9afcaf8a50"
+    }
+  ],
+  "catalogNs": null
+}

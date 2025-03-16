@@ -1,0 +1,272 @@
+{
+  "id": "e781be39a4974f32800718dac75f1482",
+  "namespace": "ue",
+  "title": "Skeletal Mesh Paint Toolkit",
+  "description": "The Skeletal Mesh Paint Toolkit allows you to paint any kind of texture onto any kind of mesh inside unreal engine.",
+  "longDescription": "<p><strong>SHOWCASE</strong></p><p><a href=\"https://www.youtube.com/watch?v&#61;75njCd0Zgtw\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;75njCd0Zgtw</a></p><p><br /></p><p><strong>DEMO</strong></p><p><a href=\"https://drive.google.com/file/d/1Om6qDruqQUOZ8aM4NUQPxzI0NdFTr5vq/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1Om6qDruqQUOZ8aM4NUQPxzI0NdFTr5vq/view?usp&#61;sharing</a></p><p><br /></p><p><strong>The Skeletal Mesh Paint Toolkit allows you to paint any kind of texture onto any kind of mesh inside unreal engine.</strong></p><p><strong>It uses a GPU based approach to project textures onto static or skeletal meshes. It does not require any C&#43;&#43; code purely done with blueprints. All you need to do is add the BP_MeshPaint component to your static meshes and now you&#39;re ready to paint.</strong></p><p><strong>You can customize texture resolution and brush sizes, also you can easily add your custom brushes by creating a data asset.</strong></p><p><strong>It comes with built in networking so if you want replication just make sure your actor replication is enabled.</strong></p><p><strong>There&#39;s a full tutorial on how this technique works on my youtube also a tutorial explaining how to use this asset pack and what kind of effects you&#39;re able to make.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "skeletal-mesh-paint-toolkit",
+  "creationDate": "2021-10-23T21:23:01.688Z",
+  "lastModifiedDate": "2024-10-03T00:11:15.787Z",
+  "effectiveDate": "2021-10-23T21:23:01.621Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-98jnryqyjm4dcb2hsqhqh4uapc4ed9",
+    "name": "Astera"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Simple &amp; Well documented blueprints</li><li>Entirely GPU based</li><li>Paint on Static Mesh</li><li>Paint on Skeletal Mesh</li><li>Paint Colors</li><li>Paint Emissive Colors</li><li>Paint Normals</li><li>Paint Custom Texture</li><li>Custom Brush &amp; Texture support</li><li>Customizable texture resolution for each asset</li><li>Component based modular system, just drag &amp; drop Bp_MeshPaint component and all is set</li><li>Network Replication support</li></ul><p><br /></p><p><strong>Contents</strong></p><p>Number of Blueprints: <strong>10</strong></p><p>Number of Materials: <strong>8</strong></p><p>Number of Material Functions: <strong>2</strong></p><p>Number of Textures: <strong>7</strong></p><p>Number of Skeletal Meshes:<strong> 1</strong></p><p>Number of Animations: <strong>2</strong></p><p>Number of Static Meshes: <strong>1</strong></p><p><br /></p><p><strong>Input:</strong></p><ul><li>Left Mouse Button (Paint)</li><li>Mouse Movement</li><li>WASD - Movement</li><li>Ctrl - Crouch</li><li>Space - Jump</li></ul><p><br /></p><p>Network Replicated: <strong>YES</strong></p><p><br /></p><p><strong>Supported Development Platforms</strong></p><ul><li>Windows: <strong>Yes</strong></li><li>Mac: <strong>Yes</strong></li><li>Linux: <strong>Yes</strong></li></ul><p><br /></p><p><strong>Documentation:</strong></p><p>Tutorial video explaining the entire system and the process.</p><p><a href=\"https://www.youtube.com/watch?v&#61;gyAFtpEpBnk\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;gyAFtpEpBnk</a></p><p><br /></p><p><strong>For help &amp; support please contact me on discord here</strong></p><p><a href=\"https://discord.gg/GxrefVrKrK\" rel=\"nofollow\">https://discord.gg/GxrefVrKrK</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1353",
+      "name": "CAPITALISM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:13.701Z",
+      "updated": "2019-06-20T12:01:13.701Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c94fffff-b5d7-4b27-b36a-33b7550d4d35"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Photo6-1920x1080-e43455a2e9cef86cb0f89d88449d1626.png",
+      "md5": "e43455a2e9cef86cb0f89d88449d1626",
+      "size": 1800680,
+      "uploadedDate": "2021-10-13T18:25:12.838Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Photo5-1920x1080-93f965819f5431749fb8f422166e9899.png",
+      "md5": "93f965819f5431749fb8f422166e9899",
+      "size": 1876610,
+      "uploadedDate": "2021-10-13T18:25:12.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Photo4-1920x1080-ca0db184d95eb9665b1e6e783e119668.png",
+      "md5": "ca0db184d95eb9665b1e6e783e119668",
+      "size": 1597305,
+      "uploadedDate": "2021-10-13T18:25:11.560Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Photo3-1920x1080-f04cb8445b474fb2d3b8d64332be1adc.png",
+      "md5": "f04cb8445b474fb2d3b8d64332be1adc",
+      "size": 1612678,
+      "uploadedDate": "2021-10-13T18:25:10.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Photo1-1920x1080-710cf687383f12fd5e2b831bbfee6a71.png",
+      "md5": "710cf687383f12fd5e2b831bbfee6a71",
+      "size": 1496050,
+      "uploadedDate": "2021-10-13T18:25:09.600Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Photo2-1920x1080-61520229c67b82e47c85d720c8d9f69f.png",
+      "md5": "61520229c67b82e47c85d720c8d9f69f",
+      "size": 1585557,
+      "uploadedDate": "2021-10-13T18:25:10.209Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SkeletalMeshPaintToolkit_thumb-284x284-fdfed448477c559df2b6c3bb9b2aa89f.png",
+      "md5": "fdfed448477c559df2b6c3bb9b2aa89f",
+      "size": 107504,
+      "uploadedDate": "2021-10-13T18:25:13.380Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SkeletalMeshPaintToolkit_featured-894x488-2853c7755a4618c5a4db9a97fdb4237c.png",
+      "md5": "2853c7755a4618c5a4db9a97fdb4237c",
+      "size": 464431,
+      "uploadedDate": "2021-10-13T18:25:13.494Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Photo1-1920x1080-710cf687383f12fd5e2b831bbfee6a71_Snapshot.png",
+      "md5": "3d3359632611ab60f6f62cfd2d7aec77",
+      "size": 7226,
+      "uploadedDate": "2021-10-13T18:25:09.955Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Photo2-1920x1080-61520229c67b82e47c85d720c8d9f69f_Snapshot.png",
+      "md5": "e9ac28554d04ed21927777a023ec0d1e",
+      "size": 7723,
+      "uploadedDate": "2021-10-13T18:25:10.614Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Photo3-1920x1080-f04cb8445b474fb2d3b8d64332be1adc_Snapshot.png",
+      "md5": "1dbea0d99002d5b0660f3617a91bee48",
+      "size": 7218,
+      "uploadedDate": "2021-10-13T18:25:11.231Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Photo4-1920x1080-ca0db184d95eb9665b1e6e783e119668_Snapshot.png",
+      "md5": "79c4a351cd3a433f6e8684b7528d7eb0",
+      "size": 7247,
+      "uploadedDate": "2021-10-13T18:25:11.930Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Photo5-1920x1080-93f965819f5431749fb8f422166e9899_Snapshot.png",
+      "md5": "b3d0666d47ede12f4b360ab28162499b",
+      "size": 7132,
+      "uploadedDate": "2021-10-13T18:25:12.607Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Photo6-1920x1080-e43455a2e9cef86cb0f89d88449d1626_Snapshot.png",
+      "md5": "6a634147e6ba370ba176831bb8ff4088",
+      "size": 7058,
+      "uploadedDate": "2021-10-13T18:25:13.231Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d50b4c443602452788eecd9905100019"
+    }
+  ],
+  "catalogNs": null
+}

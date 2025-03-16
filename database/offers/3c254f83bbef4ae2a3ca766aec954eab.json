@@ -1,0 +1,203 @@
+{
+  "id": "3c254f83bbef4ae2a3ca766aec954eab",
+  "namespace": "ue",
+  "title": "Auto Mesh Outline",
+  "description": "This plug-in automatically sets the outline mesh via the component tag.",
+  "longDescription": "<p><a href=\"https://youtu.be/_CxxUX2F1Uc\" rel=\"nofollow\">[YouTube 1]</a></p><p><a href=\"https://youtu.be/qgspNAEVMjg\" rel=\"nofollow\">[YouTube 2]</a></p><p>You can automatically add different types of outline via the component tag.</p><p>Useful for multi-part character mesh outline.</p><p>When mesh parts change at runtime, you can automatically apply the outline to the mesh</p><p> by calling &#34;update outline&#34; function.</p><p>You can also easily change the outline properties.</p><p>It also supports network.</p><p>Does not support changing component tags on runtime.</p><p><br /></p><p>Ver 1.1</p><ul><li>Add dissolve sample <a href=\"https://youtu.be/3ywJLKmPlFM\" rel=\"nofollow\">[YouTube 3]</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "auto-mesh-outline",
+  "creationDate": "2023-01-30T19:04:44.539Z",
+  "lastModifiedDate": "2024-10-15T05:07:08.914Z",
+  "effectiveDate": "2023-01-30T19:04:44.468Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qrh63v8tqp3cr95z85ls5rfwlklbm9",
+    "name": "HGsofts"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Outline Thickness</li><li>Outline Color</li><li>Blink Speed</li><li>Network Replicated</li><li>Change and Revert Outline properties</li><li>Support manually adding outline</li><li> not use Processing</li><li> not use Stencil buffer </li></ul><p>Code Modules:</p><ul><li> OutlinePlugin (Runtime)</li></ul><p>Number of Blueprints: 3</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: Yes</p><p>Documentation: <a href=\"https://drive.google.com/file/d/16_sIyXzwFS8Q1qR1PNlyQqOdnAQGMiNr/view\" rel=\"nofollow\">Link</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1-ApKTlOtYEb4UiyzR-T_66b_soIXRSZ9/view?usp&#61;share_link\" rel=\"nofollow\">Link</a></p><p>Important/Additional Notes:</p><p>I only used the Unreal function, so I think it will work on all platforms, but I haven&#39;t tested it.</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2f17a5e6-2049-43c6-8342-7caf7efb067c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY0-1920x1080-3f179eb0edfb8ac0247f41c4c50d379c.jpg",
+      "md5": "3f179eb0edfb8ac0247f41c4c50d379c",
+      "size": 420131,
+      "uploadedDate": "2023-01-24T00:47:46.821Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY1-1920x1080-5efc19ff37b6c122c6ac923ea97aea10.jpg",
+      "md5": "5efc19ff37b6c122c6ac923ea97aea10",
+      "size": 745455,
+      "uploadedDate": "2023-01-24T00:47:47.690Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY2-1920x1080-0d0e14ea6cfc3df7032b36cdf1a3178a.jpg",
+      "md5": "0d0e14ea6cfc3df7032b36cdf1a3178a",
+      "size": 765560,
+      "uploadedDate": "2023-01-24T00:47:48.665Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY3-1920x1080-e8760df13a48b17f898de26fd2ddd3cd.jpg",
+      "md5": "e8760df13a48b17f898de26fd2ddd3cd",
+      "size": 554441,
+      "uploadedDate": "2023-01-24T00:47:49.505Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY4-1920x1080-b22a011740238525cf275a42f05162e6.jpg",
+      "md5": "b22a011740238525cf275a42f05162e6",
+      "size": 615119,
+      "uploadedDate": "2023-02-03T18:53:51.249Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AutoMeshOutline_thumb-284x284-e5a9d01191d87e85f330a400a98493a9.png",
+      "md5": "e5a9d01191d87e85f330a400a98493a9",
+      "size": 88715,
+      "uploadedDate": "2023-01-24T00:47:50.882Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AutoMeshOutline_featured-894x488-7545202703840987bf20ac11f570eab9.png",
+      "md5": "7545202703840987bf20ac11f570eab9",
+      "size": 361488,
+      "uploadedDate": "2023-01-24T00:47:51.029Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY4-1920x1080-b22a011740238525cf275a42f05162e6_Snapshot.jpg",
+      "md5": "a4ebc5856e7f9b88bc56d9a67e379ed6",
+      "size": 4321,
+      "uploadedDate": "2023-02-03T18:53:51.755Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0-1920x1080-3f179eb0edfb8ac0247f41c4c50d379c_Snapshot.jpg",
+      "md5": "1bd7757538e3fdc888086ab79a427dfb",
+      "size": 4087,
+      "uploadedDate": "2023-01-24T00:47:47.362Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY1-1920x1080-5efc19ff37b6c122c6ac923ea97aea10_Snapshot.jpg",
+      "md5": "e097ea0d4f81f938427defea81ae0207",
+      "size": 7023,
+      "uploadedDate": "2023-01-24T00:47:48.280Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY2-1920x1080-0d0e14ea6cfc3df7032b36cdf1a3178a_Snapshot.jpg",
+      "md5": "4d7e85b4e0484a9a2184dc59973280a8",
+      "size": 6789,
+      "uploadedDate": "2023-01-24T00:47:49.223Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY3-1920x1080-e8760df13a48b17f898de26fd2ddd3cd_Snapshot.jpg",
+      "md5": "7ff2f8d8d89ec0a98b4e7c581f92eee5",
+      "size": 4616,
+      "uploadedDate": "2023-01-24T00:47:50.048Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY4-1920x1080-53a24622fdb01d7f3dcb183d1d072e2d_Snapshot.jpg",
+      "md5": "95755d68d0dfcb449cce6677078bf14c",
+      "size": 4351,
+      "uploadedDate": "2023-01-24T00:47:50.838Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "800c260ed9d541df83ab510e837bd82e"
+    }
+  ],
+  "catalogNs": null
+}

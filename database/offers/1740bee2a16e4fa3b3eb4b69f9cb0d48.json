@@ -1,0 +1,182 @@
+{
+  "id": "1740bee2a16e4fa3b3eb4b69f9cb0d48",
+  "namespace": "ue",
+  "title": "TCPClientPlugin",
+  "description": "TCPClinetPlugin enables TCP communication in Unreal.",
+  "longDescription": "<p>TCPClinetPlugin enables TCP communication in Unreal</p><p>It can be customized to fit your server environment.</p><p>You can easily implement all the feature by learning how to use 4 blueprints.</p><p>It uses only Native C&#43;&#43; and Unreal basic classes, has few dependencies, and supports multiplatform.</p><p><br /></p><p>Patch Note</p><p>Unreal 5 will only support updates for the three latest versions going forward</p><p><br /></p><p>v1.4 [latest]</p><ul><li>UE5.4 version available.</li><li>Accessible via DNS</li><li>Add Packet Integrity Check feature</li><li>Support for unsigned types in C&#43;&#43;</li><li>Addition of various methods for string conversion.</li><li>Registration of RecvPacket is possible from the session&#39;s details panel.</li><li>There is no longer a need to remove delegates after connect or disconnect.</li></ul><p><br /></p><p>v1.3</p><ul><li>5.3 version is now available.</li><li>Delete deprecated functions. (TCPRecvPacket::Deserialize, TCPSendPacket::AssemblePacket)</li><li>Add TCPHeaderComponent. You can now easily customize the header.</li></ul><p><br /></p><p>v1.2.1</p><ul><li>Now available for Unreal 4 version</li><li>Troubleshooting incorrect packing of header size (critical issue)</li><li>Resolving the clarity of function names</li><li>Deserialize -&gt; ConvertFromBytes</li><li>AssemblePacket -&gt; ConvertToBytes</li><li>Older function will be removed at next version</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tcpclientplugin",
+  "creationDate": "2022-12-21T03:06:26.328Z",
+  "lastModifiedDate": "2024-10-15T13:05:37.020Z",
+  "effectiveDate": "2023-01-05T16:22:49.412Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3lzmynlbgyyhg6fsupx4mm4r34v4f7",
+    "name": "Elogen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>TCP Socket communication.</li><li>All features can be created using blueprints.</li><li>Only c&#43;&#43; can be used for optimization.</li><li>Supports multiple connections with various servers.</li><li>Support type : bool, integer types, float, double(c&#43;&#43; only), String(utf-8) and bytes array.</li><li>Each Packet is managed with a Blueprint or C&#43;&#43; Class.</li><li>It can save cpu usage.</li></ul><p>Code Modules:</p><ul><li> Networking</li><li> Sockets</li></ul><p>Number of Blueprints: 6</p><p>Number of C&#43;&#43; Classes: 12</p><p>Network Replicated: No</p><p>Supported Development Platforms: Devices that support C&#43;&#43; 17 and higher, and Multi threading</p><p>Supported Target Build Platforms: over 4.0</p><p>Documentation: <a href=\"https://github.com/grpht/TCPClientPlugin\" rel=\"nofollow\">github page</a></p><p>Example Project: include samples</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ddd6252b-8d03-4c21-a7c9-9cb76f0d0840"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PacketOverView19201080-1920x1080-e14e64fb2c8d77d55df69d81c957d73d.png",
+      "md5": "e14e64fb2c8d77d55df69d81c957d73d",
+      "size": 171162,
+      "uploadedDate": "2022-11-07T14:12:27.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SessionOverView19201080-1920x1080-d1528d1b4c2e6dfdec4c3e8a9a885398.png",
+      "md5": "d1528d1b4c2e6dfdec4c3e8a9a885398",
+      "size": 361536,
+      "uploadedDate": "2022-11-07T14:12:28.003Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UsageOverView19201080-1920x1080-81fb51f188de94bd96c493be03d46df7.png",
+      "md5": "81fb51f188de94bd96c493be03d46df7",
+      "size": 477488,
+      "uploadedDate": "2022-11-07T14:12:28.396Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TCPClientPlugin_thumb-284x284-d18e0108cf0ea7ea3ae5b3a9054c4773.png",
+      "md5": "d18e0108cf0ea7ea3ae5b3a9054c4773",
+      "size": 77044,
+      "uploadedDate": "2022-11-07T14:12:28.681Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TCPClientPlugin_featured-894x488-4e3c953f24f75a5f5b0f70448f94b1ea.png",
+      "md5": "4e3c953f24f75a5f5b0f70448f94b1ea",
+      "size": 552534,
+      "uploadedDate": "2022-11-07T14:12:28.785Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PacketOverView19201080-1920x1080-e14e64fb2c8d77d55df69d81c957d73d_Snapshot.png",
+      "md5": "20eedae74a55b183fd21bd3f9b4cd26c",
+      "size": 3194,
+      "uploadedDate": "2022-11-07T14:12:27.861Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SessionOverView19201080-1920x1080-d1528d1b4c2e6dfdec4c3e8a9a885398_Snapshot.png",
+      "md5": "06b9b081a9ad06d9c17372a68f6043ed",
+      "size": 5189,
+      "uploadedDate": "2022-11-07T14:12:28.237Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UsageOverView19201080-1920x1080-81fb51f188de94bd96c493be03d46df7_Snapshot.png",
+      "md5": "868abec2da31e4d4d0b2986af874ca39",
+      "size": 5791,
+      "uploadedDate": "2022-11-07T14:12:28.637Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ef2f10bb0b4a4858927ff690c770554c"
+    }
+  ],
+  "catalogNs": null
+}

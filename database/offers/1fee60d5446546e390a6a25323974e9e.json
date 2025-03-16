@@ -1,0 +1,332 @@
+{
+  "id": "1fee60d5446546e390a6a25323974e9e",
+  "namespace": "ue",
+  "title": "EZGamepadWidgets - Simple Widget Gamepad Support",
+  "description": "This blueprint widget will give you direct access to the functionality you need to make your widget gamepad accessible! Menu Controller Support has Never Been Easier or Cheaper!",
+  "longDescription": "<p>What is EZGamepadWidgets?</p><p>EZGamepadWidgets is an infinitely useful widget blueprint that has all the functionality you need to add controller accessibility to your menu. All it takes is one node to add gamepad navigation to your widget!</p><p><br /></p><p>How can I use EZGamepadWidgets?</p><p>Just make WBP_EZGamepadWidget a parent of your widget, or create a new one, and use the node &#34;RegisterButtons&#34; on Construct to add your widget! Everything else is done for you, all it takes is one node!</p><p><br /></p><p>Is EZGamepadWidgets complicated?</p><p>EZGamepadWidgets is quite easy to understand, doing everything for you, all you have to do is add it. But for those who want to tweak some of the functionality, there is heavily commented blueprints, but for those newer to blueprints, or more interested in the technical side of things, there is heavy documentation covering the asset, and if you find yourself with more questions outside of that, there is a Discord Support server where you will be helped!</p><p><br /></p><p>How big is EZGamepadWidgets?</p><p>EZGamepadWidgets takes up less than 1 MB on disk space, and an extremely small amount of memory and CPU (its hard to estimate because Unreal Engine takes up quite a large amount itself, but EZGamepadWidgets is practically unnoticeable in your levels performance, how do we know it doesnt effect performance? It always keeps 120 fps on an empty project).</p><p><br /></p><p>Will EZGamepadWidgets be receiving updates?</p><p>It is unlikely that I will update EZGamepadWidgets as of today, aside from engine version updates, unless there is an overwhelming number of requests for it to change. However, I am always working on other assets, and you can find me in the Discord server if you feel that something is missing in your project!</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ezgamepadwidgets-simple-widget-gamepad-support",
+  "creationDate": "2022-11-04T16:36:07.443Z",
+  "lastModifiedDate": "2024-10-09T10:43:31.762Z",
+  "effectiveDate": "2022-11-04T16:36:07.396Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pzv6gx6uncl9dxmu9xnd638j9stqlr",
+    "name": "EZSystems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 100% Clean, Commented, and Efficient Parent Widget Blueprint with all the functionality done for you.</li><li> Integration is extremely simple, just make WBP_GamepadWidget a parent of your widget.</li><li> Very easy to use, just add one node with your buttons!</li></ul><p>Number of Blueprints: 1 - WBP_GamepadWidget (Not including showcase)</p><p>Input: Gamepad and KB&amp;M</p><p>Supported Development Platforms: Windows, MacOS, Linux, and Android</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1jO2RYbdPgUtLEZ_CbpHCFXC_QbcTzax4RKYFlbQ9NC0/edit?usp&#61;sharing\" rel=\"nofollow\">CLICK HERE</a></p><p>Support: <a href=\"https://discord.gg/PsBqg7H4xs\" rel=\"nofollow\">Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1384",
+      "name": "CLASSIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:29.258Z",
+      "updated": "2019-06-20T12:01:29.258Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1099",
+      "name": "EMOTIONAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:07.804Z",
+      "updated": "2019-06-20T11:59:07.804Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b5082f12-576e-4636-bb27-dc8f232595ae"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-d28299f58d3ac3bea2979910e4661e19.png",
+      "md5": "d28299f58d3ac3bea2979910e4661e19",
+      "size": 300269,
+      "uploadedDate": "2022-11-03T16:08:54.832Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-6a03e4ed79ac26fe22d4e58591abe4d9.png",
+      "md5": "6a03e4ed79ac26fe22d4e58591abe4d9",
+      "size": 105011,
+      "uploadedDate": "2022-10-31T20:50:54.502Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-1188ba82a01774e592c8177c01bd43ef.png",
+      "md5": "1188ba82a01774e592c8177c01bd43ef",
+      "size": 425083,
+      "uploadedDate": "2022-10-31T20:50:54.939Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-104ed1384f3959411191556f7369f6a7.png",
+      "md5": "104ed1384f3959411191556f7369f6a7",
+      "size": 371547,
+      "uploadedDate": "2022-10-31T20:50:55.305Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery05-1920x1080-80f46cd21a1638ac0fce74694eb95f1f.png",
+      "md5": "80f46cd21a1638ac0fce74694eb95f1f",
+      "size": 153251,
+      "uploadedDate": "2022-10-31T20:50:55.667Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EZGamepadWidgetsSimpleWidgetGamepadSupport_thumb-284x284-985fa0e76787239a3e8fbdb917f4e973.png",
+      "md5": "985fa0e76787239a3e8fbdb917f4e973",
+      "size": 85545,
+      "uploadedDate": "2022-11-03T16:08:55.105Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EZGamepadWidgetsSimpleWidgetGamepadSupport_featured-894x488-522ed24ab6c9a9517bfa6cf922360cca.png",
+      "md5": "522ed24ab6c9a9517bfa6cf922360cca",
+      "size": 339367,
+      "uploadedDate": "2022-11-03T16:08:55.194Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-d28299f58d3ac3bea2979910e4661e19_Snapshot.png",
+      "md5": "016c0b3f9ff3e0610e82e6db36036b8e",
+      "size": 4703,
+      "uploadedDate": "2022-11-03T16:08:55.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-7982bf6bf4216fe8461cf0e701828618_Snapshot.png",
+      "md5": "9562b472d9e3cf576c765fc1e5e3e410",
+      "size": 8661,
+      "uploadedDate": "2022-11-01T23:13:35.442Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-43676f9677648c1bd7cac80494688a71_Snapshot.png",
+      "md5": "d4d4a7fa183e72d65169684e1979e49e",
+      "size": 7940,
+      "uploadedDate": "2022-10-31T20:50:54.356Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-6a03e4ed79ac26fe22d4e58591abe4d9_Snapshot.png",
+      "md5": "72fa47c0bebfc663484aab15221e282b",
+      "size": 4464,
+      "uploadedDate": "2022-10-31T20:50:54.720Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-1188ba82a01774e592c8177c01bd43ef_Snapshot.png",
+      "md5": "2d9d658ad1a60e8fbe2afe2eb53d247e",
+      "size": 6123,
+      "uploadedDate": "2022-10-31T20:50:55.174Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-104ed1384f3959411191556f7369f6a7_Snapshot.png",
+      "md5": "0cb2fa50982cbeaa2f8ae3e8bd512dac",
+      "size": 5165,
+      "uploadedDate": "2022-10-31T20:50:55.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-80f46cd21a1638ac0fce74694eb95f1f_Snapshot.png",
+      "md5": "462eb1c9841e664865c7bdcc097f9854",
+      "size": 5544,
+      "uploadedDate": "2022-10-31T20:50:55.876Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0864b7898f3f485ca5aff17fea32c8c7"
+    }
+  ],
+  "catalogNs": null
+}

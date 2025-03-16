@@ -1,0 +1,236 @@
+{
+  "id": "663f5bfc4db24f719b387f1e4b717215",
+  "namespace": "ue",
+  "title": "Monster Ai Kit",
+  "description": "Easy to implement monster Ai System.",
+  "longDescription": "<p>MonsterAiKit is a Blueprint toolkit to help developers to quickly implement their monster’s Ai in their games without any Ai programming background experience by only setting up the parameters in the UI, also the kit is written with Blueprints and Documented in comments all features to allow even experienced Ai developers to build over the system instead of building another one from scratch, it will save 1-3 months of development and testing!</p><p><br /></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "monster-ai-kit",
+  "creationDate": "2022-03-16T23:56:50.543Z",
+  "lastModifiedDate": "2024-10-07T21:04:28.150Z",
+  "effectiveDate": "2022-03-16T23:56:50.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5svcwtvp877rd24gfg6uz2awmnacv6",
+    "name": "NeuricLab"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><a href=\"https://youtu.be/3CgjhKvxbrI\" rel=\"nofollow\"><strong>Video</strong></a></h2><p><a href=\"https://discord.gg/RgGT8qXTc2\" rel=\"nofollow\">Discord</a></p><p>Features:</p><ul><li><strong>Quick Setup: </strong>Easy to Implement the system from the UI.</li><li><strong>Monster Behavior States:</strong> All the basic behavior Ai states you need to implement your monsters (Idle - Patrol - OnSightReaction - Hearing Reaction - chase - Lose Sight - Searching - Investigating - Attack - Hit -Flee) .</li><li><strong>Perception: </strong>Monster perception with Ability to (Vision - Hear - Damage ).</li><li><strong>Health and Getting Damage: </strong>a health system that will automatically reduce the applied damage that receives from the health value you chose from the UI.</li><li><strong>Event Triggers: </strong>OnTriggers Events to add custom commands at any State.</li><li><strong>Initial States: </strong>customize the initial state between Idle Animation or Patrol.</li><li><strong>Investigation: </strong>Monster investigate the last point the sound did come from or lose sight on player.</li><li><strong>Animations: </strong>Easily add your animations in the UI for each state or event.</li><li><strong>Speed Control: </strong>can control the speed of the monster at any state.</li><li><strong>RagDoll: </strong>you can use a death animation or activate a ragdoll option to make the monster’s collision interact with environment after dying.</li><li><strong>Teams</strong>: you can add team tags to monsters.</li></ul><p>Number of Blueprints: 28</p><p>Network Replicated: Yes</p><p>Windows: Yes</p><p>Mac: Not Tested</p><p>Documentation: <a href=\"https://neuriclab.com/docs/MonsterAIKit/Quick_Start\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f34e9d99-3af5-4b8d-8c38-7b3fd6f5b103"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Poster1-1920x1080-bb250e946388cc4105924d2814f17123.png",
+      "md5": "bb250e946388cc4105924d2814f17123",
+      "size": 1467829,
+      "uploadedDate": "2022-03-13T02:19:33.842Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Poster2-1920x1080-a94d35730c7f394159e1ed1029c0b39c.png",
+      "md5": "a94d35730c7f394159e1ed1029c0b39c",
+      "size": 1178344,
+      "uploadedDate": "2022-03-16T22:11:19.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Poster3-1920x1080-29eaf41556afa5683315c9646f709feb.png",
+      "md5": "29eaf41556afa5683315c9646f709feb",
+      "size": 928167,
+      "uploadedDate": "2022-03-16T22:11:19.555Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Poster4-1920x1080-954961707356353f660a4ef1ecee7182.png",
+      "md5": "954961707356353f660a4ef1ecee7182",
+      "size": 1818140,
+      "uploadedDate": "2022-03-16T22:11:20.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Poster5-1920x1080-cd15697b4899ef354b644691032e489b.png",
+      "md5": "cd15697b4899ef354b644691032e489b",
+      "size": 681828,
+      "uploadedDate": "2022-03-16T22:11:20.668Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Poster6-1920x1080-0f7236f2b3662bb102fe46b5e25bbac0.png",
+      "md5": "0f7236f2b3662bb102fe46b5e25bbac0",
+      "size": 434924,
+      "uploadedDate": "2022-03-16T22:11:21.065Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MonsterAiKit_thumb-284x284-a9ad1a68252aed77f5421ea7f77fdb49.png",
+      "md5": "a9ad1a68252aed77f5421ea7f77fdb49",
+      "size": 103373,
+      "uploadedDate": "2023-06-02T17:37:35.375Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MonsterAiKit_featured-894x488-91af343f09ea4d8f7fd1e7e2f0475280.png",
+      "md5": "91af343f09ea4d8f7fd1e7e2f0475280",
+      "size": 405357,
+      "uploadedDate": "2023-10-17T16:53:41.246Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Poster2-1920x1080-a94d35730c7f394159e1ed1029c0b39c_Snapshot.png",
+      "md5": "f63eb0d7644d566ecc29f2c7485f83de",
+      "size": 5220,
+      "uploadedDate": "2022-03-16T22:11:19.359Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Poster3-1920x1080-29eaf41556afa5683315c9646f709feb_Snapshot.png",
+      "md5": "fbe8d4afd3828d9fe1000510913772cf",
+      "size": 5931,
+      "uploadedDate": "2022-03-16T22:11:19.874Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Poster4-1920x1080-954961707356353f660a4ef1ecee7182_Snapshot.png",
+      "md5": "7ce1ebe4cd2b76f27649fcea55acd278",
+      "size": 4684,
+      "uploadedDate": "2022-03-16T22:11:20.469Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Poster5-1920x1080-cd15697b4899ef354b644691032e489b_Snapshot.png",
+      "md5": "e8c72b2a3af67066b988226823a0110b",
+      "size": 4106,
+      "uploadedDate": "2022-03-16T22:11:20.967Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Poster6-1920x1080-0f7236f2b3662bb102fe46b5e25bbac0_Snapshot.png",
+      "md5": "618011953badeda44e8c9bf273c98d9c",
+      "size": 4202,
+      "uploadedDate": "2022-03-16T22:11:21.340Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Poster1-1920x1080-bb250e946388cc4105924d2814f17123_Snapshot.png",
+      "md5": "6a362a08635241dd7e9fa921e9f12f34",
+      "size": 7230,
+      "uploadedDate": "2022-03-13T02:19:34.197Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "db6038b7d36c4a64be62c9be9e50e812"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,374 @@
+{
+  "id": "8a3dd93e73784e58a8acf17c6ad11b62",
+  "namespace": "ue",
+  "title": "Virtual Midi Keyboard",
+  "description": "Virtual Midi Keyboard is a Midi Visualisation Tool used to show playing on a piano or keyboard in real-time directly in Unreal Engine 4.",
+  "longDescription": "<p><strong>From Unreal Engine 5.1 version</strong></p><p>The Virtual Midi Keyboard visualizes midi events like playing on keys, changes of the pitch bend, and modulation. Use the Metasound to generate the sound based on the pressed keys on the keyboard.</p><p> </p><p><strong>Below Unreal Engine 5.1 version</strong></p><p>The Virtual Midi Keyboard is a Midi Visualisation Tool, that shows playing on a piano or keyboard in real-time directly in Unreal Engine 4.</p><p>Use your MIDI device like a Midi Keyboard or Synth with Midi Connection to visualize your play as a Virtual Midi Keyboard.</p><p>First, you need to have a MIDI device (MIDI keyboard or MIDI drums, etc.) This product works with Midi Keyboard and represents the virtual piano, synth keyboard in UE4. This product visualizes real-time playing of the real MIDI Keyboard and does not generate sound. For Sound generation use DAW software.</p><p> </p><p><strong>Features:</strong></p><ul><li>Midi Visualisation on the Virtual Midi Keyboard of the Midi Events</li><li>Support Midi Input and Midi Output</li><li>Use the Metasound plugin to generate the sound</li><li>Number of Blueprints: 5</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "virtual-midi-keyboard",
+  "creationDate": "2019-04-13T17:09:14.822Z",
+  "lastModifiedDate": "2024-10-10T22:54:45.871Z",
+  "effectiveDate": "2019-04-13T17:09:14.656Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e506c09faf424288860e84084faaba",
+    "name": "KULTRA LTD"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Virtual MIDI Keyboard for Unreal Engine 5.1 Overview and Setup</strong> - <a href=\"https://youtu.be/eBGmBgEAOwY\" rel=\"nofollow\">https://youtu.be/eBGmBgEAOwY</a></p><p><strong>Overview (below UE 5.0) </strong>- <a href=\"https://youtu.be/C-oFgZEXQ1k\" rel=\"nofollow\">https://youtu.be/C-oFgZEXQ1k</a></p><p><strong>Basic Workflow (below UE 5.0)</strong>- <a href=\"https://youtu.be/dUqFnxTLJ80\" rel=\"nofollow\">https://youtu.be/dUqFnxTLJ80</a></p><p><br /></p><p><strong>Documentation:</strong></p><p>Plugins that need to be enabled (Menu Edit&gt;Plugins&gt;Input Devices&gt;Midi Device Support).</p><p>Open the &#34;VirtualMIDIKeyboard_MIDIDevicePlugin_Ver_2_Map&#34; map (Only for 5.1 versions of Unreal).</p><p>For Unreal Engine 4.27, you can use the Remote Control version of the Virtual Midi Keyboard. Make sure that you enable the Remote Control Protocol MIDI Plugin. Then open the &#34;VirtualMIDIKeyboard_RemoteControlPlugin_Map&#34; map.</p><p>The latest blueprint of the Virtual Midi Keyboard is &#34;BP_VirtualMIDIKeyboard_MIDIDevicePlugin_Ver_2&#34; in the Blueprints folder which you can place directly on your map.</p><p>In case when you need to place the &#34;BP_Piano Keyboard&#34; (legacy version in Blueprint/Legacy folder) Blueprint actor at the new map, shows here - <a href=\"https://youtu.be/_ovymwa-Rvo\" rel=\"nofollow\">https://youtu.be/_ovymwa-Rvo</a></p><p>Virtual Midi Keyboard included in other projects:</p><p>Virtual Upright Piano Demo UE4 - <a href=\"https://youtu.be/CJmq7W54o6w\" rel=\"nofollow\">https://youtu.be/CJmq7W54o6w</a></p><p>Virtual Upright Piano UE4 Demo - <a href=\"https://youtu.be/trzaMQ772LQ\" rel=\"nofollow\">https://youtu.be/trzaMQ772LQ</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2f3a61d1-9150-4de8-8923-98f1cb0a520f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VMK05-1920x1080-0505002233adb5814fcb686ce51179d7.png",
+      "md5": "0505002233adb5814fcb686ce51179d7",
+      "size": 1277331,
+      "uploadedDate": "2018-12-05T06:33:42.841Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VMK01x-1920x1080-a63df8c41ce0274eeaf41164fcc5365e.png",
+      "md5": "a63df8c41ce0274eeaf41164fcc5365e",
+      "size": 1025525,
+      "uploadedDate": "2018-12-05T06:33:41.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VMK03-1920x1080-194ee069ae499ebad11b44f26e5e5b8c.png",
+      "md5": "194ee069ae499ebad11b44f26e5e5b8c",
+      "size": 566294,
+      "uploadedDate": "2018-12-05T06:33:42.133Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VMK04-1920x1080-38dd93a3f79929f49e7b90eafb091f62.png",
+      "md5": "38dd93a3f79929f49e7b90eafb091f62",
+      "size": 770814,
+      "uploadedDate": "2018-12-05T06:33:42.461Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MidiPluginEnable-1920x1080-06ba9bb736b307ab7537ba76aaa2dc6a.jpg",
+      "md5": "06ba9bb736b307ab7537ba76aaa2dc6a",
+      "size": 199306,
+      "uploadedDate": "2019-04-17T06:30:19.732Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VirtualMIDIKeyboardMap-1920x1080-d43c237315e1132bb0e64e075c6d34ed.jpg",
+      "md5": "d43c237315e1132bb0e64e075c6d34ed",
+      "size": 191878,
+      "uploadedDate": "2019-04-17T06:30:20.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-ce3520016046a795dab288483142a474.jpg",
+      "md5": "ce3520016046a795dab288483142a474",
+      "size": 285945,
+      "uploadedDate": "2022-11-27T10:59:05.380Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-7d7544499ffa74421d6301bf69a1925e.jpg",
+      "md5": "7d7544499ffa74421d6301bf69a1925e",
+      "size": 294549,
+      "uploadedDate": "2022-11-27T10:59:06.060Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-cc5a5c8f11975721c7122c17b8cf7a5b.jpg",
+      "md5": "cc5a5c8f11975721c7122c17b8cf7a5b",
+      "size": 347640,
+      "uploadedDate": "2022-11-27T10:59:06.796Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03A-1920x1080-1edb7f5b22c4f8806ead64ae968aec5a.jpg",
+      "md5": "1edb7f5b22c4f8806ead64ae968aec5a",
+      "size": 359956,
+      "uploadedDate": "2022-11-27T10:59:07.571Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-9921ce036470dc90ed9ac5fc91c2c412.jpg",
+      "md5": "9921ce036470dc90ed9ac5fc91c2c412",
+      "size": 383599,
+      "uploadedDate": "2022-11-27T10:59:08.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VirtualMidiKeyboard_thumb-284x284-1fd742610c4a1efb2ca482dd603d010a.png",
+      "md5": "1fd742610c4a1efb2ca482dd603d010a",
+      "size": 93596,
+      "uploadedDate": "2018-12-05T06:33:43.133Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VirtualMidiKeyboard_featured-894x488-8e1821930765e1f5fcbdb53864a4741b.png",
+      "md5": "8e1821930765e1f5fcbdb53864a4741b",
+      "size": 256860,
+      "uploadedDate": "2018-12-05T06:33:43.220Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-ce3520016046a795dab288483142a474_Snapshot.jpg",
+      "md5": "609cab5002a472b9c03fbef899dbc0c1",
+      "size": 5059,
+      "uploadedDate": "2022-11-27T10:59:05.826Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-7d7544499ffa74421d6301bf69a1925e_Snapshot.jpg",
+      "md5": "b1974ee6054aba0baa596a389462d2da",
+      "size": 5043,
+      "uploadedDate": "2022-11-27T10:59:06.507Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-cc5a5c8f11975721c7122c17b8cf7a5b_Snapshot.jpg",
+      "md5": "2a292ecee1dfbe79941d74a6a26aa0ae",
+      "size": 5588,
+      "uploadedDate": "2022-11-27T10:59:07.276Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03A-1920x1080-1edb7f5b22c4f8806ead64ae968aec5a_Snapshot.jpg",
+      "md5": "2e51a26d0a62d6ed28b2165ee6fc5af9",
+      "size": 6207,
+      "uploadedDate": "2022-11-27T10:59:08.026Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-9921ce036470dc90ed9ac5fc91c2c412_Snapshot.jpg",
+      "md5": "821c5f0902edbaf81e67188ac9f84cb5",
+      "size": 5802,
+      "uploadedDate": "2022-11-27T10:59:08.718Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MidiPluginEnable-1920x1080-06ba9bb736b307ab7537ba76aaa2dc6a_Snapshot.jpg",
+      "md5": "68ccd64b1bff7f07ecb13252694264d4",
+      "size": 2369,
+      "uploadedDate": "2019-04-17T06:30:20.181Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VirtualMIDIKeyboardMap-1920x1080-d43c237315e1132bb0e64e075c6d34ed_Snapshot.jpg",
+      "md5": "2abd6880f5d0c6591fd868e351cfd078",
+      "size": 2721,
+      "uploadedDate": "2019-04-17T06:30:20.994Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VMK01x-1920x1080-a63df8c41ce0274eeaf41164fcc5365e_Snapshot.png",
+      "md5": "cdde4bd07d4ae6c13df38dd30ee63850",
+      "size": 8893,
+      "uploadedDate": "2018-12-05T06:33:41.983Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VMK03-1920x1080-194ee069ae499ebad11b44f26e5e5b8c_Snapshot.png",
+      "md5": "09bc7563970b589099d8765e8e0223f0",
+      "size": 5261,
+      "uploadedDate": "2018-12-05T06:33:42.313Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VMK04-1920x1080-38dd93a3f79929f49e7b90eafb091f62_Snapshot.png",
+      "md5": "0f4e991e5d5388b1c661dd5bc3c22e1d",
+      "size": 6708,
+      "uploadedDate": "2018-12-05T06:33:42.667Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VMK05-1920x1080-0505002233adb5814fcb686ce51179d7_Snapshot.png",
+      "md5": "91aea79d3c54a6f971a6c999f774c157",
+      "size": 11107,
+      "uploadedDate": "2018-12-05T06:33:43.096Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "52e8fd523d724a04be0b6bffbd42f5e1"
+    }
+  ],
+  "catalogNs": null
+}

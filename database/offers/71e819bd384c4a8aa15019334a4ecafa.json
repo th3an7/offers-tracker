@@ -1,0 +1,158 @@
+{
+  "id": "71e819bd384c4a8aa15019334a4ecafa",
+  "namespace": "ue",
+  "title": "Medieval Weapons Pack 5",
+  "description": "A collection of shields to go with my previously released weapons packs.",
+  "longDescription": "A collection of shields to go with my previously released weapons packs. Contains 4 main shield types each with 3 different sub types for a total of 12 shields. Very easy to customize for your own game with a general clean design base, and with clean normal maps to work from to add your own details. Simple material to work with and customize and overall fairly cheap to render.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "medieval-weapons-pack-04",
+  "creationDate": "2016-09-13T20:22:26.168Z",
+  "lastModifiedDate": "2024-10-23T08:27:31.198Z",
+  "effectiveDate": "2016-09-28T00:00:00.000Z",
+  "viewableDate": "2016-09-28T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-e07ad9a0b34d4ebf371534227c6f58",
+    "name": "HB"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "A set of shield models consisting of 4 major types each with 3 sub types with a total of 12 individual shield models. Each shield exported with 2 different pivot alignments, one neutral pivot and one aligned to the Epic Mannequin left lower arm for easy placement. All models with LOD0 - LOD3. All models with custom collision. Vertex counts range 1594 - 2966 LOD0 and 156 - 224 LOD3. Each separate shield type uses 3 textures per type, Diffuse, Mask and Normal maps for a total of 12 textures at 2048x2048. Materials are shared per shield type, with 4 material instances total &#43; 1 base material instance &#43; 1 base material.<br /><br /><br />Technical Specifications:<br /><br />Scaled to Epic skeleton: Yes<br />Physically-Based Rendering: Yes<br />Texture Size: 2048x2048<br />Collision: Yes - Custom<br />Vertex Count: 1594 - 2966<br />LODs: LOD0 - LOD3<br />Number of Meshes: 12 Meshes (2 exports each for 2 different pivot point choices)<br />Number of Materials and Material Instances: 1 Base Mat - 1 Base Inst - 4 Child Inst<br />Number of Textures: 12 Total - 4 Diffuse, 4 Normal, 4 Mask<br />Engine Compatibility: 4.10, 4.11, 4.12, 4.13<br />Intended Platform: Windows<br />Platforms Tested: Windows - (should work on others)<br />Documentation Included: No<br />Important\\Additional Notes: This pack has 4 major shield types and each type has 3 sub types, all exported as separate meshes to keep each shield type as a single draw call. Each shield is also exported 2x, once with a neutral pivot and once with the pivot aligned to the Epic Mannequin left lower arm bone for easy snap placement.",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1401",
+      "name": "2.5D",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.790Z",
+      "updated": "2019-06-20T12:01:37.790Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "36d7a26f-48d3-4a75-8d43-13dff4c81c4a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_Screenshot1-1920x1080-1f9598eca8547ba0959291fb510d2063.png",
+      "md5": "1f9598eca8547ba0959291fb510d2063",
+      "size": 1709771,
+      "uploadedDate": "2016-10-13T17:34:01.644Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_Screenshot2-1920x1080-0d72b1848d3519504d14ef086a93fc4c.png",
+      "md5": "0d72b1848d3519504d14ef086a93fc4c",
+      "size": 2590667,
+      "uploadedDate": "2016-10-13T17:33:55.908Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_Screenshot3-1920x1080-eff95b41b506a450dadd6a9877c6a029.png",
+      "md5": "eff95b41b506a450dadd6a9877c6a029",
+      "size": 2233472,
+      "uploadedDate": "2016-10-13T17:33:50.721Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_Screenshot4-1920x1080-5a1629cef9248a80d68f3c800562d361.png",
+      "md5": "5a1629cef9248a80d68f3c800562d361",
+      "size": 3113949,
+      "uploadedDate": "2016-10-13T17:33:45.712Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_Screenshot5-1920x1080-f3e98142fc28cdbc8632479a4022cdfa.png",
+      "md5": "f3e98142fc28cdbc8632479a4022cdfa",
+      "size": 2433399,
+      "uploadedDate": "2016-10-13T17:33:37.757Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_Thumb-284x284-c00500c634ed8a8c3c2677481a2e1485.png",
+      "md5": "c00500c634ed8a8c3c2677481a2e1485",
+      "size": 112265,
+      "uploadedDate": "2016-10-13T17:34:13.552Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_Featured-476x246-29752b4a15ab00483cd31230b4c09ea7.png",
+      "md5": "29752b4a15ab00483cd31230b4c09ea7",
+      "size": 142396,
+      "uploadedDate": "2016-10-13T17:34:19.709Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/HB_MedievalWeapPack5_FeaturedNew-894x488-fbd784be96901917344ab8863c80ddf9.png",
+      "md5": "fbd784be96901917344ab8863c80ddf9",
+      "size": 469735,
+      "uploadedDate": "2016-10-13T17:34:17.085Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "0fb0b4ca7b3c4af39892d62712b60a99"
+    }
+  ],
+  "catalogNs": null
+}

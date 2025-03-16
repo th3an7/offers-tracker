@@ -1,0 +1,194 @@
+{
+  "id": "cf7ecc227c64457cb2bd1c58c3a659ca",
+  "namespace": "ue",
+  "title": "Infinadeck Experience Platform Software Plugin",
+  "description": "1:1 True Natural Locomotion in Any Desktop VR App",
+  "longDescription": "<p>PROJECT MUST BE A C&#43;&#43; PROJECT, OR ELSE API CALLS WILL NOT WORK.</p><p><br /></p><p>Use this plugin in any desktop virtual reality project to translate outputs from the Infinadeck App to enable true 1:1 motion in your virtual reality project today!</p><p><br /></p><p>This plugin was designed for use by anyone with access to an Infinadeck omnidirectional treadmill, or anyone who wants to create VR apps designed with Infinadeck Experience Platform™ software in mind.</p><p><br /></p><p>Lightweight but feature-full, this simple-to-setup plugin should provide developers all of the tools they could possibly need to make a high-quality, Infinadeck-ready experience today.</p><p><br /></p><p>Go to our GitHub for the latest documentation, user guides, and older plugin versions (we currently support UE4.25, UE4.26, UE4.27, and all versions of UE5).</p><p><br /></p><p>If you need to use an older version of Unreal Engine (4.25 and newer), please see our GitHub to </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "infinadeck-plugin",
+  "creationDate": "2022-02-03T19:11:26.030Z",
+  "lastModifiedDate": "2024-10-15T09:56:54.051Z",
+  "effectiveDate": "2022-02-03T19:11:25.959Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zfs97m3ruld2aypqpx3ee4w3e5hzuc",
+    "name": "Infinadeck Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> InfinadeckCore: Loads and unloads other modules as necessary, to keep performance in the project as lightweight as possible.</li><li> InfinadeckLocomotion: Provides the 1:1 motion mapping to your project, allowing for a no-hassle configuration-free translation between treadmill motion and in-game motion.</li><li> InfinadeckReferenceObjects: Allows you to see the treadmill in VR in real time, along with providing important grounding elements for maximum comfort in the VR space.</li><li>InfinadeckSplashscreen: Shows developers and players that their treadmill is working, allowing them to better verify their setup.</li><li>User adjustable parameters are stored in two settings files:</li><li>[User Directory]/Documents/My Games/Infinadeck/Config/keybinds.ini</li><li>[User Directory]/Documents/My Games/Infinadeck/Config/settings.ini</li></ul><p>Code Modules:</p><ul><li> InfinadeckSDK: Exposes InfinadeckAPI functions to blueprints, and basic INI file I/O</li></ul><p>Number of Blueprints: 6</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: Yes (see documentation)</p><p>Supported Development Platforms: Windows 64-bit</p><p>Supported Target Build Platforms: Windows 64-bit</p><p>Documentation: https://github.com/Infinadeck/InfinadeckUnrealPlugin</p><p>Example Video: https://youtu.be/Dapf3qnf06g</p><p>Example Project: https://bit.ly/3nuSM8T</p><p>Important/Additional Notes: Please visit https://github.com/Infinadeck/InfinadeckSDK for access to the Infinadeck App</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a30f8e51-4196-4260-aaed-45f35c5b21eb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal main-1920x1080-ff68499f55fefa11c83f87521ecda8c7.png",
+      "md5": "ff68499f55fefa11c83f87521ecda8c7",
+      "size": 2076416,
+      "uploadedDate": "2022-01-17T21:51:32.091Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal customizable-1920x1080-9b1bd68e28ce38ef49bd68ca655f1b36.png",
+      "md5": "9b1bd68e28ce38ef49bd68ca655f1b36",
+      "size": 931901,
+      "uploadedDate": "2022-01-17T21:51:32.540Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal settingsfiles-1920x1080-a95cfb6ea44f568970059d655a951d27.png",
+      "md5": "a95cfb6ea44f568970059d655a951d27",
+      "size": 534813,
+      "uploadedDate": "2022-01-17T21:51:32.950Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/InfinadeckPlugin_thumb-284x284-6d486a66b104400cfaa79be7eeeef583.png",
+      "md5": "6d486a66b104400cfaa79be7eeeef583",
+      "size": 106541,
+      "uploadedDate": "2022-01-17T21:51:33.233Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/InfinadeckPlugin_featured-894x488-114e88eddf0696bf553b8a43220c5004.png",
+      "md5": "114e88eddf0696bf553b8a43220c5004",
+      "size": 462373,
+      "uploadedDate": "2022-01-17T21:51:33.338Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal main-1920x1080-ff68499f55fefa11c83f87521ecda8c7_Snapshot.png",
+      "md5": "1e6758f533425f20aa944c90b98cd8ad",
+      "size": 6780,
+      "uploadedDate": "2022-01-17T21:51:32.398Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal customizable-1920x1080-9b1bd68e28ce38ef49bd68ca655f1b36_Snapshot.png",
+      "md5": "2a8eb9fd466d0a4ba000533dee551aa5",
+      "size": 5296,
+      "uploadedDate": "2022-01-17T21:51:32.813Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal settingsfiles-1920x1080-a95cfb6ea44f568970059d655a951d27_Snapshot.png",
+      "md5": "a63848d147fc2126b0e95d256ec1057b",
+      "size": 4818,
+      "uploadedDate": "2022-01-17T21:51:33.185Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7a59371074ca47e8a855049b397ba1e9"
+    }
+  ],
+  "catalogNs": null
+}

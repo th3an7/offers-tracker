@@ -1,0 +1,209 @@
+{
+  "id": "f12c40284b0e438582144811f86da006",
+  "namespace": "ue",
+  "title": "Motion animations",
+  "description": "Create animations with motion of your mouse",
+  "longDescription": "<p>Create animations intuitively and straightforwardly by using your mouse motions instead of keyframing.</p><p><br /></p><p>The advantage of this method is that it allows you to perceive the motion more easily as you move your mouse, as opposed to trying to anticipate the resulting motion after keyframing.</p><p><br /></p><p>The main concept is that you animate one channel at a time. Each channel is referred to as a “layer.” Each channel is animated using mouse motions, which makes creating layers more intuitive and straightforward.</p><p>For example, let’s consider the classic example of a jumping sphere:</p><p>To begin, you animate the “main” channel, which drives all subsequent motions. In this example, the “location.Z” channel would be used.</p><p>Then, you can animate the &#34;Scale.Z&#34; channel so that when our sphere touches the ground, it will collapse.</p><p>Video of that example:</p><p>https://youtu.be/zHMeVV5S4Q8</p><p><br /></p><p>You can create complex animations by animating channel by channel, supported metahumans, hair, particles.</p><p><br /></p><p>Metahuman animation example:</p><p>https://youtu.be/l10GPL2Nb48</p><p><br /></p><p>Getting-started tutorial:</p><p>https://motionanimations.com/Getting-started</p><p><br /></p><p>For documentation and tutorials check out this website:</p><p>https://motionanimations.com/docs</p><p><br /></p><p>My x.com account is where I publish tips and results of using this plug-in:</p><p>https://twitter.com/Kolya904</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "motion-animations",
+  "creationDate": "2023-06-21T15:24:10.557Z",
+  "lastModifiedDate": "2024-10-15T09:41:39.213Z",
+  "effectiveDate": "2023-06-21T15:33:30.420Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tqwzrsdfnll5kbtjretn4kvglev3am",
+    "name": "NikolaiMurzin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>New intuitive and straightforward animation approach for creating animations with your mouse, instead of keyframing</li><li>You can animate multiple channels at once.</li><li>Animate almost all type of channels in sequencer, including: metahumans, hairs, particles, lights, scalar parameters of materials.</li><li>Create sets to quickly select and animate individual channels or multiple channels together.</li><li>You can create complex control rig structures that drive multiple bones and then animate them using a single motion of your mouse</li><li>You can save each channel that you have animated and later load these saved channels to replace the current channel keys, thus allowing you to have different versions of channel values. This enables you to easily switch between variations and explore different animations with ease.</li></ul><p><br /></p><p>Code Modules:</p><ul><li> MotionAnimations (Editor)</li></ul><p>Number of C&#43;&#43; Classes: 12</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows, Mac, Linux</p><p>Supported Target Build Platforms: Windows, Mac, Linux</p><p>Documentation: https://motionanimations.com/docs</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b9f911d9-c8a7-4757-9937-03bc5c8768a0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/result-1920x1080-737f4be97a328a46022b20c7344c317b.jpg",
+      "md5": "737f4be97a328a46022b20c7344c317b",
+      "size": 984034,
+      "uploadedDate": "2023-06-15T18:18:07.831Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/particles-1920x1080-2b1639b55a7cdace2eb55a590dbb76f5.jpg",
+      "md5": "2b1639b55a7cdace2eb55a590dbb76f5",
+      "size": 60459,
+      "uploadedDate": "2023-06-14T17:22:38.743Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/hairHorizontal-1920x1080-40b437485bef8ca4da5fa354a59c510a.jpg",
+      "md5": "40b437485bef8ca4da5fa354a59c510a",
+      "size": 264450,
+      "uploadedDate": "2023-06-14T17:22:37.906Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/.krita.kra-autosave2-1920x1080-956358c0224d6fbdbcf27c586a27a611.png",
+      "md5": "956358c0224d6fbdbcf27c586a27a611",
+      "size": 2663566,
+      "uploadedDate": "2023-06-14T17:22:39.305Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Motionanimations_thumb-284x284-571fe52ccae2255cb1437f3709435aad.png",
+      "md5": "571fe52ccae2255cb1437f3709435aad",
+      "size": 91592,
+      "uploadedDate": "2023-06-16T19:11:00.819Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Motionanimations_featured-894x488-53ae4c90e5879896b39ded0f367884c5.png",
+      "md5": "53ae4c90e5879896b39ded0f367884c5",
+      "size": 505984,
+      "uploadedDate": "2023-06-16T19:11:00.975Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/result-1920x1080-737f4be97a328a46022b20c7344c317b_Snapshot.jpg",
+      "md5": "5a5a3fbf7251052cdef06af9dbf29065",
+      "size": 3166,
+      "uploadedDate": "2023-06-15T18:18:08.604Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/result-1920x1080-737f4be97a328a46022b20c7344c317b_Snapshot.jpg",
+      "md5": "5a5a3fbf7251052cdef06af9dbf29065",
+      "size": 3166,
+      "uploadedDate": "2023-06-14T17:22:37.520Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/hairHorizontal-1920x1080-40b437485bef8ca4da5fa354a59c510a_Snapshot.jpg",
+      "md5": "ff3e277f76fc8e55285cf74f268d61c5",
+      "size": 5211,
+      "uploadedDate": "2023-06-14T17:22:38.574Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/particles-1920x1080-2b1639b55a7cdace2eb55a590dbb76f5_Snapshot.jpg",
+      "md5": "b79f9fd5b806a9cb46648915798ed3be",
+      "size": 4019,
+      "uploadedDate": "2023-06-14T17:22:39.061Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/.krita.kra-autosave2-1920x1080-956358c0224d6fbdbcf27c586a27a611_Snapshot.png",
+      "md5": "f5c8c5d4a981d3dc436dca5bffe00101",
+      "size": 4835,
+      "uploadedDate": "2023-06-14T17:22:39.683Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "808002f091384c2b9ff15a4b258d35da"
+    }
+  ],
+  "catalogNs": null
+}

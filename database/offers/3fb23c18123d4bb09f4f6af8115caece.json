@@ -1,0 +1,341 @@
+{
+  "id": "3fb23c18123d4bb09f4f6af8115caece",
+  "namespace": "ue",
+  "title": "Advanced RTS and Configurator System (ARTSC)",
+  "description": "Master camera and movement, build and customize with ease. Perfect for Sims-style, RTS, and more.",
+  "longDescription": "<p><strong>***Enhance your game development with this new cutting-edge plugin***</strong></p><p>Designed for a wide range of genres, including Sims-style, RTS, and beyond, this plugin offers unparalleled control over camera, player movement, and in-game object manipulation.</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h3><strong>See it in Action</strong></h3><ul><li><strong>Trailer:</strong> <a href=\"https://www.youtube.com/watch?v&#61;ZMoarUv5gPw\" rel=\"nofollow\">Video link</a></li><li><strong>Playable Demo:</strong> <a href=\"https://drive.google.com/file/d/1H1rM996bv4Z2JAppFXOJBP6FItllNZq1/view\" rel=\"nofollow\">Download link</a> 560 MB</li><li><strong>A - Z Guide: </strong><a href=\"https://www.youtube.com/watch?v&#61;9sX-zD1HtMM\" rel=\"nofollow\">Video link</a></li></ul><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h3><strong>Core Features</strong></h3><ul><li><strong>Intuitive Mode Switching:</strong> Seamlessly transition between object selection mode and player control mode. Player control offers a strategic, top-down perspective similar to Sims games, allowing for precise navigation and camera manipulation.</li><li><strong>Dynamic Player Movement:</strong> Navigate environments effortlessly with flying, gravity toggling, storey changing, and physics-based interactions.</li><li><strong>Powerful Configurator:</strong> Customize static meshes, select materials, and swap components with ease, ideal for character creation, building construction, and product showcases.</li><li><strong>Enhanced Input System Compatibility:</strong> Seamlessly integrate with Unreal Engine&#39;s Enhanced Input System for precise control.</li><li><strong>Performance Optimization:</strong> Lightweight C&#43;&#43; core and framerate independence ensure smooth gameplay.</li></ul><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h3><strong>Key Benefits</strong></h3><ul><li><strong>Rapid Development:</strong> Save time and effort with a pre-built, highly customizable solution.</li><li><strong>Unmatched Flexibility:</strong> Tailor the plugin to your specific game requirements without C&#43;&#43; knowledge.</li><li><strong>Immersive Gameplay:</strong> Create engaging experiences with advanced camera and movement mechanics.</li><li><strong>Creative Freedom:</strong> Unleash your imagination with powerful configuration tools.</li></ul><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h3><strong>How it Works</strong></h3><p>Simply integrate the plugin into your project and start customizing. The user-friendly blueprint interface allows you to fine-tune camera behavior, player movement, and object configuration without diving into C&#43;&#43;.</p><p><br /></p><p><strong>*Elevate your game to new heights with Advanced Camera, Movement, and Configurator Plugin*</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "advanced-rts-and-configurator-system-artsc",
+  "creationDate": "2024-08-05T03:25:37.067Z",
+  "lastModifiedDate": "2024-10-15T05:56:25.869Z",
+  "effectiveDate": "2024-08-05T03:25:36.995Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-j55g2sdl6dywl6esf9druevxlr2ebw",
+    "name": "Devlogerio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Uses a simple Static mesh</li><li> It has a few Widget UI blueprints (WB_Configurator, WB_Dot, WB_Material, WB_Mesh, WB,Slot)</li><li> It has two C&#43;&#43; classes (SelectSceneComponent and ConfigPlayer), these two are the parent class for the blueprint classes with the same name</li><li>The plugin contains two static meshes made out of the UE5 basic SportsCar and OffroadCar </li><li>Blueprint callable events for selectable and actionable objects</li><li>Showcase Sandbox level</li><li>Uses custom gravity</li><li>Fully Physics-based</li><li>Complete project size 550 Mb (Megabytes)</li><li>x2 C&#43;&#43; classes only 41.5 KB</li></ul><p>Code Modules:</p><ul><li> ConfigPlayer, Runtime</li><li> SelectSceneComponent , Runtime</li></ul><p>Number of Blueprints: 9</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: No</p><p>Supported Development Platforms: PC, Win64, Linux, Mac</p><p>Supported Target Build Platforms: PC, Win64, Linux, Mac</p><p>Platforms Tested: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3a49a987-1afd-4a52-ad38-b955bb166c44"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1111111-1920x1080-69e9f5dff388cb36c24c4b6f6ab3f2d2.png",
+      "md5": "69e9f5dff388cb36c24c4b6f6ab3f2d2",
+      "size": 2510179,
+      "uploadedDate": "2024-07-27T23:40:18.164Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/222222222-1920x1080-c753dbf16a701bc5a2278bb44e75ee81.png",
+      "md5": "c753dbf16a701bc5a2278bb44e75ee81",
+      "size": 2281848,
+      "uploadedDate": "2024-07-27T23:40:18.724Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/44444444444444-1920x1080-17a9c727dc83480ef45cb31679670491.png",
+      "md5": "17a9c727dc83480ef45cb31679670491",
+      "size": 2352356,
+      "uploadedDate": "2024-07-27T23:40:19.758Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/555555555555555-1920x1080-b09cfa6eb7d52d87d3dd8f785b5c004b.png",
+      "md5": "b09cfa6eb7d52d87d3dd8f785b5c004b",
+      "size": 2607691,
+      "uploadedDate": "2024-07-27T23:40:20.299Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AdvancedRTSandConfiguratorSystemARTSC_thumb-284x284-418df2c758940d5cb7626f0f82fdec27.png",
+      "md5": "418df2c758940d5cb7626f0f82fdec27",
+      "size": 122478,
+      "uploadedDate": "2024-07-27T23:40:20.726Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AdvancedRTSandConfiguratorSystemARTSC_featured-894x488-31a224738856c72d7932e34a489b3803.png",
+      "md5": "31a224738856c72d7932e34a489b3803",
+      "size": 496783,
+      "uploadedDate": "2024-07-27T23:40:20.840Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1111111-1920x1080-69e9f5dff388cb36c24c4b6f6ab3f2d2_Snapshot.png",
+      "md5": "268ff2e12fc6134675e2f396811e584d",
+      "size": 7758,
+      "uploadedDate": "2024-07-27T23:40:18.525Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/222222222-1920x1080-c753dbf16a701bc5a2278bb44e75ee81_Snapshot.png",
+      "md5": "36a6f7746c4dab1b7913d549fca78064",
+      "size": 5143,
+      "uploadedDate": "2024-07-27T23:40:19.086Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3333333333333-1920x1080-f35f112cc1440d5151d35cf3530f0323_Snapshot.png",
+      "md5": "a4f412e261024aa78aa107e9cdc2d5cd",
+      "size": 5140,
+      "uploadedDate": "2024-07-27T23:40:19.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/44444444444444-1920x1080-17a9c727dc83480ef45cb31679670491_Snapshot.png",
+      "md5": "6bc8cf8361344e63e0b5f02b122794b1",
+      "size": 5542,
+      "uploadedDate": "2024-07-27T23:40:20.105Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/555555555555555-1920x1080-b09cfa6eb7d52d87d3dd8f785b5c004b_Snapshot.png",
+      "md5": "5296366ed75f1a5f3453c7efeac3f0ba",
+      "size": 6379,
+      "uploadedDate": "2024-07-27T23:40:20.660Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a99eb5bc14c24eaab4896cd4c974f623"
+    }
+  ],
+  "catalogNs": null
+}

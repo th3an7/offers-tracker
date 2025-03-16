@@ -1,0 +1,296 @@
+{
+  "id": "0c4ea8a1a9df4403bba43c15d4be63d1",
+  "namespace": "ue",
+  "title": "EZCompass - Simple Compass Solution",
+  "description": "These plug-and-play components will allow you to navigate your world within seconds!",
+  "longDescription": "<p>What is EZCompass?</p><p>EZCompass is 2 infinitely useful actor components that can easily be used to quickly and effortlessly generate an overhead UI compass, and populate it with interesting objectives! Any actor can use EZCompass!</p><p><br /></p><p>How can I use EZCompass?</p><p>All you need to do is add the component, and your done! EZCompass handles all the complications of creating a compass for you, you don&#39;t have to touch a single line of code!</p><p><br /></p><p>Is EZCompass complicated?</p><p>EZCompass is quite easy to understand, though for those who want to tweak some of the functionality, there is heavily commented blueprints, but for those more interested in the technical side of things, there is heavy documentation covering the asset, and if you find yourself with more questions outside of that, there is a Discord Support server where you will be helped!</p><p><br /></p><p>How big is EZCompass?</p><p>EZCompass takes up less than 1 MB on disk space (without the showcase), and an extremely small amount of memory and CPU (its hard to estimate because Unreal Engine takes up quite a large amount itself, but EZCompass is practically unnoticeable in your levels performance, how do we know it doesn&#39;t effect performance? It always keeps 120 fps on an empty project).</p><p><br /></p><p>Will EZCompass be receiving updates?</p><p>It is unlikely that I will update EZCompass as of today, aside from engine version updates, unless there is an overwhelming number of requests for it to change. However, I am always working on other assets, and you can find me in the Discord server if you feel that something is missing in your project!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ezcompass-simple-compass-solution",
+  "creationDate": "2023-05-16T21:53:27.402Z",
+  "lastModifiedDate": "2024-10-10T22:07:38.710Z",
+  "effectiveDate": "2023-05-16T21:53:27.344Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pzv6gx6uncl9dxmu9xnd638j9stqlr",
+    "name": "EZSystems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Contains 2 components that will easily fulfill your compass needs!</li><li> EZCompass Component - Use this to generate a compass that updates in real time relative to the player!</li><li> EZObjectiveMarker Component - Use this component to add any actor as an icon to the compass!</li><li>Comprised 100% of Easily readable, optimized, and commented blueprints across the 2 simple components.</li><li>Easy to use, just add the component to an actor of your choosing, and the component does all the work!</li></ul><p>Number of Blueprints: 2 - BPC_EZCompass Component and BPC_EZObjectiveMarker</p><p>Input (Showcase): Keyboard and Mouse</p><p>Network Replicated: Yes</p><p>Supported Platforms: Windows, MacOS, Linux, and Android</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1rg1i6rH0NoF0KFWnkFJKC4o7dWc8lfjeSYuRIyOSS3o/edit?usp&#61;sharing\" rel=\"nofollow\">CLICK HERE</a></p><p>Support: <a href=\"https://discord.gg/PsBqg7H4xs\" rel=\"nofollow\">Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5b838dc9-9aa0-4694-9984-aad02834ede9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-20d1e9ae9efc08af9a30a4555091deab.png",
+      "md5": "20d1e9ae9efc08af9a30a4555091deab",
+      "size": 2230196,
+      "uploadedDate": "2023-05-10T21:32:30.053Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-b8c1d43383b2c7341f35355a54b24c35.png",
+      "md5": "b8c1d43383b2c7341f35355a54b24c35",
+      "size": 1294177,
+      "uploadedDate": "2023-05-10T21:32:30.566Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-6f4b5933f3b4225fc552205163688fa7.png",
+      "md5": "6f4b5933f3b4225fc552205163688fa7",
+      "size": 508711,
+      "uploadedDate": "2023-05-10T21:32:30.966Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-637e7ef9f7d55ec443d4ad35cbbc313b.png",
+      "md5": "637e7ef9f7d55ec443d4ad35cbbc313b",
+      "size": 1301816,
+      "uploadedDate": "2023-05-10T21:32:31.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery05-1920x1080-1e999f2a6fc2e3c96166b10da7a8cd57.png",
+      "md5": "1e999f2a6fc2e3c96166b10da7a8cd57",
+      "size": 1249385,
+      "uploadedDate": "2023-05-10T21:32:32.110Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery06-1920x1080-efc0873d7ae4ce478cade984a5b3db6f.png",
+      "md5": "efc0873d7ae4ce478cade984a5b3db6f",
+      "size": 143289,
+      "uploadedDate": "2023-05-10T21:32:32.506Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EZCompassSimpleCompassSolution_thumb-284x284-cb43c1ba8c76eb079ee49cff0cf0adca.png",
+      "md5": "cb43c1ba8c76eb079ee49cff0cf0adca",
+      "size": 50093,
+      "uploadedDate": "2023-05-10T21:32:32.822Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EZCompassSimpleCompassSolution_featured-894x488-972f69d79085649f209ae38e2df1f65b.png",
+      "md5": "972f69d79085649f209ae38e2df1f65b",
+      "size": 189942,
+      "uploadedDate": "2023-05-10T21:32:32.940Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-20d1e9ae9efc08af9a30a4555091deab_Snapshot.png",
+      "md5": "edc6145860fa461f7960594fcabacb1d",
+      "size": 9575,
+      "uploadedDate": "2023-05-10T21:32:30.405Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-b8c1d43383b2c7341f35355a54b24c35_Snapshot.png",
+      "md5": "dd3f20d2b912889fca53467e261d825b",
+      "size": 5444,
+      "uploadedDate": "2023-05-10T21:32:30.837Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-6f4b5933f3b4225fc552205163688fa7_Snapshot.png",
+      "md5": "738f9626de465d498843fc048a1503a3",
+      "size": 5456,
+      "uploadedDate": "2023-05-10T21:32:31.473Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-637e7ef9f7d55ec443d4ad35cbbc313b_Snapshot.png",
+      "md5": "d9a6441a9018ce1e8c66839574766174",
+      "size": 5513,
+      "uploadedDate": "2023-05-10T21:32:31.941Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-1e999f2a6fc2e3c96166b10da7a8cd57_Snapshot.png",
+      "md5": "c606419248bb2594908bd1f45b329b41",
+      "size": 5255,
+      "uploadedDate": "2023-05-10T21:32:32.401Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery06-1920x1080-efc0873d7ae4ce478cade984a5b3db6f_Snapshot.png",
+      "md5": "5e06bda851095d1f949e0a7dec1bf681",
+      "size": 5555,
+      "uploadedDate": "2023-05-10T21:32:32.725Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1e95a23057df444498b90c4fa8550090"
+    }
+  ],
+  "catalogNs": null
+}

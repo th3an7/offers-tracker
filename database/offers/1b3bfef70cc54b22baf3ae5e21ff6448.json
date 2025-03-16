@@ -1,0 +1,239 @@
+{
+  "id": "1b3bfef70cc54b22baf3ae5e21ff6448",
+  "namespace": "ue",
+  "title": "StitchingOfLandscapes",
+  "description": "The  plugin allows you to stitch all the landscapes on the scene.",
+  "longDescription": "<p>Tutorial 1: <a href=\"https://www.youtube.com/watch?v&#61;JIzaxwqYSas\" rel=\"nofollow\">youtube.com/watch?v&#61;JIzaxwqYSas</a></p><p>Tutorial 2: <a href=\"https://www.youtube.com/watch?v&#61;nez6zEc7wuM\" rel=\"nofollow\">youtube.com/watch?v&#61;nez6zEc7wuM</a></p><p>Tutorial 3 (World Composition): <a href=\"https://www.youtube.com/watch?v&#61;1MWSB-WCf5k\" rel=\"nofollow\">youtube.com/watch?v&#61;1MWSB-WCf5k</a></p><p><br /></p><p>If you have several levels with landscapes on the scene, often there can be iscrepancies along the edges of landscapes after the manual adjustment of the landscapes. </p><p>The plugin allows you to stitch all the landscapes on the scene, for which the correct names are given. </p><p>This plugin is a good example to learn how to work with elevation maps of unreal engine landscapes.</p><p>The plugin will be useful for big worlds projects with dynamic loading of landscape parts.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stitchingoflandscapes",
+  "creationDate": "2018-05-27T22:36:29.716Z",
+  "lastModifiedDate": "2024-10-15T05:41:52.926Z",
+  "effectiveDate": "2018-05-27T22:36:29.685Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-b71d45bc244326a6f9932318159891",
+    "name": "SforT"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Functions for landscapes:</p><ul><li>Stitching edges of landscapes</li><li>Get heightmaps data</li><li>Set heightmaps data</li><li>Get all landscapes of scene</li><li>Align heights to neighbors</li></ul><p>Functions to check landscape name matching with a mask:</p><ul><li>Parse mask </li><li>Set mask</li><li>Get landscape name</li><li>Check landscape name matching with a mask</li></ul><p>Functions for widget.</p><p><br /></p><p>The plugin is designed for UE4Editor</p><p><br /></p><p>Number of C&#43;&#43; Classes: 5</p><p>Supported Development Platforms: Win32, Win64, Linux</p><p>Supported Target Build Platforms: Win32, Win64, Linux</p><p>Documentation: Instructions for working with the plugin added to the plugin itself.</p><p>Example Project: <a href=\"https://www.dropbox.com/s/d37b0b7fwiloiq9/TestProject.zip?dl&#61;0\" rel=\"nofollow\">TestProject</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4e00c0af-31d3-412a-be0f-6fa25247d627"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pict3-1920x1080-e42461e3cc0b4abafc0464b4d1636282.png",
+      "md5": "e42461e3cc0b4abafc0464b4d1636282",
+      "size": 931121,
+      "uploadedDate": "2018-04-14T15:27:22.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pict2-1920x1080-2ad98a652716dd4a67bc8c10206bbf60.png",
+      "md5": "2ad98a652716dd4a67bc8c10206bbf60",
+      "size": 2839989,
+      "uploadedDate": "2018-04-14T15:27:22.976Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pict1-1920x1080-de29eaffb5be0a07720498755786df97.png",
+      "md5": "de29eaffb5be0a07720498755786df97",
+      "size": 2862057,
+      "uploadedDate": "2018-04-14T15:27:23.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StitchingOfLandscapes_thumb-284x284-b8e07dbb9ee12ce214bbea38d6ebf002.png",
+      "md5": "b8e07dbb9ee12ce214bbea38d6ebf002",
+      "size": 138285,
+      "uploadedDate": "2018-04-14T15:27:23.401Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StitchingOfLandscapes_featured-894x488-3e893257f7cd0b2f8ce4638e3f7fe256.png",
+      "md5": "3e893257f7cd0b2f8ce4638e3f7fe256",
+      "size": 329287,
+      "uploadedDate": "2018-04-14T15:27:23.529Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "2300a79ab41940198c50546c568740db"
+    }
+  ],
+  "catalogNs": null
+}

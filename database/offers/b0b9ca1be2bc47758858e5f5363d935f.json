@@ -1,0 +1,329 @@
+{
+  "id": "b0b9ca1be2bc47758858e5f5363d935f",
+  "namespace": "ue",
+  "title": "Modular Cliffs",
+  "description": "Set of modular cliffs with supporting assets to make beautiful seaside or inland rocky environments.",
+  "longDescription": "<p>**Update 1.1 is now live:</p><p>Added another medium sized rock, added another set of rock and cliff materials with more pronounced detail maps, added some more details to the biggest cliff piece texture, added wetness vertex paint option for rocks and cliffs materials. More info in the forum thread (link below). **</p><p><br /></p><p>Video preview: <a href=\"https://www.youtube.com/watch?v&#61;DasaY5L0HX0\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;DasaY5L0HX0</a></p><p>Interview about the making of this pack: <a href=\"https://80.lv/articles/modular-photogrammetry-in-environment-design/\" rel=\"nofollow\">80lvl</a></p><p><br /></p><p>The focus of this package is a set of modular cliffs. They will help you create realistic looking map edges, rocky shores or inland cliffs that blend nicely with the terrain. Each cliff module and the two big rocks come with a mask and two sets of two detail materials that are overlayed on top of basic material, with full control over their intensity and opacity. Their scale is world based so the level of detail is preserved and stays consistent when parent meshes are scaled.</p><p><br /></p><p>The terrain material is comprised of three tessellated paint-able height blended materials. The package also includes 2 types of shrubs, grass with three different material variations and a small tree. They are all wind enabled.</p><p><br /></p><p>All big objects have four LODs (100%, 50%, 25%, 12%), smaller ones have three LODs. All of them have tight collisions, except for the vegetation assets which don&#39;t have collision meshes.</p><p><br /></p><p>Note: Please visit the forum thread to give feedback, suggestions and wishes for future updates!</p><p><a href=\"https://forums.unrealengine.com/showthread.php?141035-Modular-Cliffs\" rel=\"nofollow\">To forum thread</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modular-cliffs",
+  "creationDate": "2017-03-27T15:33:40.387Z",
+  "lastModifiedDate": "2024-10-22T14:51:08.607Z",
+  "effectiveDate": "2017-03-29T00:00:00.000Z",
+  "viewableDate": "2017-03-29T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-50281b5dac45d983383dc1624b53c1",
+    "name": "CGMontreal"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Physically-Based Rendering: Yes<br />Texture Size: (3) sets of 4k textures for big cliffs and rocks, (3) sets of 2k textures for ground materials, (2) sets of 2k and (2) sets of 512 textures for vegetaion assets, (3) sets of 1k textures for small rocks and sunchair, <br />(5) sets of 1k and 2k textures for detail materials. <br />Collision: Yes, automatically generated<br />Vertex Count: Cliffs and rocks: from 2729 to 4012, Vegetation: from 959 to 10952.<br />LODs: Yes - 50%, 25%, 12% <br />Number of Meshes: 29<br />Number of Materials and Material Instances: 40 (6 master materials, 31 instances, 3 regular materials)<br />Number of Textures: 56<br />Engine Compatibility: 4.12, 4.13, 4.14, 4.15<br />Intended Platform: Desktop, Console, VR<br />Platforms Tested: Desktop<br />Documentation Included: No<br />Note: Big cliff meshes all have closed back sides to prevent lighting issues. For optimization purposes and also to make them usable, back sides are lower poly versions of front sides and are using the same texture space.",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1224",
+      "name": "ECONOMY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:09.715Z",
+      "updated": "2023-03-28T12:57:52.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 109,
+      "comment": null
+    },
+    {
+      "id": "1225",
+      "name": "PVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:10.201Z",
+      "updated": "2019-06-20T12:00:10.201Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1132",
+      "name": "SCI-FI",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:24.043Z",
+      "updated": "2023-05-30T15:58:49.086Z",
+      "status": "ACTIVE",
+      "referenceCount": 118,
+      "comment": null
+    },
+    {
+      "id": "1133",
+      "name": "UNFORGIVING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:24.527Z",
+      "updated": "2019-06-20T11:59:24.527Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "08717680-c33e-4db5-8b97-a9e4cdc9802a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_001-1920x1080-a91cd5fd4f047fc5d3e15dbf22e0cf50.png",
+      "md5": "a91cd5fd4f047fc5d3e15dbf22e0cf50",
+      "size": 2544300,
+      "uploadedDate": "2017-03-27T15:31:33.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_002-1920x1080-6c6b31b97dda57e8b8fe7d37682fc56e.png",
+      "md5": "6c6b31b97dda57e8b8fe7d37682fc56e",
+      "size": 1938396,
+      "uploadedDate": "2017-03-27T15:31:29.353Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_003-1920x1080-0e74d2163b7528752195da4d3e1dd17f.png",
+      "md5": "0e74d2163b7528752195da4d3e1dd17f",
+      "size": 2130433,
+      "uploadedDate": "2017-03-27T15:31:26.613Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_004-1920x1080-56224f32673c9b66e479e471a07a985c.png",
+      "md5": "56224f32673c9b66e479e471a07a985c",
+      "size": 3028760,
+      "uploadedDate": "2017-03-27T15:31:23.287Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_005-1920x1080-e145825c9e828fe357c72b9d4f0134e9.png",
+      "md5": "e145825c9e828fe357c72b9d4f0134e9",
+      "size": 3415804,
+      "uploadedDate": "2017-03-27T15:31:19.746Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_006a-1920x1080-13e604868472530a8292a79a1c01ba32.png",
+      "md5": "13e604868472530a8292a79a1c01ba32",
+      "size": 3332575,
+      "uploadedDate": "2017-03-27T15:31:08.294Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_007-1920x1080-79be0c8b0f867e9512e47f86350d9a60.png",
+      "md5": "79be0c8b0f867e9512e47f86350d9a60",
+      "size": 2914325,
+      "uploadedDate": "2017-03-27T15:31:48.280Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_008-1920x1080-4cde6b15f52dfd9d98ebb8a5410c6696.png",
+      "md5": "4cde6b15f52dfd9d98ebb8a5410c6696",
+      "size": 3019882,
+      "uploadedDate": "2017-03-27T15:30:52.495Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Modular_Cliffs_screenshot_update_009-1920x1080-081e0dba37c7339fcd77f06fbf1c9b08.png",
+      "md5": "081e0dba37c7339fcd77f06fbf1c9b08",
+      "size": 1832689,
+      "uploadedDate": "2017-05-08T16:09:35.179Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_Modular_Cliffs_Thumb-284x284-6f8196169f26dbec09fdcd82deee8480.png",
+      "md5": "6f8196169f26dbec09fdcd82deee8480",
+      "size": 180260,
+      "uploadedDate": "2017-03-27T15:31:36.890Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_Modular_Cliffs_FeaturedNew-894x488-d1e8384919282f5b4d1793b47d0190cd.png",
+      "md5": "d1e8384919282f5b4d1793b47d0190cd",
+      "size": 813673,
+      "uploadedDate": "2017-03-27T15:31:40.262Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "389285b3ee4c41e28fe49885dce55bff"
+    }
+  ],
+  "catalogNs": null
+}

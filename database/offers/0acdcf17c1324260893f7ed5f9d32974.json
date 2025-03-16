@@ -1,0 +1,254 @@
+{
+  "id": "0acdcf17c1324260893f7ed5f9d32974",
+  "namespace": "ue",
+  "title": "Extra Widgets for Slate & UMG",
+  "description": "A collection of useful extra widgets for slate or UMG",
+  "longDescription": "<p>*** Extra Widgets for Slate &amp; UMG***</p><p>Here is a nice collection of extra widgets that you can use directly in c&#43;&#43; or with their UMG versions:</p><p>Demo video: <a href=\"https://www.youtube.com/watch?v&#61;dU-dksdR_XQ&amp;feature&#61;youtu.be\" rel=\"nofollow\">Link</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "extra-widgets-for-slate-umg",
+  "creationDate": "2020-03-18T17:59:02.817Z",
+  "lastModifiedDate": "2024-10-15T12:50:41.729Z",
+  "effectiveDate": "2020-03-18T18:02:01.110Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7y87a4nj5swpgtgxywhq4nmtj9nxus",
+    "name": "Bear Teacher"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>WidgetViewport: Display actors inside this widget, you have 3 modes; opaque, blend, mask (in opaque you can set the background color)</li><li>Slider2D: a Slider that works in 2 dimensions, you can also use this widgets as virtual joystick</li><li>Hyperlink</li><li>IntSpinBox</li><li>CustomCheckbox: this is just a fancier check box</li><li>Splitterbox: a new panel to arrange your widgets (it only works for desktop)</li><li>MultiSlider: a slider with multiple handlers</li><li>Class selector: it allow you reference an asset by class (editor only)</li><li>ThumbnailWidget: it allow you reference an asset and display its thumbnail (editor only)</li><li>SpawnWindow: it allow you spawn a window that can hold a UMG inside (editor only)</li><li>SpawnPopUp: it allow you spawn a pop up that can hold a UMG inside (editor only)</li></ul><p><br /></p><p>Code Modules:</p><ul><li> ExtraWidgets [Runtime]</li><li> ExtraWidgetsEditor [Editor]</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 17</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows 64, MacOS</p><p>Supported Target Build Platforms: Windows 64, MacOs, iOS, Android</p><p>Example Project: <a href=\"https://drive.google.com/open?id&#61;1TCKWzgvd6QgmYi-iNffMghZmNL9FOZVs\" rel=\"nofollow\">Project</a></p><p>Documentation: <a href=\"https://docs.google.com/document/d/1h0QUxlpLRth5IWb_UHZUhQk3P-BUO6rAgKjYUplW6Ho/edit?usp&#61;sharing\" rel=\"nofollow\">Docs</a></p><p>Important/Additional Notes: For troubleshooting or to request extra crazy widgets contact me: bear.teach.you&#64;gmail.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1158",
+      "name": "Rhythm",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:37.130Z",
+      "updated": "2024-09-16T18:06:26.713Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9c171f39-7406-4948-b355-0cfd9067176e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExtraWidgets00-1920x1080-eb5c92d63d6e44616286958a8d02aa6b.png",
+      "md5": "eb5c92d63d6e44616286958a8d02aa6b",
+      "size": 1639460,
+      "uploadedDate": "2020-03-01T03:39:55.794Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExtraWidgets01-1920x1080-dd7a294a61e89ffa8399b3c280940ed5.png",
+      "md5": "dd7a294a61e89ffa8399b3c280940ed5",
+      "size": 1310089,
+      "uploadedDate": "2020-03-01T03:39:56.373Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExtraWidgets02-1920x1080-ad767033b813d0eefefed514fabf0394.png",
+      "md5": "ad767033b813d0eefefed514fabf0394",
+      "size": 1004018,
+      "uploadedDate": "2020-03-01T03:39:56.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExtraWidgets03-1920x1080-16bcfaa143620bce341da81ce8ecf94f.png",
+      "md5": "16bcfaa143620bce341da81ce8ecf94f",
+      "size": 1138238,
+      "uploadedDate": "2020-03-01T03:39:57.360Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExtraWidgets04-1920x1080-70e875ce13499243ac8f94a04398c636.png",
+      "md5": "70e875ce13499243ac8f94a04398c636",
+      "size": 1034474,
+      "uploadedDate": "2020-03-01T03:39:57.867Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExtraWidgets05-1920x1080-be09907d8c349eee3681fcbd95579bcc.png",
+      "md5": "be09907d8c349eee3681fcbd95579bcc",
+      "size": 852686,
+      "uploadedDate": "2020-03-01T03:39:58.465Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExtraWidgets06-1920x1080-315e80145540ef13cdfc1b9436913c8c.png",
+      "md5": "315e80145540ef13cdfc1b9436913c8c",
+      "size": 1197052,
+      "uploadedDate": "2020-03-01T03:39:58.959Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ExtraWidgetsforSlateUMG_thumb-284x284-69198382001c411bae7b0ddd1f30be04.png",
+      "md5": "69198382001c411bae7b0ddd1f30be04",
+      "size": 122308,
+      "uploadedDate": "2020-03-12T23:23:45.650Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ExtraWidgetsforSlateUMG_featured-894x488-34a6557d83280bba66ae892abc4bff07.png",
+      "md5": "34a6557d83280bba66ae892abc4bff07",
+      "size": 468692,
+      "uploadedDate": "2020-03-12T23:23:45.724Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExtraWidgets00-1920x1080-eb5c92d63d6e44616286958a8d02aa6b_Snapshot.png",
+      "md5": "4b4b086a9f8cf83760698581f0b193fa",
+      "size": 6117,
+      "uploadedDate": "2020-03-01T03:39:56.164Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExtraWidgets01-1920x1080-dd7a294a61e89ffa8399b3c280940ed5_Snapshot.png",
+      "md5": "b4b421f904fa2176c845c6288cef15dd",
+      "size": 5226,
+      "uploadedDate": "2020-03-01T03:39:56.706Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExtraWidgets02-1920x1080-ad767033b813d0eefefed514fabf0394_Snapshot.png",
+      "md5": "a021ca481c96afd193dc4bd3bf954fb7",
+      "size": 4605,
+      "uploadedDate": "2020-03-01T03:39:57.188Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExtraWidgets03-1920x1080-16bcfaa143620bce341da81ce8ecf94f_Snapshot.png",
+      "md5": "64bdf6ae5269ed6ee48d0a4cfa96f0b5",
+      "size": 4268,
+      "uploadedDate": "2020-03-01T03:39:57.695Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExtraWidgets04-1920x1080-70e875ce13499243ac8f94a04398c636_Snapshot.png",
+      "md5": "1f9f9fe4db9485b57d6958593559c192",
+      "size": 4577,
+      "uploadedDate": "2020-03-01T03:39:58.254Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExtraWidgets05-1920x1080-be09907d8c349eee3681fcbd95579bcc_Snapshot.png",
+      "md5": "c754e5f020aa475ef326838b2297965e",
+      "size": 3953,
+      "uploadedDate": "2020-03-01T03:39:58.759Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExtraWidgets06-1920x1080-315e80145540ef13cdfc1b9436913c8c_Snapshot.png",
+      "md5": "5ab532f926b8a6d4fb68049d0ce15f2a",
+      "size": 4494,
+      "uploadedDate": "2020-03-01T03:39:59.266Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5cdc4b16302a4b51b84c5663f8ada6c2"
+    }
+  ],
+  "catalogNs": null
+}

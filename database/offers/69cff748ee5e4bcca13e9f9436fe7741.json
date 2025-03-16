@@ -1,0 +1,254 @@
+{
+  "id": "69cff748ee5e4bcca13e9f9436fe7741",
+  "namespace": "ue",
+  "title": "Procedural Turn in Place System",
+  "description": "Generates Turn in Place animations at runtime to rotate characters at any angle, realistically & without feet sliding. Requires a single ControlRig node + Actor Blueprint. Integrates flawlessly with other IK solutions.",
+  "longDescription": "<p><strong><em>Now fully replicated</em></strong></p><p>The Procedural Turn in Place system generates IK-Based Turn in Place motions to rotate humanoid characters, at any required angle, automatically projecting the feet position for 2-3 steps required to execute realistic motions (and then moving the feet towards them while rotating the character appropiately) . It can be implemented in any character-based project in a few minutes and adapts to any Idle Animations. It can be used for any UE4 or UE5 based character.</p><p><a href=\"https://www.youtube.com/watch?v&#61;mGddMqhQHDQ\" rel=\"nofollow\">Youtube preview</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;-X1Qs3A975M\" rel=\"nofollow\">Features &amp; Integration Guide (old)</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;tNwC9UA9--0\" rel=\"nofollow\">Updated Integration Tutorial</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;g2TM_RR93hk&amp;ab_channel&#61;FSCStudio\" rel=\"nofollow\">New: Integration with TopDown template</a></p><ul><li>Steps are automatically calculated depending on the rotation angle and the user can easily configure the max rotation range, step height, duration, timing, and cooldown. The Step Duration is defined using intuitive curves and allows very different animation styles that can convey character weight, size, etc (refer to the above video which shows standard characters rotating at normal speed and a giant mannequin rotating slowly).</li><li>The step height automatically adapts to different character proportions, and can also be customized inside the control rig using distance Curves.</li><li>The implementation requires adding a simple Control Rig node, an Actor Component, and copying/pasting some simple functions into your own character blueprint. A complete 12-page PDF document with detailed instructions is included, as well as video tutorials.</li><li>The product also includes, for free, 16 Strafing animations (8 for the UE5 mannequin and 8 retargeted) and some additional Idle Animations as examples. It also includes a simple AimOffset solution that doesn&#39;t require additional animations to work, and basic bow&#43;arrow meshes.</li><li>Fully replicated</li></ul><p><br /></p><p>This product was inspired by the amazing 2014 GDC talk &#34;An Indie Approach to Procedural Animation&#34; by David Rosen seen here: https://www.youtube.com/watch?v&#61;LNidsMesxSE</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-turn-in-place-system",
+  "creationDate": "2023-01-11T19:22:28.433Z",
+  "lastModifiedDate": "2024-10-04T08:13:17.833Z",
+  "effectiveDate": "2023-01-11T19:25:49.619Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hb4me8c3s8aab25njvhdnqjv7zyk2s",
+    "name": "FS Creations"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Generates procedural Turn in Place Ik-Based motions at runtime to rotate characters in arbitrary angles for any animation without feet sliding</li><li>Contains an Actor Component that encapsules most of the functionality, as well as 2 Control Rigs (one for UE5, one for UE4)</li><li>Allows full customization of the procedural animations (Step height, step duration, max angles, etc.)</li><li>Can be implemented in any project in minutes</li></ul><p>Number of Blueprints: 10 (but only 3 are required, the rest is for showcase purposes)</p><p>Input: Uses Default UE5 Enhanced input</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: Right click on the Documentation folder &gt; Show in explorer (PDF Manual) &#43; <a href=\"https://www.youtube.com/&#64;fscstudio8\" rel=\"nofollow\">Youtube tutorials</a></p><p><u>Changelog:</u></p><ul><li>v1.0: Initial release for UE 5.1</li><li>v1.1: Added support for UE 5.0 &#43; Project cleanup</li><li>v1.2: Added network replication,  added footstep functionality examples, simplified integration. Fully redesigned the ControlRig and TurnInPlaceComponent code to bypass a UE5 bug that prevents “SetVariableFromString” from working in some packaged projects</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c52a2e0a-f454-467a-acbc-a5401201ec40"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TurnInPlace 1920-1920x1080-71c770faad28934a29645e1d52f1f8ba.png",
+      "md5": "71c770faad28934a29645e1d52f1f8ba",
+      "size": 868343,
+      "uploadedDate": "2023-01-06T02:12:47.033Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TurnInPlace 1920 2-1920x1080-f73261dd773af6162aec4a4fd29824ae.png",
+      "md5": "f73261dd773af6162aec4a4fd29824ae",
+      "size": 2342946,
+      "uploadedDate": "2023-01-06T02:12:47.571Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TurnInPlace 1920 3-1920x1080-3f2051021bca6a38df213fb1e9d056c8.png",
+      "md5": "3f2051021bca6a38df213fb1e9d056c8",
+      "size": 2312407,
+      "uploadedDate": "2023-01-06T02:12:48.139Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralTurninPlaceSystem_thumb-284x284-5e6fa2bda88f6d01fa7f0d62da3299f1.png",
+      "md5": "5e6fa2bda88f6d01fa7f0d62da3299f1",
+      "size": 70550,
+      "uploadedDate": "2023-01-06T02:12:48.596Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralTurninPlaceSystem_featured-894x488-4ac3d4d51003bfeaba6ef05bece8b334.png",
+      "md5": "4ac3d4d51003bfeaba6ef05bece8b334",
+      "size": 333930,
+      "uploadedDate": "2023-01-06T02:12:48.702Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TurnInPlace 1920-1920x1080-71c770faad28934a29645e1d52f1f8ba_Snapshot.png",
+      "md5": "788b26b466d5ddb31b04cee35bc21cab",
+      "size": 7062,
+      "uploadedDate": "2023-01-06T02:12:47.341Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TurnInPlace 1920 2-1920x1080-f73261dd773af6162aec4a4fd29824ae_Snapshot.png",
+      "md5": "f1926a36e75b41efda8d922e210df694",
+      "size": 6842,
+      "uploadedDate": "2023-01-06T02:12:47.937Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TurnInPlace 1920 3-1920x1080-3f2051021bca6a38df213fb1e9d056c8_Snapshot.png",
+      "md5": "9b37c7a3a0963addc63973aac1e81349",
+      "size": 6781,
+      "uploadedDate": "2023-01-06T02:12:48.507Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cc6d955ad0bf4117bf3b731dec6cbf92"
+    }
+  ],
+  "catalogNs": null
+}

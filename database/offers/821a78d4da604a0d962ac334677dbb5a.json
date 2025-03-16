@@ -1,0 +1,224 @@
+{
+  "id": "821a78d4da604a0d962ac334677dbb5a",
+  "namespace": "ue",
+  "title": "Json Brother",
+  "description": "Handle your json string or object and message json string to your php.",
+  "longDescription": "<p>This plugin is written in C&#43;&#43;.</p><p>You can use this plugin to simply handle JSON String or JSON Object. (only GetValue and SetValue)</p><p>You can send JSON String to your PHP Server and receive returned information.</p><p>Just search &#34;json&#34; in blueprint to use.</p><p>For More Information: <a href=\"https://github.com/WyvernCoder/JsonBrother_Document/blob/main/README.md\" rel=\"nofollow\">JsonBrother_Document</a>. (If you are curious, please look at this)</p><p><br /></p><p>v1.1 {<!-- --></p><p>- Appropriate information will be prompted when your URL is illegal. </p><p>}</p><p><br /></p><p>V1.2 {<!-- --></p><p>- Fixed some bugs that can cause engine crashes after stopping pie mode. </p><p>- Changed some Json function nodes to pure for easy use. </p><p>}</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "json-brother",
+  "creationDate": "2023-01-17T03:35:49.963Z",
+  "lastModifiedDate": "2024-10-15T06:52:27.799Z",
+  "effectiveDate": "2023-01-17T03:35:49.907Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e3rdpcl7wqq6wj5ljekqb8tbph8625",
+    "name": "WyvernLang"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Serialize JSON Object in BP. </li><li> Deserialize JSON Object in BP. </li><li> Modify JSON Object value. (except array elements)</li><li>Send JSON Post Http Request. </li><li>Receive Http Result. </li></ul><p>Code Modules:</p><ul><li> JsonBrother (Runtime)</li></ul><p>Number of Blueprints: 1 (Demo)</p><p>Number of C&#43;&#43; Classes: 3</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64 / Android</p><p>Documentation: <a href=\"https://github.com/WyvernCoder/JsonBrother_Document/blob/main/README.md\" rel=\"nofollow\">JsonBrother_Document</a></p><p>Important/Additional Notes: Replace an array object with other array object is not allowed.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1338",
+      "name": "TOP-DOWN SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:06.404Z",
+      "updated": "2019-06-20T12:01:06.404Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6b50c5fc-6101-4d12-9817-def84ad9d0ce"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY01-1920x1080-401545e407c53994d19a59553d5a4063.png",
+      "md5": "401545e407c53994d19a59553d5a4063",
+      "size": 701741,
+      "uploadedDate": "2023-01-11T17:27:14.914Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY02-1920x1080-156ca885b721e462cb97bcb823c55361.png",
+      "md5": "156ca885b721e462cb97bcb823c55361",
+      "size": 433435,
+      "uploadedDate": "2023-01-11T17:27:15.390Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY03-1920x1080-519ab29ad1a9826db8d92d60ef63689b.png",
+      "md5": "519ab29ad1a9826db8d92d60ef63689b",
+      "size": 420537,
+      "uploadedDate": "2023-01-11T17:27:15.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY04-1920x1080-bb8bca9b0d5680f486ad75a386808782.png",
+      "md5": "bb8bca9b0d5680f486ad75a386808782",
+      "size": 536971,
+      "uploadedDate": "2023-01-11T17:27:16.140Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/JsonBrother_thumb-284x284-f45ff3ede17de981bb01c4a0aa3aea96.png",
+      "md5": "f45ff3ede17de981bb01c4a0aa3aea96",
+      "size": 33233,
+      "uploadedDate": "2023-01-11T17:27:16.411Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/JsonBrother_featured-894x488-d51105c8029afac8e8fde98ee3bd4215.png",
+      "md5": "d51105c8029afac8e8fde98ee3bd4215",
+      "size": 54887,
+      "uploadedDate": "2023-01-11T17:27:16.490Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY01-1920x1080-401545e407c53994d19a59553d5a4063_Snapshot.png",
+      "md5": "7421f0eab0033308aaddf6749871fd29",
+      "size": 6798,
+      "uploadedDate": "2023-01-11T17:27:15.210Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY02-1920x1080-156ca885b721e462cb97bcb823c55361_Snapshot.png",
+      "md5": "86aebc812d44d3ce79cd2612010109b3",
+      "size": 4690,
+      "uploadedDate": "2023-01-11T17:27:15.603Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY03-1920x1080-519ab29ad1a9826db8d92d60ef63689b_Snapshot.png",
+      "md5": "fd9bf11e5d90aa4fe950e3de3389b53c",
+      "size": 5218,
+      "uploadedDate": "2023-01-11T17:27:16.025Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY04-1920x1080-bb8bca9b0d5680f486ad75a386808782_Snapshot.png",
+      "md5": "92380f1af6d2e44c28edebaae7d5861d",
+      "size": 4707,
+      "uploadedDate": "2023-01-11T17:27:16.356Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "33a2a26e5830473da2f109b6d4e94d4a"
+    }
+  ],
+  "catalogNs": null
+}

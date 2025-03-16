@@ -1,0 +1,386 @@
+{
+  "id": "616b39a1b8064411ba753f6a65eb5d21",
+  "namespace": "ue",
+  "title": "Cover System Tool",
+  "description": "Cover System (Spline Tool) with 24 animations allows you to draw your character cover path for any object in your own map.",
+  "longDescription": "<p><strong>Cover System Tool </strong><a href=\"https://www.youtube.com/watch?v&#61;T2Vo9mCYVPk&amp;t&#61;5s&amp;ab_channel&#61;RemeshGames\" rel=\"nofollow\"><strong>Video Preview</strong></a></p><p><strong>Cover System </strong><a href=\"https://www.youtube.com/watch?v&#61;neGbmJaonJI\" rel=\"nofollow\"><strong>Video Tutorial</strong></a></p><p><strong>How to link (</strong><a href=\"https://www.unrealengine.com/marketplace/en-US/product/zombie-ai-system\" rel=\"nofollow\"><strong>Zombie Ai System</strong></a><strong>) with CoverSystem Tool </strong><a href=\"https://www.youtube.com/watch?v&#61;IGep0Riw83M\" rel=\"nofollow\"><strong>Video Tutorial</strong></a></p><p><br /></p><p><strong>Cover System Tool Update </strong><a href=\"https://www.youtube.com/watch?v&#61;cOZBDmxmUPg\" rel=\"nofollow\"><strong>Video Update 02</strong></a></p><p><strong>Cover System Tool Update </strong><a href=\"https://www.youtube.com/watch?v&#61;xCPC0I3wNVI&amp;t&#61;78s\" rel=\"nofollow\"><strong>Video Update 01</strong></a></p><p><br /></p><p><strong>The main purpose of this tool is to help you draw a cover path to your character easily via spline for any object you want (Vehicle, walls, table .etc) in your own map.</strong></p><p><strong>the tool content circular movement feature that allows you to move around circular objects also contains an error check icon which notifies you when you have an error during the drawing path process.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cover-system-tool",
+  "creationDate": "2019-10-12T03:53:06.021Z",
+  "lastModifiedDate": "2024-10-23T07:36:55.782Z",
+  "effectiveDate": "2019-10-12T03:54:14.278Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9n6sdw7rsz8fvcqpaqsfetl288vvqz",
+    "name": "Remesh Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Draw your cover path easily with the spline.</strong></li><li><strong>Circular movement feature.</strong></li><li><strong>Auto connection for splines points</strong></li><li><strong>13 cover Animations, 11 AimOffset, Walk Animation,Reload Animation and Idle Animation.</strong></li><li><strong>Error check icon.</strong></li><li><strong>Change the size of sprites error.</strong></li><li><strong>Smooth zooming while Aiming.</strong></li><li><strong>Prevent guns from going through walls via (Physical Material).</strong></li><li><strong>Shooting System: Two Types [Line Trace, Projectile].</strong></li><li><strong>Reload System [Magazine Size, Max Ammo].</strong></li><li><strong>Controlling Fire Rate.</strong></li><li><strong>Camera Shake while Shooting.</strong></li><li><strong>Full support for gamepad.</strong></li><li><strong>Run and Camera Shake while Runing</strong></li><li><strong>Health Bar</strong></li><li><strong>&#xfeff;Taking Damage</strong></li></ul><p><br /></p><p><br /></p><p><strong>Number of Blueprints: 2  </strong></p><p><strong>1 Aimoffset, 1 Blendspaces, 1AnimBP, 1 Montage.</strong></p><p><strong>Input: Gamepad,Keyboard, Mouse.</strong></p><p><strong>Network Replicated: (No)</strong></p><p><br /></p><p><br /></p><p><strong>* Important notice, This pack does NOT include VFX.</strong></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "72226413-c175-4bd4-9f5b-c7b880cfb3ff"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-4bc02ca533284720417875aa25d87293.jpg",
+      "md5": "4bc02ca533284720417875aa25d87293",
+      "size": 856985,
+      "uploadedDate": "2023-10-05T19:07:49.193Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-0f4dc99a6abc6556f9cd79396d8d172b.jpg",
+      "md5": "0f4dc99a6abc6556f9cd79396d8d172b",
+      "size": 1130495,
+      "uploadedDate": "2023-10-05T19:07:49.731Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-cc3b981ba06c3d1645efc4e349fd87a2.jpg",
+      "md5": "cc3b981ba06c3d1645efc4e349fd87a2",
+      "size": 798542,
+      "uploadedDate": "2023-10-05T19:07:50.294Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-6cb90f73efef38c238eb263a3150a69c.jpg",
+      "md5": "6cb90f73efef38c238eb263a3150a69c",
+      "size": 942397,
+      "uploadedDate": "2023-10-05T19:07:50.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-6500d914d2ff5528d0d335d2bdf6e4d0.jpg",
+      "md5": "6500d914d2ff5528d0d335d2bdf6e4d0",
+      "size": 669496,
+      "uploadedDate": "2023-10-05T19:07:52.038Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-94a3963cf2d1f5f3ab4633fdea0aee16.jpg",
+      "md5": "94a3963cf2d1f5f3ab4633fdea0aee16",
+      "size": 887415,
+      "uploadedDate": "2023-10-05T19:07:52.504Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CoverSystemTool_thumb-284x284-ee1d12fd2bba7432e3cccd5847b0d92c.png",
+      "md5": "ee1d12fd2bba7432e3cccd5847b0d92c",
+      "size": 120153,
+      "uploadedDate": "2023-10-06T08:22:15.977Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CoverSystemTool_featured-894x488-46681221e6f43e56fd111ef0784b2974.png",
+      "md5": "46681221e6f43e56fd111ef0784b2974",
+      "size": 683220,
+      "uploadedDate": "2023-10-06T16:35:07.830Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-4bc02ca533284720417875aa25d87293_Snapshot.jpg",
+      "md5": "9f8101460e744248f8b248a33eb3ef96",
+      "size": 7773,
+      "uploadedDate": "2023-10-05T19:07:49.452Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-0f4dc99a6abc6556f9cd79396d8d172b_Snapshot.jpg",
+      "md5": "aa8dffea6bc681d726f2517bc4d037c6",
+      "size": 9622,
+      "uploadedDate": "2023-10-05T19:07:50.049Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-cc3b981ba06c3d1645efc4e349fd87a2_Snapshot.jpg",
+      "md5": "b0e0c1b944bda04a6f7f23687e52141e",
+      "size": 7834,
+      "uploadedDate": "2023-10-05T19:07:50.560Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-6cb90f73efef38c238eb263a3150a69c_Snapshot.jpg",
+      "md5": "16778f6c79ca8dbdc707d20caee0297f",
+      "size": 7077,
+      "uploadedDate": "2023-10-05T19:07:51.214Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-6500d914d2ff5528d0d335d2bdf6e4d0_Snapshot.jpg",
+      "md5": "c248fffb02887f73515aa21597510a2d",
+      "size": 6195,
+      "uploadedDate": "2023-10-05T19:07:52.315Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-94a3963cf2d1f5f3ab4633fdea0aee16_Snapshot.jpg",
+      "md5": "e1ffe5c54064a32f3b650da0ee359da5",
+      "size": 6511,
+      "uploadedDate": "2023-10-05T19:07:52.765Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CoverSplineTool-1920x1080-731178adaa0e2d305e3aa20313e74e6c_Snapshot.jpg",
+      "md5": "ec842ff19c7117a7c18ab9660e273e37",
+      "size": 8481,
+      "uploadedDate": "2019-09-26T05:56:08.004Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture08-1920x1080-cd9cb2820726c60aadc6324d80cffb96_Snapshot.jpg",
+      "md5": "6ee27b844da008b87fc8d69da2cc8ddd",
+      "size": 7503,
+      "uploadedDate": "2019-09-26T05:56:08.519Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture09-1920x1080-70fd81f4a09ee952c1c9d1fede31371b_Snapshot.jpg",
+      "md5": "21ecff827f147320b9b3095791421dde",
+      "size": 6382,
+      "uploadedDate": "2019-09-26T05:56:09.048Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture10-1920x1080-8ffd7d6b8f03056e3e3ebe66b30d6a09_Snapshot.jpg",
+      "md5": "6e863515799e109790d4d3e60146f703",
+      "size": 6873,
+      "uploadedDate": "2019-09-26T05:56:09.539Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture06-1920x1080-1f060147417ca92ddc93b4e34ee8cd08_Snapshot.jpg",
+      "md5": "6d0a4906527d97f65b4d8703a941817c",
+      "size": 5636,
+      "uploadedDate": "2019-09-26T05:56:10.054Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture12-1920x1080-0088edb17a8e7771fd538dd43fabdd11_Snapshot.jpg",
+      "md5": "b12e4aa635f4d805986336132c7b2066",
+      "size": 7019,
+      "uploadedDate": "2019-09-26T05:56:10.500Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture01-1920x1080-361937dc70e15511a9fe5846b55f8f88_Snapshot.jpg",
+      "md5": "b31ed1a11237245b879610249d0fab8c",
+      "size": 6005,
+      "uploadedDate": "2019-09-26T05:56:11.012Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture02-1920x1080-2f687c706e4afa62ab5b6a0814eb0f7c_Snapshot.jpg",
+      "md5": "1fd19a39f6a5417b8b0e9a6ab6ff6a82",
+      "size": 6107,
+      "uploadedDate": "2019-09-26T05:56:11.520Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture03-1920x1080-9f659eccf2bc401933f1bc57fd327c5a_Snapshot.jpg",
+      "md5": "194cd606c59d195470c23fb3fdd17d51",
+      "size": 6239,
+      "uploadedDate": "2019-09-26T05:56:11.992Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Texture05-1920x1080-d7a1262ef57a4204b3cbd09ee9e0de4d_Snapshot.jpg",
+      "md5": "e6f20efffd5442947ac6285ffe79eba9",
+      "size": 6256,
+      "uploadedDate": "2019-09-26T05:56:12.596Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2976e905376a4ebf9a4e2f82c44cc770"
+    }
+  ],
+  "catalogNs": null
+}

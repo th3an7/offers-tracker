@@ -1,0 +1,338 @@
+{
+  "id": "65b804a632cb458eb3c406beb1ab12c9",
+  "namespace": "ue",
+  "title": "Character Selection Menu",
+  "description": "Easy-to-use character select system with saving and loading the character across multiple levels.",
+  "longDescription": "<p>This is a quick and straightforward also easy-to-use character selection system. You can add this to any of your projects easily, there are only four examples that I put in this, however, you are welcome to add more or reduce.</p><p>This is built into a blank level so that you can control the levels as you desire. This is built with Data Table and Structure, you can add more variables or features anytime simply. After you select the character that character will save and load to your desired levels. This is controlled by the Options string in the function GetDefaultPwanClassForController in the GameMode of your choice.</p><p>The steps to use this system are-</p><p>1). Import your Characters.</p><p>2). In the Structure, fill in the details of your characters.</p><p>2.5). Add or Reduce variables in Data Table. (Optional)</p><p>3). In the CharacterSelection widget, add or reduce slots.</p><p>4). In GetDefaultPwanClassForController function in GameMode of Level, you wanna take your selected character, and add or reduce the case of the Switch On String node, note that you only need to write the first three letters of your character name in the Structure.</p><p>5). In the CharacterSlot widget, in Even Graph, change the level to your desired level.</p><p>Easy right?..</p><p>For more details check the <a href=\"https://docs.google.com/document/d/1tFkceq1ttW5mjiADIcW3x6hrkwDbs1u7omILCdfUoNo/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation </a>here.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "character-selection-menu",
+  "creationDate": "2022-11-23T03:07:51.888Z",
+  "lastModifiedDate": "2024-10-09T11:09:05.328Z",
+  "effectiveDate": "2022-11-23T03:07:51.837Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8eft5c9wnl3ksnhn3c2ud8y8zbwb8t",
+    "name": "Honest Hollow"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Simple and easy blueprints.</li><li>Save and load system across multiple Levels.</li><li>Character selection screen.</li><li>Add any Character Mesh easily.</li><li>Integrates into any projects.</li><li>Easily changeable map and the whole widget look.</li><li>Add as many characters as you like.</li></ul><p>Number of Blueprints: 8</p><p>Input: Keyboard and Mouse</p><p>Network Replicated: (No)</p><p>Supported Development Platforms:</p><ul><li>Windows: (Yes)</li><li>Mac: (Yes)</li><li>Linux(Yes)</li></ul><p>Documentation: <a href=\"https://docs.google.com/document/d/1tFkceq1ttW5mjiADIcW3x6hrkwDbs1u7omILCdfUoNo/edit?usp&#61;sharing\" rel=\"nofollow\">Yes</a></p><p>Important/Additional Notes: If you want to know how to add more characters, check out the <a href=\"https://youtu.be/T7FJXb2eAHk\" rel=\"nofollow\">YouTube</a> video. Thanks.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1282",
+      "name": "DYSTOPIAN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.742Z",
+      "updated": "2019-06-20T12:00:38.742Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1236",
+      "name": "SKATING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:15.676Z",
+      "updated": "2019-06-20T12:00:15.676Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "46fdc88e-3fef-426b-9bb0-9c5529df66a7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/33-1920x1080-9b125626fd2f964f7873079e03381c1d.png",
+      "md5": "9b125626fd2f964f7873079e03381c1d",
+      "size": 3141308,
+      "uploadedDate": "2022-11-20T20:05:18.053Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/22-1920x1080-42da79ec440ea140468cec071470104c.png",
+      "md5": "42da79ec440ea140468cec071470104c",
+      "size": 2449180,
+      "uploadedDate": "2022-11-20T20:05:17.307Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-f448cf3640a613de5a72cead7a8edbab.png",
+      "md5": "f448cf3640a613de5a72cead7a8edbab",
+      "size": 2381488,
+      "uploadedDate": "2022-11-20T20:05:16.538Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/44-1920x1080-9d1dd4ddf4ea00b5136fe81667aa3b74.png",
+      "md5": "9d1dd4ddf4ea00b5136fe81667aa3b74",
+      "size": 972034,
+      "uploadedDate": "2022-11-20T20:05:18.787Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/55-1920x1080-7a35908ad461fa4d9f6f9ec97c8c504e.png",
+      "md5": "7a35908ad461fa4d9f6f9ec97c8c504e",
+      "size": 1231136,
+      "uploadedDate": "2022-11-20T20:05:19.312Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CharacterSelectionMenu_thumb-284x284-cebd829c3f8fae8195d981fda3ead341.png",
+      "md5": "cebd829c3f8fae8195d981fda3ead341",
+      "size": 159123,
+      "uploadedDate": "2022-11-25T19:59:48.753Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CharacterSelectionMenu_featured-894x488-98a3524a6ffd7ccc804df660a06424ac.png",
+      "md5": "98a3524a6ffd7ccc804df660a06424ac",
+      "size": 704687,
+      "uploadedDate": "2022-11-20T20:05:19.895Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-f448cf3640a613de5a72cead7a8edbab_Snapshot.png",
+      "md5": "bae95a6df2301e0590af4f99806036ad",
+      "size": 5435,
+      "uploadedDate": "2022-11-20T20:05:17.023Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/22-1920x1080-42da79ec440ea140468cec071470104c_Snapshot.png",
+      "md5": "bdca20e2b5403c5560a8cc430b069644",
+      "size": 6053,
+      "uploadedDate": "2022-11-20T20:05:17.772Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/33-1920x1080-9b125626fd2f964f7873079e03381c1d_Snapshot.png",
+      "md5": "9f5efb320a2c58ece0d59cc7760a9888",
+      "size": 7176,
+      "uploadedDate": "2022-11-20T20:05:18.586Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/44-1920x1080-9d1dd4ddf4ea00b5136fe81667aa3b74_Snapshot.png",
+      "md5": "105152a9ede796db0794e245f4c1177f",
+      "size": 5218,
+      "uploadedDate": "2022-11-20T20:05:19.120Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/55-1920x1080-7a35908ad461fa4d9f6f9ec97c8c504e_Snapshot.png",
+      "md5": "05c59fc782889286163f0de43e9eef8f",
+      "size": 5722,
+      "uploadedDate": "2022-11-20T20:05:19.650Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-ceb29b3b0b784053f8fa407ac59c8079_Snapshot.png",
+      "md5": "6f22040c026b57bf47f0187295217e8d",
+      "size": 4962,
+      "uploadedDate": "2022-11-16T14:56:10.862Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-fdbca3aec62be33c63886571fe10ae0f_Snapshot.png",
+      "md5": "329396a84075bfece3a3ddb3f3673b70",
+      "size": 5343,
+      "uploadedDate": "2022-11-16T14:56:11.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-7b9844104981832854875d9b78537c8a_Snapshot.png",
+      "md5": "f8a3bc7b5465e298938cfa5b0a5d8956",
+      "size": 7036,
+      "uploadedDate": "2022-11-16T14:56:12.276Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-f0e8b16782a43a5c898b8df25329a56d_Snapshot.png",
+      "md5": "83c0fdcc95f8293d114a033504487454",
+      "size": 3707,
+      "uploadedDate": "2022-11-16T14:56:12.842Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "42e3e9b8de8a4adb93db286b2538d1e1"
+    }
+  ],
+  "catalogNs": null
+}

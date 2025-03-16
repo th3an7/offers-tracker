@@ -1,0 +1,194 @@
+{
+  "id": "ce66cfea323842f8ae0a69ff8480a100",
+  "namespace": "ue",
+  "title": "The Typist",
+  "description": "Automatic per character text iterator. Flowing text made easy",
+  "longDescription": "<p>Demo Video : <a href=\"https://youtu.be/zzIMr5qIFqM\" rel=\"nofollow\">youtu.be/zzIMr5qIFqM</a> </p><p>The Typist is a single Blueprint node that provides automatic per-character iteration for creating progressive text entry effects. It&#39;s perfect for visual novel dialogues, CRT-style displays, or multiplayer chat.</p><p>Developers can insert expressions into the text to control pauses and playback speed at any point in the text stream.</p><p>Localization is supported, allowing you to easily display text in multiple languages.</p><p>Can play sounds on each character and new lines. Events for this are exposed on the node so its all up to you.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "the-typist",
+  "creationDate": "2024-07-16T23:51:48.085Z",
+  "lastModifiedDate": "2024-10-15T15:57:48.486Z",
+  "effectiveDate": "2024-07-16T23:51:48.049Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wvhsz7r6q8phm2qs792sfh6jscxg9y",
+    "name": "Bobs Library"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p>Features:</p><ul><li>Per character text iteration. Ideal for visual novels or CRT style displays.</li><li>Use in-text expressions to control pauses and speed.</li><li>Play sounds for each character typed.</li><li>Play sounds on new line events.</li><li>Localization supported: Easily display text in multiple languages.</li><li>Pauseable, Cancelable and variable speeds</li></ul><p>Code Modules:</p><ul><li> TheTypist : Runtime</li></ul><p><br /></p><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:2</p><p>Network Replicated: N/A - can be used for multiplayer text chat effect</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://docs.google.com/document/d/e/2PACX-1vQjIvQdUIsOX_0okJfLUqmTipAGNUiV5wdC1wuPWhgXAsxarZUZD0QNOqeDQvQBc0tOXotvPFseRexr/pub\" rel=\"nofollow\">https://docs.google.com/document/d/e/2PACX-1vQjIvQdUIsOX_0okJfLUqmTipAGNUiV5wdC1wuPWhgXAsxarZUZD0QNOqeDQvQBc0tOXotvPFseRexr/pub</a></p><p>Demo video environment not included.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a8034110-7bb4-4bac-b961-aa8d50c9cac8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0757-1920x1080-9a7da93e2cf2775710bcbc579aefd1e7.jpeg",
+      "md5": "9a7da93e2cf2775710bcbc579aefd1e7",
+      "size": 597187,
+      "uploadedDate": "2024-07-12T08:24:18.582Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.1342-1920x1080-014bd6f79a7b940e5970539e24603f21.jpeg",
+      "md5": "014bd6f79a7b940e5970539e24603f21",
+      "size": 581865,
+      "uploadedDate": "2024-07-12T08:24:18.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Illustration-1920x1080-253194fccba0af743eac0390e62b2184.jpg",
+      "md5": "253194fccba0af743eac0390e62b2184",
+      "size": 659411,
+      "uploadedDate": "2024-07-12T08:29:29.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TheTypist_thumb-284x284-c9d3cd36a54f7fa03ec5cfb431f7da1f.png",
+      "md5": "c9d3cd36a54f7fa03ec5cfb431f7da1f",
+      "size": 100191,
+      "uploadedDate": "2024-07-12T08:24:18.948Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TheTypist_featured-894x488-f53d281e1d70766c34227829e99ac344.png",
+      "md5": "f53d281e1d70766c34227829e99ac344",
+      "size": 451649,
+      "uploadedDate": "2024-07-12T08:24:19.168Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Illustration-1920x1080-253194fccba0af743eac0390e62b2184_Snapshot.jpg",
+      "md5": "ba575d68b8e08b9f42546e5c4fd519e7",
+      "size": 5420,
+      "uploadedDate": "2024-07-12T08:29:29.443Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.1342-1920x1080-014bd6f79a7b940e5970539e24603f21_Snapshot.jpeg",
+      "md5": "1fea2746ea64366d0ee35192496ed041",
+      "size": 3597,
+      "uploadedDate": "2024-07-12T08:24:18.419Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0757-1920x1080-9a7da93e2cf2775710bcbc579aefd1e7_Snapshot.jpeg",
+      "md5": "bfe61f6998a04c52c5885860fef1bb62",
+      "size": 3645,
+      "uploadedDate": "2024-07-12T08:24:18.835Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0faa07a963ec4a41a3e223bb1866518a"
+    }
+  ],
+  "catalogNs": null
+}

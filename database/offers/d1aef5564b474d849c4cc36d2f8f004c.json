@@ -1,0 +1,146 @@
+{
+  "id": "d1aef5564b474d849c4cc36d2f8f004c",
+  "namespace": "ue",
+  "title": "Randomized Editor Splash",
+  "description": "Plugin to randomize the Editor's splash screen.",
+  "longDescription": "<p>Plugin to randomize the Editor&#39;s splash screen. No more boring single splash every time you restart the editor! Simple to add new images!  Just make a directory called &#39;SplashEditor&#39; in your game&#39;s directory (e.g. &lt;Game&gt;/SplashEditor/).  Drop in your .bmp into your &#39;&lt;Game&gt;/SplashEditor/&#39; </p><p><br /></p><p>VOILA! Starting the Editor now brings a smile to your face!</p><p><br /></p><p>Great for a team to show off Concept Art on every editor restart! Working solo? Put in screenshots of the game you are working on and see it every time you restart your editor!</p><p><br /></p><p>Working on a Pre Visualization project? Put in some shots of the scene you are working on and show it off to the set!</p><p><br /></p><p>No more Boring Editor Splash Screens!</p><p><br /></p><p>I am ready for your requests! Remember that your positive ratings and comments are fuel for the next update!!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "randomized-start-splash-screen",
+  "creationDate": "2021-09-02T03:38:26.432Z",
+  "lastModifiedDate": "2024-10-14T20:45:45.934Z",
+  "effectiveDate": "2021-09-02T03:39:40.105Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5rnbe54ywm2ultge4lqh5t3prbtagw",
+    "name": "MSEW LLC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Randomizes the Editor Splash Screen from the images YOU provide!</li><li>No need to import the image and then fill out a parameter property. Just drop the .bmp the &lt;Game&gt;/SplashEditor/ folder and off you go!</li></ul><p><br /></p><p>Code Modules:</p><ul><li> Editor</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No (No need. This is for the Editor)</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "50fb104d-cf76-4ab2-bda8-df9a2f250329"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SplashShowcase-1920x1080-cfe3d08178396a91c43fe7a5f130df59.png",
+      "md5": "cfe3d08178396a91c43fe7a5f130df59",
+      "size": 326585,
+      "uploadedDate": "2021-09-13T12:16:51.551Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Icon1920x1080-1920x1080-e8bd37056777a061b33e64fbbededc54.png",
+      "md5": "e8bd37056777a061b33e64fbbededc54",
+      "size": 55956,
+      "uploadedDate": "2021-09-13T12:16:51.684Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RandomizedEditorSplash_thumb-284x284-4a2cf756d511f22fee36932519ec5bcf.png",
+      "md5": "4a2cf756d511f22fee36932519ec5bcf",
+      "size": 48175,
+      "uploadedDate": "2021-09-13T12:16:51.779Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RandomizedEditorSplash_featured-894x488-ff2f68c758eb42782f3ce253503c6c8f.png",
+      "md5": "ff2f68c758eb42782f3ce253503c6c8f",
+      "size": 78494,
+      "uploadedDate": "2021-09-13T12:16:51.820Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SplashShowcase-1920x1080-cfe3d08178396a91c43fe7a5f130df59_Snapshot.png",
+      "md5": "b807ddf23961268464b870699fccf1f1",
+      "size": 8564,
+      "uploadedDate": "2021-09-13T12:16:51.639Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Icon1920x1080-1920x1080-e8bd37056777a061b33e64fbbededc54_Snapshot.png",
+      "md5": "9737ed9401d26a4d7ec7cc397517cb44",
+      "size": 2239,
+      "uploadedDate": "2021-09-13T12:16:51.742Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Icon1920x1080-1920x1080-25458ee86f905b62da93f9854071d8af_Snapshot.png",
+      "md5": "616ac0a879cb87fcf5ddd07b92b1cc2b",
+      "size": 2404,
+      "uploadedDate": "2021-08-29T04:59:02.359Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Icon1920x1080-1920x1080-6fef6774a20ccbffaafed010866001b5_Snapshot.png",
+      "md5": "02ca2a23edc583ca5856136172a51027",
+      "size": 1139,
+      "uploadedDate": "2021-08-23T02:56:33.421Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "38a82d411e8e47db804af6db33b14391"
+    }
+  ],
+  "catalogNs": null
+}

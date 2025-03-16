@@ -1,0 +1,308 @@
+{
+  "id": "6bf7b05535604acaa23c6bd36be27c56",
+  "namespace": "ue",
+  "title": "Tutorial Component",
+  "description": "The tutorial component enables you to create quick & easy tutorials for any type of game. All tutorials can be created inside a Data Table and everything is very easy to expand thanks to modularity.",
+  "longDescription": "<blockquote>Tutorial Component Teaser: https://youtu.be/xye1a36ircU</blockquote><blockquote>Tutorial Component Overview: https://youtu.be/_4Y_xZ5Z4i8</blockquote><blockquote>Playable Demo: https://drive.google.com/file/d/1Zccgm01sOHw8LIGgVwGe_7NTvchUS-f3/view?usp&#61;sharing</blockquote><blockquote>Changelog: https://docs.google.com/document/d/16iFCOmamfPTl1guMciox8ve9hJsL6ZJgP3wBWjYSBuU/edit?usp&#61;sharing</blockquote><p><br /></p><p>Tutorials are often left behind in game design due to the lack of time and low priority. But an easy start for a player is essential! Therefore the tutorial component gives you the ability to quickly create any type of tutorial for any type of game.</p><p>Everything can be set up in data tables. It is very easy to expand and customize. You can check out the showcase video and the playable demo to get familiar with the general functionality.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tutorial-component",
+  "creationDate": "2022-01-18T15:12:57.750Z",
+  "lastModifiedDate": "2024-10-10T23:12:37.493Z",
+  "effectiveDate": "2022-01-18T15:16:40.766Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gvylju24ag7vz5kl8u8xgem7fnavgh",
+    "name": "Moritz Naser"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Modular: Only need to add the component to the player controller</li><li> Gamepad &amp; Keyboard input support</li><li> DataTable driven: All tutorial information are located in a DataTable</li><li> Examples: A complete example map showcasing the functionality of the asset</li><li> Well documented: All code is commented and struct variables have helpful tooltips</li></ul><p>Number of Blueprints: 8</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Not tested</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1xbkbA82YPtw-_at71Na50PhpS-fuGqYLuS_ha7dBcpc/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1xbkbA82YPtw-_at71Na50PhpS-fuGqYLuS_ha7dBcpc/edit?usp&#61;sharing</a></p><p>Discord Server: https://discord.gg/9QmU8rjnCT</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f7655e6c-2ff2-4eb7-94b8-1ebc8a067fc5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TutorialThumbnailBig-1920x1080-7dcd159acb44e365982ae032871de0de.png",
+      "md5": "7dcd159acb44e365982ae032871de0de",
+      "size": 1648113,
+      "uploadedDate": "2022-01-17T17:30:23.747Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TutorialExamples-1920x1080-cd7206cd280cb4895013df746011482e.png",
+      "md5": "cd7206cd280cb4895013df746011482e",
+      "size": 1011266,
+      "uploadedDate": "2022-01-17T17:30:24.270Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TutorialDocumented-1920x1080-4964377c44528c3fc1c999936fbc0a02.png",
+      "md5": "4964377c44528c3fc1c999936fbc0a02",
+      "size": 536709,
+      "uploadedDate": "2022-01-17T17:30:24.768Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TutorialDataDriven-1920x1080-1850fe0744462eb51a9e0d78fd25750c.png",
+      "md5": "1850fe0744462eb51a9e0d78fd25750c",
+      "size": 223408,
+      "uploadedDate": "2022-01-17T17:30:25.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TutorialComponent_thumb-284x284-fb1f272ad5fddf0a3c0a82da34b592a2.png",
+      "md5": "fb1f272ad5fddf0a3c0a82da34b592a2",
+      "size": 14643,
+      "uploadedDate": "2022-01-17T17:30:25.581Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TutorialComponent_featured-894x488-13d2c8d835f0bd97c66879eea6076b55.png",
+      "md5": "13d2c8d835f0bd97c66879eea6076b55",
+      "size": 387631,
+      "uploadedDate": "2022-01-17T17:30:25.689Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TutorialThumbnailBig-1920x1080-7dcd159acb44e365982ae032871de0de_Snapshot.png",
+      "md5": "93c8631be2f855618d2c242a4e394d85",
+      "size": 4534,
+      "uploadedDate": "2022-01-17T17:30:24.072Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TutorialExamples-1920x1080-cd7206cd280cb4895013df746011482e_Snapshot.png",
+      "md5": "56b683a01fa13ceef4c8f21b16dc19ea",
+      "size": 6714,
+      "uploadedDate": "2022-01-17T17:30:24.633Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TutorialDocumented-1920x1080-4964377c44528c3fc1c999936fbc0a02_Snapshot.png",
+      "md5": "f1a10e0c28a8b718b3487a6fdbd041f5",
+      "size": 5179,
+      "uploadedDate": "2022-01-17T17:30:25.054Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TutorialDataDriven-1920x1080-1850fe0744462eb51a9e0d78fd25750c_Snapshot.png",
+      "md5": "4ed9c8728bc99ae65713a7fbea0b9c7b",
+      "size": 3336,
+      "uploadedDate": "2022-01-17T17:30:25.520Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6a2f0cec85ad4ccbafbe73fabf03b5be"
+    }
+  ],
+  "catalogNs": null
+}

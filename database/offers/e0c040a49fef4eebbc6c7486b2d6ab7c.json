@@ -1,0 +1,176 @@
+{
+  "id": "e0c040a49fef4eebbc6c7486b2d6ab7c",
+  "namespace": "ue",
+  "title": "FBX Skeletal Importer",
+  "description": "Import Skeletal Mesh assets in runtime",
+  "longDescription": "<p>This plugin allows to import skeletal mesh assets in runtime from Autodesk FBX files. You can import new 3d character, or import meshes for skeleton already existing in game. FBX materials are imported as dynamic material instances for specified base material.</p><p><br /></p><p>The plugin <u>doesn&#39;t support LODs</u>.</p><p><br /></p><p>Video: <a href=\"https://www.youtube.com/watch?v&#61;lR0ImyYeWuk\" rel=\"nofollow\">Youtube</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fbx-skeletal-importer",
+  "creationDate": "2021-01-25T16:41:29.268Z",
+  "lastModifiedDate": "2024-10-15T16:45:37.055Z",
+  "effectiveDate": "2021-01-25T16:41:26.311Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8ba954a7a34115b5479ff854fbfe78",
+    "name": "Yuri N Kalinin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>import of skeletal mesh assets from FBX on a new or existing skeleton</li><li><u>new:</u> morph targets (blendshapes) are supported</li><li>asynchronous import</li><li>import of materials and textures from FBX files (supported formats of textures: bmp, png, jpeg)</li><li>export of animation sequence assets to FBX files</li><li>import of separate materials/textures from png and jpeg files.</li></ul><p>Code Modules:</p><ul><li>SkeletalImporter (Runtime) </li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1 exposed to blueprints</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows x64</p><p>Supported Target Build Platforms: Windows x64</p><p>Documentation: [<a href=\"https://drive.google.com/file/d/18II1nxVtjZcPpoPJcA-ztyyiQiamfCZI/view?usp&#61;sharing\" rel=\"nofollow\">G.Drive</a>]</p><p>Example Project: [<a href=\"https://drive.google.com/file/d/1bRRqkfEtQAGZQyCfD3tGY0f47yIMRlpV/view?usp&#61;sharing\" rel=\"nofollow\">5.4</a>]</p><p>Executable Demo: [<a href=\"https://drive.google.com/file/d/1jbugDE40ccvpw40zpgC6HawkDUxqdRxj/view?usp&#61;sharing\" rel=\"nofollow\">ZIP</a>]</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "99e2e8ee-af7e-4049-ad14-e9192643008a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr00-1920x1080-318057ef4f7401067196aeb5c51f3f49.png",
+      "md5": "318057ef4f7401067196aeb5c51f3f49",
+      "size": 1715121,
+      "uploadedDate": "2020-12-05T13:01:17.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr02-1920x1080-4d8cb67dd3b247a8403286eba9203864.png",
+      "md5": "4d8cb67dd3b247a8403286eba9203864",
+      "size": 366814,
+      "uploadedDate": "2020-12-05T17:40:19.628Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr03-1920x1080-9de6dd9d79e673d3dcc29b499718043d.png",
+      "md5": "9de6dd9d79e673d3dcc29b499718043d",
+      "size": 1634793,
+      "uploadedDate": "2020-12-05T17:40:20.065Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr04-1920x1080-3669ee32a430ea1fded26e023ce1b3c0.png",
+      "md5": "3669ee32a430ea1fded26e023ce1b3c0",
+      "size": 2041862,
+      "uploadedDate": "2020-12-05T17:40:20.556Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FBXSkeletalImporter_thumb-284x284-801ca10e3868283d0cfca97155608a6c.png",
+      "md5": "801ca10e3868283d0cfca97155608a6c",
+      "size": 130840,
+      "uploadedDate": "2020-12-05T13:01:17.472Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FBXSkeletalImporter_featured-894x488-2d7b473c03b68153e2e6e1d2b512ecc6.png",
+      "md5": "2d7b473c03b68153e2e6e1d2b512ecc6",
+      "size": 569260,
+      "uploadedDate": "2020-12-05T13:01:17.595Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr02-1920x1080-4d8cb67dd3b247a8403286eba9203864_Snapshot.png",
+      "md5": "c32dee23b685e6c25629b46bc29b3f07",
+      "size": 5514,
+      "uploadedDate": "2020-12-05T17:40:19.906Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr03-1920x1080-9de6dd9d79e673d3dcc29b499718043d_Snapshot.png",
+      "md5": "67b2b7ea946174eca14ce6f50d076fc8",
+      "size": 5377,
+      "uploadedDate": "2020-12-05T17:40:20.342Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr04-1920x1080-3669ee32a430ea1fded26e023ce1b3c0_Snapshot.png",
+      "md5": "913e7c462092c4f00a0952360857cdf6",
+      "size": 4670,
+      "uploadedDate": "2020-12-05T17:40:20.843Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr00-1920x1080-318057ef4f7401067196aeb5c51f3f49_Snapshot.png",
+      "md5": "7eefa87fc2c854a5fb5b1335016dacc0",
+      "size": 4191,
+      "uploadedDate": "2020-12-05T13:01:17.426Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f64602c00fe544a18cd7f7b2588ee4ab"
+    }
+  ],
+  "catalogNs": null
+}

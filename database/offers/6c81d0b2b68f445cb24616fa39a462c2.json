@@ -1,0 +1,215 @@
+{
+  "id": "6c81d0b2b68f445cb24616fa39a462c2",
+  "namespace": "ue",
+  "title": "Rama Save System",
+  "description": "With the Rama Save System Plugin you can use the power of my C++ code in BP to easily save and load the state of an entire dynamically changing world! Reload actors, multiplayer pawn positions, runtime-created world geometry, and anything else you want!",
+  "longDescription": "<h1>⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡</h1><h1>⚡⚡⚡ <strong>The Rama Save System Plugin </strong>⚡⚡⚡</h1><h1>⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡</h1><p><br /></p><p><br /></p><p><br /></p><h2>Rama Save Examples Project for UE5.3! (Owning the plugin is required)</h2><h2><br /></h2><h2>Explanation: <a href=\"https://forums.unrealengine.com/t/plugin-discussion-rama-save-system-plugin-thread/758345/26\" rel=\"nofollow\">https://forums.unrealengine.com/t/plugin-discussion-rama-save-system-plugin-thread/758345/26</a></h2><h2><br /></h2><h2>Direct Download Link: </h2><h2><a href=\"https://www.mediafire.com/file/lc5vgq81u1i8esn/RamaSaveProj.zip/file\" rel=\"nofollow\">https://www.mediafire.com/file/lc5vgq81u1i8esn/RamaSaveProj.zip/file</a></h2><h2><br /></h2><h2>Discussion Thread: <a href=\"http://forums.unrealengine.com/t/plugin-discussion-rama-save-system-plugin-thread/758345\" rel=\"nofollow\">http://forums.unrealengine.com/t/plugin-discussion-rama-save-system-plugin-thread/758345</a></h2><p><br /></p><p>This plugin is a comprehensive binary serialization save system for UE4! By adding the Rama Save Component to any actor, you enable save/load functionality for that actor, including world transform and any custom properties that you wish to specify.</p><p><br /></p><p>This save system can also save global data and player progression, but that is the far simpler use case compared to its true power, which is serializing the state of an entire world of actors at lightning speeds! A Save Tags system lets you load only the actors you want from a save file!</p><p><br /></p><p>Use Cases For This Plugin:</p><p>• Saving all the data and actors for a strategy or action game, so the entire world state can be instantly reloaded from a tiny file on your hard disk.</p><p>• Saving all the data for a player’s personal profile, recording their progress through a game.</p><p>• Saving an entire world full of actors quickly and easily, being able to specify exactly which actor variables get saved.</p><p>• Saving data that is customized per instance of a character or creature in the world, such as health, current armor value, ammo count, etc.</p><p>• Saving a composite level that uses level streaming and saving/loading the state of individual streaming levels at any time.</p><p>• Saving data that is global to the entire game, as well as the entire state of the game world that all players share.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rama-save-system",
+  "creationDate": "2016-06-23T16:47:14.638Z",
+  "lastModifiedDate": "2024-10-15T01:33:08.516Z",
+  "effectiveDate": "2016-07-14T00:00:00.000Z",
+  "viewableDate": "2016-07-14T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-c86000a278413184b89c0633cf7a2f",
+    "name": "Rama"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>The Rama Save System is a ton of C&#43;&#43; code exposed to Blueprints via a Rama Save System Blueprint Library and a Rama Save Component. You add the Rama Save Component to any actors you wish to save/load, and then you call a global save/load command via the Blueprint Library.</p><p><br /></p><p>I fully support UE4&#39;s Level Streaming system using native C&#43;&#43; code, no custom engine build required! The Rama Save System uses the UFS, the platform-agnostic Unreal File System so it will work on any platform!</p><p><br /></p><p>The exception is HTML5. Due to the rules of an app that is downloaded from a web browser to a temp directory, I cannot currently support this plugin for HTML5. Mac, Mobile platforms, VR, AR, XBox One,and PS4 should all work for anyone who can recompile for these platforms because of my use of the UFS.</p><p><br /></p><p>All Documentation Videos:</p><p><a href=\"https://www.youtube.com/playlist?list&#61;PLanD4oBjFkL_AvbsGNM1J5l3i-mMEbSq0\" rel=\"nofollow\">https://www.youtube.com/playlist?list&#61;PLanD4oBjFkL_AvbsGNM1J5l3i-mMEbSq0</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8abab127-0d1f-4c16-83b3-eda7c01b3aae"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/BP1-1920x1080-7718831f084819f9a3cb1a753532a58d.jpg",
+      "md5": "7718831f084819f9a3cb1a753532a58d",
+      "size": 635700,
+      "uploadedDate": "2016-06-30T18:45:30.903Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/BP2-1920x1080-69aa8f86884f87f18f8d351f345e5086.jpg",
+      "md5": "69aa8f86884f87f18f8d351f345e5086",
+      "size": 409007,
+      "uploadedDate": "2016-06-30T18:45:29.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/BP3-1920x1080-8a4e14c221aaca329081ca9a2ca713aa.jpg",
+      "md5": "8a4e14c221aaca329081ca9a2ca713aa",
+      "size": 425238,
+      "uploadedDate": "2016-06-30T18:45:27.388Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/BP4-1920x1080-bac27516484a7b7fe3d96d491e5dc5b3.jpg",
+      "md5": "bac27516484a7b7fe3d96d491e5dc5b3",
+      "size": 651942,
+      "uploadedDate": "2016-06-30T18:45:24.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/BP5-1920x1080-e69dcedcb3004d60776a8ccaa618105f.jpg",
+      "md5": "e69dcedcb3004d60776a8ccaa618105f",
+      "size": 580483,
+      "uploadedDate": "2016-06-30T18:45:23.321Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveSystem_RelativePaths-1920x1080-b383125a58731129c879b1c46c34a9ae.png",
+      "md5": "b383125a58731129c879b1c46c34a9ae",
+      "size": 546820,
+      "uploadedDate": "2016-07-15T13:09:27.300Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveSystemFileIO-1920x1080-59dab40480afced97cc9a90683c8100b.png",
+      "md5": "59dab40480afced97cc9a90683c8100b",
+      "size": 1208014,
+      "uploadedDate": "2016-07-19T15:13:58.857Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveSystem_GUID-1366x635-eac43c2fb433e0e866e68327d6d26929.png",
+      "md5": "eac43c2fb433e0e866e68327d6d26929",
+      "size": 385882,
+      "uploadedDate": "2016-10-26T15:11:11.857Z",
+      "width": 1366,
+      "height": 635
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveSystem_SaveTags-1356x594-cf792f6ef84cba7ebb34d8350012a4e0.jpg",
+      "md5": "cf792f6ef84cba7ebb34d8350012a4e0",
+      "size": 269094,
+      "uploadedDate": "2016-10-26T15:11:09.983Z",
+      "width": 1356,
+      "height": 594
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/LevelStreaming1-1914x900-bf654aa70766c3a7a911cd4cb78ba12d.png",
+      "md5": "bf654aa70766c3a7a911cd4cb78ba12d",
+      "size": 400414,
+      "uploadedDate": "2016-12-07T19:53:41.726Z",
+      "width": 1914,
+      "height": 900
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/LevelStreaming2-1907x898-f1606b97855f996ade62f08d05faddd8.png",
+      "md5": "f1606b97855f996ade62f08d05faddd8",
+      "size": 361116,
+      "uploadedDate": "2016-12-07T19:53:40.321Z",
+      "width": 1907,
+      "height": 898
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/UserDocumentsFolderNode-1920x1080-f15bbd6d245f46009b7b655be383d880.png",
+      "md5": "f15bbd6d245f46009b7b655be383d880",
+      "size": 458019,
+      "uploadedDate": "2017-01-16T14:07:25.087Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveSystem_StaticData_FileHeader-1920x1080-e9aa69a87334916f170eb2d4c0262644.png",
+      "md5": "e9aa69a87334916f170eb2d4c0262644",
+      "size": 680379,
+      "uploadedDate": "2017-03-27T14:50:38.996Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SaveStaticOnly-1920x1080-f320d21f2e7f5ccfb63c0044519a1f21.jpg",
+      "md5": "f320d21f2e7f5ccfb63c0044519a1f21",
+      "size": 328746,
+      "uploadedDate": "2017-07-25T17:23:07.963Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveTitle_Thumb-284x284-e7a79fd4bcea13a9b8fed74a1f9861e9.png",
+      "md5": "e7a79fd4bcea13a9b8fed74a1f9861e9",
+      "size": 149971,
+      "uploadedDate": "2016-06-30T18:45:41.595Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveTitle_Featured-476x246-30f59ab2871f689b678513bd654c0c16.png",
+      "md5": "30f59ab2871f689b678513bd654c0c16",
+      "size": 247947,
+      "uploadedDate": "2016-06-30T18:45:35.436Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/RamaSaveTitle_FeaturedNew-894x488-8440fa9022dea76820df3bfe762f183f.png",
+      "md5": "8440fa9022dea76820df3bfe762f183f",
+      "size": 821748,
+      "uploadedDate": "2016-06-30T18:45:33.442Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "001bd2b75c324beba0e3344f2f0b6f22"
+    }
+  ],
+  "catalogNs": null
+}

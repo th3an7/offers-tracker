@@ -1,0 +1,158 @@
+{
+  "id": "1d67b511dc0049d792311006379e90d5",
+  "namespace": "ue",
+  "title": "Passive Ragdoll",
+  "description": "An Actor Component for a Passive Ragdoll System",
+  "longDescription": "<p>A modular, compact, and highly modifiable solution for passive ragdoll application that can be used in any project, giving characters a realistic interaction with their environment. Depending on terrain angle or hit speed, character will enter in ragdoll state and will be able to recover only after its ragdoll speed is low again.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;xsWKzn1HQg4\" rel=\"nofollow\">Explanation Video</a></p><p><a href=\"https://www.dropbox.com/sh/1wtq8brskr9hnd5/AABcoDp0YDo9FkCvB60lCpeea?dl&#61;0\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p>Note: Get Up Animations are not included.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "passive-ragdoll",
+  "creationDate": "2020-07-01T13:29:20.173Z",
+  "lastModifiedDate": "2024-10-15T10:16:26.482Z",
+  "effectiveDate": "2020-07-01T13:29:18.426Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gblcrqend9386uucezs35zk78vu722",
+    "name": "Berkay Tuna"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Plug And Play</li><li>Fully replicated for multiplayer</li><li>Written completely in C&#43;&#43; for better performance</li><li>Calculation parameters can be modified by user</li><li>A single Actor Component for neat application</li></ul><p><br /></p><p><strong>Code Modules: </strong></p><ul><li>Runtime: PassiveRagdoll</li><li>Editor: PassiveRagdollEditor</li></ul><p><strong>Number of C&#43;&#43; Classes:</strong> 3</p><p><strong>Network Replicated:</strong> Yes</p><p><strong>Supported Development Platforms:</strong> Win64, Win32</p><p><strong>Supported Target Build Platforms:</strong> Win64, Win32</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2023-08-23T02:59:53.929Z",
+      "status": "ACTIVE",
+      "referenceCount": 95,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e289a0d8-034e-44b8-8b6f-ea9cbff91247"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PassiveRagdoll 1-1920x1080-d8f2dd9c690f936df6763c837ff6b564.png",
+      "md5": "d8f2dd9c690f936df6763c837ff6b564",
+      "size": 1308434,
+      "uploadedDate": "2020-06-27T19:10:06.667Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PassiveRagdollEditor1080-1920x1080-6225b8c53e6ca1778a4361439e8c3af2.png",
+      "md5": "6225b8c53e6ca1778a4361439e8c3af2",
+      "size": 317229,
+      "uploadedDate": "2020-06-27T19:10:07.054Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PassiveRagdollEditor21080-1920x1080-04d04373c274ceba379b5909b004cf8c.png",
+      "md5": "04d04373c274ceba379b5909b004cf8c",
+      "size": 172152,
+      "uploadedDate": "2020-06-27T19:10:07.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PassiveRagdoll_thumb-284x284-d4b1ab5f44f6a33ed12421f78917ee31.png",
+      "md5": "d4b1ab5f44f6a33ed12421f78917ee31",
+      "size": 93862,
+      "uploadedDate": "2020-06-27T19:10:07.726Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PassiveRagdoll_featured-894x488-6ed634be7fe12b9234d9ad4503ba00a9.png",
+      "md5": "6ed634be7fe12b9234d9ad4503ba00a9",
+      "size": 416431,
+      "uploadedDate": "2020-06-27T19:10:07.822Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PassiveRagdoll 1-1920x1080-d8f2dd9c690f936df6763c837ff6b564_Snapshot.png",
+      "md5": "4b31739fab16d6aa1fa0ba6914bd4221",
+      "size": 2464,
+      "uploadedDate": "2020-06-27T19:10:06.961Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PassiveRagdollEditor1080-1920x1080-6225b8c53e6ca1778a4361439e8c3af2_Snapshot.png",
+      "md5": "87d8862802a6a008067e39f85cc96502",
+      "size": 4426,
+      "uploadedDate": "2020-06-27T19:10:07.304Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PassiveRagdollEditor21080-1920x1080-04d04373c274ceba379b5909b004cf8c_Snapshot.png",
+      "md5": "a4fb4e9704c4629627284a5cade7ab1c",
+      "size": 3366,
+      "uploadedDate": "2020-06-27T19:10:07.689Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "616ad713581446129c1964eb7815c280"
+    }
+  ],
+  "catalogNs": null
+}

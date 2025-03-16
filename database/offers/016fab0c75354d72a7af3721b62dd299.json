@@ -1,0 +1,383 @@
+{
+  "id": "016fab0c75354d72a7af3721b62dd299",
+  "namespace": "ue",
+  "title": "Leaderboards Integration",
+  "description": "Save your valuable time when implementing SteamAPI Leaderboards (... and more) for your Steam Game when you use the Leaderboard Integration plugin for blueprints!",
+  "longDescription": "<p>A SteamAPI leaderboard integration that will allow you to implement a fully working simple leader board only using blueprints. This plugin allows you to find, download and, upload your data to your steam leaderboard.</p><p><br /></p><p><strong><u>This plugin works perfectly with the other plugins created by me:</u></strong></p><ul><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/65665005975f411fb2c3615ad3f807b2\" rel=\"nofollow\"><strong>Subsystem Configuration Integration</strong></a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/22672d11c955481980eb132dafdcb77a\" rel=\"nofollow\"><strong>Friends Integration</strong></a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/ec733baa0ae049d08cda0c3528ebe8d4\" rel=\"nofollow\"><strong>Stats &amp; Achievements Integration</strong></a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/43357eac78824afbab2da09034d796ba\" rel=\"nofollow\"><strong>Inventory Integration</strong></a></li></ul><p><br /></p><p><strong><u>Features:</u></strong></p><ul><li>Downloading data from leaderboards.</li><li>Uploading data to leaderboards.</li><li>Fetch User avatars from leaderboards</li></ul><p><br /></p><p><strong>More features to come with future updates!</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "leaderboards-integration",
+  "creationDate": "2021-08-11T14:53:29.406Z",
+  "lastModifiedDate": "2024-10-14T08:59:48.675Z",
+  "effectiveDate": "2021-08-11T15:17:18.314Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2e60fd92f549028425ce55aa850eba",
+    "name": "Dworaczek.uk"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong><u>IMPORTANT</u></strong></p><p>This plugin is safe to use on the client unlike the WebAPI. This plugin will not function properly without correctly setup leaderboards within your Steamworks account that is linked with <u>your</u> Steam AppID. You can test this plugin with <u>limited</u> functionality by using the Spacewar AppID (480). <u>Please use the documentation and example content</u> as guidance; however it may require some tweaking within Blueprints to work with your personal Steamworks AppID.</p><p><br /></p><p><strong><u>Requires</u></strong><u>:</u></p><ul><li>OnlineSubsystem</li><li>OnlineSubsystemUtils</li><li>OnlineSubsystemSteam</li></ul><p>These should already come pre-installed with the engine and should be automatically enabled as soon as you enable the plugin within your project.</p><p><br /></p><p><strong><u>Plugin Contents</u></strong></p><p>Number of Levels: 1</p><p>Number of Blueprints: 3</p><p>Number of C&#43;&#43; Classes: 2</p><p>Supported Target Build Platforms: Win64, Win32</p><p><a href=\"https://docs.google.com/document/d/1XYi7m5enGbL8qiCE1-1H8DNS_cwT7caQYag9afj3j6Y/edit?usp&#61;sharing\" rel=\"nofollow\"><u>To see all functions please see the documentation.</u></a></p><p><br /></p><p><strong><u>Disclaimer</u></strong></p><p>This plugin does not have any association with VALVE. It only utilises the SteamAPI they provide for public use.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "057169bb-ff7b-466b-90f8-3a84a6a9017a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/First-Picture-1920x1080-26118f86a22df69964b16d5cd1c9425a.png",
+      "md5": "26118f86a22df69964b16d5cd1c9425a",
+      "size": 144526,
+      "uploadedDate": "2021-08-09T20:13:24.682Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture.PNG-1920x1080-406e7ef5d8ca186a8b2e9b98f7a40b53.jpg",
+      "md5": "406e7ef5d8ca186a8b2e9b98f7a40b53",
+      "size": 718528,
+      "uploadedDate": "2023-02-23T00:59:47.042Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AllNodes.PNG-1920x1080-c3905d2c90029c87a756dd06e00cc5f2.jpg",
+      "md5": "c3905d2c90029c87a756dd06e00cc5f2",
+      "size": 310593,
+      "uploadedDate": "2021-08-07T12:13:55.837Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CurrentPlayerEntryExample.PNG-1920x1080-8f64867d63283136178d364f82991829.jpg",
+      "md5": "8f64867d63283136178d364f82991829",
+      "size": 341029,
+      "uploadedDate": "2021-08-07T12:13:56.180Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DownloadEntriesExample.PNG-1920x1080-d52870a06edf897c3de52da5193927f1.jpg",
+      "md5": "d52870a06edf897c3de52da5193927f1",
+      "size": 462998,
+      "uploadedDate": "2021-08-07T12:13:56.546Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AddPointsExample.PNG-1920x1080-8ac6680307279146ce7b4c7eabc665f9.jpg",
+      "md5": "8ac6680307279146ce7b4c7eabc665f9",
+      "size": 295633,
+      "uploadedDate": "2021-08-07T12:13:56.950Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SetPointsExample.PNG-1920x1080-49ac567ebb82a504c286bc389104473a.jpg",
+      "md5": "49ac567ebb82a504c286bc389104473a",
+      "size": 286349,
+      "uploadedDate": "2021-08-07T12:13:57.406Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RemovePointsExample.PNG-1920x1080-902f3502f4089ec029da5ea52dc9da7a.jpg",
+      "md5": "902f3502f4089ec029da5ea52dc9da7a",
+      "size": 306136,
+      "uploadedDate": "2021-08-07T12:13:57.802Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LeaderboardsIntegration_thumb-284x284-7a8dbd31faa30e9ddbf8fc9373874888.png",
+      "md5": "7a8dbd31faa30e9ddbf8fc9373874888",
+      "size": 13899,
+      "uploadedDate": "2021-08-09T20:13:24.928Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LeaderboardsIntegration_featured-894x488-b13ba83f41d6afb9c1c61613409175b9.png",
+      "md5": "b13ba83f41d6afb9c1c61613409175b9",
+      "size": 47666,
+      "uploadedDate": "2021-08-09T20:13:24.968Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture.PNG-1920x1080-406e7ef5d8ca186a8b2e9b98f7a40b53_Snapshot.jpg",
+      "md5": "6857023232bfa2f247228022b3935f64",
+      "size": 4657,
+      "uploadedDate": "2023-02-23T00:59:47.279Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/First-Picture-1920x1080-26118f86a22df69964b16d5cd1c9425a_Snapshot.png",
+      "md5": "b0e651572048870507f770999262e552",
+      "size": 4026,
+      "uploadedDate": "2021-08-09T20:13:24.887Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/First-Picture-1920x1080-1ccd8c909af31ea8b8db1f08861ef9bb_Snapshot.png",
+      "md5": "4df02690111f401e4c24ee227dbacf29",
+      "size": 3958,
+      "uploadedDate": "2021-08-08T14:58:02.660Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/First-Picture-1920x1080-8a6d4613b942ad310ef628c79de37c61_Snapshot.png",
+      "md5": "1e6f77129536d96f9e3dd8d87f8f794e",
+      "size": 2636,
+      "uploadedDate": "2021-08-08T13:45:01.250Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LeaderboardExample.PNG-1920x1080-b6a2942e3171cae83c89a2571806d4ea_Snapshot.jpg",
+      "md5": "092c7ca853711a1cfcf7ef4e10adf033",
+      "size": 4573,
+      "uploadedDate": "2021-08-07T12:13:55.717Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AllNodes.PNG-1920x1080-c3905d2c90029c87a756dd06e00cc5f2_Snapshot.jpg",
+      "md5": "01a706b419abd86c11ef8824c913e41b",
+      "size": 3582,
+      "uploadedDate": "2021-08-07T12:13:56.067Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CurrentPlayerEntryExample.PNG-1920x1080-8f64867d63283136178d364f82991829_Snapshot.jpg",
+      "md5": "072cb33db2d777829079110ad1820298",
+      "size": 3426,
+      "uploadedDate": "2021-08-07T12:13:56.409Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DownloadEntriesExample.PNG-1920x1080-d52870a06edf897c3de52da5193927f1_Snapshot.jpg",
+      "md5": "b6a79691f22bd1ead2cef5c566e530f9",
+      "size": 4935,
+      "uploadedDate": "2021-08-07T12:13:56.813Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AddPointsExample.PNG-1920x1080-8ac6680307279146ce7b4c7eabc665f9_Snapshot.jpg",
+      "md5": "a97fb3dddc756bf944ca6305a61c4191",
+      "size": 3685,
+      "uploadedDate": "2021-08-07T12:13:57.181Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SetPointsExample.PNG-1920x1080-49ac567ebb82a504c286bc389104473a_Snapshot.jpg",
+      "md5": "f8eee05d6085766ddf01d87b93d0c22a",
+      "size": 3604,
+      "uploadedDate": "2021-08-07T12:13:57.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RemovePointsExample.PNG-1920x1080-902f3502f4089ec029da5ea52dc9da7a_Snapshot.jpg",
+      "md5": "cbdd9bb8c42157eb2dc49f1740172b14",
+      "size": 3677,
+      "uploadedDate": "2021-08-07T12:13:58.034Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c10712728e7546489ba9a52858c0f867"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,146 @@
+{
+  "id": "eeeeae0cc7bc494ab5390d0f8357d2ba",
+  "namespace": "ue",
+  "title": "Behavior Tree Plus",
+  "description": "A set of useful BTTasks and BTDecorators to help you in your AI journey.",
+  "longDescription": "<p>An extension to the engine&#39;s lackluster base of built-in tasks and decorators. Contains highly customizable nodes that every ambitious AI-driven project needs - use them with various comparision operators, use float literals or blackboard keys, decide whether targets should pass line trace tests and more!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "behavior-tree-plus",
+  "creationDate": "2023-07-23T13:29:31.043Z",
+  "lastModifiedDate": "2024-10-15T13:19:23.917Z",
+  "effectiveDate": "2023-07-23T13:29:39.740Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vjdlu9djbdm8sk3cszx4aaz744gf5c",
+    "name": "Marcin Galaska"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features 16 highly customizable blueprints:</p><p>7 Decorators:</p><ul><li>Random Chance - pass the test with provided probability. </li><li>Actor Proximity - whether sufficient number of desired actors are detected in area.</li><li>Has Component - does provided actor have selected actor component?</li><li>Line Trace Test - check, if one blackboard key has unobstructed view of another.</li><li>Distance / Path Cost / Path Length Threshold - check, whether key actor fulfills our navigation requirements.</li></ul><p>9 Tasks:</p><ul><li>Clear Key - resets blackboard key to fit the IsSet condition.</li><li>Modify Gameplay Tag - manipulate an actor&#39;s gameplay tags.</li><li>Report Perception Event - create a Noise, Touch or Damage event with given parameters.</li><li>Spawn Cascade Particle - spawn a particle emitter at location or attached to selected target.</li><li>Spawn Niagara Particle - spawn a Niagara system at location or attached to blackboard key.</li><li>Teleport To - instantaneously teleport key to given location, with desired rotation in mind.</li><li>Find Actor By Distance / Path Cost / Path Length - overwrite a blackboard key with actor that satisfies our navigation needs.</li></ul><p>And a comprehensive, 20-page documentation file.</p><p>Code Modules:</p><ul><li> BehaviorTreePlus [Runtime]</li></ul><p>Number of Blueprints: 16</p><p>Number of C&#43;&#43; Classes: 16</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows 64-bit</p><p>Supported Target Build Platforms: Windows 64-bit</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c3237d33-0558-4c3f-b9ab-62816f452697"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery3-1920x1080-da445fc828d077e93896780ea96a4342.png",
+      "md5": "da445fc828d077e93896780ea96a4342",
+      "size": 336025,
+      "uploadedDate": "2023-07-20T14:08:10.701Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery2-1920x1080-412cfbc02d5cf8b8be1fb3af70f7921e.png",
+      "md5": "412cfbc02d5cf8b8be1fb3af70f7921e",
+      "size": 1197237,
+      "uploadedDate": "2023-07-20T14:08:11.170Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery1-1920x1080-5ce5aef0ae88a7b53123305de69f6a91.png",
+      "md5": "5ce5aef0ae88a7b53123305de69f6a91",
+      "size": 1017951,
+      "uploadedDate": "2023-07-20T14:08:11.803Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BehaviorTreePlus_thumb-284x284-a0d708e5cb0cf8223efad4c0acda7d26.png",
+      "md5": "a0d708e5cb0cf8223efad4c0acda7d26",
+      "size": 66758,
+      "uploadedDate": "2023-07-20T14:08:12.292Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BehaviorTreePlus_featured-894x488-79b670a9eaac15c1590cad398315d88c.png",
+      "md5": "79b670a9eaac15c1590cad398315d88c",
+      "size": 384096,
+      "uploadedDate": "2023-07-20T14:08:12.455Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery3-1920x1080-da445fc828d077e93896780ea96a4342_Snapshot.png",
+      "md5": "b32322a09f8c881f782b6a2f0a86729a",
+      "size": 4162,
+      "uploadedDate": "2023-07-20T14:08:11.015Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery2-1920x1080-412cfbc02d5cf8b8be1fb3af70f7921e_Snapshot.png",
+      "md5": "65292eb6b0b4fe50ac4f51a944f4dac9",
+      "size": 6483,
+      "uploadedDate": "2023-07-20T14:08:11.610Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-5ce5aef0ae88a7b53123305de69f6a91_Snapshot.png",
+      "md5": "fc5560cb8335a6d6c157ff8ea752a861",
+      "size": 5203,
+      "uploadedDate": "2023-07-20T14:08:12.161Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0701e5fe6e6847f7b9c92f1e2815253f"
+    }
+  ],
+  "catalogNs": null
+}

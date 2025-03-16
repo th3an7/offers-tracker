@@ -1,0 +1,215 @@
+{
+  "id": "b204a1777cb34ff88bcc32bd9296c412",
+  "namespace": "ue",
+  "title": "Easy Voice Chat",
+  "description": "Easy to implement Voice Chat (VOIP) using Blueprints",
+  "longDescription": "<p>Easy Voice Chat lets you add custom voice communication to your game. Voice data is provided as a byte array which can then be sent over the network using RPCs. This means it is completely independent of the Online Sessions system, and so can work without having to create a session.</p><p><br /></p><p>The Voip Manager component captures audio, and then passes it to blueprints via an event so you can choose how it is sent and played back. The Voip Audio component then plays compressed audio back. Both of these components can be attached to any actor, meaning that you can have audio not just for within a game, you can also have it within lobby&#39;s or when spectating etc. The system is designed to give you as much flexibility as possible.</p><p><br /></p><p>Uses SynthComponent for audio playback, which allows you to easily apply dynamic sound effects such as making it sound like a radio broadcast. This also lets you adjust settings such as attenuation so you can use the plugin for local/positional VOIP, or any other situation you want. Unlike the default implementation in the engine, you can also change the microphone at runtime if you want.</p><p><br /></p><p>Please check the documentation to configure your project to be able to use the plugin, there are a few config changes required to get it working as intended.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easy-voice-chat",
+  "creationDate": "2019-08-15T13:18:05.592Z",
+  "lastModifiedDate": "2024-10-08T12:00:43.304Z",
+  "effectiveDate": "2019-08-15T13:26:26.469Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a9jh7trg3h9hzl4l7zaf9r6vxs2hlt",
+    "name": "313 Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Voip Manager for voice capture</li><li>Voip Audio for voice playback</li><li>Blueprint exposed voice related events (Started talking, stopped talking, Microphone volume etc.)</li><li>Uses VOIP Project Settings for configuration</li><li>Change capture device/microphone at runtime</li></ul><p><strong>Code Modules:</strong></p><ul><li> Runtime: EasyVoiceChat</li></ul><p><br /></p><p><strong>Number of C&#43;&#43; Classes:</strong> 3</p><p><strong>Network Replicated:</strong> No - Handle this yourself in Blueprints</p><p><strong>Supported Development Platforms:</strong> Win64</p><p><strong>Supported Target Build Platforms:</strong> Win64</p><p><strong>Documentation</strong>: <a href=\"https://313-studios.com/wp-content/uploads/2019/08/VoiceChatDocumentation.pdf\" rel=\"nofollow\">Link</a> (Updated 21/06/2024)</p><p><strong>Example Project:</strong> <a href=\"https://drive.google.com/file/d/1WE78BBbkNZ6s5BJtJF2EUtgzzghDaylI/view\" rel=\"nofollow\">Link</a> (4.21-4.24) <a href=\"https://drive.google.com/file/d/1DeiEV8AFOs0St1x00pl4ZuVfRo4Zxlc2/view?usp&#61;sharing\" rel=\"nofollow\">Link</a> (4.25) <a href=\"https://drive.google.com/file/d/1YUUBSLkPl5L4giSmwTcyASn2wF3IcMzU/view?usp&#61;sharing\" rel=\"nofollow\">Link </a> (4.26&#43;) <a href=\"https://drive.google.com/file/d/1Rg5m534nQKczdoawC4Di_lrKJBfFGhYb/view?usp&#61;sharing\" rel=\"nofollow\">Link</a> (5.3&#43;)</p><p><strong>Important/Additional Notes:</strong></p><p>Make sure to enable the voice module for your project (see documentation to know how). Please read other aspects of the documentation such as increasing the bandwidth of your NetDriver.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1149",
+      "name": "LOOT",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:32.736Z",
+      "updated": "2019-06-20T11:59:32.736Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c4c0d9b7-9717-4f0d-8a51-8ad62342e4be"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Blueprints-1920x1080-179190b47337e8a80965dcb3a5fae9c6.jpg",
+      "md5": "179190b47337e8a80965dcb3a5fae9c6",
+      "size": 327004,
+      "uploadedDate": "2019-08-05T10:58:06.512Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dsp-1920x1080-4c6d4e700fcddf42205670de004ccfe4.jpg",
+      "md5": "4c6d4e700fcddf42205670de004ccfe4",
+      "size": 157792,
+      "uploadedDate": "2019-08-05T10:58:07.279Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AttachAnyActor-1920x1080-5acd8063cc23898dacbb9d899bcb2bdc.jpg",
+      "md5": "5acd8063cc23898dacbb9d899bcb2bdc",
+      "size": 171187,
+      "uploadedDate": "2019-08-05T10:58:05.736Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EasyVoiceChat_thumb-284x284-ebdf1d9e2ebd1a9f4e28be77d3f56ed5.png",
+      "md5": "ebdf1d9e2ebd1a9f4e28be77d3f56ed5",
+      "size": 82455,
+      "uploadedDate": "2019-08-02T14:37:51.203Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EasyVoiceChat_featured-894x488-7d339ec5e70119b774b0075e384a060d.png",
+      "md5": "7d339ec5e70119b774b0075e384a060d",
+      "size": 316829,
+      "uploadedDate": "2019-08-05T11:02:35.752Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AttachAnyActor-1920x1080-5acd8063cc23898dacbb9d899bcb2bdc_Snapshot.jpg",
+      "md5": "504bdbad5736e04b7edf2bf137c25bc0",
+      "size": 5622,
+      "uploadedDate": "2019-08-05T10:58:06.262Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Blueprints-1920x1080-179190b47337e8a80965dcb3a5fae9c6_Snapshot.jpg",
+      "md5": "11451df1889072b2ef558b5e3b22679e",
+      "size": 6731,
+      "uploadedDate": "2019-08-05T10:58:07.011Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dsp-1920x1080-4c6d4e700fcddf42205670de004ccfe4_Snapshot.jpg",
+      "md5": "62a39ce4dcab179de180dcdc1d107e14",
+      "size": 4959,
+      "uploadedDate": "2019-08-05T10:58:07.752Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BlueprintExposedEvents-1920x1080-85b483476bbafebaf7b3f60b31b2bbe8_Snapshot.PNG",
+      "md5": "cc24b2e425d8b876cb7e6daf89a1ffb2",
+      "size": 6272,
+      "uploadedDate": "2019-08-02T14:37:51.119Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "22fb5044cba34eee9d489bd9233efb26"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,134 @@
+{
+  "id": "a958a27181864727b9d51a98a6b31872",
+  "namespace": "ue",
+  "title": "LevelController (Transform Levels At Runtime In Realtime)",
+  "description": "This UE4 C++ plugin lets you could transform UE4 Levels(Maps) at Runtime in Realtime.",
+  "longDescription": "<p>Preview&#xff1a;<a href=\"https://youtu.be/hLIs0Bou7mU\" rel=\"nofollow\">Video Demo of &#34;LevelController (Transform Levels At Runtime In Realtime)&#34; UE4 Plugin</a></p><p><br /></p><p>This plugin makes it possible for you to transform UE4 Levels (Maps) at Runtime in Realtime.</p><p>What you need to do is to call the blueprint functions of our plugin.</p><p><br /></p><p><strong>NOTE:</strong> This plugin is the <strong>free version</strong>(Called &#34;LevelController1&#34;)</p><p>The <strong>pro version</strong> is &#34;LevelController2&#34;: <a href=\"https://www.unrealengine.com/marketplace/en-US/product/levelcontroller2-transform-levels-at-runtime-in-realtime\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/levelcontroller2-transform-levels-at-runtime-in-realtime</a></p><ol><li>This &#34;LevelController2&#34; plugin has more features than the &#34;LevelController1&#34; free version: such as transform the levels using a custom origin point(Can be changed every tick at runtime).</li><li>And the <strong>performance</strong> of this &#34;LevelController2&#34; plugin is <strong>165%</strong> of the &#34;LevelController1&#34; free version.</li><li>&#34;LevelController2&#34; plugin can Tick Actor or Tick LevelScriptActor(Level Blueprint) in Editor or at Runtime by inheriting from &#34;AExActor&#34; or using the &#34;AExLevelScriptActor&#34; class as custom &#34;LevelScriptActor&#34; Class.</li></ol><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "levelcontroller-transform-levels-at-runtime-in-realtime",
+  "creationDate": "2018-01-25T01:47:17.789Z",
+  "lastModifiedDate": "2024-10-04T01:33:03.505Z",
+  "effectiveDate": "2018-01-25T01:47:17.657Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dddcb75639409c9160f37251d3e43e",
+    "name": "YeHaike(Add Discord.com Friend)"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Transform UE4 Levels(Maps) at Runtime in Realtime.</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> LevelController (Module Type: Runtime)</li></ul><p>Number of Blueprints: 1.</p><p>Number of C&#43;&#43; Classes: 2.</p><p>Network Replicated: No.</p><p>Supported Development Platforms: Windows (x64), Mac.</p><p>Supported Target Build Platforms: Windows (x86, x84), Mac, iOS, Android, HTML5.</p><p>Documentation: <a href=\"https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public\" rel=\"nofollow\">https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public</a></p><p>Example Project: <a href=\"https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public\" rel=\"nofollow\">https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fdd4efdc-84ac-443c-a139-372f26b8409d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-be5562e853625757d235b9ea5274c539.png",
+      "md5": "be5562e853625757d235b9ea5274c539",
+      "size": 786348,
+      "uploadedDate": "2017-10-04T12:53:53.102Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-7f6ba6db4be74fff95c1751a00d192c4.png",
+      "md5": "7f6ba6db4be74fff95c1751a00d192c4",
+      "size": 657974,
+      "uploadedDate": "2017-10-04T12:53:53.220Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-f919dea2c68d903803021f4ad89cfdaa.png",
+      "md5": "f919dea2c68d903803021f4ad89cfdaa",
+      "size": 529688,
+      "uploadedDate": "2017-10-04T12:53:53.401Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-d41590c67c538652c91766c9d8281365.png",
+      "md5": "d41590c67c538652c91766c9d8281365",
+      "size": 301015,
+      "uploadedDate": "2017-10-04T12:53:53.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-c1512f82a10bea0ae11b7739ced97212.png",
+      "md5": "c1512f82a10bea0ae11b7739ced97212",
+      "size": 304685,
+      "uploadedDate": "2017-10-04T12:53:53.841Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-de44ab36663582388cf18aeaa4a7bab7.png",
+      "md5": "de44ab36663582388cf18aeaa4a7bab7",
+      "size": 405568,
+      "uploadedDate": "2017-10-04T12:53:53.955Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LevelControllerTransformLevelsAtRuntimeInRealtime_thumb-284x284-2b2c851b8617986bca3d281760d692ea.png",
+      "md5": "2b2c851b8617986bca3d281760d692ea",
+      "size": 135322,
+      "uploadedDate": "2023-02-20T04:35:53.282Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LevelControllerTransformLevelsAtRuntimeInRealtime_featured-894x488-741a0b4761b6533ca5aa27111a7ae0a5.png",
+      "md5": "741a0b4761b6533ca5aa27111a7ae0a5",
+      "size": 244162,
+      "uploadedDate": "2017-10-04T12:53:54.054Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4172e42efe5946ee94f791b335f4afd0"
+    }
+  ],
+  "catalogNs": null
+}

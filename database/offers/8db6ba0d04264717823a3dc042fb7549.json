@@ -1,0 +1,218 @@
+{
+  "id": "8db6ba0d04264717823a3dc042fb7549",
+  "namespace": "ue",
+  "title": "CameraShake Editor",
+  "description": "CameraShake Editor with Realtime Preview",
+  "longDescription": "<p><strong>PLEASE NOTE, THIS PLUGIN HAS BEEN SUPERSEDED BY </strong><a href=\"https://docs.unrealengine.com/5.2/en-US/AnimatingObjects/Sequencer/Cameras/CameraShakes/\" rel=\"nofollow\"><strong>CAMERA SHAKE PREVIEWER</strong></a><strong> (Epic&#39;s plugin!)</strong>. Invest some time into using Camera Shake Previewer as it is the very flexible solution and it has built-in integration with Level Editor Viewport.</p><p><br /></p><p><strong>THIS PLUGIN IS NO LONGER MAINTAINED!</strong></p><p><br /></p><p>Video <a href=\"https://youtu.be/KfJgrdP_Elo\" rel=\"nofollow\">tutorial</a>.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;1nMKHwsXSCc\" rel=\"nofollow\">CameraShake</a> Editor allows to <strong>tune CameraShake parameters in realtime </strong>(for example, oscillation strength or FOV) in comparison to default approach via Play/Stop. CameraShakeEditor is also compatible with Sequencer.</p><p><br /></p><p>Blueprint asset BP_ExampleCameraShake has been added for a quick startup.</p><p><br /></p><p>Video <a href=\"https://www.youtube.com/watch?v&#61;_so6jhBb9E4\" rel=\"nofollow\">tutorial</a><em> (UE 4.24 and older versions).</em></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "camerashake-editor",
+  "creationDate": "2020-01-07T08:14:49.371Z",
+  "lastModifiedDate": "2024-10-15T10:50:41.696Z",
+  "effectiveDate": "2020-01-07T08:14:49.332Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-f93jkczy3xt8z2gxhbgaec72ey39kb",
+    "name": "Petr Leontev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>CameraShake editor with realtime preview</li><li>Example CameraShake blueprint for both standalone usage and sequencer</li></ul><p><br /></p><p>Code Modules:</p><ul><li> CameraShakeRuntime (Runtime)</li><li> CameraShakeEditor (Editor)</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 16</p><p>Number of Blueprints Nodes: 1</p><p>Number of Blueprints: 1</p><p>Network Replicated: No</p><p><br /></p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p><br /></p><p>Documentation: <a href=\"https://github.com/RaiaN/ue4_camera_shake_editor_documentation/blob/master/README.md\" rel=\"nofollow\">link</a></p><p>Support: <a href=\"https://publish.unrealengine.com/v2/edit-product/raianknight&#64;gmail.com\" rel=\"nofollow\">email</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2fd2736e-8915-4d3c-8a4d-df38530473f4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-bbb004f30fe06c9c26202184663d3c3b.png",
+      "md5": "bbb004f30fe06c9c26202184663d3c3b",
+      "size": 1345658,
+      "uploadedDate": "2019-11-26T09:54:33.388Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-7299eb50e5e78ca6cbb8d2ea938a8c3c.png",
+      "md5": "7299eb50e5e78ca6cbb8d2ea938a8c3c",
+      "size": 319632,
+      "uploadedDate": "2019-11-26T09:54:33.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CameraShakeEditor_thumb-284x284-f72a56c5f2f6c7519dc9dd507824444a.png",
+      "md5": "f72a56c5f2f6c7519dc9dd507824444a",
+      "size": 130308,
+      "uploadedDate": "2019-11-26T09:54:34.276Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CameraShakeEditor_featured-894x488-6e6ad4080b5c0e116b3626c28b8ff766.png",
+      "md5": "6e6ad4080b5c0e116b3626c28b8ff766",
+      "size": 544036,
+      "uploadedDate": "2019-11-26T09:54:34.359Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/0-1920x1080-4184a62133afef3360673d48723417b1_Snapshot.png",
+      "md5": "c3649fd437387ff61c886eb707d75c36",
+      "size": 6776,
+      "uploadedDate": "2019-11-26T09:54:32.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-142bac7d225d5f8f2fec88b54b4b0ce2_Snapshot.png",
+      "md5": "8184339b140e743bfc4b03fab52cf39e",
+      "size": 6229,
+      "uploadedDate": "2019-11-26T09:54:33.173Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-bbb004f30fe06c9c26202184663d3c3b_Snapshot.png",
+      "md5": "56ab1b4d1a6b12aa9d88e005a789a59c",
+      "size": 4469,
+      "uploadedDate": "2019-11-26T09:54:33.765Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-7299eb50e5e78ca6cbb8d2ea938a8c3c_Snapshot.png",
+      "md5": "3f99e70e49e2fe47829d291ea3259e6c",
+      "size": 5730,
+      "uploadedDate": "2019-11-26T09:54:34.190Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2fe3f45ca6ca441b8d2be49563e88a32"
+    }
+  ],
+  "catalogNs": null
+}

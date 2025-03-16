@@ -1,0 +1,224 @@
+{
+  "id": "bd323c0b2ce54b0fa13496316d4bfc35",
+  "namespace": "ue",
+  "title": "Camera Capture Plugin",
+  "description": "This plugin captures the camera's output to a render target, preserving Lumen effects and post-processing volumes. It ensures that the captured scene matches the camera preview accurately.",
+  "longDescription": "<p>This plugin captures the camera&#39;s output to a render target, preserving <strong>Lumen effects</strong> and post-processing volumes. It ensures that the captured scene matches the camera preview accurately.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "camera-capture-plugin",
+  "creationDate": "2024-08-29T05:59:01.065Z",
+  "lastModifiedDate": "2024-10-12T08:57:42.875Z",
+  "effectiveDate": "2024-08-29T08:06:12.654Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3n42fks89sfgjmz6365bhc57kv4lrf",
+    "name": "Xinheng Hu"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Unreal Engine Version Support: 5.0 - 5.4</strong></p><p><strong>Features: </strong></p><ul><li><strong><em>Accurate scene capture matching the camera preview</em></strong></li><li>Support for <strong>Lumen</strong> effects</li><li>Support Camera Actor and Cine Camera Actor</li><li>Custom Capture <strong>Resolution</strong></li><li>Adjustable <strong>Screen Percentage</strong></li><li>Support <strong>Motion Blur </strong></li><li>Support <strong>Post-processing Material</strong></li><li>Support  <strong>Lit </strong>and <strong>Unlit </strong>view modes</li><li>Support <strong>Hide Actor</strong></li></ul><blockquote>For more information, please refer to the <a href=\"https://huxinheng.notion.site/Camera-Capture-Plugin-User-Guide-c23dcdf7514c44c2bb93a1431a8f3aba\" rel=\"nofollow\">User Guide</a>.</blockquote><p><br /></p><p>Code Modules: CameraCapture (Runtime)</p><p>Number of Blueprints: 7</p><p>Number of C&#43;&#43; Classes: 1</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://huxinheng.notion.site/Camera-Capture-Plugin-User-Guide-c23dcdf7514c44c2bb93a1431a8f3aba\" rel=\"nofollow\">User Guide</a></p><p><strong>Important/Additional Notes:</strong> Due to Unreal Marketplace policies, plugins are only be listed for the latest three versions of Unreal Engine. For <strong>UE5.0 - 5.1</strong> versions, please compile them yourself or contact me via <strong>Email ( yanyeyinghuo&#64;gmail.com ) </strong>with order information to obtain them.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "34211ce0-0809-4234-b921-5c93f4df28ea"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-34d296536cd204e886e179fd0f44f630.png",
+      "md5": "34d296536cd204e886e179fd0f44f630",
+      "size": 1430557,
+      "uploadedDate": "2024-08-28T07:39:33.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-1f00e7b55253992248b1f03b2a800e7e.png",
+      "md5": "1f00e7b55253992248b1f03b2a800e7e",
+      "size": 1469640,
+      "uploadedDate": "2024-08-28T07:39:34.408Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-7e38244396981f3e95ddabdfec040e33.png",
+      "md5": "7e38244396981f3e95ddabdfec040e33",
+      "size": 911367,
+      "uploadedDate": "2024-08-28T07:39:35.018Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-222c6cd808733974ef292a396dbc37a4.png",
+      "md5": "222c6cd808733974ef292a396dbc37a4",
+      "size": 1430925,
+      "uploadedDate": "2024-08-28T07:39:35.944Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-cb7d268f330b0f3972ae6ea6cf12b55c.png",
+      "md5": "cb7d268f330b0f3972ae6ea6cf12b55c",
+      "size": 1541695,
+      "uploadedDate": "2024-08-28T07:39:36.595Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-a88e5247af08d4d8cd60ea3a1a0c6db9.png",
+      "md5": "a88e5247af08d4d8cd60ea3a1a0c6db9",
+      "size": 251371,
+      "uploadedDate": "2024-08-28T07:39:37.149Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CameraCapturePlugin_thumb-284x284-f30f8ef38ed53f8c491ea77cecedfc1c.png",
+      "md5": "f30f8ef38ed53f8c491ea77cecedfc1c",
+      "size": 11445,
+      "uploadedDate": "2024-08-28T07:39:37.462Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CameraCapturePlugin_featured-894x488-1edf8b7a6e5a4f28b17f9ae2b762cf73.png",
+      "md5": "1edf8b7a6e5a4f28b17f9ae2b762cf73",
+      "size": 644087,
+      "uploadedDate": "2024-08-28T07:39:37.623Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-34d296536cd204e886e179fd0f44f630_Snapshot.png",
+      "md5": "3357f9912a5162fb56916f84ce10271b",
+      "size": 6632,
+      "uploadedDate": "2024-08-28T07:39:34.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-1f00e7b55253992248b1f03b2a800e7e_Snapshot.png",
+      "md5": "046b63439482a4d3aed949d3a37272fd",
+      "size": 6763,
+      "uploadedDate": "2024-08-28T07:39:34.802Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-7e38244396981f3e95ddabdfec040e33_Snapshot.png",
+      "md5": "d8f5056654a846093b979a2e79331c89",
+      "size": 5998,
+      "uploadedDate": "2024-08-28T07:39:35.356Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-222c6cd808733974ef292a396dbc37a4_Snapshot.png",
+      "md5": "c5774edc7b375e1ef95da75f283767d8",
+      "size": 6647,
+      "uploadedDate": "2024-08-28T07:39:36.327Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-cb7d268f330b0f3972ae6ea6cf12b55c_Snapshot.png",
+      "md5": "532a78460a6b1096425fa4370bd19ee5",
+      "size": 6965,
+      "uploadedDate": "2024-08-28T07:39:36.979Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-a88e5247af08d4d8cd60ea3a1a0c6db9_Snapshot.png",
+      "md5": "013a5813ad2a86ac596f0cfc173409d1",
+      "size": 3856,
+      "uploadedDate": "2024-08-28T07:39:37.427Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f0009f134ae04847ac5682f965061524"
+    }
+  ],
+  "catalogNs": null
+}

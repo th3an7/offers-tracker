@@ -1,0 +1,147 @@
+{
+  "id": "019db6f77caa49208df1af19a88ecd5f",
+  "namespace": "ue",
+  "title": "Slash Effect Auto Placement",
+  "description": "This plugin can  automatically generating smooth polygon for Slash effects(no trail).",
+  "longDescription": "<p>Sometimes, we make Slash Effect by trail is not smooth, but use static mesh and adjust them requires a lot of time. This plugin automatically generates smooth special effects geometric shapes by reading animation data to generate control points and pass to ribbon renderer.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "slash-effect-auto-placement",
+  "creationDate": "2024-02-27T16:32:43.985Z",
+  "lastModifiedDate": "2024-10-15T11:06:58.688Z",
+  "effectiveDate": "2024-02-27T16:32:43.961Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-08e21db3384be6a440d5dc23fd7755",
+    "name": "meng rui"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Smooth Slash shape.</li><li>Align all polygon to a plane.</li></ul><p>Code Modules:</p><ul><li> Runtime</li></ul><p>Number of C&#43;&#43; Classes: 1</p><p><br /></p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: All Platform</p><p><a href=\"https://youtu.be/GZGJapKjpLM\" rel=\"nofollow\">Video</a></p><p><a href=\"https://docs.google.com/document/d/1lX2ALOYq_1PxzppWhCtOiSjAh0xZTcGpt2VHFadPRD4/edit?usp&#61;sharing\" rel=\"nofollow\"><u>Documentation</u></a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "d1e7fb34-3dc5-43e5-bf03-8d650d0ddb0d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slash2-1920x1080-aeae49aa35d1597f5bffe7dc959a9d22.png",
+      "md5": "aeae49aa35d1597f5bffe7dc959a9d22",
+      "size": 287577,
+      "uploadedDate": "2024-02-20T11:26:11.673Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slash0-1920x1080-7f5043d99e5df1210642448afe77c6f9.png",
+      "md5": "7f5043d99e5df1210642448afe77c6f9",
+      "size": 914700,
+      "uploadedDate": "2024-02-20T11:26:12.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/QQ20240301234627-1920x1080-c3c6d38847ad84507bcb913bb01af01f.png",
+      "md5": "c3c6d38847ad84507bcb913bb01af01f",
+      "size": 1855919,
+      "uploadedDate": "2024-03-01T15:56:56.528Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/QQ20240301234627-1920x1080-c3c6d38847ad84507bcb913bb01af01f_Snapshot.png",
+      "md5": "55cdde8f472c2855f469af65891e8cb8",
+      "size": 5625,
+      "uploadedDate": "2024-03-01T15:56:56.999Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SlashEffectAutoPlacement_thumb-284x284-0ec9411567ded960afccd1f88e880a72.png",
+      "md5": "0ec9411567ded960afccd1f88e880a72",
+      "size": 8632,
+      "uploadedDate": "2024-02-20T11:26:12.390Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SlashEffectAutoPlacement_featured-894x488-89fc037d714ce50624d7b37b88007b54.png",
+      "md5": "89fc037d714ce50624d7b37b88007b54",
+      "size": 426182,
+      "uploadedDate": "2024-02-20T11:26:12.509Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slash3-1920x1080-c20bfe1173c6780881e6ec8af2ef5ee6_Snapshot.png",
+      "md5": "957179f73ae86b12e4dcac1c767c633b",
+      "size": 5504,
+      "uploadedDate": "2024-02-20T11:26:11.504Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slash2-1920x1080-aeae49aa35d1597f5bffe7dc959a9d22_Snapshot.png",
+      "md5": "ec2ede8b7bbd6bb2f80ac04dcf0164a8",
+      "size": 2546,
+      "uploadedDate": "2024-02-20T11:26:11.882Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slash0-1920x1080-7f5043d99e5df1210642448afe77c6f9_Snapshot.png",
+      "md5": "69e248cbd04c0eae19a5cde408abc057",
+      "size": 4643,
+      "uploadedDate": "2024-02-20T11:26:12.315Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ecb525815efe4326a20c0b00335d6f0c"
+    }
+  ],
+  "catalogNs": null
+}

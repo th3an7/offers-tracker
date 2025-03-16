@@ -1,0 +1,260 @@
+{
+  "id": "f123cb165ab94d708307f2bd5992dca3",
+  "namespace": "ue",
+  "title": "Scissor Lift",
+  "description": "Movable Scissor Lift with Animation brings you up. 4 LOD-Level",
+  "longDescription": "<p>Three Parts (SKMs) inside. Driveable Scissor Lift with Scissor Animation and own created Physic_Mesh.</p><p><br /></p><p>Now you can drive to a high wall and look over it, jump, or shoot. Look in the window on the first or second floor. The fastest way to the roof.</p><p><br /></p><p><a href=\"https://youtu.be/Bk3ixay1E6I\" rel=\"nofollow\">Demo</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "scissor-lift",
+  "creationDate": "2019-03-07T15:26:42.692Z",
+  "lastModifiedDate": "2024-10-13T14:39:50.092Z",
+  "effectiveDate": "2019-03-07T15:36:28.054Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4j6xvds8s5guextzq2rzqj6hgsvx8c",
+    "name": "Christian Pachoinig"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>UE5:</strong> Chaos Vehicles Plugin must enabled !!</p><p><br /></p><p><strong>Rigged</strong>: Yes</p><p><strong>Animation</strong>: Part 1: Driveable by VehicleTemplate UE4: Wheel_VehicleBP (4Bones per Axis).</p><p><strong>Animation</strong>: Part 2: Scissor Move up and down.</p><p><strong>Meshes</strong>: 3 SkeletalMesh with PhysicAssets (own created).</p><p><strong>Texture</strong>: Part 1: 2048x2048</p><p><strong>Texture</strong>: Part 2: 2048x2048</p><p><strong>Texture</strong>: Part 3: 1024x1024</p><p><strong>Number of BP</strong>: 2 AnimBP,</p><p>                         2 Wheel_PB,</p><p>                         1 WheeledVehicle_BP</p><p>LODs: Part 1: Lod_Levels 4: 22652 Tris -&gt; 4690</p><p>LODs: Part 2: Lod_Levels 4: 16012 Tris -&gt; 5935</p><p>LODs: Part 3: Lod_Levels 4:  6954 Tris -&gt; 2403</p><p><br /></p><p><strong>Materials</strong>:</p><p>12 Material Function (Layer).</p><p>3 Master, 3 Instances.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c972ae47-969e-4ba5-a1ea-0bbd80ec00a9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SL1-1920x1080-507f08cb89bb5f181f68e4c98c51e4e2.png",
+      "md5": "507f08cb89bb5f181f68e4c98c51e4e2",
+      "size": 1999642,
+      "uploadedDate": "2019-02-16T13:25:04.703Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SL3-1920x1080-9cfbf32784c4babf93a744ffdcd00055.png",
+      "md5": "9cfbf32784c4babf93a744ffdcd00055",
+      "size": 2077047,
+      "uploadedDate": "2019-02-16T13:57:54.898Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SL4-1920x1080-7f7810492b8ca394e56dd418f22ff344.png",
+      "md5": "7f7810492b8ca394e56dd418f22ff344",
+      "size": 558912,
+      "uploadedDate": "2019-02-16T13:57:55.217Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SL2-1920x1080-403b6df12c46298e78715de3e36051a7.png",
+      "md5": "403b6df12c46298e78715de3e36051a7",
+      "size": 2023242,
+      "uploadedDate": "2019-02-16T13:57:55.534Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SL6-1920x1080-8635f11648e6e47871ba58a4a7b83ac4.png",
+      "md5": "8635f11648e6e47871ba58a4a7b83ac4",
+      "size": 1737976,
+      "uploadedDate": "2019-02-16T14:04:57.597Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SL5-1920x1080-234429dff9066ce983369a6325fb971f.png",
+      "md5": "234429dff9066ce983369a6325fb971f",
+      "size": 1412381,
+      "uploadedDate": "2019-02-16T14:04:57.967Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ScissorLift_thumb-284x284-55ba84ca04cbbe01227903653e795e27.png",
+      "md5": "55ba84ca04cbbe01227903653e795e27",
+      "size": 132787,
+      "uploadedDate": "2019-02-16T13:25:04.941Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ScissorLift_featured-894x488-4457dd564f08300a4fa8ecea279fdbdf.png",
+      "md5": "4457dd564f08300a4fa8ecea279fdbdf",
+      "size": 519306,
+      "uploadedDate": "2019-02-16T13:25:05.029Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SL6-1920x1080-8635f11648e6e47871ba58a4a7b83ac4_Snapshot.png",
+      "md5": "89abab25abf8c68a50a7986ff6f816b6",
+      "size": 15014,
+      "uploadedDate": "2019-02-16T14:04:57.811Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SL5-1920x1080-234429dff9066ce983369a6325fb971f_Snapshot.png",
+      "md5": "07dc4d0a3b639d6343f6ba55f2c826c7",
+      "size": 10274,
+      "uploadedDate": "2019-02-16T14:04:58.147Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SL3-1920x1080-9cfbf32784c4babf93a744ffdcd00055_Snapshot.png",
+      "md5": "433ac5b8b7eaefbdef929718dde54141",
+      "size": 19148,
+      "uploadedDate": "2019-02-16T13:57:55.092Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SL4-1920x1080-7f7810492b8ca394e56dd418f22ff344_Snapshot.png",
+      "md5": "a15b54d92a1a68383bc8c6bcb0e94cb0",
+      "size": 6083,
+      "uploadedDate": "2019-02-16T13:57:55.334Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SL2-1920x1080-403b6df12c46298e78715de3e36051a7_Snapshot.png",
+      "md5": "e0ad97fb2bb9359470aab89494b9743e",
+      "size": 17756,
+      "uploadedDate": "2019-02-16T13:57:55.708Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SL1-1920x1080-507f08cb89bb5f181f68e4c98c51e4e2_Snapshot.png",
+      "md5": "a24e71b1a983074ef950f7038c032b89",
+      "size": 17351,
+      "uploadedDate": "2019-02-16T13:25:04.896Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "df64db782b134fda99fdff2724af20aa"
+    }
+  ],
+  "catalogNs": null
+}

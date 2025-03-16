@@ -1,0 +1,353 @@
+{
+  "id": "f98d23f729e447c19e93ae8ca2294b5a",
+  "namespace": "ue",
+  "title": "UMG Color pickers",
+  "description": "A simple solution to add color selection UI to your project, with 7 different color selectors using RGB sliders, HSV sliders, Color grid and Radial selectors.",
+  "longDescription": "<p>Demo level is included with the asset, demonstrating how easy it is to bind color changes, or getting selected colors from Blueprints.</p><p><br /></p><p>Single color selection:</p><ul><li><strong>RGB Slider:</strong> 3 sliders for red green and blue values, alpha is optional.</li><li><strong>HSV Slider:</strong> 3 sliders hue, saturation and value, alpha is optional.</li><li><strong>Color grid:</strong> set a matrix of template colors to select between them.</li><li><strong>Radial selector:</strong> Drag the selector around the hue wheel, default saturation and value can be changed.</li></ul><p>Multiple color selection:</p><ul><li><strong>Two Colors Radial selector:</strong> Works like the radial selector, but the second color is selected as the complementary of the first color.</li><li><strong>Three Colors Radial selector:</strong> Works like the radial selector, but the second and the third color are the color triad of the first.</li><li><strong>Four Colors Radial selector:</strong> Works like the radial selector, but the second, the third and the fourth color are the color tetradic of the first.</li></ul><p><br /></p><p>Every widget lets you choose the default selected color.</p><p><br /></p><p>Each color selector inherits from a parent widget, so it&#39;s really easy to get the current selected color, or bind events to the color changed event dispatcher.</p><p><br /></p><p>Changelog</p><p>v1.1 - 11/9/2020 - 4.25 or newer</p><p>Added Gamepad And Keyboard support with improved accesibility</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "umg-color-pickers",
+  "creationDate": "2019-05-13T09:59:40.058Z",
+  "lastModifiedDate": "2024-10-10T23:11:42.018Z",
+  "effectiveDate": "2019-05-13T17:05:33.913Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-da43f7145e4e4296776e3ca2b82f3b",
+    "name": "Penguin Corp"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 2</p><p>Number of Blueprint Interfaces: 1</p><p>Number of Blueprint Function Libraries: 1</p><p>Number of Structures: 1</p><p>Number of Materials: 7</p><p>Number of Textures: 16</p><p>Number of Widgets: 11</p><p>Number of Levels: 1</p><p><br /></p><p>Supported Development Platforms: Windows, MacOS</p><p>Supported Target Build Platforms: Windows 64-bit, Windows 32-bit, Linux and MacOS.</p><p>Demo Download: <a href=\"https://1drv.ms/u/s!AoVIEWvNjK-puB71ETMb3oXyF-es?e&#61;PJqoK7\" rel=\"nofollow\">link</a></p><p><br /></p><p>Font used: Nerko by <a href=\"https://www.behance.net/nermink\" rel=\"nofollow\">Nermin Kahrimanovic</a>, licensed under OFL (Open Font License).</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1159",
+      "name": "Arcade",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:37.620Z",
+      "updated": "2023-06-28T10:54:29.742Z",
+      "status": "ACTIVE",
+      "referenceCount": 21,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "edebf031-5973-4a0b-a659-59b552492ccc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery8-1920x1080-d32a02cdd7eae8d8e3ba535e1cee085d.png",
+      "md5": "d32a02cdd7eae8d8e3ba535e1cee085d",
+      "size": 1018718,
+      "uploadedDate": "2019-04-09T22:35:12.473Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery-1920x1080-329b514bb3d842e0dd2a246db3ed1ecf.png",
+      "md5": "329b514bb3d842e0dd2a246db3ed1ecf",
+      "size": 1025029,
+      "uploadedDate": "2019-04-09T22:32:33.426Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery2-1920x1080-5dc9c785d8c9f66fd6722309e9286377.png",
+      "md5": "5dc9c785d8c9f66fd6722309e9286377",
+      "size": 1027764,
+      "uploadedDate": "2019-04-09T22:32:33.759Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery3-1920x1080-8237d55c35512b16c5f4ff0e8ce0ec6b.png",
+      "md5": "8237d55c35512b16c5f4ff0e8ce0ec6b",
+      "size": 1011463,
+      "uploadedDate": "2019-04-09T22:32:34.066Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery4-1920x1080-670af0cc563b5366efc2bdd5246024a2.png",
+      "md5": "670af0cc563b5366efc2bdd5246024a2",
+      "size": 1075116,
+      "uploadedDate": "2019-04-09T22:32:34.367Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery5-1920x1080-87aa9d1b8f7b4137c1443582fef99667.png",
+      "md5": "87aa9d1b8f7b4137c1443582fef99667",
+      "size": 1071162,
+      "uploadedDate": "2019-04-09T22:32:34.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery6-1920x1080-c4bb72c3f8f58bfcba8958b43f7e6d41.png",
+      "md5": "c4bb72c3f8f58bfcba8958b43f7e6d41",
+      "size": 1066664,
+      "uploadedDate": "2019-04-09T22:32:35.013Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery7-1920x1080-c75dee6dd41437b540e243674324b16a.png",
+      "md5": "c75dee6dd41437b540e243674324b16a",
+      "size": 1074717,
+      "uploadedDate": "2019-04-09T22:32:35.325Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UMGColorpickers_thumb-284x284-65894cce17ff1bf2ad83ca426f2999b1.png",
+      "md5": "65894cce17ff1bf2ad83ca426f2999b1",
+      "size": 63485,
+      "uploadedDate": "2019-04-09T22:32:35.547Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UMGColorpickers_featured-894x488-b8a31df0a05ffd69a448cdde946db4fc.png",
+      "md5": "b8a31df0a05ffd69a448cdde946db4fc",
+      "size": 292625,
+      "uploadedDate": "2019-04-09T22:32:35.631Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery8-1920x1080-d32a02cdd7eae8d8e3ba535e1cee085d_Snapshot.png",
+      "md5": "6117a66e06be08544beb9228f9d9e2ea",
+      "size": 10942,
+      "uploadedDate": "2019-04-09T22:35:12.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery-1920x1080-329b514bb3d842e0dd2a246db3ed1ecf_Snapshot.png",
+      "md5": "468e5f5675a9524953ed60dc11e8ee0d",
+      "size": 10792,
+      "uploadedDate": "2019-04-09T22:32:33.604Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery2-1920x1080-5dc9c785d8c9f66fd6722309e9286377_Snapshot.png",
+      "md5": "7f72a0a72e06f10cc9561f5e4beb0ccb",
+      "size": 11075,
+      "uploadedDate": "2019-04-09T22:32:33.937Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery3-1920x1080-8237d55c35512b16c5f4ff0e8ce0ec6b_Snapshot.png",
+      "md5": "f5bf5b434054ebfd538ff6f76d1c88fb",
+      "size": 9664,
+      "uploadedDate": "2019-04-09T22:32:34.243Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery4-1920x1080-670af0cc563b5366efc2bdd5246024a2_Snapshot.png",
+      "md5": "94eca43fc293b986b933b5899d0b2107",
+      "size": 10006,
+      "uploadedDate": "2019-04-09T22:32:34.549Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery5-1920x1080-87aa9d1b8f7b4137c1443582fef99667_Snapshot.png",
+      "md5": "7db81fb95b2fb986349ed9388c3f2e30",
+      "size": 9815,
+      "uploadedDate": "2019-04-09T22:32:34.870Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery6-1920x1080-c4bb72c3f8f58bfcba8958b43f7e6d41_Snapshot.png",
+      "md5": "fdd37d5dd779a5188c7ab2311662bc8b",
+      "size": 9435,
+      "uploadedDate": "2019-04-09T22:32:35.182Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery7-1920x1080-c75dee6dd41437b540e243674324b16a_Snapshot.png",
+      "md5": "04879c55d987b3ea0e7438a1955dc973",
+      "size": 10071,
+      "uploadedDate": "2019-04-09T22:32:35.490Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery-1920x1080-1078a9add22d6053831df56e9fbf0501_Snapshot.png",
+      "md5": "ac70077ce9bddc8a5085f124594283f1",
+      "size": 1281,
+      "uploadedDate": "2019-04-07T16:51:14.537Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9419ab401bdb4ada9854282372fa0be7"
+    }
+  ],
+  "catalogNs": null
+}

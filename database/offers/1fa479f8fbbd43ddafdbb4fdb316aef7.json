@@ -1,0 +1,164 @@
+{
+  "id": "1fa479f8fbbd43ddafdbb4fdb316aef7",
+  "namespace": "ue",
+  "title": "Auxiliary UV Textures Baker",
+  "description": "A tool that can bake auxiliary UV textures. Can be used to customize full body texture change effects. For example, flame spread, etc.",
+  "longDescription": "<p>A tool that can bake auxiliary UV textures. Can be used to customize full body texture change effects.</p><p><br /></p><p>The baked textures can be used to create effects such as &#34;flames spreading all over the character&#34;, &#34;energy converging from other parts of the body to the palm of the hand&#34;, etc ! ! ! !</p><p>How did you achieve these effects before. With complicated Shader calculations? With the model broken up separately?</p><p>No, now all you have to do is prepare a grid with no UV overlap and this tool.</p><p><br /></p><p><strong>Videos&#xff1a;</strong><a href=\"https://youtu.be/TbFTCpKk-rk\" rel=\"nofollow\"><strong>Youtube</strong></a></p><p>I am not an artist and the presentation of the demo is not that good, but I hope you can understand the power of this tool through this description. I am sure you can use this tool better than I can.</p><p><br /></p><p>Tool provides a variety of baking options, support a variety of custom baking effects.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "auxiliary-uv-textures-baker",
+  "creationDate": "2023-05-02T15:51:25.708Z",
+  "lastModifiedDate": "2024-10-15T05:40:51.114Z",
+  "effectiveDate": "2023-05-02T15:51:25.682Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wgxzpbvssuxjhhf6wgrjx76fzfvafg",
+    "name": "HandsomeCheese"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Automatically generate auxiliary UV textures baking</li><li>Repair the UV seam of the baked textures</li><li>Automatically generate materials</li><li>A variety of baking options</li><li>Complete freedom of modification</li></ul><p><br /></p><p>Code Modules:</p><ul><li>FDAssistor [Editor]</li><li>FDShaders [Editor]</li><li>FDOverlayEditor [Editor]</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 34</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Example Project: <a href=\"https://drive.google.com/drive/folders/1Nd18eTehAvezzHTSwwMRVnk_j6lD-2JM?usp&#61;sharing\" rel=\"nofollow\">Demo</a></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bc0eaf43-2c7f-4336-95b8-68eb15ffca08"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2023-04-16 12245611-1920x1080-118cb23f10875ef83e5c850c8f131b2e.png",
+      "md5": "118cb23f10875ef83e5c850c8f131b2e",
+      "size": 998232,
+      "uploadedDate": "2023-04-16T04:40:57.768Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2023-04-16 12243111-1920x1080-892849d4ccd792d2d0171e242897363f.png",
+      "md5": "892849d4ccd792d2d0171e242897363f",
+      "size": 983612,
+      "uploadedDate": "2023-04-16T04:40:58.213Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AuxiliaryUVTexturesBaker_thumb-284x284-90c2e8d1b90fc94d4580a15a69d938a5.png",
+      "md5": "90c2e8d1b90fc94d4580a15a69d938a5",
+      "size": 55140,
+      "uploadedDate": "2023-04-16T04:40:58.617Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AuxiliaryUVTexturesBaker_featured-894x488-b78ae83c2566d4696a389207a6ee7a74.png",
+      "md5": "b78ae83c2566d4696a389207a6ee7a74",
+      "size": 307322,
+      "uploadedDate": "2023-04-16T04:40:58.753Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2023-04-16 12245611-1920x1080-118cb23f10875ef83e5c850c8f131b2e_Snapshot.png",
+      "md5": "94224b35730d73388565663754230b1b",
+      "size": 5639,
+      "uploadedDate": "2023-04-16T04:40:58.060Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2023-04-16 12243111-1920x1080-892849d4ccd792d2d0171e242897363f_Snapshot.png",
+      "md5": "69835ddf2459299e617c9677ae9be33e",
+      "size": 5625,
+      "uploadedDate": "2023-04-16T04:40:58.492Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "be61f2a05b8841a38ee098b373e99ab8"
+    }
+  ],
+  "catalogNs": null
+}

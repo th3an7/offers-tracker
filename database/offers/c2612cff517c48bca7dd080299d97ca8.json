@@ -1,0 +1,239 @@
+{
+  "id": "c2612cff517c48bca7dd080299d97ca8",
+  "namespace": "ue",
+  "title": "ObjectDeliverer",
+  "description": "data transmission / reception library  (C ++, Blueprint).",
+  "longDescription": "<p>ObjectDeliverer is a data transmission / reception library for Unreal Engine (C &#43;&#43;, Blueprint). It has the following features.</p><ul><li>Communication protocol, data division rule, serialization method can be switched by part replacement.</li><li>Available for both C &#43;&#43; and Blueprint</li></ul><p><br /></p><p><strong>Communication protocol</strong></p><p>The following protocols can be used with built-in. You can also add your own protocol.</p><ul><li>TCP/IP Server(Connectable to multiple clients)</li><li>TCP/IP Client</li><li>UDP(Sender)</li><li>UDP(Receiver)</li><li>Shared Memory(Windows only support)</li><li>LogFile Writer</li><li>LogFile Reader</li></ul><p><br /></p><p><strong>Data division rule</strong></p><p>The following rules are available for built-in split rules of transmitted and received data.</p><ul><li>FixedSize</li><li>Header(BodySize) &#43; Body</li><li>Split by terminal symbol</li><li>No division</li></ul><p><br /></p><p><strong>Serialization method</strong></p><ul><li>Byte Array</li><li>UTF-8 string</li><li>Object(Json)</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "objectdeliverer",
+  "creationDate": "2019-02-19T14:55:04.496Z",
+  "lastModifiedDate": "2024-10-15T10:38:31.156Z",
+  "effectiveDate": "2019-02-19T14:55:04.431Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zyblkxhevfvhrs86f4fxbea3uhveds",
+    "name": "ayumax"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules: ObjectDeliverer</p><p>Supported Development Platforms: Windows, Mac</p><p>Supported Target Build Platforms: Windows, Mac, Android, iOS</p><p>Documentation: https://github.com/ayumax/ObjectDeliverer/blob/master/README.md</p><p>Example Project:https://github.com/ayumax/ObjectDeliverer</p><p><br /></p><p><strong>Changelog</strong></p><p>[10/29/2020] Version 1.6.0: (4.25)</p><ul><li>Fixed the situation where the size of 1024x1024byte or more cannot be received when TCP / IP communication is performed with the Data division rule set to &#34;Header &#43; Body&#34;.</li><li>Dropped support for version 4.22, 4.23, 4.24</li></ul><p><br /></p><p>[01/24/2020] Version 1.5.0: (4.22, 4.23, 4.24)</p><ul><li><a href=\"https://github.com/ayumax/ObjectDeliverer/wiki/How-to-change-property-name-when-serializing-UObject-with-Json%28Version-1.5.0-or-later%29\" rel=\"nofollow\">Added function so that property name can be changed when serializing UObject with Json</a></li><li><a href=\"https://github.com/ayumax/ObjectDeliverer/wiki/Selection-of-Json-serialize-method-in-ObjectDeliveryBoxUsingJson%28Version-1.5.0-later%29\" rel=\"nofollow\">Added option to save class name when serializing Object to Json</a></li><li>Dropped support for version 4.21</li></ul><p><br /></p><p>[10/13/2019] Version 1.4.0: (4.21, 4.22, 4.23)</p><ul><li><a href=\"https://github.com/ayumax/ObjectDeliverer/wiki/Knowing-the-IP-address-of-the-sender%28Ver-1.4.0-or-later.%29\" rel=\"nofollow\">Implemented the function to acquire the IP Address of the sender (TCP/IP Server, UDP Receiver)</a></li><li>Dropped support for version 4.20</li></ul><p><br /></p><p><a href=\"https://github.com/ayumax/ObjectDeliverer/wiki/Market-Place-change-log\" rel=\"nofollow\">more</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1338",
+      "name": "TOP-DOWN SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:06.404Z",
+      "updated": "2019-06-20T12:01:06.404Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b6ffd7d7-80da-483f-a7fa-09cb46b72651"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY0-1920x1080-ea93daa3eec7fa3bddc46ae634d5d15f.png",
+      "md5": "ea93daa3eec7fa3bddc46ae634d5d15f",
+      "size": 46358,
+      "uploadedDate": "2019-04-27T12:52:23.860Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 1-1920x1080-9f17e25cebbcb6542cf2f4c6fd5c8a78.png",
+      "md5": "9f17e25cebbcb6542cf2f4c6fd5c8a78",
+      "size": 490465,
+      "uploadedDate": "2019-02-09T15:52:10.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 2-1920x1080-ddc46fd00422d102fc09816d64b09dbd.png",
+      "md5": "ddc46fd00422d102fc09816d64b09dbd",
+      "size": 619816,
+      "uploadedDate": "2019-02-09T15:52:10.667Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 3-1920x1080-810096a547070123ba68c7bb6533245b.png",
+      "md5": "810096a547070123ba68c7bb6533245b",
+      "size": 466274,
+      "uploadedDate": "2019-02-09T15:52:10.997Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 4-1920x1080-a563523d504817c136a6ac74f3ff52c7.png",
+      "md5": "a563523d504817c136a6ac74f3ff52c7",
+      "size": 469745,
+      "uploadedDate": "2019-02-09T15:52:11.334Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ObjectDeliverer_thumb-284x284-a4112a42ddeab629bb20c08bc6c31473.png",
+      "md5": "a4112a42ddeab629bb20c08bc6c31473",
+      "size": 7580,
+      "uploadedDate": "2019-04-27T12:34:38.677Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ObjectDeliverer_featured-894x488-9924bf308080485c007b9bb6e785eee0.png",
+      "md5": "9924bf308080485c007b9bb6e785eee0",
+      "size": 171460,
+      "uploadedDate": "2019-02-09T15:52:11.740Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0-1920x1080-ea93daa3eec7fa3bddc46ae634d5d15f_Snapshot.png",
+      "md5": "3bf65cdba23dcc285c759b8c20001505",
+      "size": 2827,
+      "uploadedDate": "2019-04-27T12:52:23.989Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0-1920x1080-0ff340ac9439e336b3054c42e42dce05_Snapshot.png",
+      "md5": "0202a86727f0388af802f305c982a9d6",
+      "size": 2827,
+      "uploadedDate": "2019-04-27T12:34:38.646Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 1-1920x1080-9f17e25cebbcb6542cf2f4c6fd5c8a78_Snapshot.png",
+      "md5": "33b83f161f418cf9a9e3064676a09329",
+      "size": 9090,
+      "uploadedDate": "2019-02-09T15:52:10.501Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 2-1920x1080-ddc46fd00422d102fc09816d64b09dbd_Snapshot.png",
+      "md5": "bdaf159f424bbfa2ee6f47d57baddd7f",
+      "size": 11209,
+      "uploadedDate": "2019-02-09T15:52:10.856Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 3-1920x1080-810096a547070123ba68c7bb6533245b_Snapshot.png",
+      "md5": "0558afd4befe6cd2060ff3ea243d5ec5",
+      "size": 9143,
+      "uploadedDate": "2019-02-09T15:52:11.187Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 4-1920x1080-a563523d504817c136a6ac74f3ff52c7_Snapshot.png",
+      "md5": "5c4c4defdf670a00cbcf012ea13c5851",
+      "size": 9108,
+      "uploadedDate": "2019-02-09T15:52:11.531Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "67fb808f6d724175ad36ac363805ae1c"
+    }
+  ],
+  "catalogNs": null
+}

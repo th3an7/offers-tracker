@@ -1,0 +1,179 @@
+{
+  "id": "b4fffe1b1c9c4bb9b30160cd84ee6077",
+  "namespace": "ue",
+  "title": "PID controller",
+  "description": "PID - feedback controller that uses a mathematical model to regulate a process.",
+  "longDescription": "<p>PID (proportional–integral–derivative) controller - is a type of feedback controller that uses a mathematical model to regulate a process. The controller uses a control loop feedback mechanism to control the process variable and minimize the error between the desired setpoint and the actual output of a system. It does this by adjusting an input to the system based on PID.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pid-controller-01",
+  "creationDate": "2024-07-11T10:25:56.551Z",
+  "lastModifiedDate": "2024-10-15T12:25:34.203Z",
+  "effectiveDate": "2024-07-11T10:25:56.525Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ecj77vhzwtmpg93dyalc2cnqcdvbq8",
+    "name": "Teklarit"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Simple C&#43;&#43; usage</li><li>Blueprint variations: (Variable, Component, Object)</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> PIDController (Runtime)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 6</p><p>Network Replicated: No</p><p>Supported Development Platforms: All</p><p>Supported Target Build Platforms: All</p><p>Documentation: <a href=\"https://teklarit.github.io/PIDControllerDocumentation/#/./\" rel=\"nofollow\">https://teklarit.github.io/PIDControllerDocumentation/#/./</a></p><p>Example Project: <a href=\"https://github.com/Teklarit/TankTurretPIDExample\" rel=\"nofollow\">https://github.com/Teklarit/TankTurretPIDExample</a></p><p>Example Video: <a href=\"https://youtu.be/8oIjRFTFtcQ\" rel=\"nofollow\">Overview - Youtube</a></p><p>Code (Github): <a href=\"https://github.com/Teklarit/PIDController\" rel=\"nofollow\">https://github.com/Teklarit/PIDController</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2f930bb5-56f1-45c6-b16e-a52ed68ba894"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PIDMain1080p-1920x1080-5c44323ce140387b0a7e89e35a8ce562.png",
+      "md5": "5c44323ce140387b0a7e89e35a8ce562",
+      "size": 406499,
+      "uploadedDate": "2024-07-19T23:14:44.512Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PIDExample11080p-1920x1080-0fd52ce2bdcc53890c3a4f3111008b3f.png",
+      "md5": "0fd52ce2bdcc53890c3a4f3111008b3f",
+      "size": 1928937,
+      "uploadedDate": "2024-07-10T09:37:05.630Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PIDExample01080p-1920x1080-9884578261fc2f6ece55c059d448bdb7.png",
+      "md5": "9884578261fc2f6ece55c059d448bdb7",
+      "size": 1385611,
+      "uploadedDate": "2024-07-10T09:37:06.206Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PIDcontroller_thumb-284x284-fc335d8cd5269201b209e7a12bdf6238.png",
+      "md5": "fc335d8cd5269201b209e7a12bdf6238",
+      "size": 30257,
+      "uploadedDate": "2024-07-10T09:37:06.588Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PIDcontroller_featured-894x488-95ec5845e8b6eea791f9351ccb54c723.png",
+      "md5": "95ec5845e8b6eea791f9351ccb54c723",
+      "size": 106774,
+      "uploadedDate": "2024-07-10T09:37:06.636Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PIDMain1080p-1920x1080-5c44323ce140387b0a7e89e35a8ce562_Snapshot.png",
+      "md5": "28cfb0901a5447430b6ce22e083074be",
+      "size": 5287,
+      "uploadedDate": "2024-07-19T23:14:44.830Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPIDBPOverview1080p-1920x1080-9a13d356e06fd30b9f59b677b0c22335_Snapshot.png",
+      "md5": "b0b904f62bfb0927d26bfc4d841b0a71",
+      "size": 4623,
+      "uploadedDate": "2024-07-10T09:37:05.355Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PIDExample11080p-1920x1080-0fd52ce2bdcc53890c3a4f3111008b3f_Snapshot.png",
+      "md5": "26827948cbe0c58615fd252d34dbfd82",
+      "size": 5763,
+      "uploadedDate": "2024-07-10T09:37:06.052Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PIDExample01080p-1920x1080-9884578261fc2f6ece55c059d448bdb7_Snapshot.png",
+      "md5": "d4ef7051a3d75276bd64abf59f58f09f",
+      "size": 2751,
+      "uploadedDate": "2024-07-10T09:37:06.542Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0263eaf82ece4b4f964976cf917b36d7"
+    }
+  ],
+  "catalogNs": null
+}

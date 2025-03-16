@@ -1,0 +1,278 @@
+{
+  "id": "91648cea53ec4aa6a17716e1345b184a",
+  "namespace": "ue",
+  "title": "Json Levels",
+  "description": "Json Levels is a plugin that helps users to generate text-based (JSON) representations of levels via an editor tool and then construct levels at runtime based on previously generated JSON.",
+  "longDescription": "<p>Json Levels is a plugin that helps users to generate text-based (JSON) representations of levels via an editor tool and then constructs levels at runtime based on previously generated JSON.</p><p><br /></p><p>Perfect for casual games with multiple levels (e.g. match-3, puzzles, arkanoid), but can be used in other scenarios to dynamically generate actors based on text data.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "json-levels",
+  "creationDate": "2023-01-18T08:49:55.849Z",
+  "lastModifiedDate": "2024-10-06T19:34:15.754Z",
+  "effectiveDate": "2023-01-18T08:49:55.814Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-r64vl3hla9vyt637du85l6e6z93lpb",
+    "name": "Slonorib"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Convert actors placed on a level to JSON</li><li>Generate level at runtime using the generated JSON</li><li>Handy JSON object wrapper that allows setting / getting fields from Blueprints</li><li>Ability to set and get the following data types: Transform, Transform array, Vector, Vector array, Bool, Bool array, Number (float), Number (float) array, String, String array, Object, Object array</li></ul><p> </p><p>Code Modules:</p><p>• JsonLevels (Runtime)</p><p>• JsonLevelsEditor (Editor)</p><p><br /></p><p>Intended Platforms: Windows, Mac (OSX), Linux, iOS, Android</p><p>Platforms Tested: Windows, Mac (OSX), iOS, Android</p><p><br /></p><p>Documentation: https://github.com/slonorib/JsonLevels-docs/blob/main/README.md</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1338",
+      "name": "TOP-DOWN SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:06.404Z",
+      "updated": "2019-06-20T12:01:06.404Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a49ebbbf-82f2-42e2-81c4-9c891c8bd698"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-2dfbd656f17beb9360ba49bda88e9176.png",
+      "md5": "2dfbd656f17beb9360ba49bda88e9176",
+      "size": 809128,
+      "uploadedDate": "2023-01-10T17:06:21.155Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-7d3aa90493578b94709af16e752d24f7.png",
+      "md5": "7d3aa90493578b94709af16e752d24f7",
+      "size": 413971,
+      "uploadedDate": "2023-01-10T17:06:21.509Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-662531c2356fdbc69ac0708433a3478c.png",
+      "md5": "662531c2356fdbc69ac0708433a3478c",
+      "size": 210606,
+      "uploadedDate": "2023-01-10T17:06:21.962Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-841508b2d3b6c8f0fb1472cb9d235528.png",
+      "md5": "841508b2d3b6c8f0fb1472cb9d235528",
+      "size": 299791,
+      "uploadedDate": "2023-01-10T17:06:22.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-dbbcde58bec5533c6252fd805a8a7f21.png",
+      "md5": "dbbcde58bec5533c6252fd805a8a7f21",
+      "size": 284482,
+      "uploadedDate": "2023-01-10T17:06:22.713Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-ed1222d03e04037f1f7265fc5416ceca.png",
+      "md5": "ed1222d03e04037f1f7265fc5416ceca",
+      "size": 237492,
+      "uploadedDate": "2023-01-10T17:06:23.046Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-0a5f525bfdfb50f98527486f602f3f17.png",
+      "md5": "0a5f525bfdfb50f98527486f602f3f17",
+      "size": 203262,
+      "uploadedDate": "2023-01-10T17:06:23.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/JsonLevels_thumb-284x284-eda695b2ebc7d2e58b671931041c3e40.png",
+      "md5": "eda695b2ebc7d2e58b671931041c3e40",
+      "size": 68735,
+      "uploadedDate": "2023-01-10T17:06:23.820Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/JsonLevels_featured-894x488-c81515367e629939a524fabfc64562ad.png",
+      "md5": "c81515367e629939a524fabfc64562ad",
+      "size": 115796,
+      "uploadedDate": "2023-01-10T17:06:23.926Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-2dfbd656f17beb9360ba49bda88e9176_Snapshot.png",
+      "md5": "ecdfc37494044caf0317d96d44ceeba6",
+      "size": 5498,
+      "uploadedDate": "2023-01-10T17:06:21.389Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-7d3aa90493578b94709af16e752d24f7_Snapshot.png",
+      "md5": "fa2f07b7d9c644493f6bb15e6b2289cb",
+      "size": 5551,
+      "uploadedDate": "2023-01-10T17:06:21.735Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-662531c2356fdbc69ac0708433a3478c_Snapshot.png",
+      "md5": "ae34a7f4c9cf1c9d6eb9749166c8d4cc",
+      "size": 4106,
+      "uploadedDate": "2023-01-10T17:06:22.204Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-841508b2d3b6c8f0fb1472cb9d235528_Snapshot.png",
+      "md5": "8046e1191edc10372da0fa969288a5ea",
+      "size": 4553,
+      "uploadedDate": "2023-01-10T17:06:22.530Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-dbbcde58bec5533c6252fd805a8a7f21_Snapshot.png",
+      "md5": "b2861ec210ddaca85638467bcebc73a7",
+      "size": 4716,
+      "uploadedDate": "2023-01-10T17:06:22.954Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-ed1222d03e04037f1f7265fc5416ceca_Snapshot.png",
+      "md5": "dd0db755ec89cb49ae76ec6e99cfe1fa",
+      "size": 4686,
+      "uploadedDate": "2023-01-10T17:06:23.306Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-0a5f525bfdfb50f98527486f602f3f17_Snapshot.png",
+      "md5": "6926cb77cdd97b93073472b456d536d2",
+      "size": 4506,
+      "uploadedDate": "2023-01-10T17:06:23.736Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "741972aa60b84ca4bb338b519e24a59e"
+    }
+  ],
+  "catalogNs": null
+}

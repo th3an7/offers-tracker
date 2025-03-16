@@ -1,0 +1,164 @@
+{
+  "id": "342ae80f4bc04e4aa232991047532ff2",
+  "namespace": "ue",
+  "title": "Direct Video Android",
+  "description": "Fast 4k plus video rendering for Android accelerated by Vulkan",
+  "longDescription": "<p>DirectVideo Android is a replacement for the built in Unreal media player, optimized for performance. By directly rendering video to Unreal textures using Vulkan, it enables playback of high resolution and 360 degree video content without frame drops.</p><p><br /></p><p>The performance gains are sometimes ridiculous - for example on both Meta Quest 3 and a mid-range phone (Oppo Find X3 Neo 5G with Snapdragon 865), I can play 7680x3840x30fps video while maintaining full engine frame rate (72fps on Quest and 60fps on phone). Using the built in player, the game fps drops to under 14 fps and the entire game stutters; it is just not possible to play high resolution video using Unreal&#39;s default player.</p><p><br /></p><p>This is pretty much a drop-in replacement - just add the plugin, then make sure your media sources are set to use <strong>AndroidVulkanVideo </strong>as the player (or just disable the Unreal default Android Media Player plugin).</p><p><br /></p><p>Right now only local content is supported, either from assets or local storage. It <strong>might</strong> work with streaming video, but it is untested right now.</p><p><br /></p><p>This is priced at $99.99 as an introductory special. Similar plugins for Unity cost $200 plus, and as far as I am aware this is the only plugin for Unreal.</p><p><br /></p><p>Updates:</p><p>V1.1 - Support for encrypted video files embedded in .pak file.</p><p>V1.2 - Fixes to multiple video loading.</p><p>V1.3 - R10G10B10 format support for better colour rendering.</p><p>V1.4.1 - Fixes for videos without sound, more accurate looping, and rate setting for videos without sound.</p><p>V1.5 - Faster start / seeking / looping, support for pure audio file playback (without video), bugfixes.</p><p>V1.6 - Improved color space rendering to make video brightness consistent with Android default player.</p><p>V1.7 - Smoother seeking</p><p>V1.83 - Improved performance on Meta Quest 2, support for clear background when closed.</p><p>V1.84 - Fixed non-looped playback</p><p>V1.85 - Colour rendering altered to be more consistent with Unreal default mediaplayer.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "direct-video-android-beta",
+  "creationDate": "2024-06-27T09:20:14.614Z",
+  "lastModifiedDate": "2024-10-23T15:53:37.278Z",
+  "effectiveDate": "2024-06-27T09:33:46.021Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bwqhxns3l2qwq7buke3r3qbwc9bgb4",
+    "name": "JoeMarshall"
+  },
+  "linkedOfferId": null,
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Smooth, low-CPU use playback of high resolution video direct to video textures (4k, 8k, 360 degree)</li><li> Drop-in replacement for standard media player</li><li> Did I mention it is <strong>FAST</strong>, really <strong>FAST</strong></li></ul><p>Code Modules:</p><ul><li> <strong>AndroidVulkanVideo</strong> - the main video player code, runs on Android only.</li><li><strong> AndroidVulkanVideoFactory</strong> - this lets Unreal know about our media player, and lets you set it as player in the editor.</li></ul><p> </p><p>Number of C&#43;&#43; Classes: 1 public class, 10ish private</p><p>Supported Development Platforms: Windows, Linux , probably Mac, but I haven&#39;t tested yet</p><p>Supported Target Build Platforms: Android (with Vulkan enabled)</p><p>Documentation: <a href=\"https://joemarshall.github.io/directvideo/\" rel=\"nofollow\">https://joemarshall.github.io/directvideo/</a></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3259a389-1214-4312-a6aa-14fc8012ce7b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image1-1920x1080-ea08456546856657061cbaf127b16aa6.png",
+      "md5": "ea08456546856657061cbaf127b16aa6",
+      "size": 2120611,
+      "uploadedDate": "2024-05-29T07:43:03.510Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image2-1920x1080-0ce569668a867bf766fd2cb0466acea1.png",
+      "md5": "0ce569668a867bf766fd2cb0466acea1",
+      "size": 172360,
+      "uploadedDate": "2024-05-29T07:43:04.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DirectVideoAndroidBeta_thumb-284x284-b5d759389fcc6737078cd06edc0c1c95.png",
+      "md5": "b5d759389fcc6737078cd06edc0c1c95",
+      "size": 93993,
+      "uploadedDate": "2024-05-29T07:43:04.471Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DirectVideoAndroidBeta_featured-894x488-18ef2a8129a97d907894f45ce4b67620.png",
+      "md5": "18ef2a8129a97d907894f45ce4b67620",
+      "size": 380190,
+      "uploadedDate": "2024-05-29T07:43:04.597Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image1-1920x1080-ea08456546856657061cbaf127b16aa6_Snapshot.png",
+      "md5": "4713c7756886455b404fec863b1a64ca",
+      "size": 8489,
+      "uploadedDate": "2024-05-29T07:43:03.974Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image2-1920x1080-0ce569668a867bf766fd2cb0466acea1_Snapshot.png",
+      "md5": "852670f9d4b399661f9880caf3c99ac5",
+      "size": 3977,
+      "uploadedDate": "2024-05-29T07:43:04.428Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c608163b281443b9b92ad74502318eee"
+    }
+  ],
+  "catalogNs": null
+}

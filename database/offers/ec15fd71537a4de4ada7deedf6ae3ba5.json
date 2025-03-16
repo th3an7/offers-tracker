@@ -1,0 +1,323 @@
+{
+  "id": "ec15fd71537a4de4ada7deedf6ae3ba5",
+  "namespace": "ue",
+  "title": "Retro Rendering",
+  "description": "Function library for rendering meshes like it's the 90s.",
+  "longDescription": "<p><a href=\"https://youtu.be/uOihFuHO0tY\" rel=\"nofollow\"><strong>Trailer/Tutorial</strong></a></p><p><a href=\"https://drive.google.com/file/d/13pu4vhEY9M8cZ7OGWRciUKFUAvfq9Hna/view?usp&#61;sharing\" rel=\"nofollow\"><strong>Playable Demo</strong></a></p><p>Step into the nostalgia of the 90s gaming era with Retro Rendering, your ultimate function library designed to effortlessly render meshes in a classic, old-school style. Perfect for developers seeking to recreate the iconic look and feel of retro inventory systems and UI. Includes an example of 3D inventory rendering (right-click the editor utility widget to run it).</p><p>This plugin is not a replacement for <a href=\"https://www.unrealengine.com/marketplace/en-US/product/retro-graphics\" rel=\"nofollow\">Retro Graphics</a></p><p>For questions and support, please join the <a href=\"https://discord.com/invite/MVXtkeN\" rel=\"nofollow\">discord server</a>!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "retro-rendering",
+  "creationDate": "2024-02-12T01:01:56.973Z",
+  "lastModifiedDate": "2024-10-07T04:08:11.510Z",
+  "effectiveDate": "2024-02-12T02:18:04.785Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7qn56hupgkwae2fju8xmg5y33lkcp4",
+    "name": "Marcis"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Per-triangle depth sorting (no depth buffer)</li><li>Custom sort priority</li><li>Affine texture mapping</li><li>Alpha blending</li><li>Vertex snapping</li><li>Per-vertex directional lighting</li><li>Dithering</li><li>Near clip effect</li><li>Frustum culling</li><li>Backface culling (optionally render as two-sided)</li><li>Works with static and skeletal* meshes</li></ul><p>Code Modules:</p><ul><li> RetroRenderer, Runtime</li></ul><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: N/A</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Important/Additional Notes: *Skeletal mesh animations are not supported. This plugin isn&#39;t intended to be used with high-poly meshes.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d0b5fb85-81d5-408d-8d40-03f70f737d20"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01.PNG-1920x1080-d024e6d07cbffe9029ca90153d486a99.jpg",
+      "md5": "d024e6d07cbffe9029ca90153d486a99",
+      "size": 52802,
+      "uploadedDate": "2024-02-01T15:36:59.936Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03.PNG-1920x1080-fd00b0940efed483ae0c93d3e775b301.jpg",
+      "md5": "fd00b0940efed483ae0c93d3e775b301",
+      "size": 50778,
+      "uploadedDate": "2024-02-01T15:37:00.395Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04.PNG-1920x1080-84238dea9d1803ce1971954e39bf2547.jpg",
+      "md5": "84238dea9d1803ce1971954e39bf2547",
+      "size": 76444,
+      "uploadedDate": "2024-02-01T15:37:00.761Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05.PNG-1920x1080-fcabce1d5b36f1f2d1ea2cb10588ee4f.jpg",
+      "md5": "fcabce1d5b36f1f2d1ea2cb10588ee4f",
+      "size": 55051,
+      "uploadedDate": "2024-02-01T15:37:01.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06.PNG-1920x1080-7d29b7995fd35a7f85c30f945404a27c.jpg",
+      "md5": "7d29b7995fd35a7f85c30f945404a27c",
+      "size": 60202,
+      "uploadedDate": "2024-02-01T15:37:01.394Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-b884cb092f821d880761abd6760b07f6.png",
+      "md5": "b884cb092f821d880761abd6760b07f6",
+      "size": 326242,
+      "uploadedDate": "2024-02-01T15:37:01.861Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-4b882bbb4d509c29f04acc6023e233fa.png",
+      "md5": "4b882bbb4d509c29f04acc6023e233fa",
+      "size": 465166,
+      "uploadedDate": "2024-02-01T15:37:02.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RetroRendering_thumb-284x284-97d50b736b60de8d4d1bd6dea6997c6c.png",
+      "md5": "97d50b736b60de8d4d1bd6dea6997c6c",
+      "size": 20091,
+      "uploadedDate": "2024-02-02T17:29:11.666Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RetroRendering_featured-894x488-0a293e33dd3bab80f6717453c9a70806.png",
+      "md5": "0a293e33dd3bab80f6717453c9a70806",
+      "size": 190227,
+      "uploadedDate": "2024-02-06T23:30:09.903Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01.PNG-1920x1080-d024e6d07cbffe9029ca90153d486a99_Snapshot.jpg",
+      "md5": "73f99fb90cc669b2238c54c2dd1a4cf6",
+      "size": 2540,
+      "uploadedDate": "2024-02-01T15:37:00.240Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03.PNG-1920x1080-fd00b0940efed483ae0c93d3e775b301_Snapshot.jpg",
+      "md5": "b6171c199391af9b30e22cdb200b92fc",
+      "size": 2583,
+      "uploadedDate": "2024-02-01T15:37:00.647Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04.PNG-1920x1080-84238dea9d1803ce1971954e39bf2547_Snapshot.jpg",
+      "md5": "96383f1945e45556b3efc8ea9baacb42",
+      "size": 3135,
+      "uploadedDate": "2024-02-01T15:37:00.990Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05.PNG-1920x1080-fcabce1d5b36f1f2d1ea2cb10588ee4f_Snapshot.jpg",
+      "md5": "567aa44a943aac897084c3fcb4f1d435",
+      "size": 2260,
+      "uploadedDate": "2024-02-01T15:37:01.311Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06.PNG-1920x1080-7d29b7995fd35a7f85c30f945404a27c_Snapshot.jpg",
+      "md5": "a0bc0e71e0f497c4c7f8d5d7d8130893",
+      "size": 2261,
+      "uploadedDate": "2024-02-01T15:37:01.631Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-b884cb092f821d880761abd6760b07f6_Snapshot.png",
+      "md5": "e982fc7f3ac17759aeb947ae91664a83",
+      "size": 4852,
+      "uploadedDate": "2024-02-01T15:37:02.181Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-4b882bbb4d509c29f04acc6023e233fa_Snapshot.png",
+      "md5": "1301aae170ac7ad2065b5ac0d007c198",
+      "size": 5374,
+      "uploadedDate": "2024-02-01T15:37:02.594Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery-1920x1080-837d6a2089baeb4036f5da0bf2f14c22_Snapshot.png",
+      "md5": "58d70fa3e77dde8ce7172287c0a91628",
+      "size": 828,
+      "uploadedDate": "2024-02-01T15:35:45.389Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "66261ee3cb1e45da8a828b14f0afadda"
+    }
+  ],
+  "catalogNs": null
+}

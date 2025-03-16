@@ -1,0 +1,278 @@
+{
+  "id": "c6b0a3ce9c0b4009bdc5fdbaa470e412",
+  "namespace": "ue",
+  "title": "TMG Inventory & Shop System",
+  "description": "A inventory system for keeping track of item counts, dropping, buying & selling, and picking up items",
+  "longDescription": "<p>Demo Video:<a href=\"https://youtu.be/weqlUowj4jU?si&#61;Jt_8U9VzOO0MrMTx\" rel=\"nofollow\"> https://youtu.be/weqlUowj4jU?si&#61;Jt_8U9VzOO0MrMTx</a></p><p>Playable Demo: <a href=\"https://drive.google.com/file/d/1kliFv9vvTGN8xr1095CdLzlT6pIVzztZ/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1kliFv9vvTGN8xr1095CdLzlT6pIVzztZ/view?usp&#61;sharing</a></p><p>Introducing the TMG Inventory System, a comprehensive blueprint solution designed to streamline item management, facilitate transactions, and enhance gameplay dynamics within your Unreal Engine project.</p><p>Pickup items, drop them, easily create new items and shop triggers. Keep track of inventory item counts.</p><p>TMG Inventory System is a fully blueprint inventory system that uses pickups and &#34;SpendItem&#34; triggers to use as a shop or turn in for your game. Use &#34;ShopTrigger&#34; to place more complex UI shop triggers to buy &amp; sell items with adjustable parameters. Use &#34;LootChest&#34; triggers with adjustable parameters to place chest that can reward the player with money, items, or both.</p><p>Things you can use this for:</p><ul><li>Starting a RPG, Survival, Open-World, Strategy, Simulation, Action-Adventure, or MMORPG.</li><li>Collect items for quests or objectives.</li><li>Simple sell on trigger system with adjustable rewards. (Useful for collection based objectives)</li><li>Complex UI buy/sell items shop system with adjustable parameters.</li><li>Loot chest system with adjustable reward parameters</li><li>Gold, Silver, Copper money/currency system</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tmg-inventory-shop-system",
+  "creationDate": "2024-05-10T15:46:02.907Z",
+  "lastModifiedDate": "2024-10-01T22:20:15.300Z",
+  "effectiveDate": "2024-05-10T15:46:02.858Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ft6pes42r6l62fmhs2azydvzlf5mcf",
+    "name": "Tegridy Made Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Keep track of individual item counts</li><li>Displays last picked up item name</li><li>Simple shop triggers to sell specific items at a specific cost with adjustable rewards</li><li>UI shop triggers to buy &amp; sell items with adjustable parameters</li><li>Loot chest system with adjustable parameters</li><li>Drop &amp; pickup items</li><li>Quickly add new items to player inventory, ui shop, or loot chest</li><li>Keep track of money/currency using a GSC system</li><li>Main menu &amp; pause menu system</li></ul><p>Number of Blueprints: 35</p><p>Input: W,A,S,D, Space Bar, F, E, P</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows 64-bit</p><p>Windows: Yes</p><p>Mac: No</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1N0eqooJ-6yD1vvLm8-BPRXwBzN0WcmAdl0_PcH7ZpCc/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1N0eqooJ-6yD1vvLm8-BPRXwBzN0WcmAdl0_PcH7ZpCc/edit?usp&#61;sharing</a></p><p>Add Pickup Item Tutorial: <a href=\"https://www.youtube.com/watch?v&#61;Z3_oeLTGqP0\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;Z3_oeLTGqP0</a></p><p>Loot Chest/ UI Shop Tutorial: <a href=\"http://\" rel=\"nofollow\">https://youtu.be/9F1Dh5OO1vE?si&#61;9A5yR9a8vOfiaJB9</a></p><p>Spend Item Trigger Tutorial: <a href=\"https://youtu.be/0cE5jPsRF74?si&#61;iwqyp56tMWTVFYfm\" rel=\"nofollow\">https://youtu.be/0cE5jPsRF74?si&#61;iwqyp56tMWTVFYfm</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "42195b2f-706f-452f-86cf-abd129566b95"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shop ui system-1920x1080-f08a0b341f2932e8e86d77a047bb56cd.png",
+      "md5": "f08a0b341f2932e8e86d77a047bb56cd",
+      "size": 1395384,
+      "uploadedDate": "2024-05-06T18:39:36.778Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/loot chest-1920x1080-bcd1fe9c921f8b269d8a87bfcb364021.png",
+      "md5": "bcd1fe9c921f8b269d8a87bfcb364021",
+      "size": 1744529,
+      "uploadedDate": "2024-05-06T18:39:35.499Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/inventory system image 1-1920x1080-4a78c4edea4d623e475fe56840719f58.png",
+      "md5": "4a78c4edea4d623e475fe56840719f58",
+      "size": 1911191,
+      "uploadedDate": "2024-05-06T18:39:34.811Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/create new items image-1920x1080-0cfdb2d71e1f3c8b9ac3aa229ac17d14.png",
+      "md5": "0cfdb2d71e1f3c8b9ac3aa229ac17d14",
+      "size": 673018,
+      "uploadedDate": "2024-05-06T18:39:33.084Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/create new shop triggers-1920x1080-7c9c96d21ca5c40562020c3eaa82a786.png",
+      "md5": "7c9c96d21ca5c40562020c3eaa82a786",
+      "size": 944232,
+      "uploadedDate": "2024-05-06T18:39:33.579Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dropitem-1920x1080-71a0f982d4d6d72aca8875c85bdf1efe.png",
+      "md5": "71a0f982d4d6d72aca8875c85bdf1efe",
+      "size": 1577141,
+      "uploadedDate": "2024-05-06T18:39:34.112Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shop triggers image-1920x1080-8e74e39107633205a581aa875eade931.png",
+      "md5": "8e74e39107633205a581aa875eade931",
+      "size": 1256566,
+      "uploadedDate": "2024-05-06T18:39:36.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TMGInventoryShopSystem_thumb-284x284-e1b6b9c24d5c924594b2768a71cdcc2e.png",
+      "md5": "e1b6b9c24d5c924594b2768a71cdcc2e",
+      "size": 115711,
+      "uploadedDate": "2024-05-06T18:39:37.229Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TMGInventoryShopSystem_featured-894x488-1d0a4465213a20a7c3f8e5b722517e65.png",
+      "md5": "1d0a4465213a20a7c3f8e5b722517e65",
+      "size": 561721,
+      "uploadedDate": "2024-05-06T18:39:37.378Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/create new items image-1920x1080-0cfdb2d71e1f3c8b9ac3aa229ac17d14_Snapshot.png",
+      "md5": "cc60b1dadd1e7770e186414f0cacb93f",
+      "size": 6931,
+      "uploadedDate": "2024-05-06T18:39:33.381Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/create new shop triggers-1920x1080-7c9c96d21ca5c40562020c3eaa82a786_Snapshot.png",
+      "md5": "a36c6801c225ba27dadff6b8835abc76",
+      "size": 6779,
+      "uploadedDate": "2024-05-06T18:39:33.907Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dropitem-1920x1080-71a0f982d4d6d72aca8875c85bdf1efe_Snapshot.png",
+      "md5": "4dac159a344561c9865c5c4792969dfe",
+      "size": 6452,
+      "uploadedDate": "2024-05-06T18:39:34.503Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/inventory system image 1-1920x1080-4a78c4edea4d623e475fe56840719f58_Snapshot.png",
+      "md5": "6155953d3f3c70647e2df588cf2b2fc8",
+      "size": 7945,
+      "uploadedDate": "2024-05-06T18:39:35.269Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/loot chest-1920x1080-bcd1fe9c921f8b269d8a87bfcb364021_Snapshot.png",
+      "md5": "5a60201f941b54eec019625b4fa16868",
+      "size": 7196,
+      "uploadedDate": "2024-05-06T18:39:35.896Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shop triggers image-1920x1080-8e74e39107633205a581aa875eade931_Snapshot.png",
+      "md5": "70719418651d0920d6eacc9e9ff51c7e",
+      "size": 7307,
+      "uploadedDate": "2024-05-06T18:39:36.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shop ui system-1920x1080-f08a0b341f2932e8e86d77a047bb56cd_Snapshot.png",
+      "md5": "62f3dd576ec6fe620652772b051a78c2",
+      "size": 7266,
+      "uploadedDate": "2024-05-06T18:39:37.128Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3dbcaaa8ff6744fc820e8324ea6442b7"
+    }
+  ],
+  "catalogNs": null
+}

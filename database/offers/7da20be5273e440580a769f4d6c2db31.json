@@ -1,0 +1,278 @@
+{
+  "id": "7da20be5273e440580a769f4d6c2db31",
+  "namespace": "ue",
+  "title": "Weapon Impact FX",
+  "description": "An fx package for various types of weapon impacts. Includes 72 Materials and instances, 58 particle systems, and 79 hi-resolution Textures.",
+  "longDescription": "<p><strong>Video description for individual FX</strong>: <a href=\"https://youtu.be/IyvloQaVwmM\" rel=\"nofollow\">https://youtu.be/IyvloQaVwmM</a></p><p><strong>Video description for group FX</strong>: <a href=\"https://youtu.be/QMfv_x_YF0s\" rel=\"nofollow\">https://youtu.be/QMfv_x_YF0s</a></p><p><br /></p><p>This FX package features 10 surface categories with a total of 58 different types of weapon impact particle FX. Categories include: Blood, Concrete, Dirt, Explosive, Glass, Grass, Metal, Smoke, Water, and Wood. Each category features both directional and omni directional FX, with the directional particles aiming down the X axis.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "weapon-impact-fx",
+  "creationDate": "2018-10-02T16:33:18.985Z",
+  "lastModifiedDate": "2024-10-09T10:23:20.520Z",
+  "effectiveDate": "2018-10-02T16:33:18.948Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ab50393def4e60963b5ecb10fd2e16",
+    "name": "Ash"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Includes 58 directional and omni directional weapon impact effects</li><li>Effects include blood, concrete, dirt, explosive, glass, grass, metal, smoke, water, and wood type impacts</li><li>Various Material Instances allowing for quick customization of individual Materials and particle effects</li><li>Features 79 custom Textures, 58 individual particle systems, and 72 Materials</li></ul><p><strong>Type of Emitters</strong>: CPU, GPU, and mesh</p><p><strong>Number of Effects</strong>: 58</p><p><strong>Number of Textures</strong>: 79 at 2048x2048</p><p><strong>Number of Materials</strong>: 72</p><p><strong>Number of Blueprints</strong>: 0</p><p><strong>Number of Meshes</strong>: 15</p><p><strong>Supported Development Platforms</strong>: Tested on PC</p><p><strong>Supported Target Build Platforms</strong>: PC</p><p><strong>Documentation</strong>: None. However, it will be provided if necessary.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b2be2602-f478-43ec-af54-3903a3576231"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0159-1920x1080-c8dc57e166a687a03e783964db1dddd2.png",
+      "md5": "c8dc57e166a687a03e783964db1dddd2",
+      "size": 1582197,
+      "uploadedDate": "2018-09-15T05:09:56.903Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0008-1920x1080-ca7adc0d51d7637f2d4dfacd0e553848.png",
+      "md5": "ca7adc0d51d7637f2d4dfacd0e553848",
+      "size": 2028177,
+      "uploadedDate": "2018-09-15T05:09:57.691Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0541-1920x1080-7947ba47a42d62cbf8f5fa58ec55f1e9.png",
+      "md5": "7947ba47a42d62cbf8f5fa58ec55f1e9",
+      "size": 1772323,
+      "uploadedDate": "2018-09-15T05:09:58.408Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0079-1920x1080-3754b321ef7f3d811ce1b1338810a3d0.png",
+      "md5": "3754b321ef7f3d811ce1b1338810a3d0",
+      "size": 1468076,
+      "uploadedDate": "2018-09-15T05:09:59.085Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0187-1920x1080-fbcf558c2f1ce70eb5e4e52847ebc8a3.png",
+      "md5": "fbcf558c2f1ce70eb5e4e52847ebc8a3",
+      "size": 1438391,
+      "uploadedDate": "2018-09-15T05:09:59.808Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0427-1920x1080-ebe8d789769192d557030860a8bd5457.png",
+      "md5": "ebe8d789769192d557030860a8bd5457",
+      "size": 1413397,
+      "uploadedDate": "2018-09-15T05:10:00.483Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0662-1920x1080-6961263fe2f8fa9255666c972bcdfcf8.png",
+      "md5": "6961263fe2f8fa9255666c972bcdfcf8",
+      "size": 1289320,
+      "uploadedDate": "2018-09-15T05:10:01.091Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0668-1920x1080-860c6871e5cfbe4fd9f384178f880493.png",
+      "md5": "860c6871e5cfbe4fd9f384178f880493",
+      "size": 1489493,
+      "uploadedDate": "2018-09-15T05:10:01.712Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Recording.0757-1920x1080-1bbbe7a8af3d134d005d0080668fda3d.png",
+      "md5": "1bbbe7a8af3d134d005d0080668fda3d",
+      "size": 1356166,
+      "uploadedDate": "2018-09-15T05:10:02.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WeaponImpactFX_thumb-284x284-1d2ad98244e1680d12f3b5678bc20ce8.png",
+      "md5": "1d2ad98244e1680d12f3b5678bc20ce8",
+      "size": 114174,
+      "uploadedDate": "2018-09-15T05:10:02.743Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WeaponImpactFX_featured-894x488-6efac64647016d76df4a03bdda059b65.png",
+      "md5": "6efac64647016d76df4a03bdda059b65",
+      "size": 354089,
+      "uploadedDate": "2018-09-15T05:10:02.849Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0159-1920x1080-c8dc57e166a687a03e783964db1dddd2_Snapshot.png",
+      "md5": "529870b2573e6556ecddbf00c252cca1",
+      "size": 18276,
+      "uploadedDate": "2018-09-15T05:09:57.402Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0008-1920x1080-ca7adc0d51d7637f2d4dfacd0e553848_Snapshot.png",
+      "md5": "8fae7dd5b8ae509a0a0d69e62140264a",
+      "size": 28540,
+      "uploadedDate": "2018-09-15T05:09:58.125Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0541-1920x1080-7947ba47a42d62cbf8f5fa58ec55f1e9_Snapshot.png",
+      "md5": "0348fbcf33571b4902d4e324d90441be",
+      "size": 23936,
+      "uploadedDate": "2018-09-15T05:09:58.823Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0079-1920x1080-3754b321ef7f3d811ce1b1338810a3d0_Snapshot.png",
+      "md5": "48cbf84baa0e60dafeab7e265bff561d",
+      "size": 17486,
+      "uploadedDate": "2018-09-15T05:09:59.558Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0187-1920x1080-fbcf558c2f1ce70eb5e4e52847ebc8a3_Snapshot.png",
+      "md5": "bcb77b893f30a2679d0bc7a11ae4bdea",
+      "size": 19319,
+      "uploadedDate": "2018-09-15T05:10:00.207Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0427-1920x1080-ebe8d789769192d557030860a8bd5457_Snapshot.png",
+      "md5": "795481dbaf840a1f94be936873235d9d",
+      "size": 19927,
+      "uploadedDate": "2018-09-15T05:10:00.856Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0662-1920x1080-6961263fe2f8fa9255666c972bcdfcf8_Snapshot.png",
+      "md5": "4c6681e0615e44300088411f464a9e24",
+      "size": 17174,
+      "uploadedDate": "2018-09-15T05:10:01.444Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0668-1920x1080-860c6871e5cfbe4fd9f384178f880493_Snapshot.png",
+      "md5": "0d640f89aab87a2592b91dd7834ce5ed",
+      "size": 19318,
+      "uploadedDate": "2018-09-15T05:10:02.112Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Recording.0757-1920x1080-1bbbe7a8af3d134d005d0080668fda3d_Snapshot.png",
+      "md5": "2329bcbc90dffb8e29a487aecc626b72",
+      "size": 18272,
+      "uploadedDate": "2018-09-15T05:10:02.686Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2480ece1f24c4c2eac5f6cb1eef4034c"
+    }
+  ],
+  "catalogNs": null
+}

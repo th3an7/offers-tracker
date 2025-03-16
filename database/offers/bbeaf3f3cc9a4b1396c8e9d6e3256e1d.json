@@ -1,0 +1,254 @@
+{
+  "id": "bbeaf3f3cc9a4b1396c8e9d6e3256e1d",
+  "namespace": "ue",
+  "title": "Solus Combo System",
+  "description": "A plugin for easy creation of complex attack combos.",
+  "longDescription": "<p>Solus Combo System is a plugin for Unreal Engine that allows setting up a combo system for attacks in a simple way. It is made in C&#43;&#43; but it is designed to be used with Blueprints, allowing anyone with or without coding skills to easily create a combo system for fighting or action games.</p><p><br /></p><p>Showcase Video: <a href=\"https://youtu.be/bx3gQFnuhrg\" rel=\"nofollow\">https://youtu.be/bx3gQFnuhrg</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1XfHwpIJgtUoQRbIw1zCW_nVxMVl48Wtw/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1XfHwpIJgtUoQRbIw1zCW_nVxMVl48Wtw/view?usp&#61;sharing</a> (Requires the <a href=\"https://www.unrealengine.com/marketplace/en-US/product/paragon-khaimera\" rel=\"nofollow\">Khaimera</a> character).</p><p><br /></p><p>This plugin works perfectly for action games with lots of different possible attack combinations, create your next fighting game and easily configure multiple combos using the graph editor.</p><p><br /></p><p>The system handles melee collision detection using Unreal&#39;s physics system with the shape you want (box, sphere or capsule), it also performs a sweep per frame during an attack&#39;s execution for better accuracy.</p><p><br /></p><p>Solus Combo System uses Unreal&#39;s Animation Montage system to setup attack animations using Animation Notifies.</p><p><br /></p><p><strong>NOTE: this is not a template and it does not include animations, it requires basic blueprint knowledge to use it, check the example project and the documentation for details on how to use the plugin.</strong></p><p><br /></p><p><strong>This system only supports melee combat, it does not support ranged attacks.</strong></p><p><br /></p><p>An example game showcasing some of the plugin&#39;s features can be found <a href=\"https://drive.google.com/file/d/1PMf7eptRWRBbMC-pA6T3X4p6DOYupQQB/view?usp&#61;sharing\" rel=\"nofollow\">here</a>.</p><p><br /></p><p>Questions? Feel free to contact me via email or join the <a href=\"https://discord.gg/KcsB82zYQz\" rel=\"nofollow\">Discord</a> server!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "solus-combo-system",
+  "creationDate": "2022-08-01T15:23:21.920Z",
+  "lastModifiedDate": "2024-10-03T01:31:19.869Z",
+  "effectiveDate": "2022-08-01T15:27:28.707Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-eb3t6fq83avtkzh9hvqb43cwmavk8j",
+    "name": "EnricoBC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Melee collision detection using sweep for every frame during attacks.</li><li> Graph editor to create re-usable combo configurations.</li><li> Weapon equipment to user-defined bones and sockets.</li><li>Easy global configuration setup.</li><li>Made in C&#43;&#43; for better performance.</li><li>Simple physics shape selection for weapon collisions.</li><li>Configurable trace channels for collisions.</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> SolusComboSystem [Runtime]</li><li> SolusComboSystemBlueprint [UncookedOnly]</li><li> SolusComboSystemEditor [Editor]</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 38</p><p>Network Replicated: (Yes/No): Yes</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64, Linux</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1IpvW3yiiyL53wsXB1onnfYj3T9WE2yc3thHS4mGQyR0\" rel=\"nofollow\">https://docs.google.com/document/d/1IpvW3yiiyL53wsXB1onnfYj3T9WE2yc3thHS4mGQyR0</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "61fab222-118f-4dec-a562-ce310ab705be"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-text-1920x1080-75cf7f327432af1badd1771ef57de6c9.png",
+      "md5": "75cf7f327432af1badd1771ef57de6c9",
+      "size": 168058,
+      "uploadedDate": "2022-08-01T00:12:21.224Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-text-1920x1080-6a7dc7b6236e1a4aba1e55039361a44f.png",
+      "md5": "6a7dc7b6236e1a4aba1e55039361a44f",
+      "size": 610679,
+      "uploadedDate": "2022-08-01T00:12:21.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-text-1920x1080-df631f03d40c991523ee02800f422c41.png",
+      "md5": "df631f03d40c991523ee02800f422c41",
+      "size": 1021700,
+      "uploadedDate": "2022-08-01T00:12:22.231Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-991035be357133519a8166462f44a947.png",
+      "md5": "991035be357133519a8166462f44a947",
+      "size": 2178722,
+      "uploadedDate": "2022-08-01T00:12:23.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-4e789bb95e9c21f0abd7edf82ff998d3.png",
+      "md5": "4e789bb95e9c21f0abd7edf82ff998d3",
+      "size": 2389615,
+      "uploadedDate": "2022-08-01T00:12:23.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SolusComboSystem_thumb-284x284-0deb42873e77fee05be61406afaf955d.png",
+      "md5": "0deb42873e77fee05be61406afaf955d",
+      "size": 12294,
+      "uploadedDate": "2022-08-01T00:12:24.198Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SolusComboSystem_featured-894x488-c3650baedbe8b252dc4762bf10f98463.png",
+      "md5": "c3650baedbe8b252dc4762bf10f98463",
+      "size": 509394,
+      "uploadedDate": "2022-08-01T00:12:24.281Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-text-1920x1080-75cf7f327432af1badd1771ef57de6c9_Snapshot.png",
+      "md5": "5f3647f51582b0d1a5bef7c9d68e7a59",
+      "size": 4385,
+      "uploadedDate": "2022-08-01T00:12:21.507Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-text-1920x1080-6a7dc7b6236e1a4aba1e55039361a44f_Snapshot.png",
+      "md5": "dfea7a85338a91d6f939ca33a9fb558d",
+      "size": 4492,
+      "uploadedDate": "2022-08-01T00:12:22.006Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-text-1920x1080-df631f03d40c991523ee02800f422c41_Snapshot.png",
+      "md5": "32dd197b860162b5317f1a3ba3eb2a36",
+      "size": 6457,
+      "uploadedDate": "2022-08-01T00:12:22.559Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-991035be357133519a8166462f44a947_Snapshot.png",
+      "md5": "369b351a88ef7877e9937c92523087b9",
+      "size": 5058,
+      "uploadedDate": "2022-08-01T00:12:23.499Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-4e789bb95e9c21f0abd7edf82ff998d3_Snapshot.png",
+      "md5": "a02c817caf31e3b44b6a1302f709d7b0",
+      "size": 5218,
+      "uploadedDate": "2022-08-01T00:12:24.136Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7a933bd354674b9bb753115dde0dd0d5"
+    }
+  ],
+  "catalogNs": null
+}

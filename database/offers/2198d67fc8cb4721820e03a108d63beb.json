@@ -1,0 +1,128 @@
+{
+  "id": "2198d67fc8cb4721820e03a108d63beb",
+  "namespace": "ue",
+  "title": "FACEGOOD FgLiveLinkReceiver",
+  "description": "This plugin is used to receive data from FaceGood Android LiveDrive application",
+  "longDescription": "<p>This plugin is used to receive data from Android FaceGood LiveDrive. All UDP data is with the protocol below.</p><p> # JSON </p><p>{<!-- --></p><p>&#34;FACEGOOD&#34;:{ #subjectName</p><p>  &#34;FrameId&#34;: 1, #frame id , option</p><p>  &#34;Properties&#34;:[</p><p>    {&#34;Name&#34;: &#34;A&#34;, &#34;Value&#34;:0.0}, # item name and it&#39;s value</p><p>    {&#34;Name&#34;: &#34;B&#34;, &#34;Value&#34;:0.0}</p><p>    ],</p><p>  &#34;Joints&#34;:{<!-- --></p><p>  &#34;Names&#34;:[&#34;JA&#34;, &#34;JB&#34;],</p><p>  &#34;ParentIdx&#34;:[0,0],</p><p>  &#34;Transforms&#34;:[[0,0,0,0,0,0],[0,0,0,0,0,0]]</p><p>  }</p><p>  }</p><p>}</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "facegood-fglivelinkreceiver",
+  "creationDate": "2024-03-29T13:15:39.263Z",
+  "lastModifiedDate": "2024-10-15T05:39:05.799Z",
+  "effectiveDate": "2024-03-29T13:15:39.223Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bk8svg68u4zk5n6x7hafl3vmca3mfb",
+    "name": "FaceGood"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> C&#43;&#43; Plugin stream data from FACEGOOD LiveDrive to UE5.3</li></ul><p>Number of C&#43;&#43; Classes:5</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: https://avatary.yuque.com/org-wiki-avatary-uhm530/bwxeel/gknmsxa49kd10g9m</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cba0da1c-b015-4699-aa07-204c39a2b278"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/main-1920x1080-c4d1eb0142b659bbdbbff9b13af73ee0.png",
+      "md5": "c4d1eb0142b659bbdbbff9b13af73ee0",
+      "size": 1482309,
+      "uploadedDate": "2024-03-25T09:40:13.337Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/blueprintnode-1920x1080-9db490e74b6635231993c72bb81e07fd.png",
+      "md5": "9db490e74b6635231993c72bb81e07fd",
+      "size": 930101,
+      "uploadedDate": "2024-03-25T09:40:13.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FACEGOODFgLiveLinkReceiver_thumb-284x284-41e905355a7c81115035c0c35fb814dd.png",
+      "md5": "41e905355a7c81115035c0c35fb814dd",
+      "size": 24231,
+      "uploadedDate": "2024-03-25T09:40:14.100Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FACEGOODFgLiveLinkReceiver_featured-894x488-6ff9ce8a39c7c1b7832e5ea990da7555.png",
+      "md5": "6ff9ce8a39c7c1b7832e5ea990da7555",
+      "size": 294109,
+      "uploadedDate": "2024-03-25T09:40:14.201Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/main-1920x1080-c4d1eb0142b659bbdbbff9b13af73ee0_Snapshot.png",
+      "md5": "8d0cec848d1a7505985adf4bd01888c3",
+      "size": 5678,
+      "uploadedDate": "2024-03-25T09:40:13.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/blueprintnode-1920x1080-9db490e74b6635231993c72bb81e07fd_Snapshot.png",
+      "md5": "3b4f6537ca9fbf261e0f8914574226ed",
+      "size": 4626,
+      "uploadedDate": "2024-03-25T09:40:14.033Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8374a3e5bad94bb1ae8356ddfb0adfef"
+    }
+  ],
+  "catalogNs": null
+}

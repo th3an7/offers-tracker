@@ -1,0 +1,197 @@
+{
+  "id": "e5b560da7104422696818d5def4c67f9",
+  "namespace": "ue",
+  "title": "Spatial Audio Utilities",
+  "description": "The Spatial Audio Utilities Blueprints allows you to easily create spatialized audio ambiences and one-shots to bring movement and life to your audio.",
+  "longDescription": "<p>The Ambienator Blueprint actor can help you easily create immersive audio ambiences. Add your sounds to one of the slots provided and they will be automatically randomized and moved around the player in stereo &amp; surround, or with binaural panning for headphone / VR use.</p><p>The Vectorator Blueprint enables a variety of spatial movement types for your one-shot sound effects.</p><p> </p><p><strong>Ambienator</strong></p><ul><li>Area Loops: For the core backdrop to your audio environment.</li><li>Moving Loops: Produce looping sounds that circle or randomly move around the player.</li><li>Player Oriented One-Shot Sounds: Randomly fire off your sounds within a randomized distance from the player.</li><li>Circle One-shot Sounds: Circle the player every time they are randomly triggered.</li><li>Sweep One-Shots: Sweep past the player’s head at randomly timed intervals.</li><li>Random One-Shots: Move randomly through 3D space at randomized times.</li></ul><p> </p><p>The whole system uses a global time frame to determine the frequency of your sounds playback. You can update this dynamically to change the density of sound events based on changes in the game.</p><p><strong> </strong></p><p><strong>Vectorator</strong></p><p>This actor allows you to easily add spatial movement to your one shot triggered sound effects. They can orientate around the player or come from a specific source. The Vectorator has all of the same spatial movement options as the Ambienator, available through a simple drop down menu. It also has the additional functionality of being able to define at what point in a sound it should pass the player (useful for airplane sweep pasts for example), or you can construct groups of sounds that chain together start, movement, and end sounds (for mortars, bullet flybys etc).</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "spatial-audio-utilities",
+  "creationDate": "2017-10-12T11:29:52.868Z",
+  "lastModifiedDate": "2024-10-10T22:01:41.836Z",
+  "effectiveDate": "2017-10-12T11:29:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-c63ffcbc3d466daaabf8dfd05df31c",
+    "name": "RnD Enterprises"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Number of Blueprints</strong>: The Spatial Audio Utilities pack comprises two Blueprint actors, the Ambienator, and the Vectorator.</p><p><strong>Supported Development Platforms</strong>: Windows / Mac</p><p><strong>Supported Target Build Platforms</strong>: Windows / Mac</p><p><strong>Documentation</strong>: Download a guide to using the Spatial Audio Utilities here: <a href=\"http://www.gameaudioimplementation.com/extras.php\" rel=\"nofollow\">http://www.gameaudioimplementation.com/extras.php</a></p><p><strong>Demonstration/Preview</strong>: A demonstration level is included which illustrates some of the possibilities of the Ambienator and Vectorator utilities along with a 24 page tutorial booklet. </p><p><strong>Preview Video</strong>: <a href=\"https://youtu.be/KV_rTX3vBHM\" rel=\"nofollow\">https://youtu.be/KV_rTX3vBHM</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6f66a151-1e56-4d14-932e-b81cff44f829"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_07-1920x1080-2fbda9cbb9923c2ddcdf12904ac43bff.png",
+      "md5": "2fbda9cbb9923c2ddcdf12904ac43bff",
+      "size": 332359,
+      "uploadedDate": "2017-10-11T11:11:35.156Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_01-1920x1080-ebcf25b6e66b88d7b354c92e92375116.png",
+      "md5": "ebcf25b6e66b88d7b354c92e92375116",
+      "size": 760316,
+      "uploadedDate": "2017-10-11T11:11:35.350Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_02-1920x1080-fc2d7e601c83ecd5688275e00b355378.png",
+      "md5": "fc2d7e601c83ecd5688275e00b355378",
+      "size": 205881,
+      "uploadedDate": "2017-10-11T11:11:35.523Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_03-1920x1080-2b41b77bf173764c1a5e326518331f97.png",
+      "md5": "2b41b77bf173764c1a5e326518331f97",
+      "size": 380607,
+      "uploadedDate": "2017-10-11T11:11:35.684Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_04-1920x1080-06bc344fb834c8782632ac97c457624b.png",
+      "md5": "06bc344fb834c8782632ac97c457624b",
+      "size": 653657,
+      "uploadedDate": "2017-10-11T11:11:35.860Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_05-1920x1080-555a318f20151fa2893b4197aa3efd2b.png",
+      "md5": "555a318f20151fa2893b4197aa3efd2b",
+      "size": 671281,
+      "uploadedDate": "2017-10-11T11:11:36.064Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_06-1920x1080-6c476c11e6dc69712c20763bd862a458.png",
+      "md5": "6c476c11e6dc69712c20763bd862a458",
+      "size": 694473,
+      "uploadedDate": "2017-10-11T11:11:36.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_08-1920x1080-23cbf39c2bb57c3ef30f542ef8370e8a.png",
+      "md5": "23cbf39c2bb57c3ef30f542ef8370e8a",
+      "size": 993463,
+      "uploadedDate": "2017-10-11T11:11:36.468Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpatialAudioUtils_Screenshot_09-1920x1080-32d4231cd0fc634cc239d5b5e9dae29a.png",
+      "md5": "32d4231cd0fc634cc239d5b5e9dae29a",
+      "size": 784932,
+      "uploadedDate": "2017-10-11T11:11:36.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SpatialAudioUtilitiesResubmissionforRelease_thumb-284x284-cf27779295dd88b703c64568b01cf452.png",
+      "md5": "cf27779295dd88b703c64568b01cf452",
+      "size": 129268,
+      "uploadedDate": "2017-10-11T11:11:36.751Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SpatialAudioUtilitiesResubmissionforRelease_featured-894x488-fb238e38d5cb1309ac16beff369bd321.png",
+      "md5": "fb238e38d5cb1309ac16beff369bd321",
+      "size": 403549,
+      "uploadedDate": "2017-10-11T11:11:36.949Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "5dd1942a6fc3418f9e605ad4c2aeac01"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,296 @@
+{
+  "id": "0e248774fd1c440c818f73dfa34a0764",
+  "namespace": "ue",
+  "title": "Nulled Fluid",
+  "description": "Texture-Based water simulation rendering",
+  "longDescription": "<p>This plugin offers a high-performance runtime water simulation in the player context.</p><p>Easily implemented using the material function provided by the plugin.</p><p>Due to using the RHI directly and the possible usage of Geometry Shaders if the platform supports it, having a low impact on the Game Thread, Render Thread and GPU, avoiding the Render Thread expensive UKismetRenderingLibrary::DrawMaterialToRenderTarget function.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nulled-fluid",
+  "creationDate": "2023-08-21T15:47:02.721Z",
+  "lastModifiedDate": "2024-10-15T13:27:53.311Z",
+  "effectiveDate": "2023-08-21T17:46:23.987Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-d3cxcu5vwl2avkk9x6hpuctc4q8xlk",
+    "name": "NulledRendering"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>High-Performance runtime texture-based water simulation</li><li>Custom shader rendering (using geometry shaders if supported by the platform)</li><li>Water interactible component variable tick rate implementation</li><li>Generated texture sample support</li><li>Blueprint support</li></ul><p><br /></p><p>Code Modules:</p><ul><li>[Runtime] NulledFluid</li><li>[Runtime] NulledFluidRender</li><li>[Editor] NulledFluidEditor</li></ul><p><br /></p><p>Upcoming features:</p><ul><li>Splitscreen support</li><li>Bicubic texture sampling material function</li><li>Per area fluidity</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of Blueprintable Classes: 1</p><p>Number of C&#43;&#43; Classes: 21</p><p><br /></p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p><br /></p><p>Links:</p><ul><li>Documentation: <a href=\"https://drive.google.com/file/d/1bbZG6oXAfvGyrof47h67hnz-XWNoSl0y/view?usp&#61;sharing\" rel=\"nofollow\">Here</a></li><li>Plugin Setup Video: <a href=\"https://youtu.be/LNBecv6U0ys\" rel=\"nofollow\">Here</a></li><li>Example Project (Plugin not Included): <a href=\"https://drive.google.com/file/d/1DVqiblet8lW-d6VeAAzRA79tYOMxCN_D/view?usp&#61;sharing\" rel=\"nofollow\">Here</a></li><li>Example Project Executable: <a href=\"https://drive.google.com/file/d/1j5E28NP6wQMZ6GmDlqVozO2djQpXUCXg/view?usp&#61;sharing\" rel=\"nofollow\">Here</a></li></ul><p><br /></p><p><br /></p><p>Important/Additional Notes: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "57edaa8e-8d6c-4df2-a575-a86f2dde4348"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/nulledfluidmain-1920x1080-12fa77c7b400ce68742a25a4dfc01ab3.jpg",
+      "md5": "12fa77c7b400ce68742a25a4dfc01ab3",
+      "size": 526108,
+      "uploadedDate": "2023-08-17T21:33:53.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/nulledfluid-1920x1080-7c31ea64289ed0352ab72058324fe1b1.jpg",
+      "md5": "7c31ea64289ed0352ab72058324fe1b1",
+      "size": 1048496,
+      "uploadedDate": "2023-08-17T21:33:54.114Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NulledFluid_thumb-284x284-f17bec167cca46b70462f10f4a683114.png",
+      "md5": "f17bec167cca46b70462f10f4a683114",
+      "size": 79938,
+      "uploadedDate": "2023-08-17T21:33:54.621Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NulledFluid_featured-894x488-7c113a8411d12c11fda1ae7e0732e5e1.png",
+      "md5": "7c113a8411d12c11fda1ae7e0732e5e1",
+      "size": 297188,
+      "uploadedDate": "2023-08-17T21:33:54.742Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/nulledfluidmain-1920x1080-12fa77c7b400ce68742a25a4dfc01ab3_Snapshot.jpg",
+      "md5": "162114e62502bddb389e6048272d45c5",
+      "size": 4150,
+      "uploadedDate": "2023-08-17T21:33:53.955Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/nulledfluid-1920x1080-7c31ea64289ed0352ab72058324fe1b1_Snapshot.jpg",
+      "md5": "3fae060bb2a4fa0a8015510691c4d5ff",
+      "size": 4280,
+      "uploadedDate": "2023-08-17T21:33:54.500Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e89c492b712d41a7a4a658f385af0153"
+    }
+  ],
+  "catalogNs": null
+}

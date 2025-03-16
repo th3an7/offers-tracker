@@ -1,0 +1,137 @@
+{
+  "id": "bf2b6aafdc3c41b4bbcc3f74a73fe8eb",
+  "namespace": "ue",
+  "title": "Skills Tree System",
+  "description": "Skills Tree System offers an easy way to integrate a Skills Tree in your game without coding.",
+  "longDescription": "Preview: <a href=\"https://www.youtube.com/watch?v&#61;1Y0rchr_-S4\" rel=\"nofollow\">youtube.com/watch?v&#61;1Y0rchr_-S4</a><br /><br />The Skills Tree plugin offers the following features:<br />-A base Skill class that can modified through Blueprints<br />-Skill stats for every skill<br />-Level stats table for every skill level<br />-Four different skill categories (Instant, casting, passive and passive looping skills)<br />-Various properties like skill categories (up to 256 different categories supported!), name and description<br />-Dedicated functions intended for BP overriding (Execute Skill and Casting Finished)<br />-A Skill Unlock Component (attached to every Skill), responsible for unlocking every skill based on your criteria<br />-A Skills Tree Component that manages all of the above<br />-Save and Load functionality that stores the state of your progress.<br />-A custom warning system that notifies you when something went wrong while prompting you with a possible fix.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "skills-tree-system",
+  "creationDate": "2017-03-28T20:35:23.074Z",
+  "lastModifiedDate": "2024-10-15T05:58:24.963Z",
+  "effectiveDate": "2017-05-25T00:00:00.000Z",
+  "viewableDate": "2017-05-25T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ee95ab43d640cbb2de2f616eb03661",
+    "name": "Orfeas Eleftheriou"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "• A base Skill class that can be modified through Blueprints<br />• Skill stats for every skill<br />• Level stats table for every skill level<br />• Four different skill categories<br />           o Instant Skill<br />           o Casting Skill<br />           o Passive Skill<br />           o Passive looping Skill<br /><br />• Various properties like skill categories (up to 256 different categories supported!), name and description<br />• A Skill Unlock Component (attached to every Skill), responsible for the unlock functionality for every skill<br />           o Inside this component you can add stuff like Required skills that need to be learned in order to learn the current Skill or Number of Required Skills in a specific category<br /><br />• A Skills Tree Component that manages all of the above<br />• Save and Load functionality that stores the state of everything that the Skills Tree Component needs to know<br /><br />Network Replicated: No<br />Supported Development Platforms: Windows (Should work in any platform that UE4 supports)<br />Supported Target Build Platforms: Windows (Should work in any platform that UE4 supports)<br /><br />Documentation: <a href=\"http://orfeasel.com/skills-tree-plugin-documentation/\" rel=\"nofollow\">orfeasel.com/skills-tree-plugin-documentation</a>. <br /><br />The entire C&#43;&#43; source code is commented and included so you can modify the plugin to suit your needs.<br /><br />In case you want to add a sample action bar and cast bar, check out <a href=\"https://github.com/orfeasel/Skills-Tree-UE4-Plugin-Docs\" rel=\"nofollow\">my GitHub repository</a> to find these Blueprint Widgets ready.",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7d8678bc-3f4a-4517-9048-a4de54f83ed9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SkillsTreeSystem_screenshot_1-1920x1080-771a2b28c6cd8ad53efa01dc011dc24a.png",
+      "md5": "771a2b28c6cd8ad53efa01dc011dc24a",
+      "size": 813257,
+      "uploadedDate": "2017-03-28T20:33:26.269Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SkillsTreeSystem_screenshot_2-1920x1080-87db23688025e0f8194d23d77643d977.png",
+      "md5": "87db23688025e0f8194d23d77643d977",
+      "size": 563571,
+      "uploadedDate": "2017-03-28T20:33:24.452Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SkillsTreeSystem_screenshot_3-1920x1080-24b74b9b8eb02f4d1cb0d4ea17138867.png",
+      "md5": "24b74b9b8eb02f4d1cb0d4ea17138867",
+      "size": 518183,
+      "uploadedDate": "2017-03-28T20:33:21.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SkillsTreeSystem_screenshot_4-1920x1080-217ee355d0351343ce64a4991cf52046.png",
+      "md5": "217ee355d0351343ce64a4991cf52046",
+      "size": 784658,
+      "uploadedDate": "2017-03-28T20:33:19.131Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SkillsTreeSystem_screenshot_5-1920x1080-f42c1e1b9165d36ca320beb324241c42.png",
+      "md5": "f42c1e1b9165d36ca320beb324241c42",
+      "size": 411063,
+      "uploadedDate": "2017-03-28T20:33:17.490Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/SkillsTreeSystem_Thumb-284x284-bf50308b7d7f61095ff036158c08a6c9.png",
+      "md5": "bf50308b7d7f61095ff036158c08a6c9",
+      "size": 23840,
+      "uploadedDate": "2017-03-28T20:33:15.335Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/SkillsTreeSystem_Featured-894x488-f7a11f150d1d8025bed75390e6df47b5.png",
+      "md5": "f7a11f150d1d8025bed75390e6df47b5",
+      "size": 39755,
+      "uploadedDate": "2017-03-28T20:33:27.854Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "126e1fcc59274edf9a51d0c5c54f5b1c"
+    }
+  ],
+  "catalogNs": null
+}

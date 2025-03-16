@@ -1,0 +1,212 @@
+{
+  "id": "9c781e3f85d84dfa8c2c31a3a9620311",
+  "namespace": "ue",
+  "title": "Live Link Augmenta",
+  "description": "Augmenta is a tracking technology to easily bring interactivity to any project. This plugin allows to receive and parse Augmenta data in Unreal through Live Link.",
+  "longDescription": "<p>Use this plugin to receive and parse an Augmenta data stream in Unreal through Live Link.</p><p><br /></p><p><a href=\"https://augmenta.tech/\" rel=\"nofollow\">Website </a>| <a href=\"https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta-Demo\" rel=\"nofollow\">Documentation </a>| <a href=\"https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta\" rel=\"nofollow\">Github</a> | <a href=\"https://github.com/Augmenta-tech/Augmenta/wiki\" rel=\"nofollow\">Wiki</a> | <a href=\"https://discord.com/invite/ErWESYXR9x\" rel=\"nofollow\">Discord</a></p><p><br /></p><p>If you do not own an Augmenta node, you can simulate Augmenta data using the <a href=\"https://github.com/Theoriz/Augmenta-Simulator/releases\" rel=\"nofollow\">Augmenta Simulator</a>.</p><p><br /></p><p>An example project using this library with detailed setup information can be found <a href=\"https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta-Demo\" rel=\"nofollow\">here</a>.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "live-link-augmenta",
+  "creationDate": "2023-02-28T08:48:53.895Z",
+  "lastModifiedDate": "2024-10-15T04:02:02.606Z",
+  "effectiveDate": "2023-02-28T08:48:53.856Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kvvsb7jntspbmm89ekuqk3hauksbb3",
+    "name": "Augmenta"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Exposes Augmenta scene, video output and objects as Live Link subjects with the transform role</li><li>Exposes Augmenta events to C&#43;&#43; or blueprint via the Augmenta Manager</li><li>Exposes Augmenta events to nDisplay cluster through cluster events</li></ul><p><br /></p><p>Code Modules:</p><ul><li> LiveLinkAugmenta (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 7</p><p>Number of C&#43;&#43; Classes: 8</p><p>Network Replicated: No</p><p><br /></p><p>Supported Development Platforms: Win64, Linux</p><p>Supported Target Build Platforms: Win64, Linux</p><p><br /></p><p>Documentation: <a href=\"https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta-Demo\" rel=\"nofollow\">https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta-Demo</a></p><p><br /></p><p>Example Project: <a href=\"https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta-Demo\" rel=\"nofollow\">https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta-Demo</a></p><p><br /></p><p>Additional Notes: If have any issues, you can <a href=\"https://github.com/Augmenta-tech/UnrealLiveLinkAugmenta/issues\" rel=\"nofollow\">open an issue</a> on the project’s Github page. If you still have questions, feel free to ask them in <a href=\"https://discord.com/invite/ErWESYXR9x\" rel=\"nofollow\">our Discord</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3fa62ab2-5ff3-4bcb-800c-87266ae54bc6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Banniere1080p-1920x1080-6780294a4f5e039872a08b35ea0fd2f3.jpg",
+      "md5": "6780294a4f5e039872a08b35ea0fd2f3",
+      "size": 1506336,
+      "uploadedDate": "2023-02-28T09:20:08.617Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unity-3-1920x1080-267bcda6491a28b70e47a90dcf1e2ebe.jpg",
+      "md5": "267bcda6491a28b70e47a90dcf1e2ebe",
+      "size": 823045,
+      "uploadedDate": "2023-02-28T09:20:09.618Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unity-4-1920x1080-cf6181ddb4822520ded75c11d1a168e0.jpg",
+      "md5": "cf6181ddb4822520ded75c11d1a168e0",
+      "size": 1261578,
+      "uploadedDate": "2023-02-28T09:20:10.112Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unity-5-1920x1080-1d2ea514f71586ba6e975d41bd9c8d5b.jpg",
+      "md5": "1d2ea514f71586ba6e975d41bd9c8d5b",
+      "size": 1110310,
+      "uploadedDate": "2023-02-28T09:20:10.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Augmenta_thumb-284x284-bfe47e2c8d19a72f34456e9fcdb9d2cf.png",
+      "md5": "bfe47e2c8d19a72f34456e9fcdb9d2cf",
+      "size": 18342,
+      "uploadedDate": "2023-02-03T17:44:07.327Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Augmenta_featured-894x488-2cb2af62edbe65b3f445bb9d3d566e7b.png",
+      "md5": "2cb2af62edbe65b3f445bb9d3d566e7b",
+      "size": 761418,
+      "uploadedDate": "2023-02-03T17:44:07.406Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Banniere1080p-1920x1080-6780294a4f5e039872a08b35ea0fd2f3_Snapshot.jpg",
+      "md5": "97c27ab68d1a07cc4243efabdc6cdeac",
+      "size": 7926,
+      "uploadedDate": "2023-02-28T09:20:09.475Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unity-3-1920x1080-267bcda6491a28b70e47a90dcf1e2ebe_Snapshot.jpg",
+      "md5": "b7809ef1e2ddb4c7cf8547badd9a8d02",
+      "size": 6332,
+      "uploadedDate": "2023-02-28T09:20:09.882Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unity-4-1920x1080-cf6181ddb4822520ded75c11d1a168e0_Snapshot.jpg",
+      "md5": "515f2a7c3ed59c651f232317a27b0f0d",
+      "size": 7075,
+      "uploadedDate": "2023-02-28T09:20:10.391Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unity-5-1920x1080-1d2ea514f71586ba6e975d41bd9c8d5b_Snapshot.jpg",
+      "md5": "6947aab04943c6eb58ceb27d3970d4e5",
+      "size": 7548,
+      "uploadedDate": "2023-02-28T09:20:10.801Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/banniere tele 1-1920x1080-6780294a4f5e039872a08b35ea0fd2f3_Snapshot.jpg",
+      "md5": "97c27ab68d1a07cc4243efabdc6cdeac",
+      "size": 7926,
+      "uploadedDate": "2023-02-28T09:18:37.712Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unity-3-1920x1080-267bcda6491a28b70e47a90dcf1e2ebe_Snapshot.jpg",
+      "md5": "b7809ef1e2ddb4c7cf8547badd9a8d02",
+      "size": 6332,
+      "uploadedDate": "2023-02-03T17:44:06.244Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unity-4-1920x1080-cf6181ddb4822520ded75c11d1a168e0_Snapshot.jpg",
+      "md5": "515f2a7c3ed59c651f232317a27b0f0d",
+      "size": 7075,
+      "uploadedDate": "2023-02-03T17:44:06.754Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unity-5-1920x1080-1d2ea514f71586ba6e975d41bd9c8d5b_Snapshot.jpg",
+      "md5": "6947aab04943c6eb58ceb27d3970d4e5",
+      "size": 7548,
+      "uploadedDate": "2023-02-03T17:44:07.228Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "14e213af6b2b45bfa1255a568b82ab80"
+    }
+  ],
+  "catalogNs": null
+}

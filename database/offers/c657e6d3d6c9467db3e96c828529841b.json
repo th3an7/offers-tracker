@@ -1,0 +1,206 @@
+{
+  "id": "c657e6d3d6c9467db3e96c828529841b",
+  "namespace": "ue",
+  "title": "gFur 5",
+  "description": "gFur is a free shell based fur solution for Unreal Engine.",
+  "longDescription": "<p>Source code is available on <a href=\"https://github.com/GiM-GamesInMotion/gFurPro\" rel=\"nofollow\">GitHub</a>.</p><p>gFur is free for commercial use.</p><p><br /></p><p><a href=\"https://gim.studio/animalia/sdm_downloads/gfur-5-3-0p1/\" rel=\"nofollow\">Binaries for Unreal Engine 5.3 preview 1.</a></p><p><br /></p><p><a href=\"https://youtu.be/U5OTCU3C7jk\" rel=\"nofollow\">Video showing gFur in motion.</a></p><p><br /></p><p><strong>Tutorials:</strong></p><p><a href=\"https://youtu.be/ZJV3q0iy5pg\" rel=\"nofollow\">Basic groom and physics</a></p><p><a href=\"https://youtu.be/HNPWPkEHfik\" rel=\"nofollow\">Brushes</a></p><p><a href=\"https://youtu.be/fQwWWdn4MKQ\" rel=\"nofollow\">Using fur data in Animalia</a></p><p><br /></p><p>gFur supports static meshes, skeletal meshes, animated morph targets and has an advaced shader that allows you to blend between two sets of fur strand thicknesses and fur tiling. Further, there is support for fur clumping, wind effect and the package contains a few more fur patterns and noise textures.</p><p><br /></p><p><strong>Changelog:</strong></p><p><strong>5.4.1</strong></p><ul><li>fixed packaging &#43; more fixes</li></ul><p><strong>5.4.0</strong></p><ul><li>updated for UE 5.4</li><li>multiple fixes by quicklyslow and gloriousayu</li></ul><p><strong>5.3.1</strong></p><ul><li>fixed multiple morph targets not working</li><li>maximum number of bones 512 (256 before)</li></ul><p><strong>5.3.0</strong></p><ul><li>updated for UE 5.3</li></ul><p><strong>5.2.1</strong></p><ul><li>Fixed crash when HW Raytracing is turned on.</li></ul><p><br /></p><p><strong>Features:</strong></p><ul><li>gFur shell generating component and gFur standard and advanced materials</li><li>complete in-editor fur generation and grooming</li><li>export of groom to UE native hair and fur</li><li>Alembic import</li><li>static mesh and skeletal mesh support</li><li>animated morph target support</li><li>custom depth support</li><li>LODs with highly optimized toggleable physics</li><li>shell bias (pushing the shells to outer regions where slicing is the most visible)</li><li>noise for shell vertices along normal to break up the slicing (may be a stylistic choice)</li><li>runs on non-dx 11 hw without physics</li></ul><p><br /></p><p><strong>Note1</strong>: Lion and elk from the other images are NOT part of the package.</p><p><strong>Note2</strong>: You can get <a href=\"https://gim.studio/animalia/sdm_downloads/gfur-4-27/\" rel=\"nofollow\">gFur for Unreal Engine 4.27 here.</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gfur-5",
+  "creationDate": "2023-07-28T09:16:10.804Z",
+  "lastModifiedDate": "2024-10-19T11:16:01.706Z",
+  "effectiveDate": "2023-07-28T09:16:10.762Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-23ea1534b94861b97e65f403d13704",
+    "name": "GiM"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li><strong>To access the content (gFur shaders and sample map), go into the &#34;Content Browser&#34;, click on &#34;View Options&#34; and turn on &#34;Show Engine Content&#34; and &#34;Show Plugin Content&#34;. Now you should see a new folder called &#34;GFur Content&#34;.</strong></li></ul><p><br /></p><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li>GFur - Runtime</li><li>GFurEditor - Editor</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 13</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win32, Win64</p><p>Supported Target Build Platforms: Win64 (DX11 required), PS4, XboxOne</p><p>Documentation: http://gim.studio/gfur/</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6a1186a3-657f-4ad2-a236-076b06540976"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gFur01-1920x1080-c41c3bcdf24b26f38d2a8511229c408c.jpg",
+      "md5": "c41c3bcdf24b26f38d2a8511229c408c",
+      "size": 1305606,
+      "uploadedDate": "2023-07-17T07:00:10.905Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gFur02-1920x1080-f431a5dd0353146abcf8c50424cda613.jpg",
+      "md5": "f431a5dd0353146abcf8c50424cda613",
+      "size": 1114030,
+      "uploadedDate": "2023-07-17T07:00:11.390Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gFur04-1920x1080-1b7d37e4868c293f3541f2efc7ad5e8e.jpg",
+      "md5": "1b7d37e4868c293f3541f2efc7ad5e8e",
+      "size": 1141647,
+      "uploadedDate": "2023-07-17T07:00:11.830Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gFur03-1920x1080-8a74934ad470a2347645f59f4f8a4273.jpg",
+      "md5": "8a74934ad470a2347645f59f4f8a4273",
+      "size": 1074464,
+      "uploadedDate": "2023-07-17T07:00:12.254Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gFur05-1920x1080-30123b30b01fd00d959cb2691c04a2b6.jpg",
+      "md5": "30123b30b01fd00d959cb2691c04a2b6",
+      "size": 1036589,
+      "uploadedDate": "2023-07-17T07:00:12.767Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/gFur52_thumb-284x284-fdd61884fccc20c3c1d079925d60df68.png",
+      "md5": "fdd61884fccc20c3c1d079925d60df68",
+      "size": 158035,
+      "uploadedDate": "2023-07-17T07:00:13.177Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/gFur52_featured-894x488-408419d07a0225372294afa626d44c3c.png",
+      "md5": "408419d07a0225372294afa626d44c3c",
+      "size": 967874,
+      "uploadedDate": "2023-07-17T07:00:13.296Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gFur01-1920x1080-c41c3bcdf24b26f38d2a8511229c408c_Snapshot.jpg",
+      "md5": "d6fca042ee90ec628f3f42960f9a275e",
+      "size": 5510,
+      "uploadedDate": "2023-07-17T07:00:11.205Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gFur02-1920x1080-f431a5dd0353146abcf8c50424cda613_Snapshot.jpg",
+      "md5": "2156e95731ae7c42b9271c44d507b182",
+      "size": 8086,
+      "uploadedDate": "2023-07-17T07:00:11.711Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gFur04-1920x1080-1b7d37e4868c293f3541f2efc7ad5e8e_Snapshot.jpg",
+      "md5": "03d87f2da6b0a35ba7074001a2b1dd67",
+      "size": 8694,
+      "uploadedDate": "2023-07-17T07:00:12.103Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gFur03-1920x1080-8a74934ad470a2347645f59f4f8a4273_Snapshot.jpg",
+      "md5": "9728f4c9764a367400885113663a5b77",
+      "size": 8296,
+      "uploadedDate": "2023-07-17T07:00:12.568Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gFur05-1920x1080-30123b30b01fd00d959cb2691c04a2b6_Snapshot.jpg",
+      "md5": "ee185c07ed460c88803daa1d41f428a2",
+      "size": 8063,
+      "uploadedDate": "2023-07-17T07:00:13.093Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "62aad6ae079a45088e465e892fb0163d"
+    }
+  ],
+  "catalogNs": null
+}

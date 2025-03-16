@@ -1,0 +1,173 @@
+{
+  "id": "176003d25c764fee88e1b60239d47c09",
+  "namespace": "ue",
+  "title": "Mesh Scale Fixer",
+  "description": "Fixs Skeletal mesh import scale issue common with importing from blender.",
+  "longDescription": "<p>Fix&#39;s Skeletal mesh import scale issue common with importing from blender, due to the scale difference of UE CM vs Blender Meters.</p><p>Also allows you to rescale your skeleton and all its mesh&#39;s while keeping a uniform root bone scale of 1.0.</p><p>If the root isn&#39;t scaled to 1.0 it can cause issues with creating and editor physics assets and becomes a hassle to deal with in animations and object bounds.</p><p><br /></p><p>Update 09-01-2023: Added 5.1 support</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mesh-scale-fixer",
+  "creationDate": "2022-06-08T21:29:22.195Z",
+  "lastModifiedDate": "2024-10-09T14:18:43.658Z",
+  "effectiveDate": "2022-06-11T05:04:53.749Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wvhsz7r6q8phm2qs792sfh6jscxg9y",
+    "name": "Bobs Library"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Fix the import issue of root bone scale being 100.0 when importing from Blender or other applications that don&#39;t use CM as the scale unit by rescaling the Skeletal mesh and applying a uniform scale to the root bone.</li><li>Fix&#39;s the issue when editing skeletal mesh physics asset bodies, if the root scale is not 1.0 then editor bodies becomes a hassle since every body transform is actually 100x smaller than visual scale.</li><li> Requires reapplying when you reimport the mesh.</li><li>Can apply selectively to a individual mesh that you may import at a later date for the skeleton and need to rescale it too.</li></ul><p>Code Modules:</p><ul><li> MeshScaleFixerEditor - Editor Only</li></ul><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:5</p><p>Network Replicated: N/A</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: N/A - Editor only</p><p>Documentation: <a href=\"https://docs.google.com/document/d/e/2PACX-1vScRSd27RRQQhQhWyCY0tdl5X_GchIXJfbPoKQeimdz9AhriYfYp-vpE6JmgRNMekHyJd9M1Nrpl7gL/pub\" rel=\"nofollow\">Docs</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "11c4ef85-c8e6-4377-adbb-99139c0e23fb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/s1-1920x1080-e9a93493209e7e35a9505f170e1b6b99.jpg",
+      "md5": "e9a93493209e7e35a9505f170e1b6b99",
+      "size": 449608,
+      "uploadedDate": "2022-06-07T09:16:25.170Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/s2-1920x1080-93360ed4a740019bc72d56596fd6d322.jpg",
+      "md5": "93360ed4a740019bc72d56596fd6d322",
+      "size": 516449,
+      "uploadedDate": "2022-06-07T09:16:25.689Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MeshScaleFixer_thumb-284x284-38e55c62dca1d3d4ba2fa760268d1196.png",
+      "md5": "38e55c62dca1d3d4ba2fa760268d1196",
+      "size": 141831,
+      "uploadedDate": "2022-06-07T21:10:32.651Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MeshScaleFixer_featured-894x488-f0f9d200c1db84136e02ac9c601aa364.png",
+      "md5": "f0f9d200c1db84136e02ac9c601aa364",
+      "size": 673672,
+      "uploadedDate": "2022-06-07T21:10:32.772Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/s1-1920x1080-e9a93493209e7e35a9505f170e1b6b99_Snapshot.jpg",
+      "md5": "83c6c5e8c0b917a357ecbcbbb67759fd",
+      "size": 4706,
+      "uploadedDate": "2022-06-07T09:16:25.479Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/s2-1920x1080-93360ed4a740019bc72d56596fd6d322_Snapshot.jpg",
+      "md5": "9a379047348ca8f24027eea621d34a55",
+      "size": 5717,
+      "uploadedDate": "2022-06-07T09:16:26.028Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Placehold1080-1920x1080-6ee4f0d471e1a8b054ebd4e57abd8016_Snapshot.jpg",
+      "md5": "6e368043a7416d65575c8dd2ac12c039",
+      "size": 903,
+      "uploadedDate": "2022-06-05T08:55:22.740Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b10c65100dc84608b636cedfa58db754"
+    }
+  ],
+  "catalogNs": null
+}

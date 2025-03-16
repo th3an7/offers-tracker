@@ -1,0 +1,482 @@
+{
+  "id": "cc105dd192b9448fb2d6febac41469d4",
+  "namespace": "ue",
+  "title": "Norway Spruce Tree Pack, Picea Abies",
+  "description": "Comprehensive prop pack of Norway Spruce trees and supporting assets",
+  "longDescription": "<p>In this pack I&#39;m presenting something very widely used - simple spruce trees, <strong>Norway Spruce</strong>. This being one of the more common type of evergreen spruces is quite often found in games.</p><p>I wanted to deliver great quality, variety and technical execution.</p><p>The trees in this pack are highly detailed and suitable for both previous ps4/xone gen and current gen ps5/xsx with appropriate scaling applied.</p><p>They are not nanite, but what I would call the <strong>best of the old method of foliage creation.</strong></p><p>Video Overview:</p><p><a href=\"https://youtu.be/gNvxm7z7NUw\" rel=\"nofollow\">https://youtu.be/gNvxm7z7NUw</a></p><p><br /></p><p>Along side the trees you will find <strong>supporting assets </strong>that will help you create an awesome spruce forest.</p><p><strong>Clutter like grass, branches, pinecones , rocks</strong>. Some medium sized bushes like a few <strong>wild privets</strong> and a <strong>fern</strong>. Along with a few <strong>rock formations</strong>.</p><p><br /></p><p>Everything in the packs I do is created from scratch by me. In this one as well, you can find:</p><p><strong>textures</strong> - custom created for the <strong>tree bark</strong> a few variations,<strong> tree branches</strong>, <strong>landscape</strong> materials like <strong>grass</strong> , <strong>pine</strong>, <strong>mud </strong>, <strong>rocks</strong>, <strong>rock textures, moss, others.</strong></p><p>Custom shaders - these are also incredibly important to me and they are very <strong>flexible , scalable , adjustable :</strong></p><p><br /></p><p>Custom <strong>vegetation shader</strong> has a few features alongside the standard shading like unified non speedtree <strong>wind </strong>- you can adjust world wind using a <strong>material collection</strong> or adjust it per mat instance if needed. You can also build a blueprint to dynamically set the weather. <strong>Seasons </strong>and variation - using a <strong>LUT texture</strong> for the trees.</p><p><br /></p><p>Custom <strong>landscape shader</strong> that is flexible and expandable. Custom landscape paint and wetness paintable on top of layers. A &#34;moss&#34; layer - this can be adjusted to paint a top layer youd like over the others , like burning and other.</p><p><br /></p><p>Custom <strong>rocks triplanar shader</strong> - with directional <u>correct normal </u>, and many advanced features like edge damages , moss painting, custom data per instance.</p><p><br /></p><p>Useful <strong>material functions</strong> - for example <u>global wetness</u> , you can adjust <u>wetness by height</u> in the world on most objects, or simply add the function to your own.</p><p><br /></p><p>As for the <strong>trees </strong>themselves - <strong>there are 13 trees </strong>different sizes and canopy states. They all have <strong>custom</strong> made <strong>LODs</strong> and <strong>distances</strong>. You can further adjust the distances for your needs. They use my <strong>new wind model</strong> (same as oak pack) different from speedtree or pivotpainter solutions. Adjustable with a material collection for all at once.</p><p><br /></p><p>Along with the models and textures there is an example level included. There you can find interesting level setups , lighting water cloud and other. For unreal 5 it is using lumen and nanite on some appropriate meshes(not vegetation).</p><p>These setups are optimized and well made enough to be used as an example for your own needs.</p><p>Small inclusion is also a simple blueprint to control the weather - it modifies the material collection adjusting the wind , and some quick post process effects. Use it as stepping stone to build something dynamic and cool.</p><p><br /></p><p>Important ! - to view the example scene properly you need :</p><p><strong>Extend default luminance range - project settings</strong></p><p><strong>Water - unreal plugin</strong></p><p><strong>Sun Positioner - unreal plugin</strong></p><p><strong>For UE5 - lumen,nanite, SM6 enabled - project settings</strong></p><p><br /></p><p>As a technical artist with years of experience on some of the largest triple A titles , I tried to bring something that is harder to get in the open marketplace - a consistent quality/usability and performance most of all. All the assets , materials and techniques are optimized and created with scalability and high performance standard .</p><p><br /></p><p>Update: Updated project files will now contain a LOD4 octahedral impostor, that will greatly improve performance of larger scenes. They could come at significant memory cost ! Control for your project needs reducing <strong>mip bias</strong> or distance of the impostors! Only version 5 and 5.1 for now - version 4.x will also get impostors in the coming weeks.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "norway-spruce-tree-pack-picea-abies",
+  "creationDate": "2022-12-11T17:59:40.105Z",
+  "lastModifiedDate": "2024-10-22T22:06:06.997Z",
+  "effectiveDate": "2022-12-11T17:59:40.060Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ega74unmc9ukuem23qs976jlykduea",
+    "name": "Guardians Labs"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>  Specific kit of vegetation species - Norway Spruce( Picea Abies) trees, bushes , clutter</li><li> Highly adjustable optimized and fully featured master materials for vegetation/opaque vegetation/prop/clutter/triplanar rocks/</li><li> High quality materials, fully proceduraly and sculpted textures packed.</li><li>Custom wind setup for the trees , fully non speedtree and non pivotpainter.</li><li>Custom Landscape material with layers optimized for samples and performance</li><li>Lighting and post process example scene</li></ul><p><br /></p><p>Number of Unique Meshes: 50 , 13 specifically Norway Spruce trees</p><p>Collision: Custom and Auto , optimized not per poly</p><p>Vertex Count: Trees are ranging from 10k to 25k triangles. Other meshes are following this model unless nanite - rocks for example are nanite.</p><p>LODs:Yes, custom for Trees , unreal generated with adjustments for other meshes.</p><p>Number of Materials and Material Instances: 2-3</p><p>Number of Textures: 99</p><p>Texture Resolutions: 2048, 4096</p><p><br /></p><p><strong>UPDATE1</strong> <strong>:</strong> The pack is updated to support 4.26, 4.27, 5.0</p><p><strong>UPDATE2 :  <u>Impostors for 5.0 and 5.1 are live</u></strong></p><p><br /></p><p>Important/Additional Notes: The example scene requires Sun Positioning Plugin Enabled / Extended Default Luminance range enabled</p><p>The main strengths of this pack is the highly technically advanced and optimized setup, that is tried and tested in tripple A games.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1238",
+      "name": "WORLD WAR I",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:16.794Z",
+      "updated": "2019-06-20T12:00:16.794Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8daab701-04e4-4c26-9afd-d977ea9e44c0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-ddac086fa6248c4e711c0a5d2553a715.jpg",
+      "md5": "ddac086fa6248c4e711c0a5d2553a715",
+      "size": 697308,
+      "uploadedDate": "2022-12-06T19:14:37.837Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-d930d385bee228379fe0677708baeaea.jpg",
+      "md5": "d930d385bee228379fe0677708baeaea",
+      "size": 924923,
+      "uploadedDate": "2022-12-06T19:14:38.254Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00008-1920x1080-ecd6d1a6dbc8bfe284c6434e289ae02e.jpg",
+      "md5": "ecd6d1a6dbc8bfe284c6434e289ae02e",
+      "size": 745885,
+      "uploadedDate": "2022-12-06T19:14:40.847Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-d16caf5ccb1c691ad3c642242540a5d9.jpg",
+      "md5": "d16caf5ccb1c691ad3c642242540a5d9",
+      "size": 893631,
+      "uploadedDate": "2022-12-06T19:14:38.681Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-f704dd4aec6119a5ee612b8d89ac204a.jpg",
+      "md5": "f704dd4aec6119a5ee612b8d89ac204a",
+      "size": 1083728,
+      "uploadedDate": "2022-12-06T19:14:39.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-5281dc5e4f2606db76be5e2ff2477f4f.jpg",
+      "md5": "5281dc5e4f2606db76be5e2ff2477f4f",
+      "size": 914558,
+      "uploadedDate": "2022-12-06T19:14:39.554Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-184406afbd182faad4fe4dd1b67201d9.jpg",
+      "md5": "184406afbd182faad4fe4dd1b67201d9",
+      "size": 952820,
+      "uploadedDate": "2022-12-06T19:14:40.415Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-d059d7dc961a07073e7fc3d4717f7406.jpg",
+      "md5": "d059d7dc961a07073e7fc3d4717f7406",
+      "size": 1223747,
+      "uploadedDate": "2022-12-06T19:14:39.980Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00009-1920x1080-3dc474505620e11a87be4aa1f104a60b.jpg",
+      "md5": "3dc474505620e11a87be4aa1f104a60b",
+      "size": 656610,
+      "uploadedDate": "2022-12-06T19:14:41.260Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot000132-1920x1080-9ceb63d414dc2016e4b547a01700b606.jpg",
+      "md5": "9ceb63d414dc2016e4b547a01700b606",
+      "size": 848603,
+      "uploadedDate": "2022-12-06T19:14:43.638Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot000102-1920x1080-933875e06f83c57d793379af03cce298.jpg",
+      "md5": "933875e06f83c57d793379af03cce298",
+      "size": 726516,
+      "uploadedDate": "2022-12-06T19:14:43.215Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00012-1920x1080-529d42855815fc04638306c27aeb3ee4.jpg",
+      "md5": "529d42855815fc04638306c27aeb3ee4",
+      "size": 895562,
+      "uploadedDate": "2022-12-06T19:14:42.404Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00013-1920x1080-cc9040087d5b54519fa316a5ec23d03d.jpg",
+      "md5": "cc9040087d5b54519fa316a5ec23d03d",
+      "size": 343397,
+      "uploadedDate": "2022-12-06T19:14:42.819Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00010-1920x1080-eeb28b6fceb318a6e93a1014372d37e3.jpg",
+      "md5": "eeb28b6fceb318a6e93a1014372d37e3",
+      "size": 338906,
+      "uploadedDate": "2022-12-06T19:14:41.665Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00011-1920x1080-1314bf33040a1dc279528245855244d0.jpg",
+      "md5": "1314bf33040a1dc279528245855244d0",
+      "size": 534822,
+      "uploadedDate": "2022-12-06T19:14:42.016Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NorwaySpruceTreePackPiceaAbies_thumb-284x284-8a617feadea9f0367c362062d8dc7991.png",
+      "md5": "8a617feadea9f0367c362062d8dc7991",
+      "size": 183381,
+      "uploadedDate": "2022-12-07T10:56:16.003Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NorwaySpruceTreePackPiceaAbies_featured-894x488-365159576f257f9d51581faf4eda4b07.png",
+      "md5": "365159576f257f9d51581faf4eda4b07",
+      "size": 1098004,
+      "uploadedDate": "2022-12-06T19:14:44.183Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-ddac086fa6248c4e711c0a5d2553a715_Snapshot.jpg",
+      "md5": "8f3d57d26b0b208c24a276413dcb389e",
+      "size": 7951,
+      "uploadedDate": "2022-12-06T19:14:38.135Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-d930d385bee228379fe0677708baeaea_Snapshot.jpg",
+      "md5": "0c6597444afa89f9721c98c6558517bb",
+      "size": 9138,
+      "uploadedDate": "2022-12-06T19:14:38.511Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-d16caf5ccb1c691ad3c642242540a5d9_Snapshot.jpg",
+      "md5": "ad405e2744db056a20e5a2d91ea1e827",
+      "size": 8646,
+      "uploadedDate": "2022-12-06T19:14:38.950Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-f704dd4aec6119a5ee612b8d89ac204a_Snapshot.jpg",
+      "md5": "60d84cd16d4956d16b6f9b7220f68140",
+      "size": 9486,
+      "uploadedDate": "2022-12-06T19:14:39.388Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-5281dc5e4f2606db76be5e2ff2477f4f_Snapshot.jpg",
+      "md5": "9a459fa6834872334163a6edbacd3cf5",
+      "size": 8817,
+      "uploadedDate": "2022-12-06T19:14:39.813Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-d059d7dc961a07073e7fc3d4717f7406_Snapshot.jpg",
+      "md5": "412af3d1aefdf579226db4cfc452bc52",
+      "size": 10023,
+      "uploadedDate": "2022-12-06T19:14:40.274Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-184406afbd182faad4fe4dd1b67201d9_Snapshot.jpg",
+      "md5": "56b18189734bed2e5194b2af090d7a02",
+      "size": 9063,
+      "uploadedDate": "2022-12-06T19:14:40.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-ecd6d1a6dbc8bfe284c6434e289ae02e_Snapshot.jpg",
+      "md5": "b3dce0f6bea76f63092d7fbfe4f2a4df",
+      "size": 8473,
+      "uploadedDate": "2022-12-06T19:14:41.130Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00009-1920x1080-3dc474505620e11a87be4aa1f104a60b_Snapshot.jpg",
+      "md5": "4d5cf5d0a5d35b3e624117851fdcd4fc",
+      "size": 8523,
+      "uploadedDate": "2022-12-06T19:14:41.513Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00010-1920x1080-eeb28b6fceb318a6e93a1014372d37e3_Snapshot.jpg",
+      "md5": "98dbe6d2d597749162d3846f162f77a5",
+      "size": 4702,
+      "uploadedDate": "2022-12-06T19:14:41.890Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00011-1920x1080-1314bf33040a1dc279528245855244d0_Snapshot.jpg",
+      "md5": "545cf13c5c006e1f811c7524bca020c3",
+      "size": 6841,
+      "uploadedDate": "2022-12-06T19:14:42.252Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00012-1920x1080-529d42855815fc04638306c27aeb3ee4_Snapshot.jpg",
+      "md5": "e6d45939a6f8f6dcae9f162f9b714b4e",
+      "size": 9100,
+      "uploadedDate": "2022-12-06T19:14:42.666Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00013-1920x1080-cc9040087d5b54519fa316a5ec23d03d_Snapshot.jpg",
+      "md5": "14650c22a41bfa3d3947a49051f8615d",
+      "size": 4432,
+      "uploadedDate": "2022-12-06T19:14:43.065Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot000102-1920x1080-933875e06f83c57d793379af03cce298_Snapshot.jpg",
+      "md5": "500af515b896ba3154cb89375feca80d",
+      "size": 8538,
+      "uploadedDate": "2022-12-06T19:14:43.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot000132-1920x1080-9ceb63d414dc2016e4b547a01700b606_Snapshot.jpg",
+      "md5": "62d62acd27281c63f457556cdc6930fc",
+      "size": 8645,
+      "uploadedDate": "2022-12-06T19:14:43.929Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "86260b3bd2b8486d9a5cd63e346879f6"
+    }
+  ],
+  "catalogNs": null
+}

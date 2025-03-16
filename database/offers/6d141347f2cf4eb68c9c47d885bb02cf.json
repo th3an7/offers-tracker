@@ -1,0 +1,263 @@
+{
+  "id": "6d141347f2cf4eb68c9c47d885bb02cf",
+  "namespace": "ue",
+  "title": "Default Values",
+  "description": "Provides default value node for use in blueprints.",
+  "longDescription": "<p><a href=\"https://github.com/BenVlodgi/UE-DefaultValuesPlugin/wiki/Default-Values-Plugin\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://github.com/BenVlodgi/UE-DefaultValuesPlugin\" rel=\"nofollow\">Source</a></p><p><br /></p><p>Lightweight library providing default value node for use in blueprints.</p><p><br /></p><p>Use defaults to simplify your blueprint code and write code that is more clearly intentional.</p><p><br /></p><p>By specifying that you want to use the default value for a parameter, you communicate to the future reader of the code that you want to use the default value instead of a pin being disconnected by accident.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "default-values",
+  "creationDate": "2022-03-24T19:04:24.423Z",
+  "lastModifiedDate": "2024-10-15T10:35:59.320Z",
+  "effectiveDate": "2022-03-24T19:09:11.020Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-t78ecne4m7633gh37zm7c2ts2mr6gw",
+    "name": "Dream Seed"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Provides Default node with wildcard output, returning the connected type&#39;s default value. The default value for nearly all types is some form of [0, &#34;&#34;, None].</li><li>Provides Default Scale node, which evaluates to the value of (1 1 1). This node is good for cleaning up Make Transform.</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Documentation: <a href=\"https://github.com/BenVlodgi/UE-DefaultValuesPlugin/wiki/Default-Values-Plugin\" rel=\"nofollow\">Default Values Plugin Wiki &#64; GitHub</a></p><p>Source available on GitHub: <a href=\"https://github.com/BenVlodgi/UE-DefaultValuesPlugin\" rel=\"nofollow\">BenVlodgi/UE-DefaultValuesPlugin</a></p><p>Support Email: <a href=\"mailto:hello&#64;dreamseed.games\" rel=\"nofollow\">hello&#64;dreamseed.games</a></p><p>Support Discord: <a href=\"https://discord.gg/fn77ZPA\" rel=\"nofollow\">Dream Seed Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c5950f68-6ccb-4bec-ac28-e03db0998e53"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Preview Nodes V2 Detailed-1920x1080-aa1c44b270d8abfcf2c024f6a8f6ad52.png",
+      "md5": "aa1c44b270d8abfcf2c024f6a8f6ad52",
+      "size": 327389,
+      "uploadedDate": "2022-03-30T21:18:40.361Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Useage 1-1920x1080-a729ecaa7aaef9f880ed6b1c26f48c16.png",
+      "md5": "a729ecaa7aaef9f880ed6b1c26f48c16",
+      "size": 274801,
+      "uploadedDate": "2022-03-23T18:12:28.131Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Useage 2-1920x1080-0e2df1fa5dcba4da05e2246619615e35.png",
+      "md5": "0e2df1fa5dcba4da05e2246619615e35",
+      "size": 203120,
+      "uploadedDate": "2022-03-23T18:12:28.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Useage 3-1920x1080-562866d71c68e7da10e554ba5fe318bb.png",
+      "md5": "562866d71c68e7da10e554ba5fe318bb",
+      "size": 195015,
+      "uploadedDate": "2022-03-23T18:12:28.896Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Implementation-1920x1080-ad6b3f3f746198c12fdd390d72f0f0fd.png",
+      "md5": "ad6b3f3f746198c12fdd390d72f0f0fd",
+      "size": 224416,
+      "uploadedDate": "2022-04-02T15:13:48.930Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DefaultValues_thumb-284x284-21fab43eb24cca86fe6177d742f27e1d.png",
+      "md5": "21fab43eb24cca86fe6177d742f27e1d",
+      "size": 17708,
+      "uploadedDate": "2022-03-23T18:12:29.229Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DefaultValues_featured-894x488-7b3342af9762999f8345654f3a086079.png",
+      "md5": "7b3342af9762999f8345654f3a086079",
+      "size": 212908,
+      "uploadedDate": "2022-03-23T18:12:29.288Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Implementation-1920x1080-ad6b3f3f746198c12fdd390d72f0f0fd_Snapshot.png",
+      "md5": "a0d5f2d9d14a0d944830f0f74c99e6ce",
+      "size": 4446,
+      "uploadedDate": "2022-04-02T15:13:49.204Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Preview Nodes V2 Detailed-1920x1080-aa1c44b270d8abfcf2c024f6a8f6ad52_Snapshot.png",
+      "md5": "6b6f76449d150f62844ee4aa61fd815e",
+      "size": 4323,
+      "uploadedDate": "2022-03-30T21:18:40.658Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Preview Nodes-1920x1080-4e093aaae9ac40899ffdb28568f6cf4d_Snapshot.png",
+      "md5": "6377e41ed9487b884f971f8c14def180",
+      "size": 3450,
+      "uploadedDate": "2022-03-23T18:12:27.989Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Useage 1-1920x1080-a729ecaa7aaef9f880ed6b1c26f48c16_Snapshot.png",
+      "md5": "922d09cfbf4a23eecb7a902b126f830a",
+      "size": 3711,
+      "uploadedDate": "2022-03-23T18:12:28.408Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Useage 2-1920x1080-0e2df1fa5dcba4da05e2246619615e35_Snapshot.png",
+      "md5": "a1c00e021f164ea8477b649f9920625c",
+      "size": 2905,
+      "uploadedDate": "2022-03-23T18:12:28.779Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Useage 3-1920x1080-562866d71c68e7da10e554ba5fe318bb_Snapshot.png",
+      "md5": "fb378f3460cafa19581cdad4e981817a",
+      "size": 2906,
+      "uploadedDate": "2022-03-23T18:12:29.158Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "700d01a828404e58b3a8b9c4a906fee6"
+    }
+  ],
+  "catalogNs": null
+}

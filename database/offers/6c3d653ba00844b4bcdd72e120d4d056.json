@@ -1,0 +1,206 @@
+{
+  "id": "6c3d653ba00844b4bcdd72e120d4d056",
+  "namespace": "ue",
+  "title": "Hand Walking VR",
+  "description": "VR physical character you can use to walk with hands, grab and climb",
+  "longDescription": "<p>The main thing of the character is a physical locomotion with hands. You can walk, run, jump, etc.</p><p>The character has two additional mechanics: grabbing and climbing.</p><p>All mechanics has many parameters you can customise for yourself (check settings list).</p><p>Preview: <a href=\"https://youtu.be/4j2KYM68QLU\" rel=\"nofollow\">Example of work\\Setup\\Instructions</a></p><p>Demo build: <a href=\"https://drive.google.com/file/d/1wh4TGrK8fRvpDdYZCwdoueFu2BqHce6a/view?usp&#61;sharing\" rel=\"nofollow\">4.27</a></p><p>Demo build: <a href=\"https://drive.google.com/file/d/1nDFTNwrzBdVyyzfoXDQXTfwkb1nr5iac/view?usp&#61;sharing\" rel=\"nofollow\">5.3</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "hand-walking-vr",
+  "creationDate": "2022-04-16T16:19:45.002Z",
+  "lastModifiedDate": "2024-10-22T17:16:00.030Z",
+  "effectiveDate": "2022-04-16T16:19:44.964Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q9jzmquwzy385mbtx3f62g4sl295nx",
+    "name": "Pickle D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong><em>PLUGINS REQUIRED: Steam VR/ Oculus VR, Open XR</em></strong></p><p><br /></p><p>FEATURES:</p><ul><li>Easy to use</li><li>Customisable</li><li>Unique locomotion</li><li>Few additional mechanics</li><li>Haptic feedback effect</li></ul><p><br /></p><p>SETTINGS:</p><p><strong>LOCOMOTION</strong></p><ul><li>Body mass</li><li>Body linear damping</li><li>Air resistance velocity</li><li>Air resistance force</li><li>Air resistance exponent</li><li>Walkable angle (not av. for ue5)</li><li>On/Off Landing slide (not av. for ue5)</li><li>Landing slide time</li><li>On/Off Jump height limit</li><li>Jump max height</li><li>On/Off Move assist</li><li>Angle to assist</li><li>Move assist multiplier</li><li>On/Off Fall damping</li><li>Fall damping</li><li>Falling speed threshold</li><li>On/Off Haptic feedback effect</li><li>Haptic effect strength (Slide)</li><li>Haptic effect strength (Hit)</li></ul><p><strong>CLIMBING</strong></p><ul><li>On/Off Climbing mechanic</li><li>On/Off Climbing stamina</li><li>Max stamina value</li><li>Stamina decrease rate</li><li>Stamina recovery rate</li><li>Stamina sleep time to recovery</li></ul><p><strong>GRABBING</strong></p><ul><li>On/Off Grabbing mechanic</li><li>Drop/Disconnect by hit (PickableActor_BP)</li><li>Hit strength to drop (PickableActor_BP)</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Number of Materials: 4</p><p>Number of Meshes: 5</p><p>Input: VR</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Documentation: <a href=\"https://youtu.be/4j2KYM68QLU\" rel=\"nofollow\">Video</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b028fbd7-3acf-4842-b7e8-229c0020b977"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HandWalkingVR1920x1080-1920x1080-817805a4c756b67390a0ff4ee1ff932a.png",
+      "md5": "817805a4c756b67390a0ff4ee1ff932a",
+      "size": 215600,
+      "uploadedDate": "2022-04-10T19:41:35.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HandWalkingVR_thumb-284x284-2e7b56af2956dbf6e6bac9d54e2ac2a5.png",
+      "md5": "2e7b56af2956dbf6e6bac9d54e2ac2a5",
+      "size": 22943,
+      "uploadedDate": "2022-04-10T19:41:35.713Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HandWalkingVR_featured-894x488-e7286b0492eee7435651d2235bc9ef00.png",
+      "md5": "e7286b0492eee7435651d2235bc9ef00",
+      "size": 77116,
+      "uploadedDate": "2022-04-10T19:41:35.776Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HandWalkingVR1920x1080-1920x1080-817805a4c756b67390a0ff4ee1ff932a_Snapshot.png",
+      "md5": "cf251dd93a05e26962e8ac3f750b61b9",
+      "size": 7236,
+      "uploadedDate": "2022-04-10T19:41:35.636Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fde073426299412487da61d74a68400c"
+    }
+  ],
+  "catalogNs": null
+}

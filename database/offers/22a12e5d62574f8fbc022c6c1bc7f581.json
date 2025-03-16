@@ -1,0 +1,320 @@
+{
+  "id": "22a12e5d62574f8fbc022c6c1bc7f581",
+  "namespace": "ue",
+  "title": "Bright Eye",
+  "description": "A customizable light source for the viewport camera, providing real-time lighting adjustments to enhance level design visibility.",
+  "longDescription": "<p>&#x1f4d6; <a href=\"https://drive.google.com/file/d/1m-7RTSe4mykxfXDtTGsZ8CNrN5heEUjC/view\" rel=\"nofollow\"><strong>Documentation</strong></a> &#x1f4fa; <a href=\"https://youtu.be/81p3FSxmOLA\" rel=\"nofollow\"><strong>Video Tutorial</strong></a> &#x1f517; <a href=\"https://github.com/PullsarDev/BrightEye\" rel=\"nofollow\"><strong>Project Page</strong></a> &#x1f464; <a href=\"https://pullsar.dev/\" rel=\"nofollow\"><strong>Creator Website</strong></a><strong> </strong></p><p><br /></p><p>Bright Eye is a lightweight and free plugin designed for level designers and artists who need an easily accessible light source while working within the editor. It attaches a light source directly to the viewport camera, allowing users to quickly illuminate dark areas without the need to place temporary lights. By providing customizable shortcuts and settings, Bright Eye offers a flexible workflow that adapts to the user&#39;s needs, streamlining the level design process.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "bright-eye",
+  "creationDate": "2024-09-17T14:26:03.385Z",
+  "lastModifiedDate": "2024-10-23T05:42:50.500Z",
+  "effectiveDate": "2024-09-17T14:27:36.555Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4sg5rn43cmajv4735vvf5d4avssyf7",
+    "name": "PullsarDev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Toggleable Light Source: Turn a spotlight on and off to improve visibility in the viewport.</li><li>Customizable Settings: Adjust brightness, distance, and color of the light.</li><li>User-Friendly Interface: Easily control the light with a dedicated control panel and shortcuts.</li><li>Two Modes: Choose between a fixed light or one that follows the camera with a slight delay.</li><li>Customizable Activation Behavior: Choose between holding the key to keep the light active or toggling it on and off with a single press.</li></ul><p><br /></p><p><strong>Code Modules:</strong></p><ul><li>BrightEye (Editor)</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 8</p><p>Supported Development Platforms: Win64, Linux, Mac</p><p><br /></p><p>For more detailed information, visit the <a href=\"https://drive.google.com/file/d/1m-7RTSe4mykxfXDtTGsZ8CNrN5heEUjC/view\" rel=\"nofollow\">documentation</a>. If you have any feedback or feature requests, feel free to reach out through <a href=\"https://pullsar.dev/\" rel=\"nofollow\">my website</a>. Contributions are always welcome, check out the project&#39;s <a href=\"https://github.com/PullsarDev/BrightEye\" rel=\"nofollow\">github page</a> to get involved.</p><p><br /></p><p>Important/Additional Notes: Bright Eye is an editor-only plugin and does not affect gameplay or runtime performance.</p><p><br /></p><p>Special thanks to <strong>Leartes Studios</strong> for their <a href=\"https://www.unrealengine.com/marketplace/en-US/product/horror-mansion-01\" rel=\"nofollow\"><strong>Horror Mansion</strong></a> asset pack, which was used to demonstrate the capabilities of this tool.</p><p><br /></p><p>version: V1.0.1</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c2c37766-e238-415f-8b3c-8b48799b42cc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BannerCover-1920x1080-bace34d6accfa34ac909888337788f87.png",
+      "md5": "bace34d6accfa34ac909888337788f87",
+      "size": 3009957,
+      "uploadedDate": "2024-09-17T19:48:37.727Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot6 1-1920x1080-781ca505ec1d1ce626d85454f800fb9a.png",
+      "md5": "781ca505ec1d1ce626d85454f800fb9a",
+      "size": 589079,
+      "uploadedDate": "2024-09-16T17:59:01.628Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot7optimized-1920x1080-e017f59a414dfc5c4233b6a4ce614b81.png",
+      "md5": "e017f59a414dfc5c4233b6a4ce614b81",
+      "size": 483085,
+      "uploadedDate": "2024-09-16T17:59:01.957Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Banner223-1920x1080-d179a820c5ec5ad6e5ac14b39cfadd4f.png",
+      "md5": "d179a820c5ec5ad6e5ac14b39cfadd4f",
+      "size": 1217011,
+      "uploadedDate": "2024-09-17T19:47:21.887Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot8-1920x1080-3243651e9f4acbabea93f8aec5eaeed8.png",
+      "md5": "3243651e9f4acbabea93f8aec5eaeed8",
+      "size": 42746,
+      "uploadedDate": "2024-09-16T17:59:02.087Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BrightEye_thumb-284x284-d7758e7e0ecea00fe18976b28ab5fcb9.png",
+      "md5": "d7758e7e0ecea00fe18976b28ab5fcb9",
+      "size": 154034,
+      "uploadedDate": "2024-09-17T19:43:39.448Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BrightEye_featured-894x488-dbec70c8bfdd512511f3c0879c130226.png",
+      "md5": "dbec70c8bfdd512511f3c0879c130226",
+      "size": 617932,
+      "uploadedDate": "2024-09-19T19:04:46.172Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BannerCover-1920x1080-bace34d6accfa34ac909888337788f87_Snapshot.png",
+      "md5": "4b74d8be0db3f87811b0f0cadd57bc94",
+      "size": 5060,
+      "uploadedDate": "2024-09-17T19:48:38.258Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Banner223-1920x1080-d179a820c5ec5ad6e5ac14b39cfadd4f_Snapshot.png",
+      "md5": "9d0fedd90c0c2b56527cb0531dfce90e",
+      "size": 2744,
+      "uploadedDate": "2024-09-17T19:47:22.203Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Banner54-1920x1080-ca73c2ec82f20a7364c453febe3d1f89_Snapshot.png",
+      "md5": "184a3f28d6fbed5d313cdc91ea31e5c0",
+      "size": 3415,
+      "uploadedDate": "2024-09-17T19:45:42.032Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Banner24-1920x1080-669c00fce11e12e73346eb147ecdcf32_Snapshot.png",
+      "md5": "7ccb35953d69c219030c3631536c8971",
+      "size": 4766,
+      "uploadedDate": "2024-09-17T19:43:39.322Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BannerMain-1920x1080-f6a458b69f41a571037b1d7928a5c3f7_Snapshot.png",
+      "md5": "9137f0c926320e5d9f73708786634a54",
+      "size": 4095,
+      "uploadedDate": "2024-09-16T17:59:01.363Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot6 1-1920x1080-781ca505ec1d1ce626d85454f800fb9a_Snapshot.png",
+      "md5": "a3d4e6d2fab4de6e1220941ecbd8ddb6",
+      "size": 4522,
+      "uploadedDate": "2024-09-16T17:59:01.758Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot7optimized-1920x1080-e017f59a414dfc5c4233b6a4ce614b81_Snapshot.png",
+      "md5": "246ad92e75841eaea942bd608de71a2c",
+      "size": 4933,
+      "uploadedDate": "2024-09-16T17:59:02.047Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot8-1920x1080-3243651e9f4acbabea93f8aec5eaeed8_Snapshot.png",
+      "md5": "349988821df33fae388ed9f5f2cffffb",
+      "size": 2945,
+      "uploadedDate": "2024-09-16T17:59:02.212Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BannerNew-1920x1080-f6a458b69f41a571037b1d7928a5c3f7_Snapshot.png",
+      "md5": "9137f0c926320e5d9f73708786634a54",
+      "size": 4095,
+      "uploadedDate": "2024-09-15T13:09:50.808Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Banner1111-1920x1080-d2a166d907e841eca0586238c14c742f_Snapshot.png",
+      "md5": "850f8281064b963ab40f3ad8da92e4bb",
+      "size": 4559,
+      "uploadedDate": "2024-09-14T12:55:48.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Banner1111-1920x1080-d2a166d907e841eca0586238c14c742f_Snapshot.png",
+      "md5": "850f8281064b963ab40f3ad8da92e4bb",
+      "size": 4559,
+      "uploadedDate": "2024-09-14T12:54:51.453Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e2f9fdd3cf764505ad13cffcfedc073f"
+    }
+  ],
+  "catalogNs": null
+}

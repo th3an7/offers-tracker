@@ -1,0 +1,248 @@
+{
+  "id": "22b470a547a644dcaf543d7faaa3240a",
+  "namespace": "ue",
+  "title": "Arc Teams",
+  "description": "Multiplayer team system for dynamic team creation, squads, player-made groups, and more",
+  "longDescription": "<p>Arc Teams is a networked multiplayer solution that allows for the creation of Teams and other segmentation methods for players.</p><p><br /></p><p>Arc Teams was built from the ground up to support networked multiplayer games. It powers multiple games, each with different styles of segmenting players. ArcTeams supports both runtime and design time Team Definitions, allowing you to create any type of Team. </p><p><br /></p><p>Arc Teams also supports a concept of “Sub Teams”, which are teams within teams. This can be used to further segment players into Squads, Fireteams, Guilds, Factions, or whatever you need for your game. Arc Teams has a small development footprint and integrates simply into any code base. Simply override a few functions in GameMode and add a component to PlayerState, then it works! </p><p><br /></p><p>Arc Teams fully works with our other Arc plugins, such as Vehicles and Inventory. Combine all 3 to make your awesome multiplayer game!</p><p><br /></p><p><strong>Arc Teams now supports Unreal Engine 5!</strong></p><p><br /></p><p><strong>Support</strong></p><p>For real-time support from the developers of this plugin, <a href=\"https://discord.gg/punyhuman\" rel=\"nofollow\">please join our Discord here</a>.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "arc-teams",
+  "creationDate": "2020-11-03T15:54:41.725Z",
+  "lastModifiedDate": "2024-10-15T17:25:39.218Z",
+  "effectiveDate": "2020-11-03T15:54:39.613Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7ekfvk8lwfh4csblcnd86p6zrglqfp",
+    "name": "Puny Human"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Create Static or Dynamic Teams at runtime or in editor!</li><li>Plug and play with any existing design</li><li>Fully networked </li><li>Create SubTeams to further segment players</li><li>Easily associate objects in the game world with teams</li></ul><p><br /></p><p><strong>For Unreal Engine 5: </strong>Simply download the 4.26 version, and copy the plugin from your 4.26 marketplace plugins folder into your Unreal Engine 5 project&#39;s Plugins/ folder!</p><p><br /></p><p>Code Modules:</p><ul><li> ArcTeams - Runtime </li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 21</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows / Mac / Linux</p><p>Supported Target Build Platforms: Windows / Mac / Linux</p><p><br /></p><p>Example Project: https://drive.google.com/file/d/1zMTz0uQmncZ8AN55KRCoqFyOxCMtnmPL/view?usp&#61;sharing</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "604c9216-03b3-4c71-883e-96c9ad4cbf4c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SupportsAnyNumberOfTeams-resize-1920x1080-565f5f1c0542a68f303c68403aeb488e.PNG",
+      "md5": "565f5f1c0542a68f303c68403aeb488e",
+      "size": 82182,
+      "uploadedDate": "2020-06-11T00:42:05.867Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyConfiguration-resize-1920x1080-f52ea28f851fb06544765025b3081346.PNG",
+      "md5": "f52ea28f851fb06544765025b3081346",
+      "size": 83670,
+      "uploadedDate": "2020-06-11T00:42:06.210Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/builtindebugtools-resize-1920x1080-09e41f7af1024db68a60b6cd195d4b50.PNG",
+      "md5": "09e41f7af1024db68a60b6cd195d4b50",
+      "size": 640095,
+      "uploadedDate": "2020-06-11T00:42:06.736Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/codeincpporbp-resize-1920x1080-a1939a5342a4a37e05805e6fb3fdd8f8.PNG",
+      "md5": "a1939a5342a4a37e05805e6fb3fdd8f8",
+      "size": 334762,
+      "uploadedDate": "2020-06-11T00:42:07.268Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ArcTeams_thumb-284x284-8ff7ccae8eab96cf3f438a0d0e37d735.png",
+      "md5": "8ff7ccae8eab96cf3f438a0d0e37d735",
+      "size": 77916,
+      "uploadedDate": "2020-12-30T20:49:52.930Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ArcTeams_featured-894x488-1026c1e50a2dfec997040a1192c77e16.png",
+      "md5": "1026c1e50a2dfec997040a1192c77e16",
+      "size": 433588,
+      "uploadedDate": "2020-12-30T20:49:53.021Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SupportsAnyNumberOfTeams-resize-1920x1080-565f5f1c0542a68f303c68403aeb488e_Snapshot.PNG",
+      "md5": "9871b8297a04fec8a4151d05874121c8",
+      "size": 1974,
+      "uploadedDate": "2020-06-11T00:42:06.114Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyConfiguration-resize-1920x1080-f52ea28f851fb06544765025b3081346_Snapshot.PNG",
+      "md5": "b7deda04a8bebf8fdf54ece024de83b0",
+      "size": 2646,
+      "uploadedDate": "2020-06-11T00:42:06.425Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/builtindebugtools-resize-1920x1080-09e41f7af1024db68a60b6cd195d4b50_Snapshot.PNG",
+      "md5": "a2a12f6fd270d3610becce57b36be8ce",
+      "size": 3230,
+      "uploadedDate": "2020-06-11T00:42:07.052Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/codeincpporbp-resize-1920x1080-a1939a5342a4a37e05805e6fb3fdd8f8_Snapshot.PNG",
+      "md5": "509bbd4bbf35812c353a8e3238e744c2",
+      "size": 3461,
+      "uploadedDate": "2020-06-11T00:42:07.549Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "01ddc3c0c94343df9587694adbed5b80"
+    }
+  ],
+  "catalogNs": null
+}

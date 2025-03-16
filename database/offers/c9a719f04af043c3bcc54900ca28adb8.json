@@ -1,0 +1,320 @@
+{
+  "id": "c9a719f04af043c3bcc54900ca28adb8",
+  "namespace": "ue",
+  "title": "Health Component Ready Online",
+  "description": "This component updates health and it calculates if the player is dead, each time the player takes damage.  Furthermore, it is ready for online replication.  with a lot of demos",
+  "longDescription": "<p>This component updates health and it calculates if the player is dead, each time the player takes damage. You only need to set up the damage source such as Projectile, damage zone or item pickup, and make cast to this component or Character class to get target actor damage (or actor to heal). This component does the rest. Furthermore, it is ready for online replication. </p><p><br /></p><p>Includes a lot of demos, Players, Drones, 2 DemoMaps with their own mechanics:</p><ol><li>  ThirpersonDemoMap.- Take the drones to the damage zone</li><li>   FirtPeronDemoMap .- Destroy all the drones</li></ol><p>Three Actors Demos: Damage Zone, health pickup and projectile</p><p>All Ready online replication.</p><h2><br /></h2>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "health-component-ready-online",
+  "creationDate": "2022-11-20T23:53:46.802Z",
+  "lastModifiedDate": "2024-10-10T22:14:56.369Z",
+  "effectiveDate": "2022-11-21T00:06:37.619Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-rwb6byrvltupk2s3kwhlbtm3kv77n6",
+    "name": "VicAgent"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><br /></h2><h2>Demo Maps</h2><ol><li>  ThirpersonDemoMap</li><li>   FirtPeronDemoMap</li></ol><h2>Player Demo</h2><ol><li>  Player_ThirPerson</li><li>  Player_FirstPeron</li></ol><h2>Basic AI Demo</h2><ol><li>Drone Demo</li></ol><p><br /></p><h2>Actor demo</h2><ol><li>  Health Pickup</li><li>  Projectile</li><li>  Damage Zone</li></ol><h2>Widget demo</h2><ol><li>Widget third peron and drone Health bar for component</li><li>Widget First person Health bar for viewport</li></ol><p><br /></p><p>Number of Blueprints: Healthcomponent &#43; 6 Blueprints Demo &#43; 2 Widgets</p><p>Input: Gamepad, Keyboard , mouse like Firstperson and Thirdperson shooter Epic Template</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (No)</p><p>Documentation: https://docs.google.com/document/d/1BCa9a2imc_IkirVVd9Kq8MPqZVKqxAJu5EVZ3-Z93RY/edit?usp&#61;sharing</p><p>Important/Additional Notes: You have to clic ( must be checked) in Allow Client side Navigation in ProjectSetting-Engine-Navigation System</p><p><br /></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "27f64f7b-e250-4567-864e-b41f727ce65d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThirPersonDemo2-1920x1080-e2cbd9eee7b152f8b3f507bed8245c26.jpg",
+      "md5": "e2cbd9eee7b152f8b3f507bed8245c26",
+      "size": 243676,
+      "uploadedDate": "2022-10-29T19:18:39.450Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThirPersonDemo-1920x1080-02c08d6fc28ce7cf1d1f86f79af5e84b.jpg",
+      "md5": "02c08d6fc28ce7cf1d1f86f79af5e84b",
+      "size": 316728,
+      "uploadedDate": "2022-10-29T19:18:39.819Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Projectile2-1920x1080-c0936d76bbd522661d37a66138f027e8.jpg",
+      "md5": "c0936d76bbd522661d37a66138f027e8",
+      "size": 204138,
+      "uploadedDate": "2022-10-29T19:18:40.189Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Projectile-1920x1080-820fa050cdf999acbe651cadd004db17.jpg",
+      "md5": "820fa050cdf999acbe651cadd004db17",
+      "size": 276152,
+      "uploadedDate": "2022-10-29T19:18:40.564Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HealthPickup-1920x1080-d84e21183e227d8ab64bb2101164a123.jpg",
+      "md5": "d84e21183e227d8ab64bb2101164a123",
+      "size": 162068,
+      "uploadedDate": "2022-10-29T19:18:40.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FirstPersonDemo2-1920x1080-a0e48ebbb7e9c78b1b9221b29d693e0c.jpg",
+      "md5": "a0e48ebbb7e9c78b1b9221b29d693e0c",
+      "size": 183840,
+      "uploadedDate": "2022-10-29T19:18:41.244Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FirstPersonDemo-1920x1080-25dc77adadac0a567f886fe481c2308b.jpg",
+      "md5": "25dc77adadac0a567f886fe481c2308b",
+      "size": 187728,
+      "uploadedDate": "2022-10-29T19:18:41.530Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DamageZone-1920x1080-3e24ec70382ad382ddb4849ab855a89c.jpg",
+      "md5": "3e24ec70382ad382ddb4849ab855a89c",
+      "size": 258024,
+      "uploadedDate": "2022-10-29T19:18:41.868Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HealthComponentReadyOnline_thumb-284x284-2c4dd44fc5c59cc89e844d7783e5b646.png",
+      "md5": "2c4dd44fc5c59cc89e844d7783e5b646",
+      "size": 121059,
+      "uploadedDate": "2022-10-29T19:18:42.161Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HealthComponentReadyOnline_featured-894x488-2675376385e38bb32bafa570856f70db.png",
+      "md5": "2675376385e38bb32bafa570856f70db",
+      "size": 509370,
+      "uploadedDate": "2022-10-29T19:18:42.247Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThirPersonDemo2-1920x1080-e2cbd9eee7b152f8b3f507bed8245c26_Snapshot.jpg",
+      "md5": "b6714440e119798bae692aa14f8d80ec",
+      "size": 5296,
+      "uploadedDate": "2022-10-29T19:18:39.679Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThirPersonDemo-1920x1080-02c08d6fc28ce7cf1d1f86f79af5e84b_Snapshot.jpg",
+      "md5": "5c343a55af84ea437d1dfbe89f952e37",
+      "size": 5982,
+      "uploadedDate": "2022-10-29T19:18:40.035Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Projectile2-1920x1080-c0936d76bbd522661d37a66138f027e8_Snapshot.jpg",
+      "md5": "19906fc8f1d4d089a483fec154b4225a",
+      "size": 5309,
+      "uploadedDate": "2022-10-29T19:18:40.438Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Projectile-1920x1080-820fa050cdf999acbe651cadd004db17_Snapshot.jpg",
+      "md5": "1f05633b8931e4b9ddd114e2cfb2666f",
+      "size": 4066,
+      "uploadedDate": "2022-10-29T19:18:40.777Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HealthPickup-1920x1080-d84e21183e227d8ab64bb2101164a123_Snapshot.jpg",
+      "md5": "967ad217ada2a6125d46da8aeaf219eb",
+      "size": 3660,
+      "uploadedDate": "2022-10-29T19:18:41.129Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FirstPersonDemo2-1920x1080-a0e48ebbb7e9c78b1b9221b29d693e0c_Snapshot.jpg",
+      "md5": "b6c4cc08b3adb23bbc34095111afaaa2",
+      "size": 4657,
+      "uploadedDate": "2022-10-29T19:18:41.454Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FirstPersonDemo-1920x1080-25dc77adadac0a567f886fe481c2308b_Snapshot.jpg",
+      "md5": "b9b7c4886faf98a0ea3862fb687cdc17",
+      "size": 5044,
+      "uploadedDate": "2022-10-29T19:18:41.737Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DamageZone-1920x1080-3e24ec70382ad382ddb4849ab855a89c_Snapshot.jpg",
+      "md5": "0428ff259a0b968b56f5d1ea813bebfb",
+      "size": 5476,
+      "uploadedDate": "2022-10-29T19:18:42.120Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "49f395de13e84f018ef38c50289066ff"
+    }
+  ],
+  "catalogNs": null
+}

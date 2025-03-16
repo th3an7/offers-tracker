@@ -1,0 +1,401 @@
+{
+  "id": "ff7babe6ef2845e4b863545cceb329ac",
+  "namespace": "ue",
+  "title": "Drivable 80s Era Sedan",
+  "description": "Drivable sedan with damage morph targets, lights, dirt and more.",
+  "longDescription": "<p>Based on Unreal&#39;s default vehicle system (Chaos for UE5 and PhysX for UE4). Sedan model inspired by vehicles from the 80s. The skeletal mesh has morph targets for damage, materials for front/rear/brake/reverse/blinker lights and working doors. The interior is detailed and suited for 1st person. The gauges are rigged (needles for speed, RPM, oil pressure and temperature).</p><p><br /></p><p>Skeletal mesh is correctly rigged with proper bone scales and bone naming.</p><p>The vehicle has no modelled engine.</p><p><br /></p><p>Video preview: <a href=\"https://youtu.be/mrhUeGtHJ3I\" rel=\"nofollow\">https://youtu.be/mrhUeGtHJ3I</a></p><p><br /></p><p>Number of Skeletal Meshes: 1</p><p>Rigged: Yes</p><p>Average Triangle Count: 65244</p><p>LODs: Yes</p><p>Number of Textures: 20</p><p>Texture types: BaseColor, Normal, Occlusion Roughness Metallic (ORM)</p><p>Texture Size: 2048x2048 and 4096x4096</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "drivable-80s-era-sedan",
+  "creationDate": "2021-07-06T09:25:19.856Z",
+  "lastModifiedDate": "2024-10-23T12:03:00.335Z",
+  "effectiveDate": "2021-07-06T09:25:19.787Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kqgbeqehctnf9cvasrryshybb6ep57",
+    "name": "Blue Mountains"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Drivable and rigged</li><li>Driver steering animation</li><li>Doors</li><li>Damage morph targets</li><li>Coloring of the vehicle can be changed in the material.</li><li>Amount of dirt on the body can be changed in material.</li><li>Custom collision for skeletal meshes.</li><li>Detailed interior</li><li>Working gauges for speed, RPM, oil pressure and engine temperature.</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Input: <a href=\"https://pastebin.com/raw/0D63hi39\" rel=\"nofollow\">DefaultInput.ini</a> (Using EnhancedInput since UE 5.1)</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><a href=\"https://drive.google.com/file/d/16CeuV741L6Nz_8R-gTbm8WRdr_LBXvsg/view?usp&#61;sharing\" rel=\"nofollow\">Documentation Link</a></p><p>Important/Additional Notes: Model has no engine mesh.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1234",
+      "name": "PVP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:14.666Z",
+      "updated": "2023-07-18T10:54:22.176Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 1473,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c578fcda-ec48-4743-b728-7994477a0d38"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-eac55b1f9bce2c06ba435781a5d2ad27.png",
+      "md5": "eac55b1f9bce2c06ba435781a5d2ad27",
+      "size": 3037128,
+      "uploadedDate": "2021-06-30T10:37:39.734Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-46e061fc68c8b05ca69038601405ecc7.png",
+      "md5": "46e061fc68c8b05ca69038601405ecc7",
+      "size": 2786761,
+      "uploadedDate": "2021-06-30T10:36:54.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-d8d8e9d1c144cbb2188ef3b8ffa3b056.jpg",
+      "md5": "d8d8e9d1c144cbb2188ef3b8ffa3b056",
+      "size": 388856,
+      "uploadedDate": "2021-06-30T10:53:56.607Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-ef09999e6ed121044ef33de10e33bd2d.jpg",
+      "md5": "ef09999e6ed121044ef33de10e33bd2d",
+      "size": 428019,
+      "uploadedDate": "2021-06-30T10:35:03.561Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-6c2d55bc6a39e581518a5402f518a680.jpg",
+      "md5": "6c2d55bc6a39e581518a5402f518a680",
+      "size": 378082,
+      "uploadedDate": "2024-08-21T12:16:59.145Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00005-1920x1080-14aca881bf4087f8f2d60459266afc1c.jpg",
+      "md5": "14aca881bf4087f8f2d60459266afc1c",
+      "size": 395911,
+      "uploadedDate": "2021-06-30T10:36:00.985Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-7fd116f558c13a89487f462fd3307b84.png",
+      "md5": "7fd116f558c13a89487f462fd3307b84",
+      "size": 2734779,
+      "uploadedDate": "2021-06-30T10:34:05.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-478f069e2a4c2aa981fc14aad037dcaf.png",
+      "md5": "478f069e2a4c2aa981fc14aad037dcaf",
+      "size": 2675393,
+      "uploadedDate": "2021-06-30T10:34:04.430Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00008-1920x1080-85b4e643812a9c0b1fc76ee28a7d3b6b.jpg",
+      "md5": "85b4e643812a9c0b1fc76ee28a7d3b6b",
+      "size": 364795,
+      "uploadedDate": "2021-06-30T10:38:59.764Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00011-1920x1080-5f22a9514233c61e4002b6dd13ad9698.png",
+      "md5": "5f22a9514233c61e4002b6dd13ad9698",
+      "size": 2742255,
+      "uploadedDate": "2021-06-30T12:47:32.187Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/80sSedan_thumb-284x284-74df8b76ff81163aecfc592f4b63f72e.png",
+      "md5": "74df8b76ff81163aecfc592f4b63f72e",
+      "size": 67089,
+      "uploadedDate": "2021-06-21T11:08:21.383Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Drivable80sEraSedan_featured-894x488-4f0b90646880fa472c99b345bef598d4.png",
+      "md5": "4f0b90646880fa472c99b345bef598d4",
+      "size": 487348,
+      "uploadedDate": "2021-06-30T10:58:17.347Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-6c2d55bc6a39e581518a5402f518a680_Snapshot.jpg",
+      "md5": "248d45df1b361e4a08260117ba47b57c",
+      "size": 7529,
+      "uploadedDate": "2024-08-21T12:16:59.830Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00011-1920x1080-5f22a9514233c61e4002b6dd13ad9698_Snapshot.png",
+      "md5": "b72a4f03d9b17c933a550a81140126e4",
+      "size": 5101,
+      "uploadedDate": "2021-06-30T12:47:32.608Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-d8d8e9d1c144cbb2188ef3b8ffa3b056_Snapshot.jpg",
+      "md5": "d1d84ea8d62e325063ff752120ed9f16",
+      "size": 6824,
+      "uploadedDate": "2021-06-30T10:53:57.315Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-85b4e643812a9c0b1fc76ee28a7d3b6b_Snapshot.jpg",
+      "md5": "840619e5deda817075316ee1320db8a3",
+      "size": 6512,
+      "uploadedDate": "2021-06-30T10:39:00.464Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-eac55b1f9bce2c06ba435781a5d2ad27_Snapshot.png",
+      "md5": "cd9a7c0027c73f10a346cb4f0abd4827",
+      "size": 5631,
+      "uploadedDate": "2021-06-30T10:37:40.171Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-46e061fc68c8b05ca69038601405ecc7_Snapshot.png",
+      "md5": "6bcf1c04206a20e23a196cea4b8f8b83",
+      "size": 5359,
+      "uploadedDate": "2021-06-30T10:36:54.626Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00005-1920x1080-14aca881bf4087f8f2d60459266afc1c_Snapshot.jpg",
+      "md5": "2358f3691ccf1d0ef1733c6dd6021846",
+      "size": 7238,
+      "uploadedDate": "2021-06-30T10:36:01.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-ef09999e6ed121044ef33de10e33bd2d_Snapshot.jpg",
+      "md5": "88207eaf72ea8438b3781f40d3a6b0d0",
+      "size": 7186,
+      "uploadedDate": "2021-06-30T10:35:04.269Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-478f069e2a4c2aa981fc14aad037dcaf_Snapshot.png",
+      "md5": "55f5c4ac389401c7db9acddf5651bead",
+      "size": 4828,
+      "uploadedDate": "2021-06-30T10:34:04.826Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-7fd116f558c13a89487f462fd3307b84_Snapshot.png",
+      "md5": "2814ae6c1e719b1497a4d9312aad1bbb",
+      "size": 5131,
+      "uploadedDate": "2021-06-30T10:34:05.467Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-1780712e9eeb3455d9aaeb3270d35b69_Snapshot.png",
+      "md5": "f405823b47e38d69033b27136d5142cb",
+      "size": 4993,
+      "uploadedDate": "2021-06-21T11:08:21.313Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "33e721bad1be40f6a71dfd267ba3d090"
+    }
+  ],
+  "catalogNs": null
+}

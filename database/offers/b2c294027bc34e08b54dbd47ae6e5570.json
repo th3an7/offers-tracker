@@ -1,0 +1,308 @@
+{
+  "id": "b2c294027bc34e08b54dbd47ae6e5570",
+  "namespace": "ue",
+  "title": "2D 2.5D Placement Tool",
+  "description": "Originally created to help artists and level designers with the placement of 2d hand drawn sprites that are not tillable.",
+  "longDescription": "<p>This simple tool will automatically sort sprites placed in the level by snapping their position to the layer&#39;s position and adding or subtracting a small offset from the sprite position, this will sort sprites in the Y axis automatically, allowing the engine to render sprites in front of other sprites.</p><p>By default, Unreal Engine only sorts translucent sprites, with this tool any sprite with any kind of material will be sorted automatically. </p><p>This tool is a simple Editor Utility Widget blueprint, which stores and accesses information from a data asset blueprint. And is 100% configurable either from the included data asset or from the editor utility widget itself.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "2d-2-5d-placement-tool",
+  "creationDate": "2024-02-26T12:55:04.870Z",
+  "lastModifiedDate": "2024-10-10T23:09:40.491Z",
+  "effectiveDate": "2024-02-26T13:05:31.685Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vgc5ag6glzdj5hj5wn7c3gzzn93hkw",
+    "name": "Luzil"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Tool Features</strong>:</p><ul><li>Automatically place sprites in front or behind other sprites without manually adjusting their Y position.</li><li>Move sprites forward or backwards.</li><li>Define layer boundaries, which can be ignored or enforced by the tool.</li><li>Move sprite to the back or front of the select layer.</li></ul><p>\t\t\t\tMove sprite to layer, which allows you to:</p><p>\t\t\t\tmove the sprite from the selected “Current Layer”, to the selected “Move to Layer” keeping the sprite’s sorting \t\t\t\t\t\toffset intact.</p><ul><li>move the sprite to the “Move to Layer” snapping to its position, discarding the previous sorting offset.</li><li>Everything is configurable in the configuration data asset.</li><li>Everything is done in blueprints and can easily be changed or expanded upon</li><li>Can be used for other object classes such as static meshes, you simply need to add that class to the classes array in the data asset.</li></ul><p><strong>Number of Blueprints</strong>: 2</p><p><strong>Supported Development Platforms</strong>: Compatible with any platform</p><p><strong>Documentation</strong>: Included in PDF format.</p><p>All widget components, blueprint variables and functions also have tooltips describing their usage and what each of them does.</p><p><strong>Video Showcase:</strong> <a href=\"https://youtu.be/9my-lZfAlAw\" rel=\"nofollow\"><em>https://youtu.be/9my-lZfAlAw</em></a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4d848d71-5199-413e-85a5-b974b987f009"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-1348347417896cbe9e2ac5787245c843.png",
+      "md5": "1348347417896cbe9e2ac5787245c843",
+      "size": 463784,
+      "uploadedDate": "2024-02-14T19:08:47.624Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-f60338c57a650f20aa93b071f2b8c465.jpg",
+      "md5": "f60338c57a650f20aa93b071f2b8c465",
+      "size": 249168,
+      "uploadedDate": "2024-02-14T19:08:48.145Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-6a5776de2fd66a9d638ce7d90525101d.jpg",
+      "md5": "6a5776de2fd66a9d638ce7d90525101d",
+      "size": 274118,
+      "uploadedDate": "2024-02-14T19:08:48.626Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-3409fbec761442cfea4b4dd60b330966.jpg",
+      "md5": "3409fbec761442cfea4b4dd60b330966",
+      "size": 251453,
+      "uploadedDate": "2024-02-14T19:08:48.990Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-73142faf283007a99f6daf8913eea947.jpg",
+      "md5": "73142faf283007a99f6daf8913eea947",
+      "size": 251824,
+      "uploadedDate": "2024-02-14T19:08:49.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-7f89f2cd1e4f60c11501941259f2df32.jpg",
+      "md5": "7f89f2cd1e4f60c11501941259f2df32",
+      "size": 250964,
+      "uploadedDate": "2024-02-14T19:08:49.824Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/2D25DPlacementTool_thumb-284x284-0a37b630faea35cc1a70285d5ccbe62c.png",
+      "md5": "0a37b630faea35cc1a70285d5ccbe62c",
+      "size": 96663,
+      "uploadedDate": "2024-02-14T19:08:50.146Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/2D25DPlacementTool_featured-894x488-224211acfd4aba95131912ce7892e32a.png",
+      "md5": "224211acfd4aba95131912ce7892e32a",
+      "size": 253741,
+      "uploadedDate": "2024-02-14T19:08:50.290Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-1348347417896cbe9e2ac5787245c843_Snapshot.png",
+      "md5": "c28490b69310caf0a29b0382754c4de4",
+      "size": 6921,
+      "uploadedDate": "2024-02-14T19:08:47.967Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-f60338c57a650f20aa93b071f2b8c465_Snapshot.jpg",
+      "md5": "78e5c3f84095bf665324dd9fdc4bad1e",
+      "size": 5572,
+      "uploadedDate": "2024-02-14T19:08:48.472Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-6a5776de2fd66a9d638ce7d90525101d_Snapshot.jpg",
+      "md5": "b917ecea4198673f320dc2e1597aaff8",
+      "size": 5801,
+      "uploadedDate": "2024-02-14T19:08:48.910Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-3409fbec761442cfea4b4dd60b330966_Snapshot.jpg",
+      "md5": "0917a08c09e4ffad915ac9b9de244e33",
+      "size": 5685,
+      "uploadedDate": "2024-02-14T19:08:49.291Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-73142faf283007a99f6daf8913eea947_Snapshot.jpg",
+      "md5": "5da521f4f8610c7d827983b2e876da4a",
+      "size": 5826,
+      "uploadedDate": "2024-02-14T19:08:49.666Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-7f89f2cd1e4f60c11501941259f2df32_Snapshot.jpg",
+      "md5": "2267b9974d464e8d214e9acbae6aa430",
+      "size": 5762,
+      "uploadedDate": "2024-02-14T19:08:50.101Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d11db5411a4641249f6ee94028306ef1"
+    }
+  ],
+  "catalogNs": null
+}

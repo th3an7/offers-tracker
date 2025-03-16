@@ -1,0 +1,194 @@
+{
+  "id": "e8c488b5fbc446a5b77e9efa99f7e81d",
+  "namespace": "ue",
+  "title": "Connecting Line",
+  "description": "Draw mesh-based line to connect 2 or more actors.",
+  "longDescription": "<p>Draw mesh-based line to connect 2 or more actors.</p><p>Can be used on puzzle game to indicate the connection of the objects.</p><p><br /></p><p>Tutorial Video: https://youtu.be/9q-zXCqE1FA</p><p><br /></p><p>Patch 1.1.3:</p><ul><li>Fix the incorrect placement of connecting 2 <strong>Connect Point</strong>.</li><li>Check for invalidation of <strong>Connect Point</strong>.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "connecting-line",
+  "creationDate": "2021-08-18T15:09:43.822Z",
+  "lastModifiedDate": "2024-10-15T11:19:15.215Z",
+  "effectiveDate": "2021-08-18T15:09:43.792Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tcl2wtkpr8zqb9mut9bahmab7gaj7d",
+    "name": "Forge9"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Written in C&#43;&#43;. Efficient performance and support C&#43;&#43; and Blueprint project.</li><li> Easy-to-use. With an example map.</li><li> Bundled with additional functions. &#39;Serial Connect&#39;, &#39;Connect 1 to many&#39;, and &#39;Quick Connect&#39;.</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 3</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: <a href=\"https://drive.google.com/file/d/13t2dhekWD6QvCa2sNDEK-SCTxKyLKLoP/view?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1vNTyiVoEt5M4zonZxaEKus8caS-DvgDG/view?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Important/Additional Notes: The core is written in C&#43;&#43;, the example is made with Blueprint.</p><p><br /></p><p><strong>Please note that support for Unreal Engine versions 4.25 and 4.26 has been discontinued.</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "30da84da-7e2b-42d6-be0b-e17f70eb060a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-3a11e75ccf1b2eafeaf4fb828a1ca94a.png",
+      "md5": "3a11e75ccf1b2eafeaf4fb828a1ca94a",
+      "size": 1890394,
+      "uploadedDate": "2021-08-17T08:04:27.426Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-4c67e15030c474e4fd4704acaf0e3716.png",
+      "md5": "4c67e15030c474e4fd4704acaf0e3716",
+      "size": 2421824,
+      "uploadedDate": "2021-08-18T09:26:21.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-5989eecfef03d98be36778c20d11bcbf.png",
+      "md5": "5989eecfef03d98be36778c20d11bcbf",
+      "size": 2780593,
+      "uploadedDate": "2021-08-18T09:26:22.223Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ConnectingLine_thumb-284x284-1ef5607e6c00609ce320a708bad96037.png",
+      "md5": "1ef5607e6c00609ce320a708bad96037",
+      "size": 19252,
+      "uploadedDate": "2021-08-17T08:04:27.771Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ConnectingLine_featured-894x488-42e0ad7f51897e0a003b317649b415e1.png",
+      "md5": "42e0ad7f51897e0a003b317649b415e1",
+      "size": 285556,
+      "uploadedDate": "2021-08-17T08:04:27.915Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-4c67e15030c474e4fd4704acaf0e3716_Snapshot.png",
+      "md5": "dfdecaa920dc28c4bbec54f31c085826",
+      "size": 4571,
+      "uploadedDate": "2021-08-18T09:26:22.041Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-5989eecfef03d98be36778c20d11bcbf_Snapshot.png",
+      "md5": "048c98fc9c7f2598d53ba59cf6399d5e",
+      "size": 5977,
+      "uploadedDate": "2021-08-18T09:26:22.526Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-4c67e15030c474e4fd4704acaf0e3716_Snapshot.png",
+      "md5": "dfdecaa920dc28c4bbec54f31c085826",
+      "size": 4571,
+      "uploadedDate": "2021-08-17T10:54:40.083Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-06e790a55d4523b9e8b29e8583b16ef7_Snapshot.png",
+      "md5": "789fc8ce14be0cf3c11a9327aabfcd1c",
+      "size": 4831,
+      "uploadedDate": "2021-08-17T10:54:40.638Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-7b34f26f6dca78fc4d77e4307bc51f24_Snapshot.png",
+      "md5": "f68867aac2b95e9c3b11322a254378a0",
+      "size": 2227,
+      "uploadedDate": "2021-08-17T08:04:27.214Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-3a11e75ccf1b2eafeaf4fb828a1ca94a_Snapshot.png",
+      "md5": "906f95d00d0678430ae4667b3a97a527",
+      "size": 3415,
+      "uploadedDate": "2021-08-17T08:04:27.735Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ImagePlaceholder-1920x1080-9eed71f8f97ed7e3b9beca35fa8a7271_Snapshot.png",
+      "md5": "778ae32f970b490af04320573e9fe2b7",
+      "size": 4526,
+      "uploadedDate": "2021-08-16T17:47:21.968Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3a543ceb07774487b18737c101a0a67d"
+    }
+  ],
+  "catalogNs": null
+}

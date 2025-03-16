@@ -1,0 +1,125 @@
+{
+  "id": "b942f10766eb428b9294b0d3862101c4",
+  "namespace": "ue",
+  "title": "iLocalPlayer4UE",
+  "description": "Advanced Functions：\r\n1. Side-by-Side Stereo 3D implementing;\r\n2. Asymmetric projection(or named asymmetric view frustum) implementing.",
+  "longDescription": "<h1><strong>Hi, everyone. Our email is: </strong></h1><p><a href=\"mailto:yehaike&#64;foxmail.com\" rel=\"nofollow\"><strong>yehaike&#64;foxmail.com</strong></a><strong> or</strong><a href=\"mailto:%20841660657&#64;qq.com\" rel=\"nofollow\"><strong> </strong></a><a href=\"mailto:841660657&#64;qq.com\" rel=\"nofollow\"><strong>841660657&#64;qq.com</strong></a></p><p><br /></p><p>This is a UE C&#43;&#43; plugin which contains following advanced functions.</p><p>1. Side-by-Side Stereo 3D implementing: You can get two eye images on your UE game viewport.The left eye image is on the left side of the viewport and right eye image is on the right side.</p><p>2. Asymmetric projection(or named asymmetric view frustum) implementing: With this function, you can implement asymmetric projection matrix effects. Such as splicing one spherical screen with multi-PCs(Multi UE Game Viewports).</p><p><br /></p><p>Documents: <a href=\"https://gitlab.com/UE4MarketplaceSubmission_Public/iLocalPlayer_Public/tree/master\" rel=\"nofollow\">gitlab.com/UE4MarketplaceSubmission_Public/iLocalPlayer_Public/tree/master</a></p><p>How to caputure Side-by-Side movie in the sequencer: https://bit.ly/2Idt5Gc</p><p><br /></p><p>Forum Thread: <a href=\"https://forums.unrealengine.com/showthread.php?139965-iLocalPlayer-UE4-Plugin&amp;p&#61;682506\" rel=\"nofollow\">iLocalPlayer UE4 Plugin</a></p><p><br /></p><p>iLocalPlayer4UE UE Plugin Demo(YouTube):</p><p><a href=\"https://www.youtube.com/watch?v&#61;oAbrCDQswLo&amp;feature&#61;youtu.be\" rel=\"nofollow\">iLocalPlayer UE4 Plugin Demo</a></p><p>or</p><p>iLocalPlayer UE4 Plugin Demo(YouKu):</p><p><a href=\"http://v.youku.com/v_show/id_XMjY3NzE4ODUxMg\" rel=\"nofollow\">iLocalPlayer UE4 Plugin Demo</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ilocalplayer",
+  "creationDate": "2017-04-07T17:38:06.746Z",
+  "lastModifiedDate": "2024-10-04T01:36:02.752Z",
+  "effectiveDate": "2017-07-20T00:00:00.000Z",
+  "viewableDate": "2017-07-20T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-dddcb75639409c9160f37251d3e43e",
+    "name": "YeHaike"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>One UE4 C&#43;&#43; Plugin(Named “iLocalPlayer4UE4”).</p><p>Number of overview Maps: 1</p><p>Number of blueprint actors: 1</p><p>Number of widget blueprints: 2</p><p>Number of &#34;.cpp &#34; files: 4</p><p>Number of &#34;.h&#34; files: 7</p><p>Physically-Based Rendering: (No).</p><p>Number of Materials: 4</p><p>Number of Material Functions: 2</p><p>Number of Textures: 2</p><p>Number of slate brush: 1</p><p>Network Replicated: No</p><p>Intended Platform: Desktop(Windows; Mac);</p><p>Platforms Tested: Desktop(Windows; Mac)</p><p>Supported Development Platforms: Desktop(Windows; Mac)</p><p>Supported Target Build Platforms: Desktop(Windows; Mac)</p><p>Example Project and Documentation Included: Yes; Link: <a href=\"https://gitlab.com/UE4MarketplaceSubmission_Public/iLocalPlayer_Public\" rel=\"nofollow\">gitlab.com/UE4MarketplaceSubmission_Public/iLocalPlayer_Public</a></p><p><br /></p><p><strong>Notice:</strong></p><ol><li>We submitted a new Pull-Request into &#34;EpicGames/UnrealEngine:master&#34; to fix the issue(When capturing a movie in the sequencer, Side-by-Side Stereo-3D effect is not correct). The Pull-Request Link(You must be logged into a UE4-Github linked account to view this): <a href=\"https://github.com/EpicGames/UnrealEngine/pull/4370\" rel=\"nofollow\">https://github.com/EpicGames/UnrealEngine/pull/4370</a></li><li>How to caputure Side-by-Side movie in the sequencer: https://bit.ly/2Idt5Gc</li><li>Actually, if you enable stereo without this plugin using the -emulatestereo command, you will not get the correct side-by-side stereo 3D effect(you can try and test the side-by-side 3D effect, and you will find out that it is not the correct stereo 3D effect), this is why we write this plugin to deal with this problem. This plugin can help you render the correct side-by-side stereo 3D effect.</li></ol>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0f38e155-128c-4c5b-92ab-140d3dab259d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/iLocalPlayer_screenshot01-1920x1080-aad3eca1c08cfb01518d02c6ca87ca61.png",
+      "md5": "aad3eca1c08cfb01518d02c6ca87ca61",
+      "size": 517066,
+      "uploadedDate": "2017-04-07T17:36:12.220Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/iLocalPlayer_screenshot02-1920x1080-d09094095082ff816b387cbf42eb721d.png",
+      "md5": "d09094095082ff816b387cbf42eb721d",
+      "size": 332614,
+      "uploadedDate": "2017-04-07T17:36:10.512Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/iLocalPlayer_screenshot03-1920x1080-31a061106e64665c605cca3913a51351.png",
+      "md5": "31a061106e64665c605cca3913a51351",
+      "size": 352986,
+      "uploadedDate": "2017-04-07T17:36:08.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/iLocalPlayer_screenshot04-1920x1080-41abb244882ddae94621a5697bbb8e19.png",
+      "md5": "41abb244882ddae94621a5697bbb8e19",
+      "size": 311776,
+      "uploadedDate": "2017-04-07T17:36:06.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/iLocalPlayer_screenshot05-1920x1080-852bb355de66054bcb731f1b48fe9ad2.png",
+      "md5": "852bb355de66054bcb731f1b48fe9ad2",
+      "size": 366475,
+      "uploadedDate": "2017-04-07T17:36:04.927Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/iLocalPlayer_Thumbnail-284x284-2f283613f8acf6eaa169a87dc4d5e85d.png",
+      "md5": "2f283613f8acf6eaa169a87dc4d5e85d",
+      "size": 90495,
+      "uploadedDate": "2017-04-07T17:36:02.201Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/iLocalPlayer_Featured-894x488-8abc6fe370fb03a1bd9065eb2718c48d.png",
+      "md5": "8abc6fe370fb03a1bd9065eb2718c48d",
+      "size": 510783,
+      "uploadedDate": "2017-04-07T17:36:14.732Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "e7ea776991fb4730bd240e2201a4f2bb"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,236 @@
+{
+  "id": "0283702886e8467383899c7b791c4b40",
+  "namespace": "ue",
+  "title": "Instance Tool",
+  "description": "Instanced Static Mesh Editing Made Easy! Instance Tool is an editor mode plugin for Unreal Engine, it allows you to quickly select/edit/convert Instanced Static Meshes in editor viewports.",
+  "longDescription": "<p>Instance Tool is an editor mode plugin for Unreal Engine, it allows you to quickly select/edit/convert Instanced Static Meshes in editor viewports.</p><p>It also provides extra level editing functionalities like aligning and snapping to make editing instances easier.</p><p><em>(Please note that 4.22&#43; engine now implements auto-instancing feature which makes the manual converrsion might not necessary depends on the level setup.)</em></p><p><br /></p><p><strong>Videos:</strong></p><p><a href=\"https://www.youtube.com/watch?v&#61;-V6EBfRxmXM\" rel=\"nofollow\">Overview</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;B7BUmlmGNO8\" rel=\"nofollow\">Timelapse</a></p><p><strong>Support:</strong></p><p><a href=\"https://discord.gg/dT3QWx9\" rel=\"nofollow\">Discord</a></p><p><a href=\"https://forums.unrealengine.com/showthread.php?121801-Instance-Tool-Editing-instances-directly-in-editor-viewport\" rel=\"nofollow\">Forum thread</a></p><p><br /></p><p><strong>Features</strong>:</p><p>- One-click conversion between Static Mesh and Instanced Static Mesh</p><p>- Select/move/rotate/scale instances directly in editor viewports</p><p>- Flexible select options (Marquee select, Select by axis, Lock/Unlock selection)</p><p>- Create instances quickly with Alt &#43; Drag or standard duplicate hotkey</p><p>- Align instances by location/rotation or to grid</p><p>- Snap instances by axis</p><p>- Distribute/Line-Up instances</p><p>- Apply delta transform to instances panel with duplicate option</p><p>- Multi-edit support</p><p>- Hotkeys for Hide/Unhide transform widget and focus to selected instances</p><p>- Experimental Blueprint Instances Editing support</p><p>- Full undo support for all instances editing operations</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "instance-tool",
+  "creationDate": "2016-08-25T19:27:55.727Z",
+  "lastModifiedDate": "2024-10-15T11:35:05.642Z",
+  "effectiveDate": "2016-10-06T00:00:00.000Z",
+  "viewableDate": "2016-10-06T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-64fcefb01e4787a414d5b4056c87e1",
+    "name": "Mary Nate"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>- Full c&#43;&#43; source code included, works with both Luancher and Github builds</p><p>- Editor mode plugin, works with both c&#43;&#43; and blueprint only projects</p><p><br /></p><p>Modules:</p><p>- InstanceTool (Editor)</p><p><br /></p><p>Documentation:</p><p><a href=\"https://docs.google.com/document/d/1rKq7WLvGlm-5RPTAHmF5OXi8_ZSNa74tFjMx4ARHhRY/pub#h.wmwjca3fjlc1\" rel=\"nofollow\">Instance Tool User Guide (WIP)</a></p><p><br /></p><p>Supported Development Platforms: Windows (Prebuilt Binary for Mac but not tested)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2402ff9e-8f84-4b97-863f-3c7427ea0f8a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_screenshot_1-1920x1080-68770dc3d453864c020e68a994942083.jpg",
+      "md5": "68770dc3d453864c020e68a994942083",
+      "size": 255513,
+      "uploadedDate": "2016-09-27T18:35:44.074Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_screenshot_2-1920x1080-049aeb15bac12cc3720093622635174f.jpg",
+      "md5": "049aeb15bac12cc3720093622635174f",
+      "size": 248696,
+      "uploadedDate": "2016-09-27T18:35:42.662Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_screenshot_3-1920x1080-04abce59b9cca147c6b4c31f4a27d3ec.jpg",
+      "md5": "04abce59b9cca147c6b4c31f4a27d3ec",
+      "size": 282324,
+      "uploadedDate": "2016-09-27T18:35:40.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_screenshot_4-1920x1080-68f60d668d7146ab73fea73f16b448d0.jpg",
+      "md5": "68f60d668d7146ab73fea73f16b448d0",
+      "size": 315054,
+      "uploadedDate": "2016-09-27T18:35:38.940Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_screenshot_5-1920x1080-85cdb706ef1199ee310c9b4cd40b1b57.jpg",
+      "md5": "85cdb706ef1199ee310c9b4cd40b1b57",
+      "size": 541493,
+      "uploadedDate": "2016-09-27T18:35:37.516Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_screenshot_6-1920x1080-caf5ec205496d0ffb42d6cd1a7dd5e27.jpg",
+      "md5": "caf5ec205496d0ffb42d6cd1a7dd5e27",
+      "size": 316920,
+      "uploadedDate": "2016-11-07T16:33:51.122Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_screenshot_7-1920x1080-ce11e1497e8f0529bc734ab6f46b2d18.jpg",
+      "md5": "ce11e1497e8f0529bc734ab6f46b2d18",
+      "size": 409453,
+      "uploadedDate": "2016-11-17T16:26:31.922Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_Thumb-284x284-86127a415611d7ae4e0fa0ff6fa83b0c.png",
+      "md5": "86127a415611d7ae4e0fa0ff6fa83b0c",
+      "size": 64906,
+      "uploadedDate": "2016-09-27T18:35:36.134Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_Featured-476x246-c72440c8e4cfd00046f2c149e9d3eaf1.png",
+      "md5": "c72440c8e4cfd00046f2c149e9d3eaf1",
+      "size": 41330,
+      "uploadedDate": "2016-09-27T18:35:47.419Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/InstanceTool_FeaturedNew-894x488-f9b5e5af47481a706ea9b453c3c711b1.png",
+      "md5": "f9b5e5af47481a706ea9b453c3c711b1",
+      "size": 268565,
+      "uploadedDate": "2016-09-27T18:35:46.235Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "612dc30b223b4456a4c302bd7191909a"
+    }
+  ],
+  "catalogNs": null
+}

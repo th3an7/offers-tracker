@@ -1,0 +1,212 @@
+{
+  "id": "3daf1f4957fe4a13a4b9601554453db7",
+  "namespace": "ue",
+  "title": "Custom Category Section",
+  "description": "Easily organize and filter actors properties!",
+  "longDescription": "<p><strong>*** NEW UPDATED VERSION 1.1.0 ***</strong></p><p>Add enum to allow user to choose between two different behavior:</p><ol><li><strong>Addictive :</strong> all selected categories are added to the default engine ones.</li><li><strong>Override :</strong> all selected categories are added, but the <strong>non-selected </strong> one are removed (also engine default)</li></ol><p><strong>**************************************</strong></p><p><br /></p><p>This plugin allows users to add custom section buttons inside Actors, based on their class and their property categories. These buttons allow to quickly filter actors properties. </p><p>Remember that these buttons are only available on actor instance inside the level.</p><p><strong>The plugin supports categories created both from code and from blueprint.</strong></p><p><br /></p><p><strong>Changelog:</strong></p><p><strong>Version 1.1.0</strong></p><ul><li>Added ESectionBehavior enum to allow user to choose between override or addictive behavior</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "custom-category-section",
+  "creationDate": "2023-02-27T18:17:15.397Z",
+  "lastModifiedDate": "2024-10-10T01:18:48.389Z",
+  "effectiveDate": "2023-02-27T18:17:15.341Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9emz67bkjujsmg2lacgmlwlqq3wa7v",
+    "name": "Ivy Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Customize category sections button inside actor instance in level</li><li>Support categories from both code and blueprint</li><li>Allow to choose if make section addictive or override engine default</li></ul><p>Code Modules:</p><ul><li>CustomCategorySection [Editor]</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 6</p><p>Network Replicated: No (not needed)</p><p>Supported Development Platforms: Windows (macOS, Linux not tested but should work fine)</p><p>Documentation: <a href=\"https://github.com/RealSparkle/CategorySectionsDoc\" rel=\"nofollow\">Category Sections Doc</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "615790dd-9525-43fd-a5fc-6855bb64871e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 01-1920x1080-8b2341d4b07e8561dfff14ba2ff877ec.png",
+      "md5": "8b2341d4b07e8561dfff14ba2ff877ec",
+      "size": 180837,
+      "uploadedDate": "2023-02-26T16:39:56.174Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 02-1920x1080-435afe12634ed73a534b30d8013e37ca.png",
+      "md5": "435afe12634ed73a534b30d8013e37ca",
+      "size": 128203,
+      "uploadedDate": "2023-02-26T16:39:56.515Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CustomCategorySection_thumb-284x284-b8c28bfd574d58dc3e9a03fc61d1fb11.png",
+      "md5": "b8c28bfd574d58dc3e9a03fc61d1fb11",
+      "size": 20955,
+      "uploadedDate": "2023-02-26T16:39:56.830Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CustomCategorySection_featured-894x488-5597cc28bbb6d7f29f0dda084cbbbbe2.png",
+      "md5": "5597cc28bbb6d7f29f0dda084cbbbbe2",
+      "size": 124892,
+      "uploadedDate": "2023-02-26T16:39:56.910Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 01-1920x1080-8b2341d4b07e8561dfff14ba2ff877ec_Snapshot.png",
+      "md5": "2a1259ee26ac1f97d564cad402050ac9",
+      "size": 4572,
+      "uploadedDate": "2023-02-26T16:39:56.428Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 02-1920x1080-435afe12634ed73a534b30d8013e37ca_Snapshot.png",
+      "md5": "84027742dc546a7554d20dd20e953190",
+      "size": 3326,
+      "uploadedDate": "2023-02-26T16:39:56.756Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0a961809fd3e41a7ae81a90b3833a832"
+    }
+  ],
+  "catalogNs": null
+}

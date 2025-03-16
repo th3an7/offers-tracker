@@ -1,0 +1,305 @@
+{
+  "id": "df36f7decb934761bed0d61cc4018f98",
+  "namespace": "ue",
+  "title": "Tower Defense Starter Kit",
+  "description": "The Tower Defense Starter Kit is a pure blueprint framework that enables quick & easy creation of Tower Defense games.",
+  "longDescription": "<p><strong>**NEW FEATURES (v2.31)**</strong></p><p><a href=\"https://forums.unrealengine.com/t/tower-defense-starter-kit/57044/395\" rel=\"nofollow\"><strong>Change Log</strong></a></p><p><br /></p><p><a href=\"https://forums.unrealengine.com/t/tower-defense-starter-kit/57044\" rel=\"nofollow\"><strong>Support Thread</strong></a></p><p><a href=\"https://www.youtube.com/watch?v&#61;CXq1zq7FGj0&amp;list&#61;PLMrUFryxCzn6fhL-pzjKy4HRAkYVzIuPg&amp;index&#61;2&amp;t&#61;0s\" rel=\"nofollow\"><strong>Preview Video</strong></a> [v1.0 Edition]</p><p><a href=\"https://forums.unrealengine.com/t/tower-defense-starter-kit/57044/2?u&#61;stormrage256\" rel=\"nofollow\"><strong>Tutorials/Concept Overviews</strong></a></p><p><br /></p><p>• Multiple types of AI Wave Spawning systems, with support for both Endless waves &amp; repeating wave cycles with escalating difficulties</p><p>• Towers: Machine Gun, Shockwave, Laser, Tesla, Sniper, Artillery, Boost, &amp; Mining Tower</p><p>• Enemy AI: Tank, Healer, Rusher, Ranged, &amp; Tower Disabler</p><p>• Tower Abilities: Overdrive &amp; Repair</p><p>• Global Abilities: Airstrike, Tower Guardians, Proximity Mines, &amp; Regen Field</p><p>• Branching Upgrade Paths for Towers</p><p>• Special Waves that spawn Bosses at the end</p><p>• Grid Generators with drag &amp; drop support to create grid cells for tower placement</p><p>• Main menu with level selection &amp; persistent map unlocks across multiple sessions</p><p>• Loadout menu for selecting towers &amp; global abilities at mission start</p><p>• Supports spline-based multi-lane paths &amp; navmesh-based pathfinding</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tower-defense-starter-kit",
+  "creationDate": "2016-01-28T21:59:49.048Z",
+  "lastModifiedDate": "2024-10-07T12:00:31.477Z",
+  "effectiveDate": "2016-03-02T00:00:00.000Z",
+  "viewableDate": "2016-03-02T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-b30626b2534f9aa3b9e0dde0fa971e",
+    "name": "Rohit Kotiveetil"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>• Modular components are employed throughout the toolkit to handle special functionalities &amp; aid in the creation of new variations to existing entities with minimal coupling.</p><p>• The Wave Manager allows complete customization of waves through parameters including Enemy Type, Number Of Units, Spawn Point, Spawn Delay, etc.</p><p>• AI Spawn Points support precached &amp; runtime generation of randomized spawning locations.</p><p>• Event-driven logic used predominantly over continuously ticking services for HUD updates.</p><p>• All information pertaining to the towers &amp; abilities are displayed dynamically using a data-driven approach, thus eliminating the need for manual HUD modifications when adding/removing towers.</p><p><br /></p><p>Intended Platform: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2f863db0-a947-4911-adc2-18c83726b92b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_TDSK_screenshot_1-1920x1080-848c0abb082f5eda1207e4e8aea66e72.png",
+      "md5": "848c0abb082f5eda1207e4e8aea66e72",
+      "size": 258660,
+      "uploadedDate": "2016-01-28T21:58:35.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreTDSKscreenshot8-1920x1080-e82e3fbe37f14e64790c3bebb47b1c38.png",
+      "md5": "e82e3fbe37f14e64790c3bebb47b1c38",
+      "size": 790628,
+      "uploadedDate": "2019-03-06T16:18:03.376Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreTDSKscreenshot7-1920x1080-1176a91584e1d7bb9bbfe0b565530453.png",
+      "md5": "1176a91584e1d7bb9bbfe0b565530453",
+      "size": 181771,
+      "uploadedDate": "2019-03-06T16:18:03.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreTDSKscreenshot10-1920x1080-31a5afe9d64ff4160db00494fcb1d72d.png",
+      "md5": "31a5afe9d64ff4160db00494fcb1d72d",
+      "size": 1194973,
+      "uploadedDate": "2019-05-24T11:08:28.749Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_TDSK_screenshot_4-1920x1080-5e9587fab5f1b5d26094ad626242f0e1.png",
+      "md5": "5e9587fab5f1b5d26094ad626242f0e1",
+      "size": 378526,
+      "uploadedDate": "2016-01-28T21:58:26.991Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreTDSKscreenshot9-1920x1080-6741f3b57317fdacf16a45aeec214abb.png",
+      "md5": "6741f3b57317fdacf16a45aeec214abb",
+      "size": 180746,
+      "uploadedDate": "2019-05-24T11:08:29.115Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/TDSK_Thumb-284x284-072334e1058862be0263f727d6fa2629.png",
+      "md5": "072334e1058862be0263f727d6fa2629",
+      "size": 24914,
+      "uploadedDate": "2016-01-28T21:58:20.545Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/TDSK_featured-476x246-070a302c5e3e547db2b28aa47f3284d8.png",
+      "md5": "070a302c5e3e547db2b28aa47f3284d8",
+      "size": 27190,
+      "uploadedDate": "2016-01-28T21:58:41.408Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreTDSKscreenshot10-1920x1080-31a5afe9d64ff4160db00494fcb1d72d_Snapshot.png",
+      "md5": "5b7b05e423bac8d3ce4d74bd765c65b2",
+      "size": 7847,
+      "uploadedDate": "2019-05-24T11:08:29.018Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreTDSKscreenshot9-1920x1080-6741f3b57317fdacf16a45aeec214abb_Snapshot.png",
+      "md5": "4ae984a9b5978dc662660e295318789e",
+      "size": 5371,
+      "uploadedDate": "2019-05-24T11:08:29.331Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreTDSKscreenshot8-1920x1080-e82e3fbe37f14e64790c3bebb47b1c38_Snapshot.png",
+      "md5": "a1b7ce1519f96ea240ca646b93ad5159",
+      "size": 10528,
+      "uploadedDate": "2019-03-06T16:18:03.542Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreTDSKscreenshot7-1920x1080-1176a91584e1d7bb9bbfe0b565530453_Snapshot.png",
+      "md5": "235da56d5e8be840982764ffae214038",
+      "size": 6991,
+      "uploadedDate": "2019-03-06T16:18:03.811Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreTDSKscreenshot10-1920x1080-35ac0c4e5aec8a4e97587c6a2f4e985c_Snapshot.png",
+      "md5": "81dea469caeab4c70a0bf3242e8c2628",
+      "size": 9998,
+      "uploadedDate": "2019-03-06T16:18:04.085Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreTDSKscreenshot9-1920x1080-d3c8a48d3252eb53520bed1759b724eb_Snapshot.png",
+      "md5": "ab6e61811740c769043211555e4a4f2e",
+      "size": 6396,
+      "uploadedDate": "2019-03-06T16:18:04.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/TDSK_FeaturedNew-894x488-cbb1d6405273d19fbf268b1ebe90b970.png",
+      "md5": "cbb1d6405273d19fbf268b1ebe90b970",
+      "size": 75738,
+      "uploadedDate": "2016-01-28T21:58:39.319Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "87311fd4786f4424ab2913ae71f352ad"
+    }
+  ],
+  "catalogNs": null
+}

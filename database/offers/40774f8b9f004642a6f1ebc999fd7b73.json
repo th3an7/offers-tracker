@@ -1,0 +1,107 @@
+{
+  "id": "40774f8b9f004642a6f1ebc999fd7b73",
+  "namespace": "ue",
+  "title": "Lan Discovery Service: Multiplayer Toolkit",
+  "description": "Autodiscovery service of Servers that host multiplayer matches in the local LAN Network.",
+  "longDescription": "<p><strong>DEMO VERSION (v.1.0)</strong></p><p>Try yourself the DEMO project, all the stuff present in the demo are included in the plugin</p><p><a href=\"https://s3.us-east-2.amazonaws.com/landiscoveryservice/demo/LanDiscoveryService_DemoWin64_v1.0.zip\" rel=\"nofollow\">Download here the demo version (Windows 64bit)</a></p><p><br /></p><p>Let the user autodiscover the LAN matches that are present in its own local LAN!!</p><p><br /></p><p>All the menu flow to discover and connect to Servers are included.</p><p>There&#39;s also the possibility to send and display all the custom info that you want from servers to client during the discovery phase.</p><p><br /></p><p>The full documentation is available <a href=\"https://landiscoveryservice.s3.us-east-2.amazonaws.com/documentation/LDSMT_doc.pdf\" rel=\"nofollow\">here</a>.</p><p><br /></p><p><strong>Quick how to use the example (further details in the documentation):&#xfeff;</strong></p><p>In order to use the example flow as you tried on the demo, you need to make some configuration steps:</p><ul><li>You need to have enabled the plugin (<a href=\"https://s3.us-east-2.amazonaws.com/landiscoveryservice/demo/example1.png\" rel=\"nofollow\">here an example</a>) in order to use it</li><li>Engine and plugin visualization on the content browser should be enabled (<a href=\"https://s3.us-east-2.amazonaws.com/landiscoveryservice/demo/example2.png\" rel=\"nofollow\">here an example</a>)</li><li>Set default game mode to be &#34;BP_ExampleMenuGameMode&#34;, it&#39;s placed in the plugin content directory</li><li>If you want to try it inside the editor (PIE), you need to set launch players to a minimum of 2</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "lan-discovery-service-multiplayer-toolkit",
+  "creationDate": "2018-06-14T10:17:30.386Z",
+  "lastModifiedDate": "2024-10-01T23:52:32.455Z",
+  "effectiveDate": "2018-06-14T10:17:30.318Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wdwtewev3fuk4ckkkgq8v5ne4f2deu",
+    "name": "LabXX"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Auto discovery of Server (both listen and dedicated) in the local LAN</li><li> All the menu flow represents the research and lets the user connect to the found server</li><li> All the stuff present in the DEMO is present in the Plugin</li></ul><p>Code Modules:</p><ul><li> LanServiceDiscovery (Runtime)</li></ul><p>Number of BP: 11</p><p>Number of C&#43;&#43; Classes: 8</p><p>Important/Additional Notes: Be sure on Windows to allow your application through the Windows Firewall</p><p><br /></p><p><strong>IMPORTANT, read here if you&#39;re using engine version to 4.18 included*:</strong></p><p>* Problem fixed for version for engine version from 4.19 on.</p><p>Some people noticed a problem for which the blueprints that should be shipped within the plugin are not present. I&#39;m working to fix the issue but in the meantime you can start working with the plugin following the instruction below:</p><p><br /></p><p>Go to the plugin installation folder, on most computers is the following<em> C:\\Program Files\\Epic Games\\UE_4.18\\Engine\\Plugins\\Marketplace\\LanDiscoveryService, </em>open the file<em> LanDiscoveryService.uplugin </em>and modify this row from this:</p><p><br /></p><p><em>&#34;CanContainContent&#34; : false,</em></p><p>to this:</p><p><em>&#34;CanContainContent&#34; : true,</em></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a1081b2a-3afc-4402-9533-74bc4ee47787"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sample1-1920x1080-d1987f8b63bed084d0809e814b7ff8c2.png",
+      "md5": "d1987f8b63bed084d0809e814b7ff8c2",
+      "size": 597113,
+      "uploadedDate": "2018-04-20T19:40:47.627Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sample2-1920x1080-a22181b7b762f1668fc4d5ee96185142.png",
+      "md5": "a22181b7b762f1668fc4d5ee96185142",
+      "size": 1630037,
+      "uploadedDate": "2018-04-20T19:40:47.842Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sample3-1920x1080-f5c033b31dfbf43c11a61c645d7b03a9.png",
+      "md5": "f5c033b31dfbf43c11a61c645d7b03a9",
+      "size": 1772835,
+      "uploadedDate": "2018-04-20T19:40:48.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LanDiscoveryServiceMultiplayertoolkit_thumb-284x284-0352d47d0febdf03b54dddca5ed950c2.png",
+      "md5": "0352d47d0febdf03b54dddca5ed950c2",
+      "size": 112405,
+      "uploadedDate": "2018-04-20T19:40:48.121Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LanDiscoveryServiceMultiplayertoolkit_featured-894x488-702a706c421be8f010d3c8fa4cfad85b.png",
+      "md5": "702a706c421be8f010d3c8fa4cfad85b",
+      "size": 414274,
+      "uploadedDate": "2018-04-20T19:40:48.239Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4dcb782d4ab94459b5b1947bb6ccba0d"
+    }
+  ],
+  "catalogNs": null
+}

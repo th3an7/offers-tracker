@@ -1,0 +1,347 @@
+{
+  "id": "299559bc9f5448739aa07732d9b4add1",
+  "namespace": "ue",
+  "title": "Mo-Sys LiveLink",
+  "description": "Stream live Mo-Sys tracking data into Unreal",
+  "longDescription": "<p>Mo-Sys LiveLink is the first step to create immersive CG-only content for live broadcast, film, game cinematics, virtual production and architectural visualization with Mo-Sys hardware. Check out <a href=\"https://www.mo-sys.com/product/camera-tracking/virtual-production/mo-sys-vp-pro/\" rel=\"nofollow\">Mo-Sys VP Pro</a> to access a wide range of features for integrating live-action in virtual production.</p><p> </p><p>Broadcasters and filmmakers are using Mo-Sys LiveLink to stream live tracking data from all Mo-Sys robotics and tracking hardware such as StarTracker and RoboJib directly into the Unreal Engine</p><p> </p><p>The plugin connects the real world with the engine, so you can enhance your productions with real camera operator performances and much more. </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mo-sys-tracking",
+  "creationDate": "2019-01-07T16:33:27.896Z",
+  "lastModifiedDate": "2024-10-15T04:51:51.422Z",
+  "effectiveDate": "2019-01-07T16:33:27.865Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-humw4a5aqs4papg3u5hbzppbtrjkw5",
+    "name": "Mo-Sys"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Stream Live Tracking Data - </strong>Stream real-time tracking data over LiveLink from the range of Mo-Sys hardware</li><li><strong>In-Camera VFX - </strong>Integration of the nDisplay workflow for LED wall workflows. </li></ul><p><br /></p><p><strong>Code Modules</strong>:</p><ul><li> MoSysTracking (Runtime)</li><li> MoSysTrackingEditor (Editor)</li></ul><p><br /></p><p><strong>Supported Development Platforms</strong>: Win64</p><p><strong>Supported Target Build Platforms</strong>: Win64</p><p><br /></p><blockquote><strong>Documentation (UE 4.27)</strong>: <a href=\"https://software.mo-sys.com/docs/MoSysVPFree/MoSysVPFree_v5.pdf\" rel=\"nofollow\"><strong>GettingStartedGuide.pdf</strong></a></blockquote><blockquote><strong>Documentation (UE 5)</strong>: <a href=\"https://software.mo-sys.com/docs/MoSysVPFree/MoSysVPFree_UE5.pdf\" rel=\"nofollow\"><strong>GettingStartedGuide.pdf</strong></a></blockquote><p><br /></p><p><strong>Usage Instructions</strong>:</p><ul><li>Download and enable the plugin</li><li>Add a LiveLink source for your hardware type (UDP or Serial)</li><li>Set name, address and port</li><li>Add a Mo-Sys Live Link component controller to a camera or any actor in the scene and select the appropriate LiveLink subject</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4b0ddb44-8d3d-4eb4-8009-9da580f54b38"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MoSys-VP1080-1920x1080-f269816db93d892c233aa1b5bb2ca439.png",
+      "md5": "f269816db93d892c233aa1b5bb2ca439",
+      "size": 1530918,
+      "uploadedDate": "2020-05-05T19:12:51.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StarTracker-1920x1080-98f8e4c0efccd91a72ae2ca70e0a9e02.png",
+      "md5": "98f8e4c0efccd91a72ae2ca70e0a9e02",
+      "size": 683299,
+      "uploadedDate": "2018-12-19T10:49:38.776Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StarTrackerMoCap-1920x1080-f6e5168faa975588f281e0056957125c.png",
+      "md5": "f6e5168faa975588f281e0056957125c",
+      "size": 1043114,
+      "uploadedDate": "2018-12-19T10:49:39.231Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StarTrackerVR-1920x1080-8d72ff365ca7831212f327b9e506b4da.png",
+      "md5": "8d72ff365ca7831212f327b9e506b4da",
+      "size": 437069,
+      "uploadedDate": "2018-12-19T10:49:39.622Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ViewFinder-1920x1080-b23cb11a9f4f8e15b4f666cb23ad871c.png",
+      "md5": "b23cb11a9f4f8e15b4f666cb23ad871c",
+      "size": 904063,
+      "uploadedDate": "2018-12-19T10:49:39.927Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MoSysTracking_thumb-284x284-8c0f6588925fc4055fa7efc52274cc54.png",
+      "md5": "8c0f6588925fc4055fa7efc52274cc54",
+      "size": 16575,
+      "uploadedDate": "2018-12-19T10:49:40.296Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MoSysTracking_featured-894x488-80edbf4631603864967b5eaa1e5f69c5.png",
+      "md5": "80edbf4631603864967b5eaa1e5f69c5",
+      "size": 46224,
+      "uploadedDate": "2018-12-19T10:49:40.345Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MoSys-VP1080-1920x1080-f269816db93d892c233aa1b5bb2ca439_Snapshot.png",
+      "md5": "9aeab1c1896a5c41f76f1c436edc2d6f",
+      "size": 7086,
+      "uploadedDate": "2020-05-05T19:12:51.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot-1920x1080-37c2077960e293d44258bd035d86a0ba_Snapshot.png",
+      "md5": "a7f74ec8b6ec77e995738ea2f0611cfa",
+      "size": 15351,
+      "uploadedDate": "2018-12-19T10:49:38.622Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StarTracker-1920x1080-98f8e4c0efccd91a72ae2ca70e0a9e02_Snapshot.png",
+      "md5": "b41bdd92ffb3fead184371459f98a21c",
+      "size": 9985,
+      "uploadedDate": "2018-12-19T10:49:38.988Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StarTrackerMoCap-1920x1080-f6e5168faa975588f281e0056957125c_Snapshot.png",
+      "md5": "064ded11d0f340fac7c59cdf4a2df65e",
+      "size": 11351,
+      "uploadedDate": "2018-12-19T10:49:39.496Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StarTrackerVR-1920x1080-8d72ff365ca7831212f327b9e506b4da_Snapshot.png",
+      "md5": "0fa5e36e5b10fab23fcd8505596d3d86",
+      "size": 5219,
+      "uploadedDate": "2018-12-19T10:49:39.783Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ViewFinder-1920x1080-b23cb11a9f4f8e15b4f666cb23ad871c_Snapshot.png",
+      "md5": "8d2a74efb6f7ef8e85a6cf291abd9c01",
+      "size": 9093,
+      "uploadedDate": "2018-12-19T10:49:40.236Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "72a52207b8a94108bacb0295fcc028b9"
+    }
+  ],
+  "catalogNs": null
+}

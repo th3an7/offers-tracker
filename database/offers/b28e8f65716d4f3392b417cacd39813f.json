@@ -1,0 +1,152 @@
+{
+  "id": "b28e8f65716d4f3392b417cacd39813f",
+  "namespace": "ue",
+  "title": "Curved",
+  "description": "Curved Shader is a set of Vertex Shader functions nodes that allow to change the curvature on a mesh using the World Position Offset.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;9hILJYfOtRU\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;9hILJYfOtRU</a></p><p><br /></p><p>Curved Shader is a set of Vertex Shader functions nodes that allow to change the curvature on a mesh using the World Position Offset.</p><p><br /></p><p>Manual:</p><p> Manual is offline sorry!</p><p>I&#39;m working in a new update </p><p>It allows to simulate curved world in rendering, but the actual position of the object is the same, so It allows you to recreate Horizon bending, classical runner Bending, Cylindrical roll off, etc without affecting the physics, collisions or Location references.</p><p><br /></p><p>NOTE: This package will be updated with for Material FX and Utilities</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "curved",
+  "creationDate": "2016-10-20T14:08:34.694Z",
+  "lastModifiedDate": "2024-10-10T23:53:43.466Z",
+  "effectiveDate": "2016-11-09T00:00:00.000Z",
+  "viewableDate": "2016-11-09T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f529c2adab4808b334d1339c729d79",
+    "name": "Piola"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "This package contains Material functions that must be attached to the mesh material to recreate the effect.<br /><br />The parameters are handled using a material parameter collection included in the package. With this parameter you control the bending factor per axis, the pivot center reference for the bending and the distance bending in the case of the infinite runner.<br /><br />The smoothness of the curve depends on mesh’s vertex count along bend axis.",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fe0ec13f-6a83-458b-98aa-99e438a4a2bd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/curved__screenshot1-1930x1114-f2474a5d9dca40e42ba8e042d8b47a3d.png",
+      "md5": "f2474a5d9dca40e42ba8e042d8b47a3d",
+      "size": 547610,
+      "uploadedDate": "2016-10-20T14:07:16.335Z",
+      "width": 1930,
+      "height": 1114
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/curved__screenshot2-1930x1114-d879b3b10ddc1f7094cba6e0c2a6a14d.png",
+      "md5": "d879b3b10ddc1f7094cba6e0c2a6a14d",
+      "size": 382237,
+      "uploadedDate": "2016-10-20T14:07:18.697Z",
+      "width": 1930,
+      "height": 1114
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/curved__screenshot3-1930x1114-c96bb7675997b740f7772db4b709636c.png",
+      "md5": "c96bb7675997b740f7772db4b709636c",
+      "size": 537097,
+      "uploadedDate": "2016-10-20T14:07:22.088Z",
+      "width": 1930,
+      "height": 1114
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/curved__screenshot4-1930x1114-68e06ea0cacd779471a00b4201769733.png",
+      "md5": "68e06ea0cacd779471a00b4201769733",
+      "size": 353529,
+      "uploadedDate": "2016-10-20T14:07:24.207Z",
+      "width": 1930,
+      "height": 1114
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/curved__screenshot5-1930x1114-b7d177f2ae04fdd3dc9e53bd7cbe1e7a.png",
+      "md5": "b7d177f2ae04fdd3dc9e53bd7cbe1e7a",
+      "size": 361437,
+      "uploadedDate": "2016-10-20T14:07:26.586Z",
+      "width": 1930,
+      "height": 1114
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/curved__screenshot6-1600x868-bb1a09b8a100f9b80b919fdf851a225f.png",
+      "md5": "bb1a09b8a100f9b80b919fdf851a225f",
+      "size": 258839,
+      "uploadedDate": "2016-10-20T14:07:29.319Z",
+      "width": 1600,
+      "height": 868
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CurvedMaterial-1920x1080-9dda61aa2d9bfee9d503f51f3ab3098e.jpg",
+      "md5": "9dda61aa2d9bfee9d503f51f3ab3098e",
+      "size": 443883,
+      "uploadedDate": "2020-04-14T17:35:35.320Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_Curved__Thumb-284x284-e978917bca07793ef2409856b6368d80.png",
+      "md5": "e978917bca07793ef2409856b6368d80",
+      "size": 26162,
+      "uploadedDate": "2016-10-20T14:07:12.248Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_Curved__FeaturedNew-894x488-cc4b8725d2a1a423a24825dc9f649b99.png",
+      "md5": "cc4b8725d2a1a423a24825dc9f649b99",
+      "size": 96077,
+      "uploadedDate": "2016-11-09T15:15:04.461Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CurvedMaterial-1920x1080-9dda61aa2d9bfee9d503f51f3ab3098e_Snapshot.jpg",
+      "md5": "738551f90374faf49d7118eb4045ef6d",
+      "size": 7038,
+      "uploadedDate": "2020-04-14T17:35:35.549Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cfc6b22149964bf9a2546ee339657059"
+    }
+  ],
+  "catalogNs": null
+}

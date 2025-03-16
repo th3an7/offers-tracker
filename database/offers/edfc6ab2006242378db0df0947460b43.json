@@ -1,0 +1,284 @@
+{
+  "id": "edfc6ab2006242378db0df0947460b43",
+  "namespace": "ue",
+  "title": "Game Link",
+  "description": "Modify the game in editor and see the changes right away in a running packaged game",
+  "longDescription": "<p>GL is an upgrade to the Unreal Engine games workflow, Inspired by some of the great in-house engines &amp; technologies used by some AAA companies like pretty much every Sony first party studio for example. GL allows developers to modify a packaged game while it is running and being played on a running platform, so no time wasted in making new game packages. If you made a change, you can see it&#39;s impact on the game on the target platform right away. Regardless the game package is running on Windows, or Consoles such as Xbox &amp; PlayStation, and regardless the game build is a shipping, debug, development or any other configuration, you should be able to update the game in no time.</p><p><br /></p><p>In short, using GL means faster iterations than ever been possible, and at the same time a huge reduction in the time, effort &amp; most importantly the &#34;<strong>Cost</strong>&#34; of game development.</p><p><br /></p><p><strong><em>Note: </em></strong>The efficiency of GL depends on multiple factors, such as the count &amp; size of the modified assets per patch, the complexity of the project, the network speed (if the running game on at the same PC).</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "game-link",
+  "creationDate": "2023-05-21T14:52:14.600Z",
+  "lastModifiedDate": "2024-10-04T01:23:43.517Z",
+  "effectiveDate": "2023-05-21T14:52:14.539Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-d02bad7cb94c2bb793d6f890094225",
+    "name": "Muhammad Moniem"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Update a running packaged game with modifications from the Editor</li><li> Link the editor with games running on a target platform development kits</li><li> Link the editor to more than a single running game instance</li><li>Fast iterations for content modifications such as Materials, Textures, Audio, Animation, Meshes (Static/Skeletal), Sequencer, Maps, Blueprint, Animation Blueprints, and much more!</li></ul><p>Code Modules:</p><ul><li> GameLink (Editor)</li><li> GameLinkRuntime (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: NA</p><p>Supported Development Platforms: Windows, Mac, Linux, PS4, PS5, Xb1, XSX, XSS</p><p>Supported Target Build Platforms: Windows, Mac, Linux, PS4, PS5, Xb1, XSX, XSS</p><p>Documentation: <a href=\"https://mamoniem.com/game-link/\" rel=\"nofollow\">Link</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/19-YZw7F89UtRvm1Drl65Tyb0idAVPZeX/view?usp&#61;sharing\" rel=\"nofollow\">UE4.x</a>, <a href=\"https://drive.google.com/file/d/18v08vOl1Cz41iuZYO2HmcQfP2PcU7Fj8/view?usp&#61;sharing\" rel=\"nofollow\">UE5.x</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1236",
+      "name": "SKATING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:15.676Z",
+      "updated": "2019-06-20T12:00:15.676Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "08987e2f-b866-492b-b4a0-043e47eb5bc6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2022-10-12-04h18m12s904-1920x1080-5ffca7f47dc4a86944cb034682bd92a6.png",
+      "md5": "5ffca7f47dc4a86944cb034682bd92a6",
+      "size": 1311879,
+      "uploadedDate": "2022-10-13T06:46:30.332Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2022-10-12-05h28m31s604-1920x1080-0b9c819e928230cc2b880bd25387d85c.png",
+      "md5": "0b9c819e928230cc2b880bd25387d85c",
+      "size": 128708,
+      "uploadedDate": "2022-10-13T06:46:30.718Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2022-10-12-05h28m53s507-1920x1080-3ccea1b776aabaca7290e86a4aaa6156.png",
+      "md5": "3ccea1b776aabaca7290e86a4aaa6156",
+      "size": 159546,
+      "uploadedDate": "2022-10-13T06:46:31.030Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GameLink_thumb-284x284-df2d4cb4f459db400192f8db89cf6cde.png",
+      "md5": "df2d4cb4f459db400192f8db89cf6cde",
+      "size": 50393,
+      "uploadedDate": "2024-05-21T14:47:29.538Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GameLink_featured-894x488-554fd98acff053573a4498394f79b666.png",
+      "md5": "554fd98acff053573a4498394f79b666",
+      "size": 237335,
+      "uploadedDate": "2024-05-21T14:47:29.637Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/vlcsnap-2022-10-12-04h18m12s904-1920x1080-5ffca7f47dc4a86944cb034682bd92a6_Snapshot.png",
+      "md5": "04b6fb73d1b9bb149b368c920cb0b61e",
+      "size": 6381,
+      "uploadedDate": "2022-10-13T06:46:30.642Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/vlcsnap-2022-10-12-05h28m31s604-1920x1080-0b9c819e928230cc2b880bd25387d85c_Snapshot.png",
+      "md5": "03fd68ccb54a32f0040bbca9bfbb32d7",
+      "size": 2630,
+      "uploadedDate": "2022-10-13T06:46:30.944Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/vlcsnap-2022-10-12-05h28m53s507-1920x1080-3ccea1b776aabaca7290e86a4aaa6156_Snapshot.png",
+      "md5": "addc5d82c351d433429e41f00934a917",
+      "size": 2943,
+      "uploadedDate": "2022-10-13T06:46:31.259Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2022-10-11 022803-testUGL - Unreal Editor-1920x1080-5a013b82db7c3a495bec429dcbf42564_Snapshot.png",
+      "md5": "cc0265f863f962dfd7b53795d84de91f",
+      "size": 2116,
+      "uploadedDate": "2022-10-12T09:26:31.283Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/vlcsnap-2022-10-12-04h18m12s904-1920x1080-f60342370bac4a5dbf4dfacb569f837f_Snapshot.png",
+      "md5": "74c206214f80bc91a469c3b4ef2f9f37",
+      "size": 6387,
+      "uploadedDate": "2022-10-12T09:26:31.730Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "64cf3534ef0c4df3a93facc8fd720ca0"
+    }
+  ],
+  "catalogNs": null
+}

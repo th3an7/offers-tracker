@@ -1,0 +1,230 @@
+{
+  "id": "18cbb6cd748c48a2818bb195fdf95464",
+  "namespace": "ue",
+  "title": "Ultimate Dialogue",
+  "description": "Dialouge system with graph editor and procedural character animation",
+  "longDescription": "<p>Everything you need to build dialogues in your RPG and Action-RPG games (<strong>except lip-sync</strong>). The plugin includes easy and flexible graph editor to create dialogue trees and phrases editor to build procedural character animation from pre-existing animation assets. Initial set or motion captured animations is included, and you can add as many new animations as you want. Text localization is supported via string tables and localization dashboard. Audio localization works via Dialogue Wave assets.</p><p><u>I provide long-term support and consider personal requests.</u></p><p><em>Please contact me, if you&#39;re interested in demo version.</em></p><p>[ <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1553622-ultimate-dialogue-plugin\" rel=\"nofollow\">Forum support thread</a> ]</p><p><strong>Videos:</strong></p><ul><li><a href=\"https://www.youtube.com/watch?v&#61;w-xyXDZZSV0\" rel=\"nofollow\">Simple demo</a></li><li>Demo with QTE: <a href=\"https://www.youtube.com/watch?v&#61;kTWLwv0qI1Q\" rel=\"nofollow\">Overview</a> | Tutorial <a href=\"https://www.youtube.com/watch?v&#61;NWgg9FeYzf4\" rel=\"nofollow\">Part 1</a> - <a href=\"https://www.youtube.com/watch?v&#61;aIiDZw2-93o\" rel=\"nofollow\">Part 2</a> - <a href=\"https://www.youtube.com/watch?v&#61;DGDEIS0sBw8\" rel=\"nofollow\">Part 3</a> - <a href=\"https://www.youtube.com/watch?v&#61;RBA98SDAfnw\" rel=\"nofollow\">Part 4</a></li><li>Comprehensive demo with interactive cutscenes: <a href=\"https://youtu.be/WCD3sagkpBQ\" rel=\"nofollow\">Overview</a> | <a href=\"https://www.youtube.com/watch?v&#61;3QvnfE1k4tI&amp;list&#61;PLl4Fsvk8JAxJzwbQT_Yk4LysBNBPDiDhZ\" rel=\"nofollow\">Tutorial</a> (4h 20 min)</li><li><a href=\"https://www.youtube.com/watch?v&#61;D39ywyCoHuo\" rel=\"nofollow\">Animation setup and conditions/actions overview</a></li><li><a href=\"https://www.youtube.com/watch?v&#61;IWwZ3Cv94g4\" rel=\"nofollow\">Included animations overview</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ultimate-dialogue",
+  "creationDate": "2018-11-19T18:56:19.695Z",
+  "lastModifiedDate": "2024-10-22T13:58:47.984Z",
+  "effectiveDate": "2018-11-19T18:56:19.663Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8ba954a7a34115b5479ff854fbfe78",
+    "name": "Yuri N Kalinin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>more then two interlocutors</li><li>handy editors for dialogues and phrase animation</li><li>automatic gameplay conditions &amp; actions to control dialogue flow dynamically</li><li>automatic conditions allow to test variables in character actor</li><li>custom conditions and events</li><li>support of Sound/Dialogue Wave</li><li>support of many layers of animations and facial expressions based on morph targets</li><li>included animations: 9 - upper body, 5 - head, 2 - idle looped, 3 - full-body with root motion</li><li>dialogues and phrases animation sets can be exported to JSON via data tables</li><li>doesn&#39;t require custom character class</li></ul><p><strong>Code Modules:</strong></p><ul><li> UltimateDialogue (Runtime)</li><li> UltimateDialogueEditor (Editor) </li></ul><p>Number of Blueprints: 2 (including animation blueprint)</p><p>Number of Animations: 20</p><p>Number of C&#43;&#43; Classes: 48 - 11 runtime classes, 2 interfaces, 35 editor classes</p><p>Number of Custom Asset Types: 4</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows, Linux</p><p>Supported Target Build Platforms: Windows, Linux, Android</p><p>Documentation: <a href=\"https://drive.google.com/open?id&#61;1tMqlY2I6TMRwdak2ESgH-NYsCexERSQ-\" rel=\"nofollow\">PDF</a></p><p>Example Project: [<a href=\"https://drive.google.com/file/d/1Tw17ZCG4Ph3xQuQWgnWaf8nDqCbDNex5/view?usp&#61;sharing\" rel=\"nofollow\">5.2</a>] [<a href=\"https://drive.google.com/open?id&#61;197J0-CkMs1G3sJNmXFgng9WP-hGWPD89\" rel=\"nofollow\">4.24&#43;</a>] [<a href=\"https://drive.google.com/file/d/1PeskWeUKP3-S5ANB_wAND_b_sfzM-W8X/view?usp&#61;sharing\" rel=\"nofollow\">Project from Tutor4</a>]</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ab167e86-afb7-4fe0-be14-75a1b53d076a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr00-1920x1080-3c31e1147d0106639e72dc5edf2da059.png",
+      "md5": "3c31e1147d0106639e72dc5edf2da059",
+      "size": 1822246,
+      "uploadedDate": "2018-11-01T21:59:13.005Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr01-1920x1080-96a11ce66fb536a4c4f23f9ea3b0e218.png",
+      "md5": "96a11ce66fb536a4c4f23f9ea3b0e218",
+      "size": 205570,
+      "uploadedDate": "2018-11-01T21:59:13.403Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr02-1920x1080-c032b97e1b1927865c4bc17de66fdb16.png",
+      "md5": "c032b97e1b1927865c4bc17de66fdb16",
+      "size": 256788,
+      "uploadedDate": "2018-11-01T21:59:13.677Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr05-1920x1080-190caac28c85367a83724373dd954692.png",
+      "md5": "190caac28c85367a83724373dd954692",
+      "size": 122351,
+      "uploadedDate": "2018-11-01T21:59:13.906Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr04-1920x1080-3a6fb34df35e51960b09e04d70383085.png",
+      "md5": "3a6fb34df35e51960b09e04d70383085",
+      "size": 994335,
+      "uploadedDate": "2018-11-01T21:59:14.220Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr06-1920x1080-a5dc2b75a98df8f62647cad5b79f20d8.png",
+      "md5": "a5dc2b75a98df8f62647cad5b79f20d8",
+      "size": 54515,
+      "uploadedDate": "2018-11-01T21:59:14.848Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scr07-1920x1080-b3f1d4535c1bad286e1fe910b8bb46b9.png",
+      "md5": "b3f1d4535c1bad286e1fe910b8bb46b9",
+      "size": 65383,
+      "uploadedDate": "2018-11-01T21:59:15.141Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UltimateDialogue_thumb-284x284-7f843f96d94a898fa2912187f2c64c0d.png",
+      "md5": "7f843f96d94a898fa2912187f2c64c0d",
+      "size": 148003,
+      "uploadedDate": "2018-11-01T21:59:15.400Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UltimateDialogue_featured-894x488-92f3e2527eb7ffa0294f03ad1b323d36.png",
+      "md5": "92f3e2527eb7ffa0294f03ad1b323d36",
+      "size": 590404,
+      "uploadedDate": "2018-11-01T21:59:15.479Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr00-1920x1080-3c31e1147d0106639e72dc5edf2da059_Snapshot.png",
+      "md5": "e19b1f5aa1a8337d16f183e291123c65",
+      "size": 21262,
+      "uploadedDate": "2018-11-01T21:59:13.283Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr01-1920x1080-96a11ce66fb536a4c4f23f9ea3b0e218_Snapshot.png",
+      "md5": "95f10919de01b928066ee75d50a12c44",
+      "size": 4728,
+      "uploadedDate": "2018-11-01T21:59:13.570Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr02-1920x1080-c032b97e1b1927865c4bc17de66fdb16_Snapshot.png",
+      "md5": "90d429dc311c763b8a1e80731563288a",
+      "size": 6478,
+      "uploadedDate": "2018-11-01T21:59:13.831Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr05-1920x1080-190caac28c85367a83724373dd954692_Snapshot.png",
+      "md5": "4c22087b20bfe89ea350948936ba900c",
+      "size": 3183,
+      "uploadedDate": "2018-11-01T21:59:14.042Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr04-1920x1080-3a6fb34df35e51960b09e04d70383085_Snapshot.png",
+      "md5": "299e24d328e024a7fa7dd5a418d26ae0",
+      "size": 14568,
+      "uploadedDate": "2018-11-01T21:59:14.776Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr06-1920x1080-a5dc2b75a98df8f62647cad5b79f20d8_Snapshot.png",
+      "md5": "f62967a73b6f527774085244b163cdd5",
+      "size": 1354,
+      "uploadedDate": "2018-11-01T21:59:15.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scr07-1920x1080-b3f1d4535c1bad286e1fe910b8bb46b9_Snapshot.png",
+      "md5": "2e2cb4c94b73dc58a93389550ce072f8",
+      "size": 1487,
+      "uploadedDate": "2018-11-01T21:59:15.295Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2cea12fad9a54c33a66eada54861c49b"
+    }
+  ],
+  "catalogNs": null
+}

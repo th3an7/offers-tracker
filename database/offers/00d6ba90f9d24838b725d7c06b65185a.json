@@ -1,0 +1,224 @@
+{
+  "id": "00d6ba90f9d24838b725d7c06b65185a",
+  "namespace": "ue",
+  "title": "Custom Settings",
+  "description": "A plugin that expands Game User Settings to save extra settings also includes a Main Menu",
+  "longDescription": "<p>This plugin expands the Game User Settings class to save extra settings such as volume and your characters FOV. The plugin also comes with a settings menu and an example main menu for easy set up with your project. This plugin can be used for a settings menu that has extra settings that are saved in an ini file. I am open to suggestions of what settings should be added. The Main menu will require a little setup to be used with a multiplayer game but mostly all functions are there already.</p><p><br /></p><p>Example Video (Old) - <a href=\"https://www.youtube.com/watch?v&#61;Qs0igTTEs_Y\" rel=\"nofollow\">Click Here</a></p><p>Custom Settings V2 Video - <a href=\"https://www.youtube.com/watch?v&#61;qz3oMxfO56I\" rel=\"nofollow\">Click Here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "custom-settings",
+  "creationDate": "2017-11-17T21:05:53.410Z",
+  "lastModifiedDate": "2024-10-15T09:49:12.652Z",
+  "effectiveDate": "2017-11-17T21:05:53.306Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-795733a3d64f01b6a0fa8387ae0e6d",
+    "name": "Karl"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>A settings menu that allows you to save volume and select graphics settings</li><li>An Example Main Menu</li><li>A Fully Animated Main Menu</li><li>A Demonstration Map</li></ul><p>Settings:</p><ul><li>An Overall Setting that sets all of your scalability settings</li><li>Volume Sliders for 6 Sound Classes (Must be set in the Blueprint)</li><li>FPS and Vsync Settings</li></ul><p><br /></p><p>Number of Blueprints: 8</p><p>Number of Widgets: 11</p><p>Number of C&#43;&#43; Classes: 2</p><p>Number of Textures: 2</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows(64/32bit)</p><p>Supported Target Build Platforms: Windows(64/32bit)</p><p>Documentation: The Documentation can be found in the plugin folder but also you can look in the plugins content folder and open Example_nodes blueprint for information on how to use some nodes also all the nodes that come with the plugin, you can also look at the Demonstration map to see the widgets that are used and can be used by you. Furthermore, there is a MainMenu map which shows the implementation of the settings menu.</p><p>Important/Additional Notes: Before Starting put this in your default engine ini</p><p>[/Script/Engine.Engine]</p><p>GameUserSettingsClassName&#61;/Script/CustomSettings.UnrealGameUserSettings</p><p><br /></p><p>Current Update:</p><ul><li>Updated to 4.26</li><li>Fixed a bug so you can now change setting names in combo boxes</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e6362873-6cba-41e3-ae65-221f13606b1a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Plugin-Picture2-1920x1080-16225093f15ea2b9145aabb01f867e88.png",
+      "md5": "16225093f15ea2b9145aabb01f867e88",
+      "size": 83553,
+      "uploadedDate": "2019-04-03T12:12:33.419Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Plugin-Picture1-1920x1080-bb6d96a053f4f0904a48e549056525df.png",
+      "md5": "bb6d96a053f4f0904a48e549056525df",
+      "size": 150457,
+      "uploadedDate": "2019-04-03T12:12:33.685Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Plugin-Picture3-1920x1080-4e5c631f96102ce4e3f50d326571fa8c.png",
+      "md5": "4e5c631f96102ce4e3f50d326571fa8c",
+      "size": 1591851,
+      "uploadedDate": "2019-04-03T12:12:34.019Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MainMenuP-1920x1080-b8202db4bc4226810e4df5ac8143838a.png",
+      "md5": "b8202db4bc4226810e4df5ac8143838a",
+      "size": 1058058,
+      "uploadedDate": "2020-06-07T10:44:34.873Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MainMenuPlayP-1920x1080-62e3c248954bc095d918b733a1e2af99.png",
+      "md5": "62e3c248954bc095d918b733a1e2af99",
+      "size": 995152,
+      "uploadedDate": "2020-06-07T10:44:35.431Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MainMenuServerP-1920x1080-ea4e49162ab3e9d1ee0768d8eeca84ff.png",
+      "md5": "ea4e49162ab3e9d1ee0768d8eeca84ff",
+      "size": 1047297,
+      "uploadedDate": "2020-06-07T10:44:35.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CustomSettings_thumb-284x284-30a22e2b24858260c56699d8e7019e04.png",
+      "md5": "30a22e2b24858260c56699d8e7019e04",
+      "size": 72481,
+      "uploadedDate": "2020-05-03T20:08:42.019Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CustomSettings_featured-894x488-1587af3467598e8e6093c696bf4f1374.png",
+      "md5": "1587af3467598e8e6093c696bf4f1374",
+      "size": 198427,
+      "uploadedDate": "2020-05-03T20:08:42.100Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MainMenuP-1920x1080-b8202db4bc4226810e4df5ac8143838a_Snapshot.png",
+      "md5": "9d5eb0de7d5a191ef23add5619058e81",
+      "size": 5131,
+      "uploadedDate": "2020-06-07T10:44:35.249Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MainMenuPlayP-1920x1080-62e3c248954bc095d918b733a1e2af99_Snapshot.png",
+      "md5": "21f70d64dee26c61a972e2d9e12cc9d2",
+      "size": 5300,
+      "uploadedDate": "2020-06-07T10:44:35.788Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MainMenuServerP-1920x1080-ea4e49162ab3e9d1ee0768d8eeca84ff_Snapshot.png",
+      "md5": "8f20a22c04c981b6f8411349645b152f",
+      "size": 5673,
+      "uploadedDate": "2020-06-07T10:44:36.321Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Plugin-Picture2-1920x1080-16225093f15ea2b9145aabb01f867e88_Snapshot.png",
+      "md5": "0825d0061f04dd266ec20fb71c4b6e4b",
+      "size": 1577,
+      "uploadedDate": "2019-04-03T12:12:33.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Plugin-Picture1-1920x1080-bb6d96a053f4f0904a48e549056525df_Snapshot.png",
+      "md5": "e4053fba3af6d37e83448169f2ff3185",
+      "size": 2388,
+      "uploadedDate": "2019-04-03T12:12:33.826Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Plugin-Picture3-1920x1080-4e5c631f96102ce4e3f50d326571fa8c_Snapshot.png",
+      "md5": "a91e14fb20107397bc9cb073866e3269",
+      "size": 14337,
+      "uploadedDate": "2019-04-03T12:12:34.261Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "53cfc6f6d230420fbedeb0fc1eb4e02a"
+    }
+  ],
+  "catalogNs": null
+}

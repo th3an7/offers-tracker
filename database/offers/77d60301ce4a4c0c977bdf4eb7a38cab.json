@@ -1,0 +1,266 @@
+{
+  "id": "77d60301ce4a4c0c977bdf4eb7a38cab",
+  "namespace": "ue",
+  "title": "Brick Materials",
+  "description": "A collection of 40 seamlessly repeating brick materials with customizable parameters.",
+  "longDescription": "<p>Contains 40 brick material instances derived from one highly customizable master material. Pack features 21 unique layouts suitable for both walls and floors, each driven by three textures (color pattern, normal map, edge mask), as well as layered detail textures and a color blending map to prevent visible tiling. All parameters can be easily changed so additional material instances can be made as needed. Customization options include up to four colors per layout (three brick plus gap/mortar), dirt coverage, and edge weathering. Detail intensity can be scaled to fit either realistic or stylized/simplistic artstyles. Displacement depth is split by texture color channels to allow uniform or irregular surfaces as desired.</p><p><br /></p><p>Full list of base layouts:</p><ul><li>Running bond (3)</li><li>English bond (2)</li><li>Flemish bond (2)</li><li>Stack bond (2)</li><li>Basketweave pattern (3)</li><li>Herringbone pattern (3)</li><li>Pinwheel pattern (2)</li><li>Random shape (2)</li><li>Stone blocks (2)</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "brick-materials",
+  "creationDate": "2023-07-11T14:24:43.357Z",
+  "lastModifiedDate": "2024-10-08T21:28:52.383Z",
+  "effectiveDate": "2023-07-11T17:51:06.528Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4e14cdf3bb46b789d900a8ab6eda9c",
+    "name": "David Zygmunt"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Unique Materials and Material Instances: 41</p><p>Number of Textures: 69</p><p>Texture Resolutions: 1024x1024</p><p>Intended Platform: Desktop/Console</p><p>Platforms Tested: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6aca77ec-47eb-4517-8fc7-17dea3442320"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MaterialGallery-1920x1080-c30e99258e84358aa628971749445989.jpg",
+      "md5": "c30e99258e84358aa628971749445989",
+      "size": 1647514,
+      "uploadedDate": "2023-07-10T04:09:23.234Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SampleScene-1920x1080-eb25e0c4da2394c4dd4380b24aaba637.jpg",
+      "md5": "eb25e0c4da2394c4dd4380b24aaba637",
+      "size": 2042972,
+      "uploadedDate": "2023-07-10T04:09:23.823Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ParamLayout-1920x1080-9486f5e8ebce4af4ad0764f69c0a52f3.jpg",
+      "md5": "9486f5e8ebce4af4ad0764f69c0a52f3",
+      "size": 2210842,
+      "uploadedDate": "2023-07-10T04:09:24.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ParamColor-1920x1080-a4f567ae5f1cb55ace8c3d1079958516.jpg",
+      "md5": "a4f567ae5f1cb55ace8c3d1079958516",
+      "size": 2253813,
+      "uploadedDate": "2023-07-10T04:09:24.890Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ParamGrunge-1920x1080-a4d2ea8f841e97244a74bdaa661aabbd.jpg",
+      "md5": "a4d2ea8f841e97244a74bdaa661aabbd",
+      "size": 2300867,
+      "uploadedDate": "2023-07-10T04:09:25.402Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BrickMaterials_thumb-284x284-3884a60830b67df86cc28998fb91d8bf.png",
+      "md5": "3884a60830b67df86cc28998fb91d8bf",
+      "size": 208488,
+      "uploadedDate": "2023-07-07T19:18:44.698Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BrickMaterials_featured-894x488-8bc7dafa3f3070f55c9d33e19c33113d.png",
+      "md5": "8bc7dafa3f3070f55c9d33e19c33113d",
+      "size": 893661,
+      "uploadedDate": "2023-07-07T19:18:44.881Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MaterialGallery-1920x1080-c30e99258e84358aa628971749445989_Snapshot.jpg",
+      "md5": "adce117f6c36c00419926e8aedf698db",
+      "size": 7881,
+      "uploadedDate": "2023-07-10T04:09:23.634Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SampleScene-1920x1080-eb25e0c4da2394c4dd4380b24aaba637_Snapshot.jpg",
+      "md5": "ba25b04d628c24229e237d9393a3b2a6",
+      "size": 7108,
+      "uploadedDate": "2023-07-10T04:09:24.194Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ParamLayout-1920x1080-9486f5e8ebce4af4ad0764f69c0a52f3_Snapshot.jpg",
+      "md5": "8fc8645a4033c36cd42fe7d94ad7d707",
+      "size": 9510,
+      "uploadedDate": "2023-07-10T04:09:24.729Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ParamColor-1920x1080-a4f567ae5f1cb55ace8c3d1079958516_Snapshot.jpg",
+      "md5": "491df8e08b8cb6c6d9fcc47836d1f3db",
+      "size": 8205,
+      "uploadedDate": "2023-07-10T04:09:25.251Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ParamGrunge-1920x1080-a4d2ea8f841e97244a74bdaa661aabbd_Snapshot.jpg",
+      "md5": "7d1729e9a026dc59481835cdb90b3d88",
+      "size": 8477,
+      "uploadedDate": "2023-07-10T04:09:25.777Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ParamLayout-1920x1080-5e7af55da699889718c88b4fb8292c47_Snapshot.jpg",
+      "md5": "aa79cc9ae5601c2eb6dc36ff8b218dcb",
+      "size": 9502,
+      "uploadedDate": "2023-07-09T20:49:45.052Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MaterialGallery-1920x1080-c30e99258e84358aa628971749445989_Snapshot.jpg",
+      "md5": "adce117f6c36c00419926e8aedf698db",
+      "size": 7881,
+      "uploadedDate": "2023-07-07T19:18:43.469Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ParamColor-1920x1080-efa070a5550d6ca031e6e7ce721611b3_Snapshot.jpg",
+      "md5": "d74472b149276d0ef5480b79e502b15f",
+      "size": 8193,
+      "uploadedDate": "2023-07-07T19:18:44.083Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ParamGrunge-1920x1080-b5b0ffd835ce92ca2327f769f7c27932_Snapshot.jpg",
+      "md5": "0765d2e5df4c053c1fff77547e4adc3d",
+      "size": 8478,
+      "uploadedDate": "2023-07-07T19:18:44.566Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4a4de322727a4e389b80be2817b03386"
+    }
+  ],
+  "catalogNs": null
+}

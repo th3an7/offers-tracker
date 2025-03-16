@@ -1,0 +1,368 @@
+{
+  "id": "fc21a5013d8d4821b8c7dc88e94ca0ed",
+  "namespace": "ue",
+  "title": "Cesium for Unreal VR Tutorials",
+  "description": "The Cesium for Unreal VR Tutorial Series provides strategies and solutions for several common challenges that come with building global-scale applications in VR using Cesium for Unreal.",
+  "longDescription": "<p>The <a href=\"https://cesium.com/learn/unreal/vr-introduction/\" rel=\"nofollow\">Cesium for Unreal VR Tutorial Series</a> provides strategies and solutions for several common challenges that come with building global-scale applications in VR using <a href=\"https://www.unrealengine.com/marketplace/en-US/product/87b0d05800a545d49bf858ef3458c4f7\" rel=\"nofollow\">Cesium for Unreal</a>. This series serves as a guide for recommended practices for VR application design and user ergonomics you can use in your projects.</p><p><br /></p><p>The Cesium for Unreal VR Tutorials project contains example levels and code for all the features and solutions described in the tutorial series. Each tutorial will describe the UX challenge, our design thinking, and the Blueprint code for each feature. New tutorials will be added frequently, so check back soon!</p><p><br /></p><p><strong>VR Device Compatibility:</strong> </p><p>We tested the inputs used in this project on Meta Quest 2 and are confident the inputs will work with Meta Quest and Rift devices using the Touch controllers. We have added reasonable corresponding inputs for other VR headsets such as the HTC Vive and Valve Index, but have not tested them. If you use any of these headsets, we&#39;d love to get your feedback and build it into the tutorials.</p><p><br /></p><p>If you are using a VR headset not mentioned above, please add the corresponding bindings for your controller for each input action / axis. For more information on setting up inputs, see the <a href=\"https://www.unrealengine.com/en-US/blog/input-action-and-axis-mappings-in-ue4\" rel=\"nofollow\">Unreal Engine docs</a>. For an example of setting up inputs across different VR devices, see the <a href=\"https://docs.unrealengine.com/4.27/en-US/Resources/Templates/VRTemplate/\" rel=\"nofollow\">VR Template</a> project.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cesium-for-unreal-vr-tutorials",
+  "creationDate": "2022-06-09T16:48:17.643Z",
+  "lastModifiedDate": "2024-10-08T18:34:31.675Z",
+  "effectiveDate": "2022-06-09T17:31:14.389Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-r792e2t2pmxdkjpndbkg3fbjdgpl57",
+    "name": "Cesium"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Learn how to incorporate common features like teleportation, movement, and more.</li><li>See solutions in action for complex VR challenges associated with global-scale VR applications.</li><li>Get insight into the inner workings of Cesium for Unreal and how to get the most out of 3D Tiles.</li><li>Explore the world in a new way in VR!</li></ul><p><br /></p><p><strong>Supported Platforms:</strong> Windows 10 x64 (requires <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://www.unrealengine.com/marketplace/en-US/87b0d05800a545d49bf858ef3458c4f7\" rel=\"nofollow\">Cesium for Unreal</a> plugin v1.13.2 or newer)</p><p><br /></p><p>We expect the project to work on macOS and Linux as well but have not tested it. If you would like to provide feedback, please reach out via the <a href=\"https://github.com/CesiumGS/cesium-unreal-vr-tutorial\" rel=\"nofollow\">GitHub repo</a>.</p><p><br /></p><p><strong>License:</strong> Cesium for Unreal and Cesium for Unreal VR Tutorials are open source under the <strong>Apache 2.0 license</strong> and are free to use as a starter project for both commercial and non-commercial use.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "963a8d09-551f-4baa-89de-8f176e4c91ad"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cesium-VR-Headset-1920x1080-a0cdc483e8954fd7c5bf957bae2df51e.jpg",
+      "md5": "a0cdc483e8954fd7c5bf957bae2df51e",
+      "size": 586795,
+      "uploadedDate": "2022-06-03T15:42:39.963Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Movement1Screenshot-1920x1080-713ff660337176571ad93a7f223d4599.jpg",
+      "md5": "713ff660337176571ad93a7f223d4599",
+      "size": 394699,
+      "uploadedDate": "2022-06-03T21:28:05.171Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Movement3Screenshot-1920x1080-f33abfa9afebd8657354bbf5a73fcf31.jpg",
+      "md5": "f33abfa9afebd8657354bbf5a73fcf31",
+      "size": 266465,
+      "uploadedDate": "2022-06-03T21:28:05.527Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TeleportScreenshot-1920x1080-e6ac1314fb663f3405a336e4e7455194.jpg",
+      "md5": "e6ac1314fb663f3405a336e4e7455194",
+      "size": 554667,
+      "uploadedDate": "2022-06-03T21:28:05.878Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Movement2Screenshot-1920x1080-9c33ba8d329548fe5ed0bd685919c80b.jpg",
+      "md5": "9c33ba8d329548fe5ed0bd685919c80b",
+      "size": 332741,
+      "uploadedDate": "2022-06-03T21:28:06.280Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Movement4Screenshot-1920x1080-b1e6f1bc7ffa4026d113cb07759fc144.jpg",
+      "md5": "b1e6f1bc7ffa4026d113cb07759fc144",
+      "size": 308804,
+      "uploadedDate": "2022-06-03T21:28:06.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CesiumforUnrealVRTutorials_thumb-284x284-c2968891ffcdf39b99706fb262b03673.png",
+      "md5": "c2968891ffcdf39b99706fb262b03673",
+      "size": 18073,
+      "uploadedDate": "2022-06-03T15:42:40.302Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CesiumforUnrealVRTutorials_featured-894x488-6978fbe5842a217815759cb4c84601ec.png",
+      "md5": "6978fbe5842a217815759cb4c84601ec",
+      "size": 550983,
+      "uploadedDate": "2022-06-03T15:42:40.435Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Movement1Screenshot-1920x1080-713ff660337176571ad93a7f223d4599_Snapshot.jpg",
+      "md5": "cea88829ec4ca5d809c52c0608b0eaed",
+      "size": 5592,
+      "uploadedDate": "2022-06-03T21:28:05.411Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Movement3Screenshot-1920x1080-f33abfa9afebd8657354bbf5a73fcf31_Snapshot.jpg",
+      "md5": "7527d63cb607fa47a7ea8ea6e54fa7d2",
+      "size": 4423,
+      "uploadedDate": "2022-06-03T21:28:05.770Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TeleportScreenshot-1920x1080-e6ac1314fb663f3405a336e4e7455194_Snapshot.jpg",
+      "md5": "98a355f36d4ffe69f975e4bc68a70e05",
+      "size": 7831,
+      "uploadedDate": "2022-06-03T21:28:06.127Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Movement2Screenshot-1920x1080-9c33ba8d329548fe5ed0bd685919c80b_Snapshot.jpg",
+      "md5": "2fd3636a4fe11839eb72414045d5cd1f",
+      "size": 5432,
+      "uploadedDate": "2022-06-03T21:28:06.514Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Movement4Screenshot-1920x1080-b1e6f1bc7ffa4026d113cb07759fc144_Snapshot.jpg",
+      "md5": "4780ff68179a118a1ae0fa3a5f21e18e",
+      "size": 4552,
+      "uploadedDate": "2022-06-03T21:28:06.886Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cesium-VR-Headset-1920x1080-a0cdc483e8954fd7c5bf957bae2df51e_Snapshot.jpg",
+      "md5": "cf979e78d051b63265b9f9f54a80ebfe",
+      "size": 4879,
+      "uploadedDate": "2022-06-03T15:42:40.199Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a009b5ae03e04cb1a795b3b20097c7f7"
+    }
+  ],
+  "catalogNs": null
+}

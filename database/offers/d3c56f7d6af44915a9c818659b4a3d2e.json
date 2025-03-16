@@ -1,0 +1,134 @@
+{
+  "id": "d3c56f7d6af44915a9c818659b4a3d2e",
+  "namespace": "ue",
+  "title": "Offline Speech Recognition",
+  "description": "Accurate offline speech recognition",
+  "longDescription": "<p>Allows you to recognize speech from more than <strong>15 languages</strong>, without relying on any cloud service or subscription. Instead, a language server is a separate process on your machine, which talks with your game. The language server app is public ( <a href=\"https://github.com/IlgarLunin/vosk-language-server\" rel=\"nofollow\">https://github.com/IlgarLunin/vosk-language-server</a> ), you can fork it and customize, distribute with your game, run it without any user interface.</p><p><br /></p><p>Unreal engine client is dead simple communication with language server. It connects to it, records, and feeds your voice to the language server, the server sends recognized voices as text back to unreal.</p><p><br /></p><p>This is streaming voice recognition, and you can implement simple conversations with your NPC without any user input except voice. &#34;<u>Ok robot</u>, do this&#34;, &#34;<u>Ok robot</u>, do that&#34; etc.</p><p><br /></p><p><strong>Download latest language server</strong>: <a href=\"https://github.com/IlgarLunin/vosk-language-server/releases\" rel=\"nofollow\">https://github.com/IlgarLunin/vosk-language-server/releases</a></p><p><br /></p><p>Using language server as a separate app is optional! Your game itself can act like language server.</p><p><br /></p><p>Visit discord and documentation for more info</p><p><br /></p><p><strong>Video demonstration</strong>: <a href=\"https://youtu.be/iJVCsuuC5A4\" rel=\"nofollow\">https://youtu.be/iJVCsuuC5A4</a></p><p><strong>Example project for Unreal 5.3:</strong> <a href=\"https://drive.google.com/file/d/1qQf1rJUKFe_LlAJeGa67gt4EFVCt-pQq/view?usp&#61;sharing\" rel=\"nofollow\">here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "offline-speech-recognition",
+  "creationDate": "2021-09-20T14:56:22.269Z",
+  "lastModifiedDate": "2024-10-10T12:20:44.727Z",
+  "effectiveDate": "2021-09-20T14:56:22.234Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ey5k787alnnl45b9zc6z73r4r238bt",
+    "name": "Ilgar Lunin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>No dependencies on other paid cloud services</li><li>One time payment</li><li>The server can handle multiple clients at the same time</li><li>Easy to setup</li><li>No internet required</li></ul><p><br /></p><p>Code Modules:</p><ul><li>VoskPlugin (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows, Mac, Linux</p><p>Supported Target Build Platforms: Windows, Mac, Linux</p><p><strong>Documentation:</strong> <a href=\"https://github.com/IlgarLunin/VoskPlugin-docs\" rel=\"nofollow\">https://github.com/IlgarLunin/VoskPlugin-docs</a></p><p><strong>Discord:</strong> <a href=\"https://discord.gg/Tkf7xe2\" rel=\"nofollow\">https://discord.gg/Tkf7xe2</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8b682594-971f-472d-9061-b2c63870b3f9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery1-1920x1080-fe652ffffc2195c838c55ae12a3a6254.png",
+      "md5": "fe652ffffc2195c838c55ae12a3a6254",
+      "size": 357169,
+      "uploadedDate": "2021-08-22T16:28:06.206Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OfflineSpeechRecognition_thumb-284x284-316a8b27ee408e4d4f432d5ed662a7fe.png",
+      "md5": "316a8b27ee408e4d4f432d5ed662a7fe",
+      "size": 28043,
+      "uploadedDate": "2021-08-23T19:03:02.965Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OfflineSpeechRecognition_featured-894x488-9348b5ec68465cb5d13c1465d9205d3c.png",
+      "md5": "9348b5ec68465cb5d13c1465d9205d3c",
+      "size": 253838,
+      "uploadedDate": "2021-08-23T19:03:03.078Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-fe652ffffc2195c838c55ae12a3a6254_Snapshot.png",
+      "md5": "8478d5937258a38425cf5642d8a73aeb",
+      "size": 5240,
+      "uploadedDate": "2021-08-22T16:28:06.421Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c0eea40c35d44cf4850132f3cca42635"
+    }
+  ],
+  "catalogNs": null
+}

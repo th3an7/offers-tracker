@@ -1,0 +1,110 @@
+{
+  "id": "7fd86ed5a1a14e15b315ed5fd7d6b016",
+  "namespace": "ue",
+  "title": "Landscape Spline Helper Plugin",
+  "description": "Get landscape spline points & segments right in the blueprint!",
+  "longDescription": "<p>This plugin just simply makes it so you can get spline points and segments in the blueprint. Any spline math will have to be done on your own. But this allows you to at least get the spline from the landscape.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "landscape-spline-helper-plugin",
+  "creationDate": "2023-08-02T12:41:47.760Z",
+  "lastModifiedDate": "2024-10-15T10:36:39.782Z",
+  "effectiveDate": "2023-08-02T12:41:47.726Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-86djq7rtgks8pgaqgyptxf7ywan9ps",
+    "name": "ArbitraryGames"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> Get Landscape Spline blueprint node</li><li> Landscape Control point Blueprint Object</li><li>Landscape Segment point Blueprint Object.</li></ul><p>Code Modules: </p><ul><li> LandscapeSplineHelperModule: Runtime module.</li></ul><p><br /></p><p>Number of Blueprints:</p><p>Number of C&#43;&#43; Classes:</p><p>Network Replicated: No</p><p>Supported Development Platforms: 5.2&#43; (sadly this has to be used in 5.2&#43;, because that&#39;s when Unreal made the spline control points accessible in C&#43;&#43;)</p><p>Supported Target Build Platforms: Windows 64 bit</p><p>Github: https://github.com/arbitrarygames/LandscapeSplineHelper </p><p><br /></p><p>Notes: If you don&#39;t like anything or want to change/add something please fork the github repo! And if you think others can benefit from it (even if it&#39;s not perfect) do a pull request, and we&#39;ll check it out!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e8eb5355-58d5-4c38-94a6-e0faddce9ced"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/blueprint-1920x1080-7ffef0aba488529d150871f149a807ac.png",
+      "md5": "7ffef0aba488529d150871f149a807ac",
+      "size": 346847,
+      "uploadedDate": "2023-07-29T13:29:12.835Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LandscapeSplineHelperPlugin_thumb-284x284-465593429b466b67fcb1a4a67ae43805.png",
+      "md5": "465593429b466b67fcb1a4a67ae43805",
+      "size": 11143,
+      "uploadedDate": "2023-07-29T13:29:13.127Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LandscapeSplineHelperPlugin_featured-894x488-d450e5355ae633275762152a9ade27a2.png",
+      "md5": "d450e5355ae633275762152a9ade27a2",
+      "size": 511377,
+      "uploadedDate": "2023-07-29T13:29:13.205Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/blueprint-1920x1080-7ffef0aba488529d150871f149a807ac_Snapshot.png",
+      "md5": "0bf9b1c2fbf644e13c47563d9611697a",
+      "size": 3891,
+      "uploadedDate": "2023-07-29T13:29:13.080Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d8d66763e9df408088f4b4bd9a7d8e7c"
+    }
+  ],
+  "catalogNs": null
+}

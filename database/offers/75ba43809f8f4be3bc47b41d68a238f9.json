@@ -1,0 +1,278 @@
+{
+  "id": "75ba43809f8f4be3bc47b41d68a238f9",
+  "namespace": "ue",
+  "title": "Maze Generator",
+  "description": "Generate Mazes with various algorithms.",
+  "longDescription": "<p>Create procedurally mazes of any size using different generation algorithms.</p><p>Build a path connecting any two points - after all, mazes are <em>perfect</em>.</p><p><br /></p><p>A &#34;perfect&#34; Maze means one without any loops or closed circuits, and without any inaccessible areas.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "maze-generator",
+  "creationDate": "2022-11-22T16:39:37.635Z",
+  "lastModifiedDate": "2024-10-15T12:59:38.819Z",
+  "effectiveDate": "2022-11-22T17:03:26.542Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ptybncxa8leksxe5v2ja6qeykyqlvp",
+    "name": "Lowkey Store"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>7 <em>perfect </em>maze generation algorithms</li><li>Maze generation based on the following parameters: size, seed, generation algorithm</li><li>Maze is built using Hierarchical Instanced Static Mesh, so it uses only a few draw calls</li><li>Pathfinding</li></ul><p><br /></p><p>Generation Algorithms:</p><ul><li>Recursive Backtracker</li><li>Recursive Division</li><li>Hunt-and-Kill</li><li>Sidewinder</li><li>Kruskal&#39;s</li><li>Eller&#39;s</li><li>Prim&#39;s</li></ul><p><br /></p><p>Code Modules:</p><ul><li> MazeGenerator (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 9</p><p>Tested Platforms: Win64</p><p>Documentation: <a href=\"https://github.com/1owkeyme/UE5-MazeGeneratorPlugin/blob/master/README.md\" rel=\"nofollow\">Link</a></p><p>Contact: <a href=\"https://discord.gg/FrSAf72x5h\" rel=\"nofollow\">Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "12e5c02d-ee39-44fc-98f4-1b1fe9923f57"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MainScreenshot-1920x1080-75040c8f8ec48a61e424a8c9d419aae3.png",
+      "md5": "75040c8f8ec48a61e424a8c9d419aae3",
+      "size": 42525,
+      "uploadedDate": "2022-11-18T02:18:18.977Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Algorithms-1920x1080-e05da6c961f3c4c6f72a761cc965c09b.png",
+      "md5": "e05da6c961f3c4c6f72a761cc965c09b",
+      "size": 133290,
+      "uploadedDate": "2022-11-18T02:18:19.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00008-1920x1080-19eb1f4d4174216945f74c0965acfcee.png",
+      "md5": "19eb1f4d4174216945f74c0965acfcee",
+      "size": 704217,
+      "uploadedDate": "2022-11-18T02:18:19.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-a6a9084c2a8bb3f4197d70b2b9c7db67.png",
+      "md5": "a6a9084c2a8bb3f4197d70b2b9c7db67",
+      "size": 2037449,
+      "uploadedDate": "2022-11-18T02:18:20.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-f14f5ed291afd31665dac474e29bf223.png",
+      "md5": "f14f5ed291afd31665dac474e29bf223",
+      "size": 2961442,
+      "uploadedDate": "2022-11-18T02:18:20.830Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MazeGenerator_thumb-284x284-b35b9f21522719095278a1d48a937e57.png",
+      "md5": "b35b9f21522719095278a1d48a937e57",
+      "size": 21336,
+      "uploadedDate": "2022-11-18T02:18:21.300Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MazeGenerator_featured-894x488-8f1aeb3f2ef8ac8cf4028b6cabaf3deb.png",
+      "md5": "8f1aeb3f2ef8ac8cf4028b6cabaf3deb",
+      "size": 57252,
+      "uploadedDate": "2022-11-18T02:18:21.386Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MainScreenshot-1920x1080-75040c8f8ec48a61e424a8c9d419aae3_Snapshot.png",
+      "md5": "0b804c7226ec53f9ba0b0870299364e1",
+      "size": 2784,
+      "uploadedDate": "2022-11-18T02:18:19.193Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Algorithms-1920x1080-e05da6c961f3c4c6f72a761cc965c09b_Snapshot.png",
+      "md5": "bf543f5fee00978680903ea83bf35a34",
+      "size": 5084,
+      "uploadedDate": "2022-11-18T02:18:19.477Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-19eb1f4d4174216945f74c0965acfcee_Snapshot.png",
+      "md5": "ede6bc2d2579d6473c0bb4ae29190bbd",
+      "size": 2300,
+      "uploadedDate": "2022-11-18T02:18:19.966Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-a6a9084c2a8bb3f4197d70b2b9c7db67_Snapshot.png",
+      "md5": "ae9297a1bd4d37107217aa4024244c35",
+      "size": 4558,
+      "uploadedDate": "2022-11-18T02:18:20.564Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-f14f5ed291afd31665dac474e29bf223_Snapshot.png",
+      "md5": "a32c1f3e0d0e235f4fdfd6ef8343b0d2",
+      "size": 5242,
+      "uploadedDate": "2022-11-18T02:18:21.240Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "41d20b9bc257485a87e02f638a433243"
+    }
+  ],
+  "catalogNs": null
+}

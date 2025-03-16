@@ -1,0 +1,284 @@
+{
+  "id": "2880e12f737143c48df8c0ceadef4e18",
+  "namespace": "ue",
+  "title": "Destroyer Bot",
+  "description": "Destroyer Bot is a rigged and animated bot ready for action, cinematics and gameplay.",
+  "longDescription": "<p><a href=\"https://youtu.be/V0pBtT5ahmo\" rel=\"nofollow\">Preview Video</a></p><p><br /></p><p>Destroyer Bot is a fully rigged futuristic alien robot with animation blueprint and 3rd person controller. It is ready to be dropped into a project to be controlled by a player or AI. It includes example functionality that will allow quick integration of custom behavior for your project.</p><p><br /></p><p>Destroyer Bot can both float and walk and has built-in particles and sounds. You can set Destroyer Bot&#39;s head up or down and gun ports up or down independently. Destroyer Bot also has integrated look behavior so that he can focus his gaze at targets that may be violating his safety protocol. In addition to the Destroyer Bot, we are also including the room seen in the screenshots and a rigged beach ball... they&#39;re friends, ok?</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "destroyer-bot",
+  "creationDate": "2019-02-01T18:52:19.843Z",
+  "lastModifiedDate": "2024-10-08T23:19:15.340Z",
+  "effectiveDate": "2019-02-01T18:52:19.807Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kfnr4nde74f49lycq2k5cfhzcgattu",
+    "name": "Hypercane Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h1>Basic Info</h1><p>Scaled to Epic skeleton: No</p><p>Rigged: Yes</p><p>Rigged to Epic skeleton: No</p><p>Animated: Yes</p><p>Number of characters: 1</p><p>Vertex counts of characters: 9,074</p><p>Bones: 14</p><p>Texture Resolutions: 2048x2048</p><p>Number of Animations: 10</p><p>Animation types: In-place</p><p>Supported Development Platforms: All</p><p>Supported Target Build Platforms: The demo project is targeted for windows but will work on any platform.</p><p><br /></p><h1>Axis Mappings</h1><p>To control the bot, it is expected to have the axis mappings :</p><p><strong>MoveForward</strong></p><ul><li>Mapped to W/S</li></ul><p><strong>MoveRight</strong></p><ul><li>Mapped to D/A</li></ul><p><br /></p><h1>Destroyer Bot Animations/Poses</h1><ul><li>Blade_attack_anim</li><li>Damage_pose_01/02</li><li>Gun_attack/open</li><li>Head_open_anim</li><li>Heavy_attack</li><li>Hover_idle_anim</li><li>Walk_anim</li><li>GunsFire/Out_Montage</li><li>Head_Montage</li></ul><p><br /></p><h2>Audio</h2><ul><li>Guns Open/Close</li><li>Head Open/Close</li><li>Laser 1 &amp; 2</li><li>walk-metal</li></ul><p><br /></p><h2>Physics</h2><ul><li>Proper fitting physics asset, breakable joints, clean ragdoll.</li></ul><p><br /></p><h2>Particles</h2><ul><li>Propulsion</li><li>GunBlast</li><li>GunImpact</li><li>Gun Muzzle</li></ul><h1>UI</h1><ul><li>BP_AimUI - A simple HUD for putting a target on the screen for aiming.</li></ul><p><br /></p><h1>Maps</h1><ul><li>AttackTest - Illustrates setting up bots with AI pathing that are destroyable by the player</li><li>DestroyerInterior - The room used to create the screenshots</li></ul><p><br /></p><h1>Default Keybinds</h1><p>H - Toggle head up/down</p><p>Left-Shift - Spin Attack</p><p>Right Mouse - Raise Gun ports</p><p>Left Mouse - fire</p><p>Space - Toggle between walk/float</p><p>Mousewheel - Change camera distance</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1287",
+      "name": "Fantasy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2023-08-23T02:59:53.929Z",
+      "status": "ACTIVE",
+      "referenceCount": 95,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5817f89c-789a-42fc-8297-e430481f3f10"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bladeattack-1920x1080-14d4d6faf12880e57b841ef37364b849.jpg",
+      "md5": "14d4d6faf12880e57b841ef37364b849",
+      "size": 188720,
+      "uploadedDate": "2019-01-12T02:31:42.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/custommovement-1920x1080-761c722df933b6200fe1d879dd958f78.jpg",
+      "md5": "761c722df933b6200fe1d879dd958f78",
+      "size": 165102,
+      "uploadedDate": "2019-01-12T02:31:43.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/headgunports-1920x1080-a994e915c76139c0cd0e614cd2293068.jpg",
+      "md5": "a994e915c76139c0cd0e614cd2293068",
+      "size": 195942,
+      "uploadedDate": "2019-01-12T02:31:43.522Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-6793325a9baee15bec1756fa2bf2656a.jpg",
+      "md5": "6793325a9baee15bec1756fa2bf2656a",
+      "size": 143786,
+      "uploadedDate": "2019-01-12T02:31:43.912Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-ecfe8539f5f4a41d11117d96c63db405.jpg",
+      "md5": "ecfe8539f5f4a41d11117d96c63db405",
+      "size": 140632,
+      "uploadedDate": "2019-01-12T02:31:44.174Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-1814d5302e69b2b28fd29adf542125f6.jpg",
+      "md5": "1814d5302e69b2b28fd29adf542125f6",
+      "size": 129986,
+      "uploadedDate": "2019-01-12T02:31:44.456Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/main-1920x1080-763798fd0054740378e4ce18efc817fc.jpg",
+      "md5": "763798fd0054740378e4ce18efc817fc",
+      "size": 160534,
+      "uploadedDate": "2019-01-12T02:31:44.783Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ragedoll-1920x1080-2a6e3f7feda5d362bfca7cf9b2ff1bd8.jpg",
+      "md5": "2a6e3f7feda5d362bfca7cf9b2ff1bd8",
+      "size": 122982,
+      "uploadedDate": "2019-01-12T02:31:45.268Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DestroyerBot_thumb-284x284-e8ae71b127780fe4c267cd2c9ed64e12.png",
+      "md5": "e8ae71b127780fe4c267cd2c9ed64e12",
+      "size": 106153,
+      "uploadedDate": "2019-01-12T02:31:45.539Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DestroyerBot_featured-894x488-c58d8352d55abca340cd2eb316ed3a87.png",
+      "md5": "c58d8352d55abca340cd2eb316ed3a87",
+      "size": 355637,
+      "uploadedDate": "2019-01-12T02:31:45.596Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bladeattack-1920x1080-14d4d6faf12880e57b841ef37364b849_Snapshot.jpg",
+      "md5": "88305896d98130cca7bddcacb518b522",
+      "size": 2869,
+      "uploadedDate": "2019-01-12T02:31:43.123Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/custommovement-1920x1080-761c722df933b6200fe1d879dd958f78_Snapshot.jpg",
+      "md5": "d145b70c83bd1b5a58edc41ecd81384c",
+      "size": 2793,
+      "uploadedDate": "2019-01-12T02:31:43.420Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/headgunports-1920x1080-a994e915c76139c0cd0e614cd2293068_Snapshot.jpg",
+      "md5": "ef2b0ce98e2d629067b60ccc94c70d9c",
+      "size": 2962,
+      "uploadedDate": "2019-01-12T02:31:43.782Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-6793325a9baee15bec1756fa2bf2656a_Snapshot.jpg",
+      "md5": "4fc557ac157e7226c97d2b5378ade412",
+      "size": 2664,
+      "uploadedDate": "2019-01-12T02:31:44.076Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-ecfe8539f5f4a41d11117d96c63db405_Snapshot.jpg",
+      "md5": "25b78abcd92d6c59a047dc92a61a78ed",
+      "size": 2703,
+      "uploadedDate": "2019-01-12T02:31:44.339Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-1814d5302e69b2b28fd29adf542125f6_Snapshot.jpg",
+      "md5": "9b9fed49e389233cdf7a61ad56dc0ddc",
+      "size": 2292,
+      "uploadedDate": "2019-01-12T02:31:44.629Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/main-1920x1080-763798fd0054740378e4ce18efc817fc_Snapshot.jpg",
+      "md5": "45e2a556b1f72e07e087f440f4fd8e07",
+      "size": 2945,
+      "uploadedDate": "2019-01-12T02:31:45.047Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ragedoll-1920x1080-2a6e3f7feda5d362bfca7cf9b2ff1bd8_Snapshot.jpg",
+      "md5": "5235e1a8f026c1572de3042c9eed2e78",
+      "size": 2012,
+      "uploadedDate": "2019-01-12T02:31:45.441Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3980baaad93a4444b3548dd114dc6380"
+    }
+  ],
+  "catalogNs": null
+}

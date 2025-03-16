@@ -1,0 +1,242 @@
+{
+  "id": "b93b1c54b46a49d1bad5550d831a3a60",
+  "namespace": "ue",
+  "title": "Runtime Scene Viewport",
+  "description": "This is a real 3D scene viewport UMG(not using the SceneCapture method). It contains a completely independent SceneWorld where you can spawn your own Actor objects or static meshes.",
+  "longDescription": "<p>In the conventional SceneCapture solution, you need to generate all objects in the same scene at the same time, and their lights may affect each other.</p><p><br /></p><p>In this solution, each UMG view component contains an FPreviewScene object, and they each have an independent UWorld objects,they will not affect each other or the main scene.</p><p><br /></p><p>I will continue to fix bug and update it, so valuable feedback is welcome.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runtime-scene-viewport",
+  "creationDate": "2024-07-15T10:17:27.333Z",
+  "lastModifiedDate": "2024-10-15T06:10:29.078Z",
+  "effectiveDate": "2024-07-15T10:17:27.296Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8vvr3muhavkja7puz7qejgzrccxmn2",
+    "name": "FengPaul"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p> Supports translucent background.</p><p> Custom rendering settings include ShowFlagSettings and PostProcessSettings.</p><p> Provides a default orbit view control method, which can also be customized through Blueprints.</p><p>Lighting templates can be customized. </p><p>Provides screenshot functionality with alpha channel.</p><p><br /></p><p>Code Modules:</p><p>CoreUObject</p><p>Core</p><p>Engine</p><p>Slate</p><p>SlateCore</p><p>RenderCore</p><p>RHI</p><p>UMG</p><p>InputCore</p><p>ImageCore</p><p>ApplicationCore</p><p><br /></p><p>Number of Blueprints:3</p><p>Number of C&#43;&#43; Classes:6</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p><br /></p><p>Important/Additional Notes:</p><p>enable project setting-&gt;render:</p><p>Enable alpha channel support in post processing (experimental) &#61; Allow through tonemapper</p><p><br /></p><p>Documentation: <a href=\"https://docs.google.com/document/d/1E9qnhonrX8XF8ZuaxNySHv73GsXWsWMRhRUzXsrnWeU/edit?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Video: <a href=\"https://youtu.be/4PlKK2jKsNM\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1158",
+      "name": "Rhythm",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:37.130Z",
+      "updated": "2024-09-16T18:06:26.713Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a90e3468-0b29-429a-bbad-746fdd4eae46"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop 1-1920x1080-6b3ba36623bb977eb832a38c97d3368c.png",
+      "md5": "6b3ba36623bb977eb832a38c97d3368c",
+      "size": 860935,
+      "uploadedDate": "2024-07-13T15:00:16.579Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop 2-1920x1080-526e7c99113ec93902cf6e7203b69390.png",
+      "md5": "526e7c99113ec93902cf6e7203b69390",
+      "size": 412746,
+      "uploadedDate": "2024-07-13T15:00:17.087Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop 2-2-1920x1080-87266cc009afdb190db5646ecf06a497.png",
+      "md5": "87266cc009afdb190db5646ecf06a497",
+      "size": 309138,
+      "uploadedDate": "2024-07-13T15:00:17.573Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop 3-1920x1080-6af7aaf0ef864d759eebaef176dbc3ed.png",
+      "md5": "6af7aaf0ef864d759eebaef176dbc3ed",
+      "size": 513790,
+      "uploadedDate": "2024-07-13T15:00:18.057Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop 4-1920x1080-5fa7036376f5aa7e75ab30a597c81799.png",
+      "md5": "5fa7036376f5aa7e75ab30a597c81799",
+      "size": 489272,
+      "uploadedDate": "2024-07-13T15:00:18.500Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop 5-1920x1080-7b9afe669d06af9f8e51b12fb805f4bb.png",
+      "md5": "7b9afe669d06af9f8e51b12fb805f4bb",
+      "size": 527294,
+      "uploadedDate": "2024-07-13T15:00:19.109Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop 7-1920x1080-badb948f87b5e1d53f56c021c43d766c.png",
+      "md5": "badb948f87b5e1d53f56c021c43d766c",
+      "size": 237878,
+      "uploadedDate": "2024-07-13T15:00:19.589Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ArealUMG3DsceneviewportUMG_thumb-284x284-16f17ce3888837d4e1f94a7da64349ab.png",
+      "md5": "16f17ce3888837d4e1f94a7da64349ab",
+      "size": 94096,
+      "uploadedDate": "2024-07-13T15:00:19.930Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ArealUMG3DsceneviewportUMG_featured-894x488-75071ae3c914ebf6fd47e3bf3a293415.png",
+      "md5": "75071ae3c914ebf6fd47e3bf3a293415",
+      "size": 359512,
+      "uploadedDate": "2024-07-13T15:00:20.075Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop 1-1920x1080-6b3ba36623bb977eb832a38c97d3368c_Snapshot.png",
+      "md5": "e8625b133ae4aa06bdd1386cbd397ff4",
+      "size": 4988,
+      "uploadedDate": "2024-07-13T15:00:16.945Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop 2-1920x1080-526e7c99113ec93902cf6e7203b69390_Snapshot.png",
+      "md5": "7b8fe88f176c17edc122c5e6c58c96b2",
+      "size": 5338,
+      "uploadedDate": "2024-07-13T15:00:17.385Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop 2-2-1920x1080-87266cc009afdb190db5646ecf06a497_Snapshot.png",
+      "md5": "c847bbebeb143a20aac13e599b498007",
+      "size": 4196,
+      "uploadedDate": "2024-07-13T15:00:17.875Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop 3-1920x1080-6af7aaf0ef864d759eebaef176dbc3ed_Snapshot.png",
+      "md5": "25a7c21792557f55231a92328473b0c7",
+      "size": 5346,
+      "uploadedDate": "2024-07-13T15:00:18.359Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop 4-1920x1080-5fa7036376f5aa7e75ab30a597c81799_Snapshot.png",
+      "md5": "9d5835e1281e6b9fa0465c3a680041bb",
+      "size": 5476,
+      "uploadedDate": "2024-07-13T15:00:18.959Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop 5-1920x1080-7b9afe669d06af9f8e51b12fb805f4bb_Snapshot.png",
+      "md5": "fb01d98e238adb18c4fc1e9af071d262",
+      "size": 7287,
+      "uploadedDate": "2024-07-13T15:00:19.431Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop 7-1920x1080-badb948f87b5e1d53f56c021c43d766c_Snapshot.png",
+      "md5": "b1a54960ca108963498a07bfe15acb5c",
+      "size": 6136,
+      "uploadedDate": "2024-07-13T15:00:19.868Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7d69ae7c3ec544b2b75d3361eadd35de"
+    }
+  ],
+  "catalogNs": null
+}

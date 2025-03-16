@@ -1,0 +1,392 @@
+{
+  "id": "270efe7731fc4f3c84c91f21898d9b3a",
+  "namespace": "ue",
+  "title": "Magic Spline Plugin",
+  "description": "Improved Spline Mesh Editor Plugin",
+  "longDescription": "<p>MagicSpline is a plugin allowing the creation SplineMeshActor in your levels to generate and edit meshes following a spline mesh (static meshes or spline meshes with deformation). It’s a powerful level design tool that can be used in many ways (walls, roads, pipes, chains, fences, blocking volumes, etc.) in an optimized way.</p><p><br /></p><p>it&#39;s an optimized C&#43;&#43; plugin but you don&#39;t need to know programming to use it. Like in the video in the description, you just have to create a new blueprint based on the class SME_SplineMeshActor. Then you can add this blueprint actor to your levels and just edit the settings in the details panel. The plugin will be automatically installed on your engine.</p><p>If you know C&#43;&#43; and would like to add some extra functionality to this plugin, it&#39;s also possible as the source code is provided.</p><p><br /></p><p>Youtube video: <a href=\"https://youtu.be/uRhWA9wju_o\" rel=\"nofollow\">Demo of Magic Spline Plugin</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "magic-spline-plugin",
+  "creationDate": "2022-08-03T15:26:48.555Z",
+  "lastModifiedDate": "2024-10-15T06:31:16.365Z",
+  "effectiveDate": "2022-08-03T15:28:52.613Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tb5ebmekp39tera5alhmnbd58ap8hp",
+    "name": "BoBohn"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Main Features:</p><ul><li><strong>Layers </strong>(group of segments and settings allowing multiple meshes attached to the same spline)</li><li><strong>Collisions </strong>(enabling collisions on spline mesh is possible but very inefficient but you can create a separate layer to handle collisions with invisible static meshes in an efficient way)</li><li><strong>Offsets</strong></li><li><strong>Twist </strong>(curve the meshes to create chains, screws, etc...)</li><li><strong>Overrides Segments</strong> (use different settings for specific segments of the spline)</li><li><strong>Imperfections </strong></li><li><strong>Branches</strong></li><li><strong>Physics </strong>(with UE5 only)</li><li><strong>Blocking volumes</strong> (easy way to create a chain of blocking volumes)</li><li><strong>Gaps</strong></li><li><strong>Mesh distribution modes</strong> (by mesh length, by segment count, Per spline points, hybrid)</li><li><strong>Runtime animations</strong> (set the actor to Movable and call the function &#34;UpdateSplineAtRuntime&#34; from BP or C&#43;&#43; )</li></ul><p><br /></p><p>It&#39;s possible to bake the all actors into a StaticMesh (Main menu &gt; Actors &gt; Merge Actors).</p><p>You can add multiple meshes into the same layer to generate randomness, each segment of the spline will select a mesh randomly from the list of meshes.</p><p><br /></p><p>Module: &#34;SplineMeshEditor&#34; [Runtime] </p><p>Youtube video: <a href=\"https://youtu.be/uRhWA9wju_o\" rel=\"nofollow\">Demo of Magic Spline Plugin</a></p><p>Documentation included: Tooltips &#43; <a href=\"https://drive.google.com/file/d/10inH4BWul7p261Bgo9Dw6b2uIF2P7pKS/view?usp&#61;sharing\" rel=\"nofollow\">PDF explaining each settings</a></p><p>Demo level included in the content folder of the plugin</p><p>Discord: https://discord.gg/cRpPHgjJdM</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d1c41853-a6e2-4d81-8316-e033b072eead"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MagicSpline-1920x1080-ba88adbd34ad4b8afcba215e7ec7f920.jpg",
+      "md5": "ba88adbd34ad4b8afcba215e7ec7f920",
+      "size": 132989,
+      "uploadedDate": "2022-07-20T20:04:22.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MagicSpline2-1920x1080-cdd37f1bacddab879281c1c8d7566902.jpg",
+      "md5": "cdd37f1bacddab879281c1c8d7566902",
+      "size": 160052,
+      "uploadedDate": "2022-07-20T20:04:22.485Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layers2.JPG-1920x1080-de7b2985f9885d11d528c11ee57b7832.jpg",
+      "md5": "de7b2985f9885d11d528c11ee57b7832",
+      "size": 74214,
+      "uploadedDate": "2022-07-20T20:04:22.777Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BlockingVolumes.JPG-1920x1080-9d3199c917cb3fd5a0eee88d88bc9584.jpg",
+      "md5": "9d3199c917cb3fd5a0eee88d88bc9584",
+      "size": 77863,
+      "uploadedDate": "2022-07-20T20:04:23.209Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArcBranches.JPG-1920x1080-a881101fe853825b0915945f8dcd15a9.jpg",
+      "md5": "a881101fe853825b0915945f8dcd15a9",
+      "size": 55208,
+      "uploadedDate": "2022-07-20T20:04:23.522Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Imperfections2.JPG-1920x1080-85ba9678a4027657deb705741aa3ecf8.jpg",
+      "md5": "85ba9678a4027657deb705741aa3ecf8",
+      "size": 57459,
+      "uploadedDate": "2022-07-20T20:04:23.805Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Offsets.JPG-1920x1080-4b731c0f7bb99d56f4f0157ae7584262.jpg",
+      "md5": "4b731c0f7bb99d56f4f0157ae7584262",
+      "size": 65955,
+      "uploadedDate": "2022-07-20T20:04:24.119Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TwistOverrides.JPG-1920x1080-8134f174c4a87ae6fa95d98a14f77888.jpg",
+      "md5": "8134f174c4a87ae6fa95d98a14f77888",
+      "size": 65684,
+      "uploadedDate": "2022-07-20T20:04:24.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MagicSplinePlugin_thumb-284x284-11b4d6256dc90afb4d33bb7c2f869742.png",
+      "md5": "11b4d6256dc90afb4d33bb7c2f869742",
+      "size": 76934,
+      "uploadedDate": "2022-07-20T20:04:24.745Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MagicSplinePlugin_featured-894x488-fdb0bc56f59b644bd377ed76289f9d39.png",
+      "md5": "fdb0bc56f59b644bd377ed76289f9d39",
+      "size": 444263,
+      "uploadedDate": "2022-07-20T20:04:24.847Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MagicSpline-1920x1080-ba88adbd34ad4b8afcba215e7ec7f920_Snapshot.jpg",
+      "md5": "d6590c44fbacced3e58dc0478c378a3e",
+      "size": 6982,
+      "uploadedDate": "2022-07-20T20:04:22.356Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MagicSpline2-1920x1080-cdd37f1bacddab879281c1c8d7566902_Snapshot.jpg",
+      "md5": "6d2f16bbb3860fac164e31247cfedc75",
+      "size": 7457,
+      "uploadedDate": "2022-07-20T20:04:22.704Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layers2.JPG-1920x1080-de7b2985f9885d11d528c11ee57b7832_Snapshot.jpg",
+      "md5": "d8561fe0b18c7ba64fe95ffec470546d",
+      "size": 5593,
+      "uploadedDate": "2022-07-20T20:04:23.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BlockingVolumes.JPG-1920x1080-9d3199c917cb3fd5a0eee88d88bc9584_Snapshot.jpg",
+      "md5": "41507f3c93a8ecd371f7e577f1bcfdc1",
+      "size": 4607,
+      "uploadedDate": "2022-07-20T20:04:23.421Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArcBranches.JPG-1920x1080-a881101fe853825b0915945f8dcd15a9_Snapshot.jpg",
+      "md5": "2ef7aadb12882fab9c524697868f6107",
+      "size": 4943,
+      "uploadedDate": "2022-07-20T20:04:23.730Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Imperfections2.JPG-1920x1080-85ba9678a4027657deb705741aa3ecf8_Snapshot.jpg",
+      "md5": "61e532fb46d669e5030ec3331a94e698",
+      "size": 4242,
+      "uploadedDate": "2022-07-20T20:04:24.013Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Offsets.JPG-1920x1080-4b731c0f7bb99d56f4f0157ae7584262_Snapshot.jpg",
+      "md5": "8ce341ec37af3de13d97982009b4b494",
+      "size": 5232,
+      "uploadedDate": "2022-07-20T20:04:24.329Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TwistOverrides.JPG-1920x1080-8134f174c4a87ae6fa95d98a14f77888_Snapshot.jpg",
+      "md5": "cf1ee2c720ac091b0c953f008f2e0589",
+      "size": 4542,
+      "uploadedDate": "2022-07-20T20:04:24.648Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c9cfad457e624550b278309ac165b990"
+    }
+  ],
+  "catalogNs": null
+}

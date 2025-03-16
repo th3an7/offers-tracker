@@ -1,0 +1,578 @@
+{
+  "id": "9b06391b62034be1928ba1c722b409b5",
+  "namespace": "ue",
+  "title": "Procedural Decal Tools",
+  "description": "Procedural blueprint toolset for generating highly reusable decal content from basic tiling and masked texture inputs.",
+  "longDescription": "<p>Basic Blueprint Functionality</p><p><a href=\"https://vimeo.com/586833768\" rel=\"nofollow\">https://vimeo.com/586833768</a></p><p>Paint Decal Blueprint Example</p><p><a href=\"https://vimeo.com/586835282\" rel=\"nofollow\">https://vimeo.com/586835282</a></p><p>Patch Decal Blueprint Example</p><p><a href=\"https://vimeo.com/586839602\" rel=\"nofollow\">https://vimeo.com/586839602</a></p><p><br /></p><p>These blueprint tools take in sets of tiling &amp; non-tiling textures and generate highly diverse, reusable decal content based on those inputs. Parametric controls are customizable based on the user&#39;s needs and can be utilized across a broad spectrum of content targets.</p><p><br /></p><ul><li>Uses blueprints and dynamic material instances to combine tiling textures with custom masks to generate infinite variation across each placement instance. The feeling of custom content generation in a fraction of the time.</li><li>Fast, intuitive user controls</li><li>Contains demo content, but can be used with custom authored textures &amp; masks as well as source content from popular services like Megascans.</li><li>In-engine documentation: Examples and demos of all blueprints and features inside package</li></ul><p><br /></p><p>Features:</p><ul><li>Decal Types: Basic Decal, Tiling Decal, Stain Decal, Paint Decal &amp; Patch Decal</li><li>Large set of highly tunable parameters to customize each decal type to exact specifications</li><li>Angle fade masking to remove decal stretching</li><li>Auto alignment of decals to nearest surface at the click of a button </li><li>Supports parallax occlusion mapping based on decal actor alignment</li><li>Generates proceduralized normal edges on some decal types</li><li>Aspect ratio locking on decal actor scale</li><li>Inheritable blueprints for saving custom settings for quick re-use. </li><li>RGBA packed textures &amp; materials are set up to support AO(R), Displacement (G), Roughness (B), Metalness (O). Materials have been commented to allow for easy adjustments to this framework.</li></ul><p><br /></p><p>If you are interested in this product please also check out <a href=\"https://www.unrealengine.com/marketplace/en-US/product/procedural-text-tool\" rel=\"nofollow\">Procedural Text Tool</a> &amp; <a href=\"https://www.unrealengine.com/marketplace/en-US/product/animated-text-tool\" rel=\"nofollow\">Animated Text Blueprint</a>. Don&#39;t forget to leave a rating and/or review. Every little bit helps. Thank you!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-decal-tools",
+  "creationDate": "2021-08-14T16:51:22.215Z",
+  "lastModifiedDate": "2024-10-22T14:50:55.672Z",
+  "effectiveDate": "2021-08-14T16:54:22.141Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4eak2d6qcaz4ht774eblrakttwzeah",
+    "name": "NoahThompson"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints:</p><ul><li>5 Main decal blueprints (Includes supporting decal material)</li><li>1 Demomap billboard blueprint</li><li>1 Blueprint function library</li></ul><p><br /></p><p>Demo Textures: </p><ul><li>12 Tiling texture sets (Color/Alpha, Normals, Stack) 2048x2048</li><li>4 Non-tiling texture sets (Colors, Normals, Stack) 2048x2048</li><li>7 Tiling noise masks (Greyscale) 2048x2048</li><li>23 Non-tiling masks (Greyscale) 2048x2048</li><li>2 Tiling masks (Greyscale) 2048x2048</li><li>1 Default texture set (Color, Normals, Stack) 256x256</li></ul><p><br /></p><p>Maps:</p><ul><li>1 Demo map</li></ul><p><br /></p><p>Performance</p><ul><li>Base pass shaders range from ~90 - 190 ALU&#39;s depending on which decal &amp; settings are used</li><li>For the most optimized performance...</li><li>Reduce the number of overlapping decals (Depends on target platform, but 2-3 layers of overlap max is a good place to start)</li><li>Scale macro masks in decals to reduce empty space as much as possible</li><li>Reduce the X-Axis scale of decal boxes to align as closely to a surface as possible</li><li>When applicable reduce the min, max step counts for POM or turn off completely. Keep in mind that UE&#39;s POM is not well reflected by ALU counts as it uses custom HLSL loops.</li></ul><p><br /></p><p>Intended Platforms: All</p><p>Platforms Tested: Windows</p><p>Documentation Included: All features explained in demo level</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b98eb1b6-5d6d-4177-aa38-43c33fb5f810"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley01-1920x1080-9720c7558160e85e3b9b12b5c97dfcb4.jpg",
+      "md5": "9720c7558160e85e3b9b12b5c97dfcb4",
+      "size": 1665994,
+      "uploadedDate": "2021-08-14T02:56:25.365Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley02-1920x1080-94d255a426f0292ccc3c9090f30cb29a.jpg",
+      "md5": "94d255a426f0292ccc3c9090f30cb29a",
+      "size": 636811,
+      "uploadedDate": "2021-08-14T02:56:25.816Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley03-1920x1080-0ab5f2b88e211a72b14574461160a7c8.jpg",
+      "md5": "0ab5f2b88e211a72b14574461160a7c8",
+      "size": 1212880,
+      "uploadedDate": "2021-08-14T02:56:26.269Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley04-1920x1080-902a81701272fe1f3c9c885a1679765c.jpg",
+      "md5": "902a81701272fe1f3c9c885a1679765c",
+      "size": 955037,
+      "uploadedDate": "2021-08-14T02:56:26.709Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley05-1920x1080-be44006d4533ed0d562af9fd843b6a7d.jpg",
+      "md5": "be44006d4533ed0d562af9fd843b6a7d",
+      "size": 1136903,
+      "uploadedDate": "2021-08-14T02:56:27.166Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley06-1920x1080-9c1971b8848986288ae240ca06cf050b.jpg",
+      "md5": "9c1971b8848986288ae240ca06cf050b",
+      "size": 1212505,
+      "uploadedDate": "2021-08-14T02:56:27.588Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley07-1920x1080-da9f868f882d72ff7580207fae35d69d.jpg",
+      "md5": "da9f868f882d72ff7580207fae35d69d",
+      "size": 1120635,
+      "uploadedDate": "2021-08-14T02:56:28.048Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley08-1920x1080-11ece6bad83449bd72ad0aa97338e3f9.jpg",
+      "md5": "11ece6bad83449bd72ad0aa97338e3f9",
+      "size": 1024591,
+      "uploadedDate": "2021-08-14T02:56:28.532Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley09-1920x1080-c8c76697bc81dfb0d0f15aa0a393a9e7.jpg",
+      "md5": "c8c76697bc81dfb0d0f15aa0a393a9e7",
+      "size": 1320864,
+      "uploadedDate": "2021-08-14T02:56:28.931Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley10-1920x1080-fbdfcb8f79831aa9082a3d0ad4bb95ea.jpg",
+      "md5": "fbdfcb8f79831aa9082a3d0ad4bb95ea",
+      "size": 1096429,
+      "uploadedDate": "2021-08-14T02:56:29.378Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley11-1920x1080-6895a3eeb8f547c801d7a3ed3bfa85e6.jpg",
+      "md5": "6895a3eeb8f547c801d7a3ed3bfa85e6",
+      "size": 1125325,
+      "uploadedDate": "2021-08-14T02:56:29.837Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley12-1920x1080-212fac7ae41f9b59a18fbbbba00a94cb.jpg",
+      "md5": "212fac7ae41f9b59a18fbbbba00a94cb",
+      "size": 1385169,
+      "uploadedDate": "2021-08-14T02:56:30.310Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley13-1920x1080-9b074bf65d845cab55c021aff46d5170.jpg",
+      "md5": "9b074bf65d845cab55c021aff46d5170",
+      "size": 1071786,
+      "uploadedDate": "2021-08-14T02:56:30.761Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley14-1920x1080-f529cdf6c569ac5c5fae13e0eb0b5ba0.jpg",
+      "md5": "f529cdf6c569ac5c5fae13e0eb0b5ba0",
+      "size": 1710022,
+      "uploadedDate": "2021-08-14T02:56:31.297Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley15-1920x1080-927fd1a521387f94f18abdb76c61fc06.jpg",
+      "md5": "927fd1a521387f94f18abdb76c61fc06",
+      "size": 1655768,
+      "uploadedDate": "2021-08-14T02:56:31.769Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley16-1920x1080-52f1d795176a0f5a9b646c1195923ad9.jpg",
+      "md5": "52f1d795176a0f5a9b646c1195923ad9",
+      "size": 1306707,
+      "uploadedDate": "2021-08-14T02:56:32.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley17-1920x1080-57b437ddcac83e1e23dd9d161093e96f.jpg",
+      "md5": "57b437ddcac83e1e23dd9d161093e96f",
+      "size": 1038003,
+      "uploadedDate": "2021-08-14T02:56:32.771Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley18-1920x1080-4ba52f4f6c6aa9d9099483a88c8ff0ba.jpg",
+      "md5": "4ba52f4f6c6aa9d9099483a88c8ff0ba",
+      "size": 1156215,
+      "uploadedDate": "2021-08-14T02:56:33.191Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galley19-1920x1080-fdad7eae9b47231a25201df8a9a05a0d.jpg",
+      "md5": "fdad7eae9b47231a25201df8a9a05a0d",
+      "size": 953803,
+      "uploadedDate": "2021-08-14T02:56:33.625Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralDecalTools_thumb-284x284-f0263cdf0f2c789ce9dc85e23ab11ff6.png",
+      "md5": "f0263cdf0f2c789ce9dc85e23ab11ff6",
+      "size": 173552,
+      "uploadedDate": "2021-08-14T02:56:33.962Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralDecalTools_featured-894x488-741bf443e77a2f13e09cff6d8d78fd27.png",
+      "md5": "741bf443e77a2f13e09cff6d8d78fd27",
+      "size": 954555,
+      "uploadedDate": "2021-08-14T02:56:34.095Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley01-1920x1080-9720c7558160e85e3b9b12b5c97dfcb4_Snapshot.jpg",
+      "md5": "8a7e890399f698da0f8094f63b1b3e69",
+      "size": 7980,
+      "uploadedDate": "2021-08-14T02:56:25.669Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley02-1920x1080-94d255a426f0292ccc3c9090f30cb29a_Snapshot.jpg",
+      "md5": "e788c2bc478b757df8dd64a22f0062a6",
+      "size": 4309,
+      "uploadedDate": "2021-08-14T02:56:26.077Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley03-1920x1080-0ab5f2b88e211a72b14574461160a7c8_Snapshot.jpg",
+      "md5": "74eb006d6c8a405271beea826612f2b6",
+      "size": 6891,
+      "uploadedDate": "2021-08-14T02:56:26.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley04-1920x1080-902a81701272fe1f3c9c885a1679765c_Snapshot.jpg",
+      "md5": "627631c93ed26e3cfc17f1f891307466",
+      "size": 6212,
+      "uploadedDate": "2021-08-14T02:56:27.001Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley05-1920x1080-be44006d4533ed0d562af9fd843b6a7d_Snapshot.jpg",
+      "md5": "ae6f20c7a8eb289630e074a0b44b9b8b",
+      "size": 6523,
+      "uploadedDate": "2021-08-14T02:56:27.437Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley06-1920x1080-9c1971b8848986288ae240ca06cf050b_Snapshot.jpg",
+      "md5": "db0eccc8d849cb045a8a7c74ea3a9d7c",
+      "size": 6376,
+      "uploadedDate": "2021-08-14T02:56:27.862Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley07-1920x1080-da9f868f882d72ff7580207fae35d69d_Snapshot.jpg",
+      "md5": "39a06a7680b267bb1486defc3c98da26",
+      "size": 6704,
+      "uploadedDate": "2021-08-14T02:56:28.354Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley08-1920x1080-11ece6bad83449bd72ad0aa97338e3f9_Snapshot.jpg",
+      "md5": "80fad113374e9db792df6094d8349f35",
+      "size": 6036,
+      "uploadedDate": "2021-08-14T02:56:28.808Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley09-1920x1080-c8c76697bc81dfb0d0f15aa0a393a9e7_Snapshot.jpg",
+      "md5": "0f375499681e202f7bc44ba53225a4ab",
+      "size": 6182,
+      "uploadedDate": "2021-08-14T02:56:29.210Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley10-1920x1080-fbdfcb8f79831aa9082a3d0ad4bb95ea_Snapshot.jpg",
+      "md5": "47a2cc486e07eb4c1ca41caac466abdf",
+      "size": 6997,
+      "uploadedDate": "2021-08-14T02:56:29.666Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley11-1920x1080-6895a3eeb8f547c801d7a3ed3bfa85e6_Snapshot.jpg",
+      "md5": "feae95f02804a6d61026eaeb8c94a8d7",
+      "size": 5888,
+      "uploadedDate": "2021-08-14T02:56:30.148Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley12-1920x1080-212fac7ae41f9b59a18fbbbba00a94cb_Snapshot.jpg",
+      "md5": "37cdcd646121a027c51d09279e205ca2",
+      "size": 6295,
+      "uploadedDate": "2021-08-14T02:56:30.597Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley13-1920x1080-9b074bf65d845cab55c021aff46d5170_Snapshot.jpg",
+      "md5": "f576730fd05d0a97cf005f24d1fb59ec",
+      "size": 7091,
+      "uploadedDate": "2021-08-14T02:56:31.029Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley14-1920x1080-f529cdf6c569ac5c5fae13e0eb0b5ba0_Snapshot.jpg",
+      "md5": "864cd5d2cca49d9ccb9745b03491a664",
+      "size": 7038,
+      "uploadedDate": "2021-08-14T02:56:31.608Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley15-1920x1080-927fd1a521387f94f18abdb76c61fc06_Snapshot.jpg",
+      "md5": "647105e84352989209ffcbda27d5e064",
+      "size": 6276,
+      "uploadedDate": "2021-08-14T02:56:32.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley16-1920x1080-52f1d795176a0f5a9b646c1195923ad9_Snapshot.jpg",
+      "md5": "92927feda8f4c8656cc2cd4d3f6f67f5",
+      "size": 7571,
+      "uploadedDate": "2021-08-14T02:56:32.596Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley17-1920x1080-57b437ddcac83e1e23dd9d161093e96f_Snapshot.jpg",
+      "md5": "8fe6b5a4ee646e16b8a2a7746b4e6d63",
+      "size": 6425,
+      "uploadedDate": "2021-08-14T02:56:33.047Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley18-1920x1080-4ba52f4f6c6aa9d9099483a88c8ff0ba_Snapshot.jpg",
+      "md5": "05248824082d683a1a1cc2b321411be9",
+      "size": 5393,
+      "uploadedDate": "2021-08-14T02:56:33.465Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galley19-1920x1080-fdad7eae9b47231a25201df8a9a05a0d_Snapshot.jpg",
+      "md5": "70d314e53e9e7c72a98e3bc1c6dd303b",
+      "size": 5923,
+      "uploadedDate": "2021-08-14T02:56:33.891Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e461d72543f84435b4db265abb3a4620"
+    }
+  ],
+  "catalogNs": null
+}

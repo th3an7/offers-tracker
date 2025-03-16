@@ -1,0 +1,509 @@
+{
+  "id": "39f9046e81994498b24f462c00fd9cb4",
+  "namespace": "ue",
+  "title": "Drivable Firetruck Ladder & Water",
+  "description": "Drivable Firetruck with working ladder",
+  "longDescription": "<p>Based on Unreal&#39;s default vehicle system. Arcade style firetruck model with working ladders.</p><p>Skeletal mesh is correctly rigged with proper bone scales and bone naming.</p><p><br /></p><p>Video preview: <a href=\"https://youtu.be/mayoRDYE4g0\" rel=\"nofollow\">https://youtu.be/mayoRDYE4g0</a></p><p><br /></p><p>Number of Skeletal Meshes: 5 (1x vehicle without ladder, 2x vehicle with attachment, 1x ladder, 1x water)</p><p>Rigged: Yes</p><p>Average Triangle Count: 61435</p><p>LODs: Yes</p><p>Number of Textures: 11</p><p>Texture types: BaseColor, Normal, Occlusion Roughness Metallic (ORM)</p><p>Texture Size: 2048x2048 and 4096x4096</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "drivable-firetruck-ladder-water",
+  "creationDate": "2021-04-15T10:00:21.364Z",
+  "lastModifiedDate": "2024-10-23T11:58:59.027Z",
+  "effectiveDate": "2021-04-15T10:03:56.071Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kqgbeqehctnf9cvasrryshybb6ep57",
+    "name": "Blue Mountains"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Two firetruck models</li><li>Drivable and rigged</li><li>Working ladder</li><li>Body color can be changed in material.</li><li>Working front, rear, reverse and flashing lights.</li><li>Custom collision for skeletal meshes.</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Input: Keyboard input, <a href=\"https://pastebin.com/raw/KyRZsf15\" rel=\"nofollow\">DefaultInput.ini</a> (Using EnhancedInput since UE 5.2)</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1Ahxh1bRvhEjEhtp-up2e5teCa7rcVFW6/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1Ahxh1bRvhEjEhtp-up2e5teCa7rcVFW6/view?usp&#61;sharing</a></p><p>Important/Additional Notes: Does not contain water particles or sounds. Not intended for first person.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1234",
+      "name": "PVP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:14.666Z",
+      "updated": "2023-07-18T10:54:22.176Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 1473,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f225aa95-b558-4698-81b8-efff9a6e1dca"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00012-1920x1080-da6eb24eb78887e377354b1de5174e36.jpg",
+      "md5": "da6eb24eb78887e377354b1de5174e36",
+      "size": 331115,
+      "uploadedDate": "2021-02-08T22:43:02.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-0de58492d8044e351f0c76510d5d3654.png",
+      "md5": "0de58492d8044e351f0c76510d5d3654",
+      "size": 2690832,
+      "uploadedDate": "2021-02-08T22:14:33.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Ladder-1920x1080-60e9ff518db252cd8a70275e8b74473f.png",
+      "md5": "60e9ff518db252cd8a70275e8b74473f",
+      "size": 2557008,
+      "uploadedDate": "2021-02-08T22:58:01.472Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Water-1920x1080-5f4d7a2f8619975867df7ce277468e86.jpg",
+      "md5": "5f4d7a2f8619975867df7ce277468e86",
+      "size": 279183,
+      "uploadedDate": "2021-02-08T22:59:06.421Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-638b4ec245b97f2a560363279256ea4b.jpg",
+      "md5": "638b4ec245b97f2a560363279256ea4b",
+      "size": 395238,
+      "uploadedDate": "2021-02-08T22:43:19.633Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00008-1920x1080-d87a06f747088dbd72c1df0b4d8c3932.jpg",
+      "md5": "d87a06f747088dbd72c1df0b4d8c3932",
+      "size": 422775,
+      "uploadedDate": "2021-02-08T22:43:20.655Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-8cfba3ea6e47ca50af86293099db3f6a.jpg",
+      "md5": "8cfba3ea6e47ca50af86293099db3f6a",
+      "size": 631999,
+      "uploadedDate": "2021-02-08T22:43:42.309Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FiretruckOnset-1920x1080-922b236b1215f10cc4a5a13b033d3eaa.jpg",
+      "md5": "922b236b1215f10cc4a5a13b033d3eaa",
+      "size": 536917,
+      "uploadedDate": "2021-02-26T15:01:46.523Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Underside-1920x1080-ee253f9d6331b194c2bc5ac5131faa77.jpg",
+      "md5": "ee253f9d6331b194c2bc5ac5131faa77",
+      "size": 87136,
+      "uploadedDate": "2021-02-08T22:42:41.547Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00019-1920x1080-1dacf5842701cf63bd0b01215ce8ff4a.jpg",
+      "md5": "1dacf5842701cf63bd0b01215ce8ff4a",
+      "size": 281531,
+      "uploadedDate": "2022-02-27T19:24:18.579Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DrivableFiretruckLadderWater_thumb-284x284-668d733d9ef24eabd0d93431878ea6a3.png",
+      "md5": "668d733d9ef24eabd0d93431878ea6a3",
+      "size": 149837,
+      "uploadedDate": "2022-02-27T19:22:38.798Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DrivableFiretruckLadderWater_featured-894x488-dd8c8b1fd518e88ad203430bc5890b71.png",
+      "md5": "dd8c8b1fd518e88ad203430bc5890b71",
+      "size": 482798,
+      "uploadedDate": "2021-02-08T22:37:31.191Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00019-1920x1080-1dacf5842701cf63bd0b01215ce8ff4a_Snapshot.jpg",
+      "md5": "6209d2085b2cc5d61b1bfec9994000f1",
+      "size": 5460,
+      "uploadedDate": "2022-02-27T19:24:19.195Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FiretruckOnset-1920x1080-922b236b1215f10cc4a5a13b033d3eaa_Snapshot.jpg",
+      "md5": "0ff20ea56ccd30709087e563330a0964",
+      "size": 7055,
+      "uploadedDate": "2021-02-26T15:01:47.233Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Water-1920x1080-5f4d7a2f8619975867df7ce277468e86_Snapshot.jpg",
+      "md5": "56e23d268fbed7367b4e9fe9ce58e973",
+      "size": 5841,
+      "uploadedDate": "2021-02-08T22:59:07.072Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Ladder-1920x1080-60e9ff518db252cd8a70275e8b74473f_Snapshot.png",
+      "md5": "8b7f67f31eee2475f37161ec0918b593",
+      "size": 4960,
+      "uploadedDate": "2021-02-08T22:58:01.910Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Water-1920x1080-7e8742229afe64c23d3fb3f5ad1d4be3_Snapshot.png",
+      "md5": "9840e2ebe3761d6fdfd3634b310bb658",
+      "size": 5023,
+      "uploadedDate": "2021-02-08T22:58:02.552Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Ladder-1920x1080-60e9ff518db252cd8a70275e8b74473f_Snapshot.png",
+      "md5": "8b7f67f31eee2475f37161ec0918b593",
+      "size": 4960,
+      "uploadedDate": "2021-02-08T22:57:30.264Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Water-1920x1080-7e8742229afe64c23d3fb3f5ad1d4be3_Snapshot.png",
+      "md5": "9840e2ebe3761d6fdfd3634b310bb658",
+      "size": 5023,
+      "uploadedDate": "2021-02-08T22:57:16.914Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00013-1920x1080-b476714fe68e0d9357fc7b72c160e3b1_Snapshot.png",
+      "md5": "cfa22c0431142529373d589c39656b8e",
+      "size": 5022,
+      "uploadedDate": "2021-02-08T22:54:24.895Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00014-1920x1080-659fe51a1a77a784d0f9e2c045339a76_Snapshot.png",
+      "md5": "ebf77ed8639345cd3a7b2fdacb91bf82",
+      "size": 4947,
+      "uploadedDate": "2021-02-08T22:54:25.596Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-8cfba3ea6e47ca50af86293099db3f6a_Snapshot.jpg",
+      "md5": "1ffb7973fd9eabc998aa7521d7601a94",
+      "size": 8319,
+      "uploadedDate": "2021-02-08T22:43:42.998Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-72a69f92b7c57ac4da7a09cc9d972909_Snapshot.jpg",
+      "md5": "83d7ed520ae3c0168eeaabbb120e3d8c",
+      "size": 4956,
+      "uploadedDate": "2021-02-08T22:43:43.898Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-638b4ec245b97f2a560363279256ea4b_Snapshot.jpg",
+      "md5": "36f901abd87ad4a78a460db646e6c163",
+      "size": 6453,
+      "uploadedDate": "2021-02-08T22:43:20.270Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-d87a06f747088dbd72c1df0b4d8c3932_Snapshot.jpg",
+      "md5": "98cc3414da053b03a98d670736504c5f",
+      "size": 6180,
+      "uploadedDate": "2021-02-08T22:43:21.297Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00009-1920x1080-12c6df38b37c91007907f2eb9b6c5244_Snapshot.jpg",
+      "md5": "cb5294632c8f426e13416bc28cda982c",
+      "size": 4180,
+      "uploadedDate": "2021-02-08T22:43:01.881Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00012-1920x1080-da6eb24eb78887e377354b1de5174e36_Snapshot.jpg",
+      "md5": "4dfcf34cb54513d3fc414801abbc7a8a",
+      "size": 5769,
+      "uploadedDate": "2021-02-08T22:43:02.786Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Underside-1920x1080-ee253f9d6331b194c2bc5ac5131faa77_Snapshot.jpg",
+      "md5": "8c3101e0e071dda7349fb95ec75e25e3",
+      "size": 2486,
+      "uploadedDate": "2021-02-08T22:42:42.116Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00009-1920x1080-6eefb48a4db1dd5184d87f83f8734d13_Snapshot.png",
+      "md5": "4caccd8627badea8953b06a663b1cf2f",
+      "size": 4192,
+      "uploadedDate": "2021-02-08T22:14:32.172Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-c13cd8a29dad068e0ca8d8871d2fff59_Snapshot.png",
+      "md5": "34e93113641285b6f3884873e6f41ff2",
+      "size": 5409,
+      "uploadedDate": "2021-02-08T22:14:32.836Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-0de58492d8044e351f0c76510d5d3654_Snapshot.png",
+      "md5": "02a75e5f1aa484327de64fdff00ad265",
+      "size": 4947,
+      "uploadedDate": "2021-02-08T22:14:33.549Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e537d4dab3104db19dcbd1bce02a6dec"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,335 @@
+{
+  "id": "de2f39f4f3b44a9f813d4ca9ed7dfc50",
+  "namespace": "ue",
+  "title": "AI Basics",
+  "description": "🧠 Unleash the power of AI in your game with AI Basics! Design your own artificial intelligence and bring your game to life. Dive into the details below to discover what's included in this package.",
+  "longDescription": "<p>Welcome, customer! Thank you for considering my product for your game development needs. I am excited to offer you a highly customizable and easy-to-use solution that will enhance your project&#39;s user experience! &#x1f579;️</p><p><br /></p><p>Product is actively supported!</p><p><br /></p><p><a href=\"https://youtu.be/cU8Hzxcrf2M\" rel=\"nofollow\">Demonstration Video</a></p><p><a href=\"https://1drv.ms/f/s!AjzKkFpEfYCGh3_ir443J-h5yrcr?e&#61;BchTlZ\" rel=\"nofollow\">Downloadable Demo</a></p><p><a href=\"https://discord.com/invite/AuNFmsVmuj\" rel=\"nofollow\">Discord Community</a></p><p><a href=\"https://1drv.ms/b/s!AjzKkFpEfYCGgnTThhbTenDEDTrH?e&#61;DRYvkE\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://forms.gle/gMxx74Ld2kvretTh6\" rel=\"nofollow\">Report Bug</a></p><p><br /></p><p>Introducing AI Basics, the beginner package for building your own AI system in Unreal Engine. Utilizing a behavior tree that executes different blueprints at runtime, this package provides a versatile foundation for creating AI tailored to your needs. Please note that a fundamental understanding of AI in Unreal Engine is required.</p><p><br /></p><p>&#x1f916; To demonstrate the features, AI Basics includes an example character and a demo map. However, this character is not a finished AI; this package is designed for you to extend and develop the AI yourself.</p><p><br /></p><p>&#x1f527; AI Abilities Included:</p><ol><li>Patrolling &#x1f300;</li><li>Random Roam &#x1f6b6;‍♂️</li><li>Idle Mode &#x1f550;</li><li>Noise Detection [Sensing] &#x1f50a;</li><li>Visual Detection [Sensing] &#x1f440;</li></ol><p><br /></p><p>&#x1f4d8; To ensure a smooth experience, AI Basics comes with detailed documentation explaining the included blueprints. This resource is designed to save you time and help you understand the code without any difficulties. If you still have questions or need assistance, feel free to reach out to me at <u>support&#64;labgamesstudio.com</u>.</p><p><br /></p><p>&#x1f4a1;All features explained:</p><p><br /></p><p><strong>Patrol Mode:</strong></p><p>In patrol mode you can pass an array of positions (Vector) to the AI. The AI will then run through all the positions with a small pause at each point. Once the AI has worked its way through the entire array it will reset itself and restart at the first array element.</p><p><em>[At the moment the individual positions are inserted directly via the behavior tree. This solution is quick and easy, but ensures that every AI has the same points and there is no room for diversity. This can be solved by passing the points for each AI itself via a function. How you design this function is up to you.]</em></p><p><br /></p><p><strong>Random Roam</strong></p><p>In Random Roam mode, the AI calculates random points within a radius you specify. Then the AI moves to the just calculated point and waits there for either a random or fixed time. After the time expires, a new point is calculated and the AI repeats the entire process until it is interrupted.</p><p><em>[The radius and the settings for determining the waiting time are also set directly in the behavior tree, here you also have to create your own function to be able to access the desired values and pass them to the behavior tree.]</em></p><p><br /></p><p><strong>Idle Mode</strong></p><p>In idle mode, the AI waits at the place where it was placed in the first frames until a sense event is triggerd or it is triggered in another way. After the event, such as following a player, is over, the AI returns to its original location.</p><p><br /></p><p><strong>Noise Detection [Sensing]</strong></p><p>As soon as the AI detects a noise that has been played in combination with a &#34;Report Noise Event&#34; node, the AI moves to the source of the noise and examines the environment around the said position for a few seconds.</p><p><em>[Here too you have to independently pass your own settings if desired to align the system to you.]</em></p><p><br /></p><p><strong>Visual Detection [Sensing]</strong></p><p>As soon as the AI perceives a character other than itself or instances of itself, it immediately commences the persecution. All other activities are interrupted. Tracking the target has the highest priority in the standard design.</p><p><br /></p><p><br /></p><p>&#x1f4dd; Additional Notes:</p><p>This AI Basics package does not include a ready-made AI solution. If you&#39;re seeking an easy-to-use, pre-built AI, consider the <a href=\"https://www.unrealengine.com/marketplace/en-US/product/basic-enemy-ai\" rel=\"nofollow\">Basic Enemy AI</a>. For more information and insights, check out our YouTube video on AI Basics: <a href=\"https://youtu.be/cU8Hzxcrf2M\" rel=\"nofollow\">Video</a></p><p><br /></p><p>Dive into the world of AI with AI Basics and elevate your game development projects to new heights! &#x1f680;</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ai-basics",
+  "creationDate": "2023-01-22T17:15:20.547Z",
+  "lastModifiedDate": "2024-10-09T17:49:20.568Z",
+  "effectiveDate": "2023-01-22T17:15:20.497Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wruk6agl5jq8p6llkhnyq3dpfs48e9",
+    "name": "Labgames Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 25</p><p>Network Replicated: (No)</p><p><br /></p><p>&#x1f5a5;️  Supported Development Platforms:</p><ul><li>Windows: (Yes)</li><li>Mac: (Not Tested)</li></ul><p><br /></p><p>&#x1f4a1; Please note that this product has been thoroughly tested on Windows devices. Compatibility with other platforms has not been tested and cannot be guaranteed. Users who choose to use this product on untested platforms do so at their own risk.</p><p><br /></p><p>&#x1f4dd; Additional Notes:</p><ul><li>Please make sure to have some basic knowledge of AI in Unreal Engine to be able to properly work with this product. </li><li>No real physical product.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ba86281c-59f3-4435-9ff4-4b0a0c69c290"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG01-1920x1080-a9db041b76bd5ed64a78673868e7e673.png",
+      "md5": "a9db041b76bd5ed64a78673868e7e673",
+      "size": 1343613,
+      "uploadedDate": "2023-01-19T00:05:04.799Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG03VisualSense-1920x1080-37a2a57f719cbbf989753efc9c3c2979.png",
+      "md5": "37a2a57f719cbbf989753efc9c3c2979",
+      "size": 1070472,
+      "uploadedDate": "2023-01-14T00:28:52.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG04Patrolling-1920x1080-012dd072d589fdc64219bff1939c7f23.png",
+      "md5": "012dd072d589fdc64219bff1939c7f23",
+      "size": 1172770,
+      "uploadedDate": "2023-01-14T00:28:53.812Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG02NoiseSense-1920x1080-d0cdc8e00c2aded88e53c1510a5159e2.png",
+      "md5": "d0cdc8e00c2aded88e53c1510a5159e2",
+      "size": 1022812,
+      "uploadedDate": "2023-01-14T00:28:53.290Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG05RandomRoam-1920x1080-f6c1ed65d472c1ccd5339d7ee07eb106.png",
+      "md5": "f6c1ed65d472c1ccd5339d7ee07eb106",
+      "size": 1214140,
+      "uploadedDate": "2023-01-14T00:28:54.361Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG06Pathfinding-1920x1080-c6be4e4baf66bf23fcbdd2c8008f152f.png",
+      "md5": "c6be4e4baf66bf23fcbdd2c8008f152f",
+      "size": 81902,
+      "uploadedDate": "2023-01-14T00:28:54.782Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG07Performance-1920x1080-ffdbe3e180f12c8e5755124aed90e5d6.png",
+      "md5": "ffdbe3e180f12c8e5755124aed90e5d6",
+      "size": 59307,
+      "uploadedDate": "2023-01-14T00:28:55.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AIBasics_thumb-284x284-c8eff258783cbe4085e808c12e506e22.png",
+      "md5": "c8eff258783cbe4085e808c12e506e22",
+      "size": 85015,
+      "uploadedDate": "2023-07-03T19:50:31.960Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AIBasics_featured-894x488-46817168086ccf8b24780d47a607cb49.png",
+      "md5": "46817168086ccf8b24780d47a607cb49",
+      "size": 381304,
+      "uploadedDate": "2023-01-19T00:05:05.308Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG01-1920x1080-a9db041b76bd5ed64a78673868e7e673_Snapshot.png",
+      "md5": "3ba2c038b39005a3a942caf6d0cfdab2",
+      "size": 5029,
+      "uploadedDate": "2023-01-19T00:05:05.149Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG01-1920x1080-8ff91eea59ad5b1c64f27f8ac737333f_Snapshot.png",
+      "md5": "71e63e704169bbd5dbae4ddec63b9fa1",
+      "size": 5037,
+      "uploadedDate": "2023-01-14T00:28:52.436Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG03VisualSense-1920x1080-37a2a57f719cbbf989753efc9c3c2979_Snapshot.png",
+      "md5": "7504be87c516c5bea952090abd15b8b9",
+      "size": 5555,
+      "uploadedDate": "2023-01-14T00:28:53.056Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG02NoiseSense-1920x1080-d0cdc8e00c2aded88e53c1510a5159e2_Snapshot.png",
+      "md5": "e46a7d859ff9f19626146f4ec38854b5",
+      "size": 5752,
+      "uploadedDate": "2023-01-14T00:28:53.625Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG04Patrolling-1920x1080-012dd072d589fdc64219bff1939c7f23_Snapshot.png",
+      "md5": "199471f5eb264dd7ba54d4a470b57713",
+      "size": 5548,
+      "uploadedDate": "2023-01-14T00:28:54.156Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG05RandomRoam-1920x1080-f6c1ed65d472c1ccd5339d7ee07eb106_Snapshot.png",
+      "md5": "8d434063236a1133c76e5332f0a30d4b",
+      "size": 5913,
+      "uploadedDate": "2023-01-14T00:28:54.706Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG06Pathfinding-1920x1080-c6be4e4baf66bf23fcbdd2c8008f152f_Snapshot.png",
+      "md5": "6b84125eec61b527b5a0a28ffdfcedb3",
+      "size": 4276,
+      "uploadedDate": "2023-01-14T00:28:55.065Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG07Performance-1920x1080-ffdbe3e180f12c8e5755124aed90e5d6_Snapshot.png",
+      "md5": "f42c8b761c0f20ff9a877f80e238d318",
+      "size": 3833,
+      "uploadedDate": "2023-01-14T00:28:55.398Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "faf4a9d523744a07a900bb50846cb2ea"
+    }
+  ],
+  "catalogNs": null
+}

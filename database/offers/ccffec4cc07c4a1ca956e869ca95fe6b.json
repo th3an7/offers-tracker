@@ -1,0 +1,121 @@
+{
+  "id": "ccffec4cc07c4a1ca956e869ca95fe6b",
+  "namespace": "ue",
+  "title": "CGOL",
+  "description": "Conway's Game of Life in a material",
+  "longDescription": "Preview: <a href=\"https://www.youtube.com/watch?v=iutQ4ty-I20\">youtube.com/watch?v=iutQ4ty-I20</a><br /><br />CGOL is <a href=\"https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life\">Conway's Game of Life</a> written in an Unreal Engine 4 material.<br /><br />Notable features include:<br />* Well organized and commented assets <br />* No C++, just Blueprint <br />* No custom nodes, meaning it will port to anything that supports rendering to texture <br />* An easy to use slot for plugging in custom materials that display the game state however you like <br />* Robust seed support, meaning you can drop in any texture you want to start the game and it will automatically be interpreted as 1 bit monochrome on a playfield of the texture's size <br />* Tiny download <br />* Works on Desktop, HTML5, and Mobile<br /><br />What you use it for is up to you. Perhaps you have an idea for how to incorporate its unique aesthetic, or plan to treat the game state as a bitmap seeding a procedurally generated world. Please let us know if you come up with anything interesting!",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cgol",
+  "creationDate": "2016-09-16T20:51:22.547Z",
+  "lastModifiedDate": "2024-10-10T19:34:48.947Z",
+  "effectiveDate": "2016-10-05T00:00:00.000Z",
+  "viewableDate": "2016-10-05T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-5c3d84a8724bb49ed80c1b2bdd364d",
+    "name": "4loup"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "List of every effect: Conway's Game of Life in a material <br />CPU, GPU, and\\or mesh emitters? None <br />Number of Effects: 1 <br />Number of Materials: 3 <br />Number of Blueprints: 1 <br />Number of Meshes: 0<br />Intended Platform: Any that support render to texture <br />Platforms Tested: CGOL has been tested and confirmed to work in monoscopic view on Windows 10, macOS Sierra, HTML5 in Chrome and Firefox, and Android 5.1.1<br />Documentation Included: No",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ee651269-a837-471f-a1df-9322f9ed279b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_Screenshot_01-1920x1080-98a0f1ee36e84028fbd23b7a575a1a6a.png",
+      "md5": "98a0f1ee36e84028fbd23b7a575a1a6a",
+      "size": 711133,
+      "uploadedDate": "2016-09-16T20:36:27.345Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_Screenshot_02-1920x1080-d0ef66505e7f95e05f6fc53663dc453e.png",
+      "md5": "d0ef66505e7f95e05f6fc53663dc453e",
+      "size": 1333829,
+      "uploadedDate": "2016-09-16T20:36:30.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_Screenshot_03-1920x1080-a7bdc73bcc8bb991a018360c266afe6d.png",
+      "md5": "a7bdc73bcc8bb991a018360c266afe6d",
+      "size": 1318181,
+      "uploadedDate": "2016-09-16T20:36:35.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_Screenshot_04-1920x1080-5d60aa64979b2e951dde2593c8b6dba3.png",
+      "md5": "5d60aa64979b2e951dde2593c8b6dba3",
+      "size": 1248450,
+      "uploadedDate": "2016-09-16T20:36:39.886Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_Screenshot_05-1920x1080-bceba7cc2fdeb8a3d2e1812c43d7adc9.png",
+      "md5": "bceba7cc2fdeb8a3d2e1812c43d7adc9",
+      "size": 1245898,
+      "uploadedDate": "2016-09-16T20:36:42.402Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_Thumb-284x284-924b36a025f52ab6b1e3d0565a597059.png",
+      "md5": "924b36a025f52ab6b1e3d0565a597059",
+      "size": 103672,
+      "uploadedDate": "2016-09-16T20:36:16.414Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_Featured-476x246-f19a784bcdbe558d2b14e5d84c32bb9e.png",
+      "md5": "f19a784bcdbe558d2b14e5d84c32bb9e",
+      "size": 115272,
+      "uploadedDate": "2016-09-16T20:36:12.158Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/CGOL_FeaturedNew-894x488-e861b1bdbfcffb8253c2f2ccf24f178a.png",
+      "md5": "e861b1bdbfcffb8253c2f2ccf24f178a",
+      "size": 376610,
+      "uploadedDate": "2016-09-16T20:36:14.269Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "5a7c065d246e4620af9f45340a402dc0"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,152 @@
+{
+  "id": "9e43833f87e74dcb86c4201966e4c251",
+  "namespace": "ue",
+  "title": "Bears pack",
+  "description": "This is a 3D model and animations of Brown bear and Polar bear.",
+  "longDescription": "<p>Update(July 4, 2022):Groom was added for UE5.</p><p>If groom is used in UE5, Rendering -&gt; Optimisation -&gt; Enable Support Compute Skin Cache in the project settings.</p><p>(I have confirmed the operation of Groom only on Windows.</p><p><br /></p><p>Update(June 11, 2020):Left hand attack animations were added.</p><p><br /></p><p>Preview: <a href=\"https://youtu.be/Yvft2gFN_VI\" rel=\"nofollow\">https://youtu.be/Yvft2gFN_VI</a></p><p>This is a 3D model and animations of Brown bear and Polar bear.</p><p><br /></p><p>As an example of use, it contains characters that can be operated (BP_BearThirdPersonCharacter) and character that move according to the NavMesh(BP_FoodSeekBear).</p><p>IK is set to the feet.</p><p>The posture of the pelvis is calculated from the position of the foot.</p><p><br /></p><p>How to use BP_FoodSeekBear:</p><ol><li>Place as many BP_BearFood as you like in the scene.</li><li>Place as many BP_FoodSeekBear as you like in the scene.</li></ol><p>Then BP_FoodSeekBear repeats the following operations:</p><p>BP_FoodSeekBear moves along the NavMesh toward randomly chosen BP_BearFood.</p><p>BP_FoodSeekBear plays Eat animation when approaching BP_BearFood by a certain distance</p><p>After a certain time, BP_FoodSeekBear randomly selects BP_BearFood and moves along the NavMesh again.</p><p><br /></p><p>BP_BearThirdPersonCharacter operation method:</p><p>wasd or arrow:walk</p><ul><li>r&#43;(wasd or arrow): run</li><li>u: biped, n: quadruped</li><li>k: death</li><li>l: rebirth</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "bears-pack",
+  "creationDate": "2019-02-21T04:15:13.946Z",
+  "lastModifiedDate": "2024-10-02T01:33:44.126Z",
+  "effectiveDate": "2019-02-21T04:15:13.871Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-97baa2cf714756aef47be6ba33eba9",
+    "name": "JUNNICHI SUKO"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li> Foot IK.</li><li> Control of the posture of the pelvis according to the feet position.</li><li>Physics Simulated Death motion. </li><li>Operable character(BP_BearThirdPersonCharacter).</li><li>Character that move according to the NavMesh(BP_FoodSeekBear).</li><li>Biped and quadruped walking style.</li></ul><p><strong>Scaled to Epic skeleton</strong>: Yes</p><p><strong>Rigged</strong>: Yes</p><p><strong>Rigged to Epic skeleton</strong>: No</p><p><strong>Animated</strong>: Yes</p><p><strong>Number of characters</strong>: 2(Brown bear and Polar bear)</p><p><strong>Vertex counts of characters</strong>:</p><ul><li><strong>BrownBearLowPoly</strong>: 2974</li><li><strong>BrownBearMiddlePoly</strong>: 12202</li><li><strong>PolarBearLowPoly</strong>: 2980</li><li><strong>PolarBearMiddlePoly</strong>: 12226</li></ul><p><strong>Texture Resolutions</strong>:</p><ul><li><strong>Base Color</strong>: 4096x4096</li><li><strong>Normal</strong>: 4096x4096</li><li><strong>Roughness</strong>: 512x512</li></ul><p><strong>Number of Animations</strong>: 46</p><p><strong>Animation types (Root Motion/In-place)</strong>: Both</p><p><strong>Supported Development Platforms</strong>: Windows, MacOS</p><p><strong>Supported Target Build Platforms</strong>: Windows, MacOS</p><p><strong>Documentation</strong>: <a href=\"https://eizouasobi.blogspot.com/search/label/UnrealBear\" rel=\"nofollow\">https://eizouasobi.blogspot.com/search/label/UnrealBear</a></p><p><strong>Important/Additional Notes</strong>: 66 bones</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9af770ad-80f0-4e4e-b475-a565b1c8bbc7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2019-01-1606-56-33-1920x1080-b727b2460d08c22d7d4a6d5b3e8ca4d4.jpg",
+      "md5": "b727b2460d08c22d7d4a6d5b3e8ca4d4",
+      "size": 216059,
+      "uploadedDate": "2019-01-15T22:31:53.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2019-01-1607-06-50-1920x1080-08a6d9bfe6133f8e1ac35c805fe4580a.png",
+      "md5": "08a6d9bfe6133f8e1ac35c805fe4580a",
+      "size": 1753227,
+      "uploadedDate": "2019-01-15T22:31:54.082Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2019-01-1607-07-02-1920x1080-6261b55246a2f6222ba4c6336ca2b4ab.jpg",
+      "md5": "6261b55246a2f6222ba4c6336ca2b4ab",
+      "size": 255994,
+      "uploadedDate": "2019-01-15T22:31:54.602Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4Editor2019-01-1607-07-48-1920x1080-4a1c155bcb6462b1c4477380b2535669.jpg",
+      "md5": "4a1c155bcb6462b1c4477380b2535669",
+      "size": 302334,
+      "uploadedDate": "2019-01-15T22:31:54.895Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Bearspack_thumb-284x284-d900a070eec8f6d654752e631443bd3c.png",
+      "md5": "d900a070eec8f6d654752e631443bd3c",
+      "size": 99550,
+      "uploadedDate": "2019-01-15T22:31:55.092Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Bearspack_featured-894x488-7c1876707faa609abcec9d4e6ea883a0.png",
+      "md5": "7c1876707faa609abcec9d4e6ea883a0",
+      "size": 621671,
+      "uploadedDate": "2019-01-15T22:31:55.204Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2019-01-1606-56-33-1920x1080-b727b2460d08c22d7d4a6d5b3e8ca4d4_Snapshot.jpg",
+      "md5": "82d59b9b7c980bbf80cacaedc9fda2af",
+      "size": 4035,
+      "uploadedDate": "2019-01-15T22:31:53.859Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2019-01-1607-06-50-1920x1080-08a6d9bfe6133f8e1ac35c805fe4580a_Snapshot.png",
+      "md5": "0bfbff88abb17492565d9ef72c4c908c",
+      "size": 12561,
+      "uploadedDate": "2019-01-15T22:31:54.276Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2019-01-1607-07-02-1920x1080-6261b55246a2f6222ba4c6336ca2b4ab_Snapshot.jpg",
+      "md5": "92f995d90759315ce3f50dd26e5585a5",
+      "size": 2599,
+      "uploadedDate": "2019-01-15T22:31:54.730Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4Editor2019-01-1607-07-48-1920x1080-4a1c155bcb6462b1c4477380b2535669_Snapshot.jpg",
+      "md5": "49d14bc8733d36561173d57ef3bec971",
+      "size": 2693,
+      "uploadedDate": "2019-01-15T22:31:55.029Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a0e3df6d01b04bb5bf75e1ea7a34c72e"
+    }
+  ],
+  "catalogNs": null
+}

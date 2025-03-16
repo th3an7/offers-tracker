@@ -1,0 +1,248 @@
+{
+  "id": "7be22a53a22842db9cfc195524a6f080",
+  "namespace": "ue",
+  "title": "System Audio Volume",
+  "description": "Control audio device in the system.",
+  "longDescription": "<p>Control physical audio devices in the system (mmsys.cpl). Set master volume, mute and change default audio device from UE project at runtime.</p><p><br /></p><p>Discord: Andrew Bindraw#9014</p><p>mrbindraw&#64;gmail.com</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "system-audio-volume",
+  "creationDate": "2020-09-27T20:44:26.188Z",
+  "lastModifiedDate": "2024-10-16T19:36:24.783Z",
+  "effectiveDate": "2020-09-27T20:44:24.238Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vaydmfjex5zetcsum5fv95v67rlzcq",
+    "name": "Andrew Bindraw"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Set master volume for default audio device in the system</li><li>Mute / Unmute default audio device in the system</li><li>Get settings: volume, mute, name, id for default audio device in the system</li><li>Get a list of all enabled physical audio devices in the system from mmsys.cpl</li><li>Change default audio device in the system from UE project at runtime</li></ul><p><br /></p><p>Check FREE example project for UEditor without sources (*.cpp)</p><p><a href=\"https://drive.google.com/drive/folders/1eW0jExIaLaNld_kY-NyD4pNGj9kLh1TQ?usp&#61;drive_link\" rel=\"nofollow\"><strong>DemoSysAudioVolumeEditor</strong></a></p><p><br /></p><p>Code Modules:</p><ul><li>SystemAudioVolume (Type: Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 3</p><p><strong>Remark:</strong></p><p>Check documentation for full list of C&#43;&#43;/Blueprints functions.</p><p><br /></p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p><br /></p><p>Documentation:</p><p><a href=\"https://docs.google.com/document/d/1EE5OxaNxSO46VcnjWKlnbTjtssFRkBYMvU8s3zzqh1w/edit?usp&#61;sharing\" rel=\"nofollow\">Readme_SystemAudioVolume</a></p><p><br /></p><p>Example Project:</p><p><a href=\"https://drive.google.com/drive/folders/1KrpKUuxZuL39xy84IcST9_-eyuEgOwhx?usp&#61;drive_link\" rel=\"nofollow\"><strong>DemoSysAudioVolume</strong></a> (after buy)</p><p>Open mmsys.cpl and check Playback tab.</p><p><br /></p><p>All Plugins:</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Andrew&#43;Bindraw?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "344d268f-7e3a-4c5c-9183-2d7850bd37ed"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY3-1920x1080-534aa7355cf2aae9b8f5b5fac93f3286.png",
+      "md5": "534aa7355cf2aae9b8f5b5fac93f3286",
+      "size": 333990,
+      "uploadedDate": "2020-09-26T05:51:39.685Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SystemAudioVolume_thumb-284x284-492d76bdfed6c6ec1d98cbff4b3bfda9.png",
+      "md5": "492d76bdfed6c6ec1d98cbff4b3bfda9",
+      "size": 82023,
+      "uploadedDate": "2020-09-26T05:51:39.977Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SystemAudioVolume_featured-894x488-cbcb3520a91c3be06db0dc9de4b293ba.png",
+      "md5": "cbcb3520a91c3be06db0dc9de4b293ba",
+      "size": 201135,
+      "uploadedDate": "2020-09-26T05:51:40.082Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY3-1920x1080-534aa7355cf2aae9b8f5b5fac93f3286_Snapshot.png",
+      "md5": "57002b0dceb16c773281b56adcd3a4a5",
+      "size": 3803,
+      "uploadedDate": "2020-09-26T05:51:39.932Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0Demo-1920x1080-5e92c4215b9c53be12c1f5625854c60b_Snapshot.png",
+      "md5": "ac3eaf5b00bbd867fa5bb897d4101fa0",
+      "size": 4236,
+      "uploadedDate": "2020-09-24T21:37:52.611Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY3-1920x1080-534aa7355cf2aae9b8f5b5fac93f3286_Snapshot.png",
+      "md5": "57002b0dceb16c773281b56adcd3a4a5",
+      "size": 3803,
+      "uploadedDate": "2020-09-24T21:37:52.943Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY1Demo-1920x1080-01ab951409b9eeef9a376e046f914c41_Snapshot.png",
+      "md5": "a7f19871abd8529c617d2061103501b1",
+      "size": 4962,
+      "uploadedDate": "2020-09-24T21:37:53.326Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY1Demo-1920x1080-01ab951409b9eeef9a376e046f914c41_Snapshot.png",
+      "md5": "a7f19871abd8529c617d2061103501b1",
+      "size": 4962,
+      "uploadedDate": "2020-09-24T21:36:15.613Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY3-1920x1080-534aa7355cf2aae9b8f5b5fac93f3286_Snapshot.png",
+      "md5": "57002b0dceb16c773281b56adcd3a4a5",
+      "size": 3803,
+      "uploadedDate": "2020-09-24T21:36:16.002Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0Demo-1920x1080-5e92c4215b9c53be12c1f5625854c60b_Snapshot.png",
+      "md5": "ac3eaf5b00bbd867fa5bb897d4101fa0",
+      "size": 4236,
+      "uploadedDate": "2020-09-24T21:36:16.506Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "83e1a3d794094ed2b762c693c6988492"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,323 @@
+{
+  "id": "185971680fb94e6d84e9c597e30445e5",
+  "namespace": "ue",
+  "title": "Multiplayer Server Browser - Master Server - Server Listing",
+  "description": "This Plugin allows you to make a servers browser to get a list of your online multiplayer dedicated and listen servers for any platforms.",
+  "longDescription": "<p><strong>This Plugin allows you to implement a servers browser. Your dedicated/listen game servers register to the </strong></p><p><strong>master server, the clients can get the list of all servers from the master server.</strong></p><p>Works on PC, Android, iOS, Oculus Quest, Mac, Linux</p><p><br /></p><blockquote><strong>Customer showcases:</strong></blockquote><p><a href=\"https://play.google.com/store/apps/details?id&#61;com.ledinh.vietnamwar\" rel=\"nofollow\">Red Storm : Vietnam War</a> ( Android / iOS game)</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;SLs9WvkYo-4\" rel=\"nofollow\">VIDEO</a></p><p><a href=\"https://drive.google.com/file/d/1XGdWETlTeF8m9kORloFgPd3OASSvX4yI/view?usp&#61;sharing\" rel=\"nofollow\">DOCUMENTATION</a></p><p>SUPPORT : contact&#64;meoplay.com</p><p><a href=\"https://discord.gg/QZpNrvFDRZ\" rel=\"nofollow\">DISCORD</a></p><p><br /></p><p><strong>It can be used with Blueprint and C&#43;&#43;, the interface is very easy. It is especially useful for platforms that does not support Steam such as mobile. It does not use any online subsystem and works on Windows, Linux, and mobile platforms.</strong></p><p><br /></p><p>It is composed of two parts:</p><ol><li><strong>An external Master Server program written in C for Windows 10 and Linux</strong> <strong>(external download link)</strong>, it handles all request from clients and game servers. It automatically removes game servers that are no longer reachable.</li><li><strong>Unreal Engine 4 Plugin that allows communication with the Master Server</strong> :</li></ol><ul><li>Your Unreal Engine multiplayer server can register to the Master Server and send its data such as server name, player count, map name. It can updates those datas at anytime.</li><li>Your Unreal Engine client can get a list of all registered game server available.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "multiplayer-server-browser-master-server-server-listing",
+  "creationDate": "2020-12-23T18:06:29.002Z",
+  "lastModifiedDate": "2024-10-04T21:36:30.438Z",
+  "effectiveDate": "2020-12-23T18:06:26.256Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8vyjtr57vtux6h4pvwz4cymawxtw4w",
+    "name": "MeoPlay"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>The plugin is standalone, it does not mess with others code or blueprints. </li><li> Very fast communication with clients and servers using UDP only.</li><li> Very easy Blueprint and C&#43;&#43; code</li><li> Linux and Windows 10 Master Server written in C</li></ul><p><strong>Code Modules</strong>:</p><ul><li> One runtime module</li></ul><p><br /></p><p><strong>Number of Blueprints</strong>: 0</p><p><strong>Number of C&#43;&#43; Classes</strong>: 2</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>: Windows</p><p><strong>Supported Target Build Platforms</strong>: Windows 32/64, Linux, Android, iOS</p><p><strong>Documentation</strong>: <a href=\"https://drive.google.com/file/d/1XGdWETlTeF8m9kORloFgPd3OASSvX4yI/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1XGdWETlTeF8m9kORloFgPd3OASSvX4yI/view?usp&#61;sharing</a></p><p><strong>Example Project</strong>: <a href=\"https://drive.google.com/file/d/1FWJAPR0Q7lAevshO4DatOef42_FiDXM8/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1FWJAPR0Q7lAevshO4DatOef42_FiDXM8/view?usp&#61;sharing</a></p><p><br /></p><p>Support : contact&#64;meoplay.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "550c0531-c353-484b-a536-91b750dd6b17"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot1-1920x1080-dfaf3141d266a76c96835b7184f9c084.png",
+      "md5": "dfaf3141d266a76c96835b7184f9c084",
+      "size": 1488160,
+      "uploadedDate": "2020-12-20T21:18:21.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot6-1920x1080-113afb16286442c73ca77404c20bdc97.png",
+      "md5": "113afb16286442c73ca77404c20bdc97",
+      "size": 42764,
+      "uploadedDate": "2020-12-20T21:18:21.860Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot2-1920x1080-866c04736ac5ee89670e979bf320cacc.png",
+      "md5": "866c04736ac5ee89670e979bf320cacc",
+      "size": 126816,
+      "uploadedDate": "2020-12-20T21:18:22.145Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot3-1920x1080-04ffcf802ff523248010e5df12f24d5b.png",
+      "md5": "04ffcf802ff523248010e5df12f24d5b",
+      "size": 106984,
+      "uploadedDate": "2020-12-20T21:18:22.476Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot5-1920x1080-dc9b9624798f8cc4d5143f561e71f6c5.png",
+      "md5": "dc9b9624798f8cc4d5143f561e71f6c5",
+      "size": 142179,
+      "uploadedDate": "2020-12-20T21:18:22.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MultiplayerServerBrowserMasterServerServerListing_thumb-284x284-54d72d72581f6e4901ec8040a42325c4.png",
+      "md5": "54d72d72581f6e4901ec8040a42325c4",
+      "size": 59637,
+      "uploadedDate": "2024-04-04T14:20:04.878Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MultiplayerServerBrowserMasterServer_featured-894x488-22f05917b5c7678fdab56c082937ad59.png",
+      "md5": "22f05917b5c7678fdab56c082937ad59",
+      "size": 415626,
+      "uploadedDate": "2020-12-21T09:48:28.173Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot1-1920x1080-dfaf3141d266a76c96835b7184f9c084_Snapshot.png",
+      "md5": "bf237a0dafeb198ad5960d3c385b8ec0",
+      "size": 4225,
+      "uploadedDate": "2020-12-20T21:18:21.766Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot6-1920x1080-113afb16286442c73ca77404c20bdc97_Snapshot.png",
+      "md5": "b6ce49492d080a793f009006e1ee6f52",
+      "size": 1884,
+      "uploadedDate": "2020-12-20T21:18:22.057Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot2-1920x1080-866c04736ac5ee89670e979bf320cacc_Snapshot.png",
+      "md5": "e348ca024ca820b7b122b56d81cc4c78",
+      "size": 2721,
+      "uploadedDate": "2020-12-20T21:18:22.359Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot3-1920x1080-04ffcf802ff523248010e5df12f24d5b_Snapshot.png",
+      "md5": "fb0afd12d43e7ceb577c7abec8ed06fd",
+      "size": 2520,
+      "uploadedDate": "2020-12-20T21:18:22.682Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot5-1920x1080-dc9b9624798f8cc4d5143f561e71f6c5_Snapshot.png",
+      "md5": "33f8a58aae312c7d9e716b8d695e96ba",
+      "size": 2139,
+      "uploadedDate": "2020-12-20T21:18:23.070Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/icone19201080-1920x1080-f842c640a4769314293c2d1911d892af_Snapshot.png",
+      "md5": "93f46bc0d28446c3a5dc2388856d6457",
+      "size": 2364,
+      "uploadedDate": "2020-12-19T15:24:21.878Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8703d3d31ca54642a839e9d79e71a158"
+    }
+  ],
+  "catalogNs": null
+}

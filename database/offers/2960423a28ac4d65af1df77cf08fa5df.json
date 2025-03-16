@@ -1,0 +1,224 @@
+{
+  "id": "2960423a28ac4d65af1df77cf08fa5df",
+  "namespace": "ue",
+  "title": "WenPlay for Unreal Engine",
+  "description": "Implementation of WalletConnect 2.0 protocol with MultiversX blockchain interaction by Wenmoon Studios. ( C++ with blueprint exposed nodes )",
+  "longDescription": "<p>Unreal Engine 5 implementation of WalletConnect protocol with MultiversX blockchain interaction. Use blueprint-exposed nodes to generate QR Codes that allow you to open a WalletConnect session using the xPortal App. Sign and check transaction status quickly.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wenplay-for-unreal-engine",
+  "creationDate": "2023-04-25T15:15:13.148Z",
+  "lastModifiedDate": "2024-10-15T11:12:43.641Z",
+  "effectiveDate": "2023-04-25T15:15:13.114Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bah8ls5rh6nph93a459yymm3wkpfla",
+    "name": "Wenmoon Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><p><br /></p><p>Establishing WenPlay session </p><p>Generation of QR code</p><p>MultiversX transaction construct and sign</p><p>MultiversX transaction status tracking</p><p><br /></p><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><p>WenPlay: Public: &#34;Core&#34; / Private: &#34;CoreUObject&#34;, &#34;Engine&#34;, &#34;Slate&#34;, &#34;SlateCore&#34;, &#34;WebSockets&#34;, &#34;SSL&#34;, &#34;PlatformCryptoOpenSSL&#34;, &#34;JsonUtilities&#34;, &#34;HTTP&#34;, &#34;Json&#34;</p><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 4</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://wenmoonstudios.com/wenplay/\" rel=\"nofollow\">https://wenmoonstudios.com/wenplay/</a></p><p>Example Project: <a href=\"https://github.com/Wenmoon-Studios/WenPlayPluginExample\" rel=\"nofollow\">https://github.com/Wenmoon-Studios/WenPlayPluginExample</a></p><p>Important/Additional Notes: Please fill out this <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-zABodftASh-HKBlCg3UCwFXyR_kTBCKwhdFq4Gua2ePy5A/viewform\" rel=\"nofollow\">contact form</a> for more information.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8e799033-fb46-42b5-8468-ca82a8197a14"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/wenPlay01-1920x1080-853caf352f24d78b775a72ca96fa9f33.png",
+      "md5": "853caf352f24d78b775a72ca96fa9f33",
+      "size": 446155,
+      "uploadedDate": "2023-04-08T13:51:52.390Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/wenPlay02-1920x1080-f839df55d4be69e82459e632a511f3dd.png",
+      "md5": "f839df55d4be69e82459e632a511f3dd",
+      "size": 383202,
+      "uploadedDate": "2023-04-08T13:51:52.804Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WenmoonPlayforUnrealEngine_thumb-284x284-f5c155ea1e251afcea02a79a40cdeccc.png",
+      "md5": "f5c155ea1e251afcea02a79a40cdeccc",
+      "size": 28225,
+      "uploadedDate": "2023-02-26T17:07:38.399Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WenPlayforUnrealEngine_featured-894x488-363817032646a35458461372b20aaaef.png",
+      "md5": "363817032646a35458461372b20aaaef",
+      "size": 294966,
+      "uploadedDate": "2023-02-26T17:32:43.307Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/wenPlay01-1920x1080-853caf352f24d78b775a72ca96fa9f33_Snapshot.png",
+      "md5": "26aa0cca0ab80274b6e98da90ce3db2a",
+      "size": 6004,
+      "uploadedDate": "2023-04-08T13:51:52.695Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/wenPlay02-1920x1080-f839df55d4be69e82459e632a511f3dd_Snapshot.png",
+      "md5": "21064142eafa8276d2c4bd58f230e7f4",
+      "size": 5628,
+      "uploadedDate": "2023-04-08T13:51:53.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/wenPlay01-1920x1080-5aba34813083de7d39b04422317e94f4_Snapshot.png",
+      "md5": "724a4628ef6e9968c8b1844a81ff0aa1",
+      "size": 5495,
+      "uploadedDate": "2023-04-04T08:34:24.725Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/wenPlay02-1920x1080-dd8c719f6caca83ee03b13e6a666f0e9_Snapshot.png",
+      "md5": "bd2d8d2bc9dd1df2b8df9b1248f6c9a0",
+      "size": 6242,
+      "uploadedDate": "2023-04-04T08:34:25.377Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WenmoonPlay02-1920x1080-f122389b02edca533ac2d1427cd68852_Snapshot.jpg",
+      "md5": "e2fc42e85def92ff1d5438e420e31ccc",
+      "size": 5234,
+      "uploadedDate": "2022-10-31T15:54:31.257Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WenmoonPlay01-1920x1080-fae3fcfd92a83233ae20d56bcf5bf56f_Snapshot.jpg",
+      "md5": "c92f45be31aa2aff82ccba0860291a53",
+      "size": 4386,
+      "uploadedDate": "2022-10-31T15:54:31.978Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2a1894592e86432684b1598b8bf46507"
+    }
+  ],
+  "catalogNs": null
+}

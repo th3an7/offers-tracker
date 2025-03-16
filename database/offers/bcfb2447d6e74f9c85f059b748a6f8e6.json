@@ -1,0 +1,290 @@
+{
+  "id": "bcfb2447d6e74f9c85f059b748a6f8e6",
+  "namespace": "ue",
+  "title": "Chi Dynamic Music System",
+  "description": "100% blueprint system made for organizing, triggering, and looping music in a multitude of ways! Includes method for environmental ambiance.",
+  "longDescription": "<p>Video Briefing: <a href=\"https://www.youtube.com/watch?v&#61;6XDWkGooYdE&amp;feature&#61;youtu.be\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;6XDWkGooYdE&amp;feature&#61;youtu.be</a></p><p>Additional Footage: <a href=\"https://youtu.be/TebkTBIuKMU\" rel=\"nofollow\">https://youtu.be/TebkTBIuKMU</a></p><p>Sample music provided by media composer Tomas Simon! <a href=\"http://tomassimonmusic.com/\" rel=\"nofollow\">http://tomassimonmusic.com/</a></p><p>Update Changelog: <a href=\"https://pastebin.com/KF6RHFk1\" rel=\"nofollow\">https://pastebin.com/KF6RHFk1</a></p><p><br /></p><p>The Chi Dynamic Music System is a comprehensive blueprint system made for organizing, triggering, and looping music in a multitude of ways! Chi is intended to provide an easy format and clean interface for developers to implement music and atmospheric audio into the gameplay of their projects. Simply place the Chi actor into your level, add your music as tracks and establish playlists in its variables, then call what you want to happen in blueprint. Have your game playing music in moments!</p><p>The System supports a wide variety of musical formats popular in games of all genres, with intent for further feature development and support as time goes forward. The end result is a music system easy enough to just play and loop</p><p>music if you need it, but also powerful enough to blend songs together, adapt music to changes in gameplay from one moment to the next, shift music into highly unpredictable loops for an experience that never repeats, and even serve as your own personal mixing board. The system supports an ambient audio system, which can play an atmosphere and 3D audio around the player for maximum immersion.</p><p><br /></p><p>Thanks for reading, enjoy, and good luck with your projects!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "chi-dynamic-music-system",
+  "creationDate": "2018-09-09T19:03:53.119Z",
+  "lastModifiedDate": "2024-10-10T21:54:43.697Z",
+  "effectiveDate": "2018-09-09T19:03:53.070Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1cddb1a7c04fb48f567ba2843c30ba",
+    "name": "Team Metazord"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> 1 primary blueprint, &#34;Chi_DynamicMusicCoordinator&#34;.</li><li> 6 Structs.</li><li> 4 Blueprint Enums.</li><li>1 Curve.</li><li>1 Demo level included, win Unreal sample content.</li><li>Sample music for demoing system capabilities, split into 44 different audio tracks.</li></ul><p>Number of Blueprints: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms:  Windows 7, Windows 8, Windows 10, MAC OS, Linux.</p><p>Supported Target Build Platforms: Intended for any Unreal platform! Tested on Windows 7.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "db67b65b-4ee2-4092-934d-683f9e599dea"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Blue-1920x1080-1e05f956f5b18371d04a55dde53ed629.png",
+      "md5": "1e05f956f5b18371d04a55dde53ed629",
+      "size": 2182002,
+      "uploadedDate": "2018-08-19T07:48:24.376Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Yellow-1920x1080-af4b791fdc50204960cad79c97cd35a0.png",
+      "md5": "af4b791fdc50204960cad79c97cd35a0",
+      "size": 2523430,
+      "uploadedDate": "2018-08-19T07:48:25.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Purple-1920x1080-8a6def6f8caa9aaef878f21c25f9de55.png",
+      "md5": "8a6def6f8caa9aaef878f21c25f9de55",
+      "size": 2393956,
+      "uploadedDate": "2018-08-19T07:48:25.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Red-1920x1080-9ad0fa5927ba7104ce2d1bfad65167a2.png",
+      "md5": "9ad0fa5927ba7104ce2d1bfad65167a2",
+      "size": 2860637,
+      "uploadedDate": "2018-08-19T07:48:26.416Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/S P O O K Y-1920x1080-2c22fe18d0bc3be155e7f23ca3094b3d.png",
+      "md5": "2c22fe18d0bc3be155e7f23ca3094b3d",
+      "size": 2608481,
+      "uploadedDate": "2018-08-19T07:48:27.071Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Main-1920x1080-cbd37191d519d2d207375a5fc950f82e.png",
+      "md5": "cbd37191d519d2d207375a5fc950f82e",
+      "size": 605495,
+      "uploadedDate": "2018-08-19T07:48:27.530Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Level Blueprint-1920x1080-e3b3d20ce4e25c8b25dc920432f980f5.png",
+      "md5": "e3b3d20ce4e25c8b25dc920432f980f5",
+      "size": 451695,
+      "uploadedDate": "2018-08-19T07:48:27.777Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Green-1920x1080-77a7f1d416752dcc252f4d1c8b8f7995.png",
+      "md5": "77a7f1d416752dcc252f4d1c8b8f7995",
+      "size": 2700535,
+      "uploadedDate": "2018-08-19T07:48:28.204Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Black-1920x1080-f010afdb28445d6cbbe5cd7629cb4922.jpg",
+      "md5": "f010afdb28445d6cbbe5cd7629cb4922",
+      "size": 392694,
+      "uploadedDate": "2018-08-19T07:48:28.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ChiDynamicMusicSystem_thumb-284x284-553edcf70455b6a97842d510ab7f8ffd.png",
+      "md5": "553edcf70455b6a97842d510ab7f8ffd",
+      "size": 19678,
+      "uploadedDate": "2018-08-19T07:48:28.955Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ChiDynamicMusicSystem_featured-894x488-9743250c59430960e7bf884a3263939a.png",
+      "md5": "9743250c59430960e7bf884a3263939a",
+      "size": 651425,
+      "uploadedDate": "2018-08-19T07:48:29.105Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Blue-1920x1080-1e05f956f5b18371d04a55dde53ed629_Snapshot.png",
+      "md5": "a5487c3eb40006faaf51091e50fa36a4",
+      "size": 21720,
+      "uploadedDate": "2018-08-19T07:48:24.929Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Yellow-1920x1080-af4b791fdc50204960cad79c97cd35a0_Snapshot.png",
+      "md5": "27d697b5635d41bb2930ff10252b1cb7",
+      "size": 23976,
+      "uploadedDate": "2018-08-19T07:48:25.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Purple-1920x1080-8a6def6f8caa9aaef878f21c25f9de55_Snapshot.png",
+      "md5": "c63b75470ef71e8f1b04342d4d58721c",
+      "size": 22464,
+      "uploadedDate": "2018-08-19T07:48:26.140Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Red-1920x1080-9ad0fa5927ba7104ce2d1bfad65167a2_Snapshot.png",
+      "md5": "6685662dc2879fdfbce8c475ba9d56e6",
+      "size": 22402,
+      "uploadedDate": "2018-08-19T07:48:26.764Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/S P O O K Y-1920x1080-2c22fe18d0bc3be155e7f23ca3094b3d_Snapshot.png",
+      "md5": "ee617541384c0c0100711165f1a05a98",
+      "size": 23846,
+      "uploadedDate": "2018-08-19T07:48:27.438Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Main-1920x1080-cbd37191d519d2d207375a5fc950f82e_Snapshot.png",
+      "md5": "d1ed28b169a6cfb06ab75ebcd18659c6",
+      "size": 12226,
+      "uploadedDate": "2018-08-19T07:48:27.696Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Level Blueprint-1920x1080-e3b3d20ce4e25c8b25dc920432f980f5_Snapshot.png",
+      "md5": "59eb8fc1526415d495ca4e91270f4c42",
+      "size": 9252,
+      "uploadedDate": "2018-08-19T07:48:27.946Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Green-1920x1080-77a7f1d416752dcc252f4d1c8b8f7995_Snapshot.png",
+      "md5": "b8448a6d74f49d2433837c12b73a5b24",
+      "size": 22832,
+      "uploadedDate": "2018-08-19T07:48:28.568Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Black-1920x1080-f010afdb28445d6cbbe5cd7629cb4922_Snapshot.jpg",
+      "md5": "459a39d81a4cfe995c7a2b87786b9d74",
+      "size": 2740,
+      "uploadedDate": "2018-08-19T07:48:28.930Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fd1ab8fe42d84c9d8e0de213c59ba61c"
+    }
+  ],
+  "catalogNs": null
+}

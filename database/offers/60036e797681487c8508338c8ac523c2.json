@@ -1,0 +1,242 @@
+{
+  "id": "60036e797681487c8508338c8ac523c2",
+  "namespace": "ue",
+  "title": "Simple Scatter",
+  "description": "A plugin to procedurally scatter instances on static meshes and landscapes with many options to refine instancing distribution",
+  "longDescription": "<p>VIDEO: <a href=\"https://www.youtube.com/watch?v&#61;NNc_m1589QY\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;NNc_m1589QY</a></p><p><br /></p><p>Watch the video ^ it says it all ;)</p><p><br /></p><p>Simple Scatter is a scattering plugin which allows you to scatter static mesh instances on level actors such as Static Mesh Actor or Landscape, and then refine distribution of these instances with great degree of artistic control. It&#39;s supposed to save time otherwise spent manually painting the instances using foliage paint tool and it offers degree of control current Procedural Foliage volume tool does not.</p><p><br /></p><p>This plugin is mainly designed for people looking for more traditional DCC app plugin style scattering tool.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simple-scatter",
+  "creationDate": "2020-01-31T14:36:04.294Z",
+  "lastModifiedDate": "2024-10-15T13:19:43.464Z",
+  "effectiveDate": "2020-01-31T14:55:07.517Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-uc7d5t4vljl7979j9wvcdpv9lymh4s",
+    "name": "Army of One Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Known Limitations:</strong></p><ul><li>Due to the nature of how this plugin works, scattering is restricted to horizontal surfaces facing world up axis.  This means scattering instances on vertical surfaces such as sides of walls or spherical planets is currently not supported. It will still scatter instances on slopes of course, just not perfectly vertical slopes, and it won&#39;t scatter instances from the bottom of the object.</li></ul><p>Features:</p><ul><li>Scatter static mesh instances on top of both Landscapes and Static Meshes in the level.</li><li>Modify distribution of the instances based on various parameters like height, slope angle, footprint of another mesh, material texture or distance to open splines or area of closed splines.</li><li>Randomize transforms of scattered instances to your liking</li><li>Scatter multiple meshes on multiple surfaces within one scatter object</li><li>Supports distance based culling and distance fade with PerInstanceFadeAmount material node</li></ul><p>Code Modules:</p><ul><li> Scatter (Runtime, Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win32/64</p><p>Supported Target Build Platforms: Win32/64</p><p>Documentation: <a href=\"https://www.youtube.com/playlist?list&#61;PLsFQnUu1nji9r_f2DJo8xttLf8B3hwsDj\" rel=\"nofollow\">https://www.youtube.com/playlist?list&#61;PLsFQnUu1nji9r_f2DJo8xttLf8B3hwsDj</a></p><p><strong>Support page:</strong> <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1716936-simple-scatter-plugin\" rel=\"nofollow\">https://forums.unrealengine.com/unreal-engine/marketplace/1716936-simple-scatter-plugin</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ca651d8c-6dd4-424b-8276-548707cac0e4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-24d9ebe2076659ca0e7d0137ba681b9e.jpg",
+      "md5": "24d9ebe2076659ca0e7d0137ba681b9e",
+      "size": 752167,
+      "uploadedDate": "2020-01-07T14:50:28.884Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-d075bcd7d20848ed6e9f0e731319ef3a.jpg",
+      "md5": "d075bcd7d20848ed6e9f0e731319ef3a",
+      "size": 582640,
+      "uploadedDate": "2020-01-07T14:50:29.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-c4eabe948dbd2d97265b58981747499c.jpg",
+      "md5": "c4eabe948dbd2d97265b58981747499c",
+      "size": 731193,
+      "uploadedDate": "2020-01-07T14:50:30.754Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-0b0fe9c81724232fc220b46b4e858a65.jpg",
+      "md5": "0b0fe9c81724232fc220b46b4e858a65",
+      "size": 714210,
+      "uploadedDate": "2020-01-07T14:50:31.697Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-fbfc5e6c91775f00a9f793f298f0a782.jpg",
+      "md5": "fbfc5e6c91775f00a9f793f298f0a782",
+      "size": 708375,
+      "uploadedDate": "2020-01-07T14:50:32.696Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleScatter_thumb-284x284-5d7a0b38bdefe4623b77d82cf4a01330.png",
+      "md5": "5d7a0b38bdefe4623b77d82cf4a01330",
+      "size": 127721,
+      "uploadedDate": "2020-01-07T14:50:33.311Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleScatter_featured-894x488-53e6dd51d280f5d2c0fb5807950dff52.png",
+      "md5": "53e6dd51d280f5d2c0fb5807950dff52",
+      "size": 649514,
+      "uploadedDate": "2020-01-07T14:50:33.433Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-24d9ebe2076659ca0e7d0137ba681b9e_Snapshot.jpg",
+      "md5": "160f360b43339b6e339d7866627aae5f",
+      "size": 8123,
+      "uploadedDate": "2020-01-07T14:50:29.509Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-d075bcd7d20848ed6e9f0e731319ef3a_Snapshot.jpg",
+      "md5": "73d47219db45aa73b28d061fb6cf29ed",
+      "size": 7358,
+      "uploadedDate": "2020-01-07T14:50:30.440Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-c4eabe948dbd2d97265b58981747499c_Snapshot.jpg",
+      "md5": "86bf440a6bcf861e03c7de7b8b13ba48",
+      "size": 7242,
+      "uploadedDate": "2020-01-07T14:50:31.372Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-0b0fe9c81724232fc220b46b4e858a65_Snapshot.jpg",
+      "md5": "81affa90ff9ef594b2d312caf3a67bbd",
+      "size": 7461,
+      "uploadedDate": "2020-01-07T14:50:32.341Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-fbfc5e6c91775f00a9f793f298f0a782_Snapshot.jpg",
+      "md5": "a55c1977b53183df0917c65ee77a94a9",
+      "size": 7415,
+      "uploadedDate": "2020-01-07T14:50:33.268Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dbe10dab4c5a43f4b56468b3e77afc09"
+    }
+  ],
+  "catalogNs": null
+}

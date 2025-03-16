@@ -1,0 +1,89 @@
+{
+  "id": "2efe4445de7f49a69c351baa02d0346f",
+  "namespace": "ue",
+  "title": "Shapefile Reader",
+  "description": "Reader for Shapefile SHP, SHX, and DBF formats",
+  "longDescription": "<p>** Help &amp; support on Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a> **</p><p><br /></p><p>Shapefiles are widely used in Geographic Information Systems (GIS) to store geographic data.</p><p>Shapefile Reader exposes functions to read SHP, SHX, and DBF shapefile formats with the Unreal Engine.</p><p>The plugin is developed as C&#43;&#43; blueprints allowing an easy access to the functions from C&#43;&#43; and from blueprints.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shapefile-reader",
+  "creationDate": "2018-04-21T05:59:24.757Z",
+  "lastModifiedDate": "2024-10-08T09:54:16.530Z",
+  "effectiveDate": "2018-04-21T05:59:24.729Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1f385b3839424280bd68decb808ffb",
+    "name": "Isara Tech."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Reads SHP/SHX files</li><li> Reads DBF files</li></ul><p>Code Modules:</p><ul><li> Shapefilelib</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows, Linux, MacOS</p><p>Supported Target Build Platforms: Windows, Linux, MacOS</p><p>Documentation: <a href=\"https://docs.isaratech.com/ue4-plugins/shapefile-reader\" rel=\"nofollow\">https://docs.isaratech.com/ue4-plugins/shapefile-reader</a></p><p>Website: <a href=\"http://isaratech.com/uws/\" rel=\"nofollow\">http://isaratech.com/</a></p><p>Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f96cf7b4-3557-4633-ab05-5220bca00ee2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CaptureShapefileReader-1920x1080-1b40625c211ac75d25caafdfa42c0ef6.png",
+      "md5": "1b40625c211ac75d25caafdfa42c0ef6",
+      "size": 250065,
+      "uploadedDate": "2018-02-27T15:39:56.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ShapefileReader_thumb-284x284-c458b3cebee66749760d2e41a12a6b9d.png",
+      "md5": "c458b3cebee66749760d2e41a12a6b9d",
+      "size": 91307,
+      "uploadedDate": "2018-02-27T15:39:56.337Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShapefileReader_featured-894x488-f96ea965ffa27a93ddbb028c6304c3eb.png",
+      "md5": "f96ea965ffa27a93ddbb028c6304c3eb",
+      "size": 112914,
+      "uploadedDate": "2018-02-27T15:39:56.386Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "1eb45dab40bd470d85ec110dd87037f9"
+    }
+  ],
+  "catalogNs": null
+}

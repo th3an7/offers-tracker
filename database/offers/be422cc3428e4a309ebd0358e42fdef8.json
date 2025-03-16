@@ -1,0 +1,476 @@
+{
+  "id": "be422cc3428e4a309ebd0358e42fdef8",
+  "namespace": "ue",
+  "title": "DiffuseVFX",
+  "description": "DiffuceVFX has special effects including fire, water, ice, lightning, plants, and other ground strike, diffusion, growth, and burst effects",
+  "longDescription": "<p>There are 18 different diffusion effects. There are special effects of various sizes and color types.</p><p><br /></p><p>DiffuceVFX has a total of 18 different special effects, including fire, water, ice, lightning, plants, and other ground strike, diffusion, growth, and burst effects; Colors are also diverse</p><p><br /></p><p>https://youtu.be/Tr81CLmqwzg</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "diffusevfx",
+  "creationDate": "2023-09-13T09:21:51.095Z",
+  "lastModifiedDate": "2024-10-09T01:29:34.578Z",
+  "effectiveDate": "2023-09-13T09:21:51.063Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pd9u43cmt5ys3qvvx5cmdprxm6czaq",
+    "name": "xiaofengzhang"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features&#xff1a;</p><p><br /></p><p> Special effects of cascaded particle emitter</p><p> All effects can be played by turning on the particle system or by turning on the NewLevelSequence</p><p> The particle emitter coordinate is Z-axis upward</p><p><br /></p><p><br /></p><p>Type of Emitters: (CPU, GPU, etc)</p><p><br /></p><p>Number of Unique Effects: 18</p><p><br /></p><p>LODs: No</p><p><br /></p><p>Number of Materials: 103</p><p><br /></p><p>Number of Textures: 108</p><p><br /></p><p>Number of Materals_Functions: 12</p><p><br /></p><p>Number of Mesh:27</p><p><br /></p><p>Number of Map: 1</p><p><br /></p><p>Supported Development Platforms: PC/Console</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5490e90e-b733-4659-8739-e50cf0f6001c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce001-1920x1080-821b453e7b4f9dff1cca33f81ef926c1.jpg",
+      "md5": "821b453e7b4f9dff1cca33f81ef926c1",
+      "size": 1026951,
+      "uploadedDate": "2023-09-11T20:52:59.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce002-1920x1080-a246f2103db2993c600e21c7a7b0ccac.jpg",
+      "md5": "a246f2103db2993c600e21c7a7b0ccac",
+      "size": 1266936,
+      "uploadedDate": "2023-09-11T20:52:59.392Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce003-1920x1080-a007c8120797614ad9f5f998c690b7cd.jpg",
+      "md5": "a007c8120797614ad9f5f998c690b7cd",
+      "size": 995504,
+      "uploadedDate": "2023-09-11T20:52:59.764Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce004-1920x1080-5602c1e410d84a429d0a21c2e1014199.jpg",
+      "md5": "5602c1e410d84a429d0a21c2e1014199",
+      "size": 1141813,
+      "uploadedDate": "2023-09-11T20:53:00.284Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce005-1920x1080-312a37cb000f0675f01f6019e894bcf1.jpg",
+      "md5": "312a37cb000f0675f01f6019e894bcf1",
+      "size": 1256005,
+      "uploadedDate": "2023-09-11T20:53:00.633Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce006-1920x1080-ca73a3e6cddf63b0f904bde9b5994ba1.jpg",
+      "md5": "ca73a3e6cddf63b0f904bde9b5994ba1",
+      "size": 1067365,
+      "uploadedDate": "2023-09-11T20:53:01.017Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce007-1920x1080-f7992b0555588d362af79e3dd4d29a41.jpg",
+      "md5": "f7992b0555588d362af79e3dd4d29a41",
+      "size": 1042441,
+      "uploadedDate": "2023-09-11T20:53:01.374Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce008-1920x1080-ed51a6158cbc35ed24ceae936a08b487.jpg",
+      "md5": "ed51a6158cbc35ed24ceae936a08b487",
+      "size": 1196353,
+      "uploadedDate": "2023-09-11T20:53:01.694Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce009-1920x1080-67c62b93c36728cd8eef799b8963ea48.jpg",
+      "md5": "67c62b93c36728cd8eef799b8963ea48",
+      "size": 1052313,
+      "uploadedDate": "2023-09-11T20:53:02.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce010-1920x1080-105ea4cf84d37f4704ac499a11785081.jpg",
+      "md5": "105ea4cf84d37f4704ac499a11785081",
+      "size": 1152491,
+      "uploadedDate": "2023-09-11T20:53:02.440Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce011-1920x1080-03dc5b29c27d45b816a0345d513f0fc3.jpg",
+      "md5": "03dc5b29c27d45b816a0345d513f0fc3",
+      "size": 984791,
+      "uploadedDate": "2023-09-11T20:53:02.820Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce012-1920x1080-5b4c44f120993e937a765112dbe2db90.jpg",
+      "md5": "5b4c44f120993e937a765112dbe2db90",
+      "size": 1107997,
+      "uploadedDate": "2023-09-11T20:53:03.182Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce013-1920x1080-c8320f7191c059c5ff60e61786a1dc29.jpg",
+      "md5": "c8320f7191c059c5ff60e61786a1dc29",
+      "size": 1034727,
+      "uploadedDate": "2023-09-11T20:53:03.484Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce014-1920x1080-ea4f9a9995441dc25cc8f77ee619d1b8.jpg",
+      "md5": "ea4f9a9995441dc25cc8f77ee619d1b8",
+      "size": 1220648,
+      "uploadedDate": "2023-09-11T20:53:03.850Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce015-1920x1080-63fdc8245ddb15956385d9ca0d90105b.jpg",
+      "md5": "63fdc8245ddb15956385d9ca0d90105b",
+      "size": 1025310,
+      "uploadedDate": "2023-09-11T20:53:04.210Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce016-1920x1080-5cdbd0fb3690a87d6423d3d40e6dccb4.jpg",
+      "md5": "5cdbd0fb3690a87d6423d3d40e6dccb4",
+      "size": 1053568,
+      "uploadedDate": "2023-09-11T20:53:04.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce017-1920x1080-3056dad0888c85b253915dd607b05d84.jpg",
+      "md5": "3056dad0888c85b253915dd607b05d84",
+      "size": 1084153,
+      "uploadedDate": "2023-09-11T20:53:05.043Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diffuce018-1920x1080-7ff4393acc80e612d61fc587162504a5.jpg",
+      "md5": "7ff4393acc80e612d61fc587162504a5",
+      "size": 1056210,
+      "uploadedDate": "2023-09-11T20:53:05.437Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DiffuceVFX_thumb-284x284-e158dd770ffb1838118ba8e62030407d.png",
+      "md5": "e158dd770ffb1838118ba8e62030407d",
+      "size": 146561,
+      "uploadedDate": "2023-09-11T20:53:05.744Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DiffuceVFX_featured-894x488-b963abc657bcef162470c399643df567.png",
+      "md5": "b963abc657bcef162470c399643df567",
+      "size": 732642,
+      "uploadedDate": "2023-09-11T20:53:05.854Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce001-1920x1080-821b453e7b4f9dff1cca33f81ef926c1_Snapshot.jpg",
+      "md5": "d29aeb1b701b56cbba1ecad93ce1bb6b",
+      "size": 4589,
+      "uploadedDate": "2023-09-11T20:52:59.216Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce002-1920x1080-a246f2103db2993c600e21c7a7b0ccac_Snapshot.jpg",
+      "md5": "4275056422eb21e6a1dbef43ae8c17d8",
+      "size": 5999,
+      "uploadedDate": "2023-09-11T20:52:59.612Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce003-1920x1080-a007c8120797614ad9f5f998c690b7cd_Snapshot.jpg",
+      "md5": "b114fdcfdbe7b3cd415fe3522252c406",
+      "size": 4763,
+      "uploadedDate": "2023-09-11T20:52:59.972Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce004-1920x1080-5602c1e410d84a429d0a21c2e1014199_Snapshot.jpg",
+      "md5": "bb2c017ffe1bfa2c2fb8ef4ba3a89a69",
+      "size": 5033,
+      "uploadedDate": "2023-09-11T20:53:00.480Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce005-1920x1080-312a37cb000f0675f01f6019e894bcf1_Snapshot.jpg",
+      "md5": "cd53ebd1dc414cf3574c164b3f43a286",
+      "size": 6371,
+      "uploadedDate": "2023-09-11T20:53:00.834Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce006-1920x1080-ca73a3e6cddf63b0f904bde9b5994ba1_Snapshot.jpg",
+      "md5": "41edcb0c50793700d374d9a94e5b076d",
+      "size": 5184,
+      "uploadedDate": "2023-09-11T20:53:01.227Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce007-1920x1080-f7992b0555588d362af79e3dd4d29a41_Snapshot.jpg",
+      "md5": "a5b97ed707b4d323a8a379d0337adfe6",
+      "size": 4970,
+      "uploadedDate": "2023-09-11T20:53:01.587Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce008-1920x1080-ed51a6158cbc35ed24ceae936a08b487_Snapshot.jpg",
+      "md5": "e81647ab734d8786c08231320a884e07",
+      "size": 5278,
+      "uploadedDate": "2023-09-11T20:53:01.894Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce009-1920x1080-67c62b93c36728cd8eef799b8963ea48_Snapshot.jpg",
+      "md5": "12eb7c428b7c5acb384952da3701f2f2",
+      "size": 4071,
+      "uploadedDate": "2023-09-11T20:53:02.305Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce010-1920x1080-105ea4cf84d37f4704ac499a11785081_Snapshot.jpg",
+      "md5": "6711977498e7d7ad8fe3b77c483a2bbc",
+      "size": 4601,
+      "uploadedDate": "2023-09-11T20:53:02.654Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce011-1920x1080-03dc5b29c27d45b816a0345d513f0fc3_Snapshot.jpg",
+      "md5": "30e4fcb5eb11ec99468ae32ed8b0dbac",
+      "size": 4169,
+      "uploadedDate": "2023-09-11T20:53:03.012Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce012-1920x1080-5b4c44f120993e937a765112dbe2db90_Snapshot.jpg",
+      "md5": "a0bbad0c3ab10dd48db4905af3caf65a",
+      "size": 5110,
+      "uploadedDate": "2023-09-11T20:53:03.379Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce013-1920x1080-c8320f7191c059c5ff60e61786a1dc29_Snapshot.jpg",
+      "md5": "70def4791bc485d27648c1c91e6cd2c3",
+      "size": 4121,
+      "uploadedDate": "2023-09-11T20:53:03.705Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce014-1920x1080-ea4f9a9995441dc25cc8f77ee619d1b8_Snapshot.jpg",
+      "md5": "2c3a803ff4a1e8e82196b05443e9bc23",
+      "size": 5966,
+      "uploadedDate": "2023-09-11T20:53:04.069Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce015-1920x1080-63fdc8245ddb15956385d9ca0d90105b_Snapshot.jpg",
+      "md5": "4d1379b804b56841ae02cdfe9c4c21a7",
+      "size": 4183,
+      "uploadedDate": "2023-09-11T20:53:04.405Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce016-1920x1080-5cdbd0fb3690a87d6423d3d40e6dccb4_Snapshot.jpg",
+      "md5": "25979c05f037179c838aa14101185dec",
+      "size": 4991,
+      "uploadedDate": "2023-09-11T20:53:04.891Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce017-1920x1080-3056dad0888c85b253915dd607b05d84_Snapshot.jpg",
+      "md5": "508d1a4aa02b96c266f601df19c7eefc",
+      "size": 4502,
+      "uploadedDate": "2023-09-11T20:53:05.238Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diffuce018-1920x1080-7ff4393acc80e612d61fc587162504a5_Snapshot.jpg",
+      "md5": "d44366d7b00462d39f241055f436f0d5",
+      "size": 4555,
+      "uploadedDate": "2023-09-11T20:53:05.630Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4c0b86e1300e44d8b1a2bfa63396caf8"
+    }
+  ],
+  "catalogNs": null
+}

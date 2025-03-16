@@ -1,0 +1,236 @@
+{
+  "id": "d1c6a5ba1f814d4b939c06a1c67a0dc2",
+  "namespace": "ue",
+  "title": "Figma2UMG",
+  "description": "Figma2UMG import your Figma documents and convert into UMG files.",
+  "longDescription": "<p><strong><em>Figma2UMG</em></strong> is a powerful plugin designed to seamlessly integrate Figma designs into Unreal Engine projects by generating Unreal Motion Graphics UI Designer (UMG) files. With Figma2UMG, developers and designers can easily import Figma assets, including UI designs, icons, and graphics, directly into their Unreal Engine environment. The plugin simplifies the workflow between design and development teams, allowing for efficient collaboration and rapid prototyping. Figma2UMG supports the import of Figma files while preserving frames, components, groups, and other design elements, ensuring fidelity and accuracy during the transition from design to implementation. Whether creating immersive experiences or interactive applications, Figma2UMG empowers developers to bring their Figma designs to life within Unreal Engine with ease. This plugin utilizes the Figma REST API and requires an access token for authentication. </p><p><br /></p><p><strong>Documentation</strong>: <a href=\"https://www.buvi.games/figma2umg\" rel=\"nofollow\">https://www.buvi.games/figma2umg</a></p><p><strong>Figma Plugin</strong>: <a href=\"https://www.figma.com/community/plugin/1368487806996965174/figma2umg-unreal-importer\" rel=\"nofollow\">https://www.figma.com/community/plugin/1368487806996965174/figma2umg-unreal-importer</a></p><p><strong>Support</strong>: figma2umg&#64;buvi.games</p><p><strong>Bug report</strong>: Please send an email to figma2umg&#64;buvi.games and share a figma file for testing. If the issue in on the layout, please share also an UMG with the expected result.</p><p><strong>Important note</strong>: This plugin is currently in its Beta phase. It will remain so until we achieve stability through a period of public bug reporting.</p><p>Joing the <a href=\"https://discord.gg/NkJdfjC6\" rel=\"nofollow\">Discord</a> channel</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "figma2umg",
+  "creationDate": "2024-08-18T09:09:54.459Z",
+  "lastModifiedDate": "2024-10-11T16:00:43.762Z",
+  "effectiveDate": "2024-08-18T16:34:18.883Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5uz2urx7gc4edpjtfwmygr8cqlg7s6",
+    "name": "Buvi Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li>Integration of Figma designs into Unreal Engine projects by generating UMG files. </li><li>Layout accuracy</li><li>Generates UBorder, USizeBox, UButton, UCanvasPanel, UHorizontalBox, UVerticalBox, UWrapBox, UTextBlock, UImage, UWidgetSwitcher and UUserWidget</li><li>Figma Component Support</li><li>Each Figma component generates a UWidgetBlueprint</li><li>Supports Libraries, Properties, Variants and InstanceSwap</li><li>Figma Flow - Generates the logic to follow the prototype flow in Figma</li><li>Fonts - It will look for fonts installed in unreal but if not found can download from Google Fonts</li><li>Patch - Can patch the downloaded data into the Blueprints so you don&#39;t loose any work done locally.  </li></ul><p>Code Modules: </p><ul><li>Figma2UMG - Editor</li></ul><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:100&#43;</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64; MacOS;</p><p>Supported Target Build Platforms: Win64; MacOS;</p><p>Documentation: https://www.buvi.games/figma2umg</p><p>Important Nodes:</p><ul><li>Check the Figma file for reference of what is supported</li><li>https://www.figma.com/community/plugin/1368487806996965174/figma2umg-unreal-importer</li><li>Does not support effect or animation</li><li>Does not support UScrollBox or UListView (yet)</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1286",
+      "name": "BIKES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:40.678Z",
+      "updated": "2019-06-20T12:00:40.678Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0e0d4d1f-702f-4b3b-96c1-01c0fcac7823"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Importing-1920x1080-eed53bb844130657f317d201e336f44a.png",
+      "md5": "eed53bb844130657f317d201e336f44a",
+      "size": 175177,
+      "uploadedDate": "2024-08-15T20:09:27.157Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ImportedFiles-1920x1080-13d60fc5eb4527f1b2f35d3652e6c6ba.png",
+      "md5": "13d60fc5eb4527f1b2f35d3652e6c6ba",
+      "size": 449238,
+      "uploadedDate": "2024-08-15T20:09:26.764Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Figma-1920x1080-77fca2eb84e53ba3455f431a11aac157.png",
+      "md5": "77fca2eb84e53ba3455f431a11aac157",
+      "size": 235806,
+      "uploadedDate": "2024-08-15T20:09:27.639Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Import-1920x1080-6ede1b02bff268872911ad8cdbe2eabb.png",
+      "md5": "6ede1b02bff268872911ad8cdbe2eabb",
+      "size": 473474,
+      "uploadedDate": "2024-08-15T20:09:26.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Fonts-1920x1080-ada6dcead44432569d3bc2d885907f90.png",
+      "md5": "ada6dcead44432569d3bc2d885907f90",
+      "size": 335787,
+      "uploadedDate": "2024-08-15T20:09:25.768Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Figma2UMG_thumb-284x284-b4d646ef81b61d1833784505c13532d3.png",
+      "md5": "b4d646ef81b61d1833784505c13532d3",
+      "size": 14962,
+      "uploadedDate": "2024-08-16T19:44:43.042Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Figma2UMG_featured-894x488-3bfa32edc75ffbe5d1e854d75cb46838.png",
+      "md5": "3bfa32edc75ffbe5d1e854d75cb46838",
+      "size": 46108,
+      "uploadedDate": "2024-08-16T19:44:43.146Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Fonts-1920x1080-ada6dcead44432569d3bc2d885907f90_Snapshot.png",
+      "md5": "482264d43398b2f8d2f0382f4d741c10",
+      "size": 3805,
+      "uploadedDate": "2024-08-15T20:09:26.106Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Import-1920x1080-6ede1b02bff268872911ad8cdbe2eabb_Snapshot.png",
+      "md5": "74f58a792c4c4ba428c26ce42f90caef",
+      "size": 4665,
+      "uploadedDate": "2024-08-15T20:09:26.573Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ImportedFiles-1920x1080-13d60fc5eb4527f1b2f35d3652e6c6ba_Snapshot.png",
+      "md5": "1b15e9a83dc14ca6f433f0d9d68259a9",
+      "size": 5822,
+      "uploadedDate": "2024-08-15T20:09:27.073Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Importing-1920x1080-eed53bb844130657f317d201e336f44a_Snapshot.png",
+      "md5": "481d6ce86a283c9e8a1e384c88dcb111",
+      "size": 3269,
+      "uploadedDate": "2024-08-15T20:09:27.440Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Figma-1920x1080-77fca2eb84e53ba3455f431a11aac157_Snapshot.png",
+      "md5": "6ae1356cd0c72e46cd0c6c9911ef6cf6",
+      "size": 4266,
+      "uploadedDate": "2024-08-15T20:09:28.040Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galery1-1920x1080-83b07b4f015fef883fab69375880fe23_Snapshot.png",
+      "md5": "43124f3f1c024d50ae97b83a2fd0d87b",
+      "size": 5541,
+      "uploadedDate": "2024-04-25T21:30:38.337Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galery2-1920x1080-0b195dd9bb514acf3d32043f25909f57_Snapshot.png",
+      "md5": "be9edcd8d2688bfcdd072b40d947a29d",
+      "size": 4730,
+      "uploadedDate": "2024-04-25T21:30:38.783Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "57784df73e3e42fea611d3f9fa16d34e"
+    }
+  ],
+  "catalogNs": null
+}

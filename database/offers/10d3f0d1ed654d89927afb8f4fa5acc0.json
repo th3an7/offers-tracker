@@ -1,0 +1,329 @@
+{
+  "id": "10d3f0d1ed654d89927afb8f4fa5acc0",
+  "namespace": "ue",
+  "title": "SweejTech Audio Inspector",
+  "description": "SweejTech Audio Inspector allows people working with sound to see detailed, useful info about all active sounds in game in a compact editor tab window.",
+  "longDescription": "<p>The SweejTech Audio Inspector allows sound designers, programmers and anyone working with Unreal Audio to view active sounds in a compact, dockable tab window. It displays a table list view with configurable columns that show each active sound and important information about it. It slots neatly into your Unreal Editor audio content creation workflows and debug sessions without obscuring the game viewport. Enjoy inspecting your audio!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sweejtech-audio-inspector",
+  "creationDate": "2023-01-03T19:03:03.149Z",
+  "lastModifiedDate": "2024-10-15T05:39:09.713Z",
+  "effectiveDate": "2023-01-03T20:19:18.887Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zhmamxlnk4dd2y9p2gxergdkeekdsv",
+    "name": "SweejTech"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2>Features:</h2><p><br /></p><p>Configurable set of columns showing debug info:</p><ul><li><em>Distance</em></li><li><em>Volume (dB)</em></li><li><em>Sound Class</em></li><li><em>Attenuation</em></li><li><em>Azimuth</em></li><li><em>Elevation</em></li><li><em>Angle to Listener</em></li></ul><p><br /></p><ul><li>Dockable tab window that lists all currently playing sounds</li><li>Shows waves, sound cues, Metasounds and any other USoundBase type</li><li>Filtering based on name of sound</li><li>Sorting based on column values</li><li>Volume (dB) column has a selectable color scheme: VU Meter, priority, none</li><li>Distance column shows sounds at the origin for easier debugging</li><li>Editor Preferences menu for saving user configurations</li><li>Sounds can be double clicked to bring up their corresponding asset</li><li>Sound class / attenuation values can be double clicked to open their assets</li><li>The update rate of the UI can be changed to reduce flickering</li></ul><p> </p><p>Code Modules: </p><ul><li>AudioInspector (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 8</p><p>Network Replicated: No (N/A)</p><p>Supported Development Platforms: Win64, Linux, Mac</p><p>Supported Target Build Platforms: N/A (editor only)</p><p>Documentation: https://github.com/SweejTech/Documentation/tree/main/AudioInspector</p><p><br /></p><p>Important/Additional Notes: The plugin was developed and tested with UE5.0 and 5.1, but it might still build and function on older versions of the engine. This has not been tested.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1241",
+      "name": "FEMALE PROTAGONIST",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:18.351Z",
+      "updated": "2019-06-20T12:00:18.351Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5481a571-8cda-4ec0-a373-e8fc3bc89b09"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/audio-inspector-imagerygallery-image-red-1920x1080-6ad21fe8dc2d7f3dcb22aef09d73b266.jpg",
+      "md5": "6ad21fe8dc2d7f3dcb22aef09d73b266",
+      "size": 607208,
+      "uploadedDate": "2023-04-14T10:19:21.354Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AudioInspector-Editor-Exterior-01-1920x1080-456be0059b10e20b377b573ed997fca4.png",
+      "md5": "456be0059b10e20b377b573ed997fca4",
+      "size": 1302425,
+      "uploadedDate": "2023-04-14T10:19:21.935Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AudioInspector-Editor-Interior-01-1920x1080-f3f2eeedad7375a18e213065c76dd4be.png",
+      "md5": "f3f2eeedad7375a18e213065c76dd4be",
+      "size": 1116793,
+      "uploadedDate": "2023-04-14T10:19:22.455Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AudioInspector-Editor-Settings-01-1920x1080-fe40fc4205e38ab4e1b8fd2e882a0f2e.png",
+      "md5": "fe40fc4205e38ab4e1b8fd2e882a0f2e",
+      "size": 104867,
+      "uploadedDate": "2023-04-14T10:19:22.862Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AudioInspector-Editor-WeaponFire-01-1920x1080-87c8797ac69cedecc7b8c6d5e4c16241.png",
+      "md5": "87c8797ac69cedecc7b8c6d5e4c16241",
+      "size": 1410259,
+      "uploadedDate": "2023-04-14T10:19:23.266Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SweejTechAudioInspector_thumb-284x284-e2fcb74ed30cbd4a7c2f2efec1f67c50.png",
+      "md5": "e2fcb74ed30cbd4a7c2f2efec1f67c50",
+      "size": 86488,
+      "uploadedDate": "2023-04-14T10:19:23.678Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SweejTechAudioInspector_featured-894x488-e5cbd3ed4f77b19f63b944a4dd8f0e40.png",
+      "md5": "e5cbd3ed4f77b19f63b944a4dd8f0e40",
+      "size": 447896,
+      "uploadedDate": "2023-04-14T10:19:23.832Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/audio-inspector-imagerygallery-image-red-1920x1080-6ad21fe8dc2d7f3dcb22aef09d73b266_Snapshot.jpg",
+      "md5": "f72278fae5091c905a5f6823a12479b7",
+      "size": 2901,
+      "uploadedDate": "2023-04-14T10:19:21.683Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AudioInspector-Editor-Exterior-01-1920x1080-456be0059b10e20b377b573ed997fca4_Snapshot.png",
+      "md5": "e5680b5a94712ea2da9fee8bb6d5ef9b",
+      "size": 5567,
+      "uploadedDate": "2023-04-14T10:19:22.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AudioInspector-Editor-Interior-01-1920x1080-f3f2eeedad7375a18e213065c76dd4be_Snapshot.png",
+      "md5": "0fc2ab7f9c01a50b59ed3c134ba661a9",
+      "size": 5013,
+      "uploadedDate": "2023-04-14T10:19:22.741Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AudioInspector-Editor-Settings-01-1920x1080-fe40fc4205e38ab4e1b8fd2e882a0f2e_Snapshot.png",
+      "md5": "c5b1072ea7e3cc375ceb149efd03c8f6",
+      "size": 2808,
+      "uploadedDate": "2023-04-14T10:19:23.106Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AudioInspector-Editor-WeaponFire-01-1920x1080-87c8797ac69cedecc7b8c6d5e4c16241_Snapshot.png",
+      "md5": "81074ed9c36332bffba7ef4adf151d2d",
+      "size": 5938,
+      "uploadedDate": "2023-04-14T10:19:23.568Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/000-audio-inspector-product-title-1920x1080-58edb006f746df4f601987723c6a07ed_Snapshot.png",
+      "md5": "f7a1c55084adbbb046a33e8f02d84725",
+      "size": 4443,
+      "uploadedDate": "2022-12-09T19:49:00.297Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/001-Editor-AudioInspector-Exterior-01-1920x1080-0faae64ccd06fd4c9042759117fd7dab_Snapshot.png",
+      "md5": "de1dd96ff5a2cf6b961343c6b4333ccb",
+      "size": 6224,
+      "uploadedDate": "2022-12-09T19:38:38.586Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/002-Editor-AudioInspector-Interior-01-1920x1080-61c88c3d9e2fad658a7929a23616563a_Snapshot.png",
+      "md5": "4078dbb6a9219dc4aad69a2b0d5cc121",
+      "size": 5365,
+      "uploadedDate": "2022-12-09T19:38:39.234Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/003-Editor-AudioInspector-Exterior-02-1920x1080-f93afca958f20602baf0a98f1226a2c1_Snapshot.png",
+      "md5": "331535c4efe17a4a4a24a9be28431fe0",
+      "size": 5884,
+      "uploadedDate": "2022-12-09T19:38:39.755Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/004-Editor-AudioInspector-Filter-01-1920x1080-9e88af9fe1feda68fef502fa3e494845_Snapshot.png",
+      "md5": "67e94aa47603ac2e4038d14d18fb730a",
+      "size": 6091,
+      "uploadedDate": "2022-12-09T19:38:40.355Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/005-Editor-AudioInspector-EditMode-01-1920x1080-5828520de35ad3dc215f297abec4de7a_Snapshot.png",
+      "md5": "2f0591b9755bbf8a6b452c3bcc6a7917",
+      "size": 6224,
+      "uploadedDate": "2022-12-09T19:38:41.201Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/006-Editor-AudioInspector-EditorPrefs-01-1920x1080-4804100e8ae83a02611187018c4c44df_Snapshot.png",
+      "md5": "1675b337dfc525380976b4d5709269e8",
+      "size": 6045,
+      "uploadedDate": "2022-12-09T19:38:41.695Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "886b95b1236440ca8a0ecdf9866cd55e"
+    }
+  ],
+  "catalogNs": null
+}

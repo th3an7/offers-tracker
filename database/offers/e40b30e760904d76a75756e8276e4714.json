@@ -1,0 +1,254 @@
+{
+  "id": "e40b30e760904d76a75756e8276e4714",
+  "namespace": "ue",
+  "title": "Realistic Grenade Trajectory  ( Replicated )",
+  "description": "This is a realistic grenade trajectory ! With the real gravity & Working in multiplayer !",
+  "longDescription": "<blockquote><a href=\"https://youtu.be/nLYSvKFKDOE\" rel=\"nofollow\">Quick Demonstration Video</a></blockquote><p><br /></p><p>This is a realistic grenade trajectory system which is ready for the multiplayer.</p><p><br /></p><p>This blueprint system will allow you to generate an extremely precise throwing trajectory preview but also the impulse velocity needed to launch a grenade (or any other object) from a point A to a point B. All this is possible thanks to complex physics and mathematics equations which still remains configurable.</p><p><br /></p><p>This system is plug and play. However, you will still be able to easily change and configure the mathematical equation in many ways, including :</p><ul><li>The angle at which the object is thrown</li><li>The maximal or minimal throwing distance</li><li>The spawn point of the thrown object</li><li>The applied gravity (if you want to use a custom gravity)</li><li>And many more !</li></ul><p><br /></p><p>This system is mostly useful for top down or third person projects but it can also match your game type.</p><p><br /></p><p>Easy to implement in your project or merge with an existing system ! Only 3 small steps needed !</p><p><strong>Step 1</strong> : Copy &amp; paste the <strong>SplineGrenade &amp; Grenade Spawn Point</strong> From the <strong>BP_ThirdPersonCharacter</strong> into your player.</p><p><strong>Step 2</strong> : Copy &amp; paste the <strong>Functions &#43; Code</strong> From the <strong>BP_ThirdPersonCharacter</strong> into your player character.character.</p><p><strong>Step 3</strong> : Create the missing variable.</p><p><br /></p><p>( Floor need to be worldstatic to slow down the grenade when it reaches the floor )</p><p>or if you want to modify this go to [ Is Near Ground ? ] function and modify the condition to match your ground collision type.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "realistic-grenade-trajectory-replicated",
+  "creationDate": "2022-10-16T19:49:41.604Z",
+  "lastModifiedDate": "2024-10-10T23:17:35.662Z",
+  "effectiveDate": "2022-10-16T19:49:41.557Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4nm2sj7ktem4bqp3fmjg42vlfynx97",
+    "name": "Max3nce's Store"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><strong> Grenade Throw Preview Hyper Realistic &#43; Throw Grenade</strong></li><li> <strong>Explosion Particle &#43; Sound</strong></li></ul><p>Number of Blueprints: 3</p><p>Input: <strong>Keyboard, Mouse</strong></p><p>Network Replicated: <strong>Yes</strong></p><p>Supported Development Platforms:</p><ul><li>Windows: <strong>Yes</strong></li><li>Mac: <strong>Yes</strong></li></ul><p>Documentation: None</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "87098915-b5bd-4693-b722-66b58cc902fe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG2-1920x1080-f98791e1690698d459d540986938ecd5.png",
+      "md5": "f98791e1690698d459d540986938ecd5",
+      "size": 607423,
+      "uploadedDate": "2022-10-13T14:57:00.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG1-1920x1080-49f069534f473004850419215124fc1d.png",
+      "md5": "49f069534f473004850419215124fc1d",
+      "size": 566804,
+      "uploadedDate": "2022-10-13T14:57:00.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IMG3-1920x1080-6da1aaeed3c4c091910baf7c354652f8.png",
+      "md5": "6da1aaeed3c4c091910baf7c354652f8",
+      "size": 345366,
+      "uploadedDate": "2022-10-13T14:57:01.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealisticGrenadeTrajectoryReplicated_thumb-284x284-dc3664126953e6a0d640afba397a7df6.png",
+      "md5": "dc3664126953e6a0d640afba397a7df6",
+      "size": 31836,
+      "uploadedDate": "2022-10-13T14:57:01.662Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealisticGrenadeTrajectoryReplicated_featured-894x488-ac573cfdedae8a9b43b25f10aa118add.png",
+      "md5": "ac573cfdedae8a9b43b25f10aa118add",
+      "size": 67361,
+      "uploadedDate": "2022-10-13T14:57:01.746Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG2-1920x1080-f98791e1690698d459d540986938ecd5_Snapshot.png",
+      "md5": "6a35f3ed5e61fa090c904ab78a221df8",
+      "size": 2673,
+      "uploadedDate": "2022-10-13T14:57:00.838Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG1-1920x1080-49f069534f473004850419215124fc1d_Snapshot.png",
+      "md5": "78c8450f2db081bb70553bd0a788c976",
+      "size": 3964,
+      "uploadedDate": "2022-10-13T14:57:01.217Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IMG3-1920x1080-6da1aaeed3c4c091910baf7c354652f8_Snapshot.png",
+      "md5": "bc340c46917d4ee6c3c8f2a7b94e228b",
+      "size": 4171,
+      "uploadedDate": "2022-10-13T14:57:01.600Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a8e451eda0134bf996f4bc6a2c4630ff"
+    }
+  ],
+  "catalogNs": null
+}

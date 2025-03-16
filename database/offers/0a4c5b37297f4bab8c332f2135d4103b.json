@@ -1,0 +1,170 @@
+{
+  "id": "0a4c5b37297f4bab8c332f2135d4103b",
+  "namespace": "ue",
+  "title": "Holo Hands Tracking",
+  "description": "Use custom skeletal mesh to represent hands in HoloLens 2 mixed reality",
+  "longDescription": "<p>This plugin provides representation of hand on devices supporting hand tracking via OpenXR. Hand tracking data is used to update pose of skeletal mesh. Each finger bone of model is scaled accurately to fit tracked data.</p><p>Note 1: Currently, it works only with HoloLens 2, because Quest 2 doesn&#39;t stream hand tracking data via OpenXR interface.</p><p>Note 2: The plugin is intended to use with full-fledged hand tracking, and not hand pose prediction by sensors of VR motion controller.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;cKVXszg7vxI\" rel=\"nofollow\">Demo Video</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "holo-hands-tracking",
+  "creationDate": "2022-12-10T20:03:04.548Z",
+  "lastModifiedDate": "2024-10-15T16:46:20.934Z",
+  "effectiveDate": "2022-12-10T20:03:04.508Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8ba954a7a34115b5479ff854fbfe78",
+    "name": "Yuri N Kalinin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>very easy to setup</li><li>supports skeletal meshes with custom skeleton</li><li>sources included</li><li>work in native packaged projects as well as OpenXR Holographic Remoting</li></ul><p>Code Modules:</p><ul><li>HoloHandsTracking (Runtime)</li><li>HoloHandsUncooked (UncookedOnly)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1 (HoloHandSkeletalMeshComponent)</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows x64</p><p>Supported Target Build Platforms: Windows x64, HoloLens 2 (Windows Holographic)</p><p>Documentation: [<a href=\"https://docs.google.com/document/d/1BO-OUmIo1ypP-_wFTAxkduNE_IV7nxlJ/edit?usp&#61;share_link&amp;ouid&#61;117603829885824609100&amp;rtpof&#61;true&amp;sd&#61;true\" rel=\"nofollow\">DOC</a>]</p><p>Example Project: [<a href=\"https://drive.google.com/file/d/1hlgM-sLINJOU-Rjmcqoi6Ox6ePGHADqt/view?usp&#61;share_link\" rel=\"nofollow\">5.1</a>]</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ecb7953e-b0a3-4994-8ab4-a8ed9e3587f6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-b54cf20a00521257abce3666465071e0.png",
+      "md5": "b54cf20a00521257abce3666465071e0",
+      "size": 1254008,
+      "uploadedDate": "2022-12-09T10:35:01.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-c460388c8f1666f7de5187100b3fc2ac.png",
+      "md5": "c460388c8f1666f7de5187100b3fc2ac",
+      "size": 1124310,
+      "uploadedDate": "2022-12-09T10:35:01.734Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-84bcb0f69a766f605bb37c9f9cd838c6.png",
+      "md5": "84bcb0f69a766f605bb37c9f9cd838c6",
+      "size": 528788,
+      "uploadedDate": "2022-12-09T10:35:02.335Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HoloHandsTracking_thumb-284x284-1fb2a3a4187b13cb908ac8b8b0f63650.png",
+      "md5": "1fb2a3a4187b13cb908ac8b8b0f63650",
+      "size": 52222,
+      "uploadedDate": "2022-12-09T10:35:02.643Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HoloHandsTracking_featured-894x488-b328fdb0236489d819ce0e5696e24bd0.png",
+      "md5": "b328fdb0236489d819ce0e5696e24bd0",
+      "size": 346821,
+      "uploadedDate": "2022-12-09T10:35:02.939Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-b54cf20a00521257abce3666465071e0_Snapshot.png",
+      "md5": "682cdf6326009ab56fccda04e786a520",
+      "size": 5949,
+      "uploadedDate": "2022-12-09T10:35:01.344Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-c460388c8f1666f7de5187100b3fc2ac_Snapshot.png",
+      "md5": "832d97200fd0dacdcf1852ea1470d1ad",
+      "size": 4455,
+      "uploadedDate": "2022-12-09T10:35:02.055Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-84bcb0f69a766f605bb37c9f9cd838c6_Snapshot.png",
+      "md5": "bc60d5b97444840354975e58e8baa61b",
+      "size": 4123,
+      "uploadedDate": "2022-12-09T10:35:02.594Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "51b36a376fc64b4c9a15f8f4dd763634"
+    }
+  ],
+  "catalogNs": null
+}

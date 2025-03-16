@@ -1,0 +1,851 @@
+{
+  "id": "7cfcee36084044c7bceb6315f5d7708d",
+  "namespace": "ue",
+  "title": "Car Asset Sedan",
+  "description": "Sedan Car prop for use in  ArchViz or game environments",
+  "longDescription": "<p>This pack provides a uniquely designed Sedan car prop intended for use in ArchViz or game environments.</p><p><br /></p><p>The intent is to provide a realistic vehicle asset that compliments a wide variety of real time settings while not distracting from the surroundings. The asset provides a sense of scale and adds a layer of detail to any contemporary environment.</p><p><br /></p><p><br /></p><p>The asset strikes the balance between not overpowering a scene while being detailed enough to not distract from a scene through a lack of quality. The unique and neutral car design avoids potential issues of licensing and keeps the focus on it&#39;s context. A simplistic interior is provided to maintain a balance between performance and the intended use of the asset.</p><p><br /></p><p><br /></p><p>Adjustments can be made to the appearance of the car, including the colours of exterior and interior elements. A universal layer of dirt, grime and waterspots can be controlled, and groupings of lights can be switched on and off.</p><p><br /></p><p>The dirt and light elements are controlled through a single Material Parameters Collection asset that applies the changes cohesively to all affected materials.</p><p><br /></p><p>The Asset is intended for use as a static prop and does not feature moveable parts or any rigging.</p><p>The Daylight Demaonstration scene with assets and materials are included.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "car-asset-sedan",
+  "creationDate": "2019-12-13T20:08:41.251Z",
+  "lastModifiedDate": "2024-10-03T20:14:15.253Z",
+  "effectiveDate": "2019-12-13T20:08:41.196Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nx38dshbcsvvhbf6a7fefhfhr46mr9",
+    "name": "huiz"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li>  Unique car design to avoid issues with licensing and distractions in your scene</li><li> Optimized mesh with consideration given to the balance of detail based on the intended use</li><li> Custom lightmass UV channel for use with baked lightmaps</li><li>Adjust dirt and grime levels from a single point across all materials</li><li>Adjust car paint colour and properties</li><li>Switch light groups on and off, and adjust brightness </li></ul><p>Props scaled to Epic skeleton: Yes</p><p>Texture Size : 8192x8192, 4096x4096, 2048x2048, 1024x1024, 512x512, 256x256</p><p>Collision: Yes, automatically generated</p><p>Vertex Count:   79, 243(LOD 0) - 9, 904(LOD3) (Car)</p><p>LODs: Yes, automatically generated</p><p>Number of Meshes: 37 (Car: 1 mesh - Environment: 38 Meshes)</p><p>Number of Materials and Material Instances: 30 Materials - 40 Material Instances (Car: 9 Materials, 23 Material Instances - Environment: 15 Materials, 14 Material Instances)</p><p>Number of Textures: 64 (Car: 19 Textures - Environment: 45 Textures)</p><p>Supported Development Platforms: Tested on Windows PC</p><p>Supported Target Build Platforms: Tested on Windows PC</p><p>Documentation: None</p><p>Important/Additional Notes: None</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/archvis"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1276",
+      "name": "DYNAMIC NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:35.735Z",
+      "updated": "2019-06-20T12:00:35.735Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "01100b99-56c4-42f6-a1a3-dd553fa88126"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan01-1920x1080-a80af7758c528e6cf4aca7670e960fee.jpg",
+      "md5": "a80af7758c528e6cf4aca7670e960fee",
+      "size": 1116971,
+      "uploadedDate": "2019-12-09T05:50:29.804Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan02-1920x1080-62fb5e88d0953b7043a4dcf72fe78767.jpg",
+      "md5": "62fb5e88d0953b7043a4dcf72fe78767",
+      "size": 1227803,
+      "uploadedDate": "2019-12-09T05:50:30.258Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan03-1920x1080-ee6ced2bb62dbb32cabf6b76f4d0aa32.jpg",
+      "md5": "ee6ced2bb62dbb32cabf6b76f4d0aa32",
+      "size": 829770,
+      "uploadedDate": "2019-12-09T05:50:30.694Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan04-1920x1080-c357dbf50c58247298a39c2632f1e78b.jpg",
+      "md5": "c357dbf50c58247298a39c2632f1e78b",
+      "size": 804072,
+      "uploadedDate": "2019-12-09T05:50:31.293Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan05-1920x1080-437f8b79b2db53820033e2dbfa5459bf.jpg",
+      "md5": "437f8b79b2db53820033e2dbfa5459bf",
+      "size": 864043,
+      "uploadedDate": "2019-12-09T05:50:31.757Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan06-1920x1080-63342fd0e0fc7049bf00221183ac2219.jpg",
+      "md5": "63342fd0e0fc7049bf00221183ac2219",
+      "size": 1497491,
+      "uploadedDate": "2019-12-09T05:50:32.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan07-1920x1080-018344d6757b22ee090f3623430e4c74.jpg",
+      "md5": "018344d6757b22ee090f3623430e4c74",
+      "size": 1320789,
+      "uploadedDate": "2019-12-09T05:50:32.871Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan08-1920x1080-4b3409fd6f170ae8a921fb23fc527a7e.jpg",
+      "md5": "4b3409fd6f170ae8a921fb23fc527a7e",
+      "size": 1134921,
+      "uploadedDate": "2019-12-09T05:50:33.310Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan09-1920x1080-a9335f62952b6e5eaa21b60a9a12ee50.jpg",
+      "md5": "a9335f62952b6e5eaa21b60a9a12ee50",
+      "size": 1355269,
+      "uploadedDate": "2019-12-09T05:50:33.723Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan10-1920x1080-5d090d2870550a20570ddbda635a46ae.jpg",
+      "md5": "5d090d2870550a20570ddbda635a46ae",
+      "size": 1361525,
+      "uploadedDate": "2019-12-09T05:50:34.137Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan11-1920x1080-df8685650c3cdea20303f9bb1f18448a.jpg",
+      "md5": "df8685650c3cdea20303f9bb1f18448a",
+      "size": 1375186,
+      "uploadedDate": "2019-12-09T05:50:34.595Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan12-1920x1080-ff5bc7cce9ec995821a2a888962afd55.jpg",
+      "md5": "ff5bc7cce9ec995821a2a888962afd55",
+      "size": 1422721,
+      "uploadedDate": "2019-12-09T05:50:35.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan13-1920x1080-94e0d7b7d0c35e79c11dd475ad2c7c1e.jpg",
+      "md5": "94e0d7b7d0c35e79c11dd475ad2c7c1e",
+      "size": 779121,
+      "uploadedDate": "2019-12-09T05:50:35.623Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan14-1920x1080-f574b6c3035739faac24f00db016de8c.jpg",
+      "md5": "f574b6c3035739faac24f00db016de8c",
+      "size": 952949,
+      "uploadedDate": "2019-12-09T05:50:36.078Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan15-1920x1080-f8b63989ea82c9c9688157ca822f9ff3.jpg",
+      "md5": "f8b63989ea82c9c9688157ca822f9ff3",
+      "size": 836936,
+      "uploadedDate": "2019-12-09T05:50:36.703Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan16-1920x1080-4330d278d7824ba26bdc3501c7a5b876.jpg",
+      "md5": "4330d278d7824ba26bdc3501c7a5b876",
+      "size": 1022210,
+      "uploadedDate": "2019-12-09T05:50:37.156Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan17-1920x1080-b1509a034bf1688a6c12bc963270616a.jpg",
+      "md5": "b1509a034bf1688a6c12bc963270616a",
+      "size": 1051266,
+      "uploadedDate": "2019-12-09T05:50:37.651Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan18-1920x1080-3e59054b1f3b40c6484303f37a04476d.jpg",
+      "md5": "3e59054b1f3b40c6484303f37a04476d",
+      "size": 969395,
+      "uploadedDate": "2019-12-09T05:50:38.083Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sedan19-1920x1080-0cee211de72493c3d1acd8cae022ab7a.jpg",
+      "md5": "0cee211de72493c3d1acd8cae022ab7a",
+      "size": 508570,
+      "uploadedDate": "2019-12-09T05:57:26.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CarAssetSedan_thumb-284x284-450d98708beafdc0abb7cc44c1eea280.png",
+      "md5": "450d98708beafdc0abb7cc44c1eea280",
+      "size": 214441,
+      "uploadedDate": "2019-12-07T21:01:52.156Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CarAssetSedan_featured-894x488-d769755a157040f0e8095522b6a3e495.png",
+      "md5": "d769755a157040f0e8095522b6a3e495",
+      "size": 1088550,
+      "uploadedDate": "2019-12-07T21:01:52.293Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan19-1920x1080-0cee211de72493c3d1acd8cae022ab7a_Snapshot.jpg",
+      "md5": "04c6a7bd64f537ad6ae14269e1bdcfcb",
+      "size": 5644,
+      "uploadedDate": "2019-12-09T05:57:26.653Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan01-1920x1080-a80af7758c528e6cf4aca7670e960fee_Snapshot.jpg",
+      "md5": "e418c47663002229034b636fbfbadee5",
+      "size": 7222,
+      "uploadedDate": "2019-12-09T05:50:30.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan02-1920x1080-62fb5e88d0953b7043a4dcf72fe78767_Snapshot.jpg",
+      "md5": "7d4ee9e6f29a72b5d987ab4a96321e48",
+      "size": 7108,
+      "uploadedDate": "2019-12-09T05:50:30.567Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan03-1920x1080-ee6ced2bb62dbb32cabf6b76f4d0aa32_Snapshot.jpg",
+      "md5": "2f91985c49a1683c25f2706fef6403c0",
+      "size": 6100,
+      "uploadedDate": "2019-12-09T05:50:31.159Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan04-1920x1080-c357dbf50c58247298a39c2632f1e78b_Snapshot.jpg",
+      "md5": "b5e3d87dad132d79c9f4d2ad96ea2a12",
+      "size": 5360,
+      "uploadedDate": "2019-12-09T05:50:31.580Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan05-1920x1080-437f8b79b2db53820033e2dbfa5459bf_Snapshot.jpg",
+      "md5": "f0d3e478ffb6a3e7e823c4c73f2c8b3b",
+      "size": 5859,
+      "uploadedDate": "2019-12-09T05:50:32.102Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan06-1920x1080-63342fd0e0fc7049bf00221183ac2219_Snapshot.jpg",
+      "md5": "d186a3c8e7c27c6aa766747a5bc9e2ce",
+      "size": 7140,
+      "uploadedDate": "2019-12-09T05:50:32.724Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan07-1920x1080-018344d6757b22ee090f3623430e4c74_Snapshot.jpg",
+      "md5": "3d3091200e7f5b577c6bff4eb602565e",
+      "size": 7824,
+      "uploadedDate": "2019-12-09T05:50:33.154Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan08-1920x1080-4b3409fd6f170ae8a921fb23fc527a7e_Snapshot.jpg",
+      "md5": "a2df800bae03af2f7f5be8a48b8180a9",
+      "size": 6787,
+      "uploadedDate": "2019-12-09T05:50:33.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan09-1920x1080-a9335f62952b6e5eaa21b60a9a12ee50_Snapshot.jpg",
+      "md5": "88912737d2b09e90743c5a21b8657a0c",
+      "size": 7131,
+      "uploadedDate": "2019-12-09T05:50:34.009Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan10-1920x1080-5d090d2870550a20570ddbda635a46ae_Snapshot.jpg",
+      "md5": "8df61f35e492d04d0a4da40df73f0c77",
+      "size": 7153,
+      "uploadedDate": "2019-12-09T05:50:34.439Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan11-1920x1080-df8685650c3cdea20303f9bb1f18448a_Snapshot.jpg",
+      "md5": "7778b75396a8aa7c5e912e55594ed6ed",
+      "size": 7187,
+      "uploadedDate": "2019-12-09T05:50:34.902Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan12-1920x1080-ff5bc7cce9ec995821a2a888962afd55_Snapshot.jpg",
+      "md5": "2a633a94e8724b22f7e08ef48640754e",
+      "size": 7258,
+      "uploadedDate": "2019-12-09T05:50:35.440Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan13-1920x1080-94e0d7b7d0c35e79c11dd475ad2c7c1e_Snapshot.jpg",
+      "md5": "36b347629458adeb6004ba872c069ff1",
+      "size": 5026,
+      "uploadedDate": "2019-12-09T05:50:35.936Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan14-1920x1080-f574b6c3035739faac24f00db016de8c_Snapshot.jpg",
+      "md5": "02ff62d0c9f5cb540f21641e2bfcb24d",
+      "size": 5792,
+      "uploadedDate": "2019-12-09T05:50:36.435Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan15-1920x1080-f8b63989ea82c9c9688157ca822f9ff3_Snapshot.jpg",
+      "md5": "918a6241048db64e65a5cae22f64d7a2",
+      "size": 4236,
+      "uploadedDate": "2019-12-09T05:50:36.983Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan16-1920x1080-4330d278d7824ba26bdc3501c7a5b876_Snapshot.jpg",
+      "md5": "c27180413ef2335397c5a667ff8353bc",
+      "size": 4375,
+      "uploadedDate": "2019-12-09T05:50:37.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan17-1920x1080-b1509a034bf1688a6c12bc963270616a_Snapshot.jpg",
+      "md5": "7a6c91df0e6bb8bea43aceb3f6c09a8f",
+      "size": 4508,
+      "uploadedDate": "2019-12-09T05:50:37.931Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan18-1920x1080-3e59054b1f3b40c6484303f37a04476d_Snapshot.jpg",
+      "md5": "9caad672d7a6f76f324dd61949046eba",
+      "size": 4251,
+      "uploadedDate": "2019-12-09T05:50:38.365Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan01-1920x1080-2f750087f9a61f06ff8ed195c5594342_Snapshot.jpg",
+      "md5": "d7d637573004958e626766335999c068",
+      "size": 7352,
+      "uploadedDate": "2019-12-07T21:01:52.081Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan01-1920x1080-2f750087f9a61f06ff8ed195c5594342_Snapshot.jpg",
+      "md5": "d7d637573004958e626766335999c068",
+      "size": 7352,
+      "uploadedDate": "2019-11-16T13:22:34.056Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan02-1920x1080-c409521c9c93cc75659023bd978273e5_Snapshot.jpg",
+      "md5": "5e9c3739feccb8ad30203c57d7957b75",
+      "size": 7062,
+      "uploadedDate": "2019-11-16T13:22:34.666Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan03-1920x1080-7ce4ba0a7410b4da7a80ede2cacf9bb7_Snapshot.jpg",
+      "md5": "c0dfcdc38861cd414fcb40658d8daff2",
+      "size": 6016,
+      "uploadedDate": "2019-11-16T13:22:35.173Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan04-1920x1080-1fbf1b39f855faea8c4397484aeae705_Snapshot.jpg",
+      "md5": "3ea70264e57feec908ceeed91741fdee",
+      "size": 5272,
+      "uploadedDate": "2019-11-16T13:22:35.584Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan05-1920x1080-86fd3fc2ed2d962450253b254e3159cc_Snapshot.jpg",
+      "md5": "be26c800b3f0dbd721be80f02b79911d",
+      "size": 6220,
+      "uploadedDate": "2019-11-16T13:22:36.120Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan06-1920x1080-a64c10a9d9337d79641b2222604c52c1_Snapshot.jpg",
+      "md5": "a0a7c48d00dcc152831d429281bec7fa",
+      "size": 6798,
+      "uploadedDate": "2019-11-16T13:22:36.570Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan07-1920x1080-79c3f5a104543f69f9a969e40db5ddfe_Snapshot.jpg",
+      "md5": "119db3bf8f7a398907b3a205ff740e6f",
+      "size": 7432,
+      "uploadedDate": "2019-11-16T13:22:37.098Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan08-1920x1080-ca4dc155321b91153711d1fa4aa89e3d_Snapshot.jpg",
+      "md5": "d28a7df4eba2b7d742beafac974e22b5",
+      "size": 6133,
+      "uploadedDate": "2019-11-16T13:22:37.612Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan09-1920x1080-a9335f62952b6e5eaa21b60a9a12ee50_Snapshot.jpg",
+      "md5": "88912737d2b09e90743c5a21b8657a0c",
+      "size": 7131,
+      "uploadedDate": "2019-11-16T13:22:38.119Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan10-1920x1080-5d090d2870550a20570ddbda635a46ae_Snapshot.jpg",
+      "md5": "8df61f35e492d04d0a4da40df73f0c77",
+      "size": 7153,
+      "uploadedDate": "2019-11-16T13:22:38.610Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan11-1920x1080-df8685650c3cdea20303f9bb1f18448a_Snapshot.jpg",
+      "md5": "7778b75396a8aa7c5e912e55594ed6ed",
+      "size": 7187,
+      "uploadedDate": "2019-11-16T13:22:39.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan12-1920x1080-ff5bc7cce9ec995821a2a888962afd55_Snapshot.jpg",
+      "md5": "2a633a94e8724b22f7e08ef48640754e",
+      "size": 7258,
+      "uploadedDate": "2019-11-16T13:22:39.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan13-1920x1080-aa67513c55e08804f114a0d8db71cc4a_Snapshot.jpg",
+      "md5": "da63ab64b1ec12c373c4dee02871a19e",
+      "size": 5871,
+      "uploadedDate": "2019-11-16T13:22:40.052Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan14-1920x1080-98f0676108075b6b4dfe3ec7d9fcc336_Snapshot.jpg",
+      "md5": "021863f83da26fc439c8738f9f899ce1",
+      "size": 6113,
+      "uploadedDate": "2019-11-16T13:22:40.605Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan15-1920x1080-78888eb9679a27c7e24831a4516c902d_Snapshot.jpg",
+      "md5": "0db9b8cb2430921e8406a909f932da4c",
+      "size": 4508,
+      "uploadedDate": "2019-11-16T13:22:41.048Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan16-1920x1080-5a2c27686964ad7f0834c0656d3fd55a_Snapshot.jpg",
+      "md5": "ee306665bda7cfe9ce88d3fb7ce1e29e",
+      "size": 4872,
+      "uploadedDate": "2019-11-16T13:22:41.472Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan17-1920x1080-e976f6cc24973a2b8223e871498d1822_Snapshot.jpg",
+      "md5": "6cbe888b34e7ea45e4cf7de924b3c1c2",
+      "size": 4626,
+      "uploadedDate": "2019-11-16T13:22:41.888Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan18-1920x1080-121b47dd19388826fa4f5b0714df55d7_Snapshot.jpg",
+      "md5": "7071ead9ebeefc20bdfd17594b974824",
+      "size": 5789,
+      "uploadedDate": "2019-11-16T13:22:42.310Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan01-1920x1080-2f750087f9a61f06ff8ed195c5594342_Snapshot.jpg",
+      "md5": "d7d637573004958e626766335999c068",
+      "size": 7352,
+      "uploadedDate": "2019-11-16T12:26:35.803Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan02-1920x1080-c409521c9c93cc75659023bd978273e5_Snapshot.jpg",
+      "md5": "5e9c3739feccb8ad30203c57d7957b75",
+      "size": 7062,
+      "uploadedDate": "2019-11-16T12:26:36.356Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan03-1920x1080-7ce4ba0a7410b4da7a80ede2cacf9bb7_Snapshot.jpg",
+      "md5": "c0dfcdc38861cd414fcb40658d8daff2",
+      "size": 6016,
+      "uploadedDate": "2019-11-16T12:26:36.872Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan04-1920x1080-3c1d2bcbf8e0a012727b2fd84b80dc60_Snapshot.jpg",
+      "md5": "594e2ce616665ad8c6ed31feb580fd9b",
+      "size": 5272,
+      "uploadedDate": "2019-11-16T12:26:37.377Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan05-1920x1080-86fd3fc2ed2d962450253b254e3159cc_Snapshot.jpg",
+      "md5": "be26c800b3f0dbd721be80f02b79911d",
+      "size": 6220,
+      "uploadedDate": "2019-11-16T12:26:37.930Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan06-1920x1080-1ee8775f4f441554b156ba7a7704ef2b_Snapshot.jpg",
+      "md5": "ed471ad1c4192fd5b353fafbdad61c54",
+      "size": 6908,
+      "uploadedDate": "2019-11-16T12:26:38.443Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan07-1920x1080-79c3f5a104543f69f9a969e40db5ddfe_Snapshot.jpg",
+      "md5": "119db3bf8f7a398907b3a205ff740e6f",
+      "size": 7432,
+      "uploadedDate": "2019-11-16T12:26:38.980Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan08-1920x1080-ca4dc155321b91153711d1fa4aa89e3d_Snapshot.jpg",
+      "md5": "d28a7df4eba2b7d742beafac974e22b5",
+      "size": 6133,
+      "uploadedDate": "2019-11-16T12:26:39.494Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan09-1920x1080-a9335f62952b6e5eaa21b60a9a12ee50_Snapshot.jpg",
+      "md5": "88912737d2b09e90743c5a21b8657a0c",
+      "size": 7131,
+      "uploadedDate": "2019-11-16T12:26:39.962Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan10-1920x1080-5d090d2870550a20570ddbda635a46ae_Snapshot.jpg",
+      "md5": "8df61f35e492d04d0a4da40df73f0c77",
+      "size": 7153,
+      "uploadedDate": "2019-11-16T12:26:40.492Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan11-1920x1080-df8685650c3cdea20303f9bb1f18448a_Snapshot.jpg",
+      "md5": "7778b75396a8aa7c5e912e55594ed6ed",
+      "size": 7187,
+      "uploadedDate": "2019-11-16T12:26:41.024Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan12-1920x1080-ff5bc7cce9ec995821a2a888962afd55_Snapshot.jpg",
+      "md5": "2a633a94e8724b22f7e08ef48640754e",
+      "size": 7258,
+      "uploadedDate": "2019-11-16T12:26:41.568Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan13-1920x1080-2563419355df5e3c220a085fd36e0d30_Snapshot.jpg",
+      "md5": "7951770efb72326a7e88ef9edcd7894d",
+      "size": 5876,
+      "uploadedDate": "2019-11-16T12:26:42.149Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sedan14-1920x1080-98f0676108075b6b4dfe3ec7d9fcc336_Snapshot.jpg",
+      "md5": "021863f83da26fc439c8738f9f899ce1",
+      "size": 6113,
+      "uploadedDate": "2019-11-16T12:26:42.692Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3ea79226b7814800ae6a8c9100a58375"
+    }
+  ],
+  "catalogNs": null
+}

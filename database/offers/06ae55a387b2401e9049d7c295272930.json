@@ -1,0 +1,140 @@
+{
+  "id": "06ae55a387b2401e9049d7c295272930",
+  "namespace": "ue",
+  "title": "Runtime Copy Morph Tools",
+  "description": "This plugin contains a set of BPNodes that manipulate skeletal mesh's morph targets at runtime",
+  "longDescription": "<p>This plugin contains a set of BPNodes that manipulate skeletal mesh&#39;s morph targets at runtime</p><p><br /></p><p>CopyMorphs:<a href=\"https://youtu.be/UCcsfwwJxWk\" rel=\"nofollow\">https://youtu.be/UCcsfwwJxWk</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runtime-copy-morph-tools",
+  "creationDate": "2020-05-14T01:49:28.432Z",
+  "lastModifiedDate": "2024-10-15T05:29:05.540Z",
+  "effectiveDate": "2020-05-14T01:51:26.642Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3gwcasuwfwnxlk8ung7rf86nzpm25v",
+    "name": "XLunatic"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2>Very Important:</h2><ul><li>&#34;DirectX Mobile Emulation&#34; must be turned on in the project settings to use this plugin in UE5.0</li><li>&#34;Use GPU for computing morph targets&#34; must be turned off in the project settings to use this plugin in UE5.0 and UE5.2</li></ul><p><br /></p><p>Features: All of these can be done at runtime</p><ul><li>Copy morph targets to another similarly shaped mesh</li><li>Save morph targets to a JSON file</li><li>Load morph targets from a JSON file</li><li>Bake morph targets to a new morphtarget</li><li>Remove morph targets</li><li>Rename a morph target</li><li>Transfer morph targets between same meshes</li></ul><p><br /></p><p>Code Modules:</p><ul><li>RuntimeCopyMorphTools(runtime)</li></ul><p><br /></p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1RDyt8fJT_XFg1QS4nh9ipo5JH4N6yPQx/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1RDyt8fJT_XFg1QS4nh9ipo5JH4N6yPQx/view?usp&#61;sharing</a></p><p><br /></p><p>Important/Additional Notes:</p><p>CopyMorphs node only loosely copies morph targets, so the clipping may be noticeable. You may be able to reduce the clipping by changing the additional multiply number.</p><p>CopyMorphs node is very heavy and the processing time increases with the number of vertices in the target mesh. So it’s recommended to use this node for meshes within 30000 vertices.</p><p>Morph target tangents may not be created correctly for a mesh that has imported tangents or has changed transformations in import settings.</p><p><br /></p><p><br /></p><p>Support email: lunaticxunrealengine&#64;gmail.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 1473,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "25470bbe-3a94-4f9d-8605-ba0ab3f3585c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RuntimeCopyMorphToolsTopImage-1920x1080-7cd71851cddf97838077c7b45dd485f9.png",
+      "md5": "7cd71851cddf97838077c7b45dd485f9",
+      "size": 1175420,
+      "uploadedDate": "2020-04-22T04:48:33.329Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RuntimeCopyMorphToolsBPNodesImage-1920x1080-80142c4097b8250fcbb3db00ff10bf11.png",
+      "md5": "80142c4097b8250fcbb3db00ff10bf11",
+      "size": 411604,
+      "uploadedDate": "2020-04-22T04:48:33.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RuntimeCopyMorphTools_thumb-284x284-23d631c600240c3c5a39902fb8acfb29.png",
+      "md5": "23d631c600240c3c5a39902fb8acfb29",
+      "size": 107873,
+      "uploadedDate": "2020-04-22T04:48:34.274Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RuntimeCopyMorphTools_featured-894x488-996c768174be851a81bb4e7933e19cb7.png",
+      "md5": "996c768174be851a81bb4e7933e19cb7",
+      "size": 394426,
+      "uploadedDate": "2020-04-22T04:48:34.384Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RuntimeCopyMorphToolsTopImage-1920x1080-7cd71851cddf97838077c7b45dd485f9_Snapshot.png",
+      "md5": "6d28b5be0ceb71908ad2f5c59cf3c71f",
+      "size": 6203,
+      "uploadedDate": "2020-04-22T04:48:33.714Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RuntimeCopyMorphToolsBPNodesImage-1920x1080-80142c4097b8250fcbb3db00ff10bf11_Snapshot.png",
+      "md5": "b3dd17547358b46cd49b35cf6468b0b8",
+      "size": 4258,
+      "uploadedDate": "2020-04-22T04:48:34.178Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2aaf6a74a7aa40a69318ae8c0585fccc"
+    }
+  ],
+  "catalogNs": null
+}

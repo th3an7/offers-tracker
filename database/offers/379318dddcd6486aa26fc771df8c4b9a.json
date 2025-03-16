@@ -1,0 +1,326 @@
+{
+  "id": "379318dddcd6486aa26fc771df8c4b9a",
+  "namespace": "ue",
+  "title": "Shapes Visualizer",
+  "description": "This component allows you to visualize simple shapes: spheres, half spheres, boxes, cylinders, cones, capsules, points and polyline in wireframe and solid mode.",
+  "longDescription": "<p>This component can draw different shapes: spheres, half spheres, boxes, cylinders, cones, capsules, points and polyline in wireframe and solid mode. It is very convenient for displaying debugging information: target search areas, viewing angles, points of interest and others. You just add the component to the actor, select the shape, set its size, visibility settings and that&#39;s it. The shape and its parameters can be changed dynamically.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shapes-visualizer",
+  "creationDate": "2022-09-24T18:13:18.640Z",
+  "lastModifiedDate": "2024-10-15T10:57:15.053Z",
+  "effectiveDate": "2022-09-24T18:13:18.585Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-v9v89l74h3jdltgm3rsug4a83n7nqj",
+    "name": "rionix"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Simple :)</li><li>8 types of shapes are supported</li><li>Wireframe and solid mode</li><li>Different visibility modes: only when selected, editor only or game and editor.</li></ul><p> </p><p>Code Modules:</p><ul><li> ShapesVisualizer (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64, Android</p><p>Documentation: <a href=\"https://github.com/rionix/ShapesVisualizer/wiki\" rel=\"nofollow\">https://github.com/rionix/ShapesVisualizer/wiki</a></p><p>Support: <a href=\"https://github.com/rionix/ShapesVisualizer/issues\" rel=\"nofollow\">https://github.com/rionix/ShapesVisualizer/issues</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1241",
+      "name": "FEMALE PROTAGONIST",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:18.351Z",
+      "updated": "2019-06-20T12:00:18.351Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "34e5c26b-1f47-4d91-8051-0a426a98404e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-48c2f2e3d758f2c1087d4a90e037e299.png",
+      "md5": "48c2f2e3d758f2c1087d4a90e037e299",
+      "size": 270619,
+      "uploadedDate": "2022-09-22T10:44:01.291Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-27cded3409ee16d2ffbea95ae7a1b81f.png",
+      "md5": "27cded3409ee16d2ffbea95ae7a1b81f",
+      "size": 103108,
+      "uploadedDate": "2022-09-22T10:44:01.461Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-a407c13601713c226a55012dda3ab818.png",
+      "md5": "a407c13601713c226a55012dda3ab818",
+      "size": 270567,
+      "uploadedDate": "2022-09-22T10:44:01.618Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-1e403210022013c4ade1374607ace9f5.png",
+      "md5": "1e403210022013c4ade1374607ace9f5",
+      "size": 304760,
+      "uploadedDate": "2022-09-22T10:44:01.791Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleVisualizer_thumb-284x284-e7f4562cdbf3c86d2e5590ada6c10d00.png",
+      "md5": "e7f4562cdbf3c86d2e5590ada6c10d00",
+      "size": 78717,
+      "uploadedDate": "2022-09-20T15:54:09.949Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShapesVisualizer_featured-894x488-fe868391cfd70784e6396b788fe88587.png",
+      "md5": "fe868391cfd70784e6396b788fe88587",
+      "size": 582667,
+      "uploadedDate": "2022-09-22T10:44:02.061Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-48c2f2e3d758f2c1087d4a90e037e299_Snapshot.png",
+      "md5": "8f0208694f9bb996d6214e405fde3335",
+      "size": 6243,
+      "uploadedDate": "2022-09-22T10:44:01.392Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-27cded3409ee16d2ffbea95ae7a1b81f_Snapshot.png",
+      "md5": "edf31b2cdab13070aff712b2ef9a41e1",
+      "size": 5309,
+      "uploadedDate": "2022-09-22T10:44:01.564Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-a407c13601713c226a55012dda3ab818_Snapshot.png",
+      "md5": "2c090cc1ebc88dd9f12650c6cbd533c7",
+      "size": 5207,
+      "uploadedDate": "2022-09-22T10:44:01.694Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-1e403210022013c4ade1374607ace9f5_Snapshot.png",
+      "md5": "e28b57629d7a3933bd43fbd479cc9595",
+      "size": 5259,
+      "uploadedDate": "2022-09-22T10:44:01.911Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2022-09-20 214032-1920x1080-bf32d5164bd0daefbb7b3c74ae838a34_Snapshot.png",
+      "md5": "76e5996b0bdc45315cf84602fa912ac2",
+      "size": 6099,
+      "uploadedDate": "2022-09-20T18:31:05.503Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2022-09-20 212928-1920x1080-35d3209fc3a815799cb0e6b495ab6997_Snapshot.png",
+      "md5": "12050fbf6baaae167b8decbcbe5585f8",
+      "size": 5614,
+      "uploadedDate": "2022-09-20T18:31:05.639Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2022-09-20 220110 1-1920x1080-6b9ce6382643cee317303da7f09e7c02_Snapshot.png",
+      "md5": "4dd144d8ac2755bff807fa78b79b4d19",
+      "size": 4547,
+      "uploadedDate": "2022-09-20T18:31:05.848Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2022-09-20 220038 1-1920x1080-ca911765825a47d49bb88a1ccf158683_Snapshot.png",
+      "md5": "3fe45ae2c44cbeb86d6e49fcfc53b97a",
+      "size": 4721,
+      "uploadedDate": "2022-09-20T18:31:06.010Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2022-09-20 194104-1920x1080-fd49ef470785464506ef14d36010a9eb_Snapshot.png",
+      "md5": "04522be963fceae324152191fdeef711",
+      "size": 4934,
+      "uploadedDate": "2022-09-20T15:54:09.488Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2022-09-20 194027-1920x1080-32846144275c8ac95397e1a01b82cbf5_Snapshot.png",
+      "md5": "6c86fe7f242f8c6806f14d3eb4732143",
+      "size": 5041,
+      "uploadedDate": "2022-09-20T15:54:09.891Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6073625fcc9849e788bc14662e5bbf61"
+    }
+  ],
+  "catalogNs": null
+}

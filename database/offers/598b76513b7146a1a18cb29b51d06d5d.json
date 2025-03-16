@@ -1,0 +1,314 @@
+{
+  "id": "598b76513b7146a1a18cb29b51d06d5d",
+  "namespace": "ue",
+  "title": "Vortex Studio",
+  "description": "The Vortex Studio plugin shares simulation data between Vortex Studio and the Unreal Engine to visualize high-fidelity Vortex physics mechanisms dynamically in Unreal games.",
+  "longDescription": "<p><strong><em>*This plugin does not require an active license to run the simulation.</em></strong></p><p><br /></p><p>CM Labs’ Vortex Studio plugin for Unreal Engine enables users to conduct multi-body dynamics simulations within Unreal Engine using <a href=\"https://www.cm-labs.com/vortex-studio/\" rel=\"nofollow\">Vortex Studio</a>, thereby harnessing its advanced simulation framework.</p><p><br /></p><p>By integrating Vortex Studio with Unreal, users can:</p><ul><li>Simulate advanced multi-body dynamics mechanisms in an Unreal level.</li><li>Expose simulation parameters to Unreal blueprints (get/set) and easily incorporate them into the Unreal level.</li><li>Automatically detect landscape components created in Unreal around a simulated vehicle.</li><li>Provide position and orientation of each simulated body to Unreal Engine, along with parameters and outputs that ensure smooth gameplay through accurate synchronization and realistic movements.</li><li>Manage external hardware devices, such as motion platforms or CANopen compliant devices, to control vehicles and enhance simulations.</li><li>Utilize any diggable or deformable terrain created in Vortex Studio within the Unreal Editor and packaged game, maintaining the same degree of fidelity expected from Vortex Studio&#39;s physics-based soil simulation.</li></ul><p><br /></p><p>See documentation for more information : <a href=\"https://vortexstudio.atlassian.net/wiki/search?text&#61;unreal%20engine\" rel=\"nofollow\">https://vortexstudio.atlassian.net/wiki/search?text&#61;unreal%20engine</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vortex-studio",
+  "creationDate": "2019-12-02T21:45:46.076Z",
+  "lastModifiedDate": "2024-10-15T12:22:37.923Z",
+  "effectiveDate": "2019-12-02T21:57:50.645Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2vkrykr8r3kbuxbd8xddqxb63ghxym",
+    "name": "CM Labs Simulations Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2>Features</h2><ul><li>Enables high-fidelity vehicle dynamics in Unreal, as demonstrated in this video: <a href=\"https://youtu.be/2Jc1ii7iE0Y\" rel=\"nofollow\">https://youtu.be/2Jc1ii7iE0Y</a></li><li>Facilitates the import of Vortex vehicles to Blueprints and provides the position of Vortex objects</li><li>Capable of detecting Unreal landscape meshes and managing simple or complex collisions with static objects around Vortex mechanisms</li><li>Maps Vortex advanced material properties to Unreal physical materials for precise friction calculation</li><li>Compatible with both Unreal Blueprints and source projects</li></ul><p><br /></p><p><strong>Number of C&#43;&#43; classes</strong>: 10 - <strong>Number of Blueprints</strong>: 0 - <strong>Supported OS</strong>: Win11 64bit</p><p><br /></p><p><strong>The plugin requires a licensed Vortex Studio Create when editing Vortex mechanisms.</strong></p><p><br /></p><p><br /></p><p><br /></p><h2>Requirements:</h2><ul><li><a href=\"https://vortexstudio.atlassian.net/wiki/search?text&#61;release%20notes\" rel=\"nofollow\">Vortex Studio Release Notes</a></li><li><a href=\"https://vortexstudio.atlassian.net/wiki/search?text&#61;unreal%20integration\" rel=\"nofollow\">Documentation</a></li><li>A sample project of the integration is available here : <a href=\"https://u.pcloud.link/publink/show?code&#61;7h3italK#folder&#61;11215238438&amp;tpl&#61;publicfoldergrid\" rel=\"nofollow\">https://u.pcloud.link/publink/show?code&#61;7h3italK#folder&#61;11215238438&amp;tpl&#61;publicfoldergrid</a></li></ul><p><br /></p><p>Unreal games using Vortex Studio must be licensed according to CM Labs Simulation Inc. commercial terms.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2bd06ca0-01af-4184-99f2-ebf792bc2120"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Excavator in Unreal-1920x1080-1b3df0894bc740347e44546dfb61bd04.png",
+      "md5": "1b3df0894bc740347e44546dfb61bd04",
+      "size": 452643,
+      "uploadedDate": "2019-11-19T15:32:41.809Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/excavator in Vortex Editor-1920x1080-222083b5b30c2408c71e0e0f8eea9a34.png",
+      "md5": "222083b5b30c2408c71e0e0f8eea9a34",
+      "size": 550799,
+      "uploadedDate": "2019-11-19T15:32:41.474Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal terrain and vehicle2-1920x1080-40a75ccdc731028025266bddd847cb2d.png",
+      "md5": "40a75ccdc731028025266bddd847cb2d",
+      "size": 450837,
+      "uploadedDate": "2019-11-19T15:32:43.314Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Vortex Remote Debugger terrain and vehicle-1920x1080-57ab9d14557a326f21011b0f715977a4.png",
+      "md5": "57ab9d14557a326f21011b0f715977a4",
+      "size": 66418,
+      "uploadedDate": "2019-11-19T15:32:43.097Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/LandscapeComponentUnrealEditor-1920x1080-8bd7b1889774430b0e811af26e53fe63.png",
+      "md5": "8bd7b1889774430b0e811af26e53fe63",
+      "size": 1977687,
+      "uploadedDate": "2019-11-19T15:32:43.862Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VortexRemoteDebuggerLandscape-1920x1080-0a095b72878b5f9e2de49bbd27ce5785.png",
+      "md5": "0a095b72878b5f9e2de49bbd27ce5785",
+      "size": 249971,
+      "uploadedDate": "2019-11-19T15:32:43.512Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VortexStudio_thumb-284x284-2a8e61de88f2c8d581c4c7afb2b855c9.png",
+      "md5": "2a8e61de88f2c8d581c4c7afb2b855c9",
+      "size": 133892,
+      "uploadedDate": "2019-12-02T22:11:01.676Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VortexStudio_featured-894x488-216d47d4b4dbb2af6d9d811d4898aa1c.png",
+      "md5": "216d47d4b4dbb2af6d9d811d4898aa1c",
+      "size": 789801,
+      "uploadedDate": "2020-02-13T21:25:41.274Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/excavator in Vortex Editor-1920x1080-222083b5b30c2408c71e0e0f8eea9a34_Snapshot.png",
+      "md5": "cb7b05d03c50b5a493cd4185951ac916",
+      "size": 5844,
+      "uploadedDate": "2019-11-19T15:32:41.743Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Excavator in Unreal-1920x1080-1b3df0894bc740347e44546dfb61bd04_Snapshot.png",
+      "md5": "38ef69816631a7d680c4beb99d6e025e",
+      "size": 7265,
+      "uploadedDate": "2019-11-19T15:32:41.909Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VortexForwarder-1920x1080-7128c1741280a6d46be4c21c005e3fcc_Snapshot.png",
+      "md5": "f3c7449f44ec7ac1e5e984421c1e48c1",
+      "size": 7233,
+      "uploadedDate": "2019-11-19T15:32:42.273Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealForwarder-1920x1080-b176da0c9ca88c39398601f3b4fde46c_Snapshot.png",
+      "md5": "97eb6bdfe695616dc15fd33f9fbdfece",
+      "size": 7944,
+      "uploadedDate": "2019-11-19T15:32:42.698Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Vortex Remote Debugger terrain and vehicle-1920x1080-57ab9d14557a326f21011b0f715977a4_Snapshot.png",
+      "md5": "90b500f9723adc6b6e327dee63eb59ac",
+      "size": 4363,
+      "uploadedDate": "2019-11-19T15:32:43.188Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal terrain and vehicle2-1920x1080-40a75ccdc731028025266bddd847cb2d_Snapshot.png",
+      "md5": "3b99bdc06d275d98304001aa1745b7aa",
+      "size": 7396,
+      "uploadedDate": "2019-11-19T15:32:43.392Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VortexRemoteDebuggerLandscape-1920x1080-0a095b72878b5f9e2de49bbd27ce5785_Snapshot.png",
+      "md5": "684d9c3023ac7e19b8298962ee75c411",
+      "size": 3755,
+      "uploadedDate": "2019-11-19T15:32:43.729Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LandscapeComponentUnrealEditor-1920x1080-8bd7b1889774430b0e811af26e53fe63_Snapshot.png",
+      "md5": "e7da020e64b44badfbb8fe7a3c41dbe8",
+      "size": 7750,
+      "uploadedDate": "2019-11-19T15:32:44.155Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "42d6c8affa5c483bb134063d0e6044fe"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,551 @@
+{
+  "id": "8929c584611c48f6b7427142b425c355",
+  "namespace": "ue",
+  "title": "Stone Stairs Optimized",
+  "description": "Stone stairs made in HISM technique",
+  "longDescription": "<p><a href=\"https://youtu.be/dqJJ0iRVU1Y\" rel=\"nofollow\">VIDEO</a></p><p>Stone stairs with some advanced controls. High quality and optimized assets. Stairs in this pack are blueprint assets made from static meshes (single stones) using HISM components.</p><p>You can control displacement of the stones (but only those which I hardcoded) with plenty of randomization options. You can toggle Undamaged Stones, toggle Extra Stones (use more mesh variants), shuffle, reorient and rotate them, scale assets up and down and the stone texture scale will be automatically adjusted.</p><p>Textures used here are tileable with additional baked ones for features like object normal, edge wear or dirt. Format: Diffuse/Albedo &#43; NormalMap &#43; RMA (Roughness, Metallic, AO). You can easily swap textures, adjust colors and other parameters to create your own uniqe look of each asset.</p><p>All BP assets are children blueprint classes made from BP_StoneStairs</p><p><br /></p><p><strong>*** UPDATE 1.2 ***</strong></p><ul><li>added Despawner - hide unwanted stairs elements by using simple shapes: sphere, cube and capsule</li></ul><p><br /></p><p><strong>*** UPDATE 1.1 ***</strong></p><ul><li>added 22 wall fillers for stairs</li></ul><p><br /></p><p><strong>*** HOTFIX 1.0.1 ***</strong></p><ul><li>fixed generic normal maps format</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stone-stairs-optimized",
+  "creationDate": "2023-12-01T11:30:46.291Z",
+  "lastModifiedDate": "2024-10-22T14:59:00.054Z",
+  "effectiveDate": "2023-12-01T11:30:46.228Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nuevslt25efgbbryd3lyz9kc9lswc9",
+    "name": "Orangujanusz Store"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Optimized approach (HISM)</li><li>Controllable randomized Displacement of the stones</li><li>Despawner - use it to carve/sculpt in HISM actors with 3 primitive shapes: sphere, cube and capsule</li><li>Controllable scale of the stones</li><li>Shuffle stones (change instances spawn sequence)</li><li>Reorient stones (rerotate instances)</li><li>Turn on/off damaged stones</li><li>Turn on/off additional stones - to increase variety</li><li>Box Controlled Displacement - extra area with controllable Displacement level</li><li>Extra Collisions - for smooth climbing on stairs</li><li>Easy customizable color, edge wear, texture scale &#43; other life hack parameters</li></ul><p><br /></p><p>Number of BP Assets: 51 (26 stairs assets, 22 wall fillers, 3 flat stone platforms)</p><p>Number of Unique Meshes: 37 (14 useful meshes &#43; 23 technical meshes)</p><p>Collision: Yes, automatically generated and custom</p><p>Vertex Count: up to 1108 (2212 tris) for heaviest SM, up to ~5212 tris for heaviest BP</p><p>LODs: Yes (6 or 4 levels depending on complexity)</p><p>Number of Materials and Material Instances: 2 Materials and 10 Material Instances</p><p>Number of Textures: 14</p><p>Texture Resolutions: 4096x4096, 2048x2048, 32x32</p><p>Supported Development Platforms:</p><p>   Windows: Yes</p><p>   Mac: Yes</p><p>Documentation: <a href=\"https://drive.google.com/file/d/10IWRb4Cf-CPzYatAFSSueoewgyktFWK1/view?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Important/Additional Notes: Convert your creations to PLA/BPP to gain performance! <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://docs.unrealengine.com/5.0/en-US/level-instancing-in-unreal-engine/\" rel=\"nofollow\">How to do it</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "72b337c2-ca95-4ff7-bde9-900ac9e39284"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00020-1920x1080-134e82df113aa2490bd08131e4530fd5.jpg",
+      "md5": "134e82df113aa2490bd08131e4530fd5",
+      "size": 881807,
+      "uploadedDate": "2024-01-30T22:38:11.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoneStairsDespawner-1920x1080-7f863b5d5d07c6386fb370acdcdd4a23.jpg",
+      "md5": "7f863b5d5d07c6386fb370acdcdd4a23",
+      "size": 503496,
+      "uploadedDate": "2024-09-06T20:16:54.406Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00015-1920x1080-6861b9d929804dca747a380fbe915e56.jpg",
+      "md5": "6861b9d929804dca747a380fbe915e56",
+      "size": 623835,
+      "uploadedDate": "2024-01-30T22:38:11.427Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00017-1920x1080-cf56369d148e4e0b9a724d9ba20f5d7f.jpg",
+      "md5": "cf56369d148e4e0b9a724d9ba20f5d7f",
+      "size": 648761,
+      "uploadedDate": "2024-01-30T22:38:11.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00016-1920x1080-6f9bcfd253f9cdd5867e6bb02c59f6c5.jpg",
+      "md5": "6f9bcfd253f9cdd5867e6bb02c59f6c5",
+      "size": 676153,
+      "uploadedDate": "2024-01-30T22:38:12.113Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00018-1920x1080-af60bd9e2b8a1a609e34bc77c6d56425.jpg",
+      "md5": "af60bd9e2b8a1a609e34bc77c6d56425",
+      "size": 601185,
+      "uploadedDate": "2024-01-30T22:38:12.529Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00019-1920x1080-1e3e4848055a97aed71b5d3805d1d629.jpg",
+      "md5": "1e3e4848055a97aed71b5d3805d1d629",
+      "size": 569324,
+      "uploadedDate": "2024-01-30T22:38:12.905Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-60277011caa0c501588fd29d1d305b26.jpg",
+      "md5": "60277011caa0c501588fd29d1d305b26",
+      "size": 677628,
+      "uploadedDate": "2023-11-29T01:50:18.180Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-77aaa936dab9fb8f92d3fcc87ea999ec.jpg",
+      "md5": "77aaa936dab9fb8f92d3fcc87ea999ec",
+      "size": 1001652,
+      "uploadedDate": "2023-11-29T01:50:20.563Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00005-1920x1080-72720eb26e93484ba5ed8be6ecf8a933.jpg",
+      "md5": "72720eb26e93484ba5ed8be6ecf8a933",
+      "size": 553905,
+      "uploadedDate": "2023-11-29T01:50:21.167Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00011-1920x1080-bf8a65d4efa94e5b4b05151ee3bc473e.jpg",
+      "md5": "bf8a65d4efa94e5b4b05151ee3bc473e",
+      "size": 685139,
+      "uploadedDate": "2023-11-29T01:50:21.640Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00010-1920x1080-a249e3a42f43572887486c20850b2b60.jpg",
+      "md5": "a249e3a42f43572887486c20850b2b60",
+      "size": 577965,
+      "uploadedDate": "2023-11-29T01:50:22.068Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00013-1920x1080-bfb24f44e574fec18351dd1bcc25c951.jpg",
+      "md5": "bfb24f44e574fec18351dd1bcc25c951",
+      "size": 500167,
+      "uploadedDate": "2024-01-30T22:38:13.294Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00014-1920x1080-4b4f99bc42b05afea48380da26a9d169.jpg",
+      "md5": "4b4f99bc42b05afea48380da26a9d169",
+      "size": 190003,
+      "uploadedDate": "2024-01-30T22:38:13.593Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StoneStairsOptimized_thumb-284x284-3ebbbe4744df9820e477d61054158794.png",
+      "md5": "3ebbbe4744df9820e477d61054158794",
+      "size": 184233,
+      "uploadedDate": "2024-01-30T22:38:13.866Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StoneStairsOptimized_featured-894x488-ff10e0a7be9f3de7e3a23fd03c214291.png",
+      "md5": "ff10e0a7be9f3de7e3a23fd03c214291",
+      "size": 884044,
+      "uploadedDate": "2024-01-30T22:38:13.959Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoneStairsDespawner-1920x1080-7f863b5d5d07c6386fb370acdcdd4a23_Snapshot.jpg",
+      "md5": "a1263b60cb1473b622910a0aadacb771",
+      "size": 4952,
+      "uploadedDate": "2024-09-06T20:16:54.648Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00020-1920x1080-134e82df113aa2490bd08131e4530fd5_Snapshot.jpg",
+      "md5": "576aa556fc61d2af68e45f79b401a4f9",
+      "size": 9338,
+      "uploadedDate": "2024-01-30T22:38:11.235Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00015-1920x1080-6861b9d929804dca747a380fbe915e56_Snapshot.jpg",
+      "md5": "501e06c1e266350580981ccb551b5005",
+      "size": 5424,
+      "uploadedDate": "2024-01-30T22:38:11.598Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00017-1920x1080-cf56369d148e4e0b9a724d9ba20f5d7f_Snapshot.jpg",
+      "md5": "1dc25119059384a202746b59b5a88f34",
+      "size": 6956,
+      "uploadedDate": "2024-01-30T22:38:11.976Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00016-1920x1080-6f9bcfd253f9cdd5867e6bb02c59f6c5_Snapshot.jpg",
+      "md5": "800a019b50b790ac9810aed78cc7f694",
+      "size": 6919,
+      "uploadedDate": "2024-01-30T22:38:12.308Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00018-1920x1080-af60bd9e2b8a1a609e34bc77c6d56425_Snapshot.jpg",
+      "md5": "42e3cbe3235fbba0a8e267972026462d",
+      "size": 5454,
+      "uploadedDate": "2024-01-30T22:38:12.785Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00019-1920x1080-1e3e4848055a97aed71b5d3805d1d629_Snapshot.jpg",
+      "md5": "2869bcd385aa7d21af6b958d5e1fecb7",
+      "size": 4943,
+      "uploadedDate": "2024-01-30T22:38:13.132Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00013-1920x1080-bfb24f44e574fec18351dd1bcc25c951_Snapshot.jpg",
+      "md5": "0489b6f5d2d07e724d8fe5b5c8defb44",
+      "size": 6104,
+      "uploadedDate": "2024-01-30T22:38:13.469Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00014-1920x1080-4b4f99bc42b05afea48380da26a9d169_Snapshot.jpg",
+      "md5": "3f636231287787015b13477c72801107",
+      "size": 6660,
+      "uploadedDate": "2024-01-30T22:38:13.751Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-0fb9f48237a93a7457c12766953dcf9b_Snapshot.jpg",
+      "md5": "bdb2f8900bdfa9f307f50cb54c275217",
+      "size": 9301,
+      "uploadedDate": "2023-11-29T01:50:17.584Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-2bf7add8c14440071502d9977ea69b2b_Snapshot.jpg",
+      "md5": "e9ffb3848f2df38ca24fbc779a744470",
+      "size": 4995,
+      "uploadedDate": "2023-11-29T01:50:17.989Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-60277011caa0c501588fd29d1d305b26_Snapshot.jpg",
+      "md5": "b903968f2748671bbe0ef41ae4721817",
+      "size": 5603,
+      "uploadedDate": "2023-11-29T01:50:18.457Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-18df8813165bb617132cedd8af3c24ae_Snapshot.jpg",
+      "md5": "b164deb5f073c8233592801bc3db7ff2",
+      "size": 5048,
+      "uploadedDate": "2023-11-29T01:50:18.910Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-4025db3f1dddbeb389979eea2f50c4d0_Snapshot.jpg",
+      "md5": "9a9a7054ea98c9d495fe1571bc498c62",
+      "size": 6790,
+      "uploadedDate": "2023-11-29T01:50:19.411Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00009-1920x1080-06f98213ee9b66c1cd3c1f83398ff0a9_Snapshot.jpg",
+      "md5": "8992d9d1dcdf6345491d6eba331a8180",
+      "size": 4978,
+      "uploadedDate": "2023-11-29T01:50:19.852Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-a40ef80f3f05fce2e99560825ed58a4a_Snapshot.jpg",
+      "md5": "d713d64843cc69a320e27492f74cda7b",
+      "size": 6674,
+      "uploadedDate": "2023-11-29T01:50:20.298Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-77aaa936dab9fb8f92d3fcc87ea999ec_Snapshot.jpg",
+      "md5": "d96fa74929b35e7c048e26d7b12fd713",
+      "size": 8016,
+      "uploadedDate": "2023-11-29T01:50:20.961Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00005-1920x1080-72720eb26e93484ba5ed8be6ecf8a933_Snapshot.jpg",
+      "md5": "4daa1ddd00159072bc3a617dae985ef7",
+      "size": 5215,
+      "uploadedDate": "2023-11-29T01:50:21.428Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00011-1920x1080-bf8a65d4efa94e5b4b05151ee3bc473e_Snapshot.jpg",
+      "md5": "f0e1174328f9b3772ba8879db9efebc9",
+      "size": 7274,
+      "uploadedDate": "2023-11-29T01:50:21.907Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00010-1920x1080-a249e3a42f43572887486c20850b2b60_Snapshot.jpg",
+      "md5": "7ebb00143365638c36f6803784b9feca",
+      "size": 5290,
+      "uploadedDate": "2023-11-29T01:50:22.378Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-aeae33d5f4fa570dbe610e51f53efa58_Snapshot.jpg",
+      "md5": "324b564ab358d04055282f657d2d74fe",
+      "size": 5289,
+      "uploadedDate": "2023-11-29T01:50:22.803Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2eb3f3d6e7e849c394d4ab3c43a163bd"
+    }
+  ],
+  "catalogNs": null
+}

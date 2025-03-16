@@ -1,0 +1,188 @@
+{
+  "id": "4eca684f9f4d47b5ad3cf6b0413a6cb4",
+  "namespace": "ue",
+  "title": "RemoteLog Plugin",
+  "description": "Sends your game runtime logs to a remote TCP server.",
+  "longDescription": "<p>This plugin sends your game runtime logs to a remote TCP server, it only creates the tcp client.</p><p>Captures messages from:</p><p>- Blueprint PrintString node</p><p>- UE_LOG c&#43;&#43; macro</p><p><br /></p><p>It works like a global listener, sending all your debug messages to a remote TCP server.</p><p><br /></p><p>Watch the presentation video:</p><p><a href=\"https://www.youtube.com/watch?v&#61;C_J6jqe6UZI\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;C_J6jqe6UZI</a></p><p><br /></p><p><strong>**this plugin only provides the tcp client </strong></p><p><br /></p><p><strong>To make your life easier i created free utilities but are not officially supported or part of this plugin (use at your own risk)</strong>:</p><p>- python script to run a local tcp server (should work in most OS&#39;s Win,Mac,Linux)</p><p>- ServerUtility.exe (windows exclusively) creates a tcp server and resends all log messages to any other tcp and websocket clients</p><p><br /></p><p>Plugin tested with Windows 10 for :</p><p>- Blueprint only projects</p><p>- code projects</p><p>- VR projects</p><p>- Android projects</p><p>- Multiplayer projects</p><p><strong>- packaged projects &#34;Development builds&#34; only</strong></p><p><br /></p><p>Easy to use, a quick start is just to drag the Blueprint actor provided in each of your levels, in its properties set the ip and port, thats it.</p><p><br /></p><p>User manual:</p><p><a href=\"http://motion.mx/ue4/remotelog/manual.pdf\" rel=\"nofollow\">http://motion.mx/ue4/remotelog/manual.pdf</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "remotelog-plugin",
+  "creationDate": "2018-09-21T18:19:06.492Z",
+  "lastModifiedDate": "2024-10-15T06:35:54.375Z",
+  "effectiveDate": "2018-09-21T18:19:06.460Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-01390661464bf08740ea805ac2a9bd",
+    "name": "luis alberto"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Sends game runtime log messages to a remote tcp server</li><li>Exposes log messages to Blueprints</li><li>Allows to create a tcp client using Blueprints (only the client not the server)</li></ul><p><strong>Code Modules</strong>:</p><ul><li> RemoteLog module [Runtime][Development builds] </li></ul><p><strong>Number of Blueprints</strong>: 1</p><p><strong>Number of C&#43;&#43; Classes</strong>: 8</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>: Win10</p><p><strong>Supported Target Build Platforms</strong>: Android, VR, Win10,Linux,Mac</p><p><strong>Important/Additional Notes</strong>: You are only receiving the tcp client part, you should use your own tcp server.</p><p><br /></p><p>News / changes</p><p>demo how to view logs from tablet <a href=\"https://www.youtube.com/watch?v&#61;uht2UUdcmLs&amp;\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;uht2UUdcmLs&amp;</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1241",
+      "name": "FEMALE PROTAGONIST",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:18.351Z",
+      "updated": "2019-06-20T12:00:18.351Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "daab4f19-6828-489e-b310-c3a696dc4b8f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11920x1080-1920x1080-75ad28e684c49ab2f244bb3bceb560ad.jpg",
+      "md5": "75ad28e684c49ab2f244bb3bceb560ad",
+      "size": 366033,
+      "uploadedDate": "2018-09-05T08:27:25.229Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diagram1-1920x1080-c88d6ef2a8300179eb83cbfc0aaf7051.jpg",
+      "md5": "c88d6ef2a8300179eb83cbfc0aaf7051",
+      "size": 268898,
+      "uploadedDate": "2020-05-18T22:22:34.739Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RemoteLogPlugin_thumb-284x284-a353a6f396a7ebad5c13eb146b985fb5.png",
+      "md5": "a353a6f396a7ebad5c13eb146b985fb5",
+      "size": 99297,
+      "uploadedDate": "2018-09-05T08:27:25.605Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RemoteLogPlugin_featured-894x488-96b3f2a91a0f4540872b2687bcbc23ca.png",
+      "md5": "96b3f2a91a0f4540872b2687bcbc23ca",
+      "size": 463107,
+      "uploadedDate": "2018-09-05T08:27:25.769Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diagram1-1920x1080-c88d6ef2a8300179eb83cbfc0aaf7051_Snapshot.jpg",
+      "md5": "f062aff43a3061969d1cc82b55a88dd9",
+      "size": 5236,
+      "uploadedDate": "2020-05-18T22:22:34.961Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11920x1080-1920x1080-75ad28e684c49ab2f244bb3bceb560ad_Snapshot.jpg",
+      "md5": "1b3d14455e1da03b954859858482d383",
+      "size": 3495,
+      "uploadedDate": "2018-09-05T08:27:25.530Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1d915d5e614348bcbae366c4683a57ce"
+    }
+  ],
+  "catalogNs": null
+}

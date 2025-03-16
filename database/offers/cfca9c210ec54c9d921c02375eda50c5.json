@@ -1,0 +1,302 @@
+{
+  "id": "cfca9c210ec54c9d921c02375eda50c5",
+  "namespace": "ue",
+  "title": "2D Widget Spacer Plugin For Actors and Items - Prevents Overlap",
+  "description": "Display widgets over actors in game, maintain them on screen and preventing them for overlapping. Overview video : https://youtu.be/0QQcKhEEyqU",
+  "longDescription": "<p>The Widget Spacer plugin, built entirely in C&#43;&#43;, allows you to automatically space any widgets placed on an overlay in your UI and prevents overlap. It is instrumental in situations with many actors like enemies, players, and items, which normally cause the text widgets to overlap and need to be completely legible or clickable. It also includes features allowing it to automatically place these widgets over the 3D position of an actor on screen and on the screen&#39;s border with an arrow pointing to its direction when the actor is off-screen.</p><p><br /></p><p>It&#39;s built with efficiency and optimization in mind for situations where even 50&#43; widgets can exist simultaneously on the screen without much FPS loss.</p><p><br /></p><p><strong>Typical example of usage:</strong></p><ul><li>RPG games where you want to display 2D messages or icons over NPCs (Bound-Actor mode)</li><li>Top-down games with lots of loot (items) and enemies</li><li>Complex UIs systems where you need to move over some widgets (Manual mode)</li><li>Flight games and simulators where you need to locate objects off-screen</li><li>Strategy games where you need 2D display over your and other player units (Bound-Actor mode)</li><li>Sports game where you need to display 2D UI over game elements</li><li>Displaying widgets on the border of the screen to indicate the direction of an actor that is out of sight (Bound-Actor mode)</li><li>etc.</li></ul><p><br /></p><p><strong>Plug-in objects:</strong></p><p>The plug-in defines the following C&#43;&#43; classes that are usable and blueprintable in your own project :</p><ul><li><strong>SpacerOverlay</strong>: Inherits from Overlay widget. This is the main component of the plug-in, it defines the zone within which the spaceable widgets will be placed. It hosts all the computations. It has two modes:</li></ul><p>\t\t\t\t &#43; <em>Manual </em>: Widgets can be freely placed by the developper (with SetIdealPosition method) and will be spaced from each other when calling SpaceWidgets method.</p><p>\t\t\t\t&#43; <em>ActorBound </em>: Allows to automatically place the 2D widgets over actors in the 3D game and space them.</p><ul><li><strong>SpaceableWidgetInterface:</strong> Interface to be implemented by all individual widgets to be added in the spacer overlay that should be spaced from each other.</li><li><strong>SpaceableWidgetBase: </strong>Parent class implementing SpaceableWidgetInterface than you can inherit to simply use the Manual mode.</li><li><strong>BoundActorWidgetBase: </strong>Parent class implementing SpaceableWidgetInterface than you can inherit to simply use the BoundActor mode.</li><li><strong>SpacerHelper:</strong> Class not made to be instanced, containing a bunch of helpful static methods.</li><li><strong>WidgetSpacer: </strong>Plug-in definition class. Not to be used.</li></ul><p><br /></p><p><strong>Overview video :</strong> <a href=\"https://youtu.be/0QQcKhEEyqU\" rel=\"nofollow\">https://youtu.be/0QQcKhEEyqU</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "widget-spacer",
+  "creationDate": "2022-10-07T20:22:10.388Z",
+  "lastModifiedDate": "2024-10-15T13:30:09.198Z",
+  "effectiveDate": "2022-10-07T20:36:53.005Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-emp5mdm3srxs3d8rh2g5xqbdk945u7",
+    "name": "GB Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li><strong>Features:</strong></li><li>Spacing widgets from each other to prevent them from overlapping (main feature of the plug-in) </li><li>Force widgets to remain within the bounds of a rectangle (Overlay) - can be disabled</li><li>Automatically placing 2D widgets over a 3D actor in game (Bound Actor mode)</li><li>Blueprints events to change widget appearance depending on whether the bound actor is within sight and on which direction he is from player&#39;s camera focus (Bound Actor mode)</li></ul><p><strong>Code Modules:</strong></p><ul><li> WidgetSpacer (Runtime)</li></ul><p><br /></p><p><strong>Number of Blueprints:</strong> 0</p><p><strong>Number of C&#43;&#43; Classes:</strong> 6</p><p><strong>Network Replicated:</strong> No</p><p><strong>Supported Development Platforms:</strong> Windows 32-bit, Windows 64-bit, Linux, MacOS, iOS, Android</p><p><strong>Supported Target Build Platforms:</strong> Android, Gear VR, HoloLens 2, HTML5, iOS, Linux, MacOS, Nintendo Switch, Oculus, PlayStation 4, Steam VR, Windows 32-bit, Windows 64-bit, Xbox One</p><p><strong>Documentation:</strong> <a href=\"https://nuage.liiib.re/s/N5X5TF75yZbNCjM\" rel=\"nofollow\">https://nuage.liiib.re/s/N5X5TF75yZbNCjM</a></p><p><strong>Example Project:</strong> <a href=\"https://nuage.liiib.re/s/ieptF5Fnwkbc4sM\" rel=\"nofollow\">https://nuage.liiib.re/s/ieptF5Fnwkbc4sM</a> (does not include binaries so you will need to recompile it by yourself. Example project with binaries available on demand for those who work in editor only)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bdba8d60-e1e1-4783-95cb-c6ddc1e69052"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot2-1920x1080-86515dd759ac66434d296619852081fe.jpg",
+      "md5": "86515dd759ac66434d296619852081fe",
+      "size": 128703,
+      "uploadedDate": "2022-10-02T10:47:25.872Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot1-1920x1080-39bfdba697d8e26632fc0fd048c9be3d.jpg",
+      "md5": "39bfdba697d8e26632fc0fd048c9be3d",
+      "size": 160813,
+      "uploadedDate": "2022-10-02T10:47:26.747Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot3-1920x1080-d44faa5aecc1acf4d490d78fe62077b3.jpg",
+      "md5": "d44faa5aecc1acf4d490d78fe62077b3",
+      "size": 98154,
+      "uploadedDate": "2022-10-02T10:47:25.053Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WidgetSpacer_thumb-284x284-5ba2406afaf75c902b269a11c5089e96.png",
+      "md5": "5ba2406afaf75c902b269a11c5089e96",
+      "size": 50781,
+      "uploadedDate": "2022-10-02T10:47:27.488Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WidgetSpacer_featured-894x488-6762282e723f2f7cf5140adeaff8381b.png",
+      "md5": "6762282e723f2f7cf5140adeaff8381b",
+      "size": 192154,
+      "uploadedDate": "2022-10-02T10:47:27.620Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot3-1920x1080-d44faa5aecc1acf4d490d78fe62077b3_Snapshot.jpg",
+      "md5": "8bf7af068daa4d281b0c097246ea5787",
+      "size": 3108,
+      "uploadedDate": "2022-10-02T10:47:25.614Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot2-1920x1080-86515dd759ac66434d296619852081fe_Snapshot.jpg",
+      "md5": "05608292a76eb5fc456df4d4e952e1bf",
+      "size": 4046,
+      "uploadedDate": "2022-10-02T10:47:26.446Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot1-1920x1080-39bfdba697d8e26632fc0fd048c9be3d_Snapshot.jpg",
+      "md5": "838142c6889daefe8f31b95a7a2cfde2",
+      "size": 5359,
+      "uploadedDate": "2022-10-02T10:47:27.333Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0d35a20141fd4859bcbc538cddc9d128"
+    }
+  ],
+  "catalogNs": null
+}

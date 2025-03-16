@@ -1,0 +1,170 @@
+{
+  "id": "160233e3c301479f95629d5e306703b0",
+  "namespace": "ue",
+  "title": "Procedural Landscape Generator",
+  "description": "Use Blueprints to generate procedural landscapes within the editor",
+  "longDescription": "<p>Preview video : <a href=\"https://youtu.be/4c3bGxmpmYI\" rel=\"nofollow\">https://youtu.be/4c3bGxmpmYI</a></p><p><br /></p><p>** Help &amp; support on Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a> **</p><p><br /></p><p>Procedural Landscape Generator is an editor plugin allowing to generate landscapes using Blueprints. Based on our <a href=\"https://www.unrealengine.com/marketplace/noise-library\" rel=\"nofollow\">Noise Library</a> (included), this plugin introduces several functions to spawn landscape from noises (like Perlin, Voronoi, and so on), so we can generate a great variety of landscapes in few minutes.</p><p>Besides the height-map generation, lots of functions aims to assist you when you design a landscape:</p><ul><li>Procedural foliage generation (grid-based or forest-based) using noises</li><li>Foliage operators (propagate or rarefy existing foliage, split foliage of a given type into several types)</li><li>Procedural actor spawning (quickly place a lot of actors over a landscape)</li><li>Water plane generation (with procedural removal of foliage below the level of water)</li></ul><p>While a complete landscape generation can be done by hand, the purpose of this plugin is to make you gain a lot of time through the automation of the landscape generation. Using this, one can automatically generate a terrain from a Perlin noise and spawn forests over it in a few seconds, then it can be finalized manually to achieve the best results.</p><p>Finally, this plugin supports the generation of tiled landscapes: to overcome the size limitation of Unreal landscapes, this plugin can procedurally generate tiles of landscapes with seamless connection.</p><p>See more on http://isaratech.com/portfolio/landscape-generator/</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-landscape-generator",
+  "creationDate": "2018-01-26T20:14:40.366Z",
+  "lastModifiedDate": "2024-10-08T09:24:38.263Z",
+  "effectiveDate": "2018-01-26T20:14:40.268Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1f385b3839424280bd68decb808ffb",
+    "name": "Isara Tech."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features video : </strong><a href=\"https://youtu.be/uOPVzRacerI\" rel=\"nofollow\"><strong>https://youtu.be/uOPVzRacerI</strong></a></p><p><br /></p><p><em>Note: this is an editor plugin which can be used to generate landscapes in the editor. It can&#39;t be used to generate landscapes in runtime.</em></p><p><br /></p><p>Features:</p><ul><li>Spawn landscape from a noise function (Perlin, Voronoi, etc.)</li><li>Generate tiled landscape</li><li>Procedurally generate foliage using a noise function</li><li>Apply operators on foliage (propagate, rarefy, split)</li><li>Generate a water plane</li><li>Procedurally spawn actors over the landscape</li></ul><p>Code Modules:</p><ul><li>BlueprintNoiseGenerator (Runtime)</li><li>LandscapeGeneratorRuntime (Runtime)</li><li>AutoLandscapeGenerator (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 54</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows, Linux, MacOS</p><p>Supported Target Build Platforms: Windows, Linux, MacOS</p><p>Documentation: <a href=\"https://docs.isaratech.com/ue4-plugins/landscape-generator\" rel=\"nofollow\">https://docs.isaratech.com/ue4-plugins/landscape-generator</a> and <a href=\"https://docs.isaratech.com/ue4-plugins/noise-library\" rel=\"nofollow\">https://docs.isaratech.com/ue4-plugins/noise-library</a></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8f95eec9-fd21-4594-ba57-101285fdacfe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00014 1-1920x1080-5c0095a590d80a5bc7cd60c671709710.jpg",
+      "md5": "5c0095a590d80a5bc7cd60c671709710",
+      "size": 742796,
+      "uploadedDate": "2018-01-14T15:59:37.306Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00029-1920x1080-9ba2617b09c40144f192c4a4cbc0a10b.jpg",
+      "md5": "9ba2617b09c40144f192c4a4cbc0a10b",
+      "size": 542791,
+      "uploadedDate": "2018-01-17T13:36:44.207Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00023-1920x1080-d25caaa67c990dfb652f4f7479fb5b3c.png",
+      "md5": "d25caaa67c990dfb652f4f7479fb5b3c",
+      "size": 3044584,
+      "uploadedDate": "2018-01-17T13:36:44.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture-1920x1080-0fdd79f4237ad1e8494abb813ab3733e.PNG",
+      "md5": "0fdd79f4237ad1e8494abb813ab3733e",
+      "size": 1739562,
+      "uploadedDate": "2018-01-17T13:36:45.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00015 1-1920x1080-34f5371f149a09ea74e0e05bc9e522a7.jpg",
+      "md5": "34f5371f149a09ea74e0e05bc9e522a7",
+      "size": 1222145,
+      "uploadedDate": "2018-01-17T13:38:00.214Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/lgbp-1920x1080-27019f3dc2f9759b32d518945b41404a.png",
+      "md5": "27019f3dc2f9759b32d518945b41404a",
+      "size": 444105,
+      "uploadedDate": "2018-01-17T14:53:39.655Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralLandscapeGenerator_thumb-284x284-598ad16fdbf1e29b8b9f601ae9da1450.png",
+      "md5": "598ad16fdbf1e29b8b9f601ae9da1450",
+      "size": 180828,
+      "uploadedDate": "2018-01-14T15:59:37.383Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralLandscapeGenerator_featured-894x488-7a084e93dc5a4a1a8e3d867eec1c31f9.png",
+      "md5": "7a084e93dc5a4a1a8e3d867eec1c31f9",
+      "size": 1192939,
+      "uploadedDate": "2018-01-14T15:59:37.474Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4c8e24d9eb034eb69f1edb9cd00aa2c1"
+    }
+  ],
+  "catalogNs": null
+}

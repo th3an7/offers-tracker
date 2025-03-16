@@ -1,0 +1,230 @@
+{
+  "id": "3fc2f715c97b40dbbd937ae0383ac95d",
+  "namespace": "ue",
+  "title": "Editor Time Keeper",
+  "description": "Keeps track of how long you've used the editor in your current project",
+  "longDescription": "<p>Editor Time Keeper is a Editor Utility Widget that utilizes C&#43;&#43; code to save and load the data on engine shutdown and when the engine loads. This keeps track of how long you&#39;ve used the editor in your current project. Features a modular design that allows you to disable desired widget text using boolean values.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "editor-time-keeper",
+  "creationDate": "2024-04-26T19:54:52.813Z",
+  "lastModifiedDate": "2024-10-01T22:24:55.479Z",
+  "effectiveDate": "2024-04-26T20:48:01.186Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ft6pes42r6l62fmhs2azydvzlf5mcf",
+    "name": "Tegridy Made Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Keeps track of total editor time (per project)</li><li> Keeps track of current session editor time (per project)</li><li> Keeps track of past editor time (per project) (time used since last quit)</li><li>Saves time on a loop incase of editor crash or power outage (UE v5.2&#43;)</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li>  TMG_EditorTimeKeeper [Runtime]</li></ul><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows 64 bit</p><p>Supported Target Build Platforms: Windows 64 bit</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1ZBIIpOnnaIo3Jha97mRNW28gcHdH0N57Zz9zrsPpdqM/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1ZBIIpOnnaIo3Jha97mRNW28gcHdH0N57Zz9zrsPpdqM/edit?usp&#61;sharing</a></p><p>Example Project (UE5.3): <a href=\"https://drive.google.com/file/d/1SXkjAs1q9GGp58qj0KZVi9waF-ANf-qo/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1SXkjAs1q9GGp58qj0KZVi9waF-ANf-qo/view?usp&#61;sharing</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2023-08-23T04:44:32.409Z",
+      "status": "ACTIVE",
+      "referenceCount": 392,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "94f46fe1-8409-4952-939a-261c874093fe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled-2-1920x1080-e9852ee7ad67df0fc889fdd4cf1c155d.png",
+      "md5": "e9852ee7ad67df0fc889fdd4cf1c155d",
+      "size": 320025,
+      "uploadedDate": "2024-04-19T02:31:24.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled-1-1920x1080-20b80ac536582a184c5bb172c614b185.png",
+      "md5": "20b80ac536582a184c5bb172c614b185",
+      "size": 830166,
+      "uploadedDate": "2024-04-19T02:31:25.036Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled-3-1920x1080-98ea86973000519dfdf792822bcdd4a0.png",
+      "md5": "98ea86973000519dfdf792822bcdd4a0",
+      "size": 489709,
+      "uploadedDate": "2024-05-01T13:36:08.422Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EditorTimeKeeper_thumb-284x284-ade6fb952d351815dd6367ee5537d6eb.png",
+      "md5": "ade6fb952d351815dd6367ee5537d6eb",
+      "size": 70044,
+      "uploadedDate": "2024-04-19T02:31:25.802Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EditorTimeKeeper_featured-894x488-394e95e5e83e426e88b50fbf521ad536.png",
+      "md5": "394e95e5e83e426e88b50fbf521ad536",
+      "size": 95466,
+      "uploadedDate": "2024-04-19T02:31:25.967Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-3-1920x1080-98ea86973000519dfdf792822bcdd4a0_Snapshot.png",
+      "md5": "c48c437d107079ef99b420592673cc69",
+      "size": 4904,
+      "uploadedDate": "2024-05-01T13:36:08.719Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-2-1920x1080-e9852ee7ad67df0fc889fdd4cf1c155d_Snapshot.png",
+      "md5": "890ec8d8299e16855c7cfa38d96cbd05",
+      "size": 6454,
+      "uploadedDate": "2024-04-19T02:31:24.943Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-1-1920x1080-20b80ac536582a184c5bb172c614b185_Snapshot.png",
+      "md5": "2d15816c464c3592ddbea09342104e00",
+      "size": 6038,
+      "uploadedDate": "2024-04-19T02:31:25.279Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-3-1920x1080-ceaef57b540ad950ea914ea440e22951_Snapshot.png",
+      "md5": "544d3e5737e08bf15187c3769a18433e",
+      "size": 5524,
+      "uploadedDate": "2024-04-19T02:31:25.714Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-2-1920x1080-cbd602545b350c1cea2ad4a9ae6f96b5_Snapshot.png",
+      "md5": "aba702a1c5aa85867ca069fe49a19ef4",
+      "size": 6938,
+      "uploadedDate": "2024-04-16T20:27:32.216Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-1-1920x1080-a11d28fb231d6ac8e817d2a4d5a73186_Snapshot.png",
+      "md5": "134429454730ffea935c3caf2fa5e4c0",
+      "size": 5662,
+      "uploadedDate": "2024-04-16T20:27:32.795Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-3-1920x1080-d1d85a68c98ec3c19bb86fc777a5f712_Snapshot.png",
+      "md5": "351c93f9677af3b9b991152e157e8c21",
+      "size": 5665,
+      "uploadedDate": "2024-04-16T20:27:33.169Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "63340636aac94ab3a8dcfc0bcbccb7ab"
+    }
+  ],
+  "catalogNs": null
+}

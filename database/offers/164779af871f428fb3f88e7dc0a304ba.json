@@ -1,0 +1,122 @@
+{
+  "id": "164779af871f428fb3f88e7dc0a304ba",
+  "namespace": "ue",
+  "title": "CtrlVR - VR Code Plugin",
+  "description": "A code plugin that offers solutions for VR movement, object interaction and controller management",
+  "longDescription": "<p>CtrlVR is a code plugin designed to speed up the basics of VR development in unreal. With classes for VR player characters and motion controllers, containing additional functionality that developers would otherwise have to implement themselves. Like moving the player&#39;s collision with their play-space, and tracking object overlaps with the player&#39;s controllers for grabbing, and having functions to allow attaching actors to the player&#39;s hands for grabbing also.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ctrlvr-vr-code-plugin",
+  "creationDate": "2023-08-08T14:18:13.352Z",
+  "lastModifiedDate": "2024-10-15T18:58:40.498Z",
+  "effectiveDate": "2023-08-08T14:18:18.545Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ww4nqswqds3a6w8xytbrdl4bmcc2w5",
+    "name": "Trystan McGowan"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>VR Character actor class, with adjustments to the viewport camera and set up VR tracking</li><li>VR Locomotion options (smooth / 3rd person)</li><li>VR Controller Component class for grabbing and object targeting</li><li>Physics based object grabbing and hand collisions through an optional subclass</li></ul><p>Code Modules:</p><ul><li> CtrlVR - Runtime</li></ul><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Steam VR / Oculus</p><p>Documentation: https://docs.google.com/document/d/14Nx0arA4wqECn5T1Lf5K72F0wRcj1aABeBGwxXd1RM4/edit?usp&#61;sharing</p><p>Additional Notes: CtrlVR requires the OpenXR plugin to be enabled to function, as it is reliant on some of that plugin&#39;s classes and functionality.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "914ca35a-1afe-4e00-8a3d-42c62c1653d9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Logo Gallery-1920x1080-345c4813589ebec7ddaefea1580e00bb.png",
+      "md5": "345c4813589ebec7ddaefea1580e00bb",
+      "size": 1575149,
+      "uploadedDate": "2023-08-02T22:26:37.069Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CtrlVRVRCodePlugin_thumb-284x284-fcbe414ec798e51401104de89a16a6e1.png",
+      "md5": "fcbe414ec798e51401104de89a16a6e1",
+      "size": 69719,
+      "uploadedDate": "2023-08-02T22:26:37.466Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CtrlVRVRCodePlugin_featured-894x488-6a009fdf5eb452bd499ab0644820964a.png",
+      "md5": "6a009fdf5eb452bd499ab0644820964a",
+      "size": 296095,
+      "uploadedDate": "2023-08-02T22:26:37.688Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Logo Gallery-1920x1080-345c4813589ebec7ddaefea1580e00bb_Snapshot.png",
+      "md5": "e64ffeed5752d18517709aa61d5bbebf",
+      "size": 4040,
+      "uploadedDate": "2023-08-02T22:26:37.392Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d58279b6484241deb743d119ce698ce2"
+    }
+  ],
+  "catalogNs": null
+}

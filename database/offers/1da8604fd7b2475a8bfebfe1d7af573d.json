@@ -1,0 +1,230 @@
+{
+  "id": "1da8604fd7b2475a8bfebfe1d7af573d",
+  "namespace": "ue",
+  "title": "Close Combat: Swordsman",
+  "description": "The package contains: a combat system, a fully animated character set with a sword, a move system (walk, run, jump), and a system for increasing the level of the character.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;XthCAADyuQ4&amp;t&#61;\" rel=\"nofollow\">Video overview of the project</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;mzYNtDsmEOg\" rel=\"nofollow\">Video of the first update (weapons equipment)</a></p><p>The Project Close Combat: Swordsman is created to provide developers with a</p><p>template for games of different genres: action games, RPG’s, slashers or fighting</p><p>games. The template includes a combat system, a system for character movement,</p><p>a system for managing character’s level up, and a system of skills for a character.</p><p><br /></p><p>Also implemented a fully compatible addition for hand-to-hand combat (Distributed separately):</p><p><a href=\"https://www.unrealengine.com/marketplace/close-combat-fighter\" rel=\"nofollow\">Close Combat: Fighter</a></p><p><br /></p><p><strong>***Monthly Unreal Engine Sponsored Content product for October 2019***</strong></p><p><strong>Check out ZzGERTzZ&#39;s other products here: </strong><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/ZzGERTzZ\" rel=\"nofollow\"><strong>https://www.unrealengine.com/marketplace/en-US/profile/ZzGERTzZ</strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "close-combat-swordsman",
+  "creationDate": "2017-10-23T16:07:32.620Z",
+  "lastModifiedDate": "2024-10-07T15:20:04.167Z",
+  "effectiveDate": "2017-10-23T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-10d02dec2542d383a3da8005164ba3",
+    "name": "ZzGERTzZ"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><strong>Movement. </strong>There is a jumping system, as well as a system for movement in running and walking states. A combat system is also available, where it is possible to walk in a fighting stance in all directions, while making dashes or dodging an attack, etc ...</li><li><strong>Health component</strong>. This component comprises all parameters of character’s health. It can be used not only with the character, but with any <strong>actor</strong>, which might need health parameters.</li><li><strong>Melee Weapon</strong>. The class of melee weapon for close quarters combat. In the project, there are 3 different swords stylized differently: <em>Futuristic sword, Sword of Light, Sword of Darkness.</em></li><li><strong>AI</strong>. Basic Artificial Intelligence is capable of hearing, seeing, following, and attacking the player from short range.</li><li><strong>XP management component.</strong> The component comprises all necessary logic to handle leveling up of a character.</li><li><strong>Game Interface (HUD). </strong>There is a fully animated game interface.</li><li><strong>Combat overview</strong>. A cinematic camera in combat.</li></ul><p>Number of Blueprints: 20</p><p>Input: Keyboard, Mouse</p><p>Network Replicated: No</p><p>Documentation: <a href=\"https://drive.google.com/file/d/0Byd53EBIW1D8RnNzeWx3MVozQWs/view?usp&#61;sharing&amp;resourcekey&#61;0-mVLW6xAewWmQ4bgXw4GnhQ\" rel=\"nofollow\">Eng</a></p><p>Online support: <a href=\"https://discord.gg/FvhuKAm\" rel=\"nofollow\">Discord channel</a></p><p><br /></p><p>Animations:</p><p>Number of Animations: 77</p><p>Scaled to Epic skeleton: Yes</p><p><br /></p><p>Swords model:</p><p>Number of Meshes: 3</p><p>Texture Sizes: Swords: PBR 4096*2048</p><p>Vertex Count: 4000-8000</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1249",
+      "name": "JRPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:22.247Z",
+      "updated": "2019-06-20T12:00:22.247Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1322",
+      "name": "LEMMINGS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:58.534Z",
+      "updated": "2019-06-20T12:00:58.534Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3017a690-891f-43c6-ab76-3ca5752802b0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-32e419d6a54c07f1413a6a424ec0a3bf.jpg",
+      "md5": "32e419d6a54c07f1413a6a424ec0a3bf",
+      "size": 1028453,
+      "uploadedDate": "2017-09-24T20:17:24.991Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-b620b0cac276c58b95640bceb65fc619.jpg",
+      "md5": "b620b0cac276c58b95640bceb65fc619",
+      "size": 948912,
+      "uploadedDate": "2017-09-24T20:17:25.179Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-733949ab5baac4bd6b4f461a040170da.jpg",
+      "md5": "733949ab5baac4bd6b4f461a040170da",
+      "size": 922484,
+      "uploadedDate": "2017-09-24T20:17:25.358Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-500b9d0b0556adac2d2239fe1a5f4239.jpg",
+      "md5": "500b9d0b0556adac2d2239fe1a5f4239",
+      "size": 855605,
+      "uploadedDate": "2017-09-24T20:17:25.544Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-e19808622ccf3b8668783cf74d933692.jpg",
+      "md5": "e19808622ccf3b8668783cf74d933692",
+      "size": 950397,
+      "uploadedDate": "2017-09-24T20:17:25.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-f2cd9694d9c00364718cfbc51d16fe57.jpg",
+      "md5": "f2cd9694d9c00364718cfbc51d16fe57",
+      "size": 669941,
+      "uploadedDate": "2017-09-24T20:17:26.001Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CloseClombatSwordsman_thumb-284x284-38bc4a9b5e4432f6ec0d075d876f3d1b.png",
+      "md5": "38bc4a9b5e4432f6ec0d075d876f3d1b",
+      "size": 164738,
+      "uploadedDate": "2017-09-24T20:17:26.148Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CloseClombatSwordsman_featured-894x488-eafd6bd3b8c9e80e70ac9a4d00313cf2.png",
+      "md5": "eafd6bd3b8c9e80e70ac9a4d00313cf2",
+      "size": 647232,
+      "uploadedDate": "2017-09-24T20:17:26.257Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "521264091cb54edf86131ede6e73936d"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,194 @@
+{
+  "id": "e4fca9cc220047a5a1bbc90855eb4bee",
+  "namespace": "ue",
+  "title": "Polar Normal Extract",
+  "description": "Extract normal and height map from a single diffuse texture, also create tilling texture and change resolution",
+  "longDescription": "<p>*** Polar Normal ****</p><p>Demo/Tutorial : <a href=\"https://www.youtube.com/watch?v&#61;Dv5QkBOQATU\" rel=\"nofollow\">Video</a></p><p><br /></p><p>Join me in discord: zkarmakun#3666</p><p><br /></p><p>Hey ya! hello everybody! Polar normal is a plugin to allow you change the resolution of texture 2Ds as well as extract the normal and height from a diffuse texture, it also allows you to create tilling textures</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "polar-normal-extract",
+  "creationDate": "2023-05-07T18:44:43.398Z",
+  "lastModifiedDate": "2024-10-15T11:13:44.536Z",
+  "effectiveDate": "2023-05-07T18:44:43.353Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7y87a4nj5swpgtgxywhq4nmtj9nxus",
+    "name": "Bear Teacher"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Set resolution of a texture</li><li>Extract normal map from diffuse</li><li>Extract height map from diffuse</li><li>Create tilling texture from a texture 2D</li></ul><p>Code Modules:</p><ul><li>PolarNormal[Editor]</li><li>PolarNormalEditor [Editor]</li><li>PolarNormalRendering[Runtime]</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 17</p><p>Supported Development Platforms: Win 64</p><p><br /></p><p>Documentation: <a href=\"https://docs.google.com/document/d/1Q5u8LVBeIpSq8qzzgDTA8k533AbPCbdtocegD6M5wA8/edit?usp&#61;sharing\" rel=\"nofollow\">Docs</a></p><p>Important/Additional Notes: For troubleshooting or super crazy python requests, contact me at this email: bear.teach.you&#64;gmail.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "48df7e4c-7f57-4673-9937-fcf0982a1f6c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-c87f1f154ba2ce79352bfb8528dddcd9.png",
+      "md5": "c87f1f154ba2ce79352bfb8528dddcd9",
+      "size": 1380658,
+      "uploadedDate": "2023-04-19T16:40:55.576Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-3cbbc53863255a6743423fbc146dcf1a.png",
+      "md5": "3cbbc53863255a6743423fbc146dcf1a",
+      "size": 1165506,
+      "uploadedDate": "2023-04-19T16:40:56.110Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-b5e25ba4f0cc15b4e97b68b798bdc7a1.png",
+      "md5": "b5e25ba4f0cc15b4e97b68b798bdc7a1",
+      "size": 1449816,
+      "uploadedDate": "2023-04-27T00:09:16.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PolarNormalExtract_thumb-284x284-d62d876f35fa273b16e134482e9e484e.png",
+      "md5": "d62d876f35fa273b16e134482e9e484e",
+      "size": 183883,
+      "uploadedDate": "2023-04-19T16:40:56.494Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PolarNormalExtract_featured-894x488-78f02528b38604650d8803bdff3f1200.png",
+      "md5": "78f02528b38604650d8803bdff3f1200",
+      "size": 783586,
+      "uploadedDate": "2023-04-19T16:40:56.644Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-b5e25ba4f0cc15b4e97b68b798bdc7a1_Snapshot.png",
+      "md5": "f21441f9442ea914ee3d6fd29a11dfcf",
+      "size": 6091,
+      "uploadedDate": "2023-04-27T00:09:16.696Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-c87f1f154ba2ce79352bfb8528dddcd9_Snapshot.png",
+      "md5": "f5896b04cabcaba35341056168e4ec63",
+      "size": 3670,
+      "uploadedDate": "2023-04-19T16:40:55.856Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-3cbbc53863255a6743423fbc146dcf1a_Snapshot.png",
+      "md5": "5d7e20fc398a6d29941066fd9b02f5d7",
+      "size": 3145,
+      "uploadedDate": "2023-04-19T16:40:56.409Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "27530ffb6d1543eaa0bb1645622581ef"
+    }
+  ],
+  "catalogNs": null
+}

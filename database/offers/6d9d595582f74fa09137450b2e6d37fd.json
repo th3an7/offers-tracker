@@ -1,0 +1,344 @@
+{
+  "id": "6d9d595582f74fa09137450b2e6d37fd",
+  "namespace": "ue",
+  "title": "Sprite Maker",
+  "description": "This plugin makes a sprite (sequence image) file.",
+  "longDescription": "<p>This plugin makes a sprite (sequence image) file.</p><p>The image file is a tga file.</p><p>It is easy to understand by watching the video below.</p><p>Tutorial: <a href=\"https://youtu.be/CnfyCLMUGZQ\" rel=\"nofollow\">YouTube</a></p><p><br /></p><p>Create icons using the SpriteMaker.</p><p><a href=\"https://youtu.be/ad47iC_yZFg\" rel=\"nofollow\"> YouTube</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sprite-maker",
+  "creationDate": "2019-07-11T10:52:54.137Z",
+  "lastModifiedDate": "2024-10-15T11:11:03.402Z",
+  "effectiveDate": "2019-07-11T10:52:53.982Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qrh63v8tqp3cr95z85ls5rfwlklbm9",
+    "name": "HGsofts"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Plugin makes a tga file with alpha channel</li><li>The tga size will be Rendertarget.SizeX * SpriteCountX, Rendertarget.SizeY * SpriteCountY.</li><li>By default, the tga file will be saved the saved folder.</li><li>If you want to save the file to another folder, you can set &#34;SaveDirectorry&#34; of MakeSprite Node.</li><li>This is possible at runtime but I recommend that you use this only in a development.</li></ul><p><strong>Code Modules</strong>:</p><ul><li>USpriteMakerComponent</li></ul><p><strong>Number of Blueprints</strong>: 2</p><p><strong>Number of C&#43;&#43; Classes</strong>: 2</p><p><strong>Supported Development Platforms</strong>: (Win64, Win32)</p><p><strong>Supported Target Build Platforms</strong>: (Win64, Win32)</p><p><strong>Documentation</strong>: <a href=\"https://drive.google.com/open?id&#61;1JMBopFQuq5O12Yg7DpMGhea3JFn0fMkO\" rel=\"nofollow\">Doc</a></p><p><strong>Example Project</strong>: <a href=\"https://drive.google.com/open?id&#61;1zY5hTaYTi90BhDzo8do3hmH_eISqQd6w\" rel=\"nofollow\">Zip</a> (included making Icons)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c00b3240-958b-4b9c-beaf-52c7e3587c0f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/smbc05-1920x1080-b268ba313dc778deb47e8821505914ae.jpg",
+      "md5": "b268ba313dc778deb47e8821505914ae",
+      "size": 157258,
+      "uploadedDate": "2019-06-26T15:41:21.727Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/smbc00-1920x1080-28f5ea223f59c0fc5c3298bb159dba0f.jpg",
+      "md5": "28f5ea223f59c0fc5c3298bb159dba0f",
+      "size": 309617,
+      "uploadedDate": "2019-06-26T15:41:45.874Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/smbc01-1920x1080-dbd6680788b3c27b065ca8bd94dd66d9.jpg",
+      "md5": "dbd6680788b3c27b065ca8bd94dd66d9",
+      "size": 292999,
+      "uploadedDate": "2019-06-26T15:41:46.185Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/smbc02jpg-1920x1080-139cb17e58385c87168e38425c2d0762.jpg",
+      "md5": "139cb17e58385c87168e38425c2d0762",
+      "size": 318484,
+      "uploadedDate": "2019-06-26T15:41:46.515Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/smbc03-1920x1080-97e928de140fc66dcb5b885c61985ee7.jpg",
+      "md5": "97e928de140fc66dcb5b885c61985ee7",
+      "size": 292125,
+      "uploadedDate": "2019-06-26T15:41:46.845Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/smbc04-1920x1080-98e926729f8f2c4d08381596e9d22986.jpg",
+      "md5": "98e926729f8f2c4d08381596e9d22986",
+      "size": 304976,
+      "uploadedDate": "2019-06-26T15:41:47.159Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SpriteMaker_thumb-284x284-871cb23435bda081524701d8af9400ba.png",
+      "md5": "871cb23435bda081524701d8af9400ba",
+      "size": 113819,
+      "uploadedDate": "2019-06-26T15:24:17.202Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SpriteMaker_featured-894x488-ddba83468ac59660883fe0dd6c1427c5.png",
+      "md5": "ddba83468ac59660883fe0dd6c1427c5",
+      "size": 496752,
+      "uploadedDate": "2019-06-26T15:24:17.321Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc00-1920x1080-28f5ea223f59c0fc5c3298bb159dba0f_Snapshot.jpg",
+      "md5": "42e1657a5650c9e99d85ac5399aa2f34",
+      "size": 4872,
+      "uploadedDate": "2019-06-26T15:41:46.092Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc01-1920x1080-dbd6680788b3c27b065ca8bd94dd66d9_Snapshot.jpg",
+      "md5": "dd03a2d4e297326ea45b06d1c820659d",
+      "size": 5147,
+      "uploadedDate": "2019-06-26T15:41:46.382Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc02jpg-1920x1080-139cb17e58385c87168e38425c2d0762_Snapshot.jpg",
+      "md5": "2d6ec879ff9df9296b97538b8f6a6715",
+      "size": 4851,
+      "uploadedDate": "2019-06-26T15:41:46.747Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc03-1920x1080-97e928de140fc66dcb5b885c61985ee7_Snapshot.jpg",
+      "md5": "d7664d6fcf73b6faf6bde30214c2d99e",
+      "size": 4308,
+      "uploadedDate": "2019-06-26T15:41:47.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc04-1920x1080-98e926729f8f2c4d08381596e9d22986_Snapshot.jpg",
+      "md5": "92543b9d6da14abaefa5c140b7dcae3f",
+      "size": 4447,
+      "uploadedDate": "2019-06-26T15:41:47.357Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc05-1920x1080-b268ba313dc778deb47e8821505914ae_Snapshot.jpg",
+      "md5": "eef728311a0bd58b3cc59bf5989b0580",
+      "size": 5235,
+      "uploadedDate": "2019-06-26T15:41:21.964Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc04-1920x1080-98e926729f8f2c4d08381596e9d22986_Snapshot.jpg",
+      "md5": "92543b9d6da14abaefa5c140b7dcae3f",
+      "size": 4447,
+      "uploadedDate": "2019-06-26T15:40:22.027Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc03-1920x1080-97e928de140fc66dcb5b885c61985ee7_Snapshot.jpg",
+      "md5": "d7664d6fcf73b6faf6bde30214c2d99e",
+      "size": 4308,
+      "uploadedDate": "2019-06-26T15:40:22.367Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc02jpg-1920x1080-139cb17e58385c87168e38425c2d0762_Snapshot.jpg",
+      "md5": "2d6ec879ff9df9296b97538b8f6a6715",
+      "size": 4851,
+      "uploadedDate": "2019-06-26T15:40:22.821Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc00-1920x1080-28f5ea223f59c0fc5c3298bb159dba0f_Snapshot.jpg",
+      "md5": "42e1657a5650c9e99d85ac5399aa2f34",
+      "size": 4872,
+      "uploadedDate": "2019-06-26T15:40:23.139Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc01-1920x1080-dbd6680788b3c27b065ca8bd94dd66d9_Snapshot.jpg",
+      "md5": "dd03a2d4e297326ea45b06d1c820659d",
+      "size": 5147,
+      "uploadedDate": "2019-06-26T15:40:23.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc05-1920x1080-b268ba313dc778deb47e8821505914ae_Snapshot.jpg",
+      "md5": "eef728311a0bd58b3cc59bf5989b0580",
+      "size": 5235,
+      "uploadedDate": "2019-06-26T15:40:23.753Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc05-1920x1080-b268ba313dc778deb47e8821505914ae_Snapshot.jpg",
+      "md5": "eef728311a0bd58b3cc59bf5989b0580",
+      "size": 5235,
+      "uploadedDate": "2019-06-26T15:39:19.668Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc02jpg-1920x1080-139cb17e58385c87168e38425c2d0762_Snapshot.jpg",
+      "md5": "2d6ec879ff9df9296b97538b8f6a6715",
+      "size": 4851,
+      "uploadedDate": "2019-06-26T15:24:15.038Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc03-1920x1080-97e928de140fc66dcb5b885c61985ee7_Snapshot.jpg",
+      "md5": "d7664d6fcf73b6faf6bde30214c2d99e",
+      "size": 4308,
+      "uploadedDate": "2019-06-26T15:24:16.156Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc04-1920x1080-98e926729f8f2c4d08381596e9d22986_Snapshot.jpg",
+      "md5": "92543b9d6da14abaefa5c140b7dcae3f",
+      "size": 4447,
+      "uploadedDate": "2019-06-26T15:24:16.481Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc00-1920x1080-28f5ea223f59c0fc5c3298bb159dba0f_Snapshot.jpg",
+      "md5": "42e1657a5650c9e99d85ac5399aa2f34",
+      "size": 4872,
+      "uploadedDate": "2019-06-26T15:24:16.810Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/smbc01-1920x1080-dbd6680788b3c27b065ca8bd94dd66d9_Snapshot.jpg",
+      "md5": "dd03a2d4e297326ea45b06d1c820659d",
+      "size": 5147,
+      "uploadedDate": "2019-06-26T15:24:17.153Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "366e84ea92a645af9ebe8dbad72b3fb3"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,182 @@
+{
+  "id": "3b1ffd6c29ea4c17b919907a1a1d81a9",
+  "namespace": "ue",
+  "title": "CyberGaffer plugin",
+  "description": "The plugin enables the CyberGaffer application to reconstruct virtual lighting from Unreal Engine scenes in your Virtual Production studio.",
+  "longDescription": "<p>CyberGaffer enables you to replicate virtual scene lighting in the real world. It is a standalone application accompanied by a plugin for Unreal Engine. The plugins capture light information from the virtual scene and transfer it to the application. The application computes the best possible real-world approximation and tunes the physical lighting fixtures in a VP studio accordingly.</p><p>Website: https://cybergaffer.com/</p><p>Community: https://discord.gg/hRgKPkSAZm</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cybergaffer-plugin",
+  "creationDate": "2024-09-05T19:55:17.265Z",
+  "lastModifiedDate": "2024-10-15T10:46:11.197Z",
+  "effectiveDate": "2024-09-05T19:55:17.220Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kempdpxgphy95g4xhgusxtjy8b7vah",
+    "name": "Antilatency"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: The plugin allows users to add a CyberGaffer Scene Capture actor to the desired location in the virtual scene. The location is typically determined by the talent&#39;s position in the virtual scene during Virtual Production. The CyberGafferSceneCapture actor renders a texture of a sphere that captures all the lighting from the scene and then sends this texture via HTTP to a user-specified address and port. A standalone CyberGaffer application then receives the texture as a task for reproducing the lighting in the Virtual Production studio. The application computes the best possible real-world approximation and adjusts the physical lighting fixtures in the VP studio accordingly.</p><p><br /></p><p>Video demonstrating the plugin&#39;s workflow with the CyberGaffer application (on the left side of the screen). You can observe how changing the actor&#39;s location in a virtual scene affects the application: <a href=\"https://drive.google.com/file/d/1DJJFnIW6XC_NhSe_M8UibC-kfPTaLRxf/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1DJJFnIW6XC_NhSe_M8UibC-kfPTaLRxf/view?usp&#61;sharing</a></p><p><br /></p><p>Code Modules: Runtime, Editor. CyberGafferSceneCapture is expected to work in all modes.</p><p> </p><p>Number of Blueprints: 0</p><p><br /></p><p>Number of C&#43;&#43; Classes: ~9</p><p><br /></p><p>Network Replicated: Yes, with the CyberGaffer application.</p><p><br /></p><p>Supported Development Platforms: Windows</p><p><br /></p><p>Supported Target Build Platforms: Windows</p><p><br /></p><p>Documentation: https://docs.google.com/document/d/1MZAwwK8D5W09wAfSNjQqdj69sah6_I2AelX0u2ygjRQ/edit#heading&#61;h.2t69da3rpw0i</p><p><br /></p><p>Example Project: N/A</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "25117db8-7648-4477-96a1-97f8ffb54858"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot-1920x1080-8aa7dd9d403d250d7c5905751e45b288.png",
+      "md5": "8aa7dd9d403d250d7c5905751e45b288",
+      "size": 1738832,
+      "uploadedDate": "2024-09-04T04:15:01.043Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CyberGafferplugin_thumb-284x284-cd65c17284b5ae2c16bbad9bb41885ea.png",
+      "md5": "cd65c17284b5ae2c16bbad9bb41885ea",
+      "size": 10232,
+      "uploadedDate": "2024-09-04T04:15:01.529Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CyberGafferplugin_featured-894x488-56d560791962fae2762d88742ba15489.png",
+      "md5": "56d560791962fae2762d88742ba15489",
+      "size": 44779,
+      "uploadedDate": "2024-09-04T04:15:01.694Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot-1920x1080-8aa7dd9d403d250d7c5905751e45b288_Snapshot.png",
+      "md5": "3146498dc5af872e7f074e77642da915",
+      "size": 6012,
+      "uploadedDate": "2024-09-04T04:15:01.458Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "68860dfe62cc4e628f42f13cbe9cf4c6"
+    }
+  ],
+  "catalogNs": null
+}

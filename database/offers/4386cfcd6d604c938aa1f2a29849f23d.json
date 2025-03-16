@@ -1,0 +1,170 @@
+{
+  "id": "4386cfcd6d604c938aa1f2a29849f23d",
+  "namespace": "ue",
+  "title": "VehiclePhysNetwork",
+  "description": "载具 Vechile  移动 Movement  碰撞 Collision  模拟同步 Synchronize Chaos物理引擎",
+  "longDescription": "<p>1: 使得载具的移动&#xff0c;碰撞有物理模拟的效果&#xff0c;并且使用了 Chaos 物理引擎的版本</p><p>1: Make the movement and collision of the vehicle have the effect of physical simulation, and use the Chaos physics engine version</p><p>2&#xff1a;保持已有的载具移动同步的效果&#xff0c; 常规的移动效果&#xff0c; 比如速度和移动方向等&#xff0c;并且在发生碰撞的时候&#xff0c; 以服务器的模拟的效果为准&#xff0c; 同步给其他的客户端&#xff0c; 使得所有的客户端拥有一样的物理碰撞效果</p><p>2: Maintain the effect of existing vehicle movement synchronization, conventional movement effects, such as speed and movement direction, and when a collision occurs, the simulated effect of the server shall prevail and be synchronized to other clients, so that all The client has the same physical collision effect</p><p>3: 这是一个自定义 MovementComponent 实现的方案&#xff0c; 你可以模仿其中的操作&#xff0c; 实现其他类型的MovementComponent的效果</p><p>3: This is a solution to customize MovementComponent implementation. You can imitate its operations and achieve the effects of other types of MovementComponent.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vehiclephysnetwork",
+  "creationDate": "2024-01-07T02:12:16.584Z",
+  "lastModifiedDate": "2024-10-16T03:51:39.819Z",
+  "effectiveDate": "2024-01-07T02:12:16.561Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-u6zkqmcnms8c3sxj3sw44d63atd2fk",
+    "name": "WanWanHa"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Simulate physical Collision synchronization</li><li> Synchronized vehicle movement</li><li> Make the Actor have the ability to move</li></ul><p>Code Modules:</p><ul><li> Runtime</li></ul><p>Number of Blueprints:</p><p>Number of C&#43;&#43; Classes:</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://github.com/WanWanHa/MarketPlaceDemo/blob/master/VehiclePhysNetworkDemo/README.md\" rel=\"nofollow\">Link </a></p><p>Example Project: <a href=\"https://github.com/WanWanHa/MarketPlaceDemo/tree/master/VehiclePhysNetworkDemo\" rel=\"nofollow\">LINK</a></p><p>Tutorial Videos&#xff1a;<a href=\"https://youtu.be/JQ0SyWd1ykI\" rel=\"nofollow\">LINK</a></p><p>视频教程&#xff1a;<a href=\"https://www.bilibili.com/video/BV1uN4y1v7ns/\" rel=\"nofollow\">链接</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d6bbf4e9-67d9-477b-b0c6-47797e6f7aa6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/222-1920x1080-36692e32dfe31ba837f103bb3a5b95b1.png",
+      "md5": "36692e32dfe31ba837f103bb3a5b95b1",
+      "size": 1570080,
+      "uploadedDate": "2024-01-06T10:24:30.826Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VehiclePhysNetwork_thumb-284x284-bbb6070e8a751773bd50cde66fb68721.png",
+      "md5": "bbb6070e8a751773bd50cde66fb68721",
+      "size": 124800,
+      "uploadedDate": "2024-01-07T02:19:30.826Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VehiclePhysNetwork_featured-894x488-68f91e98bc10d965a5b354fb3e8d723e.png",
+      "md5": "68f91e98bc10d965a5b354fb3e8d723e",
+      "size": 1060257,
+      "uploadedDate": "2024-01-06T10:24:31.392Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/222-1920x1080-36692e32dfe31ba837f103bb3a5b95b1_Snapshot.png",
+      "md5": "0a97a23792b75d9d0a3188074b57c138",
+      "size": 5513,
+      "uploadedDate": "2024-01-06T10:24:31.149Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5f0ec3e7005a4de09182fd951454f25b"
+    }
+  ],
+  "catalogNs": null
+}

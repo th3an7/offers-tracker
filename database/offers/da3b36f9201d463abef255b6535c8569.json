@@ -1,0 +1,176 @@
+{
+  "id": "da3b36f9201d463abef255b6535c8569",
+  "namespace": "ue",
+  "title": "PoseToBreathSystem",
+  "description": "This blueprint system can give your animation pose a breathing rhythm.",
+  "longDescription": "<p>Demo screen recording:</p><p><em><u>https://1drv.ms/v/s!AsQHbKWtLPjLiHd2tE3jg-pBWYJv?e&amp;#61</u></em></p><p>Help document:</p><p><em><u>https://1drv.ms/b/s!AsQHbKWtLPjLgm7IIvfJN8ffOsaI?e&#61;6jx1g2</u></em></p><p>Our goal is a convenient tool: developers provide a fixed animation pose, the tool plays a dynamic breathing animation (by animBP).</p><p>It means, you can create an anim pose by key frame or sequence, and set parameters of the anim notify state, then running level and npc will play dynamic breathing animation.</p><p>If you have any special needs, please leave me a message and I will try my best to consider compatibility in the updates.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "posetobreathsystem",
+  "creationDate": "2024-02-20T04:41:44.501Z",
+  "lastModifiedDate": "2024-10-08T19:12:14.755Z",
+  "effectiveDate": "2024-02-20T04:41:44.476Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gkchuvjj7b7ykczdnqvhexxeg7xjcf",
+    "name": "LiteraMoon"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> You can set the breathing rhythm of the main body bones (pelvis, spline, spline01, spline04, spline05, shoulders )</li><li>You can also adjust the amplitude ratio of your character&#39;s breathing in real-time as a whole, by modifying two parameters in AnimBP:  &#39;BreathRotateRate&#39; and &#39;BreathRootSwayRate&#39;</li><li> The transform of hand, upperarm and lowerarm will act naturally by hand ik rate and the relative stationary specified bone</li><li>Providing a BP tool that can save the animation state parameter about relative transform between hands and the relative bone you set ( detailed introduction and operation are written in the documentation link at the bottom )</li></ul><p>Number of Blueprints:</p><ul><li>1 NPC blueprint that you can modify the idle animation in level.</li><li>1 animBP that calculates bone breath rhythm, with 7 animation pose examples</li><li>1 animation notify state that you can modify parameters in every animation pose</li><li>1 blueprint tool ( it is a BP ) that can save the animation state parameter about relative transform between hands and the relative bone you set</li></ul><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation:</p><p><em><u>https://1drv.ms/b/s!AsQHbKWtLPjLgm7IIvfJN8ffOsaI?e&#61;6jx1g2</u></em></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5bcfc5ea-6b98-4747-a826-3ac510b52d4d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PicFeature2-1920x1080-b69a1f1b1e2a19a31d5cb89563bf096b.jpg",
+      "md5": "b69a1f1b1e2a19a31d5cb89563bf096b",
+      "size": 1095852,
+      "uploadedDate": "2024-02-11T13:59:00.520Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PicGallery03-1920x1080-f24672a77da65204867455235c4a4d44.jpg",
+      "md5": "f24672a77da65204867455235c4a4d44",
+      "size": 1207757,
+      "uploadedDate": "2024-02-11T13:56:55.142Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PicGallery01-1920x1080-00b2e61f9dab96f49f78591790eb6616.jpg",
+      "md5": "00b2e61f9dab96f49f78591790eb6616",
+      "size": 2108160,
+      "uploadedDate": "2024-02-11T13:56:54.126Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PicGallery02-1920x1080-9ac8a32c1732c15175272aaf1b66f02b.jpg",
+      "md5": "9ac8a32c1732c15175272aaf1b66f02b",
+      "size": 2191799,
+      "uploadedDate": "2024-02-11T13:56:54.642Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PoseToBreathSystem_thumb-284x284-4a6580d8c985ce600c56050549015097.png",
+      "md5": "4a6580d8c985ce600c56050549015097",
+      "size": 90621,
+      "uploadedDate": "2024-02-11T13:56:55.628Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PoseToBreathSystem_featured-894x488-ad88852621691d2dd3d2d08a838669f8.png",
+      "md5": "ad88852621691d2dd3d2d08a838669f8",
+      "size": 282832,
+      "uploadedDate": "2024-02-11T13:56:55.688Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PicFeature2-1920x1080-b69a1f1b1e2a19a31d5cb89563bf096b_Snapshot.jpg",
+      "md5": "769a006727052a49abee85c4bbb18ea8",
+      "size": 6453,
+      "uploadedDate": "2024-02-11T13:59:00.806Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PicGallery01-1920x1080-00b2e61f9dab96f49f78591790eb6616_Snapshot.jpg",
+      "md5": "91c0d5cd1ef4eadc027cd2ee8ddf7468",
+      "size": 5118,
+      "uploadedDate": "2024-02-11T13:56:54.472Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PicGallery02-1920x1080-9ac8a32c1732c15175272aaf1b66f02b_Snapshot.jpg",
+      "md5": "e08cc1194d5c8fcfbdf60e1363085704",
+      "size": 5448,
+      "uploadedDate": "2024-02-11T13:56:54.986Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PicGallery03-1920x1080-f24672a77da65204867455235c4a4d44_Snapshot.jpg",
+      "md5": "71b8abe15337090a93e2e62aa00c9476",
+      "size": 5812,
+      "uploadedDate": "2024-02-11T13:56:55.430Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "75b5381ad3424d85b3ca12e874483783"
+    }
+  ],
+  "catalogNs": null
+}

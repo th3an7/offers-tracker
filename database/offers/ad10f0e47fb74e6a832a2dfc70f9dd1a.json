@@ -1,0 +1,548 @@
+{
+  "id": "ad10f0e47fb74e6a832a2dfc70f9dd1a",
+  "namespace": "ue",
+  "title": "Beefy Water Hole (Water System)",
+  "description": "Stylized water materials, blueprints, and Niagara effects, perfect for creating ponds, lakes, creeks and streams.",
+  "longDescription": "<h4>5.2 Update Available -- Tutorial coming soon!</h4><h4><br /></h4><h4>Video Preview: <a href=\"https://youtu.be/cvUjRgHt8Tw?si&#61;kDRX603h0rCC_XzM\" rel=\"nofollow\">Youtube</a></h4><h4>Discord: <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://discord.gg/JwQY7nQUww\" rel=\"nofollow\">Link</a></h4><h4>Setup Video (UE4): <a href=\"https://youtu.be/4WcWmMxAldI\" rel=\"nofollow\">Youtube</a></h4><h4>Play Demo (UE4): <a href=\"https://mwallace3d.itch.io/beefy-water-hole\" rel=\"nofollow\">Itch.io</a></h4><h4><br /></h4><h4>**Landscape, Foliage, and Stones shown are only included in the 5.2 asset!</h4><h4><br /></h4><p><strong>Featuring an unlit, stylized water material with 50&#43; parameters for customization</strong> - Includes animated shorelines ( w/ options for Depthfade, DistanceFields, or Heightmap based techniques), vertex paint masking, wave color highlights, opacity effects, refraction, and simple wave vertex animations.</p><h4><br /></h4><p><strong>An efficient blueprint system for constructing tile-able water meshes and splines </strong>- Change water mesh, material, and default particles for enter and exit splashes (if an overlapping actor uses the BeefyInteraction component system, those particles specified in the component are used).</p><h4><br /></h4><p><strong>Easy to use BeefyInteractionComponent blueprint system designed for Player/Object particle interactions.</strong> Set custom particles to spawn while entering , exiting, wading, or idling in water - adjust particle spawn time intervals, and assigns particle color depending on water material.</p><p><br /></p><p><strong>Stylized Water-Line and Fog underwater post processing effects</strong> are a new addition with the 5.2 Update (Coming soon). Material instances can be changed for any water actor.</p><h4><br /></h4><h4>**Does not work with reflection reflections.</h4><h4><br /></h4>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "beefy-water-hole",
+  "creationDate": "2020-03-10T17:27:57.984Z",
+  "lastModifiedDate": "2024-10-08T17:02:47.285Z",
+  "effectiveDate": "2020-03-10T17:27:56.511Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wspfycd856348muwzrh42kjsusqq87",
+    "name": "MWallace3D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Main Features</strong>:</p><ul><li>Blueprints for constructing water mesh tiles and splines.</li><li>Custom water material and wake/ripple particle material, with 3 material instances each.</li><li>6 Wake, ripple, and splash particles of various size and LOD.</li><li>Easy-to-use ActorComponent designed for quick interactive particle setup. (Automatic enter/exit splashes, movement/idle wake functionality.) (<strong>Buoyant forces with physics enabled.</strong>)</li><li>Example ThirdPersonController/Projectile/StaticMeshActor with interactive particles setup.</li></ul><h4><strong>Bonus:</strong></h4><ul><li>SunPositioner day/night cycle. (Requires SunPositionCalculator plugin.)</li><li>BeefyDepthFog post process material with dynamic color parameters.</li><li>BeefyCelShader post process material with dynamic color parameters. (PP material does not support Mobile)</li></ul><p><strong>Number of Blueprints</strong>: 7</p><p><strong>Input</strong>:</p><ul><li>Movement: Default ThirdPerson controls</li><li>Shoot Projectile: RightMouseButton</li></ul><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>: Windows/Mac/Console/Mobile</p><p><strong>Documentation: </strong><a href=\"https://bit.ly/3vgOX8T\" rel=\"nofollow\">Beefy WaterHole FAQ&#39;s</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1221",
+      "name": "BULLET TIME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.164Z",
+      "updated": "2019-06-20T12:00:08.164Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8f12305c-d722-41ff-b42e-25fd926d967f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00068-1920x1080-42a8476723c74646c31a9bd9291a4bfc.png",
+      "md5": "42a8476723c74646c31a9bd9291a4bfc",
+      "size": 2893856,
+      "uploadedDate": "2023-10-22T20:37:17.780Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00028-1920x1080-7412045aafa8fe837d64ed41d03100e0.png",
+      "md5": "7412045aafa8fe837d64ed41d03100e0",
+      "size": 2965283,
+      "uploadedDate": "2023-10-22T20:37:20.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00073-1920x1080-7f3c00c8f7dbbd371e5ffba57774339d.png",
+      "md5": "7f3c00c8f7dbbd371e5ffba57774339d",
+      "size": 2739454,
+      "uploadedDate": "2023-10-22T20:37:18.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00069-1920x1080-c8c4b484ec5573c6a9ca8380353ba09d.png",
+      "md5": "c8c4b484ec5573c6a9ca8380353ba09d",
+      "size": 2690175,
+      "uploadedDate": "2023-10-22T20:37:19.283Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00074-1920x1080-d32619c33a5f9661c300fbc7a4abe5d6.png",
+      "md5": "d32619c33a5f9661c300fbc7a4abe5d6",
+      "size": 2690125,
+      "uploadedDate": "2023-10-22T20:37:20.103Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BPBeefyWaterHoleWaterMaterialParameters-1920x1080-98d4b965dee7cc4fc54d505dbd41d23e.png",
+      "md5": "98d4b965dee7cc4fc54d505dbd41d23e",
+      "size": 1166561,
+      "uploadedDate": "2020-03-26T19:52:42.103Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BPBeefyWaterHoleWaterMaterialParameters2-1920x1080-4d719eac180bc0ae541bfa562b1ff1c8.png",
+      "md5": "4d719eac180bc0ae541bfa562b1ff1c8",
+      "size": 1165166,
+      "uploadedDate": "2020-03-26T19:52:42.549Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BPBeefyWaterHoleWaterMaterialParameters3-1920x1080-0508355cf221238b05f5f2d6d60d8baa.png",
+      "md5": "0508355cf221238b05f5f2d6d60d8baa",
+      "size": 1182751,
+      "uploadedDate": "2020-03-26T19:52:43.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-7921ee37571b4a5b65a189ff4a235f00.png",
+      "md5": "7921ee37571b4a5b65a189ff4a235f00",
+      "size": 2759438,
+      "uploadedDate": "2020-04-17T02:14:02.784Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BeefyWaterHoleWaterSystem_thumb-284x284-f0160d7ef77f9a72dce08c7a2499178a.png",
+      "md5": "f0160d7ef77f9a72dce08c7a2499178a",
+      "size": 139650,
+      "uploadedDate": "2023-10-22T20:37:21.371Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BeefyWaterHoleWaterSystem_featured-894x488-9c1129e414f5e51a619d2af2ef176637.png",
+      "md5": "9c1129e414f5e51a619d2af2ef176637",
+      "size": 718937,
+      "uploadedDate": "2023-10-22T20:37:21.540Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00068-1920x1080-42a8476723c74646c31a9bd9291a4bfc_Snapshot.png",
+      "md5": "f33d949e40f5b7c733ccbbc9dcc9fe61",
+      "size": 5988,
+      "uploadedDate": "2023-10-22T20:37:18.246Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00073-1920x1080-7f3c00c8f7dbbd371e5ffba57774339d_Snapshot.png",
+      "md5": "ca2106a2063acd5e7c798e4af85b67b3",
+      "size": 5359,
+      "uploadedDate": "2023-10-22T20:37:19.049Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00069-1920x1080-c8c4b484ec5573c6a9ca8380353ba09d_Snapshot.png",
+      "md5": "64058bdc4b779b322acc5b79f89de928",
+      "size": 5082,
+      "uploadedDate": "2023-10-22T20:37:19.730Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00074-1920x1080-d32619c33a5f9661c300fbc7a4abe5d6_Snapshot.png",
+      "md5": "d5a3ed77f8965c9f94c6092ce915329b",
+      "size": 5232,
+      "uploadedDate": "2023-10-22T20:37:20.547Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00028-1920x1080-7412045aafa8fe837d64ed41d03100e0_Snapshot.png",
+      "md5": "e88bb7e0ebf3be3704cc103d2df812f3",
+      "size": 6071,
+      "uploadedDate": "2023-10-22T20:37:21.270Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-7921ee37571b4a5b65a189ff4a235f00_Snapshot.png",
+      "md5": "30f323f5ffb5183f630b1a3794916a77",
+      "size": 5748,
+      "uploadedDate": "2020-04-17T02:14:03.189Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-d8d87187890687fdda0a3c60e6467e33_Snapshot.png",
+      "md5": "6326584e7119e5b413d756aab2d1b68c",
+      "size": 4704,
+      "uploadedDate": "2020-04-17T02:14:03.761Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-752ec7ebfa1c4c56b7cab5ed0b93226e_Snapshot.png",
+      "md5": "70bd9341a262a69b4cdc46e6adf2989c",
+      "size": 5827,
+      "uploadedDate": "2020-04-17T02:14:04.732Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00010-1920x1080-c4dbb1cbf8250745ad5d3565f3d64d3e_Snapshot.png",
+      "md5": "342d9ea8b1ba105738fa80c5253cb0a6",
+      "size": 5203,
+      "uploadedDate": "2020-04-17T02:14:05.605Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-4e323b191531eb0a2eabeac1b5fd4862_Snapshot.png",
+      "md5": "b8d703cfa0dcee094a896c526297d8e5",
+      "size": 4354,
+      "uploadedDate": "2020-03-26T19:52:41.553Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BPBeefyInteractionComponentSetup-1920x1080-d604fc29f58ed4ca9c40aef1ee7a87e6_Snapshot.png",
+      "md5": "c30b3f63f04c9ceb67dab5af791a4907",
+      "size": 5411,
+      "uploadedDate": "2020-03-26T19:52:41.982Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BPBeefyWaterHoleWaterMaterialParameters-1920x1080-98d4b965dee7cc4fc54d505dbd41d23e_Snapshot.png",
+      "md5": "b50767ba0230b69b51f24ae7236764cc",
+      "size": 5514,
+      "uploadedDate": "2020-03-26T19:52:42.400Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BPBeefyWaterHoleWaterMaterialParameters2-1920x1080-4d719eac180bc0ae541bfa562b1ff1c8_Snapshot.png",
+      "md5": "68afb31e60fd4a3df672189da092ff77",
+      "size": 5347,
+      "uploadedDate": "2020-03-26T19:52:42.843Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BPBeefyWaterHoleWaterMaterialParameters3-1920x1080-0508355cf221238b05f5f2d6d60d8baa_Snapshot.png",
+      "md5": "99044139aeb69977e5fe59c7abc4eb3c",
+      "size": 5167,
+      "uploadedDate": "2020-03-26T19:52:43.302Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00093-1920x1080-b46ec4887b92014c0a8a281bd5354b50_Snapshot.png",
+      "md5": "612d2833659bc669ff47fc1b3d75d775",
+      "size": 4802,
+      "uploadedDate": "2020-02-24T04:42:22.979Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00086-1920x1080-88fbbd7ad6994e660f952be868dd0077_Snapshot.png",
+      "md5": "10f9f03225efc34b3de572b56764212b",
+      "size": 4989,
+      "uploadedDate": "2020-02-24T04:42:23.559Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00093-1920x1080-b46ec4887b92014c0a8a281bd5354b50_Snapshot.png",
+      "md5": "612d2833659bc669ff47fc1b3d75d775",
+      "size": 4802,
+      "uploadedDate": "2020-02-24T01:40:25.835Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00084-1920x1080-aeb4c23ba024014223e13b993a0e166b_Snapshot.png",
+      "md5": "eba5dfa7339fe29d242f07bebedc2d6c",
+      "size": 5461,
+      "uploadedDate": "2020-02-24T01:40:26.427Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00075-1920x1080-721d0930bc7f082f70a7cd79d2ad73bb_Snapshot.png",
+      "md5": "80aaf57ff77521fc6d466af72308f417",
+      "size": 5573,
+      "uploadedDate": "2020-02-24T01:40:27.053Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00078-1920x1080-86b88c6c89399f9f7a9a7f4740018a00_Snapshot.png",
+      "md5": "f58ebc284f51299e396a4593463aa7e0",
+      "size": 4306,
+      "uploadedDate": "2020-02-24T01:40:27.648Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00073-1920x1080-119f2963cd617abee415eea2d7467eff_Snapshot.png",
+      "md5": "ecc31f9fad0591e8886fa1e5b38df0a2",
+      "size": 4633,
+      "uploadedDate": "2020-02-24T01:40:28.293Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00091-1920x1080-02023b4fa953f5b2e7e60d2ec2a3bc06_Snapshot.png",
+      "md5": "51ae7c0c63cfa2fc89e145bb206c5725",
+      "size": 4452,
+      "uploadedDate": "2020-02-24T01:40:28.933Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00077-1920x1080-db038f5aa560afb831f3dae88a2c898a_Snapshot.png",
+      "md5": "4814c37b3386de35d8567115c7e6f434",
+      "size": 4697,
+      "uploadedDate": "2020-02-24T01:40:29.553Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7aae94395f5547a98b40913e82489370"
+    }
+  ],
+  "catalogNs": null
+}

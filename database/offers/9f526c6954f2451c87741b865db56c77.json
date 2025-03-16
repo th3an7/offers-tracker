@@ -1,0 +1,398 @@
+{
+  "id": "9f526c6954f2451c87741b865db56c77",
+  "namespace": "ue",
+  "title": "Gothic Choir",
+  "description": "Gothic Choir is a Midi Audio-Visualisation Tool integrated with Unreal Engine 4",
+  "longDescription": "<p>Gothic Choir is a Midi Audio-Visualisation Tool integrated with Unreal Engine 4.</p><p><br /></p><p>Video - <a href=\"https://youtu.be/4Jtyb2D03W8\" rel=\"nofollow\">https://youtu.be/4Jtyb2D03W8</a></p><p><br /></p><p>Use your Midi Device like Midi Keyboard or Synth with Midi Connection to play with Gothic Choir or you can play using your mouse or pc keyboard (Shortcuts applied to E-P keys).</p><p><br /></p><p>For playing with MIDI you need to have Midi Device (Midi Keyboard or Midi Pad and etc.) Especially this product works fine with Midi Keyboards or Hardware Synthesizers with MIDI and the principle is a simple Sound Font Instrument or Virtual Instrument (VSTi) but in Unreal Engine 4 Virtual Space.</p><p><br /></p><p>For use in other projects make sure the required plugin is enabled:</p><p><br /></p><p>Plugins &gt; Input Devices &gt; MIDI Device Support</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gothic-choir",
+  "creationDate": "2020-03-28T05:57:47.250Z",
+  "lastModifiedDate": "2024-10-10T22:04:41.658Z",
+  "effectiveDate": "2020-03-28T05:57:45.705Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e506c09faf424288860e84084faaba",
+    "name": "KULTRA LTD"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><p><br /></p><ul><li>Gothic Choir is a customizable choir in a virtual space with acoustic settings and animated virtual actors (nuns).</li><li>Each Nun actor has 6 types of singing.</li><li>Have no limit on how many Nun actors to place in virtual space.</li><li>Each Nun can have individual acoustic emitter settings, pitch multiplier value, and animation speed.</li><li>Support up to 4 Midi Device Inputs</li><li>Number of Blueprints: 4</li><li>Input: Midi Device, PC Keyboard, Mouse</li><li>Supported Development Platforms: PC</li><li>Supported Target Build Platforms: PC</li></ul><p><br /></p><p><strong>Documentation:</strong></p><p><br /></p><p>For use in other projects make sure the required plugin is enabled:</p><p><br /></p><p>Plugins &gt; Input Devices &gt; MIDI Device Support</p><p><br /></p><p>Use the GothicChoir map to load the Gothic Choir and then run the simulation.</p><p>Use your Midi Device like Midi Keyboard or Synth with Midi Connection to play with Gothic Choir or use your mouse or PC Keyboard (Shortcuts applied to E-P keys).</p><p>To set the MIDI Input use keyboard keys 1-4, otherwise, UE4 will use the first available Midi Input automatically.</p><p>The current blueprint has four available midi inputs, which you can switch between.</p><p><br /></p><p>Video - <a href=\"https://youtu.be/4Jtyb2D03W8\" rel=\"nofollow\">https://youtu.be/4Jtyb2D03W8</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "aae2675f-b103-4208-81a9-f5d75c144afe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView01-1920x1080-c808178cfea861e5c6f4fb78c6d268bb.jpg",
+      "md5": "c808178cfea861e5c6f4fb78c6d268bb",
+      "size": 155759,
+      "uploadedDate": "2020-03-18T13:13:20.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView09-1920x1080-982cfcc445ac5ee5da935acf3e7f965b.jpg",
+      "md5": "982cfcc445ac5ee5da935acf3e7f965b",
+      "size": 344135,
+      "uploadedDate": "2020-03-18T13:13:20.484Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView10-1920x1080-c9d2d5f846789061007440a434e68572.jpg",
+      "md5": "c9d2d5f846789061007440a434e68572",
+      "size": 269643,
+      "uploadedDate": "2020-03-18T13:13:20.796Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView03-1920x1080-4a371c5d96441a61e3dabdc86ecdc45f.jpg",
+      "md5": "4a371c5d96441a61e3dabdc86ecdc45f",
+      "size": 131023,
+      "uploadedDate": "2020-03-18T13:13:21.159Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView04-1920x1080-a558a0e3eb9038cd503089a548a6d8da.jpg",
+      "md5": "a558a0e3eb9038cd503089a548a6d8da",
+      "size": 131521,
+      "uploadedDate": "2020-03-18T13:13:21.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView05-1920x1080-942efe519e4cf8313db71b30337da81b.jpg",
+      "md5": "942efe519e4cf8313db71b30337da81b",
+      "size": 143276,
+      "uploadedDate": "2020-03-18T13:13:21.842Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView06-1920x1080-035e277dded56d943749c0e0bd7489f0.jpg",
+      "md5": "035e277dded56d943749c0e0bd7489f0",
+      "size": 144448,
+      "uploadedDate": "2020-03-18T13:13:22.335Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoirView02-1920x1080-064f8ed0d70936e998d69e73755a4014.jpg",
+      "md5": "064f8ed0d70936e998d69e73755a4014",
+      "size": 283061,
+      "uploadedDate": "2020-03-18T13:13:22.690Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GothicChoir08B-1920x1080-4f4e587d18c8ee14312ce8114d46245f.png",
+      "md5": "4f4e587d18c8ee14312ce8114d46245f",
+      "size": 1721023,
+      "uploadedDate": "2020-03-25T13:18:11.739Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GothicChoir_thumb-284x284-83f02a519f1a544951003941f9aea3c4.png",
+      "md5": "83f02a519f1a544951003941f9aea3c4",
+      "size": 56475,
+      "uploadedDate": "2020-03-05T19:49:49.483Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GothicChoir_featured-894x488-58d39d80c308ee895f5b82baed31442e.png",
+      "md5": "58d39d80c308ee895f5b82baed31442e",
+      "size": 328084,
+      "uploadedDate": "2020-03-05T19:49:49.592Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoir08B-1920x1080-4f4e587d18c8ee14312ce8114d46245f_Snapshot.png",
+      "md5": "384c2295dea308ce5aef44029cdc6282",
+      "size": 4656,
+      "uploadedDate": "2020-03-25T13:18:12.134Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView01-1920x1080-c808178cfea861e5c6f4fb78c6d268bb_Snapshot.jpg",
+      "md5": "b5dcde01dedc8ceccaf0d7dbed2b4ba6",
+      "size": 4530,
+      "uploadedDate": "2020-03-18T13:13:20.373Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView09-1920x1080-982cfcc445ac5ee5da935acf3e7f965b_Snapshot.jpg",
+      "md5": "57a28546e4938180e820fa92d183e775",
+      "size": 6456,
+      "uploadedDate": "2020-03-18T13:13:20.714Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView10-1920x1080-c9d2d5f846789061007440a434e68572_Snapshot.jpg",
+      "md5": "8117190441a8e7b85feb9e6a5189326e",
+      "size": 5270,
+      "uploadedDate": "2020-03-18T13:13:21.044Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView03-1920x1080-4a371c5d96441a61e3dabdc86ecdc45f_Snapshot.jpg",
+      "md5": "57502b9268c59447bf067bde9fbbfb34",
+      "size": 3081,
+      "uploadedDate": "2020-03-18T13:13:21.410Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView04-1920x1080-a558a0e3eb9038cd503089a548a6d8da_Snapshot.jpg",
+      "md5": "0d79586bb4dfc1bbb55537fcdc273d3b",
+      "size": 3081,
+      "uploadedDate": "2020-03-18T13:13:21.764Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView05-1920x1080-942efe519e4cf8313db71b30337da81b_Snapshot.jpg",
+      "md5": "09dc11f0eb569819bb2f0b7e268b07c2",
+      "size": 3808,
+      "uploadedDate": "2020-03-18T13:13:22.150Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView06-1920x1080-035e277dded56d943749c0e0bd7489f0_Snapshot.jpg",
+      "md5": "df406006852378912c66b7b99f149b75",
+      "size": 3891,
+      "uploadedDate": "2020-03-18T13:13:22.566Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView02-1920x1080-064f8ed0d70936e998d69e73755a4014_Snapshot.jpg",
+      "md5": "e7997792f2d7643de65edfc19c668b9e",
+      "size": 5926,
+      "uploadedDate": "2020-03-18T13:13:22.932Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView08A-1920x1080-f7ed329effde2e49fb9397cedf50ce70_Snapshot.jpg",
+      "md5": "3db44cdc66837d34ed27f2ebcc1af8ec",
+      "size": 4665,
+      "uploadedDate": "2020-03-18T13:13:23.273Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView01-1920x1080-c808178cfea861e5c6f4fb78c6d268bb_Snapshot.jpg",
+      "md5": "b5dcde01dedc8ceccaf0d7dbed2b4ba6",
+      "size": 4530,
+      "uploadedDate": "2020-03-05T19:49:47.140Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView02-1920x1080-064f8ed0d70936e998d69e73755a4014_Snapshot.jpg",
+      "md5": "e7997792f2d7643de65edfc19c668b9e",
+      "size": 5926,
+      "uploadedDate": "2020-03-05T19:49:47.517Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView03-1920x1080-4a371c5d96441a61e3dabdc86ecdc45f_Snapshot.jpg",
+      "md5": "57502b9268c59447bf067bde9fbbfb34",
+      "size": 3081,
+      "uploadedDate": "2020-03-05T19:49:47.890Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView04-1920x1080-a558a0e3eb9038cd503089a548a6d8da_Snapshot.jpg",
+      "md5": "0d79586bb4dfc1bbb55537fcdc273d3b",
+      "size": 3081,
+      "uploadedDate": "2020-03-05T19:49:48.279Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView05-1920x1080-942efe519e4cf8313db71b30337da81b_Snapshot.jpg",
+      "md5": "09dc11f0eb569819bb2f0b7e268b07c2",
+      "size": 3808,
+      "uploadedDate": "2020-03-05T19:49:48.602Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView06-1920x1080-035e277dded56d943749c0e0bd7489f0_Snapshot.jpg",
+      "md5": "df406006852378912c66b7b99f149b75",
+      "size": 3891,
+      "uploadedDate": "2020-03-05T19:49:48.987Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GothicChoirView07-1920x1080-0e58fb1bfe18c19b4788d0b6b2b5be02_Snapshot.jpg",
+      "md5": "c0b404a5d05542d91eefe67d3e37719d",
+      "size": 4654,
+      "uploadedDate": "2020-03-05T19:49:49.375Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9d3a180b9dd74101a3c976413bee42f9"
+    }
+  ],
+  "catalogNs": null
+}

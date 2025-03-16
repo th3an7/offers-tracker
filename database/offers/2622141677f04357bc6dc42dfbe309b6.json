@@ -1,0 +1,458 @@
+{
+  "id": "2622141677f04357bc6dc42dfbe309b6",
+  "namespace": "ue",
+  "title": "Night Vision Component (10 Presets)",
+  "description": "An easily accessible component for quickly adding night vision to your game. Includes a library of premade materials.",
+  "longDescription": "<p><a href=\"https://youtu.be/Gat6KTdd50U\" rel=\"nofollow\"><strong>Showcase &amp; Tutorial</strong></a></p><p><a href=\"https://www.youtube.com/watch?v&#61;E-KRzRsadac\" rel=\"nofollow\"><strong>&#xfeff;ALS v4 Tutorial</strong></a></p><p>This component adjusts exposure values to actually allow you to see in the dark. Gone are the days of faking it with a spotlight!</p><p>This asset includes component based settings to easily adjust values to your liking and a <strong>huge library of premade materials</strong> to get you started.</p><p>This product was created with a <strong>&#34;plug &amp; play&#34;</strong> mentality, using only <strong>TWO</strong> functions: one to initialize the component, and another to toggle night vision on &amp; off.</p><p><strong>Features:</strong></p><ul><li>Realtime exposure adjustments to accurately simulate the ability to see in the dark.</li><li>A huge material library, mimicking real world night vision colors and additional colors commonly used across gaming.</li><li>Accessible settings for fine tuning brightness and noise levels.</li><li>Easy to use implementation!</li></ul><p><em>Please note any additional assets pictured are purely for demonstration and are NOT included in this product.</em></p><p>Looking for additional stealth vision abilities? Save <strong>25% OFF</strong> with the<strong> </strong><a href=\"https://www.unrealengine.com/marketplace/en-US/product/685e893f7ce4478cb85967282fc00cc2\" rel=\"nofollow\"><strong>Stealth Vision Bundle</strong></a>!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "night-vision-component",
+  "creationDate": "2023-08-24T14:47:55.883Z",
+  "lastModifiedDate": "2024-10-22T22:45:13.833Z",
+  "effectiveDate": "2023-08-24T14:47:55.847Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jxl57mvzmp8g8wkxs5pg4rpkahstn2",
+    "name": "Kryptic Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 2 <em>(1 Component &amp; 1 Example Character)</em></p><p>Input: Gamepad &amp; Keyboard</p><p>Network Replicated: No</p><p>Supported Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Untested</li></ul><p><em>Please contact </em><a href=\"mailto:contact&#64;krypticentertainment.com\" rel=\"nofollow\"><em>contact&#64;krypticentertainment.com</em></a><em> for questions and support.</em></p><p><br /></p><p><strong>Update Log</strong></p><ul><li>1.02</li></ul><p><em>Added desaturation node to base material to prevent bright colors from conflicting with post process.</em></p><ul><li>2.0</li></ul><p><em>Consolidated code. Added an option to toggle on by default. Added Enhanced Inputs to example character for 5.1&#43;.</em></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2799588c-93a7-4bab-990b-347bd4956e24"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GCover02-1920x1080-f199d0428b194314316b3d678ad6ae65.png",
+      "md5": "f199d0428b194314316b3d678ad6ae65",
+      "size": 2230648,
+      "uploadedDate": "2024-07-19T21:31:07.186Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GOFFON01-1920x1080-f573b2032caf2926f1c06d6c7059f268.png",
+      "md5": "f573b2032caf2926f1c06d6c7059f268",
+      "size": 2380886,
+      "uploadedDate": "2024-07-19T21:31:07.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GPresets-1920x1080-b3c5dc6aabe06fd660bafefefa86e5de.png",
+      "md5": "b3c5dc6aabe06fd660bafefefa86e5de",
+      "size": 1837897,
+      "uploadedDate": "2024-07-19T21:31:08.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GMaterial-1920x1080-3fca1d10518a13479111d2a0fe612ae1.png",
+      "md5": "3fca1d10518a13479111d2a0fe612ae1",
+      "size": 1311187,
+      "uploadedDate": "2024-07-19T21:31:09.274Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GSetup-1920x1080-5098555b06046d3cd5c89b067b9acaa6.png",
+      "md5": "5098555b06046d3cd5c89b067b9acaa6",
+      "size": 462115,
+      "uploadedDate": "2024-07-19T21:31:09.826Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GExample03-1920x1080-9c8677f45a68571e08a997e73e19ab6a.png",
+      "md5": "9c8677f45a68571e08a997e73e19ab6a",
+      "size": 1829618,
+      "uploadedDate": "2024-07-19T21:31:10.406Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GExample02-1920x1080-1f8b1a6d01fe86f8e950b12e172dc3db.png",
+      "md5": "1f8b1a6d01fe86f8e950b12e172dc3db",
+      "size": 2218508,
+      "uploadedDate": "2024-07-19T21:31:11.049Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GExample01-1920x1080-12581a85e1c641991b8f7a42a34924eb.png",
+      "md5": "12581a85e1c641991b8f7a42a34924eb",
+      "size": 2186694,
+      "uploadedDate": "2024-07-19T21:31:11.684Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GEditor-1920x1080-121a26903ed834d1bbfb762c9d47fc7a.png",
+      "md5": "121a26903ed834d1bbfb762c9d47fc7a",
+      "size": 1574711,
+      "uploadedDate": "2024-07-19T21:31:12.303Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NightVisionComponent10Presets_thumb-284x284-f1ff70ad72a635ae167cda1e85641e60.png",
+      "md5": "f1ff70ad72a635ae167cda1e85641e60",
+      "size": 129454,
+      "uploadedDate": "2024-07-19T21:31:12.816Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NightVisionComponent10Presets_featured-894x488-f51aa8e9eb545c5b80903cf79b7b51bb.png",
+      "md5": "f51aa8e9eb545c5b80903cf79b7b51bb",
+      "size": 603810,
+      "uploadedDate": "2024-07-19T21:31:12.957Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GCover02-1920x1080-f199d0428b194314316b3d678ad6ae65_Snapshot.png",
+      "md5": "a3140e5a30f0f370b55fbd9802a58642",
+      "size": 6326,
+      "uploadedDate": "2024-07-19T21:31:07.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GOFFON01-1920x1080-f573b2032caf2926f1c06d6c7059f268_Snapshot.png",
+      "md5": "5edd9c4aff37bfe71d384ba2f62f5657",
+      "size": 6486,
+      "uploadedDate": "2024-07-19T21:31:08.375Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GPresets-1920x1080-b3c5dc6aabe06fd660bafefefa86e5de_Snapshot.png",
+      "md5": "f183444811553e2a5d5ce164edd6d79e",
+      "size": 3809,
+      "uploadedDate": "2024-07-19T21:31:09.050Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GMaterial-1920x1080-3fca1d10518a13479111d2a0fe612ae1_Snapshot.png",
+      "md5": "d45cca0538fd16fea0a405090655ac6a",
+      "size": 4620,
+      "uploadedDate": "2024-07-19T21:31:09.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GSetup-1920x1080-5098555b06046d3cd5c89b067b9acaa6_Snapshot.png",
+      "md5": "b84a3d3aedadfb78da9c605208cc7da9",
+      "size": 4590,
+      "uploadedDate": "2024-07-19T21:31:10.179Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GExample03-1920x1080-9c8677f45a68571e08a997e73e19ab6a_Snapshot.png",
+      "md5": "51e02e3a78140b37111c95ac846c487d",
+      "size": 3895,
+      "uploadedDate": "2024-07-19T21:31:10.858Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GExample02-1920x1080-1f8b1a6d01fe86f8e950b12e172dc3db_Snapshot.png",
+      "md5": "9c89923a223928a231cdf36b8068f1b0",
+      "size": 4862,
+      "uploadedDate": "2024-07-19T21:31:11.514Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GExample01-1920x1080-12581a85e1c641991b8f7a42a34924eb_Snapshot.png",
+      "md5": "70a1be13eaaa31b3b37e611aab90669b",
+      "size": 6830,
+      "uploadedDate": "2024-07-19T21:31:12.076Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GEditor-1920x1080-121a26903ed834d1bbfb762c9d47fc7a_Snapshot.png",
+      "md5": "e95c0502c87c9e2fb3e39196ec9f4738",
+      "size": 3576,
+      "uploadedDate": "2024-07-19T21:31:12.775Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV03-1920x1080-93afa1a03422acf61a797da40cac4083_Snapshot.png",
+      "md5": "3f65d8aa8cd139d7bd365a6fca169615",
+      "size": 2009,
+      "uploadedDate": "2023-08-19T20:07:34.463Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV04-1920x1080-67b30e8c62d0ac5d2e8ae15ecb079ae6_Snapshot.png",
+      "md5": "9ea1f1c26ec6e58d5c4d8e3ecacf25ab",
+      "size": 4216,
+      "uploadedDate": "2023-08-19T20:07:34.910Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV02-1920x1080-de6d4b7f8cdb6d0a46f4d9c5df9e7f66_Snapshot.png",
+      "md5": "49d69cd36072d460ef8bd07b0d23b67a",
+      "size": 6061,
+      "uploadedDate": "2023-08-19T20:07:35.389Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV01-1920x1080-be782c8fc650174a284979495cb52d9e_Snapshot.png",
+      "md5": "73ab19609d6ec0bb358bfa185e89e40c",
+      "size": 5796,
+      "uploadedDate": "2023-08-19T20:07:35.795Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV05-1920x1080-57dd3fe6440375423ebd86337828068c_Snapshot.png",
+      "md5": "a5af7281db673147c5625faba98202fb",
+      "size": 4772,
+      "uploadedDate": "2023-08-19T20:07:36.357Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV08-1920x1080-c18a179f5b5b74ecdb6e97cd4062e0d6_Snapshot.png",
+      "md5": "3baf76d15f83c3e314615802691a5017",
+      "size": 4423,
+      "uploadedDate": "2023-08-19T20:07:36.973Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV06-1920x1080-6c7df8a2b83091cff782346cdc58950b_Snapshot.png",
+      "md5": "57eb393615d1a929e88d4e825f261bc3",
+      "size": 4897,
+      "uploadedDate": "2023-08-19T20:07:37.586Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NV07-1920x1080-329f85a51e2733de31c31edf20f78e0e_Snapshot.png",
+      "md5": "7667c1a661750e9a3a871cd6df4c6474",
+      "size": 5365,
+      "uploadedDate": "2023-08-19T20:07:38.166Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "08cd09ff7f9641c796296fa31c8b7b46"
+    }
+  ],
+  "catalogNs": null
+}

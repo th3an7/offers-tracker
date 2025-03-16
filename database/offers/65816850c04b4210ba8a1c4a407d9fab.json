@@ -1,0 +1,458 @@
+{
+  "id": "65816850c04b4210ba8a1c4a407d9fab",
+  "namespace": "ue",
+  "title": "Cavity Blender Post Process",
+  "description": "Custom Post Process Effects to recreate the Ridge and Valley Screen and World space effect available in Blender.",
+  "longDescription": "<p><strong>Official Documentation:</strong> <a href=\"https://www.hubberstudios.com/docs/cavity/index.html\" rel=\"nofollow\">Cavity &amp; Curvature Post Process</a></p><p><strong>Showcase Video:</strong> <a href=\"https://www.youtube.com/watch?v&#61;QD7v0mDbj5M\" rel=\"nofollow\">Video</a></p><p><strong>For support, please join our </strong><a href=\"https://discord.gg/MyrnG7XVDc\" rel=\"nofollow\"><strong>Discord Server</strong></a></p><p><br /></p><p>Cavity And Curvature Post Process is a user-friendly, high-performance HLSL shader designed to accentuate Valleys and Ridges in your scene. Seamlessly integrate our custom Post-Process Shader to recreate the wonderful effects seen in Blender. Simply add our Cavity Post Process Volume, and edit the settings to achieve the desired effect. Edit with your own Post Process Editor material to combine the effect with your scene.</p><p>Feel free to contact us for any inquiries.</p><p><br /></p><p>PLEASE NOTE: The assets shown in the screenshots is NOT included.</p><p><br /></p><p>PLEASE NOTE: The Cavity Post Process Volume extends the functionality of the Post Process Volume, so all properties work as usual. Remember to check the <strong>Infinite Extent (Unbound)</strong> property to view it across the entire level, or adjust the bounds appropriately to apply it where desired.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cavity-blender-post-process",
+  "creationDate": "2024-09-02T19:53:34.545Z",
+  "lastModifiedDate": "2024-10-01T12:53:39.927Z",
+  "effectiveDate": "2024-09-02T19:53:34.477Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8dba3nbs3yt48g6d97qtwe5jat5drd",
+    "name": "Hubber Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>FEATURES</p><ul><li>Advanced Cavity and Curvature Shader. Recreate the blender cavity and curvature effect</li></ul><p><br /></p><p>Number of Shader: 2</p><p>Number of C&#43;&#43; Classes: 5</p><p>Number of Textures: 1</p><p>Texture Resolutions: 64</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p><br /></p><p>Documentation: <a href=\"https://www.hubberstudios.com/docs/cavity/index.html\" rel=\"nofollow\">Cavity &amp; Curvature Post Process</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1155",
+      "name": "SOKOBAN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:35.675Z",
+      "updated": "2019-06-20T11:59:35.675Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8d2c5084-f9fa-4c62-bb86-44059a95cc5a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityHomepage-1920x1080-51968e7114c6de52c5c9cf3b05f7776b.png",
+      "md5": "51968e7114c6de52c5c9cf3b05f7776b",
+      "size": 1887437,
+      "uploadedDate": "2024-08-17T14:29:22.097Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen001-1920x1080-a457ddf59acb6db934b9e5c4eb2927a1.png",
+      "md5": "a457ddf59acb6db934b9e5c4eb2927a1",
+      "size": 1756077,
+      "uploadedDate": "2024-08-17T14:29:22.749Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen002-1920x1080-0d0f1c0e062e47ddccab981bb1c62260.png",
+      "md5": "0d0f1c0e062e47ddccab981bb1c62260",
+      "size": 615351,
+      "uploadedDate": "2024-08-17T14:29:23.381Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen003-1920x1080-9a65ff87cfbbbc3e4c1096d1087b7f0c.png",
+      "md5": "9a65ff87cfbbbc3e4c1096d1087b7f0c",
+      "size": 2586509,
+      "uploadedDate": "2024-08-17T14:29:23.923Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen004-1920x1080-b9dd23e4f38fd6a8da5adcfd37a84bbd.png",
+      "md5": "b9dd23e4f38fd6a8da5adcfd37a84bbd",
+      "size": 814957,
+      "uploadedDate": "2024-08-17T14:29:24.452Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen005-1920x1080-7229950c65e0c95d53868b9683c118cc.png",
+      "md5": "7229950c65e0c95d53868b9683c118cc",
+      "size": 1118873,
+      "uploadedDate": "2024-08-17T14:29:24.669Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen006-1920x1080-cd5db058349f3b2a0d8278e6e4e0487a.png",
+      "md5": "cd5db058349f3b2a0d8278e6e4e0487a",
+      "size": 1548399,
+      "uploadedDate": "2024-08-17T14:29:24.990Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen007-1920x1080-cc6add870b18044c75e65842c44202c8.png",
+      "md5": "cc6add870b18044c75e65842c44202c8",
+      "size": 1403861,
+      "uploadedDate": "2024-08-17T14:29:25.499Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen008-1920x1080-1724822bf9cfd34434330c48d2a7be0c.png",
+      "md5": "1724822bf9cfd34434330c48d2a7be0c",
+      "size": 1917003,
+      "uploadedDate": "2024-08-17T14:29:25.978Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CavityScreen009-1920x1080-314ddbb5c314caa543ed6cb952877027.png",
+      "md5": "314ddbb5c314caa543ed6cb952877027",
+      "size": 1339859,
+      "uploadedDate": "2024-08-17T20:12:11.707Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CavityBlenderPostProcess_thumb-284x284-eeaec2f2c8d8089ae7adef65dc476a94.png",
+      "md5": "eeaec2f2c8d8089ae7adef65dc476a94",
+      "size": 77972,
+      "uploadedDate": "2024-08-17T14:29:27.088Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CavityBlenderPostProcess_featured-894x488-b9cc175bbc92920e01993364a7222d1a.png",
+      "md5": "b9cc175bbc92920e01993364a7222d1a",
+      "size": 376557,
+      "uploadedDate": "2024-08-17T14:29:27.275Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen009-1920x1080-314ddbb5c314caa543ed6cb952877027_Snapshot.png",
+      "md5": "80d7baf33d2132989e6c6ce61fa28674",
+      "size": 5241,
+      "uploadedDate": "2024-08-17T20:12:12.051Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityHomepage-1920x1080-51968e7114c6de52c5c9cf3b05f7776b_Snapshot.png",
+      "md5": "ff2707b46d940facdbac11a3593c1f44",
+      "size": 4639,
+      "uploadedDate": "2024-08-17T14:29:22.433Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen001-1920x1080-a457ddf59acb6db934b9e5c4eb2927a1_Snapshot.png",
+      "md5": "33ef17107d712a2bbad419659ccfd5cf",
+      "size": 6778,
+      "uploadedDate": "2024-08-17T14:29:23.133Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen002-1920x1080-0d0f1c0e062e47ddccab981bb1c62260_Snapshot.png",
+      "md5": "c30dfc9d5daeffe43c0ffd96a1b46e03",
+      "size": 6009,
+      "uploadedDate": "2024-08-17T14:29:23.697Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen003-1920x1080-9a65ff87cfbbbc3e4c1096d1087b7f0c_Snapshot.png",
+      "md5": "b88f6a3ba88a483bbb0eb18b5c5a2540",
+      "size": 6268,
+      "uploadedDate": "2024-08-17T14:29:24.320Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen004-1920x1080-b9dd23e4f38fd6a8da5adcfd37a84bbd_Snapshot.png",
+      "md5": "910fa12b5a828950806a6bc67f9890f6",
+      "size": 8382,
+      "uploadedDate": "2024-08-17T14:29:24.545Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen005-1920x1080-7229950c65e0c95d53868b9683c118cc_Snapshot.png",
+      "md5": "18b880b253dcced45c2af0a2380a5a76",
+      "size": 8680,
+      "uploadedDate": "2024-08-17T14:29:24.798Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen006-1920x1080-cd5db058349f3b2a0d8278e6e4e0487a_Snapshot.png",
+      "md5": "0ba306d2985fd22c15f12b25e74aad69",
+      "size": 5583,
+      "uploadedDate": "2024-08-17T14:29:25.309Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen007-1920x1080-cc6add870b18044c75e65842c44202c8_Snapshot.png",
+      "md5": "b2c945f322b4926fb5422f6ae1332c29",
+      "size": 4523,
+      "uploadedDate": "2024-08-17T14:29:25.800Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen008-1920x1080-1724822bf9cfd34434330c48d2a7be0c_Snapshot.png",
+      "md5": "32e2c6d7c7e0c31c802c7a7931418c10",
+      "size": 4552,
+      "uploadedDate": "2024-08-17T14:29:26.349Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CavityScreen009-1920x1080-2d803380024c5c18eeee0c38040964ca_Snapshot.png",
+      "md5": "093e7e8868627ec0f3091d34fde107f2",
+      "size": 5327,
+      "uploadedDate": "2024-08-17T14:29:27.051Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SaveFileEditorScreen001-1920x1080-f6ab5fff4ec5536ebcdbcf5132fb1f95_Snapshot.png",
+      "md5": "d764218d12422504b5375c69801ce4ab",
+      "size": 5337,
+      "uploadedDate": "2023-12-06T17:22:49.852Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9688b3ddd3394817bd5af990213ee27a"
+    }
+  ],
+  "catalogNs": null
+}

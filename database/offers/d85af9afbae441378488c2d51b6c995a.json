@@ -1,0 +1,270 @@
+{
+  "id": "d85af9afbae441378488c2d51b6c995a",
+  "namespace": "ue",
+  "title": "Flex Consumable",
+  "description": "Abstraction wrapper for managing any consumable item in any game. For example: stamina, magicka, health, fuel, electricity, weight, durability etc.",
+  "longDescription": "<p>Original idea was to provide abstraction wrapper which helps to manage consumable stuff in any game.</p><p>For example stamina/magicka/health for main character or NPC, fuel for car, electricity for some building, inventory items when their quantity can increase/decrease, some in game shop items when their quantity can increase/decrease, in game money such as silver/gold coins or whatever currency represented in your game etc.</p><p>So this class providing necessary functionality for help in managing of ALL such consumables in ANY games.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "flex-consumable",
+  "creationDate": "2024-07-12T07:37:11.441Z",
+  "lastModifiedDate": "2024-10-14T21:04:46.393Z",
+  "effectiveDate": "2024-07-12T07:37:11.380Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-seut5exxqc8jtr43qtmk72jw3yksgu",
+    "name": "Lone Flex"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Storage for all in game consumable items</li><li>Asynchronous/Non-Asynchronous Consuming/Restoring of consumable value</li><li>One actor can have multiple consumable in storage</li><li>Updating specific value for specific consumable of specific actor in storage</li><li>Adding/Removing new actor/actor consumable to storage</li><li>Retrieving specific consumable of specific actor from storage</li></ul><p>Number of Blueprints: 1 (class and functions made on c&#43;&#43; and exposed to use in blueprints)</p><p>Number of C&#43;&#43; Classes: 1</p><p>Documentation: Inside FlexConsumable .h file inside plugin &#34;source&#34; folder</p><p>Important note: functionality originally made for using withing c&#43;&#43;, it have exposed functionality to blueprints within unreal engine macros</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "false"
+    },
+    {
+      "key": "FabListingId",
+      "value": "8770ad4c-5f7a-4cd0-bf00-091d12335ac1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920x1080resized-1920x1080-ef8a210f0c9e16411ff6665a2f967073.png",
+      "md5": "ef8a210f0c9e16411ff6665a2f967073",
+      "size": 160006,
+      "uploadedDate": "2024-06-28T11:45:28.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FlexConsumable_thumb-284x284-aac563700e7729ad34351d0d5bcd85e4.png",
+      "md5": "aac563700e7729ad34351d0d5bcd85e4",
+      "size": 20005,
+      "uploadedDate": "2024-06-28T11:45:28.542Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FlexConsumable_featured-894x488-cb1a14752a35b2129a9ad0d2d90616b5.png",
+      "md5": "cb1a14752a35b2129a9ad0d2d90616b5",
+      "size": 56438,
+      "uploadedDate": "2024-06-28T11:45:28.613Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920x1080resized-1920x1080-ef8a210f0c9e16411ff6665a2f967073_Snapshot.png",
+      "md5": "0cacd77700028febefa2b1d95b93cccd",
+      "size": 3369,
+      "uploadedDate": "2024-06-28T11:45:28.424Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "464665a242b94a92bf8981c80835ebd2"
+    }
+  ],
+  "catalogNs": null
+}

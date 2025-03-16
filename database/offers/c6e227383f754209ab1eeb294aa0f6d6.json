@@ -1,0 +1,275 @@
+{
+  "id": "c6e227383f754209ab1eeb294aa0f6d6",
+  "namespace": "ue",
+  "title": "Rename Tool",
+  "description": "Rename Tool Editor Plugin. Batch rename Assets and Actors easily. Change prefix, suffix, replace substring, modify letter case, add numbering and more.",
+  "longDescription": "<p>Rename Tool Editor Plugin. Batch rename Assets and Actors easily. Change prefix, suffix, replace substring, modify letter case, add numbering and more.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rename-tool",
+  "creationDate": "2024-05-28T13:11:11.840Z",
+  "lastModifiedDate": "2024-10-14T15:20:37.463Z",
+  "effectiveDate": "2024-05-28T13:11:11.797Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cdv9rjfzt2yazscwbeullvbuf2fzwm",
+    "name": "Game Core Tools"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Main features</strong></p><ul><li>Rename assets in the Content Browser</li><li>Rename Actors in the Level (World)</li><li>Batch rename by selection</li><li>Helper function library</li></ul><p><br /></p><p><strong>Rename features</strong></p><ul><li>Add/remove Prefix</li><li>Add/remove Suffix</li><li>Replace substring</li><li>Change letter case</li><li>Add numbering</li></ul><p><br /></p><p><strong>How to use</strong></p><ol><li>Install the plugin for your engine version (in the Epic Launcher / Library, select the plugin, and the &#34;Install to Engine&#34; button)</li><li>Enable the plugin in the Project Settings/Plugins, &#34;Rename Tool&#34;</li><li><strong>Enable &#34;Show Engine Content&#34; and &#34;Show Plugin Content&#34;</strong> in the Content Browser settings to see the Engine/Plugins/Rename Tool Content folder</li><li>In the Content Browser <strong>navigate to Engine/Plugins/Rename Tool Content/Blueprints</strong></li><li><strong>Right-click EUW_RenameTool and select &#34;Run Editor Utility Widget&#34;</strong></li><li>Select assets in Content Browser and/or Actors in the Level</li><li>Set up Rename Details</li><li>(Optionally) Use the &#34;Update Preview&#34; button to see the rename result before executing</li><li>Click &#34;Execute Rename on Selection&#34; to rename the selected objects</li></ol><p><br /></p><p>Code Modules:</p><ul><li>RenameTool (Editor)</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 2</p><p><br /></p><p>Supported Development Platforms: Windows, MacOS</p><p>Supported Target Build Platforms: All (Editor plugin)</p><p><br /></p><p>Important/Additional Notes:</p><ul><li>Full C&#43;&#43; source code included</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "680e2270-e28f-4ca8-af7d-a2a93fd873b6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery1-1920x1080-6e4b85aa3d939a3013ac43f2668a9bc5.png",
+      "md5": "6e4b85aa3d939a3013ac43f2668a9bc5",
+      "size": 281051,
+      "uploadedDate": "2024-05-19T22:28:28.818Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RenameTool_thumb-284x284-f139df1d0755bbd74198635a75c46c10.png",
+      "md5": "f139df1d0755bbd74198635a75c46c10",
+      "size": 31572,
+      "uploadedDate": "2024-05-19T19:37:37.271Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RenameTool_featured-894x488-0f2046aa59939c60295921274b255a7b.png",
+      "md5": "0f2046aa59939c60295921274b255a7b",
+      "size": 89333,
+      "uploadedDate": "2024-05-19T22:20:47.927Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-6e4b85aa3d939a3013ac43f2668a9bc5_Snapshot.png",
+      "md5": "deda1e66ad303fa7e25a64dabb7aa356",
+      "size": 6406,
+      "uploadedDate": "2024-05-19T22:28:29.092Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1euw-1920x1080-2ef8d5ad751ab57daf47fa0ab8dd37f2_Snapshot.png",
+      "md5": "8981d5d10e7c70c282ba320213049abb",
+      "size": 4294,
+      "uploadedDate": "2024-05-19T19:37:37.201Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "50cfb375159b440e870ca41ef351a6ce"
+    }
+  ],
+  "catalogNs": null
+}

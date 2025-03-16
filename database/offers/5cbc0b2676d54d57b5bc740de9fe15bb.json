@@ -1,0 +1,224 @@
+{
+  "id": "5cbc0b2676d54d57b5bc740de9fe15bb",
+  "namespace": "ue",
+  "title": "HB Simple Streets",
+  "description": "Modular street assets including sidewalks, junctions, and separate paint markings.",
+  "longDescription": "<p>A set of modular street assets including sidewalks, junctions, and separate paint markings for quick custom street layouts with seamless junctions. Also included are some subdivided street &#43; sidewalk models to allow for custom made curved streets. Use the included Blueprint for easy curving streets. Examples included.</p><p><br /></p><p>UPDATE - Jan 2019: Added 4 lane road pieces with required junctions and paint for more construction options.</p><p><br /></p><p>DISCLAIMER: (This bug is fixed in 5.4.2)</p><p>In UE 5.4.0 there is a bug that prevents the Construction Script firing correctly when you edit the Spline Component, resulting in the real time update not working. If you use the SplineMesh Blueprint, it will seem like it&#39;s not working correctly, it is actually working, it&#39;s just not showing the updated meshes. If you nudge the Actor, or toggle another setting in the Properties, it should update.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simple-streets",
+  "creationDate": "2018-02-07T15:06:25.210Z",
+  "lastModifiedDate": "2024-10-23T08:18:36.196Z",
+  "effectiveDate": "2018-02-07T15:06:25.177Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e07ad9a0b34d4ebf371534227c6f58",
+    "name": "HB"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Street models</li><li>Junction models</li><li>Sidewalk models </li><li>Paint markings as separate models</li><li>Master material with instances as required</li><li>Street, Sidewalk and Paint textures</li><li>Blueprint for making curved streets using splines</li></ul><p><br /></p><p>Texture Sizes:</p><ul><li>Street textures &#61; 2048x2048</li><li>Sidewalk textures &#61; 2048x2048</li><li>Paint mask texture &#61; 512x512</li><li>Water mask texture &#61; 2048x2048</li></ul><p><br /></p><p>Texture Size:</p><p>Diffuse maps &#61; 2048x2048</p><p>Normal maps &#61; 2048x2048</p><p>Other &#61; 512x512 - 2048x2048</p><p><br /></p><p>Collision: Yes - Custom</p><p><br /></p><p>Vertex Count:</p><p>Simplest mesh &#61; 16</p><p>Most complex mesh &#61; 870</p><p><br /></p><p>LODs:</p><p>Lowest LODs used &#61; 0 (excluding base model)</p><p>Highest LODs used &#61; 3 (excluding base model)</p><p><br /></p><p>Number of Meshes: 82</p><p><br /></p><p>Number of Materials and Material Instances:</p><p>2 - Masters</p><p>3 - Master Instances</p><p>9 - Instances</p><p><br /></p><p>Number of Textures: 15</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows - (tested) - Others should work</p><p><br /></p><p>Supported Target Build Platforms:</p><p>Windows - (tested) - Others should work</p><p><br /></p><p>Documentation: (NA)</p><p><br /></p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9548f9dd-9c6b-42ce-91fe-a81e912134e5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot01-1920x1080-1699f47ebfae297f7622fd6d9fe6e7e4.png",
+      "md5": "1699f47ebfae297f7622fd6d9fe6e7e4",
+      "size": 1391883,
+      "uploadedDate": "2018-02-01T13:23:18.592Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot02-1920x1080-10460f15aeb297a5ee6e9fe7906f782b.png",
+      "md5": "10460f15aeb297a5ee6e9fe7906f782b",
+      "size": 1749513,
+      "uploadedDate": "2018-02-01T13:23:18.746Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot03-1920x1080-43c4a8a18e099f2bd7bbeeaff8383af8.png",
+      "md5": "43c4a8a18e099f2bd7bbeeaff8383af8",
+      "size": 1664097,
+      "uploadedDate": "2018-02-01T13:23:18.886Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot04-1920x1080-a2eb60ba5fdc19df43108c901c708f1f.png",
+      "md5": "a2eb60ba5fdc19df43108c901c708f1f",
+      "size": 1437934,
+      "uploadedDate": "2018-02-01T13:23:19.069Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot05-1920x1080-0c989059c5dc08536abe53be741f38c5.png",
+      "md5": "0c989059c5dc08536abe53be741f38c5",
+      "size": 1455251,
+      "uploadedDate": "2018-02-01T13:23:19.235Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot06-1920x1080-e6a643a4deaf8043a81518e59ed78a53.png",
+      "md5": "e6a643a4deaf8043a81518e59ed78a53",
+      "size": 1108884,
+      "uploadedDate": "2018-02-01T13:23:19.359Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot07-1920x1080-ca79e188263d2ee1bf7ac8842b0c3e97.png",
+      "md5": "ca79e188263d2ee1bf7ac8842b0c3e97",
+      "size": 1555945,
+      "uploadedDate": "2018-02-01T13:23:19.504Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot08-1920x1080-38eb533ed1f71193daa5e90de8a6e7b5.png",
+      "md5": "38eb533ed1f71193daa5e90de8a6e7b5",
+      "size": 967593,
+      "uploadedDate": "2018-02-01T13:23:19.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot09-1920x1080-2f428f868aee8b44a082a1adc3c628f5.png",
+      "md5": "2f428f868aee8b44a082a1adc3c628f5",
+      "size": 940511,
+      "uploadedDate": "2018-02-01T13:23:19.815Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot10-1920x1080-90e343868957f1e21b26d74182f5a66b.png",
+      "md5": "90e343868957f1e21b26d74182f5a66b",
+      "size": 980158,
+      "uploadedDate": "2018-02-01T13:23:19.961Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleStreetsScreenshot11-1920x1080-72feef0dcc2a750605d2e148bcf872ab.png",
+      "md5": "72feef0dcc2a750605d2e148bcf872ab",
+      "size": 1802289,
+      "uploadedDate": "2019-01-14T21:27:10.108Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleStreets_thumb-284x284-cc1ebecc2c0b3b592793a324c76a4b7e.png",
+      "md5": "cc1ebecc2c0b3b592793a324c76a4b7e",
+      "size": 144891,
+      "uploadedDate": "2018-02-01T13:23:20.232Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleStreets_featured-894x488-d86544edbe9ed00307fdaf5f2b21b65a.png",
+      "md5": "d86544edbe9ed00307fdaf5f2b21b65a",
+      "size": 684540,
+      "uploadedDate": "2018-02-01T13:23:20.340Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SimpleStreetsScreenshot11-1920x1080-72feef0dcc2a750605d2e148bcf872ab_Snapshot.png",
+      "md5": "b849fd3e70fabd19200d560848bd30b7",
+      "size": 12777,
+      "uploadedDate": "2019-01-14T21:27:10.442Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2c3404ddc690404ab98d41e8f9ed9bd1"
+    }
+  ],
+  "catalogNs": null
+}

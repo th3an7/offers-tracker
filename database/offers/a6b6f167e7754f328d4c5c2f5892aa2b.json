@@ -1,0 +1,260 @@
+{
+  "id": "a6b6f167e7754f328d4c5c2f5892aa2b",
+  "namespace": "ue",
+  "title": "Dice Game - a Blueprint learning project",
+  "description": "Learn the game mechanics of your typical dice game in Blueprints",
+  "longDescription": "<p>First off: a big thanks to all the early adopters of our learning project!</p><p>It means that we were right in documenting our process so others can learn from it as well...</p><p><br /></p><p>When we started this project we wanted to learn from each other while creating a fun project along the way. Soon we realised that if we can learn from creating this project, others could too. So we decided to document everything and apply recommended standards as much as possible. </p><p><br /></p><p>We chose to create a game that is different than a first person shooter. It explores different types of gameplay and explains less generic solutions than those that can be found online. In our accompanying documentation we cover a way to check the score per dice, all score possibilities with five dice, presenting and interacting with a scoreboard and leaderboard, topped off with some understated but fun game details.</p><p><br /></p><p>We hope you enjoy taking this project apart and sift through all the Blueprints and documentation to find interesting parts you can learn from and use in your own projects.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dice-game-a-blueprint-learning-project",
+  "creationDate": "2020-03-10T21:13:30.768Z",
+  "lastModifiedDate": "2024-10-03T21:20:59.344Z",
+  "effectiveDate": "2020-03-10T21:14:16.813Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6tyf5fvm2awwtq3clutuahvhmm2jkg",
+    "name": "pixelliquid"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>cleanly laid out commented Blueprints</li><li>fully documented in accompanying pdf</li><li>up to 6 players</li></ul><p><br /></p><p>Number of Blueprints: 7</p><p>Input: Keyboard, Mouse</p><p>Supported Development Platforms: Windows &amp; Mac</p><p>Documentation: included in the project</p><p>Important/Additional Notes: have fun :)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5bfdc165-caff-4727-9336-0dbfcc7aea47"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DiceGameScoreCard-1920x1080-c48a9301209ab74a7aab55e94b2ea7bf.png",
+      "md5": "c48a9301209ab74a7aab55e94b2ea7bf",
+      "size": 1374295,
+      "uploadedDate": "2020-01-30T21:29:51.995Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BPPawnShowHideScoreCard-1920x1080-1426989a9c1a65085d6d6cf15fcf274c.png",
+      "md5": "1426989a9c1a65085d6d6cf15fcf274c",
+      "size": 467935,
+      "uploadedDate": "2020-01-30T21:29:52.534Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Player4inaction1-1920x1080-11a818171e137adff996338e6fd73271.png",
+      "md5": "11a818171e137adff996338e6fd73271",
+      "size": 410495,
+      "uploadedDate": "2020-01-30T21:29:52.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BPScoreCardCalculatePossibilities-2-1920x1080-57e1f9ed345c469bd3e89d1484cc9371.png",
+      "md5": "57e1f9ed345c469bd3e89d1484cc9371",
+      "size": 297696,
+      "uploadedDate": "2020-01-30T21:29:53.087Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Player2EndOfThrows1-1920x1080-a50940e96c128767ae2804afb6190266.png",
+      "md5": "a50940e96c128767ae2804afb6190266",
+      "size": 439116,
+      "uploadedDate": "2020-01-30T21:29:53.266Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fiveDice2-1920x1080-be1f45c07cf34c49f7b9ddbbc3c61630.png",
+      "md5": "be1f45c07cf34c49f7b9ddbbc3c61630",
+      "size": 341741,
+      "uploadedDate": "2020-01-30T21:29:53.496Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DiceGameaBlueprintlearningproject_thumb-284x284-81873473db2295b8ef7e3d50eeba983b.png",
+      "md5": "81873473db2295b8ef7e3d50eeba983b",
+      "size": 59030,
+      "uploadedDate": "2020-03-10T21:35:28.690Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DiceGameaBlueprintlearningproject_featured-894x488-862c52c18cc2b1a05750e201ac32c6a2.png",
+      "md5": "862c52c18cc2b1a05750e201ac32c6a2",
+      "size": 405019,
+      "uploadedDate": "2020-01-30T21:29:53.766Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DiceGameScoreCard-1920x1080-c48a9301209ab74a7aab55e94b2ea7bf_Snapshot.png",
+      "md5": "7b83c652fa2e04848b661921690725a8",
+      "size": 5131,
+      "uploadedDate": "2020-01-30T21:29:52.434Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BPPawnShowHideScoreCard-1920x1080-1426989a9c1a65085d6d6cf15fcf274c_Snapshot.png",
+      "md5": "b6b09f6679ed9b3d4040113c9bd08583",
+      "size": 5811,
+      "uploadedDate": "2020-01-30T21:29:52.692Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Player4inaction1-1920x1080-11a818171e137adff996338e6fd73271_Snapshot.png",
+      "md5": "9dd57647c3dbf0daeb9b5eaf728af3af",
+      "size": 4981,
+      "uploadedDate": "2020-01-30T21:29:52.958Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BPScoreCardCalculatePossibilities-2-1920x1080-57e1f9ed345c469bd3e89d1484cc9371_Snapshot.png",
+      "md5": "619bf07057fcce58a3eae142c5f8e0f3",
+      "size": 4872,
+      "uploadedDate": "2020-01-30T21:29:53.194Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Player2EndOfThrows1-1920x1080-a50940e96c128767ae2804afb6190266_Snapshot.png",
+      "md5": "8a3ea7ead12b02b1f017d34d394d4f2d",
+      "size": 4938,
+      "uploadedDate": "2020-01-30T21:29:53.378Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fiveDice2-1920x1080-be1f45c07cf34c49f7b9ddbbc3c61630_Snapshot.png",
+      "md5": "560da661e90a57c1cb539c005655d72e",
+      "size": 4114,
+      "uploadedDate": "2020-01-30T21:29:53.623Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a428c1bb4e1e4629bf03ecd094539e9c"
+    }
+  ],
+  "catalogNs": null
+}

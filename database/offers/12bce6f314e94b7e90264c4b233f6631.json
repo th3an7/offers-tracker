@@ -1,0 +1,296 @@
+{
+  "id": "12bce6f314e94b7e90264c4b233f6631",
+  "namespace": "ue",
+  "title": "Simplified Real Time Data Sharing",
+  "description": "This plugin provides a fast, secure and interoperable data communications infrastructure for your real-time projects, based on the well-known DDS standard. Powered by RTI Connext.",
+  "longDescription": "<p>The <strong>Simplified Real Time Data Sharing</strong> plugin provides a fast, secure and interoperable data communications infrastructure for Unreal Engine. You can use it to distribute real-time data between Unreal Engine projects as well as between Unreal Engine projects and other applications, such as those written in C, C&#43;&#43;, C# and Java. It allows you to reliably scale systems to hundreds or even thousands of applications distributed across local and wide-area networks.</p><p><br /></p><p>Using the classes provided in the plugin, Unreal Engine blueprints can communicate by publishing the data they produce and subscribing to the data they consume. The plugin automatically discovers and routes data between matching publishers and subscribers. By abstracting communication and managing all the low-level networking details, the plugin can significantly reduce the amount of custom code required to support system communications.</p><p><br /></p><p>This plugin is built on RTI Connext® software, the leading connectivity framework for Industrial IoT applications. Applications developed using the <strong>Simplified Real Time Data Sharing</strong> plugin can seamlessly communicate with C, C&#43;&#43;, C#/.NET, Java, Python and Ada applications developed using Connext. In addition, because Connext complies with the Data Distribution Service (DDS) standard, Unreal Engine projects based on this plugin can interoperate with applications developed using any DDS implementation that complies with the DDS-RTPS wire interoperability protocol.</p><p><br /></p><p>Systems that use the <strong>Simplified Real Time Data Sharing</strong> plugin can take advantage of all other Connext products, tools and services.</p><p><br /></p><p>To run the plugin you will need a license file that activates the RTI Connext® libraries on which it is built. You can request a fully-functional 30-day <a href=\"https://bit.ly/430Iksd\" rel=\"nofollow\">Trial</a> on our website.</p><p><br /></p><p>Learn how to use the plugin in 1 hour by following the <a href=\"https://www.rti.com/hubfs/_Collateral/Simplified-Real-Time-Data-Sharing.pdf\" rel=\"nofollow\">Guided Tutorial</a>.</p><p><br /></p><p>Specifications:</p><ul><li>RTI Labs Project Type: Integration Tool</li><li>Maturity Level: Experimental Feature</li><li>Support: This is an experimental RTI product. As such, we only offer technical support through the <a href=\"https://community.rti.com/forum\" rel=\"nofollow\">RTI Community Forum</a>, backed by RTI engineers who will answer your questions. For any other inquiries you can contact us at unreal-plugin&#64;rti.com</li><li>Intent: This product is slated for continued development</li><li>Feedback: RTI welcomes feedback via the <a href=\"https://community.rti.com/forum\" rel=\"nofollow\">RTI Community Forum</a></li></ul><p>Further details: <a href=\"https://www.rti.com/developers/rti-labs/unreal-engine\" rel=\"nofollow\">RTI Website</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simplified-real-time-data-sharing",
+  "creationDate": "2023-06-01T08:43:25.777Z",
+  "lastModifiedDate": "2024-10-15T13:13:43.258Z",
+  "effectiveDate": "2023-06-01T08:43:25.742Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zwctxu4ns23fc62de6eededy4a2edb",
+    "name": "Real-Time Innovations (RTI)"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Publish information in real time that is received and processed by other applications</li><li>Code generator automatically creates the C&#43;&#43; source code from XML files</li></ul><p>Code Modules:</p><ul><li>ConnextPlugin [Runtime] </li></ul><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 1</p><p>Supported Development Platforms: Windows 64 bit</p><p>Supported Target Build Platforms: Windows 64 bit</p><p>Documentation: <a href=\"https://www.rti.com/hubfs/_Collateral/Simplified-Real-Time-Data-Sharing.pdf\" rel=\"nofollow\">Guided Tutorial</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "efab69f8-08b3-4b2e-ac96-78a0c81652ce"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RTI-Simplified-Real-Time-Data-Sharing-Screenshot-1920x1080-0733058df39fa43d82cc466cd71d9795.png",
+      "md5": "0733058df39fa43d82cc466cd71d9795",
+      "size": 2661238,
+      "uploadedDate": "2023-04-18T13:08:09.260Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/plugindiagram-1920x1080-0c9bd358d07fd81f4f6c5b6e2ab41c35.png",
+      "md5": "0c9bd358d07fd81f4f6c5b6e2ab41c35",
+      "size": 292848,
+      "uploadedDate": "2023-04-18T20:53:43.436Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mkt419201080-1920x1080-4d2816fe54cbc777f3fff1a32248bb7c.png",
+      "md5": "4d2816fe54cbc777f3fff1a32248bb7c",
+      "size": 826099,
+      "uploadedDate": "2023-04-04T17:39:00.256Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mkt219201080-1920x1080-467207c1de6b7f73c6b7580e125f2eb4.png",
+      "md5": "467207c1de6b7f73c6b7580e125f2eb4",
+      "size": 347240,
+      "uploadedDate": "2023-04-04T17:39:00.717Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mkt319201080-1920x1080-7732e819119c8b5b918b023d2824a5f5.png",
+      "md5": "7732e819119c8b5b918b023d2824a5f5",
+      "size": 502227,
+      "uploadedDate": "2023-04-04T17:39:01.206Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mkt519201080-1920x1080-39b206d9c8a506167fa8f69b6cc272fd.png",
+      "md5": "39b206d9c8a506167fa8f69b6cc272fd",
+      "size": 232142,
+      "uploadedDate": "2023-04-04T17:39:01.672Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mkt619201080-1920x1080-a8958eb516424feec30ecdcf78132ffc.png",
+      "md5": "a8958eb516424feec30ecdcf78132ffc",
+      "size": 160623,
+      "uploadedDate": "2023-04-04T17:39:02.129Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimplifiedRealTimeDataSharing_thumb-284x284-8cee98cc370d600847fdfaf8b8744e93.png",
+      "md5": "8cee98cc370d600847fdfaf8b8744e93",
+      "size": 161073,
+      "uploadedDate": "2023-04-18T13:03:46.306Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimplifiedRealTimeDataSharing_featured-894x488-e7698e4d8a4ddd4ebdc343e7ec7645ec.png",
+      "md5": "e7698e4d8a4ddd4ebdc343e7ec7645ec",
+      "size": 699888,
+      "uploadedDate": "2023-04-18T13:03:46.416Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/plugindiagram-1920x1080-0c9bd358d07fd81f4f6c5b6e2ab41c35_Snapshot.png",
+      "md5": "8c0317434adb1c4f704225c98c422d84",
+      "size": 4570,
+      "uploadedDate": "2023-04-18T20:53:43.695Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/plugindiagram-1920x1080-6ac6e20ffcf2cfb8bf9030a8da948336_Snapshot.png",
+      "md5": "03b24d5d79411d672a5e9e82ca2abbf6",
+      "size": 5830,
+      "uploadedDate": "2023-04-18T20:49:48.909Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RTI-Simplified-Real-Time-Data-Sharing-Screenshot-1920x1080-0733058df39fa43d82cc466cd71d9795_Snapshot.png",
+      "md5": "01b36bfa6c56007170ddf4e777226115",
+      "size": 7105,
+      "uploadedDate": "2023-04-18T13:08:09.677Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mkt119201080-1920x1080-36fbe88a540ef29e203a3719e771380c_Snapshot.png",
+      "md5": "cea5085a86f94cb85b1ad8566e81fe6e",
+      "size": 5391,
+      "uploadedDate": "2023-04-04T17:39:00.038Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mkt419201080-1920x1080-4d2816fe54cbc777f3fff1a32248bb7c_Snapshot.png",
+      "md5": "9efedf67bf763e3f478e9a1d17a0d754",
+      "size": 5698,
+      "uploadedDate": "2023-04-04T17:39:00.559Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mkt219201080-1920x1080-467207c1de6b7f73c6b7580e125f2eb4_Snapshot.png",
+      "md5": "d0808391ae5694123cfc73d5e7c289b4",
+      "size": 3845,
+      "uploadedDate": "2023-04-04T17:39:00.987Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mkt319201080-1920x1080-7732e819119c8b5b918b023d2824a5f5_Snapshot.png",
+      "md5": "fb167defba513e2e79cc4e84719f106a",
+      "size": 4969,
+      "uploadedDate": "2023-04-04T17:39:01.502Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mkt519201080-1920x1080-39b206d9c8a506167fa8f69b6cc272fd_Snapshot.png",
+      "md5": "bdd5cd999d4334a012d7a76a4dfce1dc",
+      "size": 3931,
+      "uploadedDate": "2023-04-04T17:39:01.956Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mkt619201080-1920x1080-a8958eb516424feec30ecdcf78132ffc_Snapshot.png",
+      "md5": "1ed7e5f6eca4768ae4b6793c3d9c5a82",
+      "size": 3140,
+      "uploadedDate": "2023-04-04T17:39:02.400Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4bffe4696d714728ba7d37ca738f2067"
+    }
+  ],
+  "catalogNs": null
+}

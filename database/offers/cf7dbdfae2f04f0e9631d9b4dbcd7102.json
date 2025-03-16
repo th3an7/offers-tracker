@@ -1,0 +1,260 @@
+{
+  "id": "cf7dbdfae2f04f0e9631d9b4dbcd7102",
+  "namespace": "ue",
+  "title": "Discord Chat/Guild/RichPrecence",
+  "description": "Discord Chat/Guild/RichPresence all in one",
+  "longDescription": "<p>allowing users to send messages and retrieve information about a Discord server. It includes features such as sending messages with optional embedded content, retrieving server information like online member count and server name, and generating invite links. The plugin provides Blueprint functionality for easy integration into Unreal Engine projects and optimizes performance by caching guild data to reduce unnecessary API calls</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "discord-chat",
+  "creationDate": "2024-05-26T20:05:02.134Z",
+  "lastModifiedDate": "2024-10-06T14:26:38.508Z",
+  "effectiveDate": "2024-05-26T20:05:02.103Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-aj7guk6qdxtt5jp9xmjsnx4bj6t5al",
+    "name": "Stoner Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Chat Message Management</p><ul><li> Structs for defining message embed settings (FEmbedSettings), author information (FAuthorInfo), and user information (FUserInfo).</li><li>Functions for sending messages to Discord (SendMessageToDiscord) and handling the response (HandleMessageResponse).</li></ul><p>Guild Information Management</p><ul><li>The GetDiscordGuildInfo function for retrieving server information like online member count and server name.</li><li>Retrieves information about a specific Discord guild</li><li> Lists members of a specific Discord guild</li><li>Retrieves roles available in a specific Discord guild.</li></ul><p>Rich Presence Management</p><ul><li> Updates the user&#39;s Discord rich presence status</li><li>Clears the current rich presence status</li><li><br /></li></ul><p>Number of Blueprints:1</p><p>Number of C&#43;&#43; Classes:</p><p>Network Replicated: (Yes)</p><p>Supported Development Platforms: (Windows)</p><p>Supported Target Build Platforms: (Window64)</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1n1-mmQD0_dzsOT5_w54kkO3HSprpqvxKr89w5bh-aKg/edit?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Support: <a href=\"https://discord.gg/z2v8k5CrfJ\" rel=\"nofollow\">Link</a></p><p>Important/Additional Notes: Third party Discord SDK</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f21554cc-54df-4984-bfc4-38deb0e93469"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/imresizer-1715890591180-1920x1080-a9f19f6b985c242a8f7b1725643fbe81.jpg",
+      "md5": "a9f19f6b985c242a8f7b1725643fbe81",
+      "size": 249396,
+      "uploadedDate": "2024-05-16T20:19:50.405Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/imresizer-1715890576874-1920x1080-19ef25763a767547a6026cc34ecd409f.jpg",
+      "md5": "19ef25763a767547a6026cc34ecd409f",
+      "size": 240798,
+      "uploadedDate": "2024-05-16T20:19:50.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/imresizer-1719337880464-1920x1080-72895dc3029bf4a985d2703e91059a1c.jpg",
+      "md5": "72895dc3029bf4a985d2703e91059a1c",
+      "size": 110477,
+      "uploadedDate": "2024-06-25T18:03:03.836Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CreatingWEBHOOK-1920x1080-879a34eab48be7a6281c138aa608ad9b.jpg",
+      "md5": "879a34eab48be7a6281c138aa608ad9b",
+      "size": 112016,
+      "uploadedDate": "2024-06-25T18:03:04.350Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DiscordRichPresence-1920x1080-50584bfcb42590de3b90274a527d7a0c.jpg",
+      "md5": "50584bfcb42590de3b90274a527d7a0c",
+      "size": 296020,
+      "uploadedDate": "2024-06-25T18:03:04.743Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DiscordSendMessage-1920x1080-8d9442371836918721e9c46111701379.jpg",
+      "md5": "8d9442371836918721e9c46111701379",
+      "size": 223178,
+      "uploadedDate": "2024-06-25T18:03:05.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DiscordSendMessageB-1920x1080-f37d6d93157bba3e8245e9f469f95168.jpg",
+      "md5": "f37d6d93157bba3e8245e9f469f95168",
+      "size": 114452,
+      "uploadedDate": "2024-06-25T18:03:05.522Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Full Functions-1920x1080-6e02a99278c8c42da89fbfc3d885a98f.jpg",
+      "md5": "6e02a99278c8c42da89fbfc3d885a98f",
+      "size": 314248,
+      "uploadedDate": "2024-06-25T18:03:05.883Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DiscordChatGuildRichPrecence_thumb-284x284-853edd54105648fb7a26ecafbabdfdf8.png",
+      "md5": "853edd54105648fb7a26ecafbabdfdf8",
+      "size": 70888,
+      "uploadedDate": "2024-06-25T18:07:20.158Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DiscordChat_featured-894x488-b36bf9d53e4f3a9677fcb9782e751e25.png",
+      "md5": "b36bf9d53e4f3a9677fcb9782e751e25",
+      "size": 114440,
+      "uploadedDate": "2024-05-16T20:19:51.103Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/imresizer-1719337880464-1920x1080-72895dc3029bf4a985d2703e91059a1c_Snapshot.jpg",
+      "md5": "7db97d38e42186fdedce25c504a3d456",
+      "size": 2521,
+      "uploadedDate": "2024-06-25T18:03:04.200Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CreatingWEBHOOK-1920x1080-879a34eab48be7a6281c138aa608ad9b_Snapshot.jpg",
+      "md5": "c7cce973128b86fa5b2b17c79247bd58",
+      "size": 2637,
+      "uploadedDate": "2024-06-25T18:03:04.573Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DiscordRichPresence-1920x1080-50584bfcb42590de3b90274a527d7a0c_Snapshot.jpg",
+      "md5": "ef06210eb49115970e182932cfcf7ae9",
+      "size": 5325,
+      "uploadedDate": "2024-06-25T18:03:04.993Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DiscordSendMessage-1920x1080-8d9442371836918721e9c46111701379_Snapshot.jpg",
+      "md5": "9a18eeb3f284d750c99db5287cb70fec",
+      "size": 3996,
+      "uploadedDate": "2024-06-25T18:03:05.416Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DiscordSendMessageB-1920x1080-f37d6d93157bba3e8245e9f469f95168_Snapshot.jpg",
+      "md5": "daebd18176166dbb8e0cc3f5163079d5",
+      "size": 3463,
+      "uploadedDate": "2024-06-25T18:03:05.766Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Full Functions-1920x1080-6e02a99278c8c42da89fbfc3d885a98f_Snapshot.jpg",
+      "md5": "9a1487e21648a00e2f9581c14095d767",
+      "size": 5737,
+      "uploadedDate": "2024-06-25T18:03:06.144Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/imresizer-1715890591180-1920x1080-a9f19f6b985c242a8f7b1725643fbe81_Snapshot.jpg",
+      "md5": "ef26f431db8638b6fd71d7b2ef94dab2",
+      "size": 5312,
+      "uploadedDate": "2024-05-16T20:19:50.634Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/imresizer-1715890576874-1920x1080-19ef25763a767547a6026cc34ecd409f_Snapshot.jpg",
+      "md5": "39ccaab54fd4f24983eb0e1ad15e6646",
+      "size": 4660,
+      "uploadedDate": "2024-05-16T20:19:50.983Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ff71df4a9949492fbddc3ffada3ebf17"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,233 @@
+{
+  "id": "7da1c18d09b9442f8e0bc1af01139ab2",
+  "namespace": "ue",
+  "title": "PDF Importer",
+  "description": "Import PDF at runtime or as assets with the PDF Importer plugin",
+  "longDescription": "<p>Import PDF at runtime or as assets with the PDF Importer plugin.</p><p><br /></p><p>With the PDF Importer plugin, PDF can be drag-and-dropped into the assets, just like any image file. They will be converted to texture to allow using them in your project.</p><p><br /></p><p>If you need PDF import at runtime, several blueprints nodes are provided to dynamically load a file as texture, so it can be used in either a UI widget or in a dynamic material instance. It can be used to display documents fetched over the network, to display in-app the user documentation, etc.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pdf-importer",
+  "creationDate": "2021-09-30T14:39:33.059Z",
+  "lastModifiedDate": "2024-10-08T09:05:17.704Z",
+  "effectiveDate": "2021-09-30T14:39:32.995Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1f385b3839424280bd68decb808ffb",
+    "name": "Isara Tech."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Import PDF as assets in the editor and use them as textures</li><li> Import PDF in runtime and use them for dynamical material or with UI</li></ul><p>Code Modules:</p><ul><li> PDFPlugin, Runtime</li><li> PDFPluginEditor, Editor</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 7</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: <a href=\"https://docs.isaratech.com/ue4-plugins/pdf-importer\" rel=\"nofollow\">https://docs.isaratech.com/ue4-plugins/pdf-importer</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3640d6ac-ee3a-4561-9400-32287057db2a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PDFRuntimeImport2-1920x1080-9742107905f19ec34f2a30ac7e41d205.png",
+      "md5": "9742107905f19ec34f2a30ac7e41d205",
+      "size": 1626332,
+      "uploadedDate": "2021-09-23T14:45:21.375Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PDFImportFile.PNG-1920x1080-ec4a97d0dc8d56a9ab3366295ae1a05e.jpg",
+      "md5": "ec4a97d0dc8d56a9ab3366295ae1a05e",
+      "size": 1146861,
+      "uploadedDate": "2021-09-23T15:03:05.905Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PDFImport2-1920x1080-e94386ca932d70a7cfafd3bb73d1a364.png",
+      "md5": "e94386ca932d70a7cfafd3bb73d1a364",
+      "size": 131464,
+      "uploadedDate": "2021-09-25T11:54:51.990Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PDFImporter_thumb-284x284-39442c8fa523065f4a13b7cae6d95f93.png",
+      "md5": "39442c8fa523065f4a13b7cae6d95f93",
+      "size": 11937,
+      "uploadedDate": "2021-09-25T11:54:52.268Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PDFImporter_featured-894x488-a36614e685e87487a0a0a97fc999d8a6.png",
+      "md5": "a36614e685e87487a0a0a97fc999d8a6",
+      "size": 49369,
+      "uploadedDate": "2021-09-25T11:54:52.339Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PDFImport2-1920x1080-e94386ca932d70a7cfafd3bb73d1a364_Snapshot.png",
+      "md5": "4957fac3bc37ccca795ee10b015161f5",
+      "size": 4446,
+      "uploadedDate": "2021-09-25T11:54:52.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PDFImportFile.PNG-1920x1080-ec4a97d0dc8d56a9ab3366295ae1a05e_Snapshot.jpg",
+      "md5": "17139326de5d2dd0ff523c51172957bd",
+      "size": 7178,
+      "uploadedDate": "2021-09-23T15:03:06.138Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PDFImportFile.PNG-1920x1080-60dc211a9e2016e272c4bd7207600e3e_Snapshot.jpg",
+      "md5": "cb768a2a8ce1420ab32d80d0f78a88f6",
+      "size": 6517,
+      "uploadedDate": "2021-09-23T14:55:56.306Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PDFRuntimeImport2-1920x1080-9742107905f19ec34f2a30ac7e41d205_Snapshot.png",
+      "md5": "b22a779d3269fd5e540f42d0e56120a3",
+      "size": 4676,
+      "uploadedDate": "2021-09-23T14:45:21.666Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PDFImport2-1920x1080-e1b60e875a0fc05cfb164d30d45e218d_Snapshot.png",
+      "md5": "03354bdca019dea26a747c508aca9ebe",
+      "size": 4867,
+      "uploadedDate": "2021-09-23T14:30:37.743Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PDFImport-1920x1080-4d99c3cfdc9011d471eea241c836bec8_Snapshot.png",
+      "md5": "b2150cd79cac1b7a285f37b4a99a31df",
+      "size": 1260,
+      "uploadedDate": "2021-09-23T14:11:01.509Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fd3da99dfbb142fb9292be68c49002f0"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": "9fc7bb48479c4cc0b257e7cc62e0e3d9",
+  "namespace": "ue",
+  "title": "Location Toolkit",
+  "description": "Assets and tools to support your geographic location projects.",
+  "longDescription": "<p>Integrate <strong>geographic location support</strong> to your projects. Companion textures, materials, static meshes, and blueprints themed on location. GPS compatible with mobile platforms. Content compatible for all platforms. Blueprint only pack.</p><ul><li>GPS sensor support module for mobile platforms.</li><li>Location-related macros, library, blueprints, infrastructure, and interfaces.</li><li>Data, planar, spherical, widget location map displays.</li><li>300&#43; textures/materials: location markers, geographic grids, etc...</li><li>Eight location pin static meshes and modular location pin blueprints. </li><li>Earth planet materials palette.</li><li>Blueprints fully documented with logging capability.</li><li><a href=\"https://play.google.com/store/apps/details?id&#61;com.CeriseSoftware.LocationToolkit\" rel=\"nofollow\">Android demonstration</a>.</li><li><a href=\"https://youtu.be/xs5twcI7Xwo\" rel=\"nofollow\">Toolkit overview video</a>.</li><li><a href=\"https://drive.google.com/open?id&#61;1eHjgXN_KF3b0iydcgS4A4aPwylC5_ydR\" rel=\"nofollow\">Documentation</a>.</li><li><a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/121235-location-toolkit\" rel=\"nofollow\">Forum support</a>.</li><li>Contact: cerise.software&#64;gmail.com</li></ul><p><br /></p><p>You may also like the <a href=\"https://www.unrealengine.com/marketplace/magnetic-field-toolkit\" rel=\"nofollow\">Magnetic Field Toolkit</a> pack by the same author.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "location-toolkit",
+  "creationDate": "2017-09-12T03:15:02.891Z",
+  "lastModifiedDate": "2024-10-10T22:58:49.351Z",
+  "effectiveDate": "2017-09-12T03:15:03.277Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cbd96750b149378920129a42eeb0a9",
+    "name": "Cerise Software"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><u>Features:</u></p><ul><li>Location engine actor component blueprints (GPS, random, orbital, tracker).</li><li>Modular location marker/pin 2D/3D meshes and blueprints. </li><li>Planar and spherical map with location pin, data and widget boards.</li><li>Conversion functions: location to pretty text, JSON, decimal, degree/minute/seconds, rotation, latitude, longitude, altitude, cardinal point, utilities, etc...</li></ul><p><u>Information:</u></p><ul><li>Number of Blueprints: 18</li><li>Input: N/A</li><li>Network Replicated: No</li><li>Supported Development Platforms: PC</li><li>Supported Target Build Platforms: All</li><li>Important/Additional Notes: GPS feature is mobile only (iOS and Android).</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "108128ba-c765-4b5d-acd7-428ea82f0164"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-315df86cb2b41546881b914966e67f0b.png",
+      "md5": "315df86cb2b41546881b914966e67f0b",
+      "size": 420144,
+      "uploadedDate": "2020-02-23T07:18:17.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/LocationToolkitDataScreenshot2-1920x1080-1c082374ea0be7e6dbcd3c407163f3c9.png",
+      "md5": "1c082374ea0be7e6dbcd3c407163f3c9",
+      "size": 1071744,
+      "uploadedDate": "2020-02-23T07:18:12.447Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/LocationToolkitLayeredPlanetScreentshot2-1920x1080-814a9294da90361756297c19b5b684fc.png",
+      "md5": "814a9294da90361756297c19b5b684fc",
+      "size": 1831092,
+      "uploadedDate": "2020-02-23T07:18:12.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-59f9c2c6c07dfd054a5ae26f4f148612.png",
+      "md5": "59f9c2c6c07dfd054a5ae26f4f148612",
+      "size": 1624365,
+      "uploadedDate": "2020-02-23T07:18:13.697Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-df0432d7572bf14ebedc466392fd444a.png",
+      "md5": "df0432d7572bf14ebedc466392fd444a",
+      "size": 776275,
+      "uploadedDate": "2020-02-23T07:18:14.841Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/LocationToolkitGridScreenshot2-1920x1080-6fa97ef1e5993fde6749b396fd9ef01b.png",
+      "md5": "6fa97ef1e5993fde6749b396fd9ef01b",
+      "size": 1279349,
+      "uploadedDate": "2020-02-23T07:18:15.935Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-71e8ae51fa2a745171f3f5a43c060457.png",
+      "md5": "71e8ae51fa2a745171f3f5a43c060457",
+      "size": 1747827,
+      "uploadedDate": "2020-02-23T07:18:16.466Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/LocationToolkitMeshesScreenshot-1920x1080-a27dad9d661da82e118968c531f9be9d.png",
+      "md5": "a27dad9d661da82e118968c531f9be9d",
+      "size": 966183,
+      "uploadedDate": "2020-02-23T07:18:17.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-56b25f1d2f35f973bc1ed1e8cb1ccd85.png",
+      "md5": "56b25f1d2f35f973bc1ed1e8cb1ccd85",
+      "size": 1480002,
+      "uploadedDate": "2020-02-23T07:18:18.073Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-8648c71129515ff5abf9c90efa78daa9.png",
+      "md5": "8648c71129515ff5abf9c90efa78daa9",
+      "size": 908953,
+      "uploadedDate": "2020-03-16T05:53:36.187Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-d08f398ae5907dbee5a3147592e2cfdf.png",
+      "md5": "d08f398ae5907dbee5a3147592e2cfdf",
+      "size": 970365,
+      "uploadedDate": "2020-03-16T05:53:36.655Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-eee16f2582449054b66d0705ee7fae90.png",
+      "md5": "eee16f2582449054b66d0705ee7fae90",
+      "size": 739316,
+      "uploadedDate": "2020-03-16T05:53:37.134Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/12-1920x1080-9bef2b1d0782660bf4e54a88ceb435f5.png",
+      "md5": "9bef2b1d0782660bf4e54a88ceb435f5",
+      "size": 787844,
+      "uploadedDate": "2020-03-16T05:53:37.712Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LocationToolkit_thumb-284x284-31b9039c2c03fe9451a3a2f3587ebd11.png",
+      "md5": "31b9039c2c03fe9451a3a2f3587ebd11",
+      "size": 122631,
+      "uploadedDate": "2018-02-16T03:05:17.609Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LocationToolkit_featured-894x488-4c3d8dea027ba11565f1c24a16351f9f.png",
+      "md5": "4c3d8dea027ba11565f1c24a16351f9f",
+      "size": 439683,
+      "uploadedDate": "2018-02-16T03:15:27.383Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-8648c71129515ff5abf9c90efa78daa9_Snapshot.png",
+      "md5": "cbe317f8a3098560f39cff82df46ba98",
+      "size": 6901,
+      "uploadedDate": "2020-03-16T05:53:36.522Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-d08f398ae5907dbee5a3147592e2cfdf_Snapshot.png",
+      "md5": "583ddebce00912fcb9d2b31206ec5727",
+      "size": 7488,
+      "uploadedDate": "2020-03-16T05:53:36.981Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-eee16f2582449054b66d0705ee7fae90_Snapshot.png",
+      "md5": "bba0d8cdad900a825aa6eef2c7927a6d",
+      "size": 7220,
+      "uploadedDate": "2020-03-16T05:53:37.498Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/12-1920x1080-9bef2b1d0782660bf4e54a88ceb435f5_Snapshot.png",
+      "md5": "f009b020476c699d1f8da444a1586a04",
+      "size": 6878,
+      "uploadedDate": "2020-03-16T05:53:38.006Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-6b535e19e5a265b0ed06d62d86a7a56c_Snapshot.png",
+      "md5": "2fe885aa1cda32caac2e0d0295a882b6",
+      "size": 7208,
+      "uploadedDate": "2020-02-23T07:18:12.305Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LocationToolkitDataScreenshot2-1920x1080-1c082374ea0be7e6dbcd3c407163f3c9_Snapshot.png",
+      "md5": "d3a1200082086f60fa77d65e3820b794",
+      "size": 6589,
+      "uploadedDate": "2020-02-23T07:18:12.769Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LocationToolkitLayeredPlanetScreentshot2-1920x1080-814a9294da90361756297c19b5b684fc_Snapshot.png",
+      "md5": "74446fd3a5b9c44817bc0c4d09987fe3",
+      "size": 7000,
+      "uploadedDate": "2020-02-23T07:18:13.298Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-59f9c2c6c07dfd054a5ae26f4f148612_Snapshot.png",
+      "md5": "f4eada141404b147494e2c4365e87faa",
+      "size": 7853,
+      "uploadedDate": "2020-02-23T07:18:14.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-678c056046864b2c6a6656dc0a5b6441_Snapshot.png",
+      "md5": "b7f5ae48bbd48724515e53951a6ba56e",
+      "size": 6955,
+      "uploadedDate": "2020-02-23T07:18:14.688Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-df0432d7572bf14ebedc466392fd444a_Snapshot.png",
+      "md5": "dce4c36629e55980fc58aeedb0d7bd15",
+      "size": 6583,
+      "uploadedDate": "2020-02-23T07:18:15.117Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LocationToolkitMiniMobileScreenshot2-1920x1080-3500a97bc4c19b17b1c8772e31e1e74f_Snapshot.png",
+      "md5": "67cc0ce5d25044293dec993c2430cf0f",
+      "size": 5424,
+      "uploadedDate": "2020-02-23T07:18:15.680Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LocationToolkitGridScreenshot2-1920x1080-6fa97ef1e5993fde6749b396fd9ef01b_Snapshot.png",
+      "md5": "bb8e74c6ca9917a7e61b93854dbc514d",
+      "size": 8156,
+      "uploadedDate": "2020-02-23T07:18:16.251Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-71e8ae51fa2a745171f3f5a43c060457_Snapshot.png",
+      "md5": "366424cc7d4c3916b556290f0d418dfa",
+      "size": 7053,
+      "uploadedDate": "2020-02-23T07:18:16.864Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LocationToolkitMeshesScreenshot-1920x1080-a27dad9d661da82e118968c531f9be9d_Snapshot.png",
+      "md5": "a42fa9f0166040fd4f6674a164cdc92c",
+      "size": 8361,
+      "uploadedDate": "2020-02-23T07:18:17.413Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-315df86cb2b41546881b914966e67f0b_Snapshot.png",
+      "md5": "290d074f09f94e441d29efe6dd46ab19",
+      "size": 7464,
+      "uploadedDate": "2020-02-23T07:18:17.861Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-56b25f1d2f35f973bc1ed1e8cb1ccd85_Snapshot.png",
+      "md5": "434330afed324475d3960aa2f1eeace2",
+      "size": 6622,
+      "uploadedDate": "2020-02-23T07:18:18.437Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LocationToolkitBlueprintsScreenshot2-1920x1080-c6c464199b57356c09301e1314c4930d_Snapshot.png",
+      "md5": "abb87c919c886c2c5b65a2e7211e7f49",
+      "size": 7542,
+      "uploadedDate": "2020-02-23T07:12:56.110Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1991324e9dc042348673882c29f3ff38"
+    }
+  ],
+  "catalogNs": null
+}

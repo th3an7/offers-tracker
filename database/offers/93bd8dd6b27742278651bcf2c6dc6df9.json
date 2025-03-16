@@ -1,0 +1,176 @@
+{
+  "id": "93bd8dd6b27742278651bcf2c6dc6df9",
+  "namespace": "ue",
+  "title": "Physics Handle Interact Component",
+  "description": "Physics Handle Interact Component gives you easy way to customize and use physics handle component.",
+  "longDescription": "<p>Extend Physics Handle Component capabilities. This easy-to-use component gives you input options for grabbing, releasing and manipulating objects. Customization options include: different input types, object grab distance, 2 simple functions for activating and deactivating the component, Grab filters, simple replication and more.</p><p><br /></p><p>Overview: <a href=\"https://youtu.be/byfCLdmaXtc\" rel=\"nofollow\">https://youtu.be/byfCLdmaXtc</a></p><p>Tutorial: <a href=\"https://youtu.be/XhruAUX0SEc\" rel=\"nofollow\">https://youtu.be/XhruAUX0SEc</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "physics-handle-interact-component",
+  "creationDate": "2023-10-20T11:01:36.369Z",
+  "lastModifiedDate": "2024-10-10T23:54:36.090Z",
+  "effectiveDate": "2023-10-20T11:01:36.321Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-lqmsheb4kxfdvub5538t74fzjqh7hy",
+    "name": "Venturous Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Manipulation types: Mouse, Keyboard</li><li>Grab Filters: Physics Simulated, Actor Tag, Component Tag, Interface, Collision Channel, Class</li><li>Customize Grabbed component rotation speed, trace distance, Min/Max Camera distance</li><li>Disable Pawn Collision Option</li><li>Bounds Check option</li><li>Limited Network Replication</li></ul><p>Number of components: 1</p><p>Input: Keyboard, Mouse</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Linux: Yes</p><p><br /></p><p>Important Note: If grabbed objects are not replicating properly in multiplayer, enable static mesh replicate movement option on the object.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1389",
+      "name": "MANAGEMENT",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:31.894Z",
+      "updated": "2023-03-28T12:57:52.828Z",
+      "status": "ACTIVE",
+      "referenceCount": 15,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3501ce34-56fb-475a-b16d-5604eb11e8e9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CustomizationOptions-1920x1080-a3c8d99767380bd553f8df0b30b9c471.png",
+      "md5": "a3c8d99767380bd553f8df0b30b9c471",
+      "size": 124263,
+      "uploadedDate": "2023-10-17T16:06:01.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RotateObject-1920x1080-997a7a819517e6d573948352b0fc7f82.png",
+      "md5": "997a7a819517e6d573948352b0fc7f82",
+      "size": 1492657,
+      "uploadedDate": "2023-10-17T16:06:02.478Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PhysicsHandleInteractComponent_thumb-284x284-d870e5b4f55556e5aadc67f7f7786d36.png",
+      "md5": "d870e5b4f55556e5aadc67f7f7786d36",
+      "size": 62795,
+      "uploadedDate": "2023-10-17T16:06:02.934Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PhysicsHandleInteractComponent_featured-894x488-997627d950960233751a5b15ff1d7a0e.png",
+      "md5": "997627d950960233751a5b15ff1d7a0e",
+      "size": 185218,
+      "uploadedDate": "2023-10-17T16:06:03.171Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CustomizationOptions-1920x1080-a3c8d99767380bd553f8df0b30b9c471_Snapshot.png",
+      "md5": "86b03d58a6af71daaf74c7b01f8696cb",
+      "size": 3673,
+      "uploadedDate": "2023-10-17T16:06:02.209Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RotateObject-1920x1080-997a7a819517e6d573948352b0fc7f82_Snapshot.png",
+      "md5": "f5c8e8af0ec339b6fcdae8c33ca271ba",
+      "size": 5941,
+      "uploadedDate": "2023-10-17T16:06:02.876Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6832832ac32d457bb91f6b92a77078e0"
+    }
+  ],
+  "catalogNs": null
+}

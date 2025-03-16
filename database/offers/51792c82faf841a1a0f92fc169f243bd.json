@@ -1,0 +1,260 @@
+{
+  "id": "51792c82faf841a1a0f92fc169f243bd",
+  "namespace": "ue",
+  "title": "VR Spectator Widget",
+  "description": "VR Spectator Widget Plugin. Easily add and remove widgets for the virtual reality spectator screen without displaying them in the VR headset (HMD). Scaled correctly with window size.",
+  "longDescription": "<p>VR Spectator Widget Plugin. Easily add and remove widgets for the virtual reality spectator screen without displaying them in the VR headset (HMD). Scaled correctly with window size.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vr-spectator-widget",
+  "creationDate": "2024-07-21T10:03:36.615Z",
+  "lastModifiedDate": "2024-10-14T21:59:35.481Z",
+  "effectiveDate": "2024-07-21T10:03:36.578Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cdv9rjfzt2yazscwbeullvbuf2fzwm",
+    "name": "Game Core Tools"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong></p><ul><li>Add and remove widgets to VR spectator screen</li><li>Change widget properties on VR spectator viewport</li><li>Widgets don&#39;t show up in VR Headset (HMD), only monitor screen</li></ul><p><br /></p><p><strong>How to use</strong></p><ol><li>Install the plugin for your engine version (in the Epic Launcher / Library, select the plugin, and the &#34;Install to Engine&#34; button)</li><li>Enable the VR Spectator Widget plugin in the Project Settings/Plugins</li><li>Use functions AddVRSpectatorWidget and RemoveVRSpectatorWidget. See Blueprint usage example in screenshots.</li></ol><p><br /></p><p>Additionally you can find an example widget &#34;WBP_VRSpectatorWidgetTest&#34; to use under plugin content/Blueprints/. You may need to enable Show Engine Content and Show Plugin Content in the Content Browser to see this file.</p><p><br /></p><p><strong>Contents</strong></p><p>Code Modules:</p><ul><li>VRSpectatorWidget</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 2</p><p><br /></p><p>Supported Development Platforms: Windows, MacOS</p><p>Supported Target Build Platforms: All (only relevant in desktop builds)</p><p><br /></p><p><strong>Important/Additional Notes</strong></p><ul><li>Full C&#43;&#43; source code included</li><li>3D Assets in the screenshot are not included, only the UI widget</li></ul><p><br /></p><p><strong>Documentation: </strong><a href=\"https://docs.google.com/document/d/1lOqn3yE1_nBChehHfN7WHyiKlKei0P1dGkPWtx8d5hY/edit?usp&#61;sharing\" rel=\"nofollow\"><strong>Link</strong></a></p><p><strong>Support:</strong></p><p>gamecoretools&#64;gmail.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0eb2438c-faac-4959-937f-1f4908599b54"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery2-1920x1080-e629949408c0083d61d59eb0b4a30b48.png",
+      "md5": "e629949408c0083d61d59eb0b4a30b48",
+      "size": 1024448,
+      "uploadedDate": "2024-07-15T21:06:41.248Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery1-1920x1080-354a6cdbabf741a30275b504ef6e19ba.png",
+      "md5": "354a6cdbabf741a30275b504ef6e19ba",
+      "size": 345599,
+      "uploadedDate": "2024-07-15T21:06:40.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VRSpectatorWidget_thumb-284x284-f75270b2a3879c2777e9d901c356441d.png",
+      "md5": "f75270b2a3879c2777e9d901c356441d",
+      "size": 45276,
+      "uploadedDate": "2024-07-15T21:06:41.647Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VRSpectatorWidget_featured-894x488-adc9de94aa7b3197527ffa540516d41f.png",
+      "md5": "adc9de94aa7b3197527ffa540516d41f",
+      "size": 128445,
+      "uploadedDate": "2024-07-15T21:06:41.691Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-354a6cdbabf741a30275b504ef6e19ba_Snapshot.png",
+      "md5": "35aa5cbfc2543fc480c060b5f0ba0483",
+      "size": 6761,
+      "uploadedDate": "2024-07-15T21:06:41.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery2-1920x1080-e629949408c0083d61d59eb0b4a30b48_Snapshot.png",
+      "md5": "edc8498fd7d2ff63d975891c5de7f033",
+      "size": 7302,
+      "uploadedDate": "2024-07-15T21:06:41.554Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c1d1eac3275f4311994753c9af4771dc"
+    }
+  ],
+  "catalogNs": null
+}

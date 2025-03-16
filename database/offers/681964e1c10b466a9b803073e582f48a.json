@@ -1,0 +1,266 @@
+{
+  "id": "681964e1c10b466a9b803073e582f48a",
+  "namespace": "ue",
+  "title": "PostProcess Widget",
+  "description": "Add post-process effects for the widget's covered region.",
+  "longDescription": "<p>Add post-process effects for the widget&#39;s covered region.</p><p><br /></p><p>Tutorial: <a href=\"https://youtu.be/_7YDG8c-WZM\" rel=\"nofollow\">link</a></p><p><br /></p><p>PostProcessWidget vs Unreal&#39;s RetainerBox:</p><ul><li>RetainerBox adds effects for its contained widgets.</li><li>PostProcessWidget adds effects for its covered region.</li></ul><p><br /></p><p>PostProcessWidget vs Unreal&#39;s PostProcess Materials:</p><ul><li>PostProcess Materials add effects for full-screen.</li><li>PostProcessWidget adds effects for its covered region. The PostProcessWidget may be more efficient than PostProcess Materials.</li><li>PostProcess Materials can not add effects for UI widgets. PostProcessWidget supports adding effects for everything it covered.</li></ul><p><br /></p><p>Precautions before buying:</p><ul><li>The performance of the widget is almost the same as the RetainerBox widget.</li><li>This widget is a UI widget, so the effect materials are <strong>UI materials</strong>. If you want to apply SceneTextures for UI materials, see my other plugin &#34;SceneTextureForUMG&#34;</li></ul><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "postprocess-widget",
+  "creationDate": "2023-07-09T00:15:52.895Z",
+  "lastModifiedDate": "2024-10-15T15:22:52.457Z",
+  "effectiveDate": "2023-07-09T00:15:52.864Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9x2ryn2saktuexbrpgfqdks7qd2jb2",
+    "name": "Qibo"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Add post-process effects for the widget&#39;s covered region.</li><li>Copy the widget&#39;s covered region as a texture.</li><li>Demo level included for an example of integration.</li></ul><p><br /></p><p>Code Modules:</p><ul><li> PostProcessWidget- Runtime</li></ul><p><br /></p><p>Number of Blueprints: 5</p><p>Number of C&#43;&#43; Classes: 7</p><p><br /></p><p>Supported Development Platforms: Win64, Win32</p><p>Supported Target Build Platforms: Win64, Win32&#xff0c;Android, IOS</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2023-08-09T23:31:59.086Z",
+      "status": "ACTIVE",
+      "referenceCount": 135,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6888b97c-22b3-418f-a0a5-23dc5b4a891e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FB0-1920x1080-54c5ed561961172fd8bdf4336db09304.png",
+      "md5": "54c5ed561961172fd8bdf4336db09304",
+      "size": 2443848,
+      "uploadedDate": "2023-07-02T08:39:39.416Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/0-1920x1080-2176ae42ed68003b4dbe4b3724c2f493.png",
+      "md5": "2176ae42ed68003b4dbe4b3724c2f493",
+      "size": 204759,
+      "uploadedDate": "2023-07-02T08:39:39.938Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/101-1920x1080-3a84ad13ac7921b928b2e915053e119a.png",
+      "md5": "3a84ad13ac7921b928b2e915053e119a",
+      "size": 552714,
+      "uploadedDate": "2023-08-16T03:56:46.937Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-d9e2fc630960c1e26c3559637ca34ed9.png",
+      "md5": "d9e2fc630960c1e26c3559637ca34ed9",
+      "size": 950785,
+      "uploadedDate": "2023-07-02T08:39:40.388Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-768e2bb0a6adad7b877e33b7cea2a09d.png",
+      "md5": "768e2bb0a6adad7b877e33b7cea2a09d",
+      "size": 2062881,
+      "uploadedDate": "2023-07-02T08:39:40.977Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-a331c8a63e561cbd01cebf832ac7de41.png",
+      "md5": "a331c8a63e561cbd01cebf832ac7de41",
+      "size": 2532551,
+      "uploadedDate": "2023-07-02T08:39:41.489Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-c221f48ca712f17b3de51ee9181fb11a.png",
+      "md5": "c221f48ca712f17b3de51ee9181fb11a",
+      "size": 2466179,
+      "uploadedDate": "2023-07-02T08:39:42.115Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PostProcessWidget_thumb-284x284-05454b6cb57d558ce71ab3c97ead69c8.png",
+      "md5": "05454b6cb57d558ce71ab3c97ead69c8",
+      "size": 91449,
+      "uploadedDate": "2023-07-02T08:39:42.511Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PostProcessWidget_featured-894x488-90b073de7815a81c6f4f97f2b038c337.png",
+      "md5": "90b073de7815a81c6f4f97f2b038c337",
+      "size": 507984,
+      "uploadedDate": "2023-07-02T08:39:42.637Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/101-1920x1080-3a84ad13ac7921b928b2e915053e119a_Snapshot.png",
+      "md5": "a1c9b55c8f9d79b3c5cf410374f05a50",
+      "size": 5218,
+      "uploadedDate": "2023-08-16T03:56:47.199Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FB0-1920x1080-54c5ed561961172fd8bdf4336db09304_Snapshot.png",
+      "md5": "1fdd7044d3e51ffad396c71da8c65a21",
+      "size": 3731,
+      "uploadedDate": "2023-07-02T08:39:39.776Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/0-1920x1080-2176ae42ed68003b4dbe4b3724c2f493_Snapshot.png",
+      "md5": "2db83ac6d82c934458eb30db3e2edfac",
+      "size": 5284,
+      "uploadedDate": "2023-07-02T08:39:40.196Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-d9e2fc630960c1e26c3559637ca34ed9_Snapshot.png",
+      "md5": "632a4af64fc772d4d23bd448125b8404",
+      "size": 6431,
+      "uploadedDate": "2023-07-02T08:39:40.775Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-768e2bb0a6adad7b877e33b7cea2a09d_Snapshot.png",
+      "md5": "7a8ae82e3e40432199dc77eb805607f3",
+      "size": 3489,
+      "uploadedDate": "2023-07-02T08:39:41.293Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-a331c8a63e561cbd01cebf832ac7de41_Snapshot.png",
+      "md5": "980fd2ec1a9f5b1fd66785644c2ad27d",
+      "size": 3388,
+      "uploadedDate": "2023-07-02T08:39:41.879Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-c221f48ca712f17b3de51ee9181fb11a_Snapshot.png",
+      "md5": "3da09e3bed83de11300e6536338c60c5",
+      "size": 3560,
+      "uploadedDate": "2023-07-02T08:39:42.465Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "84e78edbef324d18a8506c6a5bd33c35"
+    }
+  ],
+  "catalogNs": null
+}

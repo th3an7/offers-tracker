@@ -1,0 +1,182 @@
+{
+  "id": "0807e9cf229342afa5f6d615eeda0ce3",
+  "namespace": "ue",
+  "title": "Blueprint Variable Cleaner",
+  "description": "Blueprint variable cleaner is a code plugin that cleans up unused variables from blueprints",
+  "longDescription": "<p>The &#34;Blueprint Variable Cleaner&#34; is a comprehensive code plugin designed to streamline the management of blueprints by offering several features:</p><ol><li>Mass Open Blueprints: This feature allows users to open multiple blueprints simultaneously, facilitating efficient batch processing and review.</li><li>Mass Open All Assets: With this functionality, users can open all assets in bulk for a broad overview and mass cleanup, significantly reducing the time spent on individual asset management.</li><li>Remove Unused Blueprint Variable Nodes: The tool scans through the blueprints to identify and remove redundant or unused variable nodes, thereby simplifying the blueprint structure and enhancing clarity as well as readability.</li><li>Entirely Remove Unused Blueprint Variables: It helps clear out unused variables across all blueprints to prevent clutter, improve efficiency, and reduce the overall size of the blueprints.</li><li>Compile After Unused Variable Removal (Optional): Users can choose to recompile blueprints automatically after unused variables have been removed, ensuring that all changes are fully applied without any errors or inconsistencies.</li></ol><p>In summary, the &#34;Blueprint Variable Cleaner&#34; is a code plugin that cleans up unused variables from blueprints by providing tools to mass open and review assets, remove unused nodes and variables, and optionally compile the updated blueprints, ultimately enhancing organization and productivity.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "blueprint-variable-cleaner",
+  "creationDate": "2024-05-31T19:03:50.872Z",
+  "lastModifiedDate": "2024-10-01T22:22:07.669Z",
+  "effectiveDate": "2024-05-31T19:03:50.844Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ft6pes42r6l62fmhs2azydvzlf5mcf",
+    "name": "Tegridy Made Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Mass Open Blueprints</li><li> Mass Open All Assets</li><li> Remove Unused Blueprint Variable Nodes</li><li> Entirely Remove Unused Blueprint Variables</li><li> Compile After Unused Variable Remove (Optional)</li></ul><p>Code Modules:</p><ul><li>  BlueprintCleaner_TMG [Runtime]</li></ul><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows 64 bit</p><p>Supported Target Build Platforms: Windows 64 bit</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1lcoxE76u7IZdDJKSS0Te2Ubyu07ByiJ8f8-QU0Ucu5g/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1lcoxE76u7IZdDJKSS0Te2Ubyu07ByiJ8f8-QU0Ucu5g/edit?usp&#61;sharing</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1fLybd8SxhEt-_vU7taQO3RzZzfUJ8v55/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1fLybd8SxhEt-_vU7taQO3RzZzfUJ8v55/view?usp&#61;sharing</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f5567866-a9f2-4e5d-bcf2-ba7691943030"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bp cleaner 1080-1920x1080-9d646556044dbf8313ded0dff6f0db82.png",
+      "md5": "9d646556044dbf8313ded0dff6f0db82",
+      "size": 899785,
+      "uploadedDate": "2024-05-08T21:51:44.130Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BlueprintVariableCleaner_thumb-284x284-1a0f3e3f560eded79e3e01864b2ed1be.png",
+      "md5": "1a0f3e3f560eded79e3e01864b2ed1be",
+      "size": 75118,
+      "uploadedDate": "2024-05-08T21:51:44.545Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BlueprintVariableCleaner_featured-894x488-7e232d4b907f071ae2f8ea2d077e075b.png",
+      "md5": "7e232d4b907f071ae2f8ea2d077e075b",
+      "size": 280427,
+      "uploadedDate": "2024-05-08T21:51:44.676Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bp cleaner 1080-1920x1080-9d646556044dbf8313ded0dff6f0db82_Snapshot.png",
+      "md5": "cecb28dd384c31cc87cab106165da78c",
+      "size": 3900,
+      "uploadedDate": "2024-05-08T21:51:44.444Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "71973aa764eb4bc3af3ace64269546b5"
+    }
+  ],
+  "catalogNs": null
+}

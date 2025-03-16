@@ -1,0 +1,410 @@
+{
+  "id": "eff35668af8e4cadaa0f35e66eb5e918",
+  "namespace": "ue",
+  "title": "Easy Event Manager",
+  "description": "The Easy Event Manager simplifies event management by eliminating the need for direct references between objects. Say goodbye to the tedious task of casting and caching references and hello to versatile event management",
+  "longDescription": "<p>The <strong>Easy Event Manager</strong> is completly <strong>replicated </strong>and streamlines the process of event management by <strong>removing </strong>the need for <strong>direct references between objects</strong>. With this plugin you&#39;ll be able to create puzzles, quests and environmental interactions <strong>without </strong>the need of <strong>casting or caching references</strong>. Simplify your development with the <strong>Easy Event Manager</strong> - the <strong>referenceless </strong>communicator. <strong>This plugin is written in C&#43;&#43; with all functions accessible in Blueprint.</strong></p><p><br /></p><p><strong>We used a similar system for the Quest System in our </strong><a href=\"https://www.unrealengine.com/marketplace/slug/fc6cb56338eb4717b8cb477e50d8c188\" rel=\"nofollow\"><strong>RPG System: All-In-One</strong></a></p><p><br /></p><p><strong>Documentation</strong>: <a href=\"https://easy-event-manager.gitbook.io/documentation/\" rel=\"nofollow\">Link</a></p><p><strong>Discord</strong>: <a href=\"https://discord.gg/qrw2mkCGTJ\" rel=\"nofollow\">Link</a></p><p><br /></p><p><strong>Features:</strong></p><ul><li><strong>Referenceless Communication between objects</strong></li><li><strong>Eliminating the need of Casting and caching of references</strong></li><li><strong>Replicated and can improve your workflow in a Network Environment</strong></li><li><strong>For new and advanced Users</strong></li><li><strong>Easy to Implement, easy to use</strong></li></ul><p><br /></p><p><strong>&#xfeff;</strong><a href=\"https://orbital-market.com/product/easy-event-manager\" rel=\"nofollow\"><strong>Orbital Market Link</strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easy-event-manager",
+  "creationDate": "2023-02-16T22:18:44.900Z",
+  "lastModifiedDate": "2024-10-22T23:30:34.199Z",
+  "effectiveDate": "2023-02-16T22:18:44.846Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-j738nqrsl6ydrn4rlnaqyy2kaxqgh5",
+    "name": "HyperiusT"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p>Code Modules:</p><ul><li> EasyEventManager (Runtime)</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 4</p><p>Network Replicated: <strong>Yes</strong></p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows, Linux, Mac, iOS, Android</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1376",
+      "name": "DESTRUCTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:25.382Z",
+      "updated": "2019-06-20T12:01:25.382Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0bf57e85-614b-485b-bbee-541c4e218000"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EEMShop-1920x1080-b1de83cc2a39b2d30c3821dc885d4d85.png",
+      "md5": "b1de83cc2a39b2d30c3821dc885d4d85",
+      "size": 223544,
+      "uploadedDate": "2023-02-03T11:54:32.205Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EEMShopPic1-1920x1080-3ef600e1338f5fa14a88f0904869da67.png",
+      "md5": "3ef600e1338f5fa14a88f0904869da67",
+      "size": 124202,
+      "uploadedDate": "2023-02-02T20:46:14.883Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EEMShopPic3-1920x1080-dd4cfa12b940ac5e306200c359e8192b.png",
+      "md5": "dd4cfa12b940ac5e306200c359e8192b",
+      "size": 183141,
+      "uploadedDate": "2023-02-03T12:07:58.757Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EEMShopPic2-1920x1080-1aed7c567d955b4d40c6d082a3ab410a.png",
+      "md5": "1aed7c567d955b4d40c6d082a3ab410a",
+      "size": 194199,
+      "uploadedDate": "2023-02-03T11:54:32.615Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EasyEventManager_thumb-284x284-8f8de9178862d97fc2c93004a851b05e.png",
+      "md5": "8f8de9178862d97fc2c93004a851b05e",
+      "size": 54026,
+      "uploadedDate": "2023-02-02T20:55:33.907Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EasyEventManager_featured-894x488-60c1e54bf0a6d61852f88892368aafab.png",
+      "md5": "60c1e54bf0a6d61852f88892368aafab",
+      "size": 195482,
+      "uploadedDate": "2023-02-03T11:54:32.973Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic3-1920x1080-dd4cfa12b940ac5e306200c359e8192b_Snapshot.png",
+      "md5": "44d78e1961135739840ccc02d9e9b122",
+      "size": 4401,
+      "uploadedDate": "2023-02-03T12:07:59.037Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic3-1920x1080-80831ea704bf7dc9f1ed973d80d086bf_Snapshot.png",
+      "md5": "fe5a60be33922ceef03662ab0491592f",
+      "size": 4449,
+      "uploadedDate": "2023-02-03T11:55:37.326Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShop-1920x1080-b1de83cc2a39b2d30c3821dc885d4d85_Snapshot.png",
+      "md5": "b24df214e2f487e0e6d03cc228c89f62",
+      "size": 4905,
+      "uploadedDate": "2023-02-03T11:54:32.468Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic2-1920x1080-1aed7c567d955b4d40c6d082a3ab410a_Snapshot.png",
+      "md5": "aa13c22f35bc6e22f98d75989383c5ff",
+      "size": 4806,
+      "uploadedDate": "2023-02-03T11:54:32.873Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShop-1920x1080-30c3a970728d9e46d2c6db60f9da957d_Snapshot.png",
+      "md5": "65efe019521c72c137fde8f1b9ccb149",
+      "size": 4846,
+      "uploadedDate": "2023-02-02T20:46:14.796Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic1-1920x1080-3ef600e1338f5fa14a88f0904869da67_Snapshot.png",
+      "md5": "be57e56283b7a7287c1784b0fb9efc46",
+      "size": 3078,
+      "uploadedDate": "2023-02-02T20:46:15.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic2-1920x1080-6229db57b479611973e74269001e3dae_Snapshot.png",
+      "md5": "7539671395491a876e8548bd89a91d30",
+      "size": 4703,
+      "uploadedDate": "2023-02-02T20:46:15.712Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic3-1920x1080-cea691bc298632cdfddc55a77520a633_Snapshot.png",
+      "md5": "26c5291cab5e1c85197eb1f50c536ad0",
+      "size": 4468,
+      "uploadedDate": "2023-02-02T20:46:16.065Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic2-1920x1080-10c0906ee7435890e9e82b55f6fc38ab_Snapshot.png",
+      "md5": "b095762aa435fbc7ab9d4be844e37539",
+      "size": 4655,
+      "uploadedDate": "2023-02-01T20:27:12.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShop-1920x1080-85410f909a75d157ae855b8584ca93fc_Snapshot.png",
+      "md5": "fab88e37895abc1736fb0fcf3e55fa2a",
+      "size": 4768,
+      "uploadedDate": "2023-02-01T19:55:57.287Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic1-1920x1080-3ef600e1338f5fa14a88f0904869da67_Snapshot.png",
+      "md5": "be57e56283b7a7287c1784b0fb9efc46",
+      "size": 3078,
+      "uploadedDate": "2023-02-01T19:55:57.643Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic2-1920x1080-159b2ceef418d2283fa9469b421747d9_Snapshot.png",
+      "md5": "8fccfe809414b8cdbe76c15beb64ba8c",
+      "size": 4663,
+      "uploadedDate": "2023-02-01T19:55:58.034Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EEMShopPic3-1920x1080-fdf38f26b4da429af948e5b736200173_Snapshot.png",
+      "md5": "8d04bfb3eabe33eaf3a109f770e2c3f1",
+      "size": 4469,
+      "uploadedDate": "2023-02-01T19:55:58.416Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-2-1920x1080-51a2ef250ec4f43477892e5821c4f8f3_Snapshot.png",
+      "md5": "a876e30b8e97d2116f39ae797d2b35c7",
+      "size": 2380,
+      "uploadedDate": "2023-01-30T11:17:46.574Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c7f488dcb352479697db7c6a83dc117d"
+    }
+  ],
+  "catalogNs": null
+}

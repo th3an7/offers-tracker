@@ -1,0 +1,272 @@
+{
+  "id": "22672d11c955481980eb132dafdcb77a",
+  "namespace": "ue",
+  "title": "Friends Integration",
+  "description": "Save your valuable time when implementing SteamAPI Friends (... and more) for your Steam Game when you use the Friends Integration plugin for blueprints!",
+  "longDescription": "<p>A SteamAPI Friends Interface integration that will allow you to implement fully working Friends Lists, Steam Groups, Chats, Avatars, and more! <u>Only using blueprints with the fewest nodes possible in the easiest way</u>. This plugin allows you to do <strong>anything </strong>that the SteamAPI Friends Interface allows for using blueprints.</p><p><br /></p><p><strong><u>This plugin works perfectly with the other plugins created by me:</u></strong></p><ul><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/65665005975f411fb2c3615ad3f807b2\" rel=\"nofollow\"><strong>Subsystem Configuration Integration</strong></a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/016fab0c75354d72a7af3721b62dd299\" rel=\"nofollow\"><strong>Leaderboard Integration</strong></a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/ec733baa0ae049d08cda0c3528ebe8d4\" rel=\"nofollow\"><strong>Stats &amp; Achievements Integration</strong></a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/43357eac78824afbab2da09034d796ba\" rel=\"nofollow\"><strong>Inventory Integration</strong></a></li></ul><p><br /></p><p><strong><u>Features</u></strong><u>:</u></p><ul><li>Fetching Logged in User&#39;s Current Restrictions, Persona State, Persona Name, In-Game Voice Speaking, and more!</li><li>All Steam Overlay Functions e.g. Opening Overlay to specific user&#39;s profile, and more!</li><li>List Steam Groups.</li><li>Open / Close Steam Community Group chats.</li><li>Send messages to Steam Community Group chats.</li><li>Fetch Steam Community Group Members.</li><li>Fetch Data about the Steam Community Group e.g. Public / Private, Official / Unofficial, Member Count, Activity Details, Tags, Names, and more!</li><li>List Steam Friends.</li><li>Get Friends Data e.g. Steam Level, Nickname, State, Relationship, and more!</li><li>Invite Users to lobby or game.</li><li>List of recently played with users.</li><li><strong>...and much more!</strong></li></ul><p><br /></p><p><strong>More features to come with future updates!</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "friends-integration",
+  "creationDate": "2023-10-05T22:50:01.864Z",
+  "lastModifiedDate": "2024-10-14T09:00:41.465Z",
+  "effectiveDate": "2023-10-05T22:50:01.821Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2e60fd92f549028425ce55aa850eba",
+    "name": "Dworaczek.uk"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong><u>IMPORTANT</u></strong></p><p><u>This plugin is safe to use on the client unlike the WebAPI.</u> This some functions of this plugin will not function properly without a correctly setup Friends/Groups/etc Service that you do through your Steamworks account that is linked with <u>your</u> Steam AppID. You can test this plugin with <u>limited</u> functionality by using the Spacewar AppID (480). <u>Please use the documentation and example content</u> as guidance; however it may require some tweaking within Blueprints to work with your personal Steamworks AppID.</p><p><br /></p><p><strong><u>Requires:</u></strong></p><ul><li>OnlineSubsystem</li><li>OnlineSubsystemUtils</li><li>OnlineSubsystemSteam</li></ul><p>These should already come pre-installed with the engine and should be automatically enabled as soon as you enable the plugin within your project.</p><p><br /></p><p><strong><u>Plugin Contents</u></strong></p><p>Number of Levels: 1</p><p>Number of Blueprints: 4</p><p>Number of C&#43;&#43; Classes: 8</p><p>Supported Target Build Platforms: Win64, Win32</p><p><a href=\"https://docs.google.com/document/d/1sKpZAtcBfAGEisfSRC4TJws9o8FjMdYenujOMq9-uWk/edit?usp&#61;sharing\" rel=\"nofollow\"><u>To see all functions please see the documentation.</u></a></p><p><br /></p><p><strong><u>Disclaimer</u></strong></p><p>This plugin does not have any association with VALVE. It only utilises the SteamAPI they provide for public use.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "808c42d9-4fdb-4a7c-8dcd-bf8489991e09"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/First-Picture-1920x1080-ea30592c2553094339c68bb8db603d00.png",
+      "md5": "ea30592c2553094339c68bb8db603d00",
+      "size": 39645,
+      "uploadedDate": "2023-09-12T19:09:10.738Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/All-Blueprints-1920x1080-94b433dacdf3f074cc347fa52fd47027.png",
+      "md5": "94b433dacdf3f074cc347fa52fd47027",
+      "size": 568555,
+      "uploadedDate": "2023-09-13T02:04:08.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FriendsIntegration_thumb-284x284-7b23a7bdd3e313ed5107825e07d3d8e3.png",
+      "md5": "7b23a7bdd3e313ed5107825e07d3d8e3",
+      "size": 7499,
+      "uploadedDate": "2023-09-12T19:09:11.050Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FriendsIntegration_featured-894x488-00401d5ae5f888a0e6d19679d28882c9.png",
+      "md5": "00401d5ae5f888a0e6d19679d28882c9",
+      "size": 22709,
+      "uploadedDate": "2023-09-12T19:09:11.155Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/All-Blueprints-1920x1080-94b433dacdf3f074cc347fa52fd47027_Snapshot.png",
+      "md5": "6e763a8a4402acd157f65013b86ce7c3",
+      "size": 5003,
+      "uploadedDate": "2023-09-13T02:04:08.569Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/First-Picture-1920x1080-ea30592c2553094339c68bb8db603d00_Snapshot.png",
+      "md5": "f3c70610b578a507d3a0d9d306a93c36",
+      "size": 3809,
+      "uploadedDate": "2023-09-12T19:09:10.998Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ace2c0db1c604d64b197b96f5aa4b704"
+    }
+  ],
+  "catalogNs": null
+}

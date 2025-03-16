@@ -1,0 +1,392 @@
+{
+  "id": "14ad870873e4434e8c19476583e3dfc1",
+  "namespace": "ue",
+  "title": "NPC AI Queuing System",
+  "description": "This pack contains a queuing system, which is created for developers who want to add some pedestrians (or NPC, AI) having smooth vivid behavior (queue) to their projects.",
+  "longDescription": "<p>This pack contains a queuing system, which is created for developers who want to add some pedestrians (or NPC, AI) having smooth vivid behavior (queue) to their projects, they can be a part of the gameplay or just be the background pedestrians.</p><p><br /></p><p>Demo:</p><ul><li>Video Demo <a href=\"https://youtu.be/iNZyAH7Rxqw\" rel=\"nofollow\">v1.1 (YouTube)</a></li><li>Windows Demo <a href=\"https://drive.google.com/drive/folders/1cnYmZM6BqglUGlHjfusbciJKN1_VszBE?usp&#61;share_link\" rel=\"nofollow\">v2.1 (Google Drive)</a> | <a href=\"https://pan.baidu.com/s/15547ac62rpiDc-rz9WhXvQ?pwd&#61;e0mi\" rel=\"nofollow\">v2.1 (百度网盘)</a></li></ul><p>Documentation:</p><ul><li>PDF <a href=\"https://drive.google.com/drive/folders/1-JkNvQ8Fgpmg9CfY_7LqYqT7i81n-qGV?usp&#61;share_link\" rel=\"nofollow\">v2.1 (Google Drive)</a> | <a href=\"https://pan.baidu.com/s/12m8ql2OUgqGuWcMzytYyIw?pwd&#61;sih0\" rel=\"nofollow\">v2.1 (百度网盘)</a></li></ul><p>Features:</p><ul><li>All done with <strong>blueprints</strong> and have been commented and properly arranged.</li><li><strong>Queuing NPC</strong> based on behavior tree, blackboard, tasks and services.</li><li><strong>Spline-based Queuing Route</strong>, you can flexibly control queue curves and customize parameters like <strong>interval distance</strong> between two adjacent NPCs, whether to let NPC <strong>stand at spline points</strong>, etc.</li><li>NPC in different behavior states is set to different materials (green and red).</li><li>If the NPC at the forefront of the queue leaves, all NPCs behind it will <strong>automatically move forward</strong> to the new position.</li><li><strong>Built-in debug system</strong>, which helps you to learn this system and develop with it.</li><li>Quick setup and easy to use.</li></ul><p>Supports:</p><ul><li><a href=\"mailto:HydrolysisStudio&#64;Outlook.com\" rel=\"nofollow\">HydrolysisStudio&#64;Outlook.com</a></li></ul><p>Links:</p><ul><li><a href=\"https://twitter.com/HydrolysisH20\" rel=\"nofollow\">Twitter</a> | <a href=\"https://www.youtube.com/channel/UCUwFFDuikS4hpW79tZlL_mA\" rel=\"nofollow\">YouTube</a> | <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Hydrolysis&#43;Studio\" rel=\"nofollow\">UE Marketplace</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "npc-ai-queuing-system",
+  "creationDate": "2020-09-07T01:05:05.514Z",
+  "lastModifiedDate": "2024-10-08T03:08:01.201Z",
+  "effectiveDate": "2020-09-07T01:05:03.653Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e66wuaf55lsak3y6a7knyey9jm9nef",
+    "name": "Hydrolysis Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Input:</p><ul><li>Mouse &amp; Keyboard</li><li>Gamepad</li></ul><p>Assets:</p><ul><li>12x bluprint class, 1x enumeration</li><li>1x behavior tree, 1 blackboard</li><li>4x skeletal mesh</li><li>13x texture (UE4), 34x texture (UE5)</li><li>1x material</li><li>3x material instance (UE4), 8x material instance (UE5)</li><li>4x material function (UE4), 3x material function (UE5)</li><li>2x level</li></ul><p>Platforms:</p><ul><li>Windows / MacOS / Linux</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c6f897b1-9029-4fb9-98f2-5c0aa16b40d9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-1ec344dd2d81e97acfb39a2fe56ae142.png",
+      "md5": "1ec344dd2d81e97acfb39a2fe56ae142",
+      "size": 827475,
+      "uploadedDate": "2023-05-04T15:59:42.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-0d92fc9fac734eeb46c16a1dd7ae6e29.png",
+      "md5": "0d92fc9fac734eeb46c16a1dd7ae6e29",
+      "size": 795465,
+      "uploadedDate": "2023-05-04T15:59:42.908Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-0a3f57abc7724648708d75c1a9cbc451.png",
+      "md5": "0a3f57abc7724648708d75c1a9cbc451",
+      "size": 2806993,
+      "uploadedDate": "2023-05-04T15:59:43.260Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-2fe976cf4e29f453a3740c1547cd3153.png",
+      "md5": "2fe976cf4e29f453a3740c1547cd3153",
+      "size": 855304,
+      "uploadedDate": "2023-05-04T15:59:43.832Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-1544862649b5af2767d1dd7c192eba4c.png",
+      "md5": "1544862649b5af2767d1dd7c192eba4c",
+      "size": 902779,
+      "uploadedDate": "2023-05-04T15:59:44.068Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NPCAIQueuingSystem_thumb-284x284-791b8e4c47fbffb4c45ec038a1abaf2d.png",
+      "md5": "791b8e4c47fbffb4c45ec038a1abaf2d",
+      "size": 146405,
+      "uploadedDate": "2023-05-04T16:04:53.638Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NPCAIQueuingSystem_featured-894x488-ce2652d7cb6f7f1d2b8c1a6044b78158.png",
+      "md5": "ce2652d7cb6f7f1d2b8c1a6044b78158",
+      "size": 710626,
+      "uploadedDate": "2023-05-04T16:04:53.758Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-1ec344dd2d81e97acfb39a2fe56ae142_Snapshot.png",
+      "md5": "74b2b7c869bbba54cc3abe11245a30bf",
+      "size": 6798,
+      "uploadedDate": "2023-05-04T15:59:42.787Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-0d92fc9fac734eeb46c16a1dd7ae6e29_Snapshot.png",
+      "md5": "c736147cd3949c3ba4a0318d20d1928d",
+      "size": 6228,
+      "uploadedDate": "2023-05-04T15:59:43.003Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-0a3f57abc7724648708d75c1a9cbc451_Snapshot.png",
+      "md5": "0f18a9eb58a4b8e998207bebbc000526",
+      "size": 8020,
+      "uploadedDate": "2023-05-04T15:59:43.654Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-2fe976cf4e29f453a3740c1547cd3153_Snapshot.png",
+      "md5": "386d2637433b3157dbf93b6699b17cd0",
+      "size": 6041,
+      "uploadedDate": "2023-05-04T15:59:43.929Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-1544862649b5af2767d1dd7c192eba4c_Snapshot.png",
+      "md5": "f177cc0b7ca7a7e7f9c697a12943aa3a",
+      "size": 6899,
+      "uploadedDate": "2023-05-04T15:59:44.161Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11080P-1920x1080-64b364c65150876c0f1ce484ce8c0561_Snapshot.png",
+      "md5": "19c2643fa72ac4f7452f95268f777d08",
+      "size": 4247,
+      "uploadedDate": "2020-08-30T17:07:42.665Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/21080P-1920x1080-7edcabb9b551d67111cbed739f3fd0fd_Snapshot.png",
+      "md5": "2d832a0c6d0b180161618c210a425ccd",
+      "size": 5473,
+      "uploadedDate": "2020-08-30T17:07:43.378Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/31080P-1920x1080-7be4b1ac82496c597e7132d77970241d_Snapshot.png",
+      "md5": "82416d9d4bdf2cae749582b5d227386e",
+      "size": 6053,
+      "uploadedDate": "2020-08-30T17:07:44.312Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/41080P-1920x1080-5d8e92e6753e253c25e14324f55b23f5_Snapshot.png",
+      "md5": "600f3bb44aca4b1741c7883e8dfa03fd",
+      "size": 5496,
+      "uploadedDate": "2020-08-30T17:07:45.176Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/51080P-1920x1080-98e800b275d7ee95024da6fb9440868a_Snapshot.png",
+      "md5": "66330c5bb205aad21e954fd2955c103e",
+      "size": 6709,
+      "uploadedDate": "2020-08-30T17:07:46.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/61080P-1920x1080-1eb8f232d3a803dda3e029ae9cdaf921_Snapshot.png",
+      "md5": "a5c87fbb8451daa0537114a7b2110db4",
+      "size": 5743,
+      "uploadedDate": "2020-08-30T17:07:46.876Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0d61acca448046e3b6a6c27938ac2a22"
+    }
+  ],
+  "catalogNs": null
+}

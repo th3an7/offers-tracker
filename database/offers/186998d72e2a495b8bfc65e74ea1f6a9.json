@@ -1,0 +1,272 @@
+{
+  "id": "186998d72e2a495b8bfc65e74ea1f6a9",
+  "namespace": "ue",
+  "title": "Runtime Audio Importer (MetaSound)",
+  "description": "Runtime Audio Importer plugin for Unreal Engine with the MetaSound support. Importing audio of various formats at runtime. Supports MP3, WAV, FLAC, OGG Vorbis, BINK and RAW formats",
+  "longDescription": "<p><strong><u>Note: MetaSounds support is only available on UE &gt;&#61; 5.3</u></strong></p><p><strong>Warning! If you have the regular RuntimeAudioImporter plugin installed, please remove it before installing the MetaSound version.</strong></p><p><br /></p><p><a href=\"https://docs.georgy.dev/runtime-audio-importer/overview\" rel=\"nofollow\"><strong>Documentation</strong></a> (<a href=\"https://docs.georgy.dev/runtime-audio-importer/metasound-integration\" rel=\"nofollow\"><strong>MetaSounds documentation</strong></a>)</p><p><a href=\"https://georgy.dev/discord\" rel=\"nofollow\"><strong>Discord support chat</strong></a></p><p><br /></p><p>Open-source plugin to import audio files of <strong>MP3</strong>, <strong>WAV</strong>, <strong>FLAC</strong>, <strong>OGG Vorbis, BINK</strong> and <strong>RAW </strong>formats into the game at runtime.</p><p>It&#39;s easy to use in both C&#43;&#43; and Blueprints.</p><p>Plugin does not require any static libraries and external dependencies.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runtime-audio-importer-metasound",
+  "creationDate": "2024-01-20T10:30:12.125Z",
+  "lastModifiedDate": "2024-10-18T12:04:26.242Z",
+  "effectiveDate": "2024-01-20T10:30:12.092Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4lh62cwwn79qkb9yvqadtwsx72bdy3",
+    "name": "Georgy Dev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Fast transcoding speed</li><li>Supported for major audio formats: <strong>MP3</strong>, <strong>WAV</strong>, <strong>FLAC</strong>, <strong>OGG Vorbis</strong> and <strong>BINK</strong></li><li>Supported for RAW formats: int8, uint8, int16, uint16, int32, uint32, float32</li><li>Same behavior as regular sound wave, including SoundCue, MetaSounds (starting from 5.3), etc</li><li>Automatic detection of audio format</li><li>Audio streaming functionality</li><li>Audio capturing from input devices (eg microphone), including within Pixel Streaming context</li><li>Voice Activity Detection (VAD)</li><li>Exporting a sound wave to a separate file</li><li>Pre-imported sound assets</li><li>No static libraries and external dependencies</li><li>Cross-platform compatibility (Windows, Mac, Linux, Android, iOS, etc)</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1286",
+      "name": "BIKES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:40.678Z",
+      "updated": "2019-06-20T12:00:40.678Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a1b6f250-9636-4ac3-b153-d5dae95bf26a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/runtimeaudioimporter1920-1920x1080-3e0fdbdb270b7a32d4d98274322d974f.png",
+      "md5": "3e0fdbdb270b7a32d4d98274322d974f",
+      "size": 50233,
+      "uploadedDate": "2024-01-05T13:20:34.527Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4metasoundsexamplenew-1920x1080-c04ad4800bc59d77b7f17f43e003fba4.jpg",
+      "md5": "c04ad4800bc59d77b7f17f43e003fba4",
+      "size": 650334,
+      "uploadedDate": "2024-01-20T10:29:21.026Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5metasoundsexamplenew-1920x1080-c7bd4935f3f1eb1970870bc92635e910.jpg",
+      "md5": "c7bd4935f3f1eb1970870bc92635e910",
+      "size": 453104,
+      "uploadedDate": "2024-01-20T10:29:21.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1example-1920x1080-ce9a57bab736dfe46092fd06beaa3a7e.jpg",
+      "md5": "ce9a57bab736dfe46092fd06beaa3a7e",
+      "size": 845396,
+      "uploadedDate": "2024-01-05T13:20:35.128Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2example-1920x1080-742c22a1ff5fa7b999ad461d4094ecb8.jpg",
+      "md5": "742c22a1ff5fa7b999ad461d4094ecb8",
+      "size": 380582,
+      "uploadedDate": "2024-01-05T13:20:36.025Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3example-1920x1080-c4e5a8e7fa9e4c20d03edab777cc9e97.jpg",
+      "md5": "c4e5a8e7fa9e4c20d03edab777cc9e97",
+      "size": 669622,
+      "uploadedDate": "2024-01-05T13:20:36.946Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RuntimeAudioImporterMetaSound_thumb-284x284-cba54305f2aa5ba022c219144a7492b7.png",
+      "md5": "cba54305f2aa5ba022c219144a7492b7",
+      "size": 7653,
+      "uploadedDate": "2024-01-05T13:20:37.555Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RuntimeAudioImporterMetaSound_featured-894x488-631d5819d4bf5abdd2bfa0a59b7fd71a.png",
+      "md5": "631d5819d4bf5abdd2bfa0a59b7fd71a",
+      "size": 30264,
+      "uploadedDate": "2024-01-05T13:20:37.684Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4metasoundsexamplenew-1920x1080-c04ad4800bc59d77b7f17f43e003fba4_Snapshot.jpg",
+      "md5": "eb2be80bb15b7db415a3fd80b4698c15",
+      "size": 5582,
+      "uploadedDate": "2024-01-20T10:29:21.575Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5metasoundsexamplenew-1920x1080-c7bd4935f3f1eb1970870bc92635e910_Snapshot.jpg",
+      "md5": "82e77e6150371c5cb1b2d0267a304fe0",
+      "size": 4459,
+      "uploadedDate": "2024-01-20T10:29:22.376Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/runtimeaudioimporter1920-1920x1080-3e0fdbdb270b7a32d4d98274322d974f_Snapshot.png",
+      "md5": "9420a4018aef0e59e04c04119ee18366",
+      "size": 3153,
+      "uploadedDate": "2024-01-05T13:20:34.798Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1example-1920x1080-ce9a57bab736dfe46092fd06beaa3a7e_Snapshot.jpg",
+      "md5": "f53500b241b78552b1026e07c0d8a2f0",
+      "size": 7130,
+      "uploadedDate": "2024-01-05T13:20:35.717Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2example-1920x1080-742c22a1ff5fa7b999ad461d4094ecb8_Snapshot.jpg",
+      "md5": "d48b356c12ad587865cc3ee2cee2887d",
+      "size": 5380,
+      "uploadedDate": "2024-01-05T13:20:36.621Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3example-1920x1080-c4e5a8e7fa9e4c20d03edab777cc9e97_Snapshot.jpg",
+      "md5": "a58369e52d9b00d87099098a5d2eb88f",
+      "size": 6598,
+      "uploadedDate": "2024-01-05T13:20:37.507Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3fa6c36a8d4745ce9611959143fdb4f7"
+    }
+  ],
+  "catalogNs": null
+}

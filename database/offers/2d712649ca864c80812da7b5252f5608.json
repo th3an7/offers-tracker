@@ -1,0 +1,351 @@
+{
+  "id": "2d712649ca864c80812da7b5252f5608",
+  "namespace": "ue",
+  "title": "VehicleSim Dynamics",
+  "description": "The VehicleSim Dynamics plugin allows CarSim and TruckSim customers to run their models in an Unreal environment.",
+  "longDescription": "<p>The VehicleSim Dynamics plugin from Mechanical Simulation will allow you to run industry standard CarSim and TruckSim math models in an Unreal environment. Please note that this plugin does not function without a separately purchased, licensed copy of CarSim or TruckSim, which are expensive, professional engineering tools.</p><p><br /></p><p>Mechanical Simulation Corporation is the world leader in the development and distribution of advanced software used to simulate vehicle behavior involving interactions between the 3D dynamic vehicle response, advanced controllers, driver controls, and 3D roads. Established in 1996, Mechanical Simulation provides car, truck and motorcycle simulation packages, training and ongoing support worldwide to more than 110 OEMs and Tier 1 suppliers, and over 200 universities and government research groups. We also provide the vehicle dynamics models used in more than 1400 driving simulators. The Ann Arbor, Michigan, headquarters coordinates with global sales agents who provide local distribution and tech support for our software.</p><p><br /></p><p>Watch our <a href=\"https://youtube.com/playlist?list&#61;PL-m2_cMh-W3SEyl_xvosmVH3NRww3z4Wq\" rel=\"nofollow\">YouTube videos</a> for information on using the plug-in.</p><p><br /></p><p>To get <strong>CarSim</strong> or <strong>TruckSim</strong> please <a href=\"http://www.carsim.com/forms/additional_information.php\" rel=\"nofollow\">submit your information</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "carsim-vehicle-dynamics",
+  "creationDate": "2016-11-03T15:19:25.911Z",
+  "lastModifiedDate": "2024-10-15T12:27:37.865Z",
+  "effectiveDate": "2017-04-12T00:00:00.000Z",
+  "viewableDate": "2017-04-12T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-38db2f59134b5ebc092ef84f601b28",
+    "name": "Mechanical Simulation"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>The plugin will feed terrain data, including surface friction, from Unreal into the VehicleSim math model. It will also provide the math model data to the simulation using code or blueprints. You can modify your vehicle in CarSim or TruckSim and hot reload the results in your environment. Standard output files are generated, so you can view all of the selected variable outputs in the CarSim or TruckSim plotter after a run.</p><p><br /></p><p>The VehicleSim Dynamics plugin requires a running copy of CarSim or TruckSim. To download visit <a href=\"http://carsim.com/\" rel=\"nofollow\">carsim.com</a>.</p><p><br /></p><p><strong><u>Changes for version 2023.0.0, December 14, 2022:</u></strong></p><ul><li>Update to CarSim and TruckSim version 2023.0.</li><li>Added HPC licensing option to UCarSimMovementComponent, which can be set in Unreal Editor.</li><li>Changed location of transient and output files to the UE &#34;user save directory&#34;.</li></ul><p><br /></p><p>See Docs/changelog.txt in the plugin directory for more details.</p><p><br /></p><p>To get started read our <a href=\"https://carsim.com/users/pdf/unreal/VehicleSim_Unreal_plugin_2021.0.pdf\" rel=\"nofollow\">tutorial</a> documentation.</p><p><br /></p><p>To download full documentation and example projects please visit our website user section. An account is required to login to the user section:</p><p><a href=\"https://www.carsim.com/users/unreal_plugin/index.php\" rel=\"nofollow\">https://www.carsim.com/users/unreal_plugin/index.php</a></p><p><br /></p><p>Supported Development Platforms: Windows x64, Linux</p><p>Supported Target Build Platforms: Windows x64, Linux</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "09a39650-eb70-4083-91b6-1402fc90ae5c"
+    },
+    {
+      "key": "BuyLink",
+      "value": "https://www.carsim.com/products/supporting/unreal/ue_landing.php"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920x1080dynamicbluecarskidpad-1920x1080-ee82748c5931d86f6cef5bb6cf04928d.png",
+      "md5": "ee82748c5931d86f6cef5bb6cf04928d",
+      "size": 1940456,
+      "uploadedDate": "2020-12-17T15:10:19.971Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920x1080dynamicorangetruckskidpad-1920x1080-889969d9e37a80edd2676ba18686eeee.png",
+      "md5": "889969d9e37a80edd2676ba18686eeee",
+      "size": 1731694,
+      "uploadedDate": "2020-12-17T15:10:20.556Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3.1920x1080CarSimUnrealinterface-1920x1080-de19f4c4bea98ca2782a4bf038d17ab1.png",
+      "md5": "de19f4c4bea98ca2782a4bf038d17ab1",
+      "size": 379850,
+      "uploadedDate": "2020-12-17T15:19:32.610Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4.1920x1080Unrealinterface-1920x1080-45fea1714f96e10bd6ee1a0d9400f1a3.png",
+      "md5": "45fea1714f96e10bd6ee1a0d9400f1a3",
+      "size": 974894,
+      "uploadedDate": "2020-12-17T15:19:32.879Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5.1920x1080dynamicredcarblocktestsunset-1920x1080-1feefcb121258fd2e535a2d4a3cf238f.png",
+      "md5": "1feefcb121258fd2e535a2d4a3cf238f",
+      "size": 2970371,
+      "uploadedDate": "2020-12-17T15:19:33.421Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VehicleSimDynamics_thumb-284x284-1ae82f9fd64300a019c723d60953c995.png",
+      "md5": "1ae82f9fd64300a019c723d60953c995",
+      "size": 142953,
+      "uploadedDate": "2018-12-21T19:41:20.384Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VehicleSimDynamics_featured-894x488-e8a24bffd41c5774fd5c2ccd3d1d1318.png",
+      "md5": "e8a24bffd41c5774fd5c2ccd3d1d1318",
+      "size": 630642,
+      "uploadedDate": "2018-12-21T19:41:20.482Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3.1920x1080CarSimUnrealinterface-1920x1080-de19f4c4bea98ca2782a4bf038d17ab1_Snapshot.png",
+      "md5": "430c9293d899b54a11810a523a02cde0",
+      "size": 5856,
+      "uploadedDate": "2020-12-17T15:19:32.691Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4.1920x1080Unrealinterface-1920x1080-45fea1714f96e10bd6ee1a0d9400f1a3_Snapshot.png",
+      "md5": "35ce835ce46f617e8c4a07fe0ae34d3a",
+      "size": 6500,
+      "uploadedDate": "2020-12-17T15:19:33.171Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5.1920x1080dynamicredcarblocktestsunset-1920x1080-1feefcb121258fd2e535a2d4a3cf238f_Snapshot.png",
+      "md5": "5aa41819fa9dec9a724b2ee34ccd27f6",
+      "size": 7062,
+      "uploadedDate": "2020-12-17T15:19:33.835Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920x1080dynamicbluecarskidpad-1920x1080-ee82748c5931d86f6cef5bb6cf04928d_Snapshot.png",
+      "md5": "a672bb01e2937db0dd74f782643f488b",
+      "size": 5752,
+      "uploadedDate": "2020-12-17T15:10:20.341Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920x1080dynamicorangetruckskidpad-1920x1080-889969d9e37a80edd2676ba18686eeee_Snapshot.png",
+      "md5": "912331d1ac4e34ba9bac5fe14108299f",
+      "size": 6639,
+      "uploadedDate": "2020-12-17T15:10:20.993Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TruckSimPlugin00-1920x1080-730fd9da9aede739eb228f45068e3e87_Snapshot.jpg",
+      "md5": "ceb9adb01368fc0572f93cee6f6ff8b7",
+      "size": 2749,
+      "uploadedDate": "2018-12-21T19:41:20.302Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0474e4eae8f0402ab147c85267720e25"
+    }
+  ],
+  "catalogNs": null
+}

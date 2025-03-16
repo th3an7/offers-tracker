@@ -1,0 +1,155 @@
+{
+  "id": "c7314be54a7d49939c2dabc13fe1ffff",
+  "namespace": "ue",
+  "title": "VR IK Body",
+  "description": "VR IK Body Plugin is designed to evaluate body position from VR input.",
+  "longDescription": "<p>VR IK Body Plugin is meant to evaluate body state based on VR headset and motion controllers positions and apply it to Skeletal Mesh. It supports spine rotation, crouch and leaning. The plugin is mainly designed for player&#39;s body representation in multiplayer games. The plugin also includes fingers solver which provides full control over hands of your character. Fingers solver supports 1) input from motion controllers, 2) pre-defined poses and 3) can trace scene to grab/release objects accurately.</p><p><br /></p><p><strong>News</strong>: A component was added with brand-new full-body solver: Ynnk VR-Avatar. This is now main component to use. VRIKBody/VRIKSkeletalMeshTranslator stay as legacy.</p><p><br /></p><p>Demo video of Ynnk VR-Avatar component: <a href=\"https://www.youtube.com/watch?v&#61;l4jbCfKxTPo\" rel=\"nofollow\">YouTube</a></p><p>Tutorial (see &#34;Documentation&#34; below for the latset tutorial) video of Ynnk VR-Avatar component: <a href=\"https://www.youtube.com/watch?v&#61;CYsX5Ne7PrA\" rel=\"nofollow\">YouTube</a></p><p><br /></p><p><a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1377344-vr-ik-body-support\" rel=\"nofollow\">Support (UE4 Forums)</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vr-ik-body",
+  "creationDate": "2017-10-02T20:52:55.821Z",
+  "lastModifiedDate": "2024-10-21T23:16:45.700Z",
+  "effectiveDate": "2017-10-02T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8ba954a7a34115b5479ff854fbfe78",
+    "name": "Yuri N Kalinin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>neural net-based full-body VR solver</li><li>distinction of head and ribcage rotation</li><li>calculated elbow joint targets</li><li>calculated feet positions</li><li>body calibration</li><li>keeps accurate head and hands positions</li><li>supported locomotion from stick</li><li>input from scene components or default interface</li><li>special IK animation node for blending legs animation</li><li>can work with any VR headset ant motion controllers</li><li>source code is included</li></ul><p>Code Modules:</p><ul><li>VRIKBodyRuntime (Runtime)</li><li>VRIKBodyEditor (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64, Linux</p><p>Supported Target Build Platforms: Win64, Linux, Android (Quest)</p><p>Documentation: <a href=\"https://www.youtube.com/watch?v&#61;WQ98f0k2R60\" rel=\"nofollow\">VIDEO</a> | <a href=\"https://drive.google.com/file/d/1iJrlW1h68bln6z18wN6_bDIR5csjilmm/view?usp&#61;share_link\" rel=\"nofollow\">PDF</a></p><p>Example Projects: <a href=\"https://drive.google.com/file/d/14DmHL0Hr3cBJu9eZC2l_Nsk2bjgbHP18/view?usp&#61;sharing\" rel=\"nofollow\">5.2-5.4 for OpenXR</a> | <a href=\"https://drive.google.com/file/d/1j2Fp3QiCerzLzUueh1_ACX8mY7dzVDEw/view?usp&#61;sharing\" rel=\"nofollow\">5.3-5.4 for MetaXR (Quest)</a></p><p>Executable Demo: <a href=\"https://drive.google.com/file/d/1GuKCxeLQkyxtZNUSebwMzRGHq1eT4NMb/view?usp&#61;share_link\" rel=\"nofollow\">ZIP</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "42ce2175-b6d3-4264-88f4-716ffe9c3ce3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRIKBody_screenshot01-1920x1080-6e2387892f9645a0765f6bd6678c245d.jpg",
+      "md5": "6e2387892f9645a0765f6bd6678c245d",
+      "size": 671990,
+      "uploadedDate": "2017-09-27T07:28:46.139Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRIKBody_screenshot04-1920x1080-ec8167949358e6b165c3b18783eebbd8.jpg",
+      "md5": "ec8167949358e6b165c3b18783eebbd8",
+      "size": 472465,
+      "uploadedDate": "2017-09-27T07:28:46.268Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRIKBody_screenshot05-1920x1080-a204c7a54b6e45b5b5149a3ec946111d.jpg",
+      "md5": "a204c7a54b6e45b5b5149a3ec946111d",
+      "size": 562954,
+      "uploadedDate": "2017-09-27T07:28:46.566Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRIKBody_screenshot06-1920x1080-b2f078f536b980f3c7284705f2667f51.jpg",
+      "md5": "b2f078f536b980f3c7284705f2667f51",
+      "size": 544372,
+      "uploadedDate": "2017-09-27T07:28:46.753Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRIKBody_screenshot07-1920x1080-11359617ce6af5f63672b982ffd4ad37.jpg",
+      "md5": "11359617ce6af5f63672b982ffd4ad37",
+      "size": 643412,
+      "uploadedDate": "2017-09-27T07:28:46.874Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRIKBody_screenshot08-1920x1080-daa9fcfc1d9ae2febf7e790a1d43489d.png",
+      "md5": "daa9fcfc1d9ae2febf7e790a1d43489d",
+      "size": 458708,
+      "uploadedDate": "2017-09-27T07:28:47.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-45f41379f9a8ce568fa2d78ee839ee31.jpg",
+      "md5": "45f41379f9a8ce568fa2d78ee839ee31",
+      "size": 517684,
+      "uploadedDate": "2017-10-02T20:52:07.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VRIKBodyResubmissionforReview_thumb-284x284-8072aa28e1268e0eaa1675235cd40655.png",
+      "md5": "8072aa28e1268e0eaa1675235cd40655",
+      "size": 93841,
+      "uploadedDate": "2017-09-27T07:28:48.036Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VRIKBodyResubmissionforReview_featured-894x488-29972f31ed542880894a0ac7e9ec89fe.png",
+      "md5": "29972f31ed542880894a0ac7e9ec89fe",
+      "size": 388074,
+      "uploadedDate": "2017-09-27T07:28:48.215Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4907c10801d643af9fbec003c0d2f1e3"
+    }
+  ],
+  "catalogNs": null
+}

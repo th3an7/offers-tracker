@@ -1,0 +1,176 @@
+{
+  "id": "648d582688654f7db09939af111c45b5",
+  "namespace": "ue",
+  "title": "UAsset Browser",
+  "description": "View and import uasset files with dependencies.",
+  "longDescription": "<p>With UAsset Browser, you can preview uasset thumbnail, view dependency graph between uasset files, inspect/search/filter uasset meta data, and then import uasset file with all it&#39;s dependencies including hard or soft references.</p><p><br /></p><p>UAsset Browser looks and works similar to Content Browser, the difference is that instead of working with internal content, UAsset Browser works with external content (from other projects or from marketplace vault cache content folders).</p><p><br /></p><p>UAsset Browser works as a uasset file importer. Dependencies between uasset files will be gathered and imported together to avoid missing dependencies when copying uasset files manually into your project. </p><p><br /></p><p>Different from existing Migrate Asset workflow, instead of opening multiple external projects to migrate selected assets to your current project, with UAsset Browser you always stay in the current working project, browsing and importing the assets you want from any external projects or vault cache content into the current project.</p><p><br /></p><p>Cooked uasset files from packaged games are not supported.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "uasset-browser",
+  "creationDate": "2020-03-03T03:12:43.826Z",
+  "lastModifiedDate": "2024-10-15T10:09:43.232Z",
+  "effectiveDate": "2020-03-03T05:59:16.345Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-64fcefb01e4787a414d5b4056c87e1",
+    "name": "Mary Nate"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Browse uasset files inside editor</li><li>One click import uasset file with all dependencies</li><li>View dependency graph of uasset files</li><li>Support both hard dependency or soft referenced assets</li><li>Preview uasset content thumbnail</li><li>Inspect uasset meta information</li><li>Display uasset engine version as thumbnail overlay</li><li>Filter uasset files by asset type</li><li>Search uasset files by name, by asset registry tags (e.g. triangles &gt; 1000; materials &#61;&#61; 1)</li><li>Display uasset files in Tile, List or Column view</li><li>Manage mulitple projects / valut cache content folders in one panel</li><li>Familiar content browser UI</li></ul><p> </p><p>Code Modules:</p><ul><li> ExtContentBrowser (Editor)</li></ul><p> </p><p>Number of Blueprints:</p><p>Number of C&#43;&#43; Classes: 61</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: <a href=\"https://marynate.github.io/uasset-browser/\" rel=\"nofollow\">https://marynate.github.io/uasset-browser/</a></p><p>Video: <a href=\"https://www.youtube.com/watch?v&#61;DCCd6gdBZ30\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;DCCd6gdBZ30</a></p><p><br /></p><p><strong>Supprot:</strong></p><p><a href=\"https://discord.gg/dT3QWx9\" rel=\"nofollow\">Discord</a></p><p><a href=\"https://trello.com/b/vDp6jw7D/uasset-browser-roadmap\" rel=\"nofollow\">Roadmap</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6fef1dc1-cc57-412e-bbf5-8a358139a11c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreUAssetBrowserGallery1-1920x1080-2ba8a83bf03fe43b18cebd2176b8802b.png",
+      "md5": "2ba8a83bf03fe43b18cebd2176b8802b",
+      "size": 1594543,
+      "uploadedDate": "2020-02-05T16:51:32.903Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreUAssetBrowserGallery2-1920x1080-3518c54d2276195925a2df95e2594c9b.png",
+      "md5": "3518c54d2276195925a2df95e2594c9b",
+      "size": 426619,
+      "uploadedDate": "2020-02-05T16:51:33.321Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreUAssetBrowserGallery3-1920x1080-f3c50f10db4e5c1475952673f4a739cf.png",
+      "md5": "f3c50f10db4e5c1475952673f4a739cf",
+      "size": 585109,
+      "uploadedDate": "2020-02-05T16:51:33.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StoreUAssetBrowserGallery4-1920x1080-00920a6a84ebea6efc171fe5ac4eee04.png",
+      "md5": "00920a6a84ebea6efc171fe5ac4eee04",
+      "size": 1642939,
+      "uploadedDate": "2020-02-05T16:51:33.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UAssetBrowser_thumb-284x284-c6a07b103f8b48d336cd4d8b21513296.png",
+      "md5": "c6a07b103f8b48d336cd4d8b21513296",
+      "size": 16747,
+      "uploadedDate": "2020-02-05T16:51:34.321Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UAssetBrowser_featured-894x488-fc4de518d41544384a3b1254d3d295dc.png",
+      "md5": "fc4de518d41544384a3b1254d3d295dc",
+      "size": 281613,
+      "uploadedDate": "2020-02-05T16:51:34.411Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreUAssetBrowserGallery1-1920x1080-2ba8a83bf03fe43b18cebd2176b8802b_Snapshot.png",
+      "md5": "fd603e859ed0b029db52cfdbd8b95026",
+      "size": 7442,
+      "uploadedDate": "2020-02-05T16:51:33.251Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreUAssetBrowserGallery2-1920x1080-3518c54d2276195925a2df95e2594c9b_Snapshot.png",
+      "md5": "cbcc0e9aff20cc5a3ea6fb26551635bb",
+      "size": 5372,
+      "uploadedDate": "2020-02-05T16:51:33.528Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreUAssetBrowserGallery3-1920x1080-f3c50f10db4e5c1475952673f4a739cf_Snapshot.png",
+      "md5": "6a8fd5aa7f956688c119a99603c09f92",
+      "size": 7858,
+      "uploadedDate": "2020-02-05T16:51:33.818Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StoreUAssetBrowserGallery4-1920x1080-00920a6a84ebea6efc171fe5ac4eee04_Snapshot.png",
+      "md5": "5017ba4cd3be1a0ac2660245d71e3228",
+      "size": 7518,
+      "uploadedDate": "2020-02-05T16:51:34.246Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "480205ad85534d67af8defa38aa29895"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,89 @@
+{
+  "id": "22492c8d41bd469a8d99665b14567194",
+  "namespace": "ue",
+  "title": "Android Sensors API",
+  "description": "Enables access to all sensors of the Android API (light, proximity, compass, etc.)",
+  "longDescription": "<p>** Help &amp; support on Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a> **</p><p><br /></p><p>Android Sensors API provides an easy access to the sensors of the Android API (depending on the availability of the sensor on the device):</p><ul><li>Accelerometer</li><li>Ambient temperature</li><li>Gravity</li><li>Gyroscope</li><li>Light</li><li>Linear acceleration</li><li>Magnetic field</li><li>Orientation</li><li>Pressure</li><li>Proximity</li><li>Relative humidity</li><li>Rotation vector</li><li>Temperature</li><li>Heart beat</li></ul><p><br /></p><p>Just call the <em>Initialize</em> function for a sensor, and start reading measures from this sensor. It can be called from either C&#43;&#43; or from <strong>B</strong>lueprints.</p><p><br /></p><p>Note: Null values will be returned if a sensor is unavailable (if <em>Initialize </em>returns false, it means that it&#39;s not available), and the quality of the data will depend on the quality of the sensor.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "android-sensors-api",
+  "creationDate": "2018-06-15T19:23:44.862Z",
+  "lastModifiedDate": "2024-10-08T09:03:31.090Z",
+  "effectiveDate": "2018-06-15T19:23:44.818Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1f385b3839424280bd68decb808ffb",
+    "name": "Isara Tech."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Direct access to accelerometer, ambient temperature, gravity, gyroscope, light, linear acceleration, magnetic field, orientation, pressure, proximity, relative humidity, rotation vector, temperature, heart beat</li></ul><p>Code Modules:</p><ul><li> Android Sensors API - Runtime</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: No</p><p>Supported Development Platforms: All platforms</p><p>Supported Target Build Platforms: Android (it can be built for other platforms, but the sensors functions will return null values)</p><p>Documentation: http://isaratech.com/docs/android-sensors-api/</p><p>Website: <a href=\"http://isaratech.com/uws/\" rel=\"nofollow\">http://isaratech.com/</a></p><p>Discord: <a href=\"https://discord.gg/TE7RM5N\" rel=\"nofollow\">https://discord.gg/TE7RM5N</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e0784cc9-cc38-4129-bf01-7c0130153a21"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot01-1920x1080-f3657227458bdd86aabb93d4a3c7d323.png",
+      "md5": "f3657227458bdd86aabb93d4a3c7d323",
+      "size": 601871,
+      "uploadedDate": "2018-04-17T13:23:51.398Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AndroidSensorsAPI_thumb-284x284-18a4bf6131c10c81e46b0d91c150a5de.png",
+      "md5": "18a4bf6131c10c81e46b0d91c150a5de",
+      "size": 21670,
+      "uploadedDate": "2018-04-17T13:23:51.555Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AndroidSensorsAPI_featured-894x488-cf451a74755724e3472c60862dfa2ad6.png",
+      "md5": "cf451a74755724e3472c60862dfa2ad6",
+      "size": 36784,
+      "uploadedDate": "2018-04-17T13:23:51.630Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "0f0a34007bd24aee9e62cca68cb45038"
+    }
+  ],
+  "catalogNs": null
+}

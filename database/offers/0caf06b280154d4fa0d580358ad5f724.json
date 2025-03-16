@@ -1,0 +1,374 @@
+{
+  "id": "0caf06b280154d4fa0d580358ad5f724",
+  "namespace": "ue",
+  "title": "Database Connector",
+  "description": "Database Connector (ODBC) allows you to connect from Unreal Engine to any database supporting ODBC. Easily connect to MySQL, MariaDB, PostegreSQL and more.",
+  "longDescription": "<h2>Database Connector (ODBC)</h2><p>Easily connect to your database ODBC database.</p><p><br /></p><h2>Asynchronous</h2><p>Operations don&#39;t block the game thread. Run hundreds of queries without slowing down your game.</p><p><br /></p><h2>Connection Pooling</h2><p>Connection pooling is integrated. Establish several connections to your database to perform queries in parallel.</p><p><br /></p><h2>Wide Database Support.</h2><p>Common ODBC compliant databases are: Microsoft Access, MySQL, MariaDB, Oracle, Microsoft SQL Server, Microsoft Visual FoxPro, IBM DB2.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "database-connector-odbc",
+  "creationDate": "2021-03-12T19:20:19.752Z",
+  "lastModifiedDate": "2024-10-05T16:28:41.601Z",
+  "effectiveDate": "2021-03-12T19:20:19.679Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6du2sju2hn7sqebnwx368j3lel6xvt",
+    "name": "Pandores"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2>Features:</h2><ul><li>Connection to Database via ODBC</li><li>Huge list of supported databases</li><li>Efficient Connection Pooling</li><li>Query Parameters escaping</li><li>For Blueprints &amp; C&#43;&#43;</li><li>Asynchronous queries</li></ul><p><br /></p><p><br /></p><h2>Code Modules:</h2><ul><li> DatabaseConnector (Runtime)</li></ul><p><br /></p><p><br /></p><h2>Additional Information</h2><ul><li>Supported Development Platforms: Windows, Linux</li><li>Supported Target Build Platforms: Windows, Linux</li><li>Documentation: <a href=\"https://pandoa.github.io/DatabaseConnector-ODBC/#/\" rel=\"nofollow\">Available here</a></li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "27639dbf-4dcd-4833-bf6f-1aecaa42ca0e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide1.PNG-1920x1080-b956171b0dc8c05a82fac979d7e3163a.jpg",
+      "md5": "b956171b0dc8c05a82fac979d7e3163a",
+      "size": 1227014,
+      "uploadedDate": "2023-07-09T14:48:46.862Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide2.PNG-1920x1080-351d2d78a0e796db074db9ea849e7e8b.jpg",
+      "md5": "351d2d78a0e796db074db9ea849e7e8b",
+      "size": 1346141,
+      "uploadedDate": "2023-07-09T14:55:47.453Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide2.PNG-1920x1080-26ebe2656449911456e9a566f5679558.jpg",
+      "md5": "26ebe2656449911456e9a566f5679558",
+      "size": 954081,
+      "uploadedDate": "2021-02-26T15:23:20.093Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Slide3.PNG-1920x1080-7fcc54342c706a74cf1f635bb1498d95.jpg",
+      "md5": "7fcc54342c706a74cf1f635bb1498d95",
+      "size": 935225,
+      "uploadedDate": "2021-02-26T15:23:20.545Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DatabaseConnectorODBC_thumb-284x284-76fce8921621641757d01e478ee3cf95.png",
+      "md5": "76fce8921621641757d01e478ee3cf95",
+      "size": 76840,
+      "uploadedDate": "2023-08-06T07:20:51.083Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DatabaseConnectorODBC_featured-894x488-3e03581b179559404c76f4c751de13e5.png",
+      "md5": "3e03581b179559404c76f4c751de13e5",
+      "size": 393689,
+      "uploadedDate": "2023-07-09T14:49:15.418Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide2.PNG-1920x1080-351d2d78a0e796db074db9ea849e7e8b_Snapshot.jpg",
+      "md5": "d1443923aab35113806167d3e3ebac29",
+      "size": 5004,
+      "uploadedDate": "2023-07-09T14:55:47.771Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide1.PNG-1920x1080-b956171b0dc8c05a82fac979d7e3163a_Snapshot.jpg",
+      "md5": "ab18c16833d9c4450437bf3daa562269",
+      "size": 3758,
+      "uploadedDate": "2023-07-09T14:48:47.175Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide1.PNG-1920x1080-a6ecfae0825dc6e21171ef35e582af31_Snapshot.jpg",
+      "md5": "9ca20ffdacdf5eccdba94d59a0dc8ee1",
+      "size": 2880,
+      "uploadedDate": "2021-02-26T15:23:19.931Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide2.PNG-1920x1080-26ebe2656449911456e9a566f5679558_Snapshot.jpg",
+      "md5": "acd8685ad31bcd9736d3ec483aaaeeb2",
+      "size": 4608,
+      "uploadedDate": "2021-02-26T15:23:20.380Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide3.PNG-1920x1080-7fcc54342c706a74cf1f635bb1498d95_Snapshot.jpg",
+      "md5": "099835f4e7817f838db57dd13d486379",
+      "size": 4844,
+      "uploadedDate": "2021-02-26T15:23:20.861Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide0-1920x1080-a23156a83bec8e7a093e567eec7324be_Snapshot.png",
+      "md5": "26a8ebcae934ae8e49f2b2372fc9f5d1",
+      "size": 2032,
+      "uploadedDate": "2021-02-26T15:22:29.516Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide1.PNG-1920x1080-a6ecfae0825dc6e21171ef35e582af31_Snapshot.jpg",
+      "md5": "9ca20ffdacdf5eccdba94d59a0dc8ee1",
+      "size": 2880,
+      "uploadedDate": "2021-02-10T18:19:07.849Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide2.PNG-1920x1080-26ebe2656449911456e9a566f5679558_Snapshot.jpg",
+      "md5": "acd8685ad31bcd9736d3ec483aaaeeb2",
+      "size": 4608,
+      "uploadedDate": "2021-02-10T18:19:08.362Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide3.PNG-1920x1080-7fcc54342c706a74cf1f635bb1498d95_Snapshot.jpg",
+      "md5": "099835f4e7817f838db57dd13d486379",
+      "size": 4844,
+      "uploadedDate": "2021-02-10T18:19:08.811Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Slide2.PNG-1920x1080-43c0f67bd6e661c8ebb0ba6c791e1605_Snapshot.jpg",
+      "md5": "0883370b7f36ce2402a0a9073f1d1f87",
+      "size": 2475,
+      "uploadedDate": "2021-02-07T15:24:04.297Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b139557458bf4f47aabd2ebb114a7f73"
+    }
+  ],
+  "catalogNs": null
+}

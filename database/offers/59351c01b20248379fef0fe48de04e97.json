@@ -1,0 +1,200 @@
+{
+  "id": "59351c01b20248379fef0fe48de04e97",
+  "namespace": "ue",
+  "title": "Update Rate Optimisation Blueprint Nodes",
+  "description": "Animation Update Rate Optimisation functionality exposed to Blueprints.",
+  "longDescription": "<p>This plugin will allow you to control the animation update rate of Skinned Meshes, whether you want to have distant characters skip an animation update frame or ten, or even disable the interpolation of animation to optimise your animation update. This technique could be employed to get dynamic stepped animation on 2s, 3s, to acquire a stop-motion animation style. URO is controlled based on the current LOD level or the screen real estate size. </p><p><br /></p><p>This plugin exposes the Update Rate Optimisation functionality from C&#43;&#43; to Blueprints. With two methods of control, LOD-based or screen percent-based. You will be able to fully customise the update rate of your skinned meshes to provide powerful and effective optimisations that were previously locked to C&#43;&#43;.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "update-rate-optimisation-blueprint-nodes",
+  "creationDate": "2024-05-20T17:24:22.729Z",
+  "lastModifiedDate": "2024-10-01T18:11:00.434Z",
+  "effectiveDate": "2024-05-20T17:28:54.027Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wqpbks99gbcnp8b3xud4rjruqb5a29",
+    "name": "MattLakeTA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Enable Update Rate Optimisation</li><li>Set Update Rate Optimisation Mode</li><li>Set / Clear Visible Distance Factor Thresholds</li><li>Set / Clear LOD To Frame Skip Array / Map / Index</li><li>Set Interpolate Skipped Frames</li><li>Set Max Eval Rate for Interpolation</li><li>Set Base Non Rendered Update Rate</li><li>Get Enabled Update Rate Optimisation</li><li>Get Update Rate Optimisation Mode</li><li>Get Visible Distance Factor Thresholds</li><li>Get Current Max Distance Factor</li><li>Get LOD To Frame Skip Array / Map / Index</li><li>Get Base Non Rendered Update Rate</li><li>Get Current Update Rate</li><li>Get Inteprolate Skipped Frames</li><li>Get Max Eval Rate for Interpolation</li></ul><p>Code Modules:</p><ul><li> UpdateRateOptimisationBlueprints (Runtime)</li></ul><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: https://www.youtube.com/watch?v&#61;zyOjCvT7AHU</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "67102b1e-b955-4ad3-927e-240b4c2b8101"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Blueprints-1920x1080-7a23464cb5a021baf5139d336859a533.png",
+      "md5": "7a23464cb5a021baf5139d336859a533",
+      "size": 589201,
+      "uploadedDate": "2024-05-17T20:51:28.430Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Examples-1920x1080-2270e8cba3b04e92c68df8f26f600a0c.png",
+      "md5": "2270e8cba3b04e92c68df8f26f600a0c",
+      "size": 656603,
+      "uploadedDate": "2024-05-17T20:51:28.042Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UpdateRateOptimisationBlueprintNodes_thumb-284x284-a0c91e19bb5a252f342b25ef33072bfe.png",
+      "md5": "a0c91e19bb5a252f342b25ef33072bfe",
+      "size": 37143,
+      "uploadedDate": "2024-05-17T20:51:28.715Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UpdateRateOptimisationBlueprintNodes_featured-894x488-7f09a351790d80d3b1828526cb3e56e3.png",
+      "md5": "7f09a351790d80d3b1828526cb3e56e3",
+      "size": 126652,
+      "uploadedDate": "2024-05-17T20:51:28.777Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Examples-1920x1080-2270e8cba3b04e92c68df8f26f600a0c_Snapshot.png",
+      "md5": "91752373fac946ec4c4a1e8a2b30f4ae",
+      "size": 5116,
+      "uploadedDate": "2024-05-17T20:51:28.281Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Blueprints-1920x1080-7a23464cb5a021baf5139d336859a533_Snapshot.png",
+      "md5": "dbba90d28d88de642f2481084d1a7be1",
+      "size": 5188,
+      "uploadedDate": "2024-05-17T20:51:28.659Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7808f2cda58a47929dd3217ad7d253d2"
+    }
+  ],
+  "catalogNs": null
+}

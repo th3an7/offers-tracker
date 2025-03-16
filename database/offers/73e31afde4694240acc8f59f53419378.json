@@ -1,0 +1,254 @@
+{
+  "id": "73e31afde4694240acc8f59f53419378",
+  "namespace": "ue",
+  "title": "Game Hosting Platform SDK i3D.net",
+  "description": "The i3D.net Game Server SDK for UE4/UE5 provides an easy way for your game servers to communicate with our Game Hosting Platform, for quick and efficient deployment, scaling and management of game servers.",
+  "longDescription": "<p>The i3D.net Game Server SDK for UE4/UE5 provides an easy way for your game servers to communicate with our Game Hosting Platform, for quick and efficient deployment, scaling, and management of game servers.</p><p><br /></p><p>The i3D.net Game Hosting Platform supports game server deployments on our Bare Metal, with additional scaling into multiple Public Clouds (GCP, AWS, Azure), ensuring you never run out of capacity, even on those unexpected moments. With a rapidly growing global coverage, you can place your game server as close to your community members as possible.</p><p><br /></p><p>The i3D.net Game Hosting ecosystem brings additional benefits, where you can make use of our anti-DDoS solutions, anti-cheat, and CDN for global build and game client distribution.</p><p><br /></p><ul><li>Supports Windows and Linux</li><li><a href=\"https://www.i3d.net/game-hosting-platform/?utm_campaign&#61;ONE%20platform%20&amp;utm_source&#61;Unreal_marketplace\" rel=\"nofollow\">Product description</a></li><li><a href=\"https://www.i3d.net/docs/one/\" rel=\"nofollow\">Full platform documentation</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "i3d-net-game-hosting-platform-sdk",
+  "creationDate": "2021-04-07T19:22:49.447Z",
+  "lastModifiedDate": "2024-10-15T12:46:50.551Z",
+  "effectiveDate": "2021-04-07T19:24:49.396Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-g3p6md35uu83a9uxzunuc27ckhf3s2",
+    "name": "i3D.net Performance Hosting"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Provides the ONE Game Hosting SDK for the Unreal Engine 4 &amp; 5.</li><li>The plugin contains the <a href=\"https://www.i3d.net/docs/one/odp/Game-Integration/Management-Protocol/Arcus-V2/\" rel=\"nofollow\">Arcus V2 protocol</a> implementation for game server integration</li><li>Provides two-way communication between game server and platform back end</li><li>Extended game server health checks</li><li>Enables <a href=\"https://www.i3d.net/docs/one/odp/Game-Integration/Management-Protocol/Arcus-V2/\" rel=\"nofollow\">Match Maker Allocation Flow</a></li><li>Live State monitoring (number of players, map, rules, version, etc)</li><li>The plugin provides the public C API interface that can be used by a game server to use the Arcus V2 protocol</li><li>The plugin contains the private C&#43;&#43; implementation of the Arcus V2 protocol</li></ul><p><br /></p><p>Code Modules:</p><ul><li> ONEGameHostingPlugin Module : Runtime</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows 32-bit (UE4 version only), Windows 64-bit, Linux</p><p>Supported Target Build Platforms: Windows 32-bit (UE4 version only), Windows 64-bit, Linux</p><p>Documentation: <a href=\"https://www.i3d.net/docs/one/\" rel=\"nofollow\">https://www.i3d.net/docs/one/</a></p><p>Example Project: Included in the plugin &amp; on <a href=\"https://github.com/i3D-net/ONE-GameHosting-SDK-Unreal/tree/master/4.27/ArcusExample\" rel=\"nofollow\">GitHub</a></p><p>Important/Additional Notes: -</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2996782a-1c17-449e-bd94-ce269edd7295"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealpluginGallery1-1920x1080-b00eddc3fae2533850959e803b4f7bf0.jpg",
+      "md5": "b00eddc3fae2533850959e803b4f7bf0",
+      "size": 461062,
+      "uploadedDate": "2021-03-29T16:55:34.781Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealpluginGallery2-1920x1080-f34f65a58142e0fb968ff1fed2e73fa3.jpg",
+      "md5": "f34f65a58142e0fb968ff1fed2e73fa3",
+      "size": 371509,
+      "uploadedDate": "2021-03-29T16:55:34.479Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealpluginGallery3-1920x1080-ec1e489bdca5576acd76412e569a6126.jpg",
+      "md5": "ec1e489bdca5576acd76412e569a6126",
+      "size": 249232,
+      "uploadedDate": "2021-03-29T16:55:34.107Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/i3DnetGameHostingPlatform_thumb-284x284-e40b0c46c19274282cb86c3a7be30391.png",
+      "md5": "e40b0c46c19274282cb86c3a7be30391",
+      "size": 23241,
+      "uploadedDate": "2021-03-29T16:55:35.043Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/i3DnetGameHostingPlatform_featured-894x488-b9f4e63fb95e8154dcc5c549f1571dcb.png",
+      "md5": "b9f4e63fb95e8154dcc5c549f1571dcb",
+      "size": 291757,
+      "uploadedDate": "2021-03-29T16:55:35.199Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealpluginGallery3-1920x1080-ec1e489bdca5576acd76412e569a6126_Snapshot.jpg",
+      "md5": "7f7f717dcab1f3afd6b648d01a10bc6c",
+      "size": 4201,
+      "uploadedDate": "2021-03-29T16:55:34.354Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealpluginGallery2-1920x1080-f34f65a58142e0fb968ff1fed2e73fa3_Snapshot.jpg",
+      "md5": "90cffb9e7aa4e540b393dd75c88d79ae",
+      "size": 5150,
+      "uploadedDate": "2021-03-29T16:55:34.703Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealpluginGallery1-1920x1080-b00eddc3fae2533850959e803b4f7bf0_Snapshot.jpg",
+      "md5": "fee98b18663349e86cbd65a0f6f7c065",
+      "size": 6121,
+      "uploadedDate": "2021-03-29T16:55:35.007Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2884170721204510a5e9bd5b68970049"
+    }
+  ],
+  "catalogNs": null
+}

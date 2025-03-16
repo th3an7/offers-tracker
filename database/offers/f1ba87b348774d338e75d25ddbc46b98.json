@@ -1,0 +1,194 @@
+{
+  "id": "f1ba87b348774d338e75d25ddbc46b98",
+  "namespace": "ue",
+  "title": "Subsystem Browser Plugin",
+  "description": "Plugin that adds a subsystem browser panel to editor",
+  "longDescription": "<p>Subsystems provide an easy way to extend engine functionality and implement new features, but there is nothing that could be used to visualize them in editor or allow to adjust their properties on the fly.</p><p>Plugin provides a dedicated Subsystem Browser Panel to display active subsystems with property editor.</p><p>New Subsystem Settings panel provides an easy way to interact with config properties within Subsystem-derived classes without need to create a standalone UDeveloperSettings class.</p><p><br /></p><p><strong>GitHub Source</strong>: <a href=\"https://github.com/aquanox/SubsystemBrowserPlugin\" rel=\"nofollow\">Here</a></p><p><strong>GitHub Issues</strong>: <a href=\"https://github.com/aquanox/SubsystemBrowserPlugin/issues\" rel=\"nofollow\">Here</a></p><p><strong>Documentation</strong>: <a href=\"https://github.com/aquanox/SubsystemBrowserPlugin/wiki\" rel=\"nofollow\">Here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "subsystem-browser-plugin",
+  "creationDate": "2022-01-15T22:51:45.205Z",
+  "lastModifiedDate": "2024-10-14T09:23:44.924Z",
+  "effectiveDate": "2022-01-15T22:53:31.242Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-plpf6x6ewu7nymyl6kqyjcqanmth75",
+    "name": "Aqua's Tools"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>List of active subsystems of all major types (Engine, Editor, GameInstance, World, LocalPlayer)</li><li>Ability to view subsystems in different worlds</li><li>Switch between Play-In-Editor and Editor worlds automatically on Play</li><li>View and modify subsystem properties in Details View (Including support of CallInEditor functions)</li><li>Quick navigation to subsystem source file via &#34;Open Source File&#34; context menu</li><li>Export all or only modified properties as ini config sections via &#34;Export Config&#34; context menu</li><li>Browser panel state (chosen filters, category folders state) is saved in local editor settings</li><li>Support for user-defined subsystem types (see wiki for info) <strong>NEW v1.1</strong></li><li>Support for user-defined table columns (see wiki for info) <strong>NEW v1.1</strong></li><li>Subsystem Settings Panel <strong>NEW v1.3</strong></li></ul><p><br /></p><p>Code Modules:</p><ul><li> SubsystemBrowser [Editor] </li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 24</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows, Linux, MacOS</p><p>Supported Target Build Platforms: All</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b557270d-b692-4261-bda8-6a8e469a6249"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Main-01-1920x1080-be3b22a340305a8d7489f580ec87746b.png",
+      "md5": "be3b22a340305a8d7489f580ec87746b",
+      "size": 707222,
+      "uploadedDate": "2022-01-12T12:13:58.517Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Main-02-1920x1080-2a6a701474d7e0b04314b2ac5d578059.png",
+      "md5": "2a6a701474d7e0b04314b2ac5d578059",
+      "size": 253648,
+      "uploadedDate": "2022-01-12T12:13:58.171Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Main-03-1920x1080-788fd64f5d931ce0fbe27497bf1fcb11.png",
+      "md5": "788fd64f5d931ce0fbe27497bf1fcb11",
+      "size": 1487365,
+      "uploadedDate": "2022-01-12T13:25:35.029Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SubsystemBrowserPlugin_thumb-284x284-b944d95acb1b2c3fa772e275e861b2a4.png",
+      "md5": "b944d95acb1b2c3fa772e275e861b2a4",
+      "size": 28384,
+      "uploadedDate": "2022-01-12T12:13:58.880Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SubsystemBrowserPlugin_featured-894x488-ee51ca65072f8ae2d87368432d71787a.png",
+      "md5": "ee51ca65072f8ae2d87368432d71787a",
+      "size": 105666,
+      "uploadedDate": "2022-01-12T12:13:58.924Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Main-03-1920x1080-788fd64f5d931ce0fbe27497bf1fcb11_Snapshot.png",
+      "md5": "54eb3994319264f18f4d0ac16284404b",
+      "size": 5044,
+      "uploadedDate": "2022-01-12T13:25:35.287Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Main-02-1920x1080-2a6a701474d7e0b04314b2ac5d578059_Snapshot.png",
+      "md5": "3243120e1e23833610f41b3e428571f4",
+      "size": 4006,
+      "uploadedDate": "2022-01-12T12:13:58.371Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Main-01-1920x1080-be3b22a340305a8d7489f580ec87746b_Snapshot.png",
+      "md5": "f94d79584c64a3f1ce1ecf836dc4704e",
+      "size": 5110,
+      "uploadedDate": "2022-01-12T12:13:58.826Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e6e6e7c18a4e40749a3fe202927a12cf"
+    }
+  ],
+  "catalogNs": null
+}

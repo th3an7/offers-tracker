@@ -1,0 +1,320 @@
+{
+  "id": "ce01648a2cde41338991bb855a624ffa",
+  "namespace": "ue",
+  "title": "Simple Color Wheel",
+  "description": "A simple color wheel that can be used to pick colors, features additional helper nodes and is totally free!",
+  "longDescription": "<p><strong>Version: 2021.1.4</strong></p><p><strong>Contact: </strong><a href=\"mailto:main&#64;w2wizard.dev\" rel=\"nofollow\">Here</a></p><p><strong><u>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</u></strong></p><p><strong>Example Video:</strong></p><p><a href=\"https://youtu.be/y8u3N1d2stU\" rel=\"nofollow\"><strong>https://youtu.be/y8u3N1d2stU</strong></a></p><p><br /></p><p><strong>Github Repo:</strong></p><p>If you want a more up-to-date version and actually resolve issues (like UE5 updates)</p><p>I encourage you to report them here instead as I am way more active on Github.</p><p><a href=\"https://github.com/W2Wizard/SimpleColorWheel\" rel=\"nofollow\">https://github.com/W2Wizard/SimpleColorWheel</a></p><p><br /></p><p><strong><em><u>How do I use it?</u></em></strong></p><p><strong><em><u>Simply open up the UMG Editor and it should be there under Input!</u></em></strong></p><p><strong><u>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</u></strong></p><p><br /></p><p><strong>Note: The widget shown is not included its just to prove the concept that its possible!</strong></p><p>This simple color wheel allows you to do just what a color wheel is supposed to do.</p><p>Comes with all necessary features that should make it possible to make a proper widget with it:</p><ul><li>Function Helpers that allow for linearcolor, color and byte conversions to hexadecimal values as strings and vice versa as well as getting the pixel under the cursor.</li><li>Events such as getting and setting the colors (setting does automatically update the pin) as well as mouse detection for when the widget is pressed and released.</li></ul><p><br /></p><p>Its all just 1 Widget, there are no hooks or weird tricks in store, simply drag and drop and there you go!</p><p>If you are curious about the code its all clean with proper comments incase you want to understand the insides!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simple-color-wheel",
+  "creationDate": "2020-11-10T09:38:28.822Z",
+  "lastModifiedDate": "2024-10-15T12:56:54.352Z",
+  "effectiveDate": "2020-11-10T09:38:26.652Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-atbhj5wumegn57bhjuqms5wp5xg8n7",
+    "name": "W2Wizard"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Hexadecimal conversions for colors and bytes.</li><li>Color wheel with movable Pin.</li><li>Pin can be changed to any texture or brush</li><li>Ability to get and set the colors, will update automatically.</li><li>Clean written and understandable code comments.</li></ul><p><br /></p><p><strong>Code Modules:</strong></p><ul><li> ColorWheelPlugin | Runtime</li></ul><p><br /></p><p><strong>Number of Blueprints</strong>: 0</p><p><strong>Number of C&#43;&#43; Classes</strong>: 4</p><p><strong>Supported Development Platforms</strong>: Win(32/64)</p><p><strong>Supported Target Build Platforms</strong>: Win(32/64)</p><p><strong>For non-supported Platforms: </strong>Linux and MacOS should work in theory, however I am unable to test on it.</p><p><strong>Documentation</strong>: The code comments provide full detail of almost everything.</p><p><strong>Important/Additional Notes</strong>: If you require a special version or really anything, let me know!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "816be1c5-5b82-4f4f-b5ef-6bbd788c9692"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 2020-12-01 222912-1920x1080-102a48edd7364df982201b2afe49681a.png",
+      "md5": "102a48edd7364df982201b2afe49681a",
+      "size": 913880,
+      "uploadedDate": "2020-12-02T18:26:47.349Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 2020-12-01 210954-1920x1080-fef9dff884ce806d201d470a3329c532.png",
+      "md5": "fef9dff884ce806d201d470a3329c532",
+      "size": 1617974,
+      "uploadedDate": "2020-12-02T18:27:45.348Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 2020-12-01 211120-1920x1080-900704d5e10788aed0ad8046caf672ec.png",
+      "md5": "900704d5e10788aed0ad8046caf672ec",
+      "size": 354792,
+      "uploadedDate": "2020-12-02T18:28:57.335Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 2020-12-01 211226-1920x1080-3560a594c3242ba624ab5f0e3ba9f3b0.png",
+      "md5": "3560a594c3242ba624ab5f0e3ba9f3b0",
+      "size": 345819,
+      "uploadedDate": "2020-12-02T18:28:57.705Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 2020-12-01 211551-1920x1080-882c24dcd48a605c4e060d72538840b4.png",
+      "md5": "882c24dcd48a605c4e060d72538840b4",
+      "size": 264138,
+      "uploadedDate": "2020-12-02T18:47:22.435Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleColorWheel_thumb-284x284-1ab245e8e2eeba12e22c7d25a7525fb3.png",
+      "md5": "1ab245e8e2eeba12e22c7d25a7525fb3",
+      "size": 43573,
+      "uploadedDate": "2020-10-31T20:15:07.492Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleColorWheel_featured-894x488-90560e9065fee507633993796c2e4594.png",
+      "md5": "90560e9065fee507633993796c2e4594",
+      "size": 55634,
+      "uploadedDate": "2020-12-02T16:54:11.977Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-01 211551-1920x1080-882c24dcd48a605c4e060d72538840b4_Snapshot.png",
+      "md5": "76395708e16ddb04b204d4bbacb41370",
+      "size": 4950,
+      "uploadedDate": "2020-12-02T18:47:22.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-01 211551-1920x1080-882c24dcd48a605c4e060d72538840b4_Snapshot.png",
+      "md5": "76395708e16ddb04b204d4bbacb41370",
+      "size": 4950,
+      "uploadedDate": "2020-12-02T18:34:35.768Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-01 211120-1920x1080-900704d5e10788aed0ad8046caf672ec_Snapshot.png",
+      "md5": "a9caec03771ef9263406fc35f26b77bc",
+      "size": 5161,
+      "uploadedDate": "2020-12-02T18:28:57.586Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-01 211226-1920x1080-3560a594c3242ba624ab5f0e3ba9f3b0_Snapshot.png",
+      "md5": "b57b7e0e34138d05323c3317058f81df",
+      "size": 5273,
+      "uploadedDate": "2020-12-02T18:28:57.913Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-01 211551-1920x1080-dcb5331b8f4d41bce71a3ebc57325bba_Snapshot.png",
+      "md5": "ca900de428dd048a809d5c3e77fb11ee",
+      "size": 5033,
+      "uploadedDate": "2020-12-02T18:28:58.365Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-01 210954-1920x1080-fef9dff884ce806d201d470a3329c532_Snapshot.png",
+      "md5": "6af2e3e062c5014fa7d871e07153ebb4",
+      "size": 5396,
+      "uploadedDate": "2020-12-02T18:27:45.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-01 222912-1920x1080-102a48edd7364df982201b2afe49681a_Snapshot.png",
+      "md5": "3fe751a0b4bd3345c9a54d5b1ac933bf",
+      "size": 6450,
+      "uploadedDate": "2020-12-02T18:26:47.622Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-11-21 222251-1920x1080-5f25816bdab0542a00ee6ac71e7d749b_Snapshot.png",
+      "md5": "ad71fd220ddb3232e4a9f2c488e91578",
+      "size": 4725,
+      "uploadedDate": "2020-11-21T21:34:47.234Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-11-21 222556-1920x1080-53b6c9948e8e08774ce45c2deea4a675_Snapshot.png",
+      "md5": "6b9e02940e4cd652897b4dddb71a5198",
+      "size": 5205,
+      "uploadedDate": "2020-11-21T21:34:47.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-11-21 222711-1920x1080-bd2767d784ba3e052c8d6ce892503be7_Snapshot.png",
+      "md5": "6073df807506e2bcd6f7132abb8d66ac",
+      "size": 2372,
+      "uploadedDate": "2020-11-21T21:34:47.951Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EdSplash-1920x1080-4b77cc66f7492f8e054027a64a12d146_Snapshot.png",
+      "md5": "4655ccb6865b9c8f5763dbbaf7dc346e",
+      "size": 5335,
+      "uploadedDate": "2020-11-05T22:23:11.134Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Example2-1920x1080-9c24391421217386c8b5c9ea7f7ce388_Snapshot.png",
+      "md5": "90b7c71d653c5dcf89c52ab8d7a66269",
+      "size": 2121,
+      "uploadedDate": "2020-11-05T22:23:11.496Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Example-1920x1080-dabe8051b5de955201f614e5d1b0ac86_Snapshot.png",
+      "md5": "c3d271a01a78754bdf5dff9b55117e13",
+      "size": 5112,
+      "uploadedDate": "2020-11-05T22:23:11.864Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EdSplash-1920x1080-685702c4b01b4c3b437da51ead5a07f0_Snapshot.png",
+      "md5": "1e15d716e8e45dc58494262baf13dae4",
+      "size": 5033,
+      "uploadedDate": "2020-10-31T20:15:06.981Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Nodes-1920x1080-55e8024ca21b8a1f21b95fa051be0e93_Snapshot.png",
+      "md5": "274e57e8204fbd53f5e9a665cdf67f17",
+      "size": 4850,
+      "uploadedDate": "2020-10-31T20:15:07.435Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8e288fabbc5d49d39cf498eb2cfb15ae"
+    }
+  ],
+  "catalogNs": null
+}

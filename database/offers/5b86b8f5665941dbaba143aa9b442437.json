@@ -1,0 +1,233 @@
+{
+  "id": "5b86b8f5665941dbaba143aa9b442437",
+  "namespace": "ue",
+  "title": "TimeStampede - Burn-In Customizations for Movie Render Queue",
+  "description": "TimeStampede is a custom burn-in plugin for Unreal Engine's Movie Render Queue.  You can display a lot more custom fields and additional data about the shot being rendered.",
+  "longDescription": "<p>A plugin for creating good looking and well constructed Burn-Ins for your Movie Render Queue renders! If you&#39;ve found the default MRQ burn-in limiting in its customization or data reporting capabilities, this plugin should solve your problems. It addresses the limitations of the default MRQ burn-in by offering a wide range of customization options and additional data reporting capabilities. <strong>TimeStampede </strong>adds a custom burn-in that can get as close to the default (or as far away from it) as you want!</p><p><br /></p><p><strong>Features:</strong></p><ul><li><strong>Highly Configurable: </strong>Choose from 12 different data points to output on the burn-in. Everything from Job Name to Camera Details to shot frame counter. Choose where you want to show each data point!</li><li><strong>Customizable Letterbox: </strong>Visualize different crop factors/safe areas in your MRQ renders.</li><li><strong>Custom Field: </strong>One of the fields allows for custom data per render.</li><li><strong>Watermark: </strong>Add a watermark with a logo of your own choosing to each render.</li><li><strong>Stylable colors and fonts: </strong>The TSBurnin can be styled right from the render settings window, if required.</li><li><strong>Full MRQ Compatibility: </strong>Meant to be a drop-in replacement for the default Movie Render Queue burn-in.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "timestampede-customizable-burn-in-for-movie-render-queue",
+  "creationDate": "2024-02-15T12:59:34.027Z",
+  "lastModifiedDate": "2024-10-05T11:21:49.238Z",
+  "effectiveDate": "2024-02-15T12:59:34.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-lly5tx47mj995gtzrxn2tvep6c3v29",
+    "name": "Granular Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> TimeStampede - Runtime</li></ul><p>Number of Blueprints: 1 core widget class, 1 utility widget class</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: Not Applicable</p><p>Supported Development Platforms:</p><ul><li>Mac</li><li>Win32 (4.27 only)</li><li>Win64</li><li>Linux</li></ul><p>Documentation: <a href=\"https://timestampede.granulargames.com\" rel=\"nofollow\">https://timestampede.granulargames.com</a></p><p>Example Project: <a href=\"https://1drv.ms/u/s!AnOMnX_NrTiQ7DxxG2mjv8YTfeut?e&#61;mlLyvb\" rel=\"nofollow\">https://1drv.ms/u/s!AnOMnX_NrTiQ7DxxG2mjv8YTfeut?e&#61;mlLyvb</a></p><p>Important/Additional Notes: Get in touch if you need the plugin for older versions of the engine than on the marketplace.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "73bc9bee-c853-419d-9589-277ca1318cd1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/0-1920x1080-9904beb0874909c5b11219c7d8a8fa1e.png",
+      "md5": "9904beb0874909c5b11219c7d8a8fa1e",
+      "size": 115543,
+      "uploadedDate": "2023-10-09T14:06:32.574Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-6f87412ad8e79a361cd58a942b144f29.png",
+      "md5": "6f87412ad8e79a361cd58a942b144f29",
+      "size": 637144,
+      "uploadedDate": "2023-10-09T14:06:32.991Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-fce38ad4393f29d66a08fc1c2e90c067.png",
+      "md5": "fce38ad4393f29d66a08fc1c2e90c067",
+      "size": 558694,
+      "uploadedDate": "2023-10-09T14:06:33.497Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-dbdaf8c362958fdd838ca7aa3bae7282.png",
+      "md5": "dbdaf8c362958fdd838ca7aa3bae7282",
+      "size": 678580,
+      "uploadedDate": "2023-10-09T14:06:33.989Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-d59baff8850bc00ccaf48488fdaa8a55.png",
+      "md5": "d59baff8850bc00ccaf48488fdaa8a55",
+      "size": 834887,
+      "uploadedDate": "2023-10-09T14:06:34.459Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-f9d9bea4473f5e578520d0260d5324a7.png",
+      "md5": "f9d9bea4473f5e578520d0260d5324a7",
+      "size": 412061,
+      "uploadedDate": "2023-10-09T14:06:34.875Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TimeStampedeCustomizableBurnInforMovieRenderQueue_thumb-284x284-0bf3c4a34dc0cbbd60fdbfc08b7d8955.png",
+      "md5": "0bf3c4a34dc0cbbd60fdbfc08b7d8955",
+      "size": 10444,
+      "uploadedDate": "2024-02-20T04:24:19.015Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TimeStampedeCustomizableBurnInforMovieRenderQueue_featured-894x488-661c70a01b4f27701d7591f5092009f0.png",
+      "md5": "661c70a01b4f27701d7591f5092009f0",
+      "size": 431030,
+      "uploadedDate": "2024-01-17T12:25:44.263Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/0-1920x1080-9904beb0874909c5b11219c7d8a8fa1e_Snapshot.png",
+      "md5": "7b5abb81d8f3405ebe9f06382e59d5ff",
+      "size": 3271,
+      "uploadedDate": "2023-10-09T14:06:32.813Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-6f87412ad8e79a361cd58a942b144f29_Snapshot.png",
+      "md5": "b927912650d2457903fc764ba49552d2",
+      "size": 4909,
+      "uploadedDate": "2023-10-09T14:06:33.273Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-fce38ad4393f29d66a08fc1c2e90c067_Snapshot.png",
+      "md5": "3e3587414eeeb78e70ef40dc0dc3f15f",
+      "size": 5720,
+      "uploadedDate": "2023-10-09T14:06:33.761Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-dbdaf8c362958fdd838ca7aa3bae7282_Snapshot.png",
+      "md5": "fd26a96e85ed9f0d24e4b9fa1ed2d3af",
+      "size": 5577,
+      "uploadedDate": "2023-10-09T14:06:34.254Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-d59baff8850bc00ccaf48488fdaa8a55_Snapshot.png",
+      "md5": "4da8a1c3da5fc351ef2d287ada0e4505",
+      "size": 5470,
+      "uploadedDate": "2023-10-09T14:06:34.743Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-f9d9bea4473f5e578520d0260d5324a7_Snapshot.png",
+      "md5": "a1eb8b84e1aecae22766a7acad30402f",
+      "size": 5128,
+      "uploadedDate": "2023-10-09T14:06:35.125Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Main.0000-1920x1080-4720ffe61e3ec5acbbbbe063dccc48a2_Snapshot.jpeg",
+      "md5": "31f869b76dcf2916e0dbc6ea143b8c28",
+      "size": 5518,
+      "uploadedDate": "2023-10-07T17:37:55.558Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "30ead9eda3e248bb9e99176a14c729e1"
+    }
+  ],
+  "catalogNs": null
+}

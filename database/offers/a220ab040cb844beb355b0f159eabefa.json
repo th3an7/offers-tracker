@@ -1,0 +1,206 @@
+{
+  "id": "a220ab040cb844beb355b0f159eabefa",
+  "namespace": "ue",
+  "title": "Pivot Tool",
+  "description": "Pivot Tool is an editor plugin that allows you to modify actors pivot easily, and bake changes to static meshes inside Unreal Editor.",
+  "longDescription": "<p>Pivot Tool is a pivot editor for Unreal Engine.</p><p><br /></p><p>With Pivot Tool you can easily modify actors pivot either manually or automatically by applying one of 27 pivot presets. You can bake the pivot changes into static mesh right inside Unreal Editor, there is no need to open 3D modeling software for pivot position tweaking.</p><p><br /></p><p><strong>Videos:</strong></p><p><a href=\"https://www.youtube.com/watch?v&#61;bL6aJRizm8I\" rel=\"nofollow\">Pivot Tool Pre-1.0 Preview</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;C9-U9Qq_aNY\" rel=\"nofollow\">Pivot Tool 1.0 - Bake actor pivot offset to static mesh</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;Coo8ED-CAI0\" rel=\"nofollow\">Pivot Tool 1.0.2 - Freeze Rotation</a></p><p><strong>Supprot:</strong></p><p><a href=\"https://discord.gg/dT3QWx9\" rel=\"nofollow\">Discord</a></p><p><a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/107837-pivot-tool-a-pivot-editor?135141-Pivot-Tool-A-Pivot-Editor&#61;\" rel=\"nofollow\">Support thread</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pivot-tool",
+  "creationDate": "2017-02-03T19:25:25.549Z",
+  "lastModifiedDate": "2024-10-15T12:27:09.494Z",
+  "effectiveDate": "2017-03-02T00:00:00.000Z",
+  "viewableDate": "2017-03-02T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-64fcefb01e4787a414d5b4056c87e1",
+    "name": "Mary Nate"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>List of Features:</p><p>• Modify and bake mesh pivot point inside Unreal Editor, useful for reusing existing assets or testing pivot placement of modular meshes.</p><p>• Bake both mesh pivot location and rotation while preserving physics collision and sockets data</p><p>• Bake pivot change to current mesh or duplicated mesh</p><p>• 27 pivot presets for quick and easy pivot setting, organized in 4 groups (center/face/corner/edge) with intuitive UI.</p><p>• Apply pivot preset by actor bounding box or by mesh vertexes.</p><p>• Apply pivot preset temporarily or auto save the change.</p><p>• Ability to apply pivot preset to selected actors as one group or individually</p><p>• Use Vertex Mode to snap pivot point to mesh vertexes while applying pivot preset</p><p>• Save temporary pivot placement (Alt &#43; Middle mouse) with one button click</p><p>• Quickly reset actor pivot offset</p><p>• Copy pivot from one actor and paste into as many actors as selected</p><p><br /></p><p>Modules:</p><p>• PivotTool (Editor)</p><p><br /></p><p>Network Replicated: N/A (Editor plugin)</p><p>Supported Development Platforms: Windows (Prebuilt Binary for Mac but not tested)</p><p>Supported Target Build Platforms: All</p><p><br /></p><p>Documentation Included: <a href=\"https://docs.google.com/document/d/1COorZfnzP8Pf19rYmmqAo3UmmxOAk7ihpKxvosURhq8/pub\" rel=\"nofollow\">Pivot Tool User Guide</a></p><p>Example Project: N/A</p><p>Important/Additional Notes:</p><p>- Full c&#43;&#43; source code included, works with both Launcher and Github builds</p><p>- Works with both c&#43;&#43; and Blueprint only projects</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "848d64ea-188d-494a-962f-21ed56955bc2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_screenshot_1-1920x1080-93863fbe697c673f43c267b0bd36a2e7.jpg",
+      "md5": "93863fbe697c673f43c267b0bd36a2e7",
+      "size": 484560,
+      "uploadedDate": "2017-02-03T19:23:22.311Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_screenshot_2-1920x1080-16459dc68bff703e0e77e09f5c3f394f.jpg",
+      "md5": "16459dc68bff703e0e77e09f5c3f394f",
+      "size": 555310,
+      "uploadedDate": "2017-02-03T19:23:20.248Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_screenshot_3-1920x1080-509ee59cc6a31ec286844f520186dfde.jpg",
+      "md5": "509ee59cc6a31ec286844f520186dfde",
+      "size": 986659,
+      "uploadedDate": "2017-02-03T19:23:18.072Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_screenshot_4-1920x1080-a6a7747593c1d7dc1936d4825d4e886f.jpg",
+      "md5": "a6a7747593c1d7dc1936d4825d4e886f",
+      "size": 450895,
+      "uploadedDate": "2017-02-03T19:23:15.133Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_screenshot_5-1920x1080-3887e8fa29e07483c11a6590622dd978.jpg",
+      "md5": "3887e8fa29e07483c11a6590622dd978",
+      "size": 490488,
+      "uploadedDate": "2017-02-03T19:23:13.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_screenshot_6-1920x1080-7a0f49ac9e0bb266e1aa86c065193062.jpg",
+      "md5": "7a0f49ac9e0bb266e1aa86c065193062",
+      "size": 952035,
+      "uploadedDate": "2017-02-03T19:23:10.919Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_Thumb-284x284-428036d587aa924bb159fc9ec85803ab.png",
+      "md5": "428036d587aa924bb159fc9ec85803ab",
+      "size": 15407,
+      "uploadedDate": "2017-02-03T19:23:08.299Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/PivotTool_Featured-894x488-aaa80878c8ef438be4d83e6a007d6929.png",
+      "md5": "aaa80878c8ef438be4d83e6a007d6929",
+      "size": 56273,
+      "uploadedDate": "2017-02-03T19:23:23.904Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "1bc9b0eb0d5e4043b4ced5fbc2623859"
+    }
+  ],
+  "catalogNs": null
+}

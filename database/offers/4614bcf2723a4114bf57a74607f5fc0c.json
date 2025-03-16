@@ -1,0 +1,176 @@
+{
+  "id": "4614bcf2723a4114bf57a74607f5fc0c",
+  "namespace": "ue",
+  "title": "Input Debugger",
+  "description": "Onscreen display of active gamepad, mouse and keyboard inputs",
+  "longDescription": "<p>Debugging and presentation tool for gamepad/mouse/keyboard input. This plugin allows you to display onscreen which inputs are currently being pressed. It is useful for</p><ul><li>overlaying realtime input in bug repro videos, to clearly show what the user is doing</li><li>showing your input actions when presenting the game over a video call, eg zoom</li><li>online video streaming</li></ul><p><br /></p><p><strong>Demonstration video:</strong></p><ul><li><a href=\"https://youtu.be/zTZm2XVgofk\" rel=\"nofollow\">https://youtu.be/zTZm2XVgofk</a></li></ul><p><br /></p><p><strong>Features</strong>:</p><ul><li>display active gamepad and mouse input in a visual screen overlay</li><li>show precise gamepad and mouse axis values next to the overlay</li><li>display pressed keyboard keys in compact text format</li><li>easily toggle the debugger with a console command</li><li>works both in editor and a packaged build</li><li>tiny memory footprint, just 3 small textures for the widget</li><li>Note: does not currently display touchscreen input</li></ul><p><br /></p><p><strong>Documentation:</strong></p><ul><li>Add the given blueprint (BP_InputDebugger) into your map. You may have to turn on Show Plugin Content and Show Engine Content in your content browser settings to find the InputDebugger plugin directory</li><li>When the game is running, you can toggle it on/off by opening up the cheat console with &#96; and using the following command: InputDebugger.Toggle</li><li>If you want to change the location of the onscreen widget, open WBP_InputDebugger and drag Panel_Everything to the desired location</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "input-debugger",
+  "creationDate": "2022-12-16T20:52:52.540Z",
+  "lastModifiedDate": "2024-10-15T09:09:19.809Z",
+  "effectiveDate": "2022-12-16T20:52:52.490Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e2ef727c7346fbaa55d2df7dd9dc07",
+    "name": "FWORKS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules:</p><ul><li> InputDebugger (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64/Win32</p><p>Supported Target Build Platforms: Win64/Win32</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "311a6a97-42d8-444e-a790-d63257ba2af4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InputDebugger1.PNG-1920x1080-3a90f71a6b671035e4e72c990182c6e8.jpg",
+      "md5": "3a90f71a6b671035e4e72c990182c6e8",
+      "size": 2147344,
+      "uploadedDate": "2022-11-29T00:50:13.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InputDebugger2.PNG-1920x1080-7603ce4fc4312c2989467df948806b80.jpg",
+      "md5": "7603ce4fc4312c2989467df948806b80",
+      "size": 1997229,
+      "uploadedDate": "2022-11-29T00:50:13.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/InputDebugger_thumb-284x284-f502b99676f6a9e6911ef2f11180addc.png",
+      "md5": "f502b99676f6a9e6911ef2f11180addc",
+      "size": 104052,
+      "uploadedDate": "2022-11-29T00:50:14.251Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/InputDebugger_featured-894x488-ca3a1d57abaa58dd8bc57d91ae2e7a88.png",
+      "md5": "ca3a1d57abaa58dd8bc57d91ae2e7a88",
+      "size": 472725,
+      "uploadedDate": "2022-11-29T00:50:14.502Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InputDebugger2.PNG-1920x1080-7603ce4fc4312c2989467df948806b80_Snapshot.jpg",
+      "md5": "dd2e10b6dbb3ad439844f8607a866a8f",
+      "size": 4386,
+      "uploadedDate": "2022-11-29T00:50:13.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InputDebugger1.PNG-1920x1080-3a90f71a6b671035e4e72c990182c6e8_Snapshot.jpg",
+      "md5": "94de9028425af513655a38000e09cfff",
+      "size": 5404,
+      "uploadedDate": "2022-11-29T00:50:14.147Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cdb3da2aca444535ae00bea6ae578413"
+    }
+  ],
+  "catalogNs": null
+}

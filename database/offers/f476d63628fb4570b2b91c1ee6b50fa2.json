@@ -1,0 +1,143 @@
+{
+  "id": "f476d63628fb4570b2b91c1ee6b50fa2",
+  "namespace": "ue",
+  "title": "Optimizator",
+  "description": "Assists with locating actors for optimization",
+  "longDescription": "<p>This widget will be most helpful to tasks that are related to level design.</p><p>It helps you find those tiny little objects that you have immediately forgotten about after placing them, but nevertheless they consume performance.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "optimizator",
+  "creationDate": "2021-03-31T17:33:31.840Z",
+  "lastModifiedDate": "2024-10-09T04:13:44.493Z",
+  "effectiveDate": "2021-03-31T18:24:33.205Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4dgjc4nx6ebgybatx22hf5pyh3tdfq",
+    "name": "Edvard Pyulze"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Video: https://youtu.be/oltORYVSwu4</p><p><br /></p><p>Features:</p><ul><li> Search for desired assets with specific parameters that are placed on loaded levels</li><li> Change of shadow casting and mobility status for point and spot lights</li><li> Change of &#34;max desirable view distance&#34;, shadow casting and mobility status for static meshes</li></ul><p><br /></p><p>Number of Blueprints: 7 (editor utility widget)</p><p>Input: Keyboard, Mouse</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><br /></p><p>Documentation: </p><p>Enable &#34;Editor Scripting Utilities&#34; plugin (it must be enabled for this widget to work)</p><p>Find &#34;W_Optimizatior_Menu&#34; in your content browser, RMB and &#34;Run&#34; it</p><p>Adjust search parameters to your liking and hit &#34;Find&#34;</p><p><br /></p><p>Important/Additional Notes:</p><p>Occlusion state of static meshes can&#39;t be changed in blueprints, so you&#39;ll have to do it manually in &#34;Details&#34; window.</p><p>When you hit select &#34;All&#34; or &#34;Next&#34; details window doesn&#39;t update (I can&#39;t force it in blueprints) so you&#39;ll have to focus on a selected actor(default: F) and then click on it again (or ctrl click if you&#39;ve got more than one actor selected).</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3aa26634-ec87-4515-b847-8c4b8ea07762"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-b0868c804fabd1774647cc9f7feda659.png",
+      "md5": "b0868c804fabd1774647cc9f7feda659",
+      "size": 1881310,
+      "uploadedDate": "2021-03-30T11:30:55.508Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Optimizator_thumb-284x284-3b1bb074d813e23a21d6d6a630c66e32.png",
+      "md5": "3b1bb074d813e23a21d6d6a630c66e32",
+      "size": 127812,
+      "uploadedDate": "2021-03-30T11:30:56.025Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Optimizator_featured-894x488-1b581e406664681e25918924f042d98f.png",
+      "md5": "1b581e406664681e25918924f042d98f",
+      "size": 396848,
+      "uploadedDate": "2021-03-30T11:30:56.104Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-b0868c804fabd1774647cc9f7feda659_Snapshot.png",
+      "md5": "c17c2159a670fb8e274b7a9f0e9edb10",
+      "size": 6414,
+      "uploadedDate": "2021-03-30T11:30:55.888Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-3-1920x1080-6b402d932276392931a8912ae5b6cd00_Snapshot.png",
+      "md5": "f9a2ae346ff22cea5ced66b7cd3c8396",
+      "size": 1738,
+      "uploadedDate": "2021-03-28T22:31:03.889Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9afc522c77f948b0ab74b9a2b949f3b0"
+    }
+  ],
+  "catalogNs": null
+}

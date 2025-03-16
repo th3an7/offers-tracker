@@ -1,0 +1,158 @@
+{
+  "id": "905ebf39daf64462a07b0068cbd0f0ec",
+  "namespace": "ue",
+  "title": "Graph Data Structure",
+  "description": "A plugin that adds the graph data structure and some of its algorithms.",
+  "longDescription": "<p>This is a code plugin that introduces the graph data structure to Unreal. It&#39;s currently in early stages as there&#39;s only one type of graph supported - the unweighted bidirectional graph. Other types are in the works!</p><p><br /></p><p>The graph is C&#43;&#43; and Blueprints compatible since its base C&#43;&#43; class is UObject. To use the structure simply construct an object of it using the NewObject function in C&#43;&#43; or the Construct node in Blueprints. After that you can add nodes and edges that are represented by the Graph Node and Graph Edge structures respectively.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "graph-data-structure",
+  "creationDate": "2023-01-22T23:26:31.835Z",
+  "lastModifiedDate": "2024-10-15T05:43:21.744Z",
+  "effectiveDate": "2023-01-22T23:26:31.803Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9hm56aw6chq3krkbjd7tgg5mcswknt",
+    "name": "Zablas"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Unweighted bidirectional graph data structure.</li><li> Blueprints and C&#43;&#43; compatible.</li><li> Graph algorithms: DFS, center search, shortest path, radius calculation, diameter calculation, eccentricity calculation, girth calculation, number of cycles.</li></ul><p>Code Modules:</p><ul><li> GraphDataStructure (Runtime)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows (64-bit)</p><p>Supported Target Build Platforms: Windows (64-bit)</p><p>Documentation: <a href=\"https://docs.google.com/document/d/196tsddo6nQwbNws97daKGYx2kpWHtII_EGQq7OMl2lo/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/196tsddo6nQwbNws97daKGYx2kpWHtII_EGQq7OMl2lo/edit?usp&#61;sharing</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7f84edfb-25c3-45bf-9ea8-acbb5eb33fdf"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Safeimagekit-resized-img-1920x1080-7c066d2b1bcd661ac33303d7244d8c9b.png",
+      "md5": "7c066d2b1bcd661ac33303d7244d8c9b",
+      "size": 372766,
+      "uploadedDate": "2023-01-06T21:02:57.097Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Safeimagekit-resized-img1-1920x1080-d3322c7a1a9d9dde1d1d5cd9be9d97ea.png",
+      "md5": "d3322c7a1a9d9dde1d1d5cd9be9d97ea",
+      "size": 969747,
+      "uploadedDate": "2023-01-06T21:02:57.539Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Safeimagekit-resized-img2-1920x1080-e3be8b8514b04e36d65f3faf51041632.png",
+      "md5": "e3be8b8514b04e36d65f3faf51041632",
+      "size": 497333,
+      "uploadedDate": "2023-01-06T21:02:57.993Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GraphDataStructure_thumb-284x284-80ea13e9a823baabc1538fcf68bb39bb.png",
+      "md5": "80ea13e9a823baabc1538fcf68bb39bb",
+      "size": 32253,
+      "uploadedDate": "2023-01-06T21:02:58.265Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GraphDataStructure_featured-894x488-4493db10a26aafef3af8dbffe0ea5c5c.png",
+      "md5": "4493db10a26aafef3af8dbffe0ea5c5c",
+      "size": 124321,
+      "uploadedDate": "2023-01-06T21:02:58.309Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Safeimagekit-resized-img-1920x1080-7c066d2b1bcd661ac33303d7244d8c9b_Snapshot.png",
+      "md5": "73064ba8f29492c9164f37f1073e070b",
+      "size": 4285,
+      "uploadedDate": "2023-01-06T21:02:57.334Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Safeimagekit-resized-img1-1920x1080-d3322c7a1a9d9dde1d1d5cd9be9d97ea_Snapshot.png",
+      "md5": "ed4124ee28a09e14ed8059d7ca8a2d1a",
+      "size": 6122,
+      "uploadedDate": "2023-01-06T21:02:57.805Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Safeimagekit-resized-img2-1920x1080-e3be8b8514b04e36d65f3faf51041632_Snapshot.png",
+      "md5": "23884389a94518907f5844140ea3eb1d",
+      "size": 3596,
+      "uploadedDate": "2023-01-06T21:02:58.228Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4684f0c1d490464aa3ec590937c16136"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,404 @@
+{
+  "id": "84f6582c5012464cb8e25bfbf9cc090e",
+  "namespace": "ue",
+  "title": "Box Selection and Unit Grouping",
+  "description": "Quickly implement true rectangular selection and unit grouping into your project with this plugin. Use this camera-independent tool as a starting point for your RTS, or any game where you need comprehensive selection logic.",
+  "longDescription": "<p><strong>Watch the Demo (</strong><a href=\"https://youtu.be/lX2c2u-xUP8\" rel=\"nofollow\">YouTube</a><strong>) </strong></p><p><strong>Example Project 4.27 (</strong><a href=\"https://drive.google.com/file/d/1FyF7_E5PnQPbEfVFuGO2wHfcSPR530jS/view?usp&#61;share_link\" rel=\"nofollow\">Google Drive</a><strong>) 5.1 (</strong><a href=\"https://drive.google.com/file/d/1GM9lU6PX7hL2dqGMChp1z9VLGbhqHwkb/view?usp&#61;share_link\" rel=\"nofollow\">Google Drive</a><strong>) 5.2 (</strong><a href=\"https://drive.google.com/file/d/1GODFbf1EZg3EuEl_nD2DMA3bWTsMmArN/view?usp&#61;share_link\" rel=\"nofollow\">Google Drive</a><strong>) 5.3 (</strong><a href=\"https://drive.google.com/file/d/1BlYn9cPYpMOgZ9Y5iyTXR5bJP2HAkkd7/view?usp&#61;drive_link\" rel=\"nofollow\">Google Drive</a><strong>) 5.4 (</strong><a href=\"https://drive.google.com/file/d/1dI3_HnbjvV_-Z0a8dcboZ0vtHBQZcPOs/view?usp&#61;drive_link\" rel=\"nofollow\">Google Drive</a><strong>)</strong></p><p><a href=\"https://docs.google.com/document/d/e/2PACX-1vRS57MDpgO40uJztScBRRBAK-Vg3_qqyAIxZpOi95E9SwqI5w5rHRiXMYvk3hO2qY7wMZB0CU1ONicE/pub\" rel=\"nofollow\"><strong>Full Documentation</strong></a></p><p><strong>Try the Build (</strong><a href=\"https://drive.google.com/file/d/1ZTXGuEc9_Dum15tY1nCPeLRsZC5W1vJS/view?usp&#61;drive_link\" rel=\"nofollow\">Google Drive</a><strong>)</strong></p><p><strong>Key Features:</strong></p><ul><li><strong>Customizable rectangular selection tool</strong>:, performant even when selecting hundreds of units</li><li><strong>Quick setup</strong>: Download the free example project to get started immediately, or integrate the tool into your existing project</li><li>Seamlessly mix and match click selection and rectangular selection</li><li>Multiple highlight options to show selected units</li><li>Supports control grouping–dynamically assign actors to a group or add them to an existing one</li><li>Double-click to select all actors of the same class</li><li>Shift&#43;Click to add or remove actors from your selection</li><li>Customize your selection logic to filter selectability by team, class, actor, or a custom index</li><li>Supports using custom collision overrides and partial collision selection</li><li>Includes preview select on hover and dynamic preview as you resize the selection rectangle</li><li>Group Select interface allows you to customize how each class responds to selection</li></ul><p><strong>Other Features:</strong></p><ul><li>Includes a free example project with working unit movement–use the project as a starting point for your game or as an implementation reference </li><li>Includes multiple mouse cursor styles to further customize the look and feel of your selection</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "box-selection-and-unit-grouping",
+  "creationDate": "2023-01-24T06:51:59.642Z",
+  "lastModifiedDate": "2024-10-15T10:47:47.618Z",
+  "effectiveDate": "2023-01-24T06:59:33.695Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tcg9q55bfjp3st8c749ttx7rcs7wvq",
+    "name": "Cypher Forge"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>This plugin contains:</strong></p><ul><li>3 New C&#43;&#43; Classes</li><li>1 New Blueprint Class (14 included in example project)</li><li>37 Blueprint callable functions</li><li>2 New unit highlight materials</li><li>9 Selection brushes</li><li>9 textures</li><li>2 Cursor Widgets</li></ul><p>Code Modules:</p><ul><li> Group Selection, Runtime</li></ul><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2ad8497c-090b-432a-9234-a0869017f617"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Selection1.PNG-1920x1080-64b77c003b259b9cb02f61ab3a77e5bd.jpg",
+      "md5": "64b77c003b259b9cb02f61ab3a77e5bd",
+      "size": 2594155,
+      "uploadedDate": "2023-01-18T01:57:55.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SelectionThumbnail.PNG-1920x1080-76cca10ea0bc828b07bc4d4ce4d37595.jpg",
+      "md5": "76cca10ea0bc828b07bc4d4ce4d37595",
+      "size": 2588061,
+      "uploadedDate": "2023-01-18T01:57:55.737Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BoxSelectionNodes-1920x1080-d7fe2dc1b827ca090a71a9b66124cd66.png",
+      "md5": "d7fe2dc1b827ca090a71a9b66124cd66",
+      "size": 413494,
+      "uploadedDate": "2023-01-15T22:59:35.628Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Move1.PNG-1920x1080-253405bb271d8981c1bbb863a7130112.jpg",
+      "md5": "253405bb271d8981c1bbb863a7130112",
+      "size": 1817505,
+      "uploadedDate": "2023-01-18T01:57:56.242Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Move2.PNG-1920x1080-73392e9ea2fa120264e1d22122300e14.jpg",
+      "md5": "73392e9ea2fa120264e1d22122300e14",
+      "size": 1834361,
+      "uploadedDate": "2023-01-18T01:57:56.722Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MarqueeScreenshot-1920x1080-60956bbc2268dfa536c587a7278954a5.png",
+      "md5": "60956bbc2268dfa536c587a7278954a5",
+      "size": 1862148,
+      "uploadedDate": "2023-01-18T03:16:53.218Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BoxSelectionandUnitGrouping_thumb-284x284-b2eef5b6cb00940b9e961fa673512140.png",
+      "md5": "b2eef5b6cb00940b9e961fa673512140",
+      "size": 130791,
+      "uploadedDate": "2023-01-18T01:57:57.134Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BoxSelectionandUnitGrouping_featured-894x488-0b1f323fb430a463b260fd4b37fe10de.png",
+      "md5": "0b1f323fb430a463b260fd4b37fe10de",
+      "size": 623192,
+      "uploadedDate": "2023-01-18T01:57:57.308Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MarqueeScreenshot-1920x1080-60956bbc2268dfa536c587a7278954a5_Snapshot.png",
+      "md5": "a5ddff8c92006cd15a9870d077192b3d",
+      "size": 4593,
+      "uploadedDate": "2023-01-18T03:16:53.625Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Selection1.PNG-1920x1080-64b77c003b259b9cb02f61ab3a77e5bd_Snapshot.jpg",
+      "md5": "4890c5890e44a69d67fcedfc42e2d38b",
+      "size": 6223,
+      "uploadedDate": "2023-01-18T01:57:55.516Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SelectionThumbnail.PNG-1920x1080-76cca10ea0bc828b07bc4d4ce4d37595_Snapshot.jpg",
+      "md5": "9a60916c75ce54601d2450ab038a4c0c",
+      "size": 6324,
+      "uploadedDate": "2023-01-18T01:57:56.061Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Move1.PNG-1920x1080-253405bb271d8981c1bbb863a7130112_Snapshot.jpg",
+      "md5": "4541973a1e171bfe9f9191de5569c9dd",
+      "size": 3814,
+      "uploadedDate": "2023-01-18T01:57:56.543Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Move2.PNG-1920x1080-73392e9ea2fa120264e1d22122300e14_Snapshot.jpg",
+      "md5": "e0423aff2787aff7c853c26d553fab7d",
+      "size": 3810,
+      "uploadedDate": "2023-01-18T01:57:57.021Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BoxSelectionNodes-1920x1080-d7fe2dc1b827ca090a71a9b66124cd66_Snapshot.png",
+      "md5": "d16776b449c345cb4c7d6505f6b8894b",
+      "size": 5126,
+      "uploadedDate": "2023-01-15T22:59:35.947Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ControlGroups.PNG-1920x1080-9b528e84c6c9fe711c921ff69371c569_Snapshot.jpg",
+      "md5": "1b67af4d5097592b0c0a898d58acf631",
+      "size": 7218,
+      "uploadedDate": "2023-01-15T22:59:36.438Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Decal2.PNG-1920x1080-2366720a7c83b12c7e03eff7d6ac8de1_Snapshot.jpg",
+      "md5": "4b2935bda95990a6211e204c386785d7",
+      "size": 6459,
+      "uploadedDate": "2023-01-15T22:59:36.934Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-bbd254b644d53e66ec6126a6810b1496_Snapshot.png",
+      "md5": "0ae5038fa84a8f2de06aef8e4b122a6e",
+      "size": 7006,
+      "uploadedDate": "2023-01-15T22:59:37.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-d3bd7386857dceb433827f4b2f3033b1_Snapshot.png",
+      "md5": "3ee4fb5e017a7a0382c83d7233ea1dcc",
+      "size": 7037,
+      "uploadedDate": "2023-01-15T22:59:38.198Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4cf70c9e2e7d465893c8dda668b810fe"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,212 @@
+{
+  "id": "7e08c9dafd03443a9f603b243f25465f",
+  "namespace": "ue",
+  "title": "Resize Down Texture",
+  "description": "Texture Assets Resize",
+  "longDescription": "<p>You can downsize texture assets by selecting files and folders.</p><p>Your project content can down size </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "resize-down-texture",
+  "creationDate": "2024-03-18T03:12:03.420Z",
+  "lastModifiedDate": "2024-10-15T09:46:40.376Z",
+  "effectiveDate": "2024-03-18T03:12:03.392Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-kthl3sd4ehvpgsghhckp3kmjevp9mq",
+    "name": "MW"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p>Features:</p><ul><li> UTexture2D</li><li> UTextureCube</li></ul><p> </p><p>Usage:</p><ul><li> Select files and folders by mouse right-clicking</li><li>N &#61; 1 ~ 5, Min Size &#61; 2 ~ 128</li><li> Click Button &#34;Resize&#34;</li><li> log file &#61; {my_project}\\Platforms\\ResizeDownTextrue\\{yyyy_mm_dd_hh_mm_ss}.csv</li><li>Assets can be excluded from the ResizeDownTexture window</li><li>ex) N &#61; 3, Min Size &#61; 32</li><li>before assets &#61; { 1024x1024, 64x256, 7372x3686, 16x16 }</li><li>after assets &#61; { 128x128, 32x128, 921x460, 16x16 }</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: no</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: https://nondevelop.blogspot.com/2024/03/resizedowntexture-documentation.html</p><p>Example : https://youtu.be/9zkujwLoonM</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b20cad91-43e8-4a07-9605-6f11219c1bbf"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery1-1920x1080-92b0c022a9df47c0ec9f6bc5990b60b4.png",
+      "md5": "92b0c022a9df47c0ec9f6bc5990b60b4",
+      "size": 965960,
+      "uploadedDate": "2024-03-05T05:22:09.354Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery2-1920x1080-21e6dd1e0400790c2fa9b29a02299d3a.png",
+      "md5": "21e6dd1e0400790c2fa9b29a02299d3a",
+      "size": 674953,
+      "uploadedDate": "2024-03-05T05:22:09.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery3-1920x1080-0b02a75e7c5e48e4baf96dcda35e5439.png",
+      "md5": "0b02a75e7c5e48e4baf96dcda35e5439",
+      "size": 576186,
+      "uploadedDate": "2024-03-05T05:22:10.402Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery4-1920x1080-1e5d2ee7efe9854e8e7c7cb063083c1e.png",
+      "md5": "1e5d2ee7efe9854e8e7c7cb063083c1e",
+      "size": 590823,
+      "uploadedDate": "2024-03-05T05:22:10.930Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ResizeDownTexture_thumb-284x284-36ac3cceafab389f86a4f011b7ea7b16.png",
+      "md5": "36ac3cceafab389f86a4f011b7ea7b16",
+      "size": 38665,
+      "uploadedDate": "2024-03-05T05:22:11.303Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ResizeDownTexture_featured-894x488-bdcd3add24ff9a590b8c524a47c05732.png",
+      "md5": "bdcd3add24ff9a590b8c524a47c05732",
+      "size": 197622,
+      "uploadedDate": "2024-03-05T05:22:11.414Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-92b0c022a9df47c0ec9f6bc5990b60b4_Snapshot.png",
+      "md5": "7b4217e38cbff91750c5923291a16405",
+      "size": 5097,
+      "uploadedDate": "2024-03-05T05:22:09.697Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery2-1920x1080-21e6dd1e0400790c2fa9b29a02299d3a_Snapshot.png",
+      "md5": "10dce08c3133eebb11141ce601da55f1",
+      "size": 5799,
+      "uploadedDate": "2024-03-05T05:22:10.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery3-1920x1080-0b02a75e7c5e48e4baf96dcda35e5439_Snapshot.png",
+      "md5": "e79e471ad0e58bd0e0983dfca391cf86",
+      "size": 5324,
+      "uploadedDate": "2024-03-05T05:22:10.744Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery4-1920x1080-1e5d2ee7efe9854e8e7c7cb063083c1e_Snapshot.png",
+      "md5": "19dadb3aa48a47125ed56958faf6ee96",
+      "size": 5419,
+      "uploadedDate": "2024-03-05T05:22:11.247Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9c8695e96f184326a16b5fc760cb9bd9"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,140 @@
+{
+  "id": "f5446eb658e54e0ab17387b18604baa2",
+  "namespace": "ue",
+  "title": "Shadow Map Material Function",
+  "description": "This is independent shadow system with high performance on mobile device, can cast dynamic shadow without light.",
+  "longDescription": "<p><strong>Android Sample APK (Benchmark):</strong></p><p><a href=\"https://drive.google.com/open?id&#61;1JgTWAChTGT1hW9mpTMeCEMTcM4koefh6\" rel=\"nofollow\">https://drive.google.com/open?id&#61;1JgTWAChTGT1hW9mpTMeCEMTcM4koefh6</a></p><p><br /></p><p><strong>New Features:</strong></p><ul><li>Add [Very Low] and [Very High] Quality.</li><li>Support [Morph Target].</li><li>Support [Geometry Cache].</li></ul><p><br /></p><p><strong>Features:</strong></p><ul><li>Independent shadow system, draw dynamic shadow by material function without light.</li><li>Work well without [Mobile HDR], [Mobile HDR] is necessary for [Modulated Shadows] of UE4.</li><li>Work well with [GoogleVR], [GoogleVR] must disable [Mobile HDR].</li><li>Enable [Mobile HDR] is OK.</li><li>Shadow caster can recive shadow. (Self Shadow)</li><li>Good performance for slower mobile device.</li><li>Good compatibility for old mobile device.</li><li>Supported Windows, Mac, iOS and Android.</li><li>Shadow Mapping depth comparison.</li><li>Shadow Map Antialiasing by Percentage-Closer Filtering.</li><li>Pack depth float into a RGBA render target texture, compatible with older mobile device.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shadow-map-material-function",
+  "creationDate": "2018-02-11T02:13:54.405Z",
+  "lastModifiedDate": "2024-10-15T11:16:46.245Z",
+  "effectiveDate": "2018-02-11T02:13:54.376Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cdcd00019646aa83fc47b113e05247",
+    "name": "Ether Code"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><strong>Content:</strong></h2><p><strong>ShadowCaptureBP :</strong></p><p>Blueprint Actor, place to scene to capture shadow, follows location of [ShadowMapTargetComponent], X-axis of ShadowCaptureBP is virtual light direction.</p><p><strong>ShadowMapTargetComponent :</strong></p><p>Component, ShadowCapture follows location of ShadowMapTargetComponent.</p><p><strong>CastShadowMapComponent :</strong></p><p>Component, Actor with this component cast shadow.</p><p><strong>ShadowMapMultiply :</strong></p><p>Material Function, material with ShadowMapMultiply recive shadow;</p><p><br /></p><p><br /></p><h2><strong>Quickstart:</strong></h2><ol><li>Create a map which have a DirectionalLight. Disable [Cast Dynamic Shadows] in DirectionalLight;</li><li>Add ShadowCapture to scene and edit ShadowCapture propertys.</li><li>Attach CastShadowMapComponent to Actors which cast shadow.</li><li>Attach ShadowMapTargetComponent to Actor which be followed by ShadowCapture.</li><li>Add ShadowMapMultiply node in material which recive shadow, it should be the final node before Base Color.</li></ol><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 5</p><p>Supported Devlopment Platforms:Win64, macOS</p><p>Supported Target Build Platforms: Win32, Win64, macOS, iOS, Android</p><p><br /></p><p>Documentation: <a href=\"https://github.com/quickzero/ShadowMapMaterialFunctionExample/blob/master/README.md\" rel=\"nofollow\">Documentation</a></p><p>Example Project: <a href=\"https://github.com/quickzero/ShadowMapMaterialFunctionExample\" rel=\"nofollow\">Github</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "afc26fa6-5ac5-4c13-bd3d-94a83261b510"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot20180128-153110-1920x1080-13b203f869e00ab599f8fa90ea18312e.png",
+      "md5": "13b203f869e00ab599f8fa90ea18312e",
+      "size": 221831,
+      "uploadedDate": "2018-01-28T12:08:16.832Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot20180128-154536-1920x1080-9ef0bd325da85d5641054cf76d48f576.png",
+      "md5": "9ef0bd325da85d5641054cf76d48f576",
+      "size": 473900,
+      "uploadedDate": "2018-01-28T12:08:16.978Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MaterialEditor02-1920x1080-cbd6e85f8af45a20e8a606cacafadc6a.jpg",
+      "md5": "cbd6e85f8af45a20e8a606cacafadc6a",
+      "size": 832293,
+      "uploadedDate": "2018-01-28T12:08:17.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-b21d7968780d3b09c9dc36252c154cae.PNG",
+      "md5": "b21d7968780d3b09c9dc36252c154cae",
+      "size": 517011,
+      "uploadedDate": "2018-01-28T12:08:17.310Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ShadowMapMaterialFunction_thumb-284x284-652cdc5e576ce5a47fcde1df7ea070ff.png",
+      "md5": "652cdc5e576ce5a47fcde1df7ea070ff",
+      "size": 78622,
+      "uploadedDate": "2018-01-28T12:08:17.340Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShadowMapMaterialFunction_featured-894x488-bb26d76e7ce4d357834df459fae6a13e.png",
+      "md5": "bb26d76e7ce4d357834df459fae6a13e",
+      "size": 286673,
+      "uploadedDate": "2018-01-28T12:08:17.426Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "a7c7af3097a8483cb3a786d0d78a5072"
+    }
+  ],
+  "catalogNs": null
+}

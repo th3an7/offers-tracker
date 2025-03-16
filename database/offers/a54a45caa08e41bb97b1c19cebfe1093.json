@@ -1,0 +1,296 @@
+{
+  "id": "a54a45caa08e41bb97b1c19cebfe1093",
+  "namespace": "ue",
+  "title": "Clouds Lighting System",
+  "description": "Volumetric clouds dynamic illumination system",
+  "longDescription": "<p>The plugin adds <strong>realistic light sources for 2D clouds or volumetric clouds</strong>.</p><p>It is also <strong>usable for particle systems</strong>, where large and cheap light sources are needed (smoke/fog/etc.)</p><p><br /></p><p>VIDEO: <a href=\"https://youtu.be/bBYJKaRWj2U\" rel=\"nofollow\">click</a></p><p><br /></p><p>------------------------------------------------------------------------------------------------------------------------------</p><p><strong><em>IF YOU DON&#39;T SEE THE PLUGIN CONTENTS:</em></strong></p><p><em>Check Show Engine Content and Show Plugin Content in a content browser settings (</em><a href=\"https://imgur.com/a/U0BwkPa\" rel=\"nofollow\"><em>example</em></a><em>).</em></p><p>------------------------------------------------------------------------------------------------------------------------------</p><p><br /></p><p>Light sources include a bunch of <strong>customizable parameters</strong>:</p><ul><li>intensity;</li><li>color;</li><li>attenuation;</li><li>falloff type (exponential/inverse square);</li><li>etc.</li></ul><p><br /></p><p><strong>All parameters are accessible via Blueprints/C&#43;&#43; API and sequencer.</strong></p><p><br /></p><p>The plugin contains <strong>different light source types</strong>:</p><ul><li>PointLight</li><li>SpotLight</li></ul><p><br /></p><p><em><u>Light sources </u></em><strong><em><u>do not cast shadows</u></em></strong><em><u> for now.</u></em></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "clouds-lighting-system",
+  "creationDate": "2021-02-22T23:50:14.100Z",
+  "lastModifiedDate": "2024-10-15T08:12:33.819Z",
+  "effectiveDate": "2021-02-24T16:17:26.310Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pa43us87st9mfcfc8sktn3lgt9yzbd",
+    "name": "Lukerrr"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>Easy setup</li><li>No external dependencies</li><li>Unlimited lighting area</li><li>Customizable parameters</li><li>Network replicated</li><li>Compatible with any material</li></ul><p><strong>Code Modules:</strong></p><ul><li> CloudsLighting [Runtime]</li></ul><p><strong>Number of Blueprints:</strong> 3</p><p><strong>Number of C&#43;&#43; Classes:</strong> 4</p><p><strong>Network Replicated:</strong> Yes</p><p><strong>Supported Development Platforms</strong>: Windows</p><p><strong>Supported Target Build Platforms</strong>: Windows</p><p><strong>Support</strong>: <a href=\"mailto:thelukerrr&#64;gmail.com?subject&#61;CloudsLighting%20plugin%20support\" rel=\"nofollow\">thelukerrr&#64;gmail.com</a> or <strong>Discord (<em>&#64;Lukerrr</em>)</strong> or <strong>Marketplace Questions</strong></p><p><strong>Documentation</strong>: <a href=\"https://clouds.lukerrr.io/docs/introduction.html\" rel=\"nofollow\">click</a></p><p><strong>Guides</strong>: <a href=\"https://clouds.lukerrr.io/guides/guidelines.html\" rel=\"nofollow\">click</a></p><p><strong>Change log</strong>: <a href=\"https://clouds.lukerrr.io/change-log.html\" rel=\"nofollow\">click</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1082",
+      "name": "CLICKER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.218Z",
+      "updated": "2019-06-20T11:58:59.218Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c672c642-f081-4c21-b80d-d2333ca01010"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pic1-1920x1080-6e0694485bc04d34927dd3a40e601c6e.png",
+      "md5": "6e0694485bc04d34927dd3a40e601c6e",
+      "size": 2376059,
+      "uploadedDate": "2021-02-21T14:24:59.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pic2-1920x1080-2e690db335d60733105393b742b091f1.png",
+      "md5": "2e690db335d60733105393b742b091f1",
+      "size": 2361892,
+      "uploadedDate": "2021-02-21T14:25:00.202Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pic3-1920x1080-95f4767c56a42eb6d423e8149bb4919a.png",
+      "md5": "95f4767c56a42eb6d423e8149bb4919a",
+      "size": 2327547,
+      "uploadedDate": "2021-02-21T14:25:00.738Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pic4-1920x1080-6ea739c01a8771bc247a9bebab4c19c4.png",
+      "md5": "6ea739c01a8771bc247a9bebab4c19c4",
+      "size": 2406177,
+      "uploadedDate": "2021-02-21T14:25:01.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CloudsLightingSystem_thumb-284x284-e96fbf89890377c466d48b4dba90de2e.png",
+      "md5": "e96fbf89890377c466d48b4dba90de2e",
+      "size": 84097,
+      "uploadedDate": "2021-02-21T14:25:01.836Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CloudsLightingSystem_featured-894x488-4f85537734fc839f82e4c7c529996f15.png",
+      "md5": "4f85537734fc839f82e4c7c529996f15",
+      "size": 529856,
+      "uploadedDate": "2021-02-21T14:25:02.021Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pic1-1920x1080-6e0694485bc04d34927dd3a40e601c6e_Snapshot.png",
+      "md5": "8e2248eae2d6fb32629c3a2dfd9b612b",
+      "size": 4431,
+      "uploadedDate": "2021-02-21T14:25:00.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pic2-1920x1080-2e690db335d60733105393b742b091f1_Snapshot.png",
+      "md5": "273ce90dff99974f3369ca0d3d7e7f6b",
+      "size": 4158,
+      "uploadedDate": "2021-02-21T14:25:00.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pic3-1920x1080-95f4767c56a42eb6d423e8149bb4919a_Snapshot.png",
+      "md5": "e88ae643bcd67e7200a5346405215494",
+      "size": 4249,
+      "uploadedDate": "2021-02-21T14:25:01.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pic4-1920x1080-6ea739c01a8771bc247a9bebab4c19c4_Snapshot.png",
+      "md5": "87e0b9a4024ff72669978c0de7c8a7a2",
+      "size": 4900,
+      "uploadedDate": "2021-02-21T14:25:01.756Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4ed723c538854a658b3c1b0af8f072d6"
+    }
+  ],
+  "catalogNs": null
+}

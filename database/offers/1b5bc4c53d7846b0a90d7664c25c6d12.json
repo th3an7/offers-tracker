@@ -1,0 +1,170 @@
+{
+  "id": "1b5bc4c53d7846b0a90d7664c25c6d12",
+  "namespace": "ue",
+  "title": "Official0xygen: NFT MetaMask Integration",
+  "description": "Plugin for authenticating MetaMask user wallets, synching NFTs, and accessing NFT metadata within Unreal Engine",
+  "longDescription": "<p>This plugin contains the blueprint nodes you need to authenticate NFT ownership and sync NFT metadata.</p><p><a href=\"https://www.youtube.com/watch?v&#61;yArgy_gUtCw\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;yArgy_gUtCw</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "official0xygen-nft-metamask-integration",
+  "creationDate": "2022-07-06T17:40:38.224Z",
+  "lastModifiedDate": "2024-10-15T08:52:50.067Z",
+  "effectiveDate": "2022-07-06T17:46:10.677Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-p47kgmepwhabnumvek8bzu3phzqpfn",
+    "name": "0xygen.io"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Gamer account creation and login</li><li>Gamer MetaMask wallet linkage</li><li>Dev team authentication of NFT ownership in real-time for: A) One or multiple users simultaneously, and B) One or multiple NFTs at a time</li><li>Dev team access NFT metadata in Unreal Engine</li><li>Dev team API keys</li></ul><p><br /></p><p>Number of Blueprints: 5 NFT blueprint nodes, 1 example functions blueprint, 1 login widget blueprint</p><p>Network Replicated: It is recommended to perform syncing server-side for production, but the plugin can be easily tested in the editor.</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: 5.2</p><p>Documentation: <a href=\"https://www.docs.0xygen.io\" rel=\"nofollow\">https://www.docs.0xygen.io</a></p><p>Example Project: <a href=\"https://github.com/Official0xygen/UE5.0Demo\" rel=\"nofollow\">https://github.com/Official0xygen/UE5.0Demo</a></p><p>Important/Additional Notes:</p><p>You can test the api now for free! Just follow the instructions in the GitHub link above for a quickstart demo, including demo gamer account linked to a sample Ethereum mainnet NFT contract. The documentation link contains a deep dive into how everything works and how to implement with your own existing smart contract. If you like it, please contact us to get an API key. We charge a % of transacted NFT volume, but would love to hear from you no matter what stage your project is in: <a href=\"https://forms.gle/yCcadeihNBy2nKgS7\" rel=\"nofollow\">https://forms.gle/yCcadeihNBy2nKgS7</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d68358ec-b9b7-486d-bbbb-5f52ec9e56ac"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080NFTMetadata-1920x1080-027490c1bf1a01235ad3e4876151dbd2.png",
+      "md5": "027490c1bf1a01235ad3e4876151dbd2",
+      "size": 348947,
+      "uploadedDate": "2022-07-04T18:50:04.955Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080Widget-1920x1080-ba1ea55c60c80dfa790dcf03ddcad449.png",
+      "md5": "ba1ea55c60c80dfa790dcf03ddcad449",
+      "size": 183003,
+      "uploadedDate": "2022-07-04T18:50:05.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080Login-1920x1080-3043c2f645dc2efe0e0e95ef6d2039bb.png",
+      "md5": "3043c2f645dc2efe0e0e95ef6d2039bb",
+      "size": 368890,
+      "uploadedDate": "2022-07-04T18:50:05.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Official0xygenNFTMetaMaskIntegration_thumb-284x284-fedc90369d4860bbb894d2b56df4fbcb.png",
+      "md5": "fedc90369d4860bbb894d2b56df4fbcb",
+      "size": 44239,
+      "uploadedDate": "2022-07-04T18:50:06.011Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Official0xygenNFTMetaMaskIntegration_featured-894x488-7ab91a7b3871b5ee784f4540b7f929fb.png",
+      "md5": "7ab91a7b3871b5ee784f4540b7f929fb",
+      "size": 157208,
+      "uploadedDate": "2022-07-04T18:50:06.093Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080NFTMetadata-1920x1080-027490c1bf1a01235ad3e4876151dbd2_Snapshot.png",
+      "md5": "fd22e7d1f90573724ad1c25f99c5bc01",
+      "size": 4669,
+      "uploadedDate": "2022-07-04T18:50:05.212Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080Widget-1920x1080-ba1ea55c60c80dfa790dcf03ddcad449_Snapshot.png",
+      "md5": "1fc1ad51c32045966324e4dfcd9579f9",
+      "size": 4250,
+      "uploadedDate": "2022-07-04T18:50:05.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080Login-1920x1080-3043c2f645dc2efe0e0e95ef6d2039bb_Snapshot.png",
+      "md5": "8d7f4cf239eb69cad7455d43181dbc5f",
+      "size": 4884,
+      "uploadedDate": "2022-07-04T18:50:05.966Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5ea5023476d349068ba43343dd2186e0"
+    }
+  ],
+  "catalogNs": null
+}

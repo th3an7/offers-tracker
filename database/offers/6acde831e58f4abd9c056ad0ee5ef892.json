@@ -1,0 +1,374 @@
+{
+  "id": "6acde831e58f4abd9c056ad0ee5ef892",
+  "namespace": "ue",
+  "title": "Sci-Fi Space Suit V3 & Sci-Fi Uniform - Astronaut Men & Women - Fully Modular",
+  "description": "Sci-Fi Space Suit For Metahuman (Male and Female) With Realistic High Quality Assets Optimized For Games And Cinematic - Cyber Boy and Cyber Girl - Astronaut Pilot - Military Space Suit - SciFi Character - SciFi Trooper - SciFi Suit - SCIFI Robot",
+  "longDescription": "<p>This asset pack includes &#34;clothing&#34; skeletal meshes skinned to the MetaHuman &#34;Male Medium Underweight&#34; and &#34;Female Medium Underweight&#34; skeletons. All clothing can be color customized in the Material and Material Instances.</p><p><br /></p><p>Important Note :</p><p>Use the new M_BodySyntesized in the Underarmor Folder or M_BodyTransparent in the Guardian Folder,</p><p>then drag it into the Metahuman Blueprint in the Body Section,</p><p>there&#39;s the old M_BodySyntesized, Drag and Overwrite with the new one.</p><p>This step must be done to prevent clipping (if any) and increase performance because you don&#39;t need</p><p>a metahuman body anymore (the reason is because everything is covered with the suit)</p><p><br /></p><p>How to Apply to your Metahuman : (Suit)</p><p><br /></p><ol><li>Make sure your metahuman isn&#39;t wearing anything.</li><li>Drag and drop your metahuman into your level inside unreal engine.</li><li>Open your metahuman blueprint.</li><li>Look for LOD Sync (Forced LOD), replace the number with 0.</li><li>Click Torso.</li><li>Drag one of those space suit (skeletal mesh) to your metahuman torso (there&#39;s a box called skeletal mesh).</li><li>Save &amp; Compile.</li><li>Done.</li></ol><p><br /></p><p>How to Apply to your Metahuman : (Helmet)</p><p><br /></p><ol><li>Search for a helmet male/female (skeletal mesh) on the content tab.</li><li>Click it.</li><li>Open your metahuman blueprint.</li><li>Click &#34;Add&#34; on the left corner on your screen.</li><li>Add &#34;SK_Helmet&#34; skeletal mesh</li><li>Drag it to the body section.</li><li>On the properties tab (right side of the screen) click on search parent socket.</li><li>Choose &#34;Head&#34;</li><li>Adjust the position of the helmet with your metahuman head.</li><li>Take off your metahuman hair or you can use very short hair.</li><li>Save &amp; Compile.</li></ol><p><br /></p><p>How to Apply to your Metahuman : (Modular)</p><p><br /></p><ol><li>Search for a modular male/female (skeletal mesh).</li><li>Click it.</li><li>Open your metahuman blueprint.</li><li>Drag it to the appropriate place according to what you have selected.</li><li>You can create many variations with modular items.</li><li>Save &amp; Compile</li><li>Done.</li></ol><p><br /></p><p>How to Make Helmet Glass Visor (Path Tracer) :</p><ol><li>https://www.youtube.com/watch?v&#61;X5zVhc5ahl0</li></ol><p><br /></p><p>How to Make Helmet Glass Visor (Lumen) :</p><ol><li>https://www.youtube.com/watch?v&#61;UBPV3e9JgCU</li></ol><p><br /></p><p>How to Make Helmet Glass Visor (Ray Trace) :</p><ol><li>https://www.youtube.com/watch?v&#61;NbNz7gQ4eJg</li></ol>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sci-fi-space-suit-v3-sci-fi-uniform-astronaut-men-women-fully-modular",
+  "creationDate": "2024-05-29T00:12:07.573Z",
+  "lastModifiedDate": "2024-10-15T00:45:40.051Z",
+  "effectiveDate": "2024-05-29T00:12:07.535Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-z2mvnhhrnq3f7mg3mvez8tctk3s8ya",
+    "name": "Meta Clothes Designer"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Male Medium Underweight Body ( 1 Shirts, 1 Pants, 1 Boots, 1 Gloves, 1 Bag, 1 Acc )</li><li> Female Medium Underweight Body ( 1 Shirts, 1 Pants, 1 Boots, 1 Gloves, 1 Bag, 1 Acc )</li><li> Male Medium Underweight Body ( 1 Full Space Suit )</li><li> Female Medium Underweight Body ( 1 Full Space Suit )</li><li> Color Customizable Materials</li></ul><p>Number of Unique Meshes: 24 Skeletal Mesh</p><p>Rigged: Metahuman Skeleton</p><p>Collision: (Yes, automatically generated)</p><p>Vertex Count: 10K - 100k</p><p>LODs: (No)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Important/Additional Notes: High Poly Optimized for Games and Cinematic</p><p><br /></p><p>Credit (Team Project) :</p><ol><li>Peter D</li><li>TryStar</li><li>Miles</li></ol>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e865c34f-a30f-477e-b36a-193ee5c2f98f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GuardianFrontFarPathTracing00000-1920x1080-4c9290a2d0c97e3ea08f52b8a7a1f45a.png",
+      "md5": "4c9290a2d0c97e3ea08f52b8a7a1f45a",
+      "size": 1867397,
+      "uploadedDate": "2024-05-24T15:08:42.640Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GuardianFrontNearPathTracing00000-1920x1080-4e0a4dc655b0405437fc1f59f455def9.png",
+      "md5": "4e0a4dc655b0405437fc1f59f455def9",
+      "size": 2188141,
+      "uploadedDate": "2024-05-24T15:08:41.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GuardianBackPathTracing00000-1920x1080-ed2815ed9577ac5d53dd1bef71c49d44.png",
+      "md5": "ed2815ed9577ac5d53dd1bef71c49d44",
+      "size": 1808329,
+      "uploadedDate": "2024-05-24T15:08:43.254Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GuardianSideFarPathTracing00000-1920x1080-35d55d4f353103de887a4a6885111aae.png",
+      "md5": "35d55d4f353103de887a4a6885111aae",
+      "size": 1872813,
+      "uploadedDate": "2024-05-24T15:08:43.920Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnderArmorFrontPhoto00000-1920x1080-53826bfac7a8a8f18cdb3c5a51145138.png",
+      "md5": "53826bfac7a8a8f18cdb3c5a51145138",
+      "size": 2100428,
+      "uploadedDate": "2024-05-24T15:09:57.471Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnderArmorBackPhoto00000-1920x1080-413ecaf857060f3904354d676536848c.png",
+      "md5": "413ecaf857060f3904354d676536848c",
+      "size": 2091143,
+      "uploadedDate": "2024-05-24T15:09:58.102Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnderArmorModularPhoto00000-1920x1080-2244e76d5eee9277045982ba3db48246.png",
+      "md5": "2244e76d5eee9277045982ba3db48246",
+      "size": 2142007,
+      "uploadedDate": "2024-05-24T15:09:58.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SciFiSpaceSuitV3SciFiUniformAstronautMenWomenFullyModular_thumb-284x284-ac37d8e3ead269726650bf53960a00e3.png",
+      "md5": "ac37d8e3ead269726650bf53960a00e3",
+      "size": 135784,
+      "uploadedDate": "2024-05-29T00:11:50.452Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GuardianSpaceSuit_featured-894x488-75d36c67bea42a2b2a82bc82e0fc209e.png",
+      "md5": "75d36c67bea42a2b2a82bc82e0fc209e",
+      "size": 646440,
+      "uploadedDate": "2024-05-24T15:08:44.574Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnderArmorFrontPhoto00000-1920x1080-53826bfac7a8a8f18cdb3c5a51145138_Snapshot.png",
+      "md5": "747d31f76039999a5d2b344453f285a4",
+      "size": 4005,
+      "uploadedDate": "2024-05-24T15:09:57.854Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnderArmorBackPhoto00000-1920x1080-413ecaf857060f3904354d676536848c_Snapshot.png",
+      "md5": "594b78c62313631178c702d65e7647a2",
+      "size": 3993,
+      "uploadedDate": "2024-05-24T15:09:58.470Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnderArmorModularPhoto00000-1920x1080-2244e76d5eee9277045982ba3db48246_Snapshot.png",
+      "md5": "8114b7da9aff15f7c7ba843e36fac663",
+      "size": 4592,
+      "uploadedDate": "2024-05-24T15:09:59.023Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GuardianFrontNearPathTracing00000-1920x1080-4e0a4dc655b0405437fc1f59f455def9_Snapshot.png",
+      "md5": "e4f88f6619f08c85cf99e98ead3f980d",
+      "size": 6083,
+      "uploadedDate": "2024-05-24T15:08:42.378Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GuardianFrontFarPathTracing00000-1920x1080-4c9290a2d0c97e3ea08f52b8a7a1f45a_Snapshot.png",
+      "md5": "c5ed1ea6c867983a7b57cec1a2fb0f05",
+      "size": 4817,
+      "uploadedDate": "2024-05-24T15:08:43.040Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GuardianBackPathTracing00000-1920x1080-ed2815ed9577ac5d53dd1bef71c49d44_Snapshot.png",
+      "md5": "7cbc4765253174be89c329e8e9b7f5b3",
+      "size": 4669,
+      "uploadedDate": "2024-05-24T15:08:43.664Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GuardianSideFarPathTracing00000-1920x1080-35d55d4f353103de887a4a6885111aae_Snapshot.png",
+      "md5": "e277f7ff44d2990aa424827546f84cff",
+      "size": 4789,
+      "uploadedDate": "2024-05-24T15:08:44.303Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f6889b25229d4799b90b03fcdcd2df67"
+    }
+  ],
+  "catalogNs": null
+}

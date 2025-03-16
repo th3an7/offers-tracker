@@ -1,0 +1,374 @@
+{
+  "id": "1217f5d62b7442f3bbdf2ed07bd71a60",
+  "namespace": "ue",
+  "title": "InteractML : Interactive Machine Learning System",
+  "description": "InteractML brings machine learning visual scripting to Unreal, empowering creators to develop novel gameplay mechanics, visual experiences, and control schemes without writing code.",
+  "longDescription": "<p>Create machine learning systems using Blueprints. Choose from three machine learning algorithms; Classification, Regression, and Dynamic Timewarp. Build a training set by recording your input parameters, train the model with the accumulated examples, and then use the outputs of the running model to drive any in-engine systems or effects you like.</p><p>Teach the machine to recognize your movements and controls, and use it to drive your interactive experiences. InteractML was funded by an Epic Megagrant and is entirely open source.</p><p>Potential applications include:</p><ul><li>Custom control schemes</li><li>Gesture recognition</li><li>Fuzzy control</li><li>Accessibility tools</li></ul><p><br /></p><p>Features:</p><ul><li>Use machine learning techniques to drive your interactive experiences.</li><li>Choose from three algorithms: <strong>Classification</strong>, <strong>Regression</strong>, and <strong>Dynamic timewarp</strong>.</li><li>Build machine learning systems using Unreal Blueprints.</li><li>Use supervised learning to train the algorithms based on your chosen inputs.</li><li>Run the trained models to drive the visuals and systems in your world.</li><li>Manage model and training data with custom Asset types and UI.</li><li>Models can be trained and run asynchronously for the smooth operation of your application.</li><li>Model output can be a simple value or a set of configurable structured values.</li><li>Comprehensive demo project available showing off all algorithms and configurations.</li><li>Detailed <a href=\"https://github.com/Interactml/iml-ue4/wiki\" rel=\"nofollow\">documentation is </a>available online.</li><li>Helper utility nodes, functions, and blueprints (via demo project).</li></ul><p><br /></p><p>Demo video of it in action</p><p><a href=\"https://youtu.be/0akTC4pHuh8\" rel=\"nofollow\">https://youtu.be/0akTC4pHuh8</a></p><p><br /></p><p>We have a discord here: <a href=\"https://discord.gg/Hwyvw2z3qF\" rel=\"nofollow\">https://discord.gg/Hwyvw2z3qF</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "interactml-interactive-machine-learning-system",
+  "creationDate": "2021-09-13T08:35:02.439Z",
+  "lastModifiedDate": "2024-10-15T10:04:49.758Z",
+  "effectiveDate": "2021-11-24T16:23:40.693Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-83ggrhtux5pyb3yqwf87g3cqpzwwt3",
+    "name": "InteractML"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Details:</p><ul><li>Custom Blueprint machine learning nodes</li><li>Machine learning systems built around the <a href=\"https://github.com/mzed/RapidLib\" rel=\"nofollow\">RapidLib library</a></li><li>Editor or runtime based training and operation</li><li>Operations can run in the background.</li><li>Backing data is stored as JSON and can be external to the project.</li><li>The open-source project, all code and project files <a href=\"https://github.com/Interactml/iml-ue4\" rel=\"nofollow\">available on Github</a>.</li><li>Technical implementation details are available.</li></ul><p><br /></p><p>Code Modules:</p><ul><li><strong>InteractML </strong>(Runtime) - runtime ML engine.</li><li><strong>InteractMLScripting</strong> (UncookedOnly) - custom blueprint node types.</li><li><strong>InteractMLEditor</strong> (Editor) - editing tools and asset UI.</li></ul><p><br /></p><p>Number of Blueprints: 0 (code only), <strong>4</strong> main custom node types, several support nodes, and functions.</p><p>Number of C&#43;&#43; Classes (public): <strong>16</strong> (Runtime), <strong>8</strong> (Scripting), <strong>5</strong> (Editor)</p><p>Network Replicated: N/A</p><p>Supported Development Platforms: <strong>Win64</strong></p><p>Supported Target Build Platforms: <strong>Win64</strong></p><p>Documentation: <a href=\"https://github.com/Interactml/iml-ue4/wiki\" rel=\"nofollow\">InteractML Wiki</a></p><p>Example Project: <a href=\"https://github.com/Interactml/iml-ue4\" rel=\"nofollow\">InteractML on Github</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3a943a80-32d1-4e13-908b-ed738c3127e0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLScreenshot1-1920x1080-09e1c4a04794abaa244fe86d850ae9ae.png",
+      "md5": "09e1c4a04794abaa244fe86d850ae9ae",
+      "size": 1888825,
+      "uploadedDate": "2021-09-03T17:49:11.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLGestures-1920x1080-8404800078c9cb2be109a3ef39112737.png",
+      "md5": "8404800078c9cb2be109a3ef39112737",
+      "size": 2194989,
+      "uploadedDate": "2021-09-08T09:28:57.691Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLLightShow-1920x1080-d1acdae19b42109fa6c010dc7ca556ed.png",
+      "md5": "d1acdae19b42109fa6c010dc7ca556ed",
+      "size": 2261880,
+      "uploadedDate": "2021-09-08T09:28:58.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLLightShow2-1920x1080-7be1335c0dd453e0203aa79dd1e4ba69.png",
+      "md5": "7be1335c0dd453e0203aa79dd1e4ba69",
+      "size": 1903832,
+      "uploadedDate": "2021-09-08T09:28:58.891Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLSemaphore-1920x1080-31603aaecf73a5c51a02bb713badb738.png",
+      "md5": "31603aaecf73a5c51a02bb713badb738",
+      "size": 2323479,
+      "uploadedDate": "2021-09-08T09:28:59.453Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLRecordGraph-1920x1080-33c80c5c703baf07767844c7805965e5.png",
+      "md5": "33c80c5c703baf07767844c7805965e5",
+      "size": 364764,
+      "uploadedDate": "2021-09-08T09:28:59.975Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLRunGraph-1920x1080-936da94b24398bc0a8adaba4cda01d63.png",
+      "md5": "936da94b24398bc0a8adaba4cda01d63",
+      "size": 203160,
+      "uploadedDate": "2021-09-08T09:29:00.440Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLTrainGraph-1920x1080-837b4cc3fec8d67a4fd3543b0759b56d.png",
+      "md5": "837b4cc3fec8d67a4fd3543b0759b56d",
+      "size": 232320,
+      "uploadedDate": "2021-09-08T09:29:00.813Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InteractMLModels-1920x1080-618382d2f1861560bd844fd5c8c2b736.png",
+      "md5": "618382d2f1861560bd844fd5c8c2b736",
+      "size": 96474,
+      "uploadedDate": "2021-09-08T09:29:01.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/InteractMLInteractiveMachineLearningSystem_thumb-284x284-355ec3cfb4d7cff309a6ab5888d4f414.png",
+      "md5": "355ec3cfb4d7cff309a6ab5888d4f414",
+      "size": 114295,
+      "uploadedDate": "2021-09-03T17:49:11.636Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/InteractMLInteractiveMachineLearningSystem_featured-894x488-ddbfd1cd9caea3239513e96a067125d4.png",
+      "md5": "ddbfd1cd9caea3239513e96a067125d4",
+      "size": 599628,
+      "uploadedDate": "2021-09-03T17:49:11.723Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLGestures-1920x1080-8404800078c9cb2be109a3ef39112737_Snapshot.png",
+      "md5": "76e080d7ccf6fc340a02fc547bad4c41",
+      "size": 8283,
+      "uploadedDate": "2021-09-08T09:28:58.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLLightShow-1920x1080-d1acdae19b42109fa6c010dc7ca556ed_Snapshot.png",
+      "md5": "998058c9b97f9a2c1e9729e705e33e8d",
+      "size": 6600,
+      "uploadedDate": "2021-09-08T09:28:58.656Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLLightShow2-1920x1080-7be1335c0dd453e0203aa79dd1e4ba69_Snapshot.png",
+      "md5": "22f5dbfbef4c76ac5ced3099824b7f6e",
+      "size": 5413,
+      "uploadedDate": "2021-09-08T09:28:59.244Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLSemaphore-1920x1080-31603aaecf73a5c51a02bb713badb738_Snapshot.png",
+      "md5": "23a7c17d734c68132220217a26bd33d0",
+      "size": 8489,
+      "uploadedDate": "2021-09-08T09:28:59.843Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLRecordGraph-1920x1080-33c80c5c703baf07767844c7805965e5_Snapshot.png",
+      "md5": "5fcb4486c26a98d88547777b457617c0",
+      "size": 5107,
+      "uploadedDate": "2021-09-08T09:29:00.213Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLRunGraph-1920x1080-936da94b24398bc0a8adaba4cda01d63_Snapshot.png",
+      "md5": "1de3c41c616fa1fd8104f8a4fac00d97",
+      "size": 4302,
+      "uploadedDate": "2021-09-08T09:29:00.665Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLTrainGraph-1920x1080-837b4cc3fec8d67a4fd3543b0759b56d_Snapshot.png",
+      "md5": "7902ddc770200015634f6c95002e28d3",
+      "size": 4585,
+      "uploadedDate": "2021-09-08T09:29:01.034Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLModels-1920x1080-618382d2f1861560bd844fd5c8c2b736_Snapshot.png",
+      "md5": "0ec0ec8b0e80bfa6f5eaa69e6392d9e8",
+      "size": 5076,
+      "uploadedDate": "2021-09-08T09:29:01.335Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLModels-1920x1080-618382d2f1861560bd844fd5c8c2b736_Snapshot.png",
+      "md5": "0ec0ec8b0e80bfa6f5eaa69e6392d9e8",
+      "size": 5076,
+      "uploadedDate": "2021-09-08T09:27:26.094Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLRecordGraph-1920x1080-33c80c5c703baf07767844c7805965e5_Snapshot.png",
+      "md5": "5fcb4486c26a98d88547777b457617c0",
+      "size": 5107,
+      "uploadedDate": "2021-09-08T09:27:26.581Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLRunGraph-1920x1080-936da94b24398bc0a8adaba4cda01d63_Snapshot.png",
+      "md5": "1de3c41c616fa1fd8104f8a4fac00d97",
+      "size": 4302,
+      "uploadedDate": "2021-09-08T09:27:26.880Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLTrainGraph-1920x1080-837b4cc3fec8d67a4fd3543b0759b56d_Snapshot.png",
+      "md5": "7902ddc770200015634f6c95002e28d3",
+      "size": 4585,
+      "uploadedDate": "2021-09-08T09:27:27.187Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLGestures-1920x1080-8404800078c9cb2be109a3ef39112737_Snapshot.png",
+      "md5": "76e080d7ccf6fc340a02fc547bad4c41",
+      "size": 8283,
+      "uploadedDate": "2021-09-08T09:27:27.782Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLLightShow-1920x1080-d1acdae19b42109fa6c010dc7ca556ed_Snapshot.png",
+      "md5": "998058c9b97f9a2c1e9729e705e33e8d",
+      "size": 6600,
+      "uploadedDate": "2021-09-08T09:27:28.376Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLLightShow2-1920x1080-7be1335c0dd453e0203aa79dd1e4ba69_Snapshot.png",
+      "md5": "22f5dbfbef4c76ac5ced3099824b7f6e",
+      "size": 5413,
+      "uploadedDate": "2021-09-08T09:27:29.053Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLSemaphore-1920x1080-31603aaecf73a5c51a02bb713badb738_Snapshot.png",
+      "md5": "23a7c17d734c68132220217a26bd33d0",
+      "size": 8489,
+      "uploadedDate": "2021-09-08T09:27:29.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InteractMLScreenshot1-1920x1080-09e1c4a04794abaa244fe86d850ae9ae_Snapshot.png",
+      "md5": "661f053da052bca661ccf383087147dd",
+      "size": 8150,
+      "uploadedDate": "2021-09-03T17:49:11.583Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d178438faf3d4da0ab6160dea4d802a4"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": "8a6d2bfc38024537b703b11a7d2a3a82",
+  "namespace": "ue",
+  "title": "Open World Locomotion System",
+  "description": "OWL is an advanced network-replicated locomotion system that allows you to climb anything you want, even a moving object, glide through the air and traverse your game world with ease.",
+  "longDescription": "<h2><a href=\"https://drive.google.com/file/d/12EWRNzALej8e3eTAOnz1S_kdGg0oxKLL/view?usp&#61;sharing\" rel=\"nofollow\">DEMO</a></h2><p><br /></p><h2><a href=\"https://discord.gg/BkVWXUdQ3R\" rel=\"nofollow\">Discord</a></h2><p><br /></p><p>IMPORTANT: THIS PROJECT REQUIRES MY FREE PLUGIN <a href=\"https://www.unrealengine.com/marketplace/en-US/product/capsule-trace-rotation\" rel=\"nofollow\">CAPSULE TRACE ROTATION</a> TO BE INSTALLED TO WORK PROPERLY. REMEMBER TO ENABLE THE PLUGIN IN YOUR PROJECT BEFORE MIGRATING THE FILES.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "open-world-locomotion-system",
+  "creationDate": "2021-12-01T15:18:45.074Z",
+  "lastModifiedDate": "2024-10-10T19:10:58.013Z",
+  "effectiveDate": "2021-12-01T15:23:10.987Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7jbaxl6qesurxmpr8fv7de5m9pecdr",
+    "name": "Revilian"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Fully Dynamic Climbing System, that let&#39;s you climb on everything</li><li>Manual/Automatic climbing switch</li><li>Directional jump and jump off when climbing</li><li>8 Directional Movement</li><li>4 Different Ground Movement Modes (Sprint, Run, Walk, Crouch)</li><li>Roll, Slide</li><li>Animation Overlay that serves as a framework to easily blend two different sets of animations. It allows you to add the animations for the upper body, like carrying or using a weapon, without the need to bother with the footwork</li><li>Gliding System with rigged and animated glider</li><li>Swimming on the surface and underwater</li><li>Modular build using actor components for easy integration</li><li> Multiplayer-Ready</li><li> 137 Animations Examples</li></ul><p><br /></p><p><br /></p><p>Number of Blueprints: 20</p><p>Input: (Keyboard, Mouse)</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Not Tested</p><p><a href=\"https://drive.google.com/drive/folders/1ocLbQkeVBoSBBHNG3XsCHuem0A8QLOYq?usp&#61;sharing\" rel=\"nofollow\">Tutorials</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "12aabe5b-64e3-4479-94bb-7a6ada71991c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.19 - 19.00.03.82 2-1920x1080-ef17fad509c88068c0161d8e1b43acc5.png",
+      "md5": "ef17fad509c88068c0161d8e1b43acc5",
+      "size": 3016992,
+      "uploadedDate": "2021-11-20T08:21:46.420Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Openworldlocomotion Screenshot 2021.11.16 - 18.30.35.32-1920x1080-9b9145159467f892a17b594ebd309168.png",
+      "md5": "9b9145159467f892a17b594ebd309168",
+      "size": 2623374,
+      "uploadedDate": "2021-11-20T08:21:47.210Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Openworldlocomotion Screenshot 2021.11.16 - 18.30.38.59-1920x1080-26a054e9aef4a4291fee314c0d52f9df.png",
+      "md5": "26a054e9aef4a4291fee314c0d52f9df",
+      "size": 2729909,
+      "uploadedDate": "2021-11-20T08:21:47.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Openworldlocomotion Screenshot 2021.11.16 - 18.31.24.22-1920x1080-90de11018398645007cf594accdb0302.png",
+      "md5": "90de11018398645007cf594accdb0302",
+      "size": 3015028,
+      "uploadedDate": "2021-11-20T08:21:48.538Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.20 - 08.55.12.86 2-1920x1080-d1eb28e1d984729875f58ba51e052890.jpg",
+      "md5": "d1eb28e1d984729875f58ba51e052890",
+      "size": 419220,
+      "uploadedDate": "2021-11-20T08:21:49.098Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.19 - 17.10.19.28 2-1920x1080-58e1137ae2fdc5bea499a061c07b41d5.png",
+      "md5": "58e1137ae2fdc5bea499a061c07b41d5",
+      "size": 2039820,
+      "uploadedDate": "2021-11-20T08:21:49.687Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.19 - 17.17.42.61 2-1920x1080-6613e5f99510566dbb2f947249f74ff8.png",
+      "md5": "6613e5f99510566dbb2f947249f74ff8",
+      "size": 2203168,
+      "uploadedDate": "2021-11-20T08:21:50.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.19 - 17.38.23.43 2-1920x1080-39cf36e2422de5fcebf02b63b1e8c06f.png",
+      "md5": "39cf36e2422de5fcebf02b63b1e8c06f",
+      "size": 2449554,
+      "uploadedDate": "2021-11-20T08:21:51.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.19 - 17.47.10.48 2-1920x1080-fc216819e221964379c40f687af48efb.png",
+      "md5": "fc216819e221964379c40f687af48efb",
+      "size": 2178626,
+      "uploadedDate": "2021-11-20T08:21:51.814Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.19 - 17.51.26.95 2-1920x1080-9bfa39978ffd8d49270d31914fce03e9.png",
+      "md5": "9bfa39978ffd8d49270d31914fce03e9",
+      "size": 2261599,
+      "uploadedDate": "2021-11-20T08:21:52.442Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2021.11.19 - 17.51.42.31 2-1920x1080-6ff3c376c94153a58f897920b4bb417a.png",
+      "md5": "6ff3c376c94153a58f897920b4bb417a",
+      "size": 2178498,
+      "uploadedDate": "2021-11-20T08:21:53.101Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OpenWorldLocomotionSystem_thumb-284x284-ddfe8114662580d98503939435374a63.png",
+      "md5": "ddfe8114662580d98503939435374a63",
+      "size": 102112,
+      "uploadedDate": "2021-11-20T08:21:53.836Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OpenWorldLocomotionSystem_featured-894x488-c493cda43e34315067a084b3a401a4b5.png",
+      "md5": "c493cda43e34315067a084b3a401a4b5",
+      "size": 455721,
+      "uploadedDate": "2021-11-20T08:21:54.092Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.19 - 19.00.03.82 2-1920x1080-ef17fad509c88068c0161d8e1b43acc5_Snapshot.png",
+      "md5": "7fa48da303655bf1dd71557f3c046f53",
+      "size": 6535,
+      "uploadedDate": "2021-11-20T08:21:46.880Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Openworldlocomotion Screenshot 2021.11.16 - 18.30.35.32-1920x1080-9b9145159467f892a17b594ebd309168_Snapshot.png",
+      "md5": "2426f3dec815690760200a6327fc63b0",
+      "size": 5614,
+      "uploadedDate": "2021-11-20T08:21:47.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Openworldlocomotion Screenshot 2021.11.16 - 18.30.38.59-1920x1080-26a054e9aef4a4291fee314c0d52f9df_Snapshot.png",
+      "md5": "2f167c19e801d868b570cb1833bdda95",
+      "size": 5596,
+      "uploadedDate": "2021-11-20T08:21:48.240Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Openworldlocomotion Screenshot 2021.11.16 - 18.31.24.22-1920x1080-90de11018398645007cf594accdb0302_Snapshot.png",
+      "md5": "88a408d02e54d7ffe2d0ced9a85b9f0a",
+      "size": 6018,
+      "uploadedDate": "2021-11-20T08:21:48.897Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.20 - 08.55.12.86 2-1920x1080-d1eb28e1d984729875f58ba51e052890_Snapshot.jpg",
+      "md5": "1f93be855fc9ad6fa7326c93574861e0",
+      "size": 9724,
+      "uploadedDate": "2021-11-20T08:21:49.406Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.19 - 17.10.19.28 2-1920x1080-58e1137ae2fdc5bea499a061c07b41d5_Snapshot.png",
+      "md5": "3bc0a988b597421053aa301242a0f13a",
+      "size": 3101,
+      "uploadedDate": "2021-11-20T08:21:50.183Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.19 - 17.17.42.61 2-1920x1080-6613e5f99510566dbb2f947249f74ff8_Snapshot.png",
+      "md5": "ebf31fba206199239c4041e72f066eda",
+      "size": 4663,
+      "uploadedDate": "2021-11-20T08:21:50.886Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.19 - 17.38.23.43 2-1920x1080-39cf36e2422de5fcebf02b63b1e8c06f_Snapshot.png",
+      "md5": "75b6ca427add34525be118ce9a73d595",
+      "size": 4707,
+      "uploadedDate": "2021-11-20T08:21:51.587Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.19 - 17.47.10.48 2-1920x1080-fc216819e221964379c40f687af48efb_Snapshot.png",
+      "md5": "bd98da1515e8e64adf97a5352be132ad",
+      "size": 3235,
+      "uploadedDate": "2021-11-20T08:21:52.153Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.19 - 17.51.26.95 2-1920x1080-9bfa39978ffd8d49270d31914fce03e9_Snapshot.png",
+      "md5": "d066c6824bebf00a86fdab3600fa8462",
+      "size": 3299,
+      "uploadedDate": "2021-11-20T08:21:52.868Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2021.11.19 - 17.51.42.31 2-1920x1080-6ff3c376c94153a58f897920b4bb417a_Snapshot.png",
+      "md5": "113b752c44bfab801ad821efd8126567",
+      "size": 3233,
+      "uploadedDate": "2021-11-20T08:21:53.737Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b636b2699cd94921a5febd9d28873cdc"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,344 @@
+{
+  "id": "22081ee01b49485bb15cfdd6dd097f65",
+  "namespace": "ue",
+  "title": "Complete Save System with Thumbnails",
+  "description": "A customizable and comprehensive save system with thumbnails",
+  "longDescription": "<p>A customizable and comprehensive save system with thumbnails.</p><p>The plugin creates an easier alternative to implementing a save system with save slots, thumbnails, slot deletion, checkpoint and save game actors (the classic &#34;typewriter&#34;).</p><p>The plugin also contains tools to save run-time generated textures (such as the scene captures used for the thumbnails) and manage a settings system.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "complete-save-system-with-thumbnails",
+  "creationDate": "2024-08-16T00:06:08.268Z",
+  "lastModifiedDate": "2024-10-15T09:59:13.960Z",
+  "effectiveDate": "2024-08-16T00:06:08.200Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-uc6gmfvtjtala55ppvs2535wsqvmlz",
+    "name": "Anderson Ortiz"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Save game</li><li> Load game</li><li> Save slots</li><li>Thumbnail for save slots</li><li>Save slot deletion and creation</li><li>Convert TextureRenderTarget2D to Texture2D</li><li>Save run-time generated TextureRenderTarget2D and Texture2D</li><li>Checkpoint</li><li>Save Actor</li><li>Integration with settings system</li><li>Basic UI and animations</li></ul><p>Code Modules:</p><ul><li><strong>CompleteSaveSystem</strong>: Runtime</li></ul><p>Number of Blueprints: 15</p><p>Number of C&#43;&#43; Classes: 7</p><p>Network Replicated: No</p><p>Supported Development Platforms: MacOS, Windows</p><p>Supported Target Build Platforms: MacOS, Windows</p><p>Documentation: https://docs.google.com/document/d/11XZUcytBRbaUqE87Xiu_yhrdBt9u2SEUV5GvSSDojK0/edit?usp&#61;sharing</p><p>Video tutorial: https://www.youtube.com/watch?v&#61;yvLoHZ9bCSE</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d7e6be76-1a6c-4e3b-8ab2-8883dd7d54dd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/img01-1920x1080-7bd3d0971364e72e7a41577e2e4650bc.png",
+      "md5": "7bd3d0971364e72e7a41577e2e4650bc",
+      "size": 942376,
+      "uploadedDate": "2024-07-22T20:04:04.992Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/img02-1920x1080-139144a48de0ed24ae516fe53fce8f8c.png",
+      "md5": "139144a48de0ed24ae516fe53fce8f8c",
+      "size": 1014357,
+      "uploadedDate": "2024-07-22T20:04:05.592Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/im03-1920x1080-0e26310aeee60bbfe5ed0d1b64c51a70.png",
+      "md5": "0e26310aeee60bbfe5ed0d1b64c51a70",
+      "size": 781551,
+      "uploadedDate": "2024-07-22T20:04:06.035Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/im04-1920x1080-21fb7ad116454f9aa9a744d0b186a46b.png",
+      "md5": "21fb7ad116454f9aa9a744d0b186a46b",
+      "size": 1288878,
+      "uploadedDate": "2024-07-22T20:04:06.534Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/im05-1920x1080-fd5f33d3d17778363fb0d75c532b5235.png",
+      "md5": "fd5f33d3d17778363fb0d75c532b5235",
+      "size": 903598,
+      "uploadedDate": "2024-07-22T20:04:07.024Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/im06-1920x1080-2f0d708e6ac99e0c01789cd0d919380e.png",
+      "md5": "2f0d708e6ac99e0c01789cd0d919380e",
+      "size": 735858,
+      "uploadedDate": "2024-07-22T20:04:07.470Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CompleteSaveSystemwithThumbnails_thumb-284x284-5b3e5321de5dad3380d2d2d5ae659305.png",
+      "md5": "5b3e5321de5dad3380d2d2d5ae659305",
+      "size": 23374,
+      "uploadedDate": "2024-07-22T20:04:07.781Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CompleteSaveSystemwithThumbnails_featured-894x488-92e11b5a299b93d023bbbac9b210ca6e.png",
+      "md5": "92e11b5a299b93d023bbbac9b210ca6e",
+      "size": 236171,
+      "uploadedDate": "2024-07-22T20:04:07.986Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/img01-1920x1080-7bd3d0971364e72e7a41577e2e4650bc_Snapshot.png",
+      "md5": "0aa4fceb367c9af3f21299c1add3611f",
+      "size": 5504,
+      "uploadedDate": "2024-07-22T20:04:05.280Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/img02-1920x1080-139144a48de0ed24ae516fe53fce8f8c_Snapshot.png",
+      "md5": "584fbd18492421fc7436d99f72656d96",
+      "size": 5186,
+      "uploadedDate": "2024-07-22T20:04:05.861Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/im03-1920x1080-0e26310aeee60bbfe5ed0d1b64c51a70_Snapshot.png",
+      "md5": "915da4e2ca7ae5db93e09dbfc0787acc",
+      "size": 5063,
+      "uploadedDate": "2024-07-22T20:04:06.287Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/im04-1920x1080-21fb7ad116454f9aa9a744d0b186a46b_Snapshot.png",
+      "md5": "51347440ccfd45b35ae7e040090a9c42",
+      "size": 4560,
+      "uploadedDate": "2024-07-22T20:04:06.810Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/im05-1920x1080-fd5f33d3d17778363fb0d75c532b5235_Snapshot.png",
+      "md5": "a6df73d91c1a34ad16eee191245c7755",
+      "size": 4652,
+      "uploadedDate": "2024-07-22T20:04:07.316Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/im06-1920x1080-2f0d708e6ac99e0c01789cd0d919380e_Snapshot.png",
+      "md5": "36351a57840ea72e74b0b6522a649563",
+      "size": 5651,
+      "uploadedDate": "2024-07-22T20:04:07.722Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9aafd3d7099b441cb58a549fd271e440"
+    }
+  ],
+  "catalogNs": null
+}

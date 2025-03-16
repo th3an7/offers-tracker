@@ -1,0 +1,182 @@
+{
+  "id": "ff23e1cfd9dc42b1b788d3c3bdca3ba9",
+  "namespace": "ue",
+  "title": "Quiet Color Picker",
+  "description": "Quiet Color Picker allows you to easily adjust a color value at runtime.",
+  "longDescription": "<p><a href=\"https://youtu.be/pfyFcKYcc9w\" rel=\"nofollow\">Example Video</a></p><p>The main asset of the tool - <strong>WBP_ColorPickerWindow.</strong></p><p>It has a form like a floating window.</p><p>You can adjust colors by RGBA, HSV, and Hex with it. Also, you can select a color by clicking anywhere on the color wheel. </p><p><br /></p><p>The widget has Color Theme Manager(<strong>WBP_QuietColorThemesManager</strong>) on the top. </p><p>Themes are collections of colors that can be easily reused. These can be used to make commonly used colors available or to restrict the colors used by artists and designers to a specific palette. Also, you can set a label(name) for each color in themes. Themes are saved with the SaveGame object (<strong>BP_SavedColors</strong>).</p><p><br /></p><p>On each edit tick, the widget calls the dispatcher event <strong>OnColorChanged</strong>. You can apply the selected color to desired properties by binding to it.</p><p>Other dispatcher events:</p><p><strong>On Confirmed</strong> – called by clicking on the button OK.</p><p><strong>On Canceled</strong> – called by clicking on the button Cancel and returns Initial Color (Old).</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "quiet-color-picker",
+  "creationDate": "2022-09-19T04:48:37.189Z",
+  "lastModifiedDate": "2024-10-09T10:29:12.722Z",
+  "effectiveDate": "2022-09-19T04:48:37.130Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-c70d30100843eda7b73634dcd26932",
+    "name": "Aleksandr Sidorov"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Adjusting color value at runtime.</li><li> Saving colors in the color themes and managing them.</li></ul><p>Number of Blueprints: 4</p><p>Number of Widgets: 18</p><p>UMG Materials: 18</p><p><br /></p><p>Input: Mouse and Keyboard</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f4d83aed-d85c-4913-b13d-86f2265fac72"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ColorPickerImage1-1920x1080-ad726f8b8e39b3f3760b354cd4c41523.jpg",
+      "md5": "ad726f8b8e39b3f3760b354cd4c41523",
+      "size": 547522,
+      "uploadedDate": "2022-09-14T21:10:46.382Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ColorPickerImage2-1920x1080-344b070f744163d68ab002f16436f319.jpg",
+      "md5": "344b070f744163d68ab002f16436f319",
+      "size": 582884,
+      "uploadedDate": "2022-09-14T21:10:46.834Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ColorPickerImage3-1920x1080-4a84117841f9ac7280debf4eeb485284.jpg",
+      "md5": "4a84117841f9ac7280debf4eeb485284",
+      "size": 804663,
+      "uploadedDate": "2022-09-14T21:10:47.219Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/QuietRuntimeColorWheel_thumb-284x284-9d6a6a38e7b02d720ab6fb69363971a9.png",
+      "md5": "9d6a6a38e7b02d720ab6fb69363971a9",
+      "size": 101152,
+      "uploadedDate": "2022-09-14T21:10:47.546Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/QuietRuntimeColorWheel_featured-894x488-533b56d10a05afc0c917cfb8de58b7dc.png",
+      "md5": "533b56d10a05afc0c917cfb8de58b7dc",
+      "size": 365054,
+      "uploadedDate": "2022-09-14T21:10:47.692Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ColorPickerImage1-1920x1080-ad726f8b8e39b3f3760b354cd4c41523_Snapshot.jpg",
+      "md5": "11e460d148f25d2f026868ab5d047b01",
+      "size": 5475,
+      "uploadedDate": "2022-09-14T21:10:46.684Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ColorPickerImage2-1920x1080-344b070f744163d68ab002f16436f319_Snapshot.jpg",
+      "md5": "b2efdc290587a1eb910de19a1f1fcc16",
+      "size": 5969,
+      "uploadedDate": "2022-09-14T21:10:47.078Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ColorPickerImage3-1920x1080-4a84117841f9ac7280debf4eeb485284_Snapshot.jpg",
+      "md5": "e481b4195499ba215513e33cfbbeffaa",
+      "size": 5338,
+      "uploadedDate": "2022-09-14T21:10:47.464Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7eebbb774f2b4e1599a30af167ce59fd"
+    }
+  ],
+  "catalogNs": null
+}

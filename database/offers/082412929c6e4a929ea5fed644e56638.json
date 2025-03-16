@@ -1,0 +1,203 @@
+{
+  "id": "082412929c6e4a929ea5fed644e56638",
+  "namespace": "ue",
+  "title": "HYDanmu",
+  "description": "HuyaDanmu",
+  "longDescription": "<p>This is a blueprint plugin that can be easily used in blueprints.</p><p>It can receive information such as danmu, gifts, and user entry from Huya.</p><p>This plug-in receives danmu messages through huya developer API. Before use, you need to log in to huya open platform to register as a developer.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "hydanmu",
+  "creationDate": "2023-05-29T21:55:50.307Z",
+  "lastModifiedDate": "2024-10-05T14:33:47.956Z",
+  "effectiveDate": "2023-05-29T21:55:50.267Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-xtldhnhsc5jxxw8x83pkdqfr4n2neb",
+    "name": "SusanChen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Danmu</li><li> Gift</li><li> Enter Room</li></ul><p>Code Modules:</p><ul><li> HuYDanmu&#xff08;Runtime&#xff09; </li></ul><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:8</p><p>Network Replicated: No</p><p>Supported Development Platforms: (Win64)</p><p>Supported Target Build Platforms: (Win64)</p><p>Documentation: </p><p>  http://dascad.net/html/huya/doc.pdf</p><p>  http://dascad.net/html/huya/index.html</p><p>Example Project: http://dascad.net/html/huya/demo.rar</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "97f1476b-5a40-4cf1-8479-4a0fa35c981f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/001-1920x1080-e1c51acc07fa3c59286df803ff6f6113.png",
+      "md5": "e1c51acc07fa3c59286df803ff6f6113",
+      "size": 302672,
+      "uploadedDate": "2023-05-26T09:41:29.482Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/002-1920x1080-51cd0e2109ef2350cd067814d2ccb3ac.png",
+      "md5": "51cd0e2109ef2350cd067814d2ccb3ac",
+      "size": 493338,
+      "uploadedDate": "2023-05-26T09:41:29.964Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/003-1920x1080-7c1985011cdd86a4bfc3f4470e848dee.png",
+      "md5": "7c1985011cdd86a4bfc3f4470e848dee",
+      "size": 537090,
+      "uploadedDate": "2023-05-26T09:41:30.405Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/004-1920x1080-cc426b1f5c4ab2126811068ae7d45e28.png",
+      "md5": "cc426b1f5c4ab2126811068ae7d45e28",
+      "size": 565827,
+      "uploadedDate": "2023-05-26T09:41:30.960Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/005-1920x1080-acf14ebf71849827615b960b473c3428.png",
+      "md5": "acf14ebf71849827615b960b473c3428",
+      "size": 582827,
+      "uploadedDate": "2023-05-26T09:41:31.514Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HYDanmu_thumb-284x284-95e46f6afd689167c01c593a44a1ac44.png",
+      "md5": "95e46f6afd689167c01c593a44a1ac44",
+      "size": 23958,
+      "uploadedDate": "2023-05-27T14:44:00.241Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HYDanmu_featured-894x488-268c0fe94f38704f186190f29a37ff92.png",
+      "md5": "268c0fe94f38704f186190f29a37ff92",
+      "size": 157086,
+      "uploadedDate": "2023-05-27T14:44:00.375Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/001-1920x1080-e1c51acc07fa3c59286df803ff6f6113_Snapshot.png",
+      "md5": "1146566049d66e6849a3808a2e75b98d",
+      "size": 3299,
+      "uploadedDate": "2023-05-26T09:41:29.759Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/002-1920x1080-51cd0e2109ef2350cd067814d2ccb3ac_Snapshot.png",
+      "md5": "8e1ce2250455f922e143cd368dc33034",
+      "size": 4542,
+      "uploadedDate": "2023-05-26T09:41:30.254Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/003-1920x1080-7c1985011cdd86a4bfc3f4470e848dee_Snapshot.png",
+      "md5": "ab56bba577a6c9d3538a088bc5751d7e",
+      "size": 4967,
+      "uploadedDate": "2023-05-26T09:41:30.693Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/004-1920x1080-cc426b1f5c4ab2126811068ae7d45e28_Snapshot.png",
+      "md5": "c0c3813b78688884409f9abbcca0de7a",
+      "size": 5094,
+      "uploadedDate": "2023-05-26T09:41:31.303Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/005-1920x1080-acf14ebf71849827615b960b473c3428_Snapshot.png",
+      "md5": "81e2a27e51ebac4f452c6598979c985c",
+      "size": 4200,
+      "uploadedDate": "2023-05-26T09:41:31.839Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/001-1920x1080-8ee8c73989e423aac7e20f7d11821f0b_Snapshot.png",
+      "md5": "f707ff38c3109e432d532199699970d2",
+      "size": 5466,
+      "uploadedDate": "2023-05-26T04:00:18.796Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c72fb0f807ae47d0a011112b15c0769c"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,164 @@
+{
+  "id": "5b6cc7a1169040dc854374f66da43ec0",
+  "namespace": "ue",
+  "title": "Kafka Plugin",
+  "description": "The Unreal Engine Kafka Plugin is a product by Augmented Enterprise. It provides native access to the Kafka streaming platform for Unreal users.",
+  "longDescription": "<p>The Unreal Engine Kafka Plugin is a product by Augmented Enterprise. It provides native access to the Kafka streaming platform for Unreal users. It is available on the Unreal Engine Marketplace. The plugin makes use of the <a href=\"https://github.com/edenhill/librdkafka\" rel=\"nofollow\">Librdkafka</a> C/C&#43;&#43; library provided by <a href=\"https://github.com/edenhill\" rel=\"nofollow\">Magnus Edenhill</a>. However, it is not just a simple wrapper but a product that can be used for serious messaging work in Unreal engine. To that end the plugin provides various layers of abstraction that will fit just about any messaging requirement in a gaming scenario.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "kafka-plugin",
+  "creationDate": "2018-07-06T15:42:58.935Z",
+  "lastModifiedDate": "2024-10-15T11:07:47.618Z",
+  "effectiveDate": "2018-07-06T15:42:58.889Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gkyu4l6psvfh7fum2vbwwvbdg7l6sz",
+    "name": "CorneelBooysen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Plugin Features:</p><ul><li>Provides access to Kafka streaming platform.</li><li>Provides an actor that can be used to access Kafka without coding.</li><li>Provides a Blueprint class that can be used in any component.</li><li>Provides Blueprint accessible wrapping of the C&#43;&#43; functions that access Kafka.</li></ul><p>Code Modules:</p><ul><li> UE4Editor-Kafka.dll (Plugin dll)</li><li>Librdkafka dlls:</li><li>librdkafka.dll</li><li>librdkafkacpp.dll</li><li>msvcr120.dll</li><li>zlib.dll</li></ul><p>Number of Blueprints:</p><ul><li>KafkaBlueprintClass - a Blueprint class that contains the majority of the plugin Blueprint code.</li><li>KafkaPluginActor - implements the KafkaBlueprintClass and more Blueprint code.</li><li>KafkaPluginStarterMap (A map that contains two actor objects and a Blueprint)</li><li>KafkaPluginRequestStructure - a structure used in all Blueprints.</li><li>KafkaActorWidget - a widget used by the KafkaPluginActor.</li><li>KafkaPluginFunctions enumeration - used in all Blueprints.</li><li>KafkaController - just a default controller.</li><li>Augmented_Enterprise_128_Mat - a material used in the KafkaPluginActor.</li><li>Augmented_Enterprise_128 - texture used to make the material</li></ul><p>Number of C&#43;&#43; Classes: No C&#43;&#43; classes will be provided as part of the plugin.</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64 only</p><p>Supported Target Build Platforms: Win64 only</p><p>Documentation: https://github.com/corneel/KafkaPluginDocumentation/wiki</p><p>Example Project: An example project can be found here: https://github.com/corneel/KafkaSampleProject</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d7de8551-397a-4c78-a26f-074bf4af3b85"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery4-1920x1080-e6d58abbf1552653b2e0a9162b934f73.png",
+      "md5": "e6d58abbf1552653b2e0a9162b934f73",
+      "size": 883951,
+      "uploadedDate": "2018-05-29T15:58:17.885Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery3-1920x1080-f628a39a27d05bf431877509db9f9053.png",
+      "md5": "f628a39a27d05bf431877509db9f9053",
+      "size": 1684606,
+      "uploadedDate": "2018-05-29T15:58:18.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery2-1920x1080-c4cbab4acfad53a64723a2aa9a63a842.png",
+      "md5": "c4cbab4acfad53a64723a2aa9a63a842",
+      "size": 928517,
+      "uploadedDate": "2018-05-29T15:58:19.304Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/KafkaPluginFeaturedImage1920x1080-1920x1080-32310bebeec923c061a3100c76eb0237.png",
+      "md5": "32310bebeec923c061a3100c76eb0237",
+      "size": 1333517,
+      "uploadedDate": "2018-05-29T15:58:19.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/KafkaPlugin_thumb-284x284-59c7185a95bee8f5023a4846486cc2cd.png",
+      "md5": "59c7185a95bee8f5023a4846486cc2cd",
+      "size": 113947,
+      "uploadedDate": "2018-11-09T19:57:57.913Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/KafkaPlugin_featured-894x488-2ed3b7b64478fbc55d61eb4b8a851f66.png",
+      "md5": "2ed3b7b64478fbc55d61eb4b8a851f66",
+      "size": 454988,
+      "uploadedDate": "2018-05-29T15:58:20.383Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery4-1920x1080-e6d58abbf1552653b2e0a9162b934f73_Snapshot.png",
+      "md5": "58c48b54a86cbba2a6c5eba6a33550ff",
+      "size": 14674,
+      "uploadedDate": "2018-05-29T15:58:18.212Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery3-1920x1080-f628a39a27d05bf431877509db9f9053_Snapshot.png",
+      "md5": "5dba7088fb50906c5773fa161dcad223",
+      "size": 18457,
+      "uploadedDate": "2018-05-29T15:58:19.032Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery2-1920x1080-c4cbab4acfad53a64723a2aa9a63a842_Snapshot.png",
+      "md5": "e3c6f6520a63dabc57ee342d33d63f52",
+      "size": 14983,
+      "uploadedDate": "2018-05-29T15:58:19.632Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/KafkaPluginFeaturedImage1920x1080-1920x1080-32310bebeec923c061a3100c76eb0237_Snapshot.png",
+      "md5": "185bfb2171ab17fbebb106e42add133b",
+      "size": 17643,
+      "uploadedDate": "2018-05-29T15:58:20.229Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "bf2f6c0426b147c2ad2b07d5f866febb"
+    }
+  ],
+  "catalogNs": null
+}

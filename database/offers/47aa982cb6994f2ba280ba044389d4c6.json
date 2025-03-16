@@ -1,0 +1,206 @@
+{
+  "id": "47aa982cb6994f2ba280ba044389d4c6",
+  "namespace": "ue",
+  "title": "Polygon2D",
+  "description": "Create 2D polygons directly in Unreal Engine !",
+  "longDescription": "<p>This plugin allows to create 2D polygons in the editor with spline points. It is optimized for 2D games as there are specific functions for sprites, but it can be used to draw 2D polygons in a 3D world, e.g. for prototyping purposes.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "polygon2d",
+  "creationDate": "2024-06-03T09:16:40.650Z",
+  "lastModifiedDate": "2024-10-15T08:21:36.059Z",
+  "effectiveDate": "2024-06-03T09:16:55.161Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3mgqrs5e29d4f4xyfvmj27qdz99a6e",
+    "name": "Peanut's Market"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://drive.google.com/file/d/1y8oqWhuh5vQfbzgs97wa4kaSCxhk_iqp/view?usp&#61;sharing\" rel=\"nofollow\">Here is a link to the documentation.</a></p><p><br /></p><p>Code Module:</p><ul><li> Polygon2D [Editor]</li></ul><p><br /></p><p>This plugin contains the following :</p><ul><li> A Blueprint to drag in scene : &#34;BP_2DPolygon&#34;</li><li> A C&#43;&#43; class that contains all the sprite functions of the Blueprint</li></ul><p><br /></p><p>Network Replicated: Not tested - but might be compatible with replication</p><p><br /></p><p>Supported Development Platforms:</p><ul><li>Windows</li></ul><p><br /></p><p><br /></p><p>Note :</p><ul><li>Since Unreal 5.4, you must click on the &#34;Update Polygon&#34; checkbox in order to fill the polygon. Actually, you can even move the polygon, or check any checkbox (anything that updates the object), it will also update the polygon and fill the area.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6d3d0b31-0d1d-4892-80f0-31c18822e3ee"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Polygon2Dfeatured-894x488-33cf7d9de211889de833c7e28aeb4336-1920x1080-4c4d5287dd792f1909518db3351b547e.png",
+      "md5": "4c4d5287dd792f1909518db3351b547e",
+      "size": 262227,
+      "uploadedDate": "2024-06-03T09:19:46.717Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image3-1920x1080-4b1b802fca24ac85e5b0c52bb70550b4.png",
+      "md5": "4b1b802fca24ac85e5b0c52bb70550b4",
+      "size": 194905,
+      "uploadedDate": "2024-05-24T11:54:31.895Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ConcreteExample-1920x1080-f4fc967f81c1eb8e5b28087c8709f6bb.png",
+      "md5": "f4fc967f81c1eb8e5b28087c8709f6bb",
+      "size": 65157,
+      "uploadedDate": "2024-05-24T11:54:32.212Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture dcran 2024-05-14 222112-1920x1080-58e39e0968cbbe80e7d335f707d548cf.png",
+      "md5": "58e39e0968cbbe80e7d335f707d548cf",
+      "size": 530633,
+      "uploadedDate": "2024-05-24T11:54:32.569Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture dcran 2024-05-14 222249-1920x1080-bff731a32dac6a0bc8a2d2d3a28efb8a.png",
+      "md5": "bff731a32dac6a0bc8a2d2d3a28efb8a",
+      "size": 320582,
+      "uploadedDate": "2024-05-24T11:54:32.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Polygon2D_thumb-284x284-a7500c7b1dc7ac6a539b99f9e57d34a6.png",
+      "md5": "a7500c7b1dc7ac6a539b99f9e57d34a6",
+      "size": 18208,
+      "uploadedDate": "2024-05-24T11:54:33.225Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Polygon2D_featured-894x488-33cf7d9de211889de833c7e28aeb4336.png",
+      "md5": "33cf7d9de211889de833c7e28aeb4336",
+      "size": 72209,
+      "uploadedDate": "2024-05-24T11:54:33.279Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Polygon2Dfeatured-894x488-33cf7d9de211889de833c7e28aeb4336-1920x1080-4c4d5287dd792f1909518db3351b547e_Snapshot.png",
+      "md5": "4c8792a0afd36207544c5f7244ab90a9",
+      "size": 4475,
+      "uploadedDate": "2024-06-03T09:19:46.931Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image3-1920x1080-4b1b802fca24ac85e5b0c52bb70550b4_Snapshot.png",
+      "md5": "77b8dcae25ae1bd0765c5868430b2111",
+      "size": 3133,
+      "uploadedDate": "2024-05-24T11:54:32.139Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ConcreteExample-1920x1080-f4fc967f81c1eb8e5b28087c8709f6bb_Snapshot.png",
+      "md5": "d898af1873dca5049633d7a0f7e4b6ca",
+      "size": 3388,
+      "uploadedDate": "2024-05-24T11:54:32.448Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture dcran 2024-05-14 222112-1920x1080-58e39e0968cbbe80e7d335f707d548cf_Snapshot.png",
+      "md5": "e2c79ac3854d45402ebae6f900cb8cef",
+      "size": 4866,
+      "uploadedDate": "2024-05-24T11:54:32.809Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture dcran 2024-05-14 222249-1920x1080-bff731a32dac6a0bc8a2d2d3a28efb8a_Snapshot.png",
+      "md5": "5166f61e498653bb5e7d0e4679aa356a",
+      "size": 3750,
+      "uploadedDate": "2024-05-24T11:54:33.159Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d8b1623a01ea43709a4d74e1f05f14a1"
+    }
+  ],
+  "catalogNs": null
+}

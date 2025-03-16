@@ -1,0 +1,269 @@
+{
+  "id": "4875723633d44998868ab4bd19bc7115",
+  "namespace": "ue",
+  "title": "Wall Hack Shader",
+  "description": "Wall Hack / X-Ray",
+  "longDescription": "<p>This plugin <strong>is a component</strong> to attach to an actor. You can enable it in a <strong>blueprint function</strong> and change color easily.</p><p>It is very useful to track an entity when your character or an enemy passes behind a wall.</p><p>It will be used to highlight an object like resources, collectibles, traps...</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wall-hack-shader",
+  "creationDate": "2023-04-25T06:40:53.261Z",
+  "lastModifiedDate": "2024-10-15T10:04:42.109Z",
+  "effectiveDate": "2023-04-25T06:40:53.208Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-d8zdndf6jmwamx26rmbblvpb62yjf8",
+    "name": "Epiqua"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>This plugin includes a simple actor component with color management and toggle functionality.</p><p>To make it easy to control, a Blueprint function has been added.</p><p><br /></p><p>Documentation:</p><p><a href=\"https://docs.google.com/document/d/1tooYC_GQRDONAharW_NeYDT-j-XrY8fXvn4u1ZRKFLY/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1tooYC_GQRDONAharW_NeYDT-j-XrY8fXvn4u1ZRKFLY/edit?usp&#61;sharing</a></p><p><br /></p><p>Quick Guide :</p><p>1) Set &#34;Custom Depth-Stencil Pass&#34; to &#34;Enabled with Stencil&#34; in project settings</p><p>2) Add PostProcessVolume to the scene and add M_CustomDepht_Stencil material to Post Process Material (check infinite extent)</p><p>3) Add Wall_Hack component to an actor</p><p>4) Setup color, check select on color and press Apply !</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "15c947ba-a68f-4962-a14c-c3753484c6dc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-93d7efd1e513ad72cc95101e83b2e56a.jpg",
+      "md5": "93d7efd1e513ad72cc95101e83b2e56a",
+      "size": 337750,
+      "uploadedDate": "2023-04-12T14:26:16.122Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-78fa4e0eb7984002471e65f65c01355e.jpg",
+      "md5": "78fa4e0eb7984002471e65f65c01355e",
+      "size": 642488,
+      "uploadedDate": "2023-04-12T13:59:24.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-5e454e4a107f44014721d4ba0183dd0d.jpg",
+      "md5": "5e454e4a107f44014721d4ba0183dd0d",
+      "size": 137393,
+      "uploadedDate": "2023-04-12T14:20:06.981Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-0db0df67337da4f35c35b6ae84967eb5.jpg",
+      "md5": "0db0df67337da4f35c35b6ae84967eb5",
+      "size": 161665,
+      "uploadedDate": "2023-04-12T22:14:00.466Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WallHackShader_thumb-284x284-f88ee2593cce01b3f5c4ad6e68ef16ec.png",
+      "md5": "f88ee2593cce01b3f5c4ad6e68ef16ec",
+      "size": 146653,
+      "uploadedDate": "2023-04-12T18:03:48.548Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WallHackShader_featured-894x488-8f7263a401ef61080671cff339f612cc.png",
+      "md5": "8f7263a401ef61080671cff339f612cc",
+      "size": 657442,
+      "uploadedDate": "2023-04-12T18:03:48.674Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-0db0df67337da4f35c35b6ae84967eb5_Snapshot.jpg",
+      "md5": "abfeca4a1eb58de6e33be4b9f0b7047c",
+      "size": 4270,
+      "uploadedDate": "2023-04-12T22:14:00.724Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-93d7efd1e513ad72cc95101e83b2e56a_Snapshot.jpg",
+      "md5": "5ffe5450d4a9900340fff17f95dd172c",
+      "size": 7315,
+      "uploadedDate": "2023-04-12T14:26:16.386Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-5e454e4a107f44014721d4ba0183dd0d_Snapshot.jpg",
+      "md5": "8f3436e4cdc19193b2270af3d802ff1b",
+      "size": 3118,
+      "uploadedDate": "2023-04-12T14:20:07.187Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SampleMap.00002-1920x1080-7199762ae677e61da212de6838532d17_Snapshot.jpg",
+      "md5": "ef48363495ba61542c18202f374c60ba",
+      "size": 6303,
+      "uploadedDate": "2023-04-12T13:59:24.558Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-78fa4e0eb7984002471e65f65c01355e_Snapshot.jpg",
+      "md5": "6d0cdcc06210315fbb17b32f654d98ed",
+      "size": 7549,
+      "uploadedDate": "2023-04-12T13:59:24.920Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "eb6d118b33c348469254a0281f962197"
+    }
+  ],
+  "catalogNs": null
+}

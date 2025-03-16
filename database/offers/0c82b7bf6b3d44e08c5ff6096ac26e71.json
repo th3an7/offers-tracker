@@ -1,0 +1,188 @@
+{
+  "id": "0c82b7bf6b3d44e08c5ff6096ac26e71",
+  "namespace": "ue",
+  "title": "GonzoFX",
+  "description": "Post Process System Done the Gonzo Way.",
+  "longDescription": "<p><a href=\"https://madteapartygames.github.io/the-gonzo-docs/\" rel=\"nofollow\">Documentation</a> // <a href=\"https://github.com/MadTeaPartyGames/GonzoDemo\" rel=\"nofollow\">Example Project</a> // <a href=\"https://drive.google.com/file/d/1XUNRsBnmyhbPJMVDp0TVmzPreFm5C1Z6/view?usp&#61;share_link\" rel=\"nofollow\">Playable Demo</a></p><p>GonzoFX is a C&#43;&#43; Actor that can act as a global or self contained post process system that is designed and intended to be used for some trippy and other worldly effects, as well as some standard ones. It is performant, contains several options for easy customization and use, and is driven by Gameplay Tags to control the effects and main settings.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gonzofx",
+  "creationDate": "2023-04-19T03:34:54.548Z",
+  "lastModifiedDate": "2024-10-15T10:21:58.235Z",
+  "effectiveDate": "2023-04-19T03:34:54.505Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qas6glyrq9lbzd9f28caqwwrqf73jn",
+    "name": "Mad Tea Party"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>19 Post Process effects.</li><li>Native Post Process Settings Exposed.</li><li>Effects have several settings, and can be combined.</li><li>Uses Gameplay Tags for main settings (Enable/Disable, Bound/Unbound) as well as what effects to apply, making for easy configuration in the editor, as well as controlling during gameplay.</li><li>Can be set to have no bounds (global post process), or be local limited the bounding box (local)</li><li>Does not run on tick! Uses a timer with controllable check rate, as well as provides options for manual control for maximum performance. Version 1.1 only executes the timer once per tick.</li><li>v1.1, most materials are Blendables now, so they can be used without the GonzoFX actor.</li><li>v1.1 is 5.4&#43; only</li></ul><p>Code Modules:</p><ul><li> Gonzo (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No (Nothing with this actor really needs to be replicated)</p><p>Supported Development Platforms: Windows.</p><p>Supported Target Build Platforms: Windows.</p><p><br /></p><p>Important/Additional Notes: This plugin has been tested exclusively on Windows, so that is currently why this is the only listed platform. I would expect there to be little to no code refactoring to allow for targeting any engine platform. If I get additional environments to test, I will try to add official support for other platforms.</p><p><br /></p><p>The same goes for Unreal Engine version 5.0. Earlier versions than 5.1 will not be officially supported, but should be trivial to re-architecture if needed for your project, if you choose to try using this with a previous version. I do plan on officially supporting all future versions of the engine.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6ce655ab-dd84-4f59-b342-192874dd774e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Preview1-1920x1080-3819292c2eaacd9273a4672c23900a05.png",
+      "md5": "3819292c2eaacd9273a4672c23900a05",
+      "size": 2667134,
+      "uploadedDate": "2023-04-03T04:30:41.163Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Preview4-1920x1080-f3e6bd520d463628c8f0526979b43c5e.png",
+      "md5": "f3e6bd520d463628c8f0526979b43c5e",
+      "size": 1930832,
+      "uploadedDate": "2023-04-03T04:30:41.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Preview2-1920x1080-8b1c1fddd3c9cbfd5fb8a12b0beaed45.png",
+      "md5": "8b1c1fddd3c9cbfd5fb8a12b0beaed45",
+      "size": 97490,
+      "uploadedDate": "2023-04-03T04:30:42.110Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Preview3-1920x1080-b210ec732dd46cb2b1a154cd3e0077a4.png",
+      "md5": "b210ec732dd46cb2b1a154cd3e0077a4",
+      "size": 2829098,
+      "uploadedDate": "2023-04-03T04:30:42.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GonzoFX_thumb-284x284-78ef0f0423bf54cf60cee43062377035.png",
+      "md5": "78ef0f0423bf54cf60cee43062377035",
+      "size": 189191,
+      "uploadedDate": "2023-04-03T04:30:42.910Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GonzoFX_featured-894x488-dd39a1a2cfad7c41ffe03597b96e1534.png",
+      "md5": "dd39a1a2cfad7c41ffe03597b96e1534",
+      "size": 800268,
+      "uploadedDate": "2023-04-03T04:30:43.077Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Preview1-1920x1080-3819292c2eaacd9273a4672c23900a05_Snapshot.png",
+      "md5": "4ec96474ff74801f3d76af68c6bc15f8",
+      "size": 6337,
+      "uploadedDate": "2023-04-03T04:30:41.494Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Preview4-1920x1080-f3e6bd520d463628c8f0526979b43c5e_Snapshot.png",
+      "md5": "a2c3f70eaee106aeee499076f0534309",
+      "size": 4728,
+      "uploadedDate": "2023-04-03T04:30:42.005Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Preview2-1920x1080-8b1c1fddd3c9cbfd5fb8a12b0beaed45_Snapshot.png",
+      "md5": "0df5e3f01b173f5cd964a724db12a7d0",
+      "size": 6742,
+      "uploadedDate": "2023-04-03T04:30:42.326Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Preview3-1920x1080-b210ec732dd46cb2b1a154cd3e0077a4_Snapshot.png",
+      "md5": "7584b3d3917e70c3e045928615f1d514",
+      "size": 6694,
+      "uploadedDate": "2023-04-03T04:30:42.861Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "03f568fc1cc846d2a64a4ad04cfa50dc"
+    }
+  ],
+  "catalogNs": null
+}

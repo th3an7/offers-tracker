@@ -1,0 +1,158 @@
+{
+  "id": "378f739f054340899db2569090222fd3",
+  "namespace": "ue",
+  "title": "Gesture Tracker VR",
+  "description": "A gesture tracking and recognition component designed to be used with VR motion controllers. Drop in your VR pawn blueprint and start casting spells with the wave of your hand!",
+  "longDescription": "<p>Demo Video: <a href=\"https://www.youtube.com/watch?v&#61;0D1Iy3Nprik\" rel=\"nofollow\">youtube.com/watch?v&#61;0D1Iy3Nprik</a></p><p><br /></p><p>Flap your wings to fly! Twirl your wand to cast fireballs! Swish and flick!</p><p><br /></p><p>GestureTrackerVR provides an actor component designed to be used with VR pawns. All you have to do to setup is add the component to your pawn blueprint, attach it to a motioncontroller component (or any moving component), and setup a few simple functions in the event graph. Though this was designed with VR in mind, GestureTracker components are input agnostic and technically can work with any tracked motion, including from mouse and touch inputs.</p><p><br /></p><p>Gestures are recorded with a unique ID and an optional name. One recording is all the system needs to start recognizing the same gesture cast in any direction.</p><p><br /></p><p>Fireballs not included.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gesture-tracker-vr",
+  "creationDate": "2016-09-13T18:42:17.935Z",
+  "lastModifiedDate": "2024-10-15T07:20:02.093Z",
+  "effectiveDate": "2016-10-27T00:00:00.000Z",
+  "viewableDate": "2016-10-27T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-6e15e085a04c2585c27cf0dc0579a0",
+    "name": "Hunter Delattre"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Includes GestureTrackerVRPlugin with: <br />* Gesture Tracker component for blueprints. <br />* Default gesture draw meshes and materials.<br /><br />Features: <br />* High performing 3D gesture recording and recognition. <br />* Simple setup with a few blueprint functions calls. <br />* Track by world location or relative to the actor&#39;s root. <br />* Trigger recognition on player input or use continuous recognition to constantly track movement and recognition. <br />* Many tweakable parameters to make recognition as lenient or strict as you want. <br />* Define a gesture in one direction, perform in any direction. <br />* Built-in optimized tracked and predicted gesture drawing with customizable meshes and materials. <br />* Tracking is input agnostic and only depends on the location of the Gesture Tracker component. Although this is designed for motion controllers, gestures can be tracked for any moving component. <br />* Blacklist/whitelist gestures for recognition or drawing. <br />* Track the time it took for a gesture to be performed. <br />* Supports any number of GestureTrackers performing recognition simultaneously.<br /><br />Intended Platforms: Windows 32, 64 bit<br />Example Project: <a href=\"https://www.dropbox.com/s/x6vau7vmfzanm21/GestureTrackerVRDemo.zip\" rel=\"nofollow\">https://www.dropbox.com/s/x6vau7vmfzanm21/GestureTrackerVRDemo.zip</a><br /><br />Make support and feature requests in the <a href=\"https://forums.unrealengine.com/showthread.php?128640-SUPPORT-Gesture-Tracker-VR-Help-and-Feature-Requests\" rel=\"nofollow\">Support Thread</a>.",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7d69a215-0dbf-45e1-871f-18bca6001f88"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_screenshot_1-1920x1080-2ffb173b545e53138b9d050ccc1ccfb9.png",
+      "md5": "2ffb173b545e53138b9d050ccc1ccfb9",
+      "size": 689874,
+      "uploadedDate": "2016-09-13T18:41:14.143Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_screenshot_2-1920x1080-dbfc2e2c94c77616e6e7fa9271f78c5a.png",
+      "md5": "dbfc2e2c94c77616e6e7fa9271f78c5a",
+      "size": 622819,
+      "uploadedDate": "2016-09-13T18:41:11.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_screenshot_3-1920x1080-41fdb7bfb65c0ca2beacbdca4da466aa.png",
+      "md5": "41fdb7bfb65c0ca2beacbdca4da466aa",
+      "size": 761794,
+      "uploadedDate": "2016-09-13T18:41:06.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_screenshot_4-1920x1080-fe5c03f61cdec9d3c0832a0b24d4a2c2.png",
+      "md5": "fe5c03f61cdec9d3c0832a0b24d4a2c2",
+      "size": 772138,
+      "uploadedDate": "2016-09-13T18:41:05.380Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_screenshot_5-1920x1080-1bf96f7da437f83ed26f1ef6815bc8a3.png",
+      "md5": "1bf96f7da437f83ed26f1ef6815bc8a3",
+      "size": 657828,
+      "uploadedDate": "2016-09-13T18:41:02.824Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_Thumb-284x284-4988e864a7b94c843dbf3dedb99f8ced.png",
+      "md5": "4988e864a7b94c843dbf3dedb99f8ced",
+      "size": 98839,
+      "uploadedDate": "2016-09-13T18:41:01.114Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_Featured-476x246-2a2b8c30b0511d481ed57702bab4b4e3.png",
+      "md5": "2a2b8c30b0511d481ed57702bab4b4e3",
+      "size": 107548,
+      "uploadedDate": "2016-09-13T18:41:18.667Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/GestureTrackerVR_FeaturedNew-894x488-fa8ebee9092a702483aadec4c8ac6311.png",
+      "md5": "fa8ebee9092a702483aadec4c8ac6311",
+      "size": 261057,
+      "uploadedDate": "2016-09-13T18:41:16.752Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "cf830657ddea4274856ddb0ed432bbae"
+    }
+  ],
+  "catalogNs": null
+}

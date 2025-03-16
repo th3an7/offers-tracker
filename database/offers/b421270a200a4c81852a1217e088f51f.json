@@ -1,0 +1,161 @@
+{
+  "id": "b421270a200a4c81852a1217e088f51f",
+  "namespace": "ue",
+  "title": "Read Only",
+  "description": "Prevent asset modifications by setting them as read-only.",
+  "longDescription": "<p>This plugin leverages the operating system&#39;s read-only feature to protect your assets from unintended changes. Key features include:</p><ul><li>Automatic setting of read-only attributes on assets within tracked directories</li><li>Option to automatically apply read-only settings when new assets are added</li><li>A dashboard UI for refreshing and clearing read-only attributes across all assets</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "read-only",
+  "creationDate": "2024-09-23T14:50:46.955Z",
+  "lastModifiedDate": "2024-10-15T06:54:40.674Z",
+  "effectiveDate": "2024-09-23T14:50:46.929Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tcl2wtkpr8zqb9mut9bahmab7gaj7d",
+    "name": "Forge9"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Set assets within tracked directories to read-only. </li><li>Automatically enable read-only status for all contents in monitored folders.</li></ul><p>Code Modules:</p><ul><li> ReadOnly (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64, Linux</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1kOGU9pMNjKGjdylQLgGWQR6LOmU-Mo5A/view?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Example Project: -</p><p>Important/Additional Notes: This plugin leverages the operating system to enforce read-only status, which may not prevent all modifications (e.g., some applications might still allow editing). The resulting read-only state is subject to the underlying OS settings.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7aa1e030-6a8c-4f67-8167-3f08f0ceb20d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1web-1920x1080-c27f6f58d09b56845ae9f9c19543770d.jpg",
+      "md5": "c27f6f58d09b56845ae9f9c19543770d",
+      "size": 764592,
+      "uploadedDate": "2024-09-22T09:13:42.310Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2web-1920x1080-9a73a08fba2096649984fbcdafa3aed8.jpg",
+      "md5": "9a73a08fba2096649984fbcdafa3aed8",
+      "size": 605861,
+      "uploadedDate": "2024-09-22T09:13:43.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ReadOnly_thumb-284x284-f417f65642dfbb0ac043d52828b6269c.png",
+      "md5": "f417f65642dfbb0ac043d52828b6269c",
+      "size": 12634,
+      "uploadedDate": "2024-09-22T09:19:12.183Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ReadOnly_featured-894x488-fca2707fb1bc70e55232f487e953928f.png",
+      "md5": "fca2707fb1bc70e55232f487e953928f",
+      "size": 114891,
+      "uploadedDate": "2024-09-22T09:13:44.107Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1web-1920x1080-c27f6f58d09b56845ae9f9c19543770d_Snapshot.jpg",
+      "md5": "62ec950cbaaafd667c4cb01f94a6c9a1",
+      "size": 4988,
+      "uploadedDate": "2024-09-22T09:13:42.946Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2web-1920x1080-9a73a08fba2096649984fbcdafa3aed8_Snapshot.jpg",
+      "md5": "d73ed0ce959d2a18c6d34b9bd347b4ef",
+      "size": 5858,
+      "uploadedDate": "2024-09-22T09:13:43.994Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ImagePlaceholder-1920x1080-9eed71f8f97ed7e3b9beca35fa8a7271_Snapshot.png",
+      "md5": "778ae32f970b490af04320573e9fe2b7",
+      "size": 4526,
+      "uploadedDate": "2024-09-21T04:09:00.871Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f889177c0439484db30f2c03ebe4d7aa"
+    }
+  ],
+  "catalogNs": null
+}

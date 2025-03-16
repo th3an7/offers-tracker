@@ -1,0 +1,200 @@
+{
+  "id": "84ee3310ff3d4c7ab00dc722b9afd85e",
+  "namespace": "ue",
+  "title": "ExportActorAsAssets",
+  "description": "将运行中的对象导出为资产，并且保留运行时的参数到资产中，好用！export/save runtime actor/BP/material as editor assets",
+  "longDescription": "<p>You can save an actor or blueprint from a runtime scene as an engine asset, and the saved asset contains all the properties of the runtime. Attribute values that have been modified for any reason are saved. For example: dynamically modified material parameters, component properties, variable parameters</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "exportactorasassets",
+  "creationDate": "2024-05-06T05:07:58.484Z",
+  "lastModifiedDate": "2024-10-15T10:34:58.015Z",
+  "effectiveDate": "2024-05-06T05:07:58.442Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-58ce9661af45b9b4c96cff1787515f",
+    "name": "fireflylbj"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Showcase video: <a href=\"https://youtu.be/fZH2lo6cyNs\" rel=\"nofollow\">https://youtu.be/fZH2lo6cyNs</a></p><p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> save runtime actor/BP/material as editor assets.</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> SaveRuntimeActorOrMaterialAsAssets(UncookedOnly)</li></ul><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms:Win64</p><p>Documentation: <a href=\"https://1drv.ms/b/s!AhbBUOgMDLpJkQuzuLWQU_DFrX-m\" rel=\"nofollow\">CreateBPUsage.pdf</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "69b3c673-30ad-4d8b-83e9-03aa839e4c95"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-1f9eeb32dad51dbe83cc735b0c4aeb31.png",
+      "md5": "1f9eeb32dad51dbe83cc735b0c4aeb31",
+      "size": 762234,
+      "uploadedDate": "2024-04-24T06:35:28.932Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-a643d47a8de56bc93de06f7d37384607.png",
+      "md5": "a643d47a8de56bc93de06f7d37384607",
+      "size": 478907,
+      "uploadedDate": "2024-04-24T06:35:29.412Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-b4cb910f42116212878beedcdac2affd.png",
+      "md5": "b4cb910f42116212878beedcdac2affd",
+      "size": 1175911,
+      "uploadedDate": "2024-04-24T06:35:29.893Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-ee9cefc90fa34205e0c430c471e4d4ed.png",
+      "md5": "ee9cefc90fa34205e0c430c471e4d4ed",
+      "size": 148064,
+      "uploadedDate": "2024-04-24T06:35:30.371Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ExportActorAsAssets_thumb-284x284-55956b73b53b7689b194796cefa35d3a.png",
+      "md5": "55956b73b53b7689b194796cefa35d3a",
+      "size": 75023,
+      "uploadedDate": "2024-04-24T06:35:30.673Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ExportActorAsAssets_featured-894x488-0e518b4456b61ab34496da5d845a6d55.png",
+      "md5": "0e518b4456b61ab34496da5d845a6d55",
+      "size": 295105,
+      "uploadedDate": "2024-04-24T06:35:30.817Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-1f9eeb32dad51dbe83cc735b0c4aeb31_Snapshot.png",
+      "md5": "14566b67b5082fd95d5784135de66f24",
+      "size": 6543,
+      "uploadedDate": "2024-04-24T06:35:29.245Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-a643d47a8de56bc93de06f7d37384607_Snapshot.png",
+      "md5": "8260a3f96c4c9faba10ec7d2e73e2c57",
+      "size": 3670,
+      "uploadedDate": "2024-04-24T06:35:29.712Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-b4cb910f42116212878beedcdac2affd_Snapshot.png",
+      "md5": "32a65dce32051f01fdafc44cd00ae862",
+      "size": 6054,
+      "uploadedDate": "2024-04-24T06:35:30.244Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-ee9cefc90fa34205e0c430c471e4d4ed_Snapshot.png",
+      "md5": "f3e5be1bf9b3e4ce9e204b619ee4f1ed",
+      "size": 3233,
+      "uploadedDate": "2024-04-24T06:35:30.617Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f5b44e34d6fb41b586d2116eef83c7f3"
+    }
+  ],
+  "catalogNs": null
+}

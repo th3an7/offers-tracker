@@ -1,0 +1,230 @@
+{
+  "id": "029fa5c631ca4d02a1bc4a4489ff896f",
+  "namespace": "ue",
+  "title": "UDP Socket Server And Client",
+  "description": "udp Socket Server  and Client",
+  "longDescription": "<p>UDP Socket Server and Client plugin&#xff0c;It includes client and server</p><p>You can easily use UDP connections to send and receive data in blueprints with this plugin .</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "udp-socket-server-and-client",
+  "creationDate": "2022-02-14T00:32:16.225Z",
+  "lastModifiedDate": "2024-10-05T14:23:18.284Z",
+  "effectiveDate": "2022-02-14T00:32:16.160Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-xtldhnhsc5jxxw8x83pkdqfr4n2neb",
+    "name": "SusanChen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> It includes client and server</li><li> Receive data from the UDP socket server</li><li> Send data from the UDP socket client</li><li> Support text and bytes</li></ul><p>Code Modules:</p><ul><li> UDPServer (Runtime) </li></ul><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:3</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: http://dascad.net/html/udp/doc.pdf</p><p>Example Project: http://dascad.net/UDPServer/UDPServerDemo.rar</p><p>Important/Additional Notes:The plugin is tested on version 4.27.1 ,4.27.2Windows 11.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5bb15483-aaa8-4434-8af0-5b945797805f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/780-1920x1080-88244e05da754ca22b248bb9479bf988.png",
+      "md5": "88244e05da754ca22b248bb9479bf988",
+      "size": 443874,
+      "uploadedDate": "2022-02-05T00:15:52.132Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UDPClientActor00-1920x1080-4c6dda2fc19c7d01e3f021a850085fd1.png",
+      "md5": "4c6dda2fc19c7d01e3f021a850085fd1",
+      "size": 1279295,
+      "uploadedDate": "2022-02-05T00:15:52.619Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UDPClientActor01-1920x1080-e76f35b0423120e4e7894aacda744281.png",
+      "md5": "e76f35b0423120e4e7894aacda744281",
+      "size": 183168,
+      "uploadedDate": "2022-02-05T00:15:52.989Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UDPServerActor00-1920x1080-e33a9ac42b2b493b2facd601e7021767.png",
+      "md5": "e33a9ac42b2b493b2facd601e7021767",
+      "size": 1041504,
+      "uploadedDate": "2022-02-05T00:15:53.512Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UDPServerActor01-1920x1080-a773e71e63b8ac8af55f21b0a9161ce2.png",
+      "md5": "a773e71e63b8ac8af55f21b0a9161ce2",
+      "size": 175997,
+      "uploadedDate": "2022-02-05T00:15:53.917Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UDPSocketServerandClient_thumb-284x284-aa92337ce1b443cd8dac33c0691bdbb2.png",
+      "md5": "aa92337ce1b443cd8dac33c0691bdbb2",
+      "size": 14356,
+      "uploadedDate": "2022-02-05T00:15:54.201Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UDPSocketServerandClient_featured-894x488-2931ee3af42c418fe573f4e9145a74c9.png",
+      "md5": "2931ee3af42c418fe573f4e9145a74c9",
+      "size": 151009,
+      "uploadedDate": "2022-02-05T00:15:54.280Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/780-1920x1080-88244e05da754ca22b248bb9479bf988_Snapshot.png",
+      "md5": "31c60e44ee7854c6ecd425e48d486bba",
+      "size": 4873,
+      "uploadedDate": "2022-02-05T00:15:52.451Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UDPClientActor00-1920x1080-4c6dda2fc19c7d01e3f021a850085fd1_Snapshot.png",
+      "md5": "b226a90921787ecc4012e1be9c6a45c7",
+      "size": 6269,
+      "uploadedDate": "2022-02-05T00:15:52.871Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UDPClientActor01-1920x1080-e76f35b0423120e4e7894aacda744281_Snapshot.png",
+      "md5": "93f619bfb8e664ccffcbc4b522bec37c",
+      "size": 3267,
+      "uploadedDate": "2022-02-05T00:15:53.360Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UDPServerActor00-1920x1080-e33a9ac42b2b493b2facd601e7021767_Snapshot.png",
+      "md5": "5759ffc9bbc953bd46e1f4b1471a4140",
+      "size": 6302,
+      "uploadedDate": "2022-02-05T00:15:53.761Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UDPServerActor01-1920x1080-a773e71e63b8ac8af55f21b0a9161ce2_Snapshot.png",
+      "md5": "8d82479ffa79830dcac29b7cd66d6bfc",
+      "size": 3254,
+      "uploadedDate": "2022-02-05T00:15:54.166Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8061be36cf0a40238dc16336f2a87e4d"
+    }
+  ],
+  "catalogNs": null
+}

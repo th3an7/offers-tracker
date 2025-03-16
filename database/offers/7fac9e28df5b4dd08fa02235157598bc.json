@@ -1,0 +1,320 @@
+{
+  "id": "7fac9e28df5b4dd08fa02235157598bc",
+  "namespace": "ue",
+  "title": "Physical Boids - A Physics Based Flocking AI",
+  "description": "Physical Boids is a flocking AI where each boid adheres to Unreal's physics engine. It is easy to use and great for simulating birds, fish, or any swarm type agent!",
+  "longDescription": "<p>UE 5 New Project - Watch Overview: <a href=\"https://youtu.be/Ga8JOCJbPK8\" rel=\"nofollow\">Boid Cells </a>- See below for download to project. </p><p>Using Craig Reynolds well established flocking behavior rules, Physical Boids creates a flock of boid actors that will swarm given their configured parameters (see doc for more details).</p><p><br /></p><p>Boids can move fast, slow, in a tight group, spread out, or even form their own groups randomly, all depending on how you tweak them! Best of all with Physical Boids each boid is physics simulated so you can adjust each boid&#39;s physics settings for more unique effects and they won&#39;t ghost through things!</p><p><br /></p><p>Turn gravity on and watch them move on the ground or disable gravity and watch them take flight!</p><p><br /></p><p>Initially planned to be used to add depth to an unfinished game, now sold here for anyone to enjoy.</p><p><br /></p><p><a href=\"https://youtu.be/0DiT-nFSvtw\" rel=\"nofollow\">Trailer</a></p><p><a href=\"https://youtu.be/5aqo04SmGCc\" rel=\"nofollow\">Boid Path Tutorial</a></p><p>Project Download: <a href=\"https://drive.google.com/file/d/11mmnEFMWKOEDVEI1ZqWRz9oWcAEARxfk/view?usp&#61;sharing\" rel=\"nofollow\">NEW! UE 5 Demo of Cells in a blood vessel</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "physical-boids-a-physics-based-flocking-ai",
+  "creationDate": "2018-07-09T15:49:24.922Z",
+  "lastModifiedDate": "2024-10-15T12:33:21.793Z",
+  "effectiveDate": "2018-07-09T15:49:24.892Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qatn5dymhr54ly2eb9l9yvfy6vlqs9",
+    "name": "GeorgeErfesoglou"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li> a simple boid blueprint to get you started.</li><li> a boid manager commented and ready to go to help you spawn in boids.</li><li> easily tweak-able boid logic to make a variety of unique and custom swarming/flocking behavior. Tweak each boid uniquely or treat them all the same.</li></ul><p><strong>Code Modules</strong>:</p><ul><li> Physical Boids (<strong>Runtime</strong>)</li></ul><p>Number of Blueprints: <strong>2</strong></p><p>Number of C&#43;&#43; Classes: <strong>1</strong></p><p>Network Replicated: <strong>No</strong> (Officially no, as it is not tested but technically should be possible.)</p><p>Supported Development Platforms: <strong>Windows</strong></p><p>Supported Target Build Platforms: <strong>Windows</strong></p><p>Documentation: <a href=\"https://docs.google.com/document/d/1Azauv7BHpkduC9-Hq30GU9KR_1O_hvEkobAPpeFzHOw/edit?usp&#61;sharing\" rel=\"nofollow\">Physical Boids Manual</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2769d493-c45d-40a4-8c8f-0a1fa9dc7b90"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CloseCluster-1920x1080-5034a21463f63142179921ebb51c0da4.png",
+      "md5": "5034a21463f63142179921ebb51c0da4",
+      "size": 1507096,
+      "uploadedDate": "2018-06-21T22:13:31.388Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CloseCluster2-1920x1080-8d5faeed8cdee4554b49ffd35bdb832b.png",
+      "md5": "8d5faeed8cdee4554b49ffd35bdb832b",
+      "size": 1748236,
+      "uploadedDate": "2018-06-21T22:13:31.914Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EditorSwarmShot-1920x1080-934f87abfb5fda74a7c3b1d975272b57.png",
+      "md5": "934f87abfb5fda74a7c3b1d975272b57",
+      "size": 687266,
+      "uploadedDate": "2018-06-21T22:13:32.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpreadCluster-1920x1080-ab489b428b68350b1a0ad78905a7eda5.png",
+      "md5": "ab489b428b68350b1a0ad78905a7eda5",
+      "size": 1435616,
+      "uploadedDate": "2018-06-21T22:13:32.659Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PhysicalBoidsAphysicsbasedflockingAI_thumb-284x284-4d06332223a5545d72374bf4846df191.png",
+      "md5": "4d06332223a5545d72374bf4846df191",
+      "size": 121275,
+      "uploadedDate": "2018-06-21T22:13:32.990Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PhysicalBoidsAphysicsbasedflockingAI_featured-894x488-9626e25b94d70a354d76fec51f6cd39d.png",
+      "md5": "9626e25b94d70a354d76fec51f6cd39d",
+      "size": 419742,
+      "uploadedDate": "2018-06-21T22:13:33.125Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CloseCluster-1920x1080-5034a21463f63142179921ebb51c0da4_Snapshot.png",
+      "md5": "a9c490b4e179ac9ed739d0ab98fd44ef",
+      "size": 24290,
+      "uploadedDate": "2018-06-21T22:13:31.709Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CloseCluster2-1920x1080-8d5faeed8cdee4554b49ffd35bdb832b_Snapshot.png",
+      "md5": "8e095e28850fb034e7e40d2c41af88e9",
+      "size": 25755,
+      "uploadedDate": "2018-06-21T22:13:32.150Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EditorSwarmShot-1920x1080-934f87abfb5fda74a7c3b1d975272b57_Snapshot.png",
+      "md5": "43342960f95c45fab48d2ffd2ae21407",
+      "size": 10805,
+      "uploadedDate": "2018-06-21T22:13:32.467Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SpreadCluster-1920x1080-ab489b428b68350b1a0ad78905a7eda5_Snapshot.png",
+      "md5": "2c5ab812e7716937370e32fa67ce0213",
+      "size": 24260,
+      "uploadedDate": "2018-06-21T22:13:32.920Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "247b4640838d4b2998a76b340e3c5ecc"
+    }
+  ],
+  "catalogNs": null
+}

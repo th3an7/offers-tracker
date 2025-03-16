@@ -1,0 +1,134 @@
+{
+  "id": "993b51e29e9a48d0b3fb449645b82cb6",
+  "namespace": "ue",
+  "title": "Animation Compression Library",
+  "description": "State of the art animation and curve compression codecs.",
+  "longDescription": "<p><strong>&#61;&#61;&#61; NOTE &#61;&#61;&#61;&gt;</strong> This plugin is now distributed as part of Unreal Engine starting with UE 5.3, see <a href=\"https://nfrechette.github.io/2023/09/17/acl_in_ue/\" rel=\"nofollow\">here</a> for details!</p><p><br /></p><p>This plugin integrates the <a href=\"https://github.com/nfrechette/acl\" rel=\"nofollow\">Animation Compression Library</a> within Unreal Engine 4 and 5. It is suitable for every animation clip and platform as it features a low memory footprint, high accuracy, and very fast compression and decompression.</p><p><br /></p><p>Compared to <strong>UE 5.2</strong>, the ACL plugin compresses up to <strong>2.9x smaller</strong>, is up to <strong>2x more accurate</strong>, up to <strong>2x faster to compress</strong>, and up to <strong>6.3x faster to decompress</strong> (results may vary depending on the platform and data).</p><p><br /></p><p>The documentation on how to use it can be found <a href=\"https://github.com/nfrechette/acl-ue4-plugin/blob/develop/Docs/README.md\" rel=\"nofollow\">here</a> along with performance results.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "animation-compression-library",
+  "creationDate": "2020-06-02T13:29:41.552Z",
+  "lastModifiedDate": "2024-10-15T11:36:58.641Z",
+  "effectiveDate": "2020-06-02T13:29:39.794Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-b2kfnnpnf67mjd6pwc9p27cn5t4rwj",
+    "name": "Nicholas Frechette"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Animation Sequence bone and curve compression codecs</li><li>Low memory footprint</li><li>Very fast compression and decompression</li><li>High accuracy</li><li>Progressive quality streaming</li></ul><p>Code Modules:</p><ul><li>ACLPlugin (Runtime)</li><li>ACLPluginEditor [Editor]</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 10</p><p>Network Replicated: No</p><p>Supported Development Platforms: Every platform</p><p>Supported Target Build Platforms: Every platform</p><p>Documentation: <a href=\"https://github.com/nfrechette/acl-ue4-plugin/tree/develop/Docs\" rel=\"nofollow\">https://github.com/nfrechette/acl-ue4-plugin/tree/develop/Docs</a></p><p>Example Project: <a href=\"https://drive.google.com/open?id&#61;16RjH5_HwdrjekeCwgNojsdGanbfzFD2H\" rel=\"nofollow\">ACL Playground</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "994a8e95-db4f-4ca0-b55d-e7fc37e98e13"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery1-1920x1080-3947f4d231b70d260ebfbddd29adde8e.png",
+      "md5": "3947f4d231b70d260ebfbddd29adde8e",
+      "size": 171974,
+      "uploadedDate": "2020-05-09T03:24:18.113Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AnimationCompressionLibrary_thumb-284x284-c4ae5fdd04828bfc4f8bbc274afcdf01.png",
+      "md5": "c4ae5fdd04828bfc4f8bbc274afcdf01",
+      "size": 39369,
+      "uploadedDate": "2020-05-09T03:24:18.369Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AnimationCompressionLibrary_featured-894x488-6ccdc2090fd0c6a82abc17c9b1db9931.png",
+      "md5": "6ccdc2090fd0c6a82abc17c9b1db9931",
+      "size": 144527,
+      "uploadedDate": "2020-05-09T03:24:18.464Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery1-1920x1080-3947f4d231b70d260ebfbddd29adde8e_Snapshot.png",
+      "md5": "37a3f9ff71a62ff20320648e2615494f",
+      "size": 3141,
+      "uploadedDate": "2020-05-09T03:24:18.321Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fd59f4358f744fec84be3a460c52c814"
+    }
+  ],
+  "catalogNs": null
+}

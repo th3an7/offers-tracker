@@ -1,0 +1,449 @@
+{
+  "id": "1a9d35f889f744e2bbdb45fbd5766b6f",
+  "namespace": "ue",
+  "title": "Artist Toolbox",
+  "description": "The Artist Toolbox is an evolving collection of assets to assist in any Unreal Engine user's workflow. Includes Editor Tools, Master Materials, Material Functions, Blueprint Actors, and more...",
+  "longDescription": "<p>The Artist Toolbox is an evolving collection of assets to assist in any Unreal Engine user&#39;s workflow. Includes Editor Utility Widget with various workflow tools, a set of advanced Master Materials and Material Functions, commonly used Blueprint Actors, and more. All of the assets are what I have created over years of using Unreal Engine, packaged nicely together for other people to hopefully get some use from.</p><p><br /></p><p>I would recommend at least some experience using Unreal Engine to get the most out of this asset pack. Most of the assets have tooltips and are commented, but if they can be improved I am happy to take feedback through the support email below.</p><p><br /></p><p><strong>FEATURES</strong></p><p><br /></p><p><strong>ARTIST TOOLBOX WIDGET</strong></p><ul><li>Material Tools - Auto Material Setup, Assign Material to Selection, Rename Material Slots.</li><li>Texture Tools - Texture Settings Editor (easily set compression, etc.), Channel Splitter, Channel Packer, Level Adjuster </li><li>Asset Tools - Prefix/Suffix Renamer, AssetName Renamer, Find Unreferenced Assets, Find Duplicate Name Assets</li><li>World Tools - Texel Density Viewer, PBR Validation Viewer, Reference Image Overlay</li><li>Geometry Script Tools - Collision Hull Generator</li><li>Common CVars Editor Window</li><li>Global MPC Editor Shortcut</li><li>Artist Toolbox Settings Data Shortcut</li></ul><p><br /></p><p><strong>MATERIAL/FUNCTION LIBRARY</strong></p><ul><li>Master Materials - Props, Surfaces, Landscape, Foliage, Decals, Basic</li><li>Advanced Materials - Triplanar Surface, Vertex Blending (with Heightmaps) Surface, Screens</li><li>Material Functions - Attribute Blending, UV Manipulation, Masks, Utility, Advanced Workflows</li><li>Textures - Default Textures, Utility Textures, Noises, Gradients</li><li>Material Parameter Collection - Control Global Attributes</li></ul><p><br /></p><p><strong>COMMON ACTORS</strong></p><ul><li>Texture Fog, Volumetric Fog</li><li>Flickering Light</li><li>Deformable Spline, Rigid Spline</li><li>Rotating Mesh</li></ul><p><br /></p><p><strong>Support</strong></p><p><br /></p><p>If you have any suggestions or questions about the product then email me here - <a href=\"mailto:ethanmichaelplace&#64;gmail.com\" rel=\"nofollow\">ethanmichaelplace&#64;gmail.com</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "artist-toolbox",
+  "creationDate": "2023-11-27T17:50:06.001Z",
+  "lastModifiedDate": "2024-10-03T14:26:47.094Z",
+  "effectiveDate": "2023-11-27T18:06:51.516Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e97c9867534bd4a521291b5567f193",
+    "name": "Ethan Place"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p>Product Documentation - <a href=\"https://docs.google.com/document/d/1rzTtZgc0RYhgC84miaiydD_aKxRH2SkJu1TMa1WSUDE/edit?usp&#61;sharing\" rel=\"nofollow\">Click Here</a></p><p><br /></p><ul><li>1 Editor Utility Widget (made from many child widgets)</li><li>8 Blueprint Actors</li><li>17 Materials (6 Main Masters, 8 Unique Advanced, etc.)</li><li>42 Material Functions (Attributes, Blending, Masks, Utility, Tools, UVs)</li><li>45 Textures (Default, Flat, Noises, Gradients)</li><li>3 &#39;Preset&#39; type Assets for Movie Render Queue and Console Variables</li></ul><p><br /></p><p>The list does not include extra assets within the &#39;Core&#39; folder, which serves as hidden functionality for the Editor Utilities.</p><p><br /></p><p>Required Plugins (should be enabled by default):</p><ul><li>Console Variables Editor</li><li>Editor Scripting Utilities</li><li>Geometry Script</li><li>Movie Render Queue</li><li>Nanite Displaced Mesh</li><li>Volumetrics</li><li>Landmass</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "95ee32cb-eb91-4c30-8a16-138f6fcb9396"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxFeaturedImage1080-1920x1080-f8b2c84a1b98b19222fbee1f92869582.jpg",
+      "md5": "f8b2c84a1b98b19222fbee1f92869582",
+      "size": 357145,
+      "uploadedDate": "2023-11-11T14:15:15.865Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery01-1920x1080-f432bceb41e0f9010ea9c276f0f5de6f.jpg",
+      "md5": "f432bceb41e0f9010ea9c276f0f5de6f",
+      "size": 491972,
+      "uploadedDate": "2023-11-11T14:15:16.503Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery02-1920x1080-ea0d32199b89386f3fcababaa6a8b908.jpg",
+      "md5": "ea0d32199b89386f3fcababaa6a8b908",
+      "size": 351594,
+      "uploadedDate": "2023-11-11T14:15:17.133Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery03-1920x1080-5a1e09cf081d3373affbeba3f4a60f0c.jpg",
+      "md5": "5a1e09cf081d3373affbeba3f4a60f0c",
+      "size": 298295,
+      "uploadedDate": "2023-11-11T14:15:17.702Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery04-1920x1080-e74dd46b825fc6f82a271e6920c4af79.jpg",
+      "md5": "e74dd46b825fc6f82a271e6920c4af79",
+      "size": 304861,
+      "uploadedDate": "2023-11-11T14:15:18.341Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery05-1920x1080-ee28cad68a8a2b5c326fe7f91f72b00c.jpg",
+      "md5": "ee28cad68a8a2b5c326fe7f91f72b00c",
+      "size": 301742,
+      "uploadedDate": "2023-11-11T14:15:18.934Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery06-1920x1080-421275a73bbf9605fc1e39c4b81e3747.jpg",
+      "md5": "421275a73bbf9605fc1e39c4b81e3747",
+      "size": 475732,
+      "uploadedDate": "2023-11-11T14:15:19.519Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery07-1920x1080-e213a00c34aa5fae02e8fe691b30997a.jpg",
+      "md5": "e213a00c34aa5fae02e8fe691b30997a",
+      "size": 523619,
+      "uploadedDate": "2023-11-11T14:15:20.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery09-1920x1080-62e8d6a6d7876a7de183460d7ffecacb.jpg",
+      "md5": "62e8d6a6d7876a7de183460d7ffecacb",
+      "size": 453135,
+      "uploadedDate": "2023-11-11T14:15:21.331Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArtistToolboxGallery08-1920x1080-9fb8ead602c5d85d10b5c736cd489996.jpg",
+      "md5": "9fb8ead602c5d85d10b5c736cd489996",
+      "size": 765924,
+      "uploadedDate": "2024-05-27T15:57:35.363Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery08-1920x1080-9fb8ead602c5d85d10b5c736cd489996_Snapshot.jpg",
+      "md5": "5ee6bb0ea321a98b2bb697bdb30be7ba",
+      "size": 6539,
+      "uploadedDate": "2024-05-27T15:57:35.928Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ArtistToolboxforUnrealEngine_thumb-284x284-8ddbe20a66099854bcd1a40fc9de60af.png",
+      "md5": "8ddbe20a66099854bcd1a40fc9de60af",
+      "size": 77126,
+      "uploadedDate": "2023-11-11T14:15:21.775Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ArtistToolboxforUnrealEngine_featured-894x488-428fdb1bd321d315f98e9f1ef4587b26.png",
+      "md5": "428fdb1bd321d315f98e9f1ef4587b26",
+      "size": 277215,
+      "uploadedDate": "2023-11-11T14:15:22.000Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxFeaturedImage1080-1920x1080-f8b2c84a1b98b19222fbee1f92869582_Snapshot.jpg",
+      "md5": "7374f644f69eb1007a672530a8300345",
+      "size": 5243,
+      "uploadedDate": "2023-11-11T14:15:16.258Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery01-1920x1080-f432bceb41e0f9010ea9c276f0f5de6f_Snapshot.jpg",
+      "md5": "2b3ff2c1a36012673aff6e95c7bc597c",
+      "size": 7163,
+      "uploadedDate": "2023-11-11T14:15:16.911Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery02-1920x1080-ea0d32199b89386f3fcababaa6a8b908_Snapshot.jpg",
+      "md5": "d809b0d64e732437a955b60385f89dd0",
+      "size": 5700,
+      "uploadedDate": "2023-11-11T14:15:17.487Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery03-1920x1080-5a1e09cf081d3373affbeba3f4a60f0c_Snapshot.jpg",
+      "md5": "782ebc74e46baf4018456ed0c8e09449",
+      "size": 5788,
+      "uploadedDate": "2023-11-11T14:15:18.068Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery04-1920x1080-e74dd46b825fc6f82a271e6920c4af79_Snapshot.jpg",
+      "md5": "f838c25309c3cc10ac51addda5f6b471",
+      "size": 5105,
+      "uploadedDate": "2023-11-11T14:15:18.696Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery05-1920x1080-ee28cad68a8a2b5c326fe7f91f72b00c_Snapshot.jpg",
+      "md5": "1236d053cf1a706bb5779016fecc0b20",
+      "size": 5026,
+      "uploadedDate": "2023-11-11T14:15:19.286Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery06-1920x1080-421275a73bbf9605fc1e39c4b81e3747_Snapshot.jpg",
+      "md5": "752de8d7177e3d6d5b0c53c30a9fe121",
+      "size": 5212,
+      "uploadedDate": "2023-11-11T14:15:19.878Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery07-1920x1080-e213a00c34aa5fae02e8fe691b30997a_Snapshot.jpg",
+      "md5": "ceafb38eb38747a1828977ae7880cfca",
+      "size": 6615,
+      "uploadedDate": "2023-11-11T14:15:20.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery08-1920x1080-07afaf11b028d388d468da29cbdaba9b_Snapshot.jpg",
+      "md5": "78f6e3f959f200f6e61b5519f419ff84",
+      "size": 6815,
+      "uploadedDate": "2023-11-11T14:15:21.081Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArtistToolboxGallery09-1920x1080-62e8d6a6d7876a7de183460d7ffecacb_Snapshot.jpg",
+      "md5": "d07c79122e330f2b10282a9be2ca9979",
+      "size": 5437,
+      "uploadedDate": "2023-11-11T14:15:21.711Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "309283a3cca54985adfa12d99aa70983"
+    }
+  ],
+  "catalogNs": null
+}

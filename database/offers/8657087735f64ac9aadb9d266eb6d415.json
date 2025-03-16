@@ -1,0 +1,326 @@
+{
+  "id": "8657087735f64ac9aadb9d266eb6d415",
+  "namespace": "ue",
+  "title": "Modular Vertex Collapse System",
+  "description": "This pack allows you to easily create a black-hole type effect where you can collapse the vertices of a mesh on a specific position.",
+  "longDescription": "<p><strong>Preview</strong>: <a href=\"https://www.youtube.com/watch?v&#61;YcskOSynBog&amp;feature&#61;youtu.be\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;YcskOSynBog&amp;feature&#61;youtu.be</a></p><p><br /></p><p>This pack provides an easy and modular approach to vertex collapsing/squashing. You can easily setup actors to act as the instigator of the collapse or the one who’s getting collapsed, most of the code is abstracted, so you should be able to integrate this to your project without complications.</p><p><br /></p><p>I’ve also included a few practical examples of this system:</p><ul><li>Item pickups</li><li>A moving blackhole</li><li>A warp gate system</li></ul><p><br /></p><p>They’re available on the overview map, all of the code is commented so you should be able to modify these examples to your liking. If you have any issues, feel free to contact me: <strong>arolsouls&#64;gmail.com</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modular-vertex-collapse-system",
+  "creationDate": "2018-09-07T16:03:35.933Z",
+  "lastModifiedDate": "2024-10-10T23:38:38.866Z",
+  "effectiveDate": "2018-09-07T16:03:35.879Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-swyy9jnrl25fnynsllc3aax7ap8gdf",
+    "name": "BioXide"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Material function that handles the vertex collapse effect</li><li>Actor Component that allows the actor owner to get affected by the vertex collapse</li><li>Child Actor to do the vertex collapse effect by radius</li><li>Different practical examples of this system (a black hole, a warp game, item pickups)</li></ul><p><strong>Number of Blueprints</strong>: 16</p><p><strong>Input</strong>: N/A</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>: Windows, Mac, Mobile</p><p><strong>Supported Target Build Platforms</strong>: Windows, Mac, Mobile</p><p><strong>Documentation</strong>: <a href=\"https://docs.google.com/document/d/1MGhPvSWygwxk5EYVlxvZshCtDtyTe8rKF5t9k0JyFDU/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1MGhPvSWygwxk5EYVlxvZshCtDtyTe8rKF5t9k0JyFDU/edit?usp&#61;sharing</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "590de481-f261-4f01-8135-2e7952b4290d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VC03-1920x1080-253148ae220b3fc9c5e17ac3dfa0aacb.png",
+      "md5": "253148ae220b3fc9c5e17ac3dfa0aacb",
+      "size": 2627757,
+      "uploadedDate": "2018-08-26T05:03:30.708Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VC05-1920x1080-09f64da019e692bc9886c5bda803058a.png",
+      "md5": "09f64da019e692bc9886c5bda803058a",
+      "size": 871410,
+      "uploadedDate": "2018-08-26T05:03:29.657Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VC04-1920x1080-cc181c615a683210fc4b8a4a5e05df17.png",
+      "md5": "cc181c615a683210fc4b8a4a5e05df17",
+      "size": 1833757,
+      "uploadedDate": "2018-08-26T05:03:30.215Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VC02-1920x1080-999c261dc631dc7c257ccd3a3d80f4f1.png",
+      "md5": "999c261dc631dc7c257ccd3a3d80f4f1",
+      "size": 1801947,
+      "uploadedDate": "2018-08-26T05:03:31.335Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VC01-1920x1080-b47b1871e0deff9cc5cab61bc813e886.png",
+      "md5": "b47b1871e0deff9cc5cab61bc813e886",
+      "size": 1996871,
+      "uploadedDate": "2018-08-26T05:03:31.950Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ModularVertexCollapseSystem_thumb-284x284-dbf72643c5cf56bd9c15018297b8e0b7.png",
+      "md5": "dbf72643c5cf56bd9c15018297b8e0b7",
+      "size": 113722,
+      "uploadedDate": "2019-01-02T00:23:07.407Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ModularVertexCollapseSystem_featured-894x488-776fe97c3c4c7fe31048703a4b9f31e2.png",
+      "md5": "776fe97c3c4c7fe31048703a4b9f31e2",
+      "size": 402845,
+      "uploadedDate": "2019-01-02T00:23:07.654Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VC05-1920x1080-09f64da019e692bc9886c5bda803058a_Snapshot.png",
+      "md5": "5bc0628e0b5fb1af4d59b9c76ef10fc3",
+      "size": 11365,
+      "uploadedDate": "2018-08-26T05:03:29.986Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VC04-1920x1080-cc181c615a683210fc4b8a4a5e05df17_Snapshot.png",
+      "md5": "62cb0d2d236fb16b8d656e26d5cc9e7c",
+      "size": 17637,
+      "uploadedDate": "2018-08-26T05:03:30.499Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VC03-1920x1080-253148ae220b3fc9c5e17ac3dfa0aacb_Snapshot.png",
+      "md5": "d9bc1dad939e1c7b72508ebb0db45a6b",
+      "size": 20487,
+      "uploadedDate": "2018-08-26T05:03:31.041Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VC02-1920x1080-999c261dc631dc7c257ccd3a3d80f4f1_Snapshot.png",
+      "md5": "2dbe0f629aa53081bb08d20688b3043d",
+      "size": 13576,
+      "uploadedDate": "2018-08-26T05:03:31.700Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VC01-1920x1080-b47b1871e0deff9cc5cab61bc813e886_Snapshot.png",
+      "md5": "aab0c4a8df924fc72634e44beb26b99b",
+      "size": 14691,
+      "uploadedDate": "2018-08-26T05:03:32.264Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b0d383188d72461da105f1e365b084c0"
+    }
+  ],
+  "catalogNs": null
+}

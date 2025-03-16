@@ -1,0 +1,299 @@
+{
+  "id": "1ed5ba21261c476e9736488484b436ae",
+  "namespace": "ue",
+  "title": "MindMaker Machine Learning AI Plugin",
+  "description": "AI Plugin that enables a variety of python based Machine Learning libraries within Unreal Engine",
+  "longDescription": "<h3><strong>Videos</strong></h3><h3><br /></h3><h3>Introduction to MindMaker: <a href=\"https://www.youtube.com/watch?v&#61;ERm_pZhAPIA\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;ERm_pZhAPIA</a></h3><h3><br /></h3><h3>Blueprints Overview: <a href=\"https://youtu.be/Tuo423NujEk\" rel=\"nofollow\">https://youtu.be/Tuo423NujEk</a></h3><h3><br /></h3><h3>Discord Group: <a href=\"https://discord.gg/shxFwtmsHa\" rel=\"nofollow\">https://discord.gg/shxFwtmsHa</a></h3><p><br /></p><p><br /></p><p><br /></p><p><br /></p><h3><strong>Documentation</strong></h3><p><br /></p><p><br /></p><p><br /></p><h3>Github Documentation: <a href=\"https://github.com/krumiaa/MindMaker\" rel=\"nofollow\">https://github.com/krumiaa/MindMaker</a></h3><h3><br /></h3><h3>The MindMaker AI Plugin is an open-source plugin that enables games and simulations within UE4 and UE5 to function as environments for training autonomous machine learning agents. The plugin facilitates a network connection between an Unreal Project containing the learning environment, and a standalone machine learning library used by the agent to optimize whatever it is attempting to learn. The standalone machine learning library can either be a custom python script in the event you are creating your own ML tool using MindMaker’s Remote ML Server, or it could be a precompiled learning engine such as <a href=\"https://unrealengine.com/marketplace/en-US/product/neurostudio-self-learning-ai\" rel=\"nofollow\">MindMaker’s DRL Engine</a>(Stable-Baselines3 Algorithms). Regardless of which option you choose, with the MindMaker AI Plugin developers and researchers can easily train machine learning agents for 2D, 3D and VR projects.</h3><h3><br /></h3><h3>Use cases include robotic simulation, autonomous driving, generative architecture, procedural graphics and much more. MindMaker AI Plugin provides a central platform from which advances in machine learning can reach many of these fields. For game developers, the use cases for self-optimizing agents include controlling NPC behavior, prototyping game design decisions, and automated testing of game builds.</h3><h3><br /></h3><h3>Algorithms currently supported include <a href=\"https://stable-baselines3.readthedocs.io/en/master/\" rel=\"nofollow\">Stable-Baselines3</a><strong> </strong>: Actor Critic ( A2C ), Deep Deterministic Policy Gradient (DDPG) , Deep Q Network ( DQN ), Proximal Policy Optimization ( PPO ), Soft Actor Critic ( SAC ), Twin Delayed DDPG ( TD3 )</h3><h3><br /></h3>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mindmaker-ai-plugin",
+  "creationDate": "2020-11-06T19:27:03.710Z",
+  "lastModifiedDate": "2024-10-15T13:31:43.258Z",
+  "effectiveDate": "2020-11-06T19:27:01.444Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pzb8fx8etrv4bh3w9an8gza76rr9x7",
+    "name": "Aaron Krumins"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Implement python based ML libraries directly in Unreal Engine with the MindMaker Client Server files – See RemoteML Example and Documentation</li><li>Support for OpenAI Gym custom environments</li><li>Precompiled Deep Reinforcement Learning Package for production use cases – auto-launches at start of game / simulation</li><li>Github Support - <a href=\"https://github.com/krumiaa/MindMaker\" rel=\"nofollow\">https://github.com/krumiaa/MindMaker</a></li><li>Modular Design for Easy Integration</li><li>Direct Access to Neural Networks via Blueprints</li><li>Configurable Example projects included with the MindMaker’s DRL Engine</li></ul><p><br /></p><p><br /></p><p>Code Modules:</p><ul><li>MindMakerBPLibrary - Developer, CoreUtility - Runtime, SIOJson - Runtime, SocketIOClient - Runtime, SIOJEditorPlugin – Developer,</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 18</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: https://github.com/krumiaa/MindMaker</p><p>Tutorials:</p><p><a href=\"https://towardsdatascience.com/create-a-custom-deep-reinforcement-learning-environment-in-ue4-cf7055aebb3e\" rel=\"nofollow\">Cart Pole: Creating a Custom Deep Reinforcement Learning Agent in UE4</a></p><p><a href=\"https://medium.com/datadriveninvestor/using-the-game-engine-for-automated-stock-trading-without-a-single-line-of-code-31d46f548ab2\" rel=\"nofollow\">Automated Stock Trading: Build a Bitcoin Bot In Unreal Engine 4</a></p><p><br /></p><p>Important/Additional Notes: <a href=\"https://unrealengine.com/marketplace/en-US/product/neurostudio-self-learning-ai\" rel=\"nofollow\">Download Learning Engine and Starter Content</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3681b9ef-e7fe-4300-8389-091357d9afce"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mindmakerfeature-1920x1080-a155dc8765271bffd3d440694d241a86.png",
+      "md5": "a155dc8765271bffd3d440694d241a86",
+      "size": 645744,
+      "uploadedDate": "2020-11-12T20:14:12.462Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/examples-1920x1080-3fc93a295d95916a934014fa463eb7f0.jpg",
+      "md5": "3fc93a295d95916a934014fa463eb7f0",
+      "size": 728040,
+      "uploadedDate": "2020-11-12T20:14:13.085Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/plugin-1920x1080-a87948d8f3b0480daa8d8bb74a46a0b9.jpg",
+      "md5": "a87948d8f3b0480daa8d8bb74a46a0b9",
+      "size": 408285,
+      "uploadedDate": "2020-11-12T20:15:06.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/modularfunctions-1920x1080-90d7fbad469cb1d0c0c349ef0f1ea4ff.jpg",
+      "md5": "90d7fbad469cb1d0c0c349ef0f1ea4ff",
+      "size": 665706,
+      "uploadedDate": "2020-11-12T20:15:58.371Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/deeplearning-1920x1080-b523189505c025c30d386f1f0c7662b1.jpg",
+      "md5": "b523189505c025c30d386f1f0c7662b1",
+      "size": 843887,
+      "uploadedDate": "2020-11-12T20:15:58.788Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MindMakerAIPlugin_thumb-284x284-f2c92553cfe447dc69f937a068b1d45c.png",
+      "md5": "f2c92553cfe447dc69f937a068b1d45c",
+      "size": 69252,
+      "uploadedDate": "2020-10-19T22:03:17.106Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MindMakerAIPlugin_featured-894x488-94e0f38de619f66d22ea1c2b1de8ba0c.png",
+      "md5": "94e0f38de619f66d22ea1c2b1de8ba0c",
+      "size": 328852,
+      "uploadedDate": "2020-10-19T22:03:17.199Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/modularfunctions-1920x1080-90d7fbad469cb1d0c0c349ef0f1ea4ff_Snapshot.jpg",
+      "md5": "7d25bc38fac8dbddecd78d171c01771a",
+      "size": 4315,
+      "uploadedDate": "2020-11-12T20:15:58.615Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/deeplearning-1920x1080-b523189505c025c30d386f1f0c7662b1_Snapshot.jpg",
+      "md5": "ff0ac6f33c0b116d519d2093e41faa0d",
+      "size": 5078,
+      "uploadedDate": "2020-11-12T20:15:59.067Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/plugin-1920x1080-a87948d8f3b0480daa8d8bb74a46a0b9_Snapshot.jpg",
+      "md5": "71e324e209858504ee5502ad5ee154f1",
+      "size": 4131,
+      "uploadedDate": "2020-11-12T20:15:06.735Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mindmakerfeature-1920x1080-a155dc8765271bffd3d440694d241a86_Snapshot.png",
+      "md5": "90e50d1a7ec1c39f1c82d87d42099d11",
+      "size": 6868,
+      "uploadedDate": "2020-11-12T20:14:12.763Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/examples-1920x1080-3fc93a295d95916a934014fa463eb7f0_Snapshot.jpg",
+      "md5": "6dd896fcf546ab12e10265a43450a5e0",
+      "size": 4782,
+      "uploadedDate": "2020-11-12T20:14:13.722Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mindmakerfeature-1920x1080-a155dc8765271bffd3d440694d241a86_Snapshot.png",
+      "md5": "90e50d1a7ec1c39f1c82d87d42099d11",
+      "size": 6868,
+      "uploadedDate": "2020-11-07T22:24:31.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/plugin-1920x1080-a87948d8f3b0480daa8d8bb74a46a0b9_Snapshot.jpg",
+      "md5": "71e324e209858504ee5502ad5ee154f1",
+      "size": 4131,
+      "uploadedDate": "2020-10-19T22:03:15.417Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/examples-1920x1080-3fc93a295d95916a934014fa463eb7f0_Snapshot.jpg",
+      "md5": "6dd896fcf546ab12e10265a43450a5e0",
+      "size": 4782,
+      "uploadedDate": "2020-10-19T22:03:16.324Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/modularfunctions-1920x1080-90d7fbad469cb1d0c0c349ef0f1ea4ff_Snapshot.jpg",
+      "md5": "7d25bc38fac8dbddecd78d171c01771a",
+      "size": 4315,
+      "uploadedDate": "2020-10-19T22:03:16.719Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/deeplearning-1920x1080-b523189505c025c30d386f1f0c7662b1_Snapshot.jpg",
+      "md5": "ff0ac6f33c0b116d519d2093e41faa0d",
+      "size": 5078,
+      "uploadedDate": "2020-10-19T22:03:17.071Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "bb878422a05a4df2b098a508940c6436"
+    }
+  ],
+  "catalogNs": null
+}

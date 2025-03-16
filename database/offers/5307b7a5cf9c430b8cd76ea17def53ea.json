@@ -1,0 +1,314 @@
+{
+  "id": "5307b7a5cf9c430b8cd76ea17def53ea",
+  "namespace": "ue",
+  "title": "EZTimeline - Customizable Timeline for ALL Blueprints",
+  "description": "This simple timeline object can be used in any actor, including those who don't allow the traditional timeline!",
+  "longDescription": "<p>What is EZTimeline?</p><p>EZTimeline is an infinitely useful code object that can be used in both blueprints and C&#43;&#43;, as a timeline for ALL actors, including those that do not allow the traditional timeline, such as Actor Components.</p><p><br /></p><p>How can I use EZTimeline?</p><p>All you need to do is construct the EZTimeline, add your float track, (in the form of the much more advanced float curve), and add the events! You can play, pause, and reverse the Timeline at all times, from anywhere in your code!</p><p><br /></p><p>Is EZTimeline complicated?</p><p>EZTimeline is quite easy to understand, though for those who want to tweak some of the functionality, there is heavily commented C&#43;&#43; code, but for those more interested in the technical side of things, there is heavy documentation covering the asset, and if you find yourself with more questions outside of that, there is a Discord Support server where you will be helped!</p><p><br /></p><p>How big is EZTimeline?</p><p>EZTimeline takes up less than 1 MB on disk space (without the showcase), and an extremely small amount of memory and CPU (its hard to estimate because Unreal Engine takes up quite a large amount itself, but EZTimeline is practically unnoticeable in your levels performance, how do we know it doesnt effect performance? It always keeps 120 fps on an empty project).</p><p><br /></p><p>Will EZTimeline be receiving updates?</p><p>It is unlikely that I will update EZTimeline as of today, aside from engine version updates, unless there is an overwhelming number of requests for it to change. However, I am always working on other assets, and you can find me in the Discord server if you feel that something is missing in your project!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "eztimeline-customizable-timeline-for-all-blueprints",
+  "creationDate": "2022-11-30T21:54:19.038Z",
+  "lastModifiedDate": "2024-10-15T12:54:40.390Z",
+  "effectiveDate": "2022-11-30T21:54:18.983Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pzv6gx6uncl9dxmu9xnd638j9stqlr",
+    "name": "EZSystems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Clean, Commented C&#43;&#43; Code exposed to you in Blueprints for your easy use (can also be used in C&#43;&#43;)!</li><li> Easy to implement! All you have to do is construct EZTimeline, add your track, and add the events.</li><li> Uses the much more advanced Float Curve so you can make your track as detailed as possible.</li><li>Can be Paused, Started, Stopped, and Reversed from anywhere in your code using a reference!</li></ul><p>Code Modules:</p><ul><li> EZTimeline.cpp and .h (Runtime) - Provides all the functionality of the timeline.</li></ul><p>Number of C&#43;&#43; Classes: 1 - EZTimeline</p><p>Network Replicated: Yes</p><p>Supported Platforms: Windows, Linux, MacOS, and Android</p><p>Support: <a href=\"https://discord.gg/PsBqg7H4xs\" rel=\"nofollow\">Discord</a></p><p>Documentation: <a href=\"https://docs.google.com/document/d/1-JMSiRtV73Pc7Ku7-kuF4UtwUFCmr4X8_LmDWIRtro8/edit?usp&#61;sharing\" rel=\"nofollow\">CLICK HERE</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1ujAmz4rFUbDTsiHrWeYLmAai_M9H9Xt9/view?usp&#61;sharing\" rel=\"nofollow\">Windows</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ed765d24-77c6-44ab-a04f-c32f5c9e8eec"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-719971560743f16c7a4dad29abb62e99.png",
+      "md5": "719971560743f16c7a4dad29abb62e99",
+      "size": 691505,
+      "uploadedDate": "2022-11-30T02:24:43.457Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-8acbbfd2cadc28ff462822797dd3a16a.png",
+      "md5": "8acbbfd2cadc28ff462822797dd3a16a",
+      "size": 386732,
+      "uploadedDate": "2022-11-30T02:24:43.873Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-cb4377c4bcdb58530942ef6649a737f6.png",
+      "md5": "cb4377c4bcdb58530942ef6649a737f6",
+      "size": 95841,
+      "uploadedDate": "2022-11-30T02:24:44.202Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-00106490d240deb1e41a8b06d65e59d5.png",
+      "md5": "00106490d240deb1e41a8b06d65e59d5",
+      "size": 388654,
+      "uploadedDate": "2022-11-30T02:24:44.543Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery05-1920x1080-b4bff323aa1333d566e9edd960e59558.png",
+      "md5": "b4bff323aa1333d566e9edd960e59558",
+      "size": 158494,
+      "uploadedDate": "2022-11-30T02:24:44.923Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EZTimelineCustomizableTimelineforALLBlueprints_thumb-284x284-3eabaed1bb704844669235b93b2ff67b.png",
+      "md5": "3eabaed1bb704844669235b93b2ff67b",
+      "size": 68105,
+      "uploadedDate": "2022-11-30T02:24:45.167Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EZTimelineCustomizableTimelineforALLBlueprints_featured-894x488-0a0a1f31585411a434559b4211bed07d.png",
+      "md5": "0a0a1f31585411a434559b4211bed07d",
+      "size": 249570,
+      "uploadedDate": "2022-11-30T02:24:45.240Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-719971560743f16c7a4dad29abb62e99_Snapshot.png",
+      "md5": "59e1fbe710005208e8498035b9743b8b",
+      "size": 5027,
+      "uploadedDate": "2022-11-30T02:24:43.712Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-8acbbfd2cadc28ff462822797dd3a16a_Snapshot.png",
+      "md5": "ccdef4b8a55f77f85db41e4546cb1542",
+      "size": 4883,
+      "uploadedDate": "2022-11-30T02:24:44.132Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-cb4377c4bcdb58530942ef6649a737f6_Snapshot.png",
+      "md5": "822fc80ed36737f3811f6e62a15eeec0",
+      "size": 4279,
+      "uploadedDate": "2022-11-30T02:24:44.405Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-00106490d240deb1e41a8b06d65e59d5_Snapshot.png",
+      "md5": "7a967132dee38234bde54b59bd8e6b41",
+      "size": 6259,
+      "uploadedDate": "2022-11-30T02:24:44.762Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-b4bff323aa1333d566e9edd960e59558_Snapshot.png",
+      "md5": "acdd934227d9f7e09d7d349a4e8ffe90",
+      "size": 5865,
+      "uploadedDate": "2022-11-30T02:24:45.129Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "07a56aa546e642389712bd274aa5aee2"
+    }
+  ],
+  "catalogNs": null
+}

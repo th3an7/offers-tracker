@@ -1,0 +1,131 @@
+{
+  "id": "2382bcebcaf04eebb4b2ee863c92881e",
+  "namespace": "ue",
+  "title": "Simple UPNP Plugin",
+  "description": "Simple UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mapping on network devices which are compatible with UPNP Protocal.",
+  "longDescription": "<p>UPNP Plugin is code plugin to make you easy to add and delete UDP/TCP port mapping on network devices which are compatible with UPNP Protocal (<a href=\"https://en.wikipedia.org/wiki/Universal_Plug_and_Play\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Universal_Plug_and_Play</a>). It allows your game to use P2P under NAT. It&#39;s based on WANIPConnection:1 Service Template Version 1.01 (<a href=\"http://upnp.org/specs/gw/UPnP-gw-WANIPConnection-v1-Service.pdf\" rel=\"nofollow\">http://upnp.org/specs/gw/UPnP-gw-WANIPConnection-v1-Service.pdf</a>). It uses SocketSubsystem and HttpModule in UE4 and exposes necessary fuctions in blueprint. It doens&#39;t use any third party library.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simple-upnp-plugin-resubmission-for-release",
+  "creationDate": "2017-09-07T20:50:42.097Z",
+  "lastModifiedDate": "2024-10-23T11:13:44.162Z",
+  "effectiveDate": "2017-09-07T20:50:42.339Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cff4179be64857b4ca1d049b246b16",
+    "name": "Woods Shin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><strong>Features</strong></h2><ul><li>Manufacturer : manufacturer/model/url</li><li>Device Status: connection status, connection type, link properties</li><li>UDP/TCP Port Mapping: add/delete port mapping</li><li>Added port mapping duration to 5.2</li></ul><p><br /></p><h2><strong>Code Modules</strong></h2><ul><li>OnlineSubsystem</li><li>OnlineSubsystemUtils</li><li>UdpMessaging</li></ul><p><br /></p><h2><strong>Number of Blueprints</strong></h2><p>Blueprint samples are available on the sample project.</p><p>Number of C&#43;&#43; Classes: 9</p><p>Network Replicated: No</p><p><br /></p><h2><strong>Supported Development Platforms</strong></h2><p>Window, Mac, Mobile</p><p><br /></p><h2><strong>Supported Target Build Platforms</strong></h2><p>Window, Mac, Android</p><p><br /></p><h2><strong>Documentation</strong></h2><p>https://ue4plugin.wordpress.com/2017/05/07/simple-upnp-plugin/</p><p><br /></p><h2><strong>Example Project</strong></h2><p>https://github.com/woodsshin/UPNPSample</p><p><br /></p><h2><strong>Important/Additional Notes</strong></h2><p>Once you forward TCP/UDP port, it&#39;s valid out of your network. It means you need a machine out of your network to use forwarded ports. It&#39;s UPNP Protocol spec.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0bfacaec-1f4b-4bda-838e-ba5b4a65a4b3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleUPNPPlugin_screenshot_03-1920x1080-e2a9af29601681500c8f9d6255293f19.png",
+      "md5": "e2a9af29601681500c8f9d6255293f19",
+      "size": 905197,
+      "uploadedDate": "2017-09-06T21:50:33.471Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleUPNPPlugin_screenshot_02-1920x1080-adbab6a594fd435d660814630c4a86e7.png",
+      "md5": "adbab6a594fd435d660814630c4a86e7",
+      "size": 847733,
+      "uploadedDate": "2017-09-06T21:50:34.019Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SimpleUPNPPlugin_screenshot_01-1920x1080-0657cf3ddceda96432e2311f388a65b9.png",
+      "md5": "0657cf3ddceda96432e2311f388a65b9",
+      "size": 825471,
+      "uploadedDate": "2017-09-06T21:50:34.152Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleUPNPPluginResubmissionforRelease_thumb-284x284-079c91e662975add12a2f00cddd41009.png",
+      "md5": "079c91e662975add12a2f00cddd41009",
+      "size": 52305,
+      "uploadedDate": "2017-09-06T21:50:34.183Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleUPNPPluginResubmissionforRelease_featured-894x488-4ecea77698e1657669ef279f1ff92dc1.png",
+      "md5": "4ecea77698e1657669ef279f1ff92dc1",
+      "size": 127798,
+      "uploadedDate": "2017-09-06T21:50:34.227Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "aaa3fd61d2a04a35815e32c5bf76b574"
+    }
+  ],
+  "catalogNs": null
+}

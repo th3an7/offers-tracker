@@ -1,0 +1,368 @@
+{
+  "id": "243f48cf14c841cc985d96c545b28418",
+  "namespace": "ue",
+  "title": "Screenshot Pro",
+  "description": "Screenshot pro allows you to quickly manage all the cameras in your scene and batch render stills at the highest possible quality.",
+  "longDescription": "<p><strong>Documentation</strong>: https://bit.ly/33GsHK9</p><p><strong>Support Thread:</strong> <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1766725-screenshot-pro-support-thread\" rel=\"nofollow\">https://forums.unrealengine.com/unreal-engine/marketplace/1766725-screenshot-pro-support-thread</a></p><p><strong>Discord Server:</strong> <a href=\"https://discord.gg/7AUwnva7ge\" rel=\"nofollow\">https://discord.gg/7AUwnva7ge</a></p><p><strong>Demonstration Video: </strong><a href=\"https://www.youtube.com/watch?v&#61;OUBrNFsDHVA&amp;feature&#61;youtu.be\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;OUBrNFsDHVA&amp;feature&#61;youtu.be</a></p><p><br /></p><h1>Now supports Unreal Engine 5</h1><ul><li>Access via <em>Tools &gt; JKelly Utilities &gt; Screenshot Pro</em></li></ul><h1><br /></h1><h2>Supports Movie Render Pipeline</h2><ul><li>Screenshot Pro UI uses an internal preset for MRP</li><li>Use your own MRP presets via the settings menu</li></ul><p><br /></p><p>Screenshot Pro is an editor utility that acts as an all purpose camera manager, great for architectural visualization.</p><p><br /></p><p>Screenshot Pro creates a paused instance of your scene at capture time at the specified resolution to ensure the highest possible quality, preventing the usual blurry artifacts when using the built in high res screenshot tool.</p><p><br /></p><p>The Pre-Capture delay setting allows you to determine how many frames to accumulate allowing temporal effects like Temporal Anti-Aliasing and Raytracing to resolve fully. <em>(This does not currently use the new Render Movie Manager in 4.25 but integration is planned for future updates.)</em></p><p><br /></p><p>Easily rename your cameras - which in turn changes the output filename as this is based on the camera&#39;s name.</p><p><br /></p><p>Quick access to the details panel of multiple cameras means you do not need to find the camera in your outline to edit it&#39;s settings. This applies to settings for both standard and cinematic cameras.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "screenshot-pro",
+  "creationDate": "2020-05-25T21:24:31.057Z",
+  "lastModifiedDate": "2024-10-23T14:16:03.730Z",
+  "effectiveDate": "2020-05-25T22:42:12.474Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6ntp49gkfgk8dunvbm4mkzu4jkqyc6",
+    "name": "James Kelly"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><strong> Render stills with Path Tracer</strong></li><li> Batch Render stills from cameras</li><li> Supports Movie Render Pipeline Master Config assets</li><li> Rename Cameras</li><li> Pilot Cameras</li><li> Edit Camera Details</li></ul><p>Code Modules:</p><ul><li> ScreenshotPro (Editor Module)</li></ul><p><br /></p><p>Number of Blueprints: 10</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: No</p><p>Supported Development Platforms: All Platforms</p><p>Supported Target Build Platforms: Editor Only</p><p>Documentation: <a href=\"https://drive.google.com/open?id&#61;14EMGIm3BXNdgde6IDoMQLdbvHYrJubPHykZa_G2WoX8\" rel=\"nofollow\">Yes</a></p><p><br /></p><p>Important/Additional Notes:</p><ul><li>There is a minor issue with enabling HDR capture in a running instance that prevents actually saving as .EXR. To get around this, when <em>&#34;Capture HDR&#34; </em>is toggled, Screenshot Pro will default to exporting GBuffer passes and save out only two passes: <em>PostTonemapColor </em>and <em>PreTonemapColor</em>. When <em>&#34;Export Buffers&#34;</em> is toggled this simply expands the number of passes that are exported to include the default list <em>(BaseColor, Metallic, etc)</em></li><li><em>This tool requires that the &#34;Editor Scripting Utilities&#34; and &#34;Sequencer Scripting&#34; plugins are enabled.</em></li><li><em>There are rare instances where the pilot/eject button states fail to update. If this happens, click the refresh button and click either &#34;Create New&#34; buttons to resolve this issue.</em></li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1376",
+      "name": "DESTRUCTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:25.382Z",
+      "updated": "2019-06-20T12:01:25.382Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1089",
+      "name": "DINOSAURS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:02.754Z",
+      "updated": "2019-06-20T11:59:02.754Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dcbcfb0f-953f-4dc4-8958-f1877b73b041"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Update2.0-1920x1080-1cc66bcdf38eb2c7cb83e94c2c07625f.png",
+      "md5": "1cc66bcdf38eb2c7cb83e94c2c07625f",
+      "size": 347424,
+      "uploadedDate": "2021-08-10T19:07:41.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Page 01-1920x1080-bcc210f4daa0d8fd5f57194c8dc72760.png",
+      "md5": "bcc210f4daa0d8fd5f57194c8dc72760",
+      "size": 210775,
+      "uploadedDate": "2020-05-11T19:22:48.557Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Update1.20-1920x1080-ce6dac9e4f8aba5289a0475b3fde096e.png",
+      "md5": "ce6dac9e4f8aba5289a0475b3fde096e",
+      "size": 323798,
+      "uploadedDate": "2021-03-29T16:26:29.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Page 02-1920x1080-bca41a0058903f7a6e028c0e6325f7d9.png",
+      "md5": "bca41a0058903f7a6e028c0e6325f7d9",
+      "size": 617102,
+      "uploadedDate": "2020-05-11T19:22:48.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Page 03-1920x1080-467c2f96fd0ebd65ddb0e36b30fcd093.png",
+      "md5": "467c2f96fd0ebd65ddb0e36b30fcd093",
+      "size": 848499,
+      "uploadedDate": "2020-05-11T19:22:49.448Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Page 04-1920x1080-fabacea33e3b6c610c690d23bf1afab5.png",
+      "md5": "fabacea33e3b6c610c690d23bf1afab5",
+      "size": 519801,
+      "uploadedDate": "2020-05-11T19:22:49.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ScreenshotPro_thumb-284x284-55747e5739d702b9d13cc47413edc87a.png",
+      "md5": "55747e5739d702b9d13cc47413edc87a",
+      "size": 11550,
+      "uploadedDate": "2020-05-11T19:22:50.158Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ScreenshotPro_featured-894x488-b0216324f6c1d3e327b21c9662101375.png",
+      "md5": "b0216324f6c1d3e327b21c9662101375",
+      "size": 122803,
+      "uploadedDate": "2022-04-16T12:56:19.222Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Update2.0-1920x1080-1cc66bcdf38eb2c7cb83e94c2c07625f_Snapshot.png",
+      "md5": "6e9e692370c8beeb2a683ab7ba7ec788",
+      "size": 5156,
+      "uploadedDate": "2021-08-10T19:07:41.771Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Update1.20-1920x1080-ce6dac9e4f8aba5289a0475b3fde096e_Snapshot.png",
+      "md5": "08c646cd96838a18a502f1beaff24972",
+      "size": 4472,
+      "uploadedDate": "2021-03-29T16:26:29.634Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Page 01-1920x1080-bcc210f4daa0d8fd5f57194c8dc72760_Snapshot.png",
+      "md5": "a9827b0749404fbadf1aad16a78e563e",
+      "size": 5223,
+      "uploadedDate": "2020-05-11T19:22:48.826Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Page 02-1920x1080-bca41a0058903f7a6e028c0e6325f7d9_Snapshot.png",
+      "md5": "a19e6f1b3610629c06e1bd57ea9c53ec",
+      "size": 6193,
+      "uploadedDate": "2020-05-11T19:22:49.322Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Page 03-1920x1080-467c2f96fd0ebd65ddb0e36b30fcd093_Snapshot.png",
+      "md5": "cea827dfe05c87a7aa6f2bf97d07d032",
+      "size": 6346,
+      "uploadedDate": "2020-05-11T19:22:49.723Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Page 04-1920x1080-fabacea33e3b6c610c690d23bf1afab5_Snapshot.png",
+      "md5": "330976d7a921f5905aeb8ad51c6774fb",
+      "size": 5915,
+      "uploadedDate": "2020-05-11T19:22:50.112Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "53add1e5d206485c841bb10931254c7f"
+    }
+  ],
+  "catalogNs": null
+}

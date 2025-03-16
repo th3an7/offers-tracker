@@ -1,0 +1,362 @@
+{
+  "id": "be23357d828646478a017b9322286e39",
+  "namespace": "ue",
+  "title": "Ghost King",
+  "description": "Ghost King - Use it as it is or over your own character. Uses simple clothing data to create natural looking robe ghost.",
+  "longDescription": "<p>Ghost King - Use it as it is or over your own character. Uses simple clothing data to create natural looking robe ghost.</p><p><br /></p><p>Video <a href=\"https://youtu.be/IQLvjN7-Pa0\" rel=\"nofollow\">HERE</a></p><p>Demo <a href=\"https://www.dropbox.com/s/an3p9fh51323746/GhotKing_demo.zip?dl&#61;0\" rel=\"nofollow\">HERE</a></p><p>Playlist of all my assets<a href=\"https://www.youtube.com/playlist?list&#61;PLvwmWm8Z2BBCluJ6VioA9LB140LlQMCaO\" rel=\"nofollow\"> HERE</a></p><p>My other assets page <a href=\"https://www.unrealengine.com/marketplace/profile/Dave&#43;Berg\" rel=\"nofollow\">HERE</a></p><p>____Info videos____</p><p><br /></p><p><a href=\"https://youtu.be/l4jKAFf9nJk\" rel=\"nofollow\">Video 1 </a>shows how to render in sequencer using the AI character and BP_Camera_character (submitted update changes)</p><p><a href=\"https://youtu.be/IBVRMyj5v-w\" rel=\"nofollow\">Video 2</a> shows how to control the character in sequencer but still use the BP_Camera_character for rendering</p><p><br /></p><p>Older videos about this asset:</p><p><a href=\"https://youtu.be/bVHqzvRTPNM\" rel=\"nofollow\">Video 3</a> Using sequencer in UE 4.26</p><p><a href=\"https://youtu.be/943G9BQ9ukw\" rel=\"nofollow\">Video 4</a> Animation retargeting</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ghost-king",
+  "creationDate": "2021-11-15T18:06:06.005Z",
+  "lastModifiedDate": "2024-10-22T18:36:00.286Z",
+  "effectiveDate": "2021-11-15T18:06:05.943Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-989885cd1c4fc8abbdd9df4971a36a",
+    "name": "Dave Berg"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p> 2 skeletal meshes (upper and lower parts) to use as is or with your own character</p><p>Rigged: Yes</p><p>Rigged to Epic skeleton: Yes</p><p>IK bones are included: Yes</p><p>Animated: Yes, uses third-person template animations</p><p>Number of characters: 1 character based on third-person template character with simple ai for demo purposes &#43; 1 camera character for demo purposes</p><p>skeletal meshes: 2</p><p>Triangle counts of skeletal meshes: 44k and 38k triangles</p><p>Number of Materials and Material Instances: 3 &#43; 5</p><p>1 material for skeletal meshes, 1 material for ground, 1 material for particle fx</p><p>2 instances for skeletal meshes, 1 instance for crown, 1 for particle fx, 1 for ground</p><p>Number of Textures: 15 textures (4k)</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><br /></p><p>Also included:</p><p>BP Ai controller for ghost - simple ai - repeats &#34;Ai goto&#34;</p><p>BP camera character - floats around Ghost character</p><p>BP Game mode - basic game mode</p><p>BP Ghost Character - Combines mannequin and ghost skeletal meshes</p><p>BP Camera shake</p><p><br /></p><p>2 levels - overview and demo level</p><p>1 particle fx</p><p>1 physics asset</p><p>1 level sequence (used to fade scene in and out)</p><p>1 static mesh : Crown, 15k triangles</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "Trivia",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2023-07-29T14:59:59.710Z",
+      "status": "ACTIVE",
+      "referenceCount": 96,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d62a7ad0-ab5c-4a1d-8756-0e49969951de"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-1e7107f25c61428353d17537444d8b4e.png",
+      "md5": "1e7107f25c61428353d17537444d8b4e",
+      "size": 581010,
+      "uploadedDate": "2021-11-13T22:17:01.525Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-61076e528281c4bc9918828884ef37f5.png",
+      "md5": "61076e528281c4bc9918828884ef37f5",
+      "size": 525798,
+      "uploadedDate": "2021-11-13T22:17:01.725Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-afe90cd4c9b3184db4a442919fdc6a30.png",
+      "md5": "afe90cd4c9b3184db4a442919fdc6a30",
+      "size": 562682,
+      "uploadedDate": "2021-11-13T22:17:01.871Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-ce29bdc6f669d2bb405e1c57d16c835d.png",
+      "md5": "ce29bdc6f669d2bb405e1c57d16c835d",
+      "size": 680297,
+      "uploadedDate": "2021-11-13T22:17:02.047Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-9e392bf90907bcec138caebe5e5df714.png",
+      "md5": "9e392bf90907bcec138caebe5e5df714",
+      "size": 493067,
+      "uploadedDate": "2021-11-13T22:17:02.268Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00005-1920x1080-39e9a30093350da417b5d006062538bd.png",
+      "md5": "39e9a30093350da417b5d006062538bd",
+      "size": 466166,
+      "uploadedDate": "2021-11-13T22:17:02.461Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-81d91e5ba49d48717ff4e31d9ce4a2b0.png",
+      "md5": "81d91e5ba49d48717ff4e31d9ce4a2b0",
+      "size": 701720,
+      "uploadedDate": "2021-11-13T22:17:02.667Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-20404d60c5eced4502d354d774714238.png",
+      "md5": "20404d60c5eced4502d354d774714238",
+      "size": 742175,
+      "uploadedDate": "2021-11-13T22:17:02.872Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00008-1920x1080-51fa7ef6ad74e4f9af1ff68f18fb23ce.png",
+      "md5": "51fa7ef6ad74e4f9af1ff68f18fb23ce",
+      "size": 746260,
+      "uploadedDate": "2021-11-13T22:17:03.178Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00009-1920x1080-59c631cd55106f825a9a743e6b6943f8.png",
+      "md5": "59c631cd55106f825a9a743e6b6943f8",
+      "size": 710066,
+      "uploadedDate": "2021-11-13T22:17:03.376Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00010-1920x1080-d4d16b72cb682abff79110913cbcd8bd.png",
+      "md5": "d4d16b72cb682abff79110913cbcd8bd",
+      "size": 725453,
+      "uploadedDate": "2021-11-13T22:17:03.599Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GhostKing_thumb-284x284-65765245f4ee06a716b295469c0b2967.png",
+      "md5": "65765245f4ee06a716b295469c0b2967",
+      "size": 132458,
+      "uploadedDate": "2021-11-13T22:17:03.759Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GhostKing_featured-894x488-0b622ecd7b101734e246295f3b35245a.png",
+      "md5": "0b622ecd7b101734e246295f3b35245a",
+      "size": 530341,
+      "uploadedDate": "2021-11-13T22:17:03.830Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-1e7107f25c61428353d17537444d8b4e_Snapshot.png",
+      "md5": "2925e75cf662a1c2119cb57cd0d53a6f",
+      "size": 2820,
+      "uploadedDate": "2021-11-13T22:17:01.618Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-61076e528281c4bc9918828884ef37f5_Snapshot.png",
+      "md5": "7567e64590a039e331529e10a5ee023e",
+      "size": 3157,
+      "uploadedDate": "2021-11-13T22:17:01.811Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-afe90cd4c9b3184db4a442919fdc6a30_Snapshot.png",
+      "md5": "0f64e9dacca132e6d9166af168558e41",
+      "size": 3019,
+      "uploadedDate": "2021-11-13T22:17:01.969Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-ce29bdc6f669d2bb405e1c57d16c835d_Snapshot.png",
+      "md5": "d8c72b5067456328b7cc7b5c79c9329d",
+      "size": 3350,
+      "uploadedDate": "2021-11-13T22:17:02.141Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-9e392bf90907bcec138caebe5e5df714_Snapshot.png",
+      "md5": "0395210a1d16176669f682342e6f9e56",
+      "size": 2871,
+      "uploadedDate": "2021-11-13T22:17:02.352Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00005-1920x1080-39e9a30093350da417b5d006062538bd_Snapshot.png",
+      "md5": "00af9d82bd6013d6ec49129e628108e5",
+      "size": 2844,
+      "uploadedDate": "2021-11-13T22:17:02.547Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-81d91e5ba49d48717ff4e31d9ce4a2b0_Snapshot.png",
+      "md5": "55741b6a9b814b75a58925e72414be7d",
+      "size": 3315,
+      "uploadedDate": "2021-11-13T22:17:02.758Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-20404d60c5eced4502d354d774714238_Snapshot.png",
+      "md5": "9a460578184497669175b524ee1609c8",
+      "size": 3690,
+      "uploadedDate": "2021-11-13T22:17:02.979Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-51fa7ef6ad74e4f9af1ff68f18fb23ce_Snapshot.png",
+      "md5": "729918c287a01890e3e82681d2555e4e",
+      "size": 3656,
+      "uploadedDate": "2021-11-13T22:17:03.285Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00009-1920x1080-59c631cd55106f825a9a743e6b6943f8_Snapshot.png",
+      "md5": "9c4b8440ff7941fdfb6994111605f0d3",
+      "size": 3535,
+      "uploadedDate": "2021-11-13T22:17:03.487Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00010-1920x1080-d4d16b72cb682abff79110913cbcd8bd_Snapshot.png",
+      "md5": "2c7fb78d9de4764f5947bb7bf6dc9d84",
+      "size": 2924,
+      "uploadedDate": "2021-11-13T22:17:03.695Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a3daf705c7c8434bbf9c62b2b840d667"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,152 @@
+{
+  "id": "9eb6de6199de4ea1ac3939fde0e8f909",
+  "namespace": "ue",
+  "title": "ExternalTexturePlugin",
+  "description": "ExternalTexturePlugin",
+  "longDescription": "<p>It can easily load local and network textures through blueprints at runtime。</p><p>Currently supports JPG, PNG, TGA&#xff0c;and BMP file formats。</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "externaltextureplugin",
+  "creationDate": "2023-04-14T15:46:18.686Z",
+  "lastModifiedDate": "2024-10-05T14:07:28.605Z",
+  "effectiveDate": "2023-04-14T15:46:18.658Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-xtldhnhsc5jxxw8x83pkdqfr4n2neb",
+    "name": "SusanChen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> load local textures</li><li> load network textures(http get)</li></ul><p>Code Modules: </p><ul><li> ExternalTexturePlugin (Runtime)  </li></ul><p>Number of Blueprints:1</p><p>Number of C&#43;&#43; Classes:1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: </p><p>             http://dascad.net/html/externalTexture/doc.pdf</p><p>             http://dascad.net/html/externalTexture/index.html</p><p>Example Project: http://dascad.net/html/externalTexture/demo.rar</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "17423301-c485-49f1-b93e-e950a674d2c1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/002-1920x1080-4e6fb6e110658054f0380705ae6a8d52.png",
+      "md5": "4e6fb6e110658054f0380705ae6a8d52",
+      "size": 494540,
+      "uploadedDate": "2023-04-09T10:40:10.041Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/001-1920x1080-f06d06aeb36784fbc5cd0bd9276b4dc7.png",
+      "md5": "f06d06aeb36784fbc5cd0bd9276b4dc7",
+      "size": 417962,
+      "uploadedDate": "2023-04-09T10:40:10.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ExternalTexturePlugin_thumb-284x284-73bff73168cbcbce9202282d625e47be.png",
+      "md5": "73bff73168cbcbce9202282d625e47be",
+      "size": 25283,
+      "uploadedDate": "2023-04-09T10:40:10.724Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ExternalTexturePlugin_featured-894x488-e9a500b2cb08d0058419a8bf9ce8b5bf.png",
+      "md5": "e9a500b2cb08d0058419a8bf9ce8b5bf",
+      "size": 814473,
+      "uploadedDate": "2023-04-09T10:40:10.843Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/002-1920x1080-4e6fb6e110658054f0380705ae6a8d52_Snapshot.png",
+      "md5": "4b4bcbe827de5b9ab95c8ec04e1a8b55",
+      "size": 4398,
+      "uploadedDate": "2023-04-09T10:40:10.281Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/001-1920x1080-f06d06aeb36784fbc5cd0bd9276b4dc7_Snapshot.png",
+      "md5": "f1f554e49e9c33711f397d37216b0950",
+      "size": 4065,
+      "uploadedDate": "2023-04-09T10:40:10.671Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "23691054e8d849b1bb311bac1cb256ae"
+    }
+  ],
+  "catalogNs": null
+}

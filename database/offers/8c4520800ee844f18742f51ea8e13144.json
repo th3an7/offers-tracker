@@ -1,0 +1,191 @@
+{
+  "id": "8c4520800ee844f18742f51ea8e13144",
+  "namespace": "ue",
+  "title": "Cone Traces",
+  "description": "Adds the ability to have a cone shaped trace for channels, object types and profile",
+  "longDescription": "<p><a href=\"https://1drv.ms/b/s!AkI_V6V3_RGlgslSikNsp3nRRQdzNw?e&#61;ERdVyS\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p>Ever wanted a cone-shaped trace that works all the way as the already coded traces? With this plugin, you can achieve the same results as the original traces but with a cone shape!</p><p>Coded from scratch to give the user the ability to build your own unique cone in every possible way (Length and Base Radius). Visual debug to easily understand the trace and check the hit(s) and their location in the viewport.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cone-traces",
+  "creationDate": "2022-11-16T16:56:54.003Z",
+  "lastModifiedDate": "2024-10-01T13:27:28.813Z",
+  "effectiveDate": "2022-11-16T16:56:53.962Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-sms566pm4dhqcy4bwxb2rg42z6lyrl",
+    "name": "MrArgost's Lab"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Cone-shaped traces for all types (Channel, Object Types and Profile)</li><li> Single-trace and Multi-trace</li><li> Visual debug options with multiple parameters (as the ones already coded in the engine)</li></ul><p>Code Modules:</p><ul><li> ConeTraces (Runtime)</li></ul><p>Number of C&#43;&#43; Classes: 1</p><p>Supported Development Platforms: Win, MacOs</p><p>Supported Target Build Platforms: Win64, MacOs, iOS, Android</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1469f902-d705-434c-a31b-fc50d6eec83e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ConeNoHit-1920x1080-a92377bb5ad447bc47c8119523401db6.png",
+      "md5": "a92377bb5ad447bc47c8119523401db6",
+      "size": 2150444,
+      "uploadedDate": "2022-10-30T21:23:04.216Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ConeHit-1920x1080-79dc01134f9e8deaaf52496cd43570d0.png",
+      "md5": "79dc01134f9e8deaaf52496cd43570d0",
+      "size": 2938825,
+      "uploadedDate": "2022-10-30T21:23:04.887Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Senza titolo-1-1920x1080-bbb6e1798d9e7c3dfe6dbf07830adc6c.png",
+      "md5": "bbb6e1798d9e7c3dfe6dbf07830adc6c",
+      "size": 501993,
+      "uploadedDate": "2022-11-16T18:18:07.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ConeTraces_thumb-284x284-608500c9dda6c5f4f0ca306ee00a0d35.png",
+      "md5": "608500c9dda6c5f4f0ca306ee00a0d35",
+      "size": 25012,
+      "uploadedDate": "2022-10-30T21:07:07.755Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ConeTraces_featured-894x488-1a89641f0bdc75d5a21ecf8ac0d97c8c.png",
+      "md5": "1a89641f0bdc75d5a21ecf8ac0d97c8c",
+      "size": 91062,
+      "uploadedDate": "2022-10-30T21:19:21.688Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Senza titolo-1-1920x1080-bbb6e1798d9e7c3dfe6dbf07830adc6c_Snapshot.png",
+      "md5": "4bf3e64b5bb7a2ea530f48369c012b2e",
+      "size": 4524,
+      "uploadedDate": "2022-11-16T18:18:07.986Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ConeNoHit-1920x1080-a92377bb5ad447bc47c8119523401db6_Snapshot.png",
+      "md5": "3d70d7f28ebdaf843c79c0787c9b9449",
+      "size": 4338,
+      "uploadedDate": "2022-10-30T21:23:04.622Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ConeHit-1920x1080-79dc01134f9e8deaaf52496cd43570d0_Snapshot.png",
+      "md5": "61a59c12680e3741b3874118d1d727ce",
+      "size": 4886,
+      "uploadedDate": "2022-10-30T21:23:05.363Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ConeBlueprint-1920x1080-00838687957a257725e7bf103dbcd8f8_Snapshot.png",
+      "md5": "aa2a9a650b7826e2b584287ecd70477c",
+      "size": 4739,
+      "uploadedDate": "2022-10-19T17:02:46.477Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "03fd9deae5b94bab80814bab84e68a18"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,308 @@
+{
+  "id": "04719688a28344c59b05b1b28fe84a2e",
+  "namespace": "ue",
+  "title": "Create Custom Tracers",
+  "description": "Set up easy custom tracers for line traces in seconds. It has a variety of customization to create all sorts of unique tracers. It takes less than a minute to set up and use",
+  "longDescription": "<p><strong>A plugin to create all sorts of unique custom tracers!</strong></p><p>Create Custom Tracers allows the creation and customization of all sorts of unique bullet tracers for line traces. You can choose to use a bullet tracer projectile and/or a bullet tracer beam. It is very easy to use and set up in less than a minute. Everything has been categorized to ensure it is easy to understand and use. Now, with the option to turn on object pooling for even more performance optimisation.</p><p><br /></p><p>It takes less than a couple of minutes to step up. Further information can be found within the documentation.</p><p>Documentation: https://docs.google.com/document/d/1Bn44wGYdMytDFeB8NDKT-44rJV0cjc1EzqPjO8n1TDI/edit?usp&#61;sharing</p><p><br /></p><p>Setting it up:</p><p>Tracer Projectile: https://www.youtube.com/watch?v&#61;2Yu198Vr0eU</p><p>Tracer Beam:<strong><em> </em></strong>https://www.youtube.com/watch?v&#61;2ws6NJ5V84o</p><p><br /></p><p>This plugin works well with Ballistic Impact Ultimate: https://www.unrealengine.com/marketplace/en-US/product/bc2614276f314ac4a59d6367132e0d3f</p><p>Video (20 seconds) showing Create Custom Tracers &amp; Ballistic Impact Ultimate working together: https://www.youtube.com/watch?v&#61;ehCDLJOR-i4</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "custom-tracers",
+  "creationDate": "2022-10-21T18:52:11.396Z",
+  "lastModifiedDate": "2024-10-15T09:02:26.166Z",
+  "effectiveDate": "2022-10-21T18:52:11.345Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qex68lqv7jpftleakflarwfu5swhgm",
+    "name": "Mythic"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><p>Tracer Projectile</p><ul><li>Tracer projectile</li><li>Customize the size of the projectile</li><li>Customize the color of the projectile</li><li>Customize the emissive properties of the projectile</li><li> Up to 10 custom projectile tracers</li><li>Object pooling </li></ul><p><br /></p><p>Tracer Beam</p><ul><li>Tracer beam particles</li><li>Customize the color of the beam</li><li>Customize the scale color of the beam</li><li>Customize the width of the beam</li><li>Customize how long the beam will last for (0.025 to 0.1)</li><li>Up to 10 custom beam tracers</li></ul><p><br /></p><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> CustomTracers (Runtime)</li><li> Niagara (Runtime)</li></ul><p>Number of C&#43;&#43; Classes: 2</p><p>Number of Blueprints: 1</p><p>Network Replicated: Very easy to replicate. Look inside the documentation for more information</p><p>Supported Development Platforms: Windows, Mac, Linux</p><p>Supported Target Build Platforms: Windows, Linux, Android, Mac, IOS</p><p>Documentation: https://docs.google.com/document/d/1WxRY9MmC1ct6ehLbB0vDwMW0tongijK2OoO9UhZAHgI/edit?usp&#61;sharing</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "26e1842e-1fe1-4b17-892b-5c2e30aeb7d5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Attach Ballistics Impact component to your blueprint6-1920x1080-4f75914fe70f5b72843a2ec98dff604e.png",
+      "md5": "4f75914fe70f5b72843a2ec98dff604e",
+      "size": 534889,
+      "uploadedDate": "2022-10-06T13:04:56.330Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Attach Ballistics Impact component to your blueprint3-1920x1080-9c6086057788e2081f7bbeb2eb0a2118.png",
+      "md5": "9c6086057788e2081f7bbeb2eb0a2118",
+      "size": 239522,
+      "uploadedDate": "2022-10-06T13:04:57.806Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Attach Ballistics Impact component to your blueprint 3-1920x1080-6fb29533e0052020bef70b8ffe09edec.png",
+      "md5": "6fb29533e0052020bef70b8ffe09edec",
+      "size": 225961,
+      "uploadedDate": "2023-12-19T04:35:57.851Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Attach Ballistics Impact component to your blueprint2-1920x1080-88e80296926310af3acac745862f83f6.png",
+      "md5": "88e80296926310af3acac745862f83f6",
+      "size": 207958,
+      "uploadedDate": "2022-10-06T13:04:58.331Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Attach Ballistics Impact component to your blueprint-1920x1080-0edb491a0bf63cace751afd4ef491ee6.png",
+      "md5": "0edb491a0bf63cace751afd4ef491ee6",
+      "size": 263955,
+      "uploadedDate": "2022-10-06T13:04:59.211Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Attach Ballistics Impact component to your blueprint5-1920x1080-78e61fc5e19188ff014cb97f8570cc39.png",
+      "md5": "78e61fc5e19188ff014cb97f8570cc39",
+      "size": 420510,
+      "uploadedDate": "2022-10-06T13:04:56.782Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Attach Ballistics Impact component to your blueprint4-1920x1080-3b0fa222ab78b39f2ee693b41fa052d7.png",
+      "md5": "3b0fa222ab78b39f2ee693b41fa052d7",
+      "size": 460906,
+      "uploadedDate": "2022-10-06T13:04:57.300Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CustomTracers_thumb-284x284-217c76fd5067a6d6dbdc13ba4595c448.png",
+      "md5": "217c76fd5067a6d6dbdc13ba4595c448",
+      "size": 104923,
+      "uploadedDate": "2022-09-08T01:19:31.803Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CustomTracers_featured-894x488-c2c3b64d27b7a0102dc948b9ed69499d.png",
+      "md5": "c2c3b64d27b7a0102dc948b9ed69499d",
+      "size": 334889,
+      "uploadedDate": "2022-09-08T01:19:31.903Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint 3-1920x1080-6fb29533e0052020bef70b8ffe09edec_Snapshot.png",
+      "md5": "bf4c718c4a115dd48aa82cb6e8ea5cb3",
+      "size": 4392,
+      "uploadedDate": "2023-12-19T04:35:58.169Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint6-1920x1080-4f75914fe70f5b72843a2ec98dff604e_Snapshot.png",
+      "md5": "2e1ffa47e9306c5c3a3095478a13d41c",
+      "size": 5411,
+      "uploadedDate": "2022-10-06T13:04:56.620Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint5-1920x1080-78e61fc5e19188ff014cb97f8570cc39_Snapshot.png",
+      "md5": "6e1f4b62d96745d25cc945870da336d2",
+      "size": 4710,
+      "uploadedDate": "2022-10-06T13:04:57.110Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint4-1920x1080-3b0fa222ab78b39f2ee693b41fa052d7_Snapshot.png",
+      "md5": "528a3863d0e497b6bae48d9892585bfa",
+      "size": 4974,
+      "uploadedDate": "2022-10-06T13:04:57.604Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint3-1920x1080-9c6086057788e2081f7bbeb2eb0a2118_Snapshot.png",
+      "md5": "befb483e78cbdd4e17a03080fbf584e9",
+      "size": 3867,
+      "uploadedDate": "2022-10-06T13:04:58.061Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint2-1920x1080-88e80296926310af3acac745862f83f6_Snapshot.png",
+      "md5": "53068eba806d891a06e1686a0aeba089",
+      "size": 5063,
+      "uploadedDate": "2022-10-06T13:04:58.633Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint1-1920x1080-c15bbcb4800d7a1270676cea833502d4_Snapshot.png",
+      "md5": "2122e613508c3ec878e9e64ff81ad9bc",
+      "size": 4222,
+      "uploadedDate": "2022-10-06T13:04:59.020Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint-1920x1080-0edb491a0bf63cace751afd4ef491ee6_Snapshot.png",
+      "md5": "dc61667ebb69fd254b186000a6b8fe83",
+      "size": 3739,
+      "uploadedDate": "2022-10-06T13:04:59.514Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Attach Ballistics Impact component to your blueprint-1920x1080-d7053cf57b178d02208487152f84429b_Snapshot.png",
+      "md5": "b4ba1ce4aae99d2f92b7ad377bf168ec",
+      "size": 3662,
+      "uploadedDate": "2022-09-08T01:19:31.746Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "605e5116ce824eecbf8a096772baaa8e"
+    }
+  ],
+  "catalogNs": null
+}

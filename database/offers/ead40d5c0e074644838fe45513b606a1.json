@@ -1,0 +1,398 @@
+{
+  "id": "ead40d5c0e074644838fe45513b606a1",
+  "namespace": "ue",
+  "title": "Location on EarthMap",
+  "description": "This blueprint allows you to produce augmented reality cartograhy scenes for studios by displaying various maps and Worldwide locations (spots from Google map). It is also possible to use movie render queue.",
+  "longDescription": "<p>Location on EarthMap is a blueprint that integrates numerous features within a single asset that you can position, rotate, and scale within an Unreal level:</p><p><br /></p><ul><li>Choice of view to display (<strong>30 available views</strong>)</li><li>Choice of countries to highlight (Depending on the selected view, by selecting a single country or multiple countries in a datatable)</li><li>Display options for selected and non-selected countries (Display nothing, a color, or a visual from 10 available visuals)</li><li>Display the oceans among 5 available views or use a color</li><li>Two languages available for all labels: <strong>English or French</strong></li><li>The map is visible in editor mode</li><li>Entry and exit animation for PLAY mode. Change view in PLAY Mode.</li><li><strong>Location </strong>of a place by copying its longitude and latitude coordinates <strong>from Google Maps</strong></li><li>Location of multiple places, again with the help of Google Maps, stored in a datatable</li><li>Adjustment of colors and material properties for various elements: labels, frame, borders, background of objects</li><li>Option to display borders or not.</li><li>Display of a title and/or subtitle</li></ul><p><br /></p><p>This project was made possible thanks to assets from <strong>Natural Earth</strong> (<a href=\"https://www.naturalearthdata.com/\" rel=\"nofollow\">https://www.naturalearthdata.com/</a>). The projection used is WGS84 (EPSG:4326).</p><p><br /></p><p>You can edit the data with the excel file that you can find <a href=\"https://docs.google.com/spreadsheets/d/1AXwm1hjglzUdSmLcJMabwiOiGu6JSwrF/edit?usp&#61;drive_link&amp;ouid&#61;115881416460375516794&amp;rtpof&#61;true&amp;sd&#61;true\" rel=\"nofollow\">here</a>.</p><p>Video is coming soon</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "location-on-earthmap",
+  "creationDate": "2024-07-23T21:48:03.254Z",
+  "lastModifiedDate": "2024-10-10T14:11:03.616Z",
+  "effectiveDate": "2024-07-23T21:48:03.216Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-apqfl2rfktlcu94x6j5bz5vy45et9g",
+    "name": "JDarrasVP"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>You need to enable the 3D Text plugin</p><p><br /></p><p>Place &#34;BP_EarthMap&#34; in a level and modify the variables:</p><ul><li><strong>Default</strong>: Animation and map update buttons for PLAY mode, the main variables allowing you to select countries, non-selected countries, background, visuals, and languages</li><li><strong>Country Selected</strong>: Select a country from a dropdown menu or use a datatable if you want to select multiple countries</li><li><strong>Country Not Selected</strong>: Choose the color of the non-selected countries</li><li><strong>Background</strong>: Choose the background visual or hide it. If you select a color, choose it here</li><li><strong>Localization</strong>: Show/hide location markers, choose location and enter its label. Select datatable to display multiple markers</li><li><strong>Labels</strong>: Show or hide labels, modify the colors, adjust the label size and offset</li><li><strong>Borders</strong>: Show or hide borders for selected and/or not selected countries. Modify the color and materials of the borders</li><li><strong>Title &amp; Subtitle</strong>: Show/hide a title and/or subtitle, position them.</li></ul><p><br /></p><p>Documentation in <a href=\"https://drive.google.com/file/d/1vocm5OJoKf3YtqnpAH1FVX_bGcaRNQSY/view?usp&#61;sharing\" rel=\"nofollow\">English </a>or in <a href=\"https://drive.google.com/file/d/1of9OsXFnp__XoIxLmn5dYLBiUQ2EiP9L/view?usp&#61;sharing\" rel=\"nofollow\">French</a></p><p>Blueprint running at 60fps with NVidia2080</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1343",
+      "name": "MECHS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:08.830Z",
+      "updated": "2019-06-20T12:01:08.830Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "56910d74-9bdf-4538-b7ca-f8216bb98ae6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image09-1920x1080-c5aee485753231667c2b10430e2be994.jpg",
+      "md5": "c5aee485753231667c2b10430e2be994",
+      "size": 404106,
+      "uploadedDate": "2024-06-24T23:39:36.689Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image03-1920x1080-0e34bfbe8db6913b03dc71b5d67fa5ae.jpg",
+      "md5": "0e34bfbe8db6913b03dc71b5d67fa5ae",
+      "size": 615272,
+      "uploadedDate": "2024-06-24T23:39:37.141Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image01-1920x1080-70e6f300622ccfffda7df2d79673af7e.png",
+      "md5": "70e6f300622ccfffda7df2d79673af7e",
+      "size": 1744081,
+      "uploadedDate": "2024-06-24T23:39:37.701Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image02-1920x1080-7d8482afef95837fecfa3c8edd796374.png",
+      "md5": "7d8482afef95837fecfa3c8edd796374",
+      "size": 1908377,
+      "uploadedDate": "2024-06-24T23:39:38.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image04-1920x1080-f6db4f2d618969faa80ba1f69ad563ef.png",
+      "md5": "f6db4f2d618969faa80ba1f69ad563ef",
+      "size": 2201966,
+      "uploadedDate": "2024-06-24T23:39:38.922Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image05-1920x1080-d8d531ec9abc4bcc74fa56de67481f41.png",
+      "md5": "d8d531ec9abc4bcc74fa56de67481f41",
+      "size": 1195838,
+      "uploadedDate": "2024-06-24T23:39:39.330Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image07-1920x1080-84cac05a1cdadc69eba74419bd03b3a7.png",
+      "md5": "84cac05a1cdadc69eba74419bd03b3a7",
+      "size": 2487177,
+      "uploadedDate": "2024-06-24T23:39:39.835Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image08-1920x1080-ff20bbcf9cd0317a5111ac5b62395d83.png",
+      "md5": "ff20bbcf9cd0317a5111ac5b62395d83",
+      "size": 1656334,
+      "uploadedDate": "2024-06-24T23:39:40.476Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image09-1920x1080-8259b11bd7bef47ffc18e05f10339795.png",
+      "md5": "8259b11bd7bef47ffc18e05f10339795",
+      "size": 1804367,
+      "uploadedDate": "2024-06-24T23:39:41.147Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LocationonEarthMap_thumb-284x284-3a44559884bd3b4460993576442251ee.png",
+      "md5": "3a44559884bd3b4460993576442251ee",
+      "size": 136279,
+      "uploadedDate": "2024-06-24T23:39:41.636Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LocationonEarthMap_featured-894x488-d4e977c2971bb1555626db534a751098.png",
+      "md5": "d4e977c2971bb1555626db534a751098",
+      "size": 886478,
+      "uploadedDate": "2024-06-24T23:39:41.774Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image09-1920x1080-c5aee485753231667c2b10430e2be994_Snapshot.jpg",
+      "md5": "d9f973b048860825108f75e3efaf007a",
+      "size": 8657,
+      "uploadedDate": "2024-06-24T23:39:36.939Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image03-1920x1080-0e34bfbe8db6913b03dc71b5d67fa5ae_Snapshot.jpg",
+      "md5": "c6f3bf6c3969b4c0df5c054d0ce9d284",
+      "size": 10109,
+      "uploadedDate": "2024-06-24T23:39:37.462Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image01-1920x1080-70e6f300622ccfffda7df2d79673af7e_Snapshot.png",
+      "md5": "c42e732a985ae14bb26441689db7a0ae",
+      "size": 5840,
+      "uploadedDate": "2024-06-24T23:39:38.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image02-1920x1080-7d8482afef95837fecfa3c8edd796374_Snapshot.png",
+      "md5": "ed8b4cd523fda56bbbbbe4c4310a9dba",
+      "size": 6070,
+      "uploadedDate": "2024-06-24T23:39:38.690Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image04-1920x1080-f6db4f2d618969faa80ba1f69ad563ef_Snapshot.png",
+      "md5": "060e5c59576836d0fe6c0e241d1182c8",
+      "size": 6726,
+      "uploadedDate": "2024-06-24T23:39:39.225Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image05-1920x1080-d8d531ec9abc4bcc74fa56de67481f41_Snapshot.png",
+      "md5": "b94236ec491b2255cf8717541d315101",
+      "size": 5193,
+      "uploadedDate": "2024-06-24T23:39:39.598Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image07-1920x1080-84cac05a1cdadc69eba74419bd03b3a7_Snapshot.png",
+      "md5": "ac0774b03230bc80eec28135cc4022fa",
+      "size": 6566,
+      "uploadedDate": "2024-06-24T23:39:40.268Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image08-1920x1080-ff20bbcf9cd0317a5111ac5b62395d83_Snapshot.png",
+      "md5": "641abc5d5320bc59c672d0fbe2ea8172",
+      "size": 7262,
+      "uploadedDate": "2024-06-24T23:39:40.845Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image09-1920x1080-8259b11bd7bef47ffc18e05f10339795_Snapshot.png",
+      "md5": "4862d061e272cf85151ce413bcf6509d",
+      "size": 5761,
+      "uploadedDate": "2024-06-24T23:39:41.534Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fe27b9da811c4a10969e10e80a8ea1b0"
+    }
+  ],
+  "catalogNs": null
+}

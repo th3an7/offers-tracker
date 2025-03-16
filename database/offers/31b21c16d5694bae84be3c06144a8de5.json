@@ -1,0 +1,167 @@
+{
+  "id": "31b21c16d5694bae84be3c06144a8de5",
+  "namespace": "ue",
+  "title": "Wildcards Map",
+  "description": "A TMap with a wildcard input and output can store every type of data to retrieve it trough gameplaytag",
+  "longDescription": "<p>A TMap with a wildcard input and output can store every type of data to retrieve it trough gameplaytag </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wildcards-map",
+  "creationDate": "2021-12-23T03:16:58.712Z",
+  "lastModifiedDate": "2024-10-15T07:08:41.164Z",
+  "effectiveDate": "2021-12-23T03:16:58.433Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2dgxlsac96mvntankqs6bamrr4v3lx",
+    "name": "Sergio Lena"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> it gives the possibility to have a generic TMap that accept every type of data in blueprint.</li></ul><p>Code Modules: &#34;WildcardMap&#34;, &#34;Type&#34;: &#34;Runtime&#34;</p><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: (Yes/No) No</p><p>Supported Development Platforms: Win32, Win64, HoloLens, Mac, XboxOne, PS4, IOS, Android, HTML5, Linux, TVOS, Switch</p><p>Supported Target Build Platforms: 4.20&#43;</p><p>Documentation: https://github.com/sergio2692/WildcardMap/blob/main/README.md</p><p>Important/Additional Notes:</p><p>The functionality is pretty the same as a standard TMap so it&#39;s pretty easy to understand how to use it, but please note that a Map of this type doesn&#39;t store the element and it contains void pointers not recognized from the garbage collector, so if the last reference of the uproperty is inside this map then will be garbage collected. Use it to get references through blueprint without casting and to make easy passing generic data through objects.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "71a028d5-cd59-419f-8789-d5e98fa2df18"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/afadsfasd-1920x1080-c359da69d3af575effecff74e2a62ea3.png",
+      "md5": "c359da69d3af575effecff74e2a62ea3",
+      "size": 125721,
+      "uploadedDate": "2021-12-22T00:26:00.998Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WildcardsMap_thumb-284x284-f0a4889439b4d6d3eaae898a85d52b8d.png",
+      "md5": "f0a4889439b4d6d3eaae898a85d52b8d",
+      "size": 34547,
+      "uploadedDate": "2021-12-22T00:26:01.300Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WildcardsMap_featured-894x488-803306f38e031965686c6db64a65cd08.png",
+      "md5": "803306f38e031965686c6db64a65cd08",
+      "size": 125144,
+      "uploadedDate": "2021-12-22T00:26:01.350Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/afadsfasd-1920x1080-c359da69d3af575effecff74e2a62ea3_Snapshot.png",
+      "md5": "3e1773126ee6190a704efe9a2060f850",
+      "size": 1874,
+      "uploadedDate": "2021-12-22T00:26:01.203Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sfdsd-1920x1080-bb39d2e2e8c07a00b17bf54ec539a810_Snapshot.png",
+      "md5": "29edf7878cc2cee32952d3fbb8adc532",
+      "size": 2722,
+      "uploadedDate": "2021-12-18T15:43:15.631Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f6a9e1e610ee4570a3a72e6d23f5df44"
+    }
+  ],
+  "catalogNs": null
+}

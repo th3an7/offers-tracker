@@ -1,0 +1,194 @@
+{
+  "id": "4cccd3b09f644f269efa5973e0034c8e",
+  "namespace": "ue",
+  "title": "LevelController2 (Transform Levels At Runtime In Realtime)",
+  "description": "This UE C++ plugin lets you could transform UE Levels(Maps) at Runtime in Realtime.",
+  "longDescription": "<p>Preview: <a href=\"https://youtu.be/hLIs0Bou7mU\" rel=\"nofollow\">Video Demo of &#34;LevelController (Transform Levels At Runtime In Realtime)&#34; UE Plugin</a></p><p><br /></p><p>This plugin makes it possible for you to transform UE Levels (Maps) at Runtime in Realtime.</p><p>What you need to do is to call the blueprint functions of our plugin.</p><p><br /></p><p><strong>NOTE:</strong> the<strong> free version</strong> is &#34;<a href=\"https://www.unrealengine.com/marketplace/en-US/product/levelcontroller-transform-levels-at-runtime-in-realtime\" rel=\"nofollow\">LevelController1</a>&#34;(<a href=\"https://www.unrealengine.com/marketplace/en-US/product/levelcontroller-transform-levels-at-runtime-in-realtime\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/levelcontroller-transform-levels-at-runtime-in-realtime</a>)</p><ol><li>This plugin has more features than the free version: such as transforming the levels using a custom origin point(Which can be changed every tick at runtime).</li><li>And the <strong>performance </strong>of this plugin is <strong>165%</strong> of the free version.</li><li>Can Tick Actor or Tick LevelScriptActor(Level Blueprint) in Editor or at Runtime by inheriting from &#34;AExActor&#34; or using the &#34;AExLevelScriptActor&#34; class as a custom &#34;LevelScriptActor&#34; class.</li></ol>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "levelcontroller2-transform-levels-at-runtime-in-realtime",
+  "creationDate": "2022-12-29T02:16:04.246Z",
+  "lastModifiedDate": "2024-10-03T23:46:38.927Z",
+  "effectiveDate": "2022-12-29T02:16:04.214Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dddcb75639409c9160f37251d3e43e",
+    "name": "YeHaike(Add Friend on Discord.com)"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Transform UE Levels(Maps) at Runtime in Realtime.</li><li>Transform the levels using a custom origin point(Can be changed every tick at runtime).</li><li>And the <strong>performance </strong>of this plugin is <strong>165%</strong> of the free version.</li><li>Can Tick Actor or Tick LevelScriptActor(Level Blueprint) in Editor or at Runtime by inheriting from &#34;AExActor&#34; or using the &#34;AExLevelScriptActor&#34; class as a custom &#34;LevelScriptActor&#34; class.</li></ul><p>Code Modules:</p><ul><li>LevelController (Module Type: Runtime)</li></ul><p>Number of Blueprints: 1.</p><p>Number of C&#43;&#43; Classes: 4.</p><p>Network Replicated: No.</p><p>Supported Development Platforms: Windows (x64), Mac.</p><p>Supported Target Build Platforms: Windows (x86, x84), Mac, iOS, Android, HTML5.</p><p>Documentation: <a href=\"https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public\" rel=\"nofollow\">https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public</a></p><p>Example Project: <a href=\"https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public\" rel=\"nofollow\">https://gitlab.com/UE4MarketplaceSubmission_Public/LevelController_Public</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1e252438-7d06-4709-b9e5-426b172eca3d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/00-1920x1080-1f28ebc50d31646f0c823ebf5b9d8168.png",
+      "md5": "1f28ebc50d31646f0c823ebf5b9d8168",
+      "size": 1920518,
+      "uploadedDate": "2022-12-25T11:45:25.954Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-1f2872d4f3587aa604588289e6c35afb.png",
+      "md5": "1f2872d4f3587aa604588289e6c35afb",
+      "size": 2041324,
+      "uploadedDate": "2022-12-25T11:45:26.419Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-c34d98089175697de3269a1252c8c227.png",
+      "md5": "c34d98089175697de3269a1252c8c227",
+      "size": 473410,
+      "uploadedDate": "2022-12-25T11:45:26.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-2cd04db6115e6e5460cccf3f991460db.png",
+      "md5": "2cd04db6115e6e5460cccf3f991460db",
+      "size": 521247,
+      "uploadedDate": "2022-12-25T11:45:27.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-be5562e853625757d235b9ea5274c539.png",
+      "md5": "be5562e853625757d235b9ea5274c539",
+      "size": 786348,
+      "uploadedDate": "2022-12-25T11:45:27.653Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LevelController2TransformLevelsAtRuntimeInRealtime_thumb-284x284-83dedfb7439ebb7ead3d6127a0b8d910.png",
+      "md5": "83dedfb7439ebb7ead3d6127a0b8d910",
+      "size": 136166,
+      "uploadedDate": "2023-02-20T04:36:18.667Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LevelController2TransformLevelsAtRuntimeInRealtime_featured-894x488-5fd8338a73f312aa846e9b1009ce0411.png",
+      "md5": "5fd8338a73f312aa846e9b1009ce0411",
+      "size": 244175,
+      "uploadedDate": "2022-12-25T11:45:28.116Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/00-1920x1080-1f28ebc50d31646f0c823ebf5b9d8168_Snapshot.png",
+      "md5": "134dfddf315de17815b49a5037e0b195",
+      "size": 6646,
+      "uploadedDate": "2022-12-25T11:45:26.280Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-1f2872d4f3587aa604588289e6c35afb_Snapshot.png",
+      "md5": "95910d474a0b436f200fe52e4fc02609",
+      "size": 6305,
+      "uploadedDate": "2022-12-25T11:45:26.761Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-c34d98089175697de3269a1252c8c227_Snapshot.png",
+      "md5": "1a100b742b197382caa0308a64c57af3",
+      "size": 4967,
+      "uploadedDate": "2022-12-25T11:45:27.099Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-2cd04db6115e6e5460cccf3f991460db_Snapshot.png",
+      "md5": "bbef79828a84661f15e848a04f1d1958",
+      "size": 5611,
+      "uploadedDate": "2022-12-25T11:45:27.474Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-be5562e853625757d235b9ea5274c539_Snapshot.png",
+      "md5": "52ad82ee1d84422fe84f53c5fde2ed82",
+      "size": 3583,
+      "uploadedDate": "2022-12-25T11:45:27.892Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2c3a543a45944a628ac4799b6ef54792"
+    }
+  ],
+  "catalogNs": null
+}

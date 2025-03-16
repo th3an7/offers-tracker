@@ -1,0 +1,398 @@
+{
+  "id": "260aa12c180648729dec006686967d2f",
+  "namespace": "ue",
+  "title": "StylizedWeather",
+  "description": "A Dynamic Day and Night Cycle, Weather System, Stylized Sky Cloud System All in One!",
+  "longDescription": "<p>Video: <a href=\"https://youtu.be/ShTqGA8W-eM\" rel=\"nofollow\">https://youtu.be/ShTqGA8W-eM</a></p><p>RainyVideo:<a href=\"https://youtu.be/b5XRA3wFJ-w\" rel=\"nofollow\">https://youtu.be/b5XRA3wFJ-w</a></p><p>Demo:<a href=\"https://drive.google.com/file/d/13cDLmAEJm2cAcLShBxwH3DJSWAf_7oE_/view?usp&#61;share_link\" rel=\"nofollow\">https://drive.google.com/file/d/13cDLmAEJm2cAcLShBxwH3DJSWAf_7oE_/view?usp&#61;share_link</a></p><p>Document: <a href=\"https://docs.google.com/document/d/1_CM-0pPSRMj3ymedbfjCSakx8et45KuV-4p6u7ZQicA/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1_CM-0pPSRMj3ymedbfjCSakx8et45KuV-4p6u7ZQicA/edit?usp&#61;sharing</a></p><p>Document(Japanese):<a href=\"https://docs.google.com/document/d/1IRBNXX6S2homQCUQ5-c57iOJ1-Hfel3YMTZDNN4EEuo/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/1IRBNXX6S2homQCUQ5-c57iOJ1-Hfel3YMTZDNN4EEuo/edit?usp&#61;sharing</a></p><p><br /></p><p><a href=\"https://www.unrealengine.com/marketplace/ja/profile/Notokeke?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">My other products</a></p><p><br /></p><p>Stylized Weather is pack that helps you to add some sky effects for environment to your game. </p><p>This is simple to use, Add customizable Weather.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylizedweather",
+  "creationDate": "2020-10-13T17:19:22.235Z",
+  "lastModifiedDate": "2024-10-09T07:29:25.381Z",
+  "effectiveDate": "2020-10-13T17:22:30.229Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-99uzunm8xqmurkr97q6b2qgqb2ppda",
+    "name": "Notokeke"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features</p><p>・Stylized Sky</p><p>・Time of Day System</p><p>・Weather Change System(Seamlessly, you can set the probability of the weather.)</p><p>・4 Weather Preset(Sunny,Cloudy,Rainy,Thunder)</p><p>・Weather LightColorSetting(DirectionalLight,SkyLight,Fog)</p><p>・Random Wind</p><p><br /></p><p>&lt;Patch Notes&gt;</p><p><br /></p><p>October 20, 2021</p><p>・Added Time Skip function. You can specify the time and weather during the game.</p><p>・Organized the nodes.</p><p><br /></p><p>December 20, 2021</p><p>・I added a BP that can call an event when the weather changes.</p><p>・Also added a BP that can play effects and SE as a sample of the above.　&#34;BP_WeatherEvent_Effect&#34;</p><p>・The sun and moon were changed from material billboards to billboards in the Sprite node of the material.</p><p>・Added a parameter to randomize the wind direction or not.</p><p>・Added a parameter to specify the wind direction.</p><p><br /></p><p>January 11, 2022</p><p>・Fixed Camera Manager warning in the output log.</p><p><br /></p><p><strong>Network Replicated: No</strong></p><p><strong>Supported Development Platforms:</strong> Windows</p><p><strong>Tested Platforms:</strong> Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2023-08-21T13:03:30.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 90,
+      "comment": null
+    },
+    {
+      "id": "1152",
+      "name": "MATCH 3",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:34.228Z",
+      "updated": "2019-06-20T11:59:34.228Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "21a0542c-d0af-4743-81da-d53b6f18e48d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2021-05-27 23-43-25TrimMoment-1920x1080-ea7d018d354bbcb0d973b6a37a8d8879.jpg",
+      "md5": "ea7d018d354bbcb0d973b6a37a8d8879",
+      "size": 1768276,
+      "uploadedDate": "2021-05-27T15:03:18.848Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00023-1920x1080-e79aa3b291d143a29611701caea20eda.png",
+      "md5": "e79aa3b291d143a29611701caea20eda",
+      "size": 2196712,
+      "uploadedDate": "2020-10-12T17:16:57.767Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00024-1920x1080-14bc136eace0d1e06575f5fdc4c3cbf4.png",
+      "md5": "14bc136eace0d1e06575f5fdc4c3cbf4",
+      "size": 2207695,
+      "uploadedDate": "2020-10-12T17:16:58.413Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00026-1920x1080-0068445a013d24a012cbb072094270eb.png",
+      "md5": "0068445a013d24a012cbb072094270eb",
+      "size": 2196787,
+      "uploadedDate": "2020-10-12T17:16:59.393Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00025-1920x1080-7debfce48077e86fcaab64ecdb7dee2e.png",
+      "md5": "7debfce48077e86fcaab64ecdb7dee2e",
+      "size": 2149266,
+      "uploadedDate": "2020-10-12T17:17:00.025Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00035-1920x1080-aa5408e8c5115bc56e316f45eae82191.png",
+      "md5": "aa5408e8c5115bc56e316f45eae82191",
+      "size": 1696068,
+      "uploadedDate": "2020-10-12T17:17:00.739Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00021-1920x1080-eb41b66cba906cb6b93ed244608d05ec.png",
+      "md5": "eb41b66cba906cb6b93ed244608d05ec",
+      "size": 1956298,
+      "uploadedDate": "2020-10-12T17:17:01.643Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00020-1920x1080-9fdfa64efb09fa61c175fdbd2a0f9882.png",
+      "md5": "9fdfa64efb09fa61c175fdbd2a0f9882",
+      "size": 1853678,
+      "uploadedDate": "2020-10-12T17:17:02.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00029-1920x1080-7872e59351cda57dee4bc3795a20d081.png",
+      "md5": "7872e59351cda57dee4bc3795a20d081",
+      "size": 2215174,
+      "uploadedDate": "2020-10-12T17:17:02.952Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00030-1920x1080-6cce86bfd2f4b52551024f71f9fb310b.png",
+      "md5": "6cce86bfd2f4b52551024f71f9fb310b",
+      "size": 2219852,
+      "uploadedDate": "2020-10-12T17:17:03.633Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00022-1920x1080-ec349ef86a5411041a9a9a87da773573.png",
+      "md5": "ec349ef86a5411041a9a9a87da773573",
+      "size": 2293356,
+      "uploadedDate": "2020-10-12T17:17:04.427Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedWeather_thumb-284x284-d3235a3514c91ba4112c965aa34745f7.png",
+      "md5": "d3235a3514c91ba4112c965aa34745f7",
+      "size": 120619,
+      "uploadedDate": "2020-10-12T17:17:05.462Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedWeather_featured-894x488-5271545c69e92a3d4910f1328307109b.png",
+      "md5": "5271545c69e92a3d4910f1328307109b",
+      "size": 420021,
+      "uploadedDate": "2020-10-12T17:17:05.540Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2021-05-27 23-43-25TrimMoment-1920x1080-ea7d018d354bbcb0d973b6a37a8d8879_Snapshot.jpg",
+      "md5": "58aa14697580879096676a802e3ce255",
+      "size": 4276,
+      "uploadedDate": "2021-05-27T15:03:19.086Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00023-1920x1080-e79aa3b291d143a29611701caea20eda_Snapshot.png",
+      "md5": "b051362dca18fe49adfab7f05dfb06ee",
+      "size": 5227,
+      "uploadedDate": "2020-10-12T17:16:58.214Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00024-1920x1080-14bc136eace0d1e06575f5fdc4c3cbf4_Snapshot.png",
+      "md5": "b5ccc8e53a0b92ee01de50776c45caf6",
+      "size": 5423,
+      "uploadedDate": "2020-10-12T17:16:58.815Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00026-1920x1080-0068445a013d24a012cbb072094270eb_Snapshot.png",
+      "md5": "21a0eca798e8d32a64637659bb3535e8",
+      "size": 5347,
+      "uploadedDate": "2020-10-12T17:16:59.817Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00025-1920x1080-7debfce48077e86fcaab64ecdb7dee2e_Snapshot.png",
+      "md5": "7d5bcded9dba5e893c7d3194042fa846",
+      "size": 5145,
+      "uploadedDate": "2020-10-12T17:17:00.470Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00035-1920x1080-aa5408e8c5115bc56e316f45eae82191_Snapshot.png",
+      "md5": "ca98395c93984e3fdc788cb03a9a31c7",
+      "size": 2823,
+      "uploadedDate": "2020-10-12T17:17:01.116Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00021-1920x1080-eb41b66cba906cb6b93ed244608d05ec_Snapshot.png",
+      "md5": "a012cdbafd18a7f1b3dfdf2ad0652a4a",
+      "size": 2967,
+      "uploadedDate": "2020-10-12T17:17:02.086Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00020-1920x1080-9fdfa64efb09fa61c175fdbd2a0f9882_Snapshot.png",
+      "md5": "d8e86cd821e4850d395a1e99c367b887",
+      "size": 2709,
+      "uploadedDate": "2020-10-12T17:17:02.736Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00029-1920x1080-7872e59351cda57dee4bc3795a20d081_Snapshot.png",
+      "md5": "0ad3c71d81f2e675ad0b62fbbe33f40b",
+      "size": 5001,
+      "uploadedDate": "2020-10-12T17:17:03.411Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00030-1920x1080-6cce86bfd2f4b52551024f71f9fb310b_Snapshot.png",
+      "md5": "6d01b8815fcf0c519ed8ef3de8bbf4b8",
+      "size": 4765,
+      "uploadedDate": "2020-10-12T17:17:04.185Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00022-1920x1080-ec349ef86a5411041a9a9a87da773573_Snapshot.png",
+      "md5": "074b3d4637b53944099555bad2275658",
+      "size": 5657,
+      "uploadedDate": "2020-10-12T17:17:05.351Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dbc8859a37994d8cbe8df9c0d340ac40"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,224 @@
+{
+  "id": "c8ed065a3c8c455d9224c4011490031e",
+  "namespace": "ue",
+  "title": "Procedural Column Blueprint",
+  "description": "A blueprint for procedurally generating columns using geometry script.",
+  "longDescription": "<p>Generate ancient column meshes in the Unreal Engine editor using Geometry Script. The blueprint exposes 35 parameters to control the shape and features of the column. Inspired by the Level Design Tool Objects used in the Lyra Sample Game.</p><p>Showcase: <a href=\"https://youtu.be/nWbKQFBGHms\" rel=\"nofollow\">https://youtu.be/nWbKQFBGHms</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-column-blueprint",
+  "creationDate": "2022-06-27T19:10:35.921Z",
+  "lastModifiedDate": "2024-10-09T06:50:58.711Z",
+  "effectiveDate": "2022-06-27T19:10:46.852Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ju5tbenrhb9xytjdrxpsgy2dbjr6vm",
+    "name": "Ludwig Arts"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Generate procedural columns from a list of input parameters</li><li>35 parameters with defined ranges: general (6), column base (18), column shaft (6), column capital (5)</li><li>Parameters to freeze column generation (fast transforms) and disable flutes (faster prototyping)</li><li>The steps parameter allows for any polygon shape of the column (e.g. triangular, square, round)</li><li>Descriptions for every input parameter and main blueprint operations</li><li>Automated UVs, normals, mesh cleanup (no holes or hidden vertices)</li><li>Material for 3D texture projection (ignores UVs)</li><li>Inspired by the Level Design Tool Objects used in the Lyra Sample Game</li></ul><p>Number of Blueprints: 1</p><p>Supported Development Platforms: Windows</p><p>Supported Engine Version: 5.0, 5.1, 5.2 (later versions not tested)</p><p>Important/Additional Notes:</p><ul><li>Dependency: Geometry Script is an experimental plugin and needs to be enabled in the target project before migrating.</li><li>The computational cost of generating a column depends on the number of faces and flutes, as they are repeated to form the main cylinder.</li><li>The procedural generation can be frozen using an inbuilt DynamicMesh boolean variable.</li><li>The UVs are auto-generated to the best of the author&#39;s ability, but there may be some visible seams or distortions.</li><li>This is a student project.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7165abdc-d06b-4101-a944-7e80b1944b1e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-1553c5b1b3173863db67cda44cc0667a.png",
+      "md5": "1553c5b1b3173863db67cda44cc0667a",
+      "size": 2981952,
+      "uploadedDate": "2022-06-26T16:08:13.752Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-99ad3ceb53eab7f11dd4c0ba93347ad9.png",
+      "md5": "99ad3ceb53eab7f11dd4c0ba93347ad9",
+      "size": 617997,
+      "uploadedDate": "2022-06-26T16:08:14.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-19689e1d8033828fccc0af7663957c7c.png",
+      "md5": "19689e1d8033828fccc0af7663957c7c",
+      "size": 2932197,
+      "uploadedDate": "2022-06-26T16:08:14.895Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-41d55eca484ed72d75fb9e84c35c7871.png",
+      "md5": "41d55eca484ed72d75fb9e84c35c7871",
+      "size": 2765381,
+      "uploadedDate": "2022-06-26T16:08:15.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralColumnBlueprint_thumb-284x284-c25b33b03773a7ed97c165c44e76a27d.png",
+      "md5": "c25b33b03773a7ed97c165c44e76a27d",
+      "size": 138663,
+      "uploadedDate": "2022-06-26T16:08:16.330Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralColumnBlueprint_featured-894x488-d9cbba9785d14a63192c420a8c7acfe5.png",
+      "md5": "d9cbba9785d14a63192c420a8c7acfe5",
+      "size": 633813,
+      "uploadedDate": "2022-06-26T16:08:16.446Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-1553c5b1b3173863db67cda44cc0667a_Snapshot.png",
+      "md5": "9c47251c06903f7d68c259ba619e432f",
+      "size": 6140,
+      "uploadedDate": "2022-06-26T16:08:14.254Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-99ad3ceb53eab7f11dd4c0ba93347ad9_Snapshot.png",
+      "md5": "31aea9ff59698b8e1b160f76dbe3f0f0",
+      "size": 4298,
+      "uploadedDate": "2022-06-26T16:08:14.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-19689e1d8033828fccc0af7663957c7c_Snapshot.png",
+      "md5": "bd80546bdf41410cb846e2c90c931148",
+      "size": 6440,
+      "uploadedDate": "2022-06-26T16:08:15.440Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-41d55eca484ed72d75fb9e84c35c7871_Snapshot.png",
+      "md5": "90d8443a7d75a4f1c8d3c7705c7afa2c",
+      "size": 5509,
+      "uploadedDate": "2022-06-26T16:08:16.130Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6b3c6b3f4218491c997402bc546c6fb8"
+    }
+  ],
+  "catalogNs": null
+}

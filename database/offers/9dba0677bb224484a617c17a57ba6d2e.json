@@ -1,0 +1,435 @@
+{
+  "id": "9dba0677bb224484a617c17a57ba6d2e",
+  "namespace": "ue",
+  "title": "Generic Input System - Reusable Input Handling and Flexible Input Management.",
+  "description": "Supercharged EnhancedInput with Reusable Input Handling, Animation-based Input Buffer, Simplified Input Management with GameplayTags, and more.",
+  "longDescription": "<p>Generic Input System(<strong>GIPS) </strong>, is a further enhancement of the EnhancedInput module of Unreal Engine, providing a simple and reusable way to respond to input events of EnhancedInput, and providing a set of mechanisms for more flexible management and use of input in games.</p><p>It supports development in both Blueprints and C&#43;&#43;.</p><p>Make sure you have a basic understanding of GameplayTags and EnhancedInput before using the input system, this system just provides a more flexible and powerful way of using them.</p><p><br /></p><p>Documentation: <a href=\"https://k12oekrxfs.larksuite.com/wiki/D8swwfo3jik2elkU6TOuOzNFsah\" rel=\"nofollow\">English</a> <a href=\"https://yuewudev.feishu.cn/wiki/FhPhwuubti9plpkDg99cHXp9nig\" rel=\"nofollow\">中文文档</a></p><p>Changelog:<a href=\"https://k12oekrxfs.larksuite.com/wiki/GLMMw4VrciuYRVkhA4Juz5RvsQg\" rel=\"nofollow\">English</a> <a href=\"https://yuewudev.feishu.cn/wiki/WriXwOlUJixJy1kAyNIcT9sPnTh\" rel=\"nofollow\">中文</a></p><p>ProvidedFiles: <a href=\"https://drive.google.com/drive/folders/1vB--bvSW45kGx7BuznzQ4FhoxjTcyuIc?usp&#61;sharing\" rel=\"nofollow\">GoogleDrive</a> <a href=\"https://pan.baidu.com/s/1afNZGXB7CZ-mtI9k23RAmw?pwd&#61;gips\" rel=\"nofollow\">百度网盘</a></p><p>Support: <a href=\"https://discord.gg/xXgyPh3UVn\" rel=\"nofollow\">Discord</a></p><p><br /></p><p>Features:</p><ul><li>Fully support the EnhancedInput system, simplifying the process and workload required for processing inputs.</li><li>Provides an InputSystemComponent for input setup and management.</li><li>Offers a series of built-in InputProcessors to handle common game inputs such as movement and camera control. It also provides a simple API for creating custom input processors based on your needs.</li><li>Features an animation-based input buffer system, allowing you to save your input at any point during animation playback and trigger it at the appropriate moment.</li><li>Configuring and managing inputs in the form of InputTags greatly simplifies the complexity of development by allowing the use of GameplayTags to handle the determination of input logic (like GAS) without having to write a lot of If/Else statements.</li></ul><p><br /></p><p><br /></p><p><a href=\"https://orbital-market.com/product/generic-input-system-reusable-input-handling-and-flexible-input-management\" rel=\"nofollow\"><strong>Orbital Market</strong> <strong>Link</strong></a></p><p>(Orbital Market is a fast search engine for the Unreal marketplace)</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "generic-input-system-reusable-input-handling-and-flexible-input-management",
+  "creationDate": "2024-05-15T00:34:08.805Z",
+  "lastModifiedDate": "2024-10-13T01:25:21.560Z",
+  "effectiveDate": "2024-05-15T00:34:45.337Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5da7ae6c8442648e61c31896182910",
+    "name": "YuewuDev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li>Fully support the EnhancedInput system, simplifying the process and workload required for processing inputs.</li><li>Provides an InputSystemComponent for input setup and management.</li><li>Offers a series of built-in InputProcessors to handle common game inputs such as movement and camera control. It also provides a simple API for creating custom input processors based on your needs.</li><li>Features an animation-based input buffer system, allowing you to save your input at any point during animation playback and trigger it at the appropriate moment.</li><li>Configuring and managing inputs in the form of InputTags greatly simplifies the complexity of development by allowing the use of GameplayTags to handle the determination of input logic (like GAS) without having to write a lot of If/Else statements.</li></ul><p><br /></p><p>Code Modules: </p><ul><li> GenericInputSystem(Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 10&#43; (Resuable input processors, sample content etc.)</p><p>Number of C&#43;&#43; Classes: 10</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64,Android,Linux</p><p>Important/Additional Notes: Learn more about my product <a href=\"https://h1tg7zaa1my.feishu.cn/wiki/OXduwO1ZFi2F5bkXdXpcKOUvnSf\" rel=\"nofollow\">here</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "false"
+    },
+    {
+      "key": "FabListingId",
+      "value": "a050fe5e-2c18-49bf-be92-4f946fa4ebe4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-22ac65effd133874742ed15e0cc8e1a4.png",
+      "md5": "22ac65effd133874742ed15e0cc8e1a4",
+      "size": 1076769,
+      "uploadedDate": "2024-05-09T01:24:50.881Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-93d2237cb20c05b0ad06eef4df2f592f.png",
+      "md5": "93d2237cb20c05b0ad06eef4df2f592f",
+      "size": 795398,
+      "uploadedDate": "2024-05-09T01:24:51.359Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-d920f38dc37421f7e65363dcf5aaa6e7.png",
+      "md5": "d920f38dc37421f7e65363dcf5aaa6e7",
+      "size": 745147,
+      "uploadedDate": "2024-05-09T01:24:51.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-7f825937390c9101a984a08440d2fccc.png",
+      "md5": "7f825937390c9101a984a08440d2fccc",
+      "size": 1039028,
+      "uploadedDate": "2024-05-09T01:24:52.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-dd3f030860bb85ed30b1ed27f844d9f4.png",
+      "md5": "dd3f030860bb85ed30b1ed27f844d9f4",
+      "size": 800028,
+      "uploadedDate": "2024-05-09T01:24:52.875Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-3c006ba8b07b74d24d4fd917c5ccbf37.png",
+      "md5": "3c006ba8b07b74d24d4fd917c5ccbf37",
+      "size": 1147531,
+      "uploadedDate": "2024-05-09T01:24:53.386Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-2b1a705eaf225a9075afd1b71c7c0aa8.png",
+      "md5": "2b1a705eaf225a9075afd1b71c7c0aa8",
+      "size": 1086758,
+      "uploadedDate": "2024-05-09T01:24:53.915Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GenericInputSystemReusableInputHandlingandFlexibleInputManagement_thumb-284x284-6a4b48bc2d7dbb1344c38e054cf62fb5.png",
+      "md5": "6a4b48bc2d7dbb1344c38e054cf62fb5",
+      "size": 54716,
+      "uploadedDate": "2024-05-09T01:18:22.661Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GenericInputSystemReusableInputHandlingandFlexibleInputManagement_featured-894x488-82f864f0f15ff9908a2b6757f22195f4.png",
+      "md5": "82f864f0f15ff9908a2b6757f22195f4",
+      "size": 307516,
+      "uploadedDate": "2024-05-09T01:24:54.339Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-22ac65effd133874742ed15e0cc8e1a4_Snapshot.png",
+      "md5": "7da0853b2b718855c621fbf1c60b5e1f",
+      "size": 8344,
+      "uploadedDate": "2024-05-09T01:24:51.196Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-93d2237cb20c05b0ad06eef4df2f592f_Snapshot.png",
+      "md5": "fa68a795c7c40b1bbd8c2d13f410a98b",
+      "size": 6875,
+      "uploadedDate": "2024-05-09T01:24:51.653Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-d920f38dc37421f7e65363dcf5aaa6e7_Snapshot.png",
+      "md5": "6ff746d961defdc056817e81bb296b81",
+      "size": 7272,
+      "uploadedDate": "2024-05-09T01:24:52.254Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-7f825937390c9101a984a08440d2fccc_Snapshot.png",
+      "md5": "866ab3ce248e2feca32a663d4be945b9",
+      "size": 6551,
+      "uploadedDate": "2024-05-09T01:24:52.725Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-dd3f030860bb85ed30b1ed27f844d9f4_Snapshot.png",
+      "md5": "3212a54c0b42d3d3e25813ad2e309b91",
+      "size": 6751,
+      "uploadedDate": "2024-05-09T01:24:53.143Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-3c006ba8b07b74d24d4fd917c5ccbf37_Snapshot.png",
+      "md5": "b3548c1aa5faea0ca847a2437a4d637e",
+      "size": 7793,
+      "uploadedDate": "2024-05-09T01:24:53.708Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-2b1a705eaf225a9075afd1b71c7c0aa8_Snapshot.png",
+      "md5": "6889b81f1909bc67369a4b57e3d0748f",
+      "size": 6859,
+      "uploadedDate": "2024-05-09T01:24:54.194Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-93d2237cb20c05b0ad06eef4df2f592f_Snapshot.png",
+      "md5": "fa68a795c7c40b1bbd8c2d13f410a98b",
+      "size": 6875,
+      "uploadedDate": "2024-05-09T01:18:20.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-d920f38dc37421f7e65363dcf5aaa6e7_Snapshot.png",
+      "md5": "6ff746d961defdc056817e81bb296b81",
+      "size": 7272,
+      "uploadedDate": "2024-05-09T01:18:20.598Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-7f825937390c9101a984a08440d2fccc_Snapshot.png",
+      "md5": "866ab3ce248e2feca32a663d4be945b9",
+      "size": 6551,
+      "uploadedDate": "2024-05-09T01:18:21.072Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-dd3f030860bb85ed30b1ed27f844d9f4_Snapshot.png",
+      "md5": "3212a54c0b42d3d3e25813ad2e309b91",
+      "size": 6751,
+      "uploadedDate": "2024-05-09T01:18:21.526Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-3c006ba8b07b74d24d4fd917c5ccbf37_Snapshot.png",
+      "md5": "b3548c1aa5faea0ca847a2437a4d637e",
+      "size": 7793,
+      "uploadedDate": "2024-05-09T01:18:22.115Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-2b1a705eaf225a9075afd1b71c7c0aa8_Snapshot.png",
+      "md5": "6889b81f1909bc67369a4b57e3d0748f",
+      "size": 6859,
+      "uploadedDate": "2024-05-09T01:18:22.588Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-93d2237cb20c05b0ad06eef4df2f592f_Snapshot.png",
+      "md5": "fa68a795c7c40b1bbd8c2d13f410a98b",
+      "size": 6875,
+      "uploadedDate": "2024-05-08T16:25:57.732Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-d920f38dc37421f7e65363dcf5aaa6e7_Snapshot.png",
+      "md5": "6ff746d961defdc056817e81bb296b81",
+      "size": 7272,
+      "uploadedDate": "2024-05-08T16:25:58.168Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-7f825937390c9101a984a08440d2fccc_Snapshot.png",
+      "md5": "866ab3ce248e2feca32a663d4be945b9",
+      "size": 6551,
+      "uploadedDate": "2024-05-08T16:25:58.661Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-dd3f030860bb85ed30b1ed27f844d9f4_Snapshot.png",
+      "md5": "3212a54c0b42d3d3e25813ad2e309b91",
+      "size": 6751,
+      "uploadedDate": "2024-05-08T16:25:59.145Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-3c006ba8b07b74d24d4fd917c5ccbf37_Snapshot.png",
+      "md5": "b3548c1aa5faea0ca847a2437a4d637e",
+      "size": 7793,
+      "uploadedDate": "2024-05-08T16:25:59.620Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-5ceed5d6a3c1b6f8d7e75bef38e87758_Snapshot.png",
+      "md5": "0f87786d825bf06f02b2ea8592c16ae6",
+      "size": 6849,
+      "uploadedDate": "2024-05-08T16:26:00.182Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-93d2237cb20c05b0ad06eef4df2f592f_Snapshot.png",
+      "md5": "fa68a795c7c40b1bbd8c2d13f410a98b",
+      "size": 6875,
+      "uploadedDate": "2024-05-06T11:43:42.613Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-86f56abc0ce812124ab978d0c9cbb12c_Snapshot.png",
+      "md5": "1a38e1bab23de2a8b0dc6f930c857936",
+      "size": 6988,
+      "uploadedDate": "2024-05-06T11:43:43.025Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-beddb8fcbe143051ccb8f51400c45645_Snapshot.png",
+      "md5": "634c25c478aea3080275e31b632c6d35",
+      "size": 6124,
+      "uploadedDate": "2024-05-06T10:25:33.928Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-b9c6f861be858b71435584306534a362_Snapshot.png",
+      "md5": "1854383b6e1604eddb385fd692ae5dc2",
+      "size": 5410,
+      "uploadedDate": "2024-05-06T10:25:34.436Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/-1920x1080-e0fcfc40d1e416be79f96c79a329055b_Snapshot.png",
+      "md5": "79a62384147037879fe9e9f50ff02271",
+      "size": 4596,
+      "uploadedDate": "2024-05-06T09:12:36.056Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3422b0a5bd2c4538ae96006d26dd0572"
+    }
+  ],
+  "catalogNs": null
+}

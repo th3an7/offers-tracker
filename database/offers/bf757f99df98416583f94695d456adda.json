@@ -1,0 +1,188 @@
+{
+  "id": "bf757f99df98416583f94695d456adda",
+  "namespace": "ue",
+  "title": "Data Table Nodes",
+  "description": "This plugin exposes some very useful nodes to blueprints for handling Data Tables",
+  "longDescription": "<p>Data Tables are an extremely useful tool inside Unreal Engine but sadly blueprints does not have the same functionality that you get inside C&#43;&#43;. This plugin was created to expose those features into blueprints for everyone to use. Using the power of K2 nodes, you can easily add, remove, and change the data inside a data table while the nodes will automatically update to the variables in your struct.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "data-table-nodes",
+  "creationDate": "2021-11-21T00:20:28.370Z",
+  "lastModifiedDate": "2024-10-15T08:34:35.513Z",
+  "effectiveDate": "2021-11-21T00:20:28.336Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5lz5ywexly7pzbghupuz6h3ql5famm",
+    "name": "SovereignDev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Editor and Runtime</li><li> Add to Data Tables</li><li> Remove from Tables</li><li>Get Length of Data Tables</li></ul><p><br /></p><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> DataTableNodes[Runtime]</li><li> DataTableNodesEditor[Editor]</li></ul><p><br /></p><p>Documentation: https://app.milanote.com/1MOdqH1S2Bad6S?p&#61;PkSqswQuaBF</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: (Windows)</p><p>Supported Target Build Platforms: (Windows)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2023-08-21T17:22:53.154Z",
+      "status": "ACTIVE",
+      "referenceCount": 416,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2f7e1f6c-2bd9-4950-ae28-8d1e2ef95971"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DTN01-1920x1080-a1c5bba8b83ae50b8c40029770a56f5b.jpg",
+      "md5": "a1c5bba8b83ae50b8c40029770a56f5b",
+      "size": 309684,
+      "uploadedDate": "2021-11-19T03:12:16.623Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DTN03-1920x1080-bdbf1d0595e977ddb68d4c3d6abab3e7.jpg",
+      "md5": "bdbf1d0595e977ddb68d4c3d6abab3e7",
+      "size": 494737,
+      "uploadedDate": "2021-11-19T03:12:16.945Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DTN02-1920x1080-d39fd96de36794ee9f8e8b9a15107613.jpg",
+      "md5": "d39fd96de36794ee9f8e8b9a15107613",
+      "size": 354568,
+      "uploadedDate": "2021-11-19T03:12:17.262Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DTN04-1920x1080-b38f1864fefa87994633779dd467975e.jpg",
+      "md5": "b38f1864fefa87994633779dd467975e",
+      "size": 503706,
+      "uploadedDate": "2021-11-19T03:12:17.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DataTableNodes_thumb-284x284-8d5e10e731056844a7d5c9b9f4deae65.png",
+      "md5": "8d5e10e731056844a7d5c9b9f4deae65",
+      "size": 61612,
+      "uploadedDate": "2021-11-19T03:12:17.920Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DataTableNodes_featured-894x488-73f2957b4827d13cd921d99c88d95678.png",
+      "md5": "73f2957b4827d13cd921d99c88d95678",
+      "size": 277623,
+      "uploadedDate": "2021-11-19T03:12:17.979Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DTN01-1920x1080-a1c5bba8b83ae50b8c40029770a56f5b_Snapshot.jpg",
+      "md5": "0064772b3f2db7aa31e8df781e68221f",
+      "size": 4505,
+      "uploadedDate": "2021-11-19T03:12:16.831Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DTN03-1920x1080-bdbf1d0595e977ddb68d4c3d6abab3e7_Snapshot.jpg",
+      "md5": "a8be3424df07c72144c7fee4cec4d58b",
+      "size": 4839,
+      "uploadedDate": "2021-11-19T03:12:17.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DTN02-1920x1080-d39fd96de36794ee9f8e8b9a15107613_Snapshot.jpg",
+      "md5": "e8063a9cd351d2cb7ea42be9277cad74",
+      "size": 4226,
+      "uploadedDate": "2021-11-19T03:12:17.476Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DTN04-1920x1080-b38f1864fefa87994633779dd467975e_Snapshot.jpg",
+      "md5": "75927a2c3c7f3c7e868b0e33903ffc67",
+      "size": 3055,
+      "uploadedDate": "2021-11-19T03:12:17.867Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d987371717284947a60e69cca8fb0996"
+    }
+  ],
+  "catalogNs": null
+}

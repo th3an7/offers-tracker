@@ -1,0 +1,383 @@
+{
+  "id": "faa5c1ffc4d642388fef1f71c53075d1",
+  "namespace": "ue",
+  "title": "Transformorph Multiplayer Skeletal Mesh Customization",
+  "description": "Morpheus Transformorph is Real-time Multiplayer Skeletal Mesh Customization System using Bone Transformorphing.",
+  "longDescription": "<p><strong>Morpheus Transformorph</strong> is Real-time Multiplayer Skeletal Mesh Customization System using Bone Transformorphing.</p><p><br /></p><p>NEW! <a href=\"https://drive.google.com/file/d/1MgaxceixYO9tiVNnALtHybm_pydX-buZ/view?usp&#61;sharing\" rel=\"nofollow\">Transformorph 2.0 UE5.0 Plugin Content Pack with Manny &amp; Quinn</a> (Plugin Not Included).</p><p><br /></p><p><strong>Transformorph ANY Skeletal Mesh:</strong></p><ul><li>Humanoids &amp; Facial Rigs</li><li>Creatures: Multi-peds / Non-Humanoids</li><li>Vehicles &amp; Machines</li><li>Modular Skeletal Meshes</li><li>Weapons &amp; Props</li><li>Static Meshes Attached to Skeletal Mesh</li></ul><p><br /></p><p><strong>Videos:</strong></p><ol><li>Showcase: <a href=\"https://youtu.be/jHQwy8ced1E\" rel=\"nofollow\">https://youtu.be/jHQwy8ced1E</a></li><li>Showcase: <a href=\"https://youtu.be/z9D8BQkdbp0\" rel=\"nofollow\">https://youtu.be/z9D8BQkdbp0</a></li><li>Showcase: <a href=\"https://youtu.be/rsUVVXWR6L4\" rel=\"nofollow\">https://youtu.be/rsUVVXWR6L4</a></li></ol><ul><li>Tutorial: <a href=\"https://youtu.be/aOO37gajaYc\" rel=\"nofollow\">https://youtu.be/aOO37gajaYc</a></li></ul><p><br /></p><p><strong>Support:</strong></p><ul><li>Discord: <a href=\"https://discord.com/invite/m8bRwRk\" rel=\"nofollow\">https://discord.com/invite/m8bRwRk</a></li><li>Email: <a href=\"mailto:mp-support&#64;thegamedevstore.com\" rel=\"nofollow\">mailto:mp-support&#64;thegamedevstore.com</a></li></ul><p><br /></p><p><strong>Website: </strong><a href=\"https://thegamedevstore.com\" rel=\"nofollow\">https://thegamedevstore.com</a></p><p><br /></p><p><strong>Features:</strong></p><ul><li>Skeletal Detection/Auto-generation. Works with ANY SkeletalMesh.</li><li>Host &amp; Dedicated Server Multiplayer Replication &amp; Single Player.</li><li>Multiple Configuration Save/Load.</li><li>Random Property Generation.</li><li>Real-time Player Customization. (Collaborative Edit Supported)</li><li>Design-time Customization / Convert To Static Mesh in Unreal Editor.</li><li>Decoupled GUI Logic.</li></ul><p><br /></p><p><strong>Benefits:</strong></p><ul><li>Instant Customization of Characters, Weapons, Vehicles, Props. Works with ANY SkeletalMesh!</li><li>Share Configurations over Network.</li><li>Stylize existing Skeletal Mesh Models...Save Time &amp; Money.</li><li>Deform Creature Characters... Create Monster large variety from single mesh.</li><li>Use Skeleton Bones Like Morph Targets.</li><li>Automatically Scales Physics Asset (PHAT) Bodies and Collision Detection.</li><li>No Modeling Software / DCC Required.</li><li>Export Transformorphed Static Meshes From UnrealEditor to DCC for additional customization.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "transformorph-multiplayer-skeletal-mesh-customization",
+  "creationDate": "2020-07-23T21:13:29.269Z",
+  "lastModifiedDate": "2024-10-22T21:11:52.394Z",
+  "effectiveDate": "2020-07-23T21:15:33.617Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-f2ktvf2kl8aqrlx8tnen7yzycnw7ry",
+    "name": "TheGameDevStore.com"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Blueprints</strong>:</p><ul><li>All Features implemented in native Blueprints as Components to easily access, modify, extend, repurpose.</li><li>Transformorph AnimBP Node.</li><li>Transformorph Property Object BP Node supporting Programmable Transformorph Logic.</li></ul><p><br /></p><p><strong>Code Modules:</strong></p><ul><li>Morpheus, Runtime </li><li>MorpheusEditor, Editor</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 2</p><p>Plugin Content: YES</p><p>Number of Blueprints: 42</p><p>Network Replicated: YES</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: <a href=\"https://docs.google.com/presentation/d/e/2PACX-1vQ7bnQ8VNtZuot-uWl2cK_o3aNma-x3V_yc0HwZVRN2NMusFRuuF4Pc3S7ppecKS0lFWXX84Cz7k7o5/pub?start&#61;false&amp;loop&#61;false&amp;delayms&#61;3000\" rel=\"nofollow\">Documentation on Google</a></p><p>Example Project: See Plugin Content.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a3e88ff4-e3f1-48b6-a4c1-273e68d40918"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Transformorph1-1920x1080-bb193d93dc5b4872877a58dd8e438c91.png",
+      "md5": "bb193d93dc5b4872877a58dd8e438c91",
+      "size": 1940083,
+      "uploadedDate": "2020-07-23T06:00:52.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Transformorph2-1920x1080-22f50dffc195e2b1f3de7493e7e35b96.png",
+      "md5": "22f50dffc195e2b1f3de7493e7e35b96",
+      "size": 1796738,
+      "uploadedDate": "2020-07-23T06:00:53.509Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Transformorph5.5-1920x1080-1fd3ab794d3416cf15b5b5f149b8d292.png",
+      "md5": "1fd3ab794d3416cf15b5b5f149b8d292",
+      "size": 512857,
+      "uploadedDate": "2020-07-23T06:00:54.404Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Transformorph5-1920x1080-584718935374c2ad3cf48873861c65fd.png",
+      "md5": "584718935374c2ad3cf48873861c65fd",
+      "size": 809085,
+      "uploadedDate": "2020-07-23T06:00:55.067Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Transformorph3-1920x1080-3bda99f1b71df3c50052556392e19bf3.png",
+      "md5": "3bda99f1b71df3c50052556392e19bf3",
+      "size": 1013939,
+      "uploadedDate": "2020-07-23T06:00:55.829Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Transformorph4-1920x1080-76f4594505cd3db7ff53e5b2e5d52880.png",
+      "md5": "76f4594505cd3db7ff53e5b2e5d52880",
+      "size": 1085362,
+      "uploadedDate": "2020-07-23T06:00:56.735Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Transformorph6-1920x1080-9cddbcbe21e4ed843b88bde93f7a9d6c.png",
+      "md5": "9cddbcbe21e4ed843b88bde93f7a9d6c",
+      "size": 619456,
+      "uploadedDate": "2020-07-23T06:00:57.494Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TransformorphMultiplayerSkeletalMeshCustomization_thumb-284x284-557aeb50961978bcff7d3bedcb644c99.png",
+      "md5": "557aeb50961978bcff7d3bedcb644c99",
+      "size": 116596,
+      "uploadedDate": "2020-07-23T09:38:17.974Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TransformorphMultiplayerSkeletalMeshCustomization_featured-894x488-163d9c3bb2101c150725222d03238e50.png",
+      "md5": "163d9c3bb2101c150725222d03238e50",
+      "size": 487250,
+      "uploadedDate": "2020-07-23T09:22:30.334Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Transformorph1-1920x1080-bb193d93dc5b4872877a58dd8e438c91_Snapshot.png",
+      "md5": "fa7f7f4eddb3d319ccfc87006f0a38b6",
+      "size": 7009,
+      "uploadedDate": "2020-07-23T06:00:53.093Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Transformorph2-1920x1080-22f50dffc195e2b1f3de7493e7e35b96_Snapshot.png",
+      "md5": "537d448f532d57ed07e613787c28e53e",
+      "size": 6871,
+      "uploadedDate": "2020-07-23T06:00:54.068Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Transformorph5.5-1920x1080-1fd3ab794d3416cf15b5b5f149b8d292_Snapshot.png",
+      "md5": "2357826e4ba7287736e7be460287e149",
+      "size": 4939,
+      "uploadedDate": "2020-07-23T06:00:54.781Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Transformorph5-1920x1080-584718935374c2ad3cf48873861c65fd_Snapshot.png",
+      "md5": "e9b062cad0a489f36b86ea06be250a24",
+      "size": 6667,
+      "uploadedDate": "2020-07-23T06:00:55.559Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Transformorph3-1920x1080-3bda99f1b71df3c50052556392e19bf3_Snapshot.png",
+      "md5": "018ecfaf2e1b723be4e0f9910dc1b8a3",
+      "size": 6796,
+      "uploadedDate": "2020-07-23T06:00:56.336Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Transformorph4-1920x1080-76f4594505cd3db7ff53e5b2e5d52880_Snapshot.png",
+      "md5": "baebda3b481cc3b01cb8c963c2e676da",
+      "size": 6642,
+      "uploadedDate": "2020-07-23T06:00:57.170Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Transformorph6-1920x1080-9cddbcbe21e4ed843b88bde93f7a9d6c_Snapshot.png",
+      "md5": "6b0c507238a56c5636bff32ac59eae20",
+      "size": 5226,
+      "uploadedDate": "2020-07-23T06:00:57.976Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Morpheus TRANSFORMORPH1920X1080-1920x1080-ada4dd09a4404979e49ef413eaf8ba30_Snapshot.png",
+      "md5": "3e3020c0a10d4b747e8a4d6416211347",
+      "size": 7782,
+      "uploadedDate": "2020-06-11T09:20:21.506Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "afb6605f33f0492db1d7724e3a3a14bd"
+    }
+  ],
+  "catalogNs": null
+}

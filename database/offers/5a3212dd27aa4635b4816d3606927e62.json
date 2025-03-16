@@ -1,0 +1,257 @@
+{
+  "id": "5a3212dd27aa4635b4816d3606927e62",
+  "namespace": "ue",
+  "title": "Blueprint Significance",
+  "description": "An actor component for optimizing performance of actors.",
+  "longDescription": "<p><a href=\"https://youtu.be/pnma3E73qQQ\" rel=\"nofollow\">Demo Video</a> | <a href=\"https://discord.gg/putb7t4fzp\" rel=\"nofollow\">Discord Server</a> | <a href=\"https://drive.google.com/file/d/1I_m8-NXO7wBcZlE05lSOsbdmK_V9DLNd/view\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p>Blueprint Significance adds an actor component made using C&#43;&#43; you can add to your blueprints that uses the Significance Manager to optimize the actor it is attached to by changing its tickrate.</p><p><br /></p><p>After having set the Game Viewport Client Class to the included custom Game Viewport Client Class in the project settings, you can add the Significance component to the actors you want to optimize. By default it will optimize based on distance and if the actor is in view or not. Various config variables can be used to refine when and what to change the tickrate by per instance. Functionality can be expanded upon if desired by adding new code to the existing Significance component in C&#43;&#43;.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "blueprint-significance",
+  "creationDate": "2024-07-02T07:37:56.940Z",
+  "lastModifiedDate": "2024-10-15T07:15:01.067Z",
+  "effectiveDate": "2024-07-02T07:37:56.891Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-csm7gz3vlqvsb2ez3lvrcwqjm2jgsd",
+    "name": "Infinity Vault"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Actor component that can optimize the actor it is attached to.</li><li>Change tickrate based on distance and view.</li><li>Custom game viewport so distance based functionality is based on where the viewpoint is located instead of possessed actor.</li><li>Tooltips on all Config variables so you don&#39;t have to delve into documentation to figure out what does what.</li><li>Debug visuals to visualize the state of the Significance component.</li><li>Demo map included for showcasing functionality and for potential setup reference.</li></ul><p><br /></p><p>Code Modules:</p><ul><li> BlueprintSignificance, Runtime </li></ul><p><br /></p><p>Number of Blueprints: 5 for demo content</p><p>Number of C&#43;&#43; Classes: 3 for main behavior, 9 for debug behavior</p><p>Network Replicated: Not replicated, but does work client-side during multiplayer</p><p>Supported Development Platforms: Any, but only tested on Windows</p><p>Supported Target Build Platforms: Any, currently only tested on Windows and Android</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8d83b91a-adb5-44fe-ae89-f24be4a5952c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/LogoSlide-1920x1080-6787c2e594a2ad98afd9e863d8502ecc.png",
+      "md5": "6787c2e594a2ad98afd9e863d8502ecc",
+      "size": 604665,
+      "uploadedDate": "2024-06-20T15:11:14.973Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ConfigExplanation-1920x1080-7f95bad22a8e1d00b4b5dfaa0b250caf.png",
+      "md5": "7f95bad22a8e1d00b4b5dfaa0b250caf",
+      "size": 366998,
+      "uploadedDate": "2024-06-20T15:11:15.408Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery Graph Zoomed-1920x1080-240d0d801fae47d9c3572cf691630d5f.png",
+      "md5": "240d0d801fae47d9c3572cf691630d5f",
+      "size": 1831950,
+      "uploadedDate": "2024-06-20T15:11:16.609Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery Debug Display-1920x1080-b70b78d3ea9592de78734a30bcd334cf.png",
+      "md5": "b70b78d3ea9592de78734a30bcd334cf",
+      "size": 1603927,
+      "uploadedDate": "2024-06-25T08:44:18.460Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BlueprintSignificance_thumb-284x284-33924dfcb7bf1e9a59ded75e1d255b2e.png",
+      "md5": "33924dfcb7bf1e9a59ded75e1d255b2e",
+      "size": 76596,
+      "uploadedDate": "2024-06-20T15:11:17.086Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BlueprintSignificance_featured-894x488-3fc930518955b96041636687474e82a6.png",
+      "md5": "3fc930518955b96041636687474e82a6",
+      "size": 407877,
+      "uploadedDate": "2024-06-20T15:11:17.287Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery Debug Display-1920x1080-b70b78d3ea9592de78734a30bcd334cf_Snapshot.png",
+      "md5": "6df856156ab874ecce8d5fd07119c6a1",
+      "size": 5671,
+      "uploadedDate": "2024-06-25T08:44:18.815Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LogoSlide-1920x1080-6787c2e594a2ad98afd9e863d8502ecc_Snapshot.png",
+      "md5": "957b5292dc4e9e7fb57bb01de7e4902c",
+      "size": 6576,
+      "uploadedDate": "2024-06-20T15:11:15.256Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ConfigExplanation-1920x1080-7f95bad22a8e1d00b4b5dfaa0b250caf_Snapshot.png",
+      "md5": "6121b19de597346b09b915a942bf85f9",
+      "size": 4126,
+      "uploadedDate": "2024-06-20T15:11:15.683Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DebugDisplay-1920x1080-e17954102fb24226dcbd9a72ea8765a8_Snapshot.png",
+      "md5": "a9922b85e4b7769e8db02192042c7345",
+      "size": 5341,
+      "uploadedDate": "2024-06-20T15:11:16.294Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery Graph Zoomed-1920x1080-240d0d801fae47d9c3572cf691630d5f_Snapshot.png",
+      "md5": "745de71453ad7c6c1c8f0d9e700fe9e1",
+      "size": 6006,
+      "uploadedDate": "2024-06-20T15:11:17.028Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6c524353053d4de0b7b5b62313db5af1"
+    }
+  ],
+  "catalogNs": null
+}

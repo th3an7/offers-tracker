@@ -1,0 +1,206 @@
+{
+  "id": "98671528addd45469a0a6e86d933f305",
+  "namespace": "ue",
+  "title": "Wallplugin light as shown by Creator Coding Passion",
+  "description": "Create Walls at Runtime. Wall Edges are Calculated at runtime for nice Connection. Add Doors, Windows etc to it. Walls get transparent with help of some texture. 1 Pixel is 1 qcm",
+  "longDescription": "<p>Wall Blueprint:</p><p>This Plugin contains blueprints to place walls in the Editor and at Runtime. </p><p>Edges will be connected properly in any angle. This means that Vertices between two or more connected Walls match, if you tell the example Blueprint I made the connected Walls on Start and End.</p><p><br /></p><p>Collision is not influenced by any reveal yet. But there are workarounds to get pawns through. Like for AI Controllers, look into navigation proxies and let the wall just influence the Nav Mesh. For Third person Controlling, once you placed a door, make a hole into the wall where the door is and fill it with a new wall that not collides with your pawn.</p><p><br /></p><p>Reveal Blueprints:</p><p>Also placing Assets with holes into the walls is, with the right implementation, no problem. You take the Reveal C&#43;&#43; Class as Parent Class. </p><p>Then you can add a Mesh (like a Window or Door) to the Blueprint and provide a Texture with a cm x cm (&#61; 1 [px] is 1 [cm x cm]) representation of the holes in the wall. White Pixels are transparent on the wall.</p><p><br /></p><p>Documentation: <a href=\"https://docs.google.com/document/d/e/2PACX-1vROFdAQros5As5eAjwYLpISODBQIN5aHpPJDRdaz5D2_zC8GEjsV71hEz1pFrtGTCfp_r5nxR1qiV0m/pub\" rel=\"nofollow\">Click here</a> </p><p><br /></p><p>For some details and example showcases, check my YouTube Channel: </p><p><a href=\"https://www.youtube.com/channel/UCFLgubXOSD4OzN03EkPCanw\" rel=\"nofollow\">Channel</a> </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wallplugin-light-as-shown-by-creator-coding-passion",
+  "creationDate": "2021-12-01T20:05:15.051Z",
+  "lastModifiedDate": "2024-10-04T04:34:42.044Z",
+  "effectiveDate": "2021-12-01T20:05:15.017Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9wmh5mjpdw3dtbc7c3d8694z9jtuxf",
+    "name": "Coding Passion Store"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>   - Runtime Wall Generation</p><p>   - Doors, Windows and other assets easy to add</p><p>   - One Testmap</p><p>   - Example Walls and Reveals</p><p>   - Basic Blueprints to show how it works</p><p><br /></p><p>Number of Blueprints: 6</p><p><br /></p><p>Number of C&#43;&#43; Classes: 5</p><p><br /></p><p>Network Replicated: Not out of the Box but easy to include</p><p><br /></p><p>Documentation of development and use: https://www.youtube.com/channel/UCFLgubXOSD4OzN03EkPCanw</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "55dcfd8b-a65a-487d-ac06-0e3bf54f8ccd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot-1920x1080-6d00c793f7bb063d2a81ea1db9846334.png",
+      "md5": "6d00c793f7bb063d2a81ea1db9846334",
+      "size": 2539067,
+      "uploadedDate": "2021-11-29T06:20:08.690Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WallpluginlightasshownbyCreatorCodingPassion_thumb-284x284-36bb8eb3239872afeb03d59897ecb1f7.png",
+      "md5": "36bb8eb3239872afeb03d59897ecb1f7",
+      "size": 172089,
+      "uploadedDate": "2021-11-29T06:20:09.248Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WallpluginlightasshownbyCreatorCodingPassion_featured-894x488-7dc87cf2e47efdb97c3eb14b754f0314.png",
+      "md5": "7dc87cf2e47efdb97c3eb14b754f0314",
+      "size": 1097641,
+      "uploadedDate": "2021-11-29T06:20:09.424Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot-1920x1080-6d00c793f7bb063d2a81ea1db9846334_Snapshot.png",
+      "md5": "0e6053e46c645d5074a804da697c4dab",
+      "size": 5837,
+      "uploadedDate": "2021-11-29T06:20:09.125Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e26d8df3b54a49c8ba7bb3345a334a2a"
+    }
+  ],
+  "catalogNs": null
+}

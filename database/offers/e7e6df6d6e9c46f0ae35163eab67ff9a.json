@@ -1,0 +1,320 @@
+{
+  "id": "e7e6df6d6e9c46f0ae35163eab67ff9a",
+  "namespace": "ue",
+  "title": "Runtime Files Downloader",
+  "description": "Open-source plugin for downloading files over HTTP / HTTPS at runtime.",
+  "longDescription": "<p><a href=\"https://docs.georgy.dev/runtime-files-downloader/overview\" rel=\"nofollow\"><strong>Documentation</strong></a></p><p><a href=\"https://discord.gg/s3e53uByCq\" rel=\"nofollow\"><strong>Discord support chat</strong></a></p><p><br /></p><p>Open-source plugin for downloading files over HTTP / HTTPS at runtime.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runtime-files-downloader",
+  "creationDate": "2020-12-31T07:24:00.677Z",
+  "lastModifiedDate": "2024-10-09T20:54:47.742Z",
+  "effectiveDate": "2020-12-31T07:23:57.868Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4lh62cwwn79qkb9yvqadtwsx72bdy3",
+    "name": "Georgy Dev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Extends file size limit beyond UE&#39;s 2GB constraint (signed 64-bit integer limit)</li><li>Chunk-based content downloading</li><li>No third party libraries and external dependencies</li><li>Cross-platform compatibility (Windows, Mac, Linux, Android, iOS, etc)</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1377",
+      "name": "Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:25.864Z",
+      "updated": "2021-02-05T16:08:23.704Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1368",
+      "name": "FAMILY FRIENDLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:21.189Z",
+      "updated": "2019-06-20T12:01:21.189Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "771d5e74-3d7d-49b9-a682-7a6f7f86b94c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/runtimefilesdownloaderbanner-1920x1080-3211e74d7d2af85bec1878f6e6ac3b99.jpg",
+      "md5": "3211e74d7d2af85bec1878f6e6ac3b99",
+      "size": 210106,
+      "uploadedDate": "2021-12-04T14:56:30.210Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/marketplacerfdimg-1920x1080-248e74105f9136adff503ecb7570f776.jpg",
+      "md5": "248e74105f9136adff503ecb7570f776",
+      "size": 741563,
+      "uploadedDate": "2024-05-25T11:00:30.243Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/utilitybig-1920x1080-617f90e6ce1e6a0c4ec818ce1ddf09b3.jpg",
+      "md5": "617f90e6ce1e6a0c4ec818ce1ddf09b3",
+      "size": 532342,
+      "uploadedDate": "2022-09-11T15:57:03.669Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RuntimeFilesDownloader_thumb-284x284-61b2c797d87529a1ae8cde5bc3806ad2.png",
+      "md5": "61b2c797d87529a1ae8cde5bc3806ad2",
+      "size": 28448,
+      "uploadedDate": "2021-12-04T14:56:30.484Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RuntimeFilesDownloader_featured-894x488-03eddb15f67dee87550c1cfc1e37d077.png",
+      "md5": "03eddb15f67dee87550c1cfc1e37d077",
+      "size": 47515,
+      "uploadedDate": "2021-12-04T14:56:30.548Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplacerfdimg-1920x1080-248e74105f9136adff503ecb7570f776_Snapshot.jpg",
+      "md5": "0236babede25603a22c8ff4160dff1e8",
+      "size": 4565,
+      "uploadedDate": "2024-05-25T11:00:30.780Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DownloaderFirstExample-1920x1080-f45b926f2afb8fdaf1a4fc8177986183_Snapshot.jpg",
+      "md5": "610308fd020ee5ccc054ff32532f8535",
+      "size": 5104,
+      "uploadedDate": "2024-01-27T14:30:42.350Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MarketplacePreviewImageRFD-1920x1080-a1831389924d36840243211699799acb_Snapshot.png",
+      "md5": "e46ed81620e38734da8985176130ea43",
+      "size": 4053,
+      "uploadedDate": "2023-09-03T09:22:05.090Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MarketplaceEx-1920x1080-473bec5ba0e9da2bd6b0c6da4a409c98_Snapshot.jpg",
+      "md5": "8963a69cfc0e2bf9c9d28870bc16f982",
+      "size": 4275,
+      "uploadedDate": "2023-05-28T18:22:16.602Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplaceexample-1920x1080-5ec8a5150be78c69d6c61dfe17560878_Snapshot.jpg",
+      "md5": "d9c495231961fe2090dc709c34fa2a36",
+      "size": 4937,
+      "uploadedDate": "2023-04-14T19:23:50.867Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/utilitybig-1920x1080-617f90e6ce1e6a0c4ec818ce1ddf09b3_Snapshot.jpg",
+      "md5": "e1fa11323a1132da5edf9baa4a015171",
+      "size": 3310,
+      "uploadedDate": "2022-09-11T15:57:04.152Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplaceexampleutility1-1920x1080-c7d99dc638e7ac3f9ecd6e95697087d9_Snapshot.jpg",
+      "md5": "0fce7edb47f77ecdff51dd703e729b59",
+      "size": 3011,
+      "uploadedDate": "2022-01-30T07:32:43.229Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplaceexampleutility-1920x1080-486635dbc13fe90df6bc5d7a8c4208e1_Snapshot.jpg",
+      "md5": "afb76411c410e763510fed2f7befdabd",
+      "size": 3007,
+      "uploadedDate": "2022-01-30T06:45:50.502Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fullexample-1920x1080-9e1e45711ab6b1d6b1c5e6aa41747943_Snapshot.jpg",
+      "md5": "ae9f3387282b8b238f72f922fdf0f398",
+      "size": 4202,
+      "uploadedDate": "2022-01-30T06:18:09.868Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/marketplaceexample-1920x1080-a89e6d9df4fcba9aeb95e0a0b998084c_Snapshot.jpg",
+      "md5": "e106d4f57497718c3e0feef77f65bde6",
+      "size": 4997,
+      "uploadedDate": "2022-01-30T05:57:49.220Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/runtimefilesdownloaderbanner-1920x1080-3211e74d7d2af85bec1878f6e6ac3b99_Snapshot.jpg",
+      "md5": "e6d52d2b60d3b293599fe60c6b5a3c32",
+      "size": 2408,
+      "uploadedDate": "2021-12-04T14:56:30.423Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/runtimefilesdownloadernodespreview-1920x1080-17e2ca15f22f602283d6195538d33c2c_Snapshot.jpg",
+      "md5": "c46c05dede383265d0d54f105379c88b",
+      "size": 5202,
+      "uploadedDate": "2021-09-09T14:14:52.647Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/updatednodes-1920x1080-7ad5892b91d194aaf004b607c69cd0f2_Snapshot.jpg",
+      "md5": "e3e5424fd3f18c285aa9251f60a49b87",
+      "size": 2604,
+      "uploadedDate": "2021-04-22T12:33:20.252Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/runtimefilesdownloaderbg-1920x1080-4625451b184acfb797fc1c2c68c31c0f_Snapshot.png",
+      "md5": "96e738db725027783e5c4935332e2c4c",
+      "size": 3622,
+      "uploadedDate": "2021-01-02T08:09:17.414Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/usingnodesexample-1920x1080-53f2dd6fc515def8b74305c991bd3250_Snapshot.png",
+      "md5": "e3bbfb714b21d383b4096f1cb80faf74",
+      "size": 3028,
+      "uploadedDate": "2020-12-30T12:15:10.107Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainimageruntimefilesdownloader-1920x1080-14b3670c8de68334b5e1853bf720a303_Snapshot.png",
+      "md5": "010ac36bda7cec9f407d5c81cacf436e",
+      "size": 3708,
+      "uploadedDate": "2020-12-26T07:09:23.723Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/runtimefilesdownloadernodes-1920x1080-8fbf4292116a4450f2f368f83568d745_Snapshot.png",
+      "md5": "538e8c4afe4042efb9be49c2fcb2ff68",
+      "size": 2584,
+      "uploadedDate": "2020-12-26T07:09:24.077Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "bba0cc480fdd4da4ba1a928f3f07cac5"
+    }
+  ],
+  "catalogNs": null
+}

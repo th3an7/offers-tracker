@@ -1,0 +1,248 @@
+{
+  "id": "19399a531f474ebe9a4d2067786f2649",
+  "namespace": "ue",
+  "title": "VR Input Recorder",
+  "description": "Record and Playback VR Input and Poses for projects using the Enhanced Input System",
+  "longDescription": "<ul><li><strong>VR Input Recorder is made to help one of the most annoying issues in VR/XR Development - taking your headset on and off all the time.</strong></li><li><strong>It uses Enhanced Input Injection, to emulate input actions at runtime, allowing the developer to playback recorded playthroughs while still debugging code in Blueprints and C&#43;&#43;.</strong></li><li><strong>Uses Float, Boolean &amp; Vector2D Input Actions</strong></li><li><strong>Game Inputs work without the PIE WIndow being active.</strong></li><li><strong>Gives new ways of Debugging</strong></li><li><strong>Gives new ways of iterating on game design tweaking variables on the fly, no more jumping in and out of headset to test simple things.</strong></li><li><strong>Awesome tool for Content Creators to get gameplay footage of their game. Record a playthrough, then use the editor to be your own Camera Man.</strong></li><li><strong>Sample code for use with VRExpansion</strong></li></ul><p><br /></p><p><strong>NOTE: </strong></p><p>* <strong>VR Input Recorder is ONLY for Projects using the Enhanced Input system (ie VRTemplate)</strong></p><ul><li><strong> Input Recorder uses Tick to set positions, so there will be accuracy issues as performance fluctuates. It won&#39;t be exact.</strong></li><li><strong>The demo scene for VR Input Recorder uses the Epic VRTemplate as a base; Epics VR template requires OpenXR Plugin to be enabled. VR Input Recorder generally does not.</strong></li></ul><p><br /></p><p><strong>&#xfeff;Example Video:: </strong><a href=\"https://youtu.be/4K8RP_9e8k0\" rel=\"nofollow\"><strong>https://youtu.be/4K8RP_9e8k0</strong></a></p><p><strong>Documentation: </strong><a href=\"https://docs.google.com/document/d/1ljA7iyecvzqwkJdFCxn7fYc41Q9cX5Jl3m1MoGbtXbE\" rel=\"nofollow\"><strong>https://docs.google.com/document/d/1ljA7iyecvzqwkJdFCxn7fYc41Q9cX5Jl3m1MoGbtXbE</strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vr-input-recorder",
+  "creationDate": "2024-04-18T23:20:39.716Z",
+  "lastModifiedDate": "2024-10-10T23:03:37.416Z",
+  "effectiveDate": "2024-04-18T23:20:39.682Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-lfdap34waztpwajyspyybnx555agkj",
+    "name": "drellaTools"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Drives Inputs in PIE sessions without VR Headset enabled</li></ul><p>Number of Blueprints: 3</p><p>Input: Enhanced Input Only</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1ljA7iyecvzqwkJdFCxn7fYc41Q9cX5Jl3m1MoGbtXbE\" rel=\"nofollow\"><strong>https://docs.google.com/document/d/1ljA7iyecvzqwkJdFCxn7fYc41Q9cX5Jl3m1MoGbtXbE</strong></a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a321953a-bcb5-4873-a529-2baeded6fee4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot2-1920x1080-b79a4dc290b72f529ee71dd950e6a707.png",
+      "md5": "b79a4dc290b72f529ee71dd950e6a707",
+      "size": 2205248,
+      "uploadedDate": "2024-04-13T07:30:46.901Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot1-1920x1080-5fb0bb2ed4082da60df3c04d642068a5.png",
+      "md5": "5fb0bb2ed4082da60df3c04d642068a5",
+      "size": 2022159,
+      "uploadedDate": "2024-04-13T07:30:47.502Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot3-1920x1080-248af8dd55b604a6735e1139b45598b1.png",
+      "md5": "248af8dd55b604a6735e1139b45598b1",
+      "size": 2182364,
+      "uploadedDate": "2024-04-13T07:30:48.016Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshotbp1-1920x1080-869f72abb08e7fc636180816a28dcee0.png",
+      "md5": "869f72abb08e7fc636180816a28dcee0",
+      "size": 374878,
+      "uploadedDate": "2024-04-13T07:30:48.407Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VRInputRecorder_thumb-284x284-27bccde6d58352a08c990583cb788b38.png",
+      "md5": "27bccde6d58352a08c990583cb788b38",
+      "size": 131515,
+      "uploadedDate": "2024-04-15T09:55:43.960Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleVRInputRecorder_featured-894x488-105e03547bced1f3478075ae138681f3.png",
+      "md5": "105e03547bced1f3478075ae138681f3",
+      "size": 555887,
+      "uploadedDate": "2024-04-13T07:30:48.957Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot2-1920x1080-b79a4dc290b72f529ee71dd950e6a707_Snapshot.png",
+      "md5": "a07a390c0c6c6ecc1c87780b8a754e6a",
+      "size": 6360,
+      "uploadedDate": "2024-04-13T07:30:47.276Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot1-1920x1080-5fb0bb2ed4082da60df3c04d642068a5_Snapshot.png",
+      "md5": "566e5366c39ad943900f4c1c5f5c76e0",
+      "size": 6448,
+      "uploadedDate": "2024-04-13T07:30:47.836Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot3-1920x1080-248af8dd55b604a6735e1139b45598b1_Snapshot.png",
+      "md5": "1d2f44fa40c6db098de8fa7b1434a0c2",
+      "size": 7160,
+      "uploadedDate": "2024-04-13T07:30:48.334Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshotbp1-1920x1080-869f72abb08e7fc636180816a28dcee0_Snapshot.png",
+      "md5": "694384bf8932d75c969f121a96ea4c10",
+      "size": 4648,
+      "uploadedDate": "2024-04-13T07:30:48.655Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "243e027c5fd34a59831d5648901516ba"
+    }
+  ],
+  "catalogNs": null
+}

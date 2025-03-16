@@ -1,0 +1,140 @@
+{
+  "id": "d41146e6f2094996aadbbe81d235822b",
+  "namespace": "ue",
+  "title": "Network Clock",
+  "description": "Simple network synced clock",
+  "longDescription": "<p>Network Clock for Unreal Engine is a solution to address time synchronization challenges in multiplayer games. Designed to seamlessly synchronize client time with server time, it eliminates inaccuracies caused by network latency, ensuring a fair and consistent gaming experience for all players.</p><p><br /></p><p>This plugin improves Unreal Engine&#39;s &#34;GetServerWorldTimeSeconds&#34; by actively synchronizing the client clock, compensating for network latency with client-side techniques, and offering customizable settings for precise time synchronization, ensuring a smoother, more responsive multiplayer gaming experience.</p><p><br /></p><p>This plugin is open source: https://github.com/miltoncandelero/NetworkClockPlugin</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "network-clock",
+  "creationDate": "2023-11-03T22:46:35.713Z",
+  "lastModifiedDate": "2024-10-15T12:23:33.078Z",
+  "effectiveDate": "2023-11-03T22:46:35.679Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7yu2kc5b7ml6apkbdbpm8mmnnt4cz2",
+    "name": "Elemental Code"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><strong>Real-time Synchronization:</strong> Achieve near-perfect synchronization between the server and client clocks, allowing players to interact with the game world in real-time.</li><li><strong>Timestamp Management:</strong> Precisely timestamp server updates and events, enabling accurate event ordering and validation, regardless of network-related delays.</li><li><strong>Round-Trip Time (RTT) Measurement:</strong> Automatically measure and factor in the round-trip time between clients and the server, allowing for intelligent time adjustments.</li><li><strong>Latency Compensation:</strong> Implement advanced client-side interpolation and prediction techniques, providing a smoother and more responsive gaming experience, even in the presence of latency.</li><li><strong>Flexible Configuration:</strong> Tailor the plugin to suit your game&#39;s specific requirements with customizable settings for time update frequency and clock adjustment thresholds.</li></ul><p>Code Modules:</p><ul><li> Network Clock (Runtime)</li></ul><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: https://github.com/miltoncandelero/NetworkClockPlugin</p><p>Important/Additional Notes: Tested only on Windows but should work on any supported platform as it only uses out-of-the-box unreal engine features.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "881497e1-90f9-4751-97d2-14d6f0c0e7e0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled-2-1920x1080-5c4cf16e3284d70b9c8e74eff9e80c11.png",
+      "md5": "5c4cf16e3284d70b9c8e74eff9e80c11",
+      "size": 495238,
+      "uploadedDate": "2023-10-28T02:03:42.954Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ss2-1920x1080-47ff1a2eba55690e46808d7ecad98993.png",
+      "md5": "47ff1a2eba55690e46808d7ecad98993",
+      "size": 387965,
+      "uploadedDate": "2023-10-28T02:03:43.439Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NetworkClock_thumb-284x284-29ffa4271f45d9618b4567df92ce7d43.png",
+      "md5": "29ffa4271f45d9618b4567df92ce7d43",
+      "size": 46981,
+      "uploadedDate": "2023-10-28T02:03:43.708Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NetworkClock_featured-894x488-7fc7e9b6a39049298877536bd6e01b04.png",
+      "md5": "7fc7e9b6a39049298877536bd6e01b04",
+      "size": 350296,
+      "uploadedDate": "2023-10-28T02:03:43.866Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-2-1920x1080-5c4cf16e3284d70b9c8e74eff9e80c11_Snapshot.png",
+      "md5": "665b1902ec4085d08e9f22681c9e7eb8",
+      "size": 5574,
+      "uploadedDate": "2023-10-28T02:03:43.161Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ss2-1920x1080-47ff1a2eba55690e46808d7ecad98993_Snapshot.png",
+      "md5": "e26366bae530ceb7e47718bf5ae16c89",
+      "size": 5241,
+      "uploadedDate": "2023-10-28T02:03:43.646Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e114c0e5cfc64021abb0b198467517eb"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,293 @@
+{
+  "id": "d684f032827a439eb2c9900d1a5e8709",
+  "namespace": "ue",
+  "title": "Generic Effects System",
+  "description": "Play any sfx/vfx based on different context, for any things that requires feedback(footsteps, melee impact etc).",
+  "longDescription": "<p>Generic Effects System(<strong>GES). </strong>Play any sound and special effects in any context. Mainly used for automated footsteps/effects, but also for any things that requires sound and visual feedback.</p><p><br /></p><p>Intro Video: <a href=\"https://youtu.be/AWYHNvXS5Ts?si&#61;5OHVKUXNtrVyrfs5\" rel=\"nofollow\"><u>Youtube</u></a>(Starting from 12:10)</p><p>Video Tutorial: <a href=\"https://youtu.be/W0nimHP4n6Q\" rel=\"nofollow\"><u>Youtube</u></a></p><p>Documentation&#xff1a;<a href=\"https://k12oekrxfs.larksuite.com/wiki/KfnGwXQx6i1Ls4kmeCGuZJj0she\" rel=\"nofollow\"><u>English</u></a> <a href=\"https://yuewudev.feishu.cn/wiki/FhPhwuubti9plpkDg99cHXp9nig\" rel=\"nofollow\"><u>中文</u></a></p><p>Support: <a href=\"https://discord.com/invite/xMRXAB2\" rel=\"nofollow\"><u>Discord</u></a></p><p>Demo Project: Joing <a href=\"https://discord.gg/2ZMGfzYPPv\" rel=\"nofollow\"><u>Discrod</u></a> and get provided demo files for free. It will help you quickly understand how to use this plugin. The demo project also contains required anim modifiers to auto setup footsteps.</p><p>This plugin is part of my <a href=\"https://2fab.link/gms\" rel=\"nofollow\"><u>Generic Movement System</u></a></p><p><br /></p><p>If you find my plugin useful, please leave a good review or check my other products.</p><p><br /></p><p><br /></p><p><br /></p><h2>Features:</h2><ul><li>Easy integration: Add one component to your character is enough.</li><li>Data-Driven: Use Data assets to configure different sound effects/special effects that will be played under different context(gameplay tags).</li><li>Automated footstep setup: Through the animation modifier, it is possible to automatically position the feet of the character and configure the anim notifier of &#34;play context effects&#34;.</li><li>High adaptability: In addition to being used in footstep systems, you can also apply it to any place where different sounds and special effects need to be played according to different situations, such as melee impact.</li><li>Simple API: A simple blueprint call can trigger sounds/effects.</li><li>High flexibility: dynamically play different VFX/SFX on different physical material surfaces based on contexts(Gameplay Tags), automate footstep VFX/SFX setup, and no need to hard references many assets in the animation sequence.</li></ul><p><br /></p><p><a href=\"https://orbital-market.com/product/generic-effects-system\" rel=\"nofollow\"><strong>Orbital Market</strong> <strong>Link</strong></a></p><p>(Orbital Market is a fast search engine for the Unreal marketplace)</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "generic-effects-system",
+  "creationDate": "2024-08-28T08:30:13.602Z",
+  "lastModifiedDate": "2024-10-13T01:30:03.169Z",
+  "effectiveDate": "2024-08-28T08:30:13.489Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5da7ae6c8442648e61c31896182910",
+    "name": "YuewuDev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Core modules:</p><ul><li>GenericEffectsSystem(Runtime). This module contains code for dynamic sfx/vsf play like footstep.</li></ul><p><br /></p><p>Number of Blueprints: 10&#43; (Animation modifiers and notifies, and some sample files.)</p><p>Number of C&#43;&#43; Classes:10.</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Win64,Android,Linux</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "98b2c4a0-9520-4d6b-8bc2-86d5c82612ca"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-250fbab502cad7a300da4f1914801a7b.jpg",
+      "md5": "250fbab502cad7a300da4f1914801a7b",
+      "size": 705771,
+      "uploadedDate": "2024-08-26T15:25:51.113Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-509a17d4f89a3171c1fc5515fbddbe4b.jpg",
+      "md5": "509a17d4f89a3171c1fc5515fbddbe4b",
+      "size": 605450,
+      "uploadedDate": "2024-08-26T15:25:51.537Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-6f7e57c69294369fb0ff12ac5b1ca775.jpg",
+      "md5": "6f7e57c69294369fb0ff12ac5b1ca775",
+      "size": 679001,
+      "uploadedDate": "2024-08-26T15:25:51.926Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-632f5326684bfe2fc4ec6c0e63946798.jpg",
+      "md5": "632f5326684bfe2fc4ec6c0e63946798",
+      "size": 531817,
+      "uploadedDate": "2024-08-26T15:25:52.365Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GenericEffectsSystem_thumb-284x284-03c70b08334c52b4aee0d439261b560a.png",
+      "md5": "03c70b08334c52b4aee0d439261b560a",
+      "size": 62620,
+      "uploadedDate": "2024-08-26T15:25:52.663Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GenericEffectsSystem_featured-894x488-12dfe1be0a32be8a044c64d4ca015789.png",
+      "md5": "12dfe1be0a32be8a044c64d4ca015789",
+      "size": 378981,
+      "uploadedDate": "2024-08-26T15:25:52.752Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-250fbab502cad7a300da4f1914801a7b_Snapshot.jpg",
+      "md5": "a19eb8000626f0c802bea2180b796877",
+      "size": 7348,
+      "uploadedDate": "2024-08-26T15:25:51.376Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-509a17d4f89a3171c1fc5515fbddbe4b_Snapshot.jpg",
+      "md5": "328e63ac465544831b4d587a25db3b19",
+      "size": 6021,
+      "uploadedDate": "2024-08-26T15:25:51.780Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-6f7e57c69294369fb0ff12ac5b1ca775_Snapshot.jpg",
+      "md5": "f952c0af890e698dcfe2f7e68cae43dd",
+      "size": 7608,
+      "uploadedDate": "2024-08-26T15:25:52.179Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-632f5326684bfe2fc4ec6c0e63946798_Snapshot.jpg",
+      "md5": "7c9c07138c94e94591cd20c6d185bd8c",
+      "size": 6424,
+      "uploadedDate": "2024-08-26T15:25:52.607Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GMSControlSetting-1920x1080-8faaf3a0ab09d45e858eab8b0bbf479d_Snapshot.png",
+      "md5": "7cad6f4f03546b4b7186a6da59e7afed",
+      "size": 5470,
+      "uploadedDate": "2024-08-23T10:10:53.361Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "076f7e0ad7dd403a8fadc7a364c3e21a"
+    }
+  ],
+  "catalogNs": null
+}

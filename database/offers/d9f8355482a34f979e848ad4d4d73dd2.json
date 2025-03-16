@@ -1,0 +1,353 @@
+{
+  "id": "d9f8355482a34f979e848ad4d4d73dd2",
+  "namespace": "ue",
+  "title": "Strider - Animation Warping",
+  "description": "Strider is a procedural animation warping plugin which improves animation diversity via several additional animation nodes.",
+  "longDescription": "<p><strong>**New Release v1.11 ** </strong>Foot locker node for locking character feet in world space to reduce foot sliding.</p><p><br /></p><p>Strider is a procedural animation warping plugin that enables developers to modify the stride and pose of a character at runtime to improve animation coverage and dynamics. It achieves this via 5 custom animation nodes that can be placed into any animation blueprint with very little effort. Each node is written in C&#43;&#43; and optimised for best performance. Please watch the following videos for a details:</p><p><br /></p><ul><li><a href=\"https://www.youtube.com/watch?v&#61;REqhu5qD7i0&amp;list&#61;PLV3KWwaS27WKPwpY1AqeoC5vp7_d0EV_0&amp;index&#61;2\" rel=\"nofollow\">Trailer</a></li><li><a href=\"https://www.youtube.com/watch?v&#61;w-wwwOhdRbY\" rel=\"nofollow\">Overview</a></li><li><a href=\"https://www.youtube.com/playlist?list&#61;PLV3KWwaS27WKPwpY1AqeoC5vp7_d0EV_0\" rel=\"nofollow\">Tutorial Playlist</a></li></ul><p><br /></p><p>Each individual node has a specific purpose. The <strong>&#39;Stride Warp&#39;</strong> node scales the stride (gate) of character to change their speed without foot sliding or play-rate changes.<strong> &#39;Orientation Warp&#39; </strong>nodes can be used to make animations move in a different direction while still facing the same way. <strong>&#39;Slope Warp&#39; </strong>nodes can warp the pose to conform to a slope. <strong>&#39;Acceleration Warp&#39;</strong> nodes can be used to simulate a lean into character accelerations and deceleration. Finally, <strong>&#39;Bank Warp&#39;</strong> nodes can bank the pose so it looks like it is moving in arcs without actually having those animations.</p><p><br /></p><p>All of these nodes can be combined in creative ways to reduce animation requirements, state machine complexity and expensive blend spaces.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "strider-animation-warping",
+  "creationDate": "2020-08-27T23:20:49.016Z",
+  "lastModifiedDate": "2024-10-15T12:51:57.787Z",
+  "effectiveDate": "2020-08-27T23:20:47.100Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-v2u26up2dnc6rb4myggg6m6jmh9rdn",
+    "name": "Animation Uprising"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Foot Locker</li><li>Stride Warping</li><li>Orientation Warping</li><li>Slope Warping</li><li>Bank Warping</li><li>Acceleration/Lean Warp</li><li>Utility Blueprint Function Library</li><li>Easy replication for multiplayer</li><li>Written in 100% C&#43;&#43; and optimised for best performance</li><li>Easily tweak behaviours and parameters on each node to suit any game</li><li>All nodes designed to work together</li></ul><p><br /></p><p>Communication / Support:</p><ul><li><a href=\"https://github.com/Avindr/Strider-UE4-Issue-Tracking\" rel=\"nofollow\">Issue Tracker</a> (preferred)</li><li><a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1805446-strider-procedural-animation-warping-plugin\" rel=\"nofollow\">Forum Page</a></li></ul><p><br /></p><p>Code Modules:</p><ul><li> Strider - Runtime Module</li><li> Strider Editor - Editor Module</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 11</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows 32-bit, Windows 64-bit</p><p>Supported Target Build Platforms: Windows 32-bit, Windows 64-bit</p><p>Documentation: <a href=\"https://docs.google.com/document/d/10BXxS6j0EUt47INlHjCrMgagHgeVPVONR0I5LCWTNMw/edit?usp&#61;sharing\" rel=\"nofollow\">User Manual</a>, <a href=\"https://www.youtube.com/watch?v&#61;REqhu5qD7i0&amp;list&#61;PLV3KWwaS27WKPwpY1AqeoC5vp7_d0EV_0\" rel=\"nofollow\">Video Tutorial Playlist</a></p><p>Example Project: <a href=\"https://github.com/Avindr/Strider-UE4-Issue-Tracking\" rel=\"nofollow\">StriderExampleProject_UE4.25</a></p><p>Important/Additional Notes: No animations or assets included with the plugin</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "db7e4f2b-4593-49a2-b615-c5a23a4a4139"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4CoverImageBig-1920x1080-62c18f5f2fa196c1e0e76f9f38bc9f6f.png",
+      "md5": "62c18f5f2fa196c1e0e76f9f38bc9f6f",
+      "size": 1521175,
+      "uploadedDate": "2020-08-26T08:43:32.719Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4AnimationWarping-1920x1080-c2f78f5aa9beadb53438bf65a43d1262.png",
+      "md5": "c2f78f5aa9beadb53438bf65a43d1262",
+      "size": 852551,
+      "uploadedDate": "2020-08-26T08:43:33.235Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4StrideWarping-1920x1080-bbdbc885de6b5d3f8ac32ee32b9dd0e6.png",
+      "md5": "bbdbc885de6b5d3f8ac32ee32b9dd0e6",
+      "size": 1004735,
+      "uploadedDate": "2020-08-26T08:43:33.722Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4OrientationWarping-1920x1080-69625f24cbc1829c530656914d0593da.png",
+      "md5": "69625f24cbc1829c530656914d0593da",
+      "size": 822903,
+      "uploadedDate": "2020-08-26T08:43:34.183Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4SlopeWarping-1920x1080-1d76c44e6474b9041dfe7c84467f6e2d.png",
+      "md5": "1d76c44e6474b9041dfe7c84467f6e2d",
+      "size": 1107433,
+      "uploadedDate": "2020-08-26T08:43:34.673Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4AccelWarping-1920x1080-fd58c1550192de421e3dab180c78979d.png",
+      "md5": "fd58c1550192de421e3dab180c78979d",
+      "size": 1030366,
+      "uploadedDate": "2020-08-26T08:43:35.216Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4BankWarping-1920x1080-f340dff2241763ae5f142f7b608f53c0.png",
+      "md5": "f340dff2241763ae5f142f7b608f53c0",
+      "size": 846522,
+      "uploadedDate": "2020-08-26T08:43:35.680Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/StriderUE4TypicalSetup-1920x1080-a04795580d8ea7f417cc54b9a2c86195.png",
+      "md5": "a04795580d8ea7f417cc54b9a2c86195",
+      "size": 277451,
+      "uploadedDate": "2020-08-26T08:43:36.109Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StriderAnimationWarping_thumb-284x284-242545082cfef4c79bdf13560c1d2855.png",
+      "md5": "242545082cfef4c79bdf13560c1d2855",
+      "size": 94233,
+      "uploadedDate": "2020-08-26T08:43:36.386Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StriderAnimationWarping_featured-894x488-82481450f7893f55e4f9635107cdfb32.png",
+      "md5": "82481450f7893f55e4f9635107cdfb32",
+      "size": 435840,
+      "uploadedDate": "2020-08-26T08:43:36.525Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4CoverImageBig-1920x1080-62c18f5f2fa196c1e0e76f9f38bc9f6f_Snapshot.png",
+      "md5": "faa3652822204be1e6b72fd41e7409cf",
+      "size": 7088,
+      "uploadedDate": "2020-08-26T08:43:33.070Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4AnimationWarping-1920x1080-c2f78f5aa9beadb53438bf65a43d1262_Snapshot.png",
+      "md5": "438e280b001cd835e117511ccd283897",
+      "size": 6785,
+      "uploadedDate": "2020-08-26T08:43:33.531Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4StrideWarping-1920x1080-bbdbc885de6b5d3f8ac32ee32b9dd0e6_Snapshot.png",
+      "md5": "0d1eee856215e08df195298b16094eb3",
+      "size": 6829,
+      "uploadedDate": "2020-08-26T08:43:34.038Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4OrientationWarping-1920x1080-69625f24cbc1829c530656914d0593da_Snapshot.png",
+      "md5": "93aa80e83a66506d7cb8d1de4f808df1",
+      "size": 6376,
+      "uploadedDate": "2020-08-26T08:43:34.527Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4SlopeWarping-1920x1080-1d76c44e6474b9041dfe7c84467f6e2d_Snapshot.png",
+      "md5": "d6dc9ea244d364868c60dc9007bcd517",
+      "size": 4814,
+      "uploadedDate": "2020-08-26T08:43:34.988Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4AccelWarping-1920x1080-fd58c1550192de421e3dab180c78979d_Snapshot.png",
+      "md5": "e11c3532644d90e1d45925b108cc5e08",
+      "size": 6735,
+      "uploadedDate": "2020-08-26T08:43:35.517Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4BankWarping-1920x1080-f340dff2241763ae5f142f7b608f53c0_Snapshot.png",
+      "md5": "98ccd035d53e0c7007e7cf40fe610537",
+      "size": 6076,
+      "uploadedDate": "2020-08-26T08:43:35.993Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StriderUE4TypicalSetup-1920x1080-a04795580d8ea7f417cc54b9a2c86195_Snapshot.png",
+      "md5": "753d1c636f5b46af7c436bb112fcc139",
+      "size": 4188,
+      "uploadedDate": "2020-08-26T08:43:36.338Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CoverOrientationWarp-1920x1080-38913e6f275dc059bacd3450294790ec_Snapshot.jpg",
+      "md5": "a4540b71ca735910efa07aedfcfbf82a",
+      "size": 5528,
+      "uploadedDate": "2020-08-26T00:42:35.432Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "757bc63b7c1247308dded8f4293cd5e5"
+    }
+  ],
+  "catalogNs": null
+}

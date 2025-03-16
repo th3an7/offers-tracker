@@ -1,0 +1,296 @@
+{
+  "id": "3e66f10238984910b20598cdde3337b2",
+  "namespace": "ue",
+  "title": "Procedural spline audio PRO",
+  "description": "Dynamic spline audio plugin for Unreal, transforming open-world game sounds with real-time adaptability.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;WBYNZJQ0f6E&amp;t&#61;3s\" rel=\"nofollow\">VIDEO</a> |<a href=\"https://drive.google.com/file/d/1uP6hPfFGOcipclNqIlHROerWM2llIY4j/view?usp&#61;sharing\" rel=\"nofollow\"> DEMO</a> |<a href=\"https://sites.google.com/view/volumetricaudippro/proceduralsplineaudio\" rel=\"nofollow\"> DOCUMENTATION</a></p><p>:: Overview</p><p>Transform your gaming soundscape into a rich, immersive sonic universe that dynamically adapts in real time. Watch your open-world environments come to life with ultra-realistic 3D sounds that follow your players, changing pitch and volume. Our plugin isn&#39;t just game-changing; it&#39;s world-altering, pulling players into your game with a depth of audio experience they never dreamed possible. Embrace the future of game audio now and let your soundscape shape the adventures within.</p><p><br /></p><p>:: Who would use this?</p><ul><li>Any developer/team who needs an optimized, modular system for procedural open-world sounds</li></ul><p><br /></p><p>:: Why would anyone use this?</p><ul><li>If you need a professional, realistic water/sand 3D environment sound system for your game.</li><li>If you need a sound emitter that needs to follow the listener and procedurally change their behavior in the runtime.</li><li>Visual debugging options</li></ul><p><br /></p><p>:: What it does</p><p>Sound follows the listener along the created spline, based on the listener&#39;s position. Additionally, it is possible to manipulate sound behavior based on the position on the spline (volume, pitch, .wav file theme change). It is a very modular solution for implementing 3D spline sounds in the environment. </p><p><br /></p><p>BONUS: Can be used as an actor or actor component. Actor components made for this system can be reused and modified, which enables you to have multiple robust spline systems for any type of tool, not only audio.</p><p><br /></p><p>:: Need a PRO solution for ambient audio or procedural volumetric audio zones. Check<a href=\"https://unrealengine.com/marketplace/en-US/product/volumetric-audio-zones-pro\" rel=\"nofollow\"> VOLUMETRIC AUDIO ZONES PRO</a></p><p>:: Need a PRO solution for direction character trigger. Check <a href=\"https://www.unrealengine.com/marketplace/en-US/product/03657c3b1b354816b6d18d16c2c0bb16\" rel=\"nofollow\">PAWN BIDIRECTIONAL TRIGGER PRO</a></p><p>:: Need a PRO solution for a custom-shaped volume trigger. Check <a href=\"https://www.unrealengine.com/marketplace/en-US/product/bc8b4b65b678490097392bd31839818a\" rel=\"nofollow\">VOLUMETRIC CUSTOM SHAPE TRIGGER</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-spline-audio-pro",
+  "creationDate": "2021-02-03T10:39:44.632Z",
+  "lastModifiedDate": "2024-10-15T14:03:31.252Z",
+  "effectiveDate": "2021-02-04T15:31:57.234Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2vz4lp8cj8asvac27bvwkbdmslt5cd",
+    "name": "Kipica"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Activate/Deactivate manually</li><li> Easy to use - has intuitively named settings, and includes detailed tooltip text. If you&#39;re a programmer then full C&#43;&#43; source code is also included, allowing you to create and modify anything you like!</li><li>Debugging - numerous debugging tools for precise setup and visualization</li><li>  Optimized - Enjoy high-performance spline sounds. Each component has been heavily optimized, giving you minimal performance impact</li><li>Multiplayer ready - optimized and tested for network games.</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li>  ProceduralSplineAudio(Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win32, Win64, Linux, Mac</p><p>Supported Target Build Platforms: Win32, Win64, Linux, Mac</p><p><a href=\"https://sites.google.com/d/18cfHoD2EzQKCuLBUh4c3b_fRvh9DpagT/p/123htNqbV8TlP2dwWjaqlAQM6341uoYPk/edit\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://drive.google.com/file/d/1uP6hPfFGOcipclNqIlHROerWM2llIY4j/view?usp&#61;sharing\" rel=\"nofollow\">Example Project</a></p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "48e10162-dd19-412d-934f-d3160a4b9dc8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Asset 13-1920x1080-a55b1d0798e1f49e4208932a0fac8f55.png",
+      "md5": "a55b1d0798e1f49e4208932a0fac8f55",
+      "size": 120466,
+      "uploadedDate": "2021-02-02T13:34:58.884Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Asset 14-1920x1080-6aa2e504508c9dc432a49c34aa6337b8.png",
+      "md5": "6aa2e504508c9dc432a49c34aa6337b8",
+      "size": 80227,
+      "uploadedDate": "2021-02-02T13:34:59.227Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Asset 15-1920x1080-e43715cda6ccda017efcffcacf173f02.png",
+      "md5": "e43715cda6ccda017efcffcacf173f02",
+      "size": 1619654,
+      "uploadedDate": "2021-02-02T13:34:59.717Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Asset 16-1920x1080-f4d1d5d697b25b599e265933f698682d.png",
+      "md5": "f4d1d5d697b25b599e265933f698682d",
+      "size": 1870989,
+      "uploadedDate": "2021-02-02T13:35:00.328Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Asset 17-1920x1080-6127086fe51ea8713d620a52988c1972.png",
+      "md5": "6127086fe51ea8713d620a52988c1972",
+      "size": 917780,
+      "uploadedDate": "2021-02-02T13:35:00.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Asset 18-1920x1080-fa51276e0543228b7f6bc92b401cfc51.png",
+      "md5": "fa51276e0543228b7f6bc92b401cfc51",
+      "size": 162036,
+      "uploadedDate": "2021-02-02T13:35:01.435Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralsplineaudioPRO_thumb-284x284-3527c5176873a43c97082763d4deb6e4.png",
+      "md5": "3527c5176873a43c97082763d4deb6e4",
+      "size": 48420,
+      "uploadedDate": "2021-02-02T13:35:01.774Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralsplineaudioPRO_featured-894x488-300f91afc5fa0a5f95402ed346b696c9.png",
+      "md5": "300f91afc5fa0a5f95402ed346b696c9",
+      "size": 191038,
+      "uploadedDate": "2021-02-02T13:35:01.908Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Asset 13-1920x1080-a55b1d0798e1f49e4208932a0fac8f55_Snapshot.png",
+      "md5": "286f7bad0b76b3b99e2887248073f4ab",
+      "size": 3764,
+      "uploadedDate": "2021-02-02T13:34:59.157Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Asset 14-1920x1080-6aa2e504508c9dc432a49c34aa6337b8_Snapshot.png",
+      "md5": "698f80813c532e3cb866c16a0d8ed348",
+      "size": 2838,
+      "uploadedDate": "2021-02-02T13:34:59.500Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Asset 15-1920x1080-e43715cda6ccda017efcffcacf173f02_Snapshot.png",
+      "md5": "87f9cbe17cbf0032757f8dbbe8f677aa",
+      "size": 4918,
+      "uploadedDate": "2021-02-02T13:35:00.124Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Asset 16-1920x1080-f4d1d5d697b25b599e265933f698682d_Snapshot.png",
+      "md5": "5119d9f3bda29ec10088772c00c01c4d",
+      "size": 5598,
+      "uploadedDate": "2021-02-02T13:35:00.715Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Asset 17-1920x1080-6127086fe51ea8713d620a52988c1972_Snapshot.png",
+      "md5": "0b4ce28025ca9b496ae21332b589cdb8",
+      "size": 6492,
+      "uploadedDate": "2021-02-02T13:35:01.260Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Asset 18-1920x1080-fa51276e0543228b7f6bc92b401cfc51_Snapshot.png",
+      "md5": "cfa8b43b9db602c6a0be421d3fd7a1c7",
+      "size": 4677,
+      "uploadedDate": "2021-02-02T13:35:01.703Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "26c44106dfbb4489a01ca092d3e7e079"
+    }
+  ],
+  "catalogNs": null
+}

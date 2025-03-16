@@ -1,0 +1,128 @@
+{
+  "id": "5aef6bbc0e0c497a882e5dfd9bc0a2aa",
+  "namespace": "ue",
+  "title": "Starship Editor Style Overrider",
+  "description": "This plugin allows you to customize the style of the editor.",
+  "longDescription": "<p>The StyleOverrideStyleEditor lets you instantly customize editor styles and brushes to create your own visual style.</p><p><strong>This plug-in requires an understanding of how Style and Brush are handled in the UE Editor.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "starship-editor-style-overrider",
+  "creationDate": "2023-11-27T01:36:59.353Z",
+  "lastModifiedDate": "2024-10-15T08:59:18.979Z",
+  "effectiveDate": "2023-11-27T04:31:16.938Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-frhcrzb59d8v5k5xb9lgsacxnaaww6",
+    "name": "aquasilver"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li><strong>Advanced Customization:</strong> Use the StyleOverrideStyleEditor to customize the style and brushes of the editor.</li><li> You can get closer to your ideal visual style.</li><li><strong>Real-time preview:</strong> Edit in real time. As you make changes, the preview instantly reflects your changes, making the process of getting closer to your design goal a smooth experience.</li><li>(Depending on the adjustments you make, you may need to restart the editor.) </li></ul><p>Code Modules:</p><ul><li> StarshipEditorStyleOverrider (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 14</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: Link <a href=\"https://github.com/aquasilver/StarshipEditorStyleOverrider/blob/main/README.md\" rel=\"nofollow\">https://github.com/aquasilver/StarshipEditorStyleOverrider/blob/main/README.md</a></p><p> </p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "39cf8c15-663a-4b2a-b738-f2ec9ae82551"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/After.PNG-1920x1080-3a82f116d33feeff1f974d4cb2ce7063.jpg",
+      "md5": "3a82f116d33feeff1f974d4cb2ce7063",
+      "size": 170838,
+      "uploadedDate": "2023-11-20T09:13:11.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Before.PNG-1920x1080-22284127f7bad5d3bff3ae6f092e899c.jpg",
+      "md5": "22284127f7bad5d3bff3ae6f092e899c",
+      "size": 169333,
+      "uploadedDate": "2023-11-20T09:13:12.287Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StarshipEditorStyleOverrider_thumb-284x284-9228f8191108128e7a4c8a630fbcdc26.png",
+      "md5": "9228f8191108128e7a4c8a630fbcdc26",
+      "size": 58456,
+      "uploadedDate": "2023-11-20T09:13:12.614Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StarshipEditorStyleOverrider_featured-894x488-fd112b0e98918427b1ed0e41292dda3b.png",
+      "md5": "fd112b0e98918427b1ed0e41292dda3b",
+      "size": 109588,
+      "uploadedDate": "2023-11-20T09:13:12.661Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/After.PNG-1920x1080-3a82f116d33feeff1f974d4cb2ce7063_Snapshot.jpg",
+      "md5": "b3664e7e3a08416652c8a8b3c8990bce",
+      "size": 4295,
+      "uploadedDate": "2023-11-20T09:13:12.143Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Before.PNG-1920x1080-22284127f7bad5d3bff3ae6f092e899c_Snapshot.jpg",
+      "md5": "0fc8cada5a5006a3335ea18254b6c695",
+      "size": 4140,
+      "uploadedDate": "2023-11-20T09:13:12.517Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d7ff35d1bd6144a6b402b9298cf40c94"
+    }
+  ],
+  "catalogNs": null
+}

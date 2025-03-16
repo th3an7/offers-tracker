@@ -1,0 +1,290 @@
+{
+  "id": "d3ebc969904d4051b4d840e2ad4f68bc",
+  "namespace": "ue",
+  "title": "TMG Global Variables",
+  "description": "A system of global variables to get/set in unreal engine blueprints",
+  "longDescription": "<p>TMG Global Variables is a system of global static variables to get/set in unreal engine blueprints. Simply set the variable using a name in the variable parameters then call it with the name again!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tmg-global-variables",
+  "creationDate": "2023-06-10T14:52:14.435Z",
+  "lastModifiedDate": "2024-10-01T22:23:57.904Z",
+  "effectiveDate": "2023-06-10T14:52:14.387Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ft6pes42r6l62fmhs2azydvzlf5mcf",
+    "name": "Tegridy Made Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h1>Demo/Tutorial Video: <a href=\"https://youtu.be/S6f_zjFSnyc\" rel=\"nofollow\">https://youtu.be/S6f_zjFSnyc</a></h1><p>Features:</p><ul><li> Blueprint functions to get/set global variables, allows you to re-use variables in any blueprint</li><li> Supports static variables for: int32, float, FString, bool, FVector, AActor, uint8, UObject, FText, FName, FRotator, FTransform, and FLinearColor.</li><li> Simply name the variable in the set and get the name to get.</li><li>   Bonus: Save/Load string to &amp; from JSON files.</li></ul><p>Code Modules:</p><ul><li> GlobalVariables_TMG [Runtime]</li></ul><p> </p><p>Number of Blueprint Functions: 30</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows 64 bit</p><p>Supported Target Build Platforms: Windows 64 bit</p><p>Documentation: <a href=\"https://docs.google.com/document/d/14SY7akXekkx-tWTb6zvRIdQ7xNIOOP64S4UdWSIelRw/edit?usp&#61;sharing\" rel=\"nofollow\">https://docs.google.com/document/d/14SY7akXekkx-tWTb6zvRIdQ7xNIOOP64S4UdWSIelRw/edit?usp&#61;sharing</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/15qyQ816OOqDUHjVQJa-UCzYT4Ar5I3e9/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/15qyQ816OOqDUHjVQJa-UCzYT4Ar5I3e9/view?usp&#61;sharing</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "Stealth",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2023-08-22T16:03:44.093Z",
+      "status": "ACTIVE",
+      "referenceCount": 148,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0e86a3ee-87d1-430a-96b9-cc09aea2f8c0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image1-1920x1080-e06cac99ef5baaa5a2fbc688deb22ec5.png",
+      "md5": "e06cac99ef5baaa5a2fbc688deb22ec5",
+      "size": 604963,
+      "uploadedDate": "2023-05-29T22:29:44.574Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10801-1920x1080-12b2f3e42f449db7a485a130c1f50cd6.png",
+      "md5": "12b2f3e42f449db7a485a130c1f50cd6",
+      "size": 584178,
+      "uploadedDate": "2023-06-03T21:19:29.042Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10802-1920x1080-b9568f26d1657c09bea6121ff45dd5f3.png",
+      "md5": "b9568f26d1657c09bea6121ff45dd5f3",
+      "size": 547148,
+      "uploadedDate": "2023-06-03T21:19:29.555Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10803-1920x1080-97445571f677c28b8edaca5c22fe5549.png",
+      "md5": "97445571f677c28b8edaca5c22fe5549",
+      "size": 452284,
+      "uploadedDate": "2023-06-03T21:19:29.964Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10804-1920x1080-bb1b97d4c8150f79f7675a1987886db9.png",
+      "md5": "bb1b97d4c8150f79f7675a1987886db9",
+      "size": 407426,
+      "uploadedDate": "2023-06-03T21:19:30.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TMGGlobalVariables_thumb-284x284-60f106eaef529ff3df30797202e1312b.png",
+      "md5": "60f106eaef529ff3df30797202e1312b",
+      "size": 57617,
+      "uploadedDate": "2023-06-03T21:19:30.684Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TMGGlobalVariables_featured-894x488-59805ecbd5e1d1b99721cf56ce0f67fd.png",
+      "md5": "59805ecbd5e1d1b99721cf56ce0f67fd",
+      "size": 95216,
+      "uploadedDate": "2023-06-03T21:19:30.836Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10801-1920x1080-12b2f3e42f449db7a485a130c1f50cd6_Snapshot.png",
+      "md5": "a7d733d67a1d3c10b8175181ea188dc4",
+      "size": 5012,
+      "uploadedDate": "2023-06-03T21:19:29.386Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10802-1920x1080-b9568f26d1657c09bea6121ff45dd5f3_Snapshot.png",
+      "md5": "4f5e1fa1164bee4640151b46b50003c5",
+      "size": 5722,
+      "uploadedDate": "2023-06-03T21:19:29.828Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10803-1920x1080-97445571f677c28b8edaca5c22fe5549_Snapshot.png",
+      "md5": "51beb6a6956049746ab2256afa6c2f6c",
+      "size": 3876,
+      "uploadedDate": "2023-06-03T21:19:30.223Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10804-1920x1080-bb1b97d4c8150f79f7675a1987886db9_Snapshot.png",
+      "md5": "3521bc68fe0d1e0680ae154338e3c71e",
+      "size": 4255,
+      "uploadedDate": "2023-06-03T21:19:30.636Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image1-1920x1080-e06cac99ef5baaa5a2fbc688deb22ec5_Snapshot.png",
+      "md5": "7943d1bb762601741390b5e25b8daea0",
+      "size": 5159,
+      "uploadedDate": "2023-05-29T22:29:44.891Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image2-1920x1080-1927e2e18901ce34feb33077bacb6bf4_Snapshot.png",
+      "md5": "4f0817fa48511af5e5ec67aff1b62801",
+      "size": 5075,
+      "uploadedDate": "2023-05-29T22:29:45.364Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image3-1920x1080-5fbd216220269f9171ef8eb299b49109_Snapshot.png",
+      "md5": "d07c898c59ba24ff647ce3aa719f358b",
+      "size": 5408,
+      "uploadedDate": "2023-05-29T22:29:45.794Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image4-1920x1080-08fb8f661cca9773ed8256d1419a093b_Snapshot.png",
+      "md5": "1a438347e01a33ee8efecd0e32d9d24e",
+      "size": 5419,
+      "uploadedDate": "2023-05-29T22:29:46.297Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image5-1920x1080-eafe68dc7116655e16c32db24db76467_Snapshot.png",
+      "md5": "38bbfde79922690000044a0fa38799aa",
+      "size": 4731,
+      "uploadedDate": "2023-05-29T22:29:46.723Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "436f753fb4db404384e65f69900953c3"
+    }
+  ],
+  "catalogNs": null
+}

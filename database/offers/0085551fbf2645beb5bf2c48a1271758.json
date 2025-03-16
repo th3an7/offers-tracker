@@ -1,0 +1,194 @@
+{
+  "id": "0085551fbf2645beb5bf2c48a1271758",
+  "namespace": "ue",
+  "title": "Gym Designer for Deep Reinforcement Learning",
+  "description": "Enables designing a Gym for Deep Reinforcement Learning",
+  "longDescription": "<p>Gym Environment for Deep Reinforcement Learning is a plugin which allows to easily create a &#34;Reinforcement Learning&#34; environment with Unreal.</p><p>It provides features to set up the observation space, the action space, the reward, etc. in an Unreal level and exposes them on the network through an API.</p><p>This API can then be called from any RL framework (TensorFlow, PyTorch, Stable Baselines, etc.) to easily train a neural network to play your game.</p><p><br /></p><p>Note: Some Python files are provided as an example for the Reinforcement Learning part. To make the example work, you should install OpenAI Gym (gym) and Stable Baselines (stable-baselines3[extra]) for your Python environment.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gym-designer-for-deep-reinforcement-learning",
+  "creationDate": "2022-03-10T10:55:44.225Z",
+  "lastModifiedDate": "2024-10-08T10:17:37.379Z",
+  "effectiveDate": "2022-03-10T10:55:44.180Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-1f385b3839424280bd68decb808ffb",
+    "name": "Isara Tech."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Design the Reinforcement Learning environment within Unreal, with either Blueprints or C&#43;&#43; code</li><li> Connect with any Python RL framework using the provided Gym interface</li><li> Let your AI control the simulation and train autonomously</li></ul><p>Code Modules:</p><ul><li> AITrainerTools</li></ul><p>Number of Blueprints: 8</p><p>Number of C&#43;&#43; Classes: 12</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://docs.isaratech.com/ue4-plugins/drl-unreal\" rel=\"nofollow\">https://docs.isaratech.com/ue4-plugins/drl-unreal</a></p><p>Example Project: (incoming later)</p><p>Important/Additional Notes: The plugin is composed of two parts: the Unreal part and the Python part, both are provided but a Python runtime environment is required to run the Python side (it&#39;s also possible to replace Python by something else but the appropriate code for it is not provided)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "17d8ab31-c2d9-47b0-803e-45c092ce72a7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpaceChoicePaintv2-1920x1080-63fc088740a3ddd661b74f147e7c6608.png",
+      "md5": "63fc088740a3ddd661b74f147e7c6608",
+      "size": 1309655,
+      "uploadedDate": "2022-01-31T14:04:00.343Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Methodspaintv2-1920x1080-b2575fe5cfa4a4b60fe4976f317f14bd.png",
+      "md5": "b2575fe5cfa4a4b60fe4976f317f14bd",
+      "size": 466438,
+      "uploadedDate": "2022-01-31T14:04:00.729Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WidgetPaint3v2-1920x1080-5b3341caef4cb492b7bdd4b6121fcdfa.png",
+      "md5": "5b3341caef4cb492b7bdd4b6121fcdfa",
+      "size": 558847,
+      "uploadedDate": "2022-01-31T14:04:00.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RL image-1920x1080-b39696285f8ae9c928cc347f95992334.png",
+      "md5": "b39696285f8ae9c928cc347f95992334",
+      "size": 252906,
+      "uploadedDate": "2022-03-10T13:48:14.055Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GymDesignerforDeepReinforcementLearning_thumb-284x284-660f90c66912bb9f1cc99912e82d0334.png",
+      "md5": "660f90c66912bb9f1cc99912e82d0334",
+      "size": 37626,
+      "uploadedDate": "2022-02-03T09:04:05.153Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GymDesignerforDeepReinforcementLearning_featured-894x488-f031e472b1f607236970dcf0055a921d.png",
+      "md5": "f031e472b1f607236970dcf0055a921d",
+      "size": 91264,
+      "uploadedDate": "2022-02-03T09:04:05.280Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RL image-1920x1080-b39696285f8ae9c928cc347f95992334_Snapshot.png",
+      "md5": "bd4e6a93ca68282345c0dd94927e0624",
+      "size": 5447,
+      "uploadedDate": "2022-03-10T13:48:14.290Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/schma2v2-1920x1080-3c8e1ba15bf5818f6e3e10288a017023_Snapshot.png",
+      "md5": "e47cad9c36d64006906b05f6220ca735",
+      "size": 5441,
+      "uploadedDate": "2022-01-31T15:01:54.921Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WidgetPaint3v2-1920x1080-5b3341caef4cb492b7bdd4b6121fcdfa_Snapshot.png",
+      "md5": "de851d55f9e24494ff3a6c4ecb807586",
+      "size": 5613,
+      "uploadedDate": "2022-01-31T14:04:00.231Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SpaceChoicePaintv2-1920x1080-63fc088740a3ddd661b74f147e7c6608_Snapshot.png",
+      "md5": "55918a388a39a9ae2f5c219b764e903a",
+      "size": 6557,
+      "uploadedDate": "2022-01-31T14:04:00.579Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Methodspaintv2-1920x1080-b2575fe5cfa4a4b60fe4976f317f14bd_Snapshot.png",
+      "md5": "a21da4b351e28ecc693774012cd871a7",
+      "size": 5866,
+      "uploadedDate": "2022-01-31T14:04:00.924Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot-1920x1080-d1153284f93c2bd1f4d8c942b4bfae2b_Snapshot.jpg",
+      "md5": "cb8a4d915622eab9f0d05457ccf80244",
+      "size": 7162,
+      "uploadedDate": "2022-01-31T13:51:55.230Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "76a7288844fc4de49d6d74b04978312c"
+    }
+  ],
+  "catalogNs": null
+}

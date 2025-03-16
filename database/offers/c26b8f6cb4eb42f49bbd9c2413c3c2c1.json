@@ -1,0 +1,206 @@
+{
+  "id": "c26b8f6cb4eb42f49bbd9c2413c3c2c1",
+  "namespace": "ue",
+  "title": "Livelink for Blender",
+  "description": "The plug-in lets you stream data from Blender to Unreal in real time. Making it possible to work on you character armature or preview animation from Blender inside Unreal as you make changes.",
+  "longDescription": "<p>The Unreal-Blender Live Link plug-in makes it possible to stream data from Blender to Unreal in real time. Saving your production time of manually importing animations you have created inside Blender or the changes you have made on your</p><p>character armature.</p><p><br /></p><p>Features:</p><p>1) A simple blueprint setup for hassle-free experience.</p><p>2) Supports both static and skeletal mesh.</p><p>3) Multiple subjects can be registered at a time. That is you can add multiple armatures and can switch control between them.</p><p>4) You can either stream single character animation at a time or control bone of a particular armature.</p><p>5) Or you can stream multiple character animation or control multiple armature simultaneously.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "livelink-for-blender",
+  "creationDate": "2022-04-13T13:10:56.314Z",
+  "lastModifiedDate": "2024-10-15T11:15:17.517Z",
+  "effectiveDate": "2022-04-13T13:10:56.284Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-xh6wcsd7drr97tylnlabrctda332sh",
+    "name": "Viga Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Instructions:</p><p>1) Create your character blueprint and add your skeletal mesh.</p><p>2) Create your character animation blueprint-&gt;right click enter BlenderUnreal Live Link. You will be able to get an animation graph node, feed the subject name.(It should be the name of the armature that you gave inside the Blender).</p><p>3) Connect it to the output pose.</p><p>4) Go to window-&gt;live link-&gt;Source( you will see BlenderUnreal Live Link click on it then click ok).Launch the game preview.</p><p>5) That is it start the live link from Blender and you will see the live changes from blender to your unreal project.</p><p><br /></p><p>Code Modules:</p><ul><li> Live Link</li><li>Live Link Interface</li></ul><p><br /></p><p><strong>Number of Blueprints</strong>: 0</p><p>Number of C&#43;&#43; Classes: 8</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Instruction Document: https://vigaet-my.sharepoint.com/:w:/p/shreyas/Eab3ieXYF_JDvMs_51-H3osByFEwrzTcrqj8wMJMO95DOA</p><p>Blender Addon link: https://www.moviecolab.com/post/blender-to-unreal-live-link-plugin</p><p>Note: Live Link plugin should be enabled.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1eb467d0-7d77-4720-b485-896fd37834a9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 42-1920x1080-ac7e763ed02dbfd61d610b1e64a62379.png",
+      "md5": "ac7e763ed02dbfd61d610b1e64a62379",
+      "size": 1973987,
+      "uploadedDate": "2022-03-31T14:26:32.339Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 45-1920x1080-fe16f02bc06b5a65fee4c0261c8fe8f5.png",
+      "md5": "fe16f02bc06b5a65fee4c0261c8fe8f5",
+      "size": 1894129,
+      "uploadedDate": "2022-03-31T14:26:32.844Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 38-1920x1080-b89b5d78ca76d0ea2423e62da8a9cf2c.png",
+      "md5": "b89b5d78ca76d0ea2423e62da8a9cf2c",
+      "size": 133990,
+      "uploadedDate": "2022-03-31T14:26:33.226Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 39-1920x1080-a16ecefd94d95619b1937440d7e7dcb3.png",
+      "md5": "a16ecefd94d95619b1937440d7e7dcb3",
+      "size": 133998,
+      "uploadedDate": "2022-03-31T14:26:33.545Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 40-1920x1080-8c13d7ca2b89f084af4a875727cc11b5.png",
+      "md5": "8c13d7ca2b89f084af4a875727cc11b5",
+      "size": 620700,
+      "uploadedDate": "2022-03-31T14:26:33.991Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UnrealLiveLinkforBlender_thumb-284x284-a84b05c784b6f399fd9bba0ec166b8c9.png",
+      "md5": "a84b05c784b6f399fd9bba0ec166b8c9",
+      "size": 23194,
+      "uploadedDate": "2022-03-31T14:26:34.303Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UnrealLiveLinkforBlender_featured-894x488-28bcc8c982786be023b57d521ee63f91.png",
+      "md5": "28bcc8c982786be023b57d521ee63f91",
+      "size": 507273,
+      "uploadedDate": "2022-03-31T14:26:34.417Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 42-1920x1080-ac7e763ed02dbfd61d610b1e64a62379_Snapshot.png",
+      "md5": "62ad80ff440fa0eda905cd3287f132a1",
+      "size": 6391,
+      "uploadedDate": "2022-03-31T14:26:32.653Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 45-1920x1080-fe16f02bc06b5a65fee4c0261c8fe8f5_Snapshot.png",
+      "md5": "ec00fd0d6baf2813bebeca51a72e43ac",
+      "size": 5363,
+      "uploadedDate": "2022-03-31T14:26:33.144Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 38-1920x1080-b89b5d78ca76d0ea2423e62da8a9cf2c_Snapshot.png",
+      "md5": "aafccf1d8864e5d2b144a7a9a99b25ce",
+      "size": 3391,
+      "uploadedDate": "2022-03-31T14:26:33.473Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 39-1920x1080-a16ecefd94d95619b1937440d7e7dcb3_Snapshot.png",
+      "md5": "c3b824fe713303c024d2d68336fe2359",
+      "size": 3389,
+      "uploadedDate": "2022-03-31T14:26:33.828Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 40-1920x1080-8c13d7ca2b89f084af4a875727cc11b5_Snapshot.png",
+      "md5": "32bd2fab8eaace09ce16b7db3c1be78e",
+      "size": 6607,
+      "uploadedDate": "2022-03-31T14:26:34.240Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8fcdfea60abf4329a75d93e269e96630"
+    }
+  ],
+  "catalogNs": null
+}

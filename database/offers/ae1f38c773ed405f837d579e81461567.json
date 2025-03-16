@@ -1,0 +1,206 @@
+{
+  "id": "ae1f38c773ed405f837d579e81461567",
+  "namespace": "ue",
+  "title": "Demo Player with VR Spectate",
+  "description": "A complete Replay System with tools that take Amazing Screenshots of your game. Empower users to watch and create content of your game with this easy to use plugin.",
+  "longDescription": "<p>Preview: <a href=\"https://youtu.be/xnuyPA0rA-w\" rel=\"nofollow\">Trailer Video</a></p><p>New VR Update: <a href=\"https://youtu.be/J5bzkQ1laMI\" rel=\"nofollow\">VR Update Video</a></p><p><br /></p><p>Easily configure to auto record games, manage your demo streams with our viewer widget, and then playback the demo using our preset HUD. Oh did we mention, we provide support for playing the demos in Virtual Reality. Tested and setup with both Vive &amp; Oculus options!</p><p><br /></p><p>A C&#43;&#43; and Blueprint friendly plugin, that extends the default UE4 demo system. Save time and extend your game seamlessly with our easy 3 Step integration. It&#39;s also great for debugging gameplay as you can replay every recorded game easily.</p><p><br /></p><p>Support:</p><p><a href=\"https://www.youtube.com/watch?v&#61;Qr6QaLX_FH8&amp;list&#61;PLV-dIR06Tap_FCYpTMUO3zSnK8_yZWdHu\" rel=\"nofollow\">Training Videos</a></p><p><a href=\"http://www.w3studios.net/demoplayer/\" rel=\"nofollow\">Documentation &amp; Setup</a></p><p><a href=\"https://discord.gg/RXTeNX5\" rel=\"nofollow\">Discord Support</a></p><p><a href=\"http://eepurl.com/c50bbD\" rel=\"nofollow\">W3 Studios Newsletter Signup</a></p><p><br /></p><p>Example Projects:</p><p><a href=\"http://drive.google.com/open?id&#61;0BwdBSpb_wm8UWjdwblVLSnNaN0E\" rel=\"nofollow\">Engine 4.16 Example</a></p><p><a href=\"https://drive.google.com/open?id&#61;0BwdBSpb_wm8UVnBSV0x3TkFta1E\" rel=\"nofollow\">Engine 4.17 Example</a></p><p><a href=\"https://drive.google.com/open?id&#61;1tgs9EBr66HSoAZnP1s6O22Rxp1KRs9KJ\" rel=\"nofollow\">Engine 4.20 Example</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "demo-player-with-vr-spectate",
+  "creationDate": "2016-12-05T17:20:44.115Z",
+  "lastModifiedDate": "2024-10-15T10:11:43.992Z",
+  "effectiveDate": "2017-01-12T00:00:00.000Z",
+  "viewableDate": "2017-01-12T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-afb29f9ba84e44bfa53171df6167d0",
+    "name": "W3 Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>UMG Demo Hud Widget, materials and textures </p><p>UMG Demo Replay Viewer Widget, materials and textures </p><p>UMG Demo VR Hud Widget, materials and textures </p><p>Integrated VR pawns for Gamepad &#43; Headset setup, with 3 locomotion options </p><p>Integrated VR pawn for Motion Controller &#43; Headset setup </p><p>Extendable GameInstance, GameState, &amp; Player Controller that will drop into any game </p><p>Content Creation with Screenshot tool</p><p><br /></p><p>Hud Widget Features: </p><p>Play, Pause, Skip Forward, Skip Backward, Take Screenshot, ScreenShot Multiplier to take Ultra Resolution renders, Increase Play Rate for Fast Forward, Decrease Play Rate for Slow Motion, Goto Time, Timeline Bar that can be Scrubbed or clicked</p><p><br /></p><p>VR 3D Widget Features: </p><p>Play, Pause, Skip Forward, Skip Backward, Take Screenshot, Increase Play Rate for Fast Forward, Decrease Play Rate for Slow Motion, Timeline Bar that can be Scrubbed or clicked</p><p><br /></p><p>Replay Browser Features: </p><p>Click to Play, Display Live or Time since Live, Diplay Duration, Display Map Name, Display Length, Scroll Replays, Filter Replays, Delete Replays</p><p><br /></p><p>2D Movement Features: </p><p>Supports Mouse &amp; Keyboard, Supports Gamepad</p><p><br /></p><p>VR Movement Features: </p><p>Fly Mode for Gamepad &#43; Headset setup, Integrated Tom Looman&#39;s Teleport Mode for Gamepad &#43; Headset setup, Hybrid Mode for Gamepad &#43; Headset setup, Integrated Tom Looman&#39;s Motion Controller Mode for a Motion Controller &#43; Headset setup.</p><p><br /></p><p>Blueprints x 6 </p><p>UMG Blueprints x 8 </p><p>Textures x 17 </p><p>Materials x 26 </p><p>Meshes x 4 </p><p>VR Mannequin x 1</p><p><br /></p><p>Platforms Tested: Windows, Oculus, SteamVR / HTC Vive</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1093",
+      "name": "TOUCH-FRIENDLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:04.824Z",
+      "updated": "2019-06-20T11:59:04.824Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "156140bd-ce38-4147-9825-3fbc7ee73f51"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayerScreenshot1-1920x1080-964a2fea13bce8071b7fb592bb44f940.png",
+      "md5": "964a2fea13bce8071b7fb592bb44f940",
+      "size": 846130,
+      "uploadedDate": "2016-12-06T20:39:24.302Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayerScreenshot2-1920x1080-7f6986d9eef0ede26ca7b4bfba9b645e.png",
+      "md5": "7f6986d9eef0ede26ca7b4bfba9b645e",
+      "size": 569879,
+      "uploadedDate": "2016-12-06T20:39:13.171Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayerScreenshot3-1920x1080-745cf4d80cf4ddababf28cf09db51a71.png",
+      "md5": "745cf4d80cf4ddababf28cf09db51a71",
+      "size": 653287,
+      "uploadedDate": "2016-12-06T20:39:21.278Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayerScreenshot4-1920x1080-d0d3eafacbe088187107be2e2ec78a39.png",
+      "md5": "d0d3eafacbe088187107be2e2ec78a39",
+      "size": 529005,
+      "uploadedDate": "2016-12-06T20:39:18.958Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayerScreenshot5-1920x1080-6c409b64b19a88d8fb938a2a80e5aa54.png",
+      "md5": "6c409b64b19a88d8fb938a2a80e5aa54",
+      "size": 674417,
+      "uploadedDate": "2016-12-06T20:39:17.115Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayer_Thumb-284x284-bd537bb6378c3038466537675b90b33d.png",
+      "md5": "bd537bb6378c3038466537675b90b33d",
+      "size": 145861,
+      "uploadedDate": "2016-12-06T20:38:31.957Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayer_Featured-476x246-e9ca2e811d2cc246e192f258165845ec.png",
+      "md5": "e9ca2e811d2cc246e192f258165845ec",
+      "size": 484746,
+      "uploadedDate": "2016-12-06T20:39:27.716Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/DemoPlayer_FeaturedNew-894x488-e45ceab6490cf533f87836bd7c3a8b58.png",
+      "md5": "e45ceab6490cf533f87836bd7c3a8b58",
+      "size": 161352,
+      "uploadedDate": "2016-12-06T20:39:26.141Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4f3708ff582045a7b0f883801a043460"
+    }
+  ],
+  "catalogNs": null
+}

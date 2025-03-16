@@ -1,0 +1,362 @@
+{
+  "id": "65b9b3247c5c458dbb6de81c79cdc8f0",
+  "namespace": "ue",
+  "title": "Flying Navigation System",
+  "description": "A feature-complete and easy to use Navigation System for flying AI agents.",
+  "longDescription": "<p><a href=\"https://youtu.be/4Px1ZaAh1pQ\" rel=\"nofollow\">SHORT DEMO VIDEO</a> | <a href=\"https://blendersleuth.github.io/FlyingNavSystemSite/index.html\" rel=\"nofollow\">DOCUMENTATION</a> | <a href=\"https://discord.gg/eHsYcRa4JU\" rel=\"nofollow\">DISCORD SERVER</a> | <a href=\"https://trello.com/b/D68RlJ8P/flying-navigation-system-roadmap\" rel=\"nofollow\">ROADMAP</a></p><p><br /></p><p>A feature-complete and easy to use Navigation System for flying AI agents. With full 3D pathfinding capability, this plugin is perfect for building advanced flying AI that can intelligently navigate under bridges, around cities and through epic space battles. This plugin is capable of pathfinding in large worlds, as processing time is concentrated in detailed areas. With multithreaded building and asynchronous pathfinding support, your flying AI needn&#39;t break the frame budget. The deep integration into the existing navigation system will get you up and running in no time.</p><p><br /></p><p>The Flying Navigation System does not interfere with the default NavWalking navigation system, which can be used at the same time.</p><p><br /></p><p>Update Log:</p><p>1.0.20:</p><p>Re-added 4.27 support.</p><p>Fixed a sync issue with BuildPaths.</p><p>Fixed a crash due to multithreading.</p><p>Exposed ProjectPointExtent to blueprints.</p><p><br /></p><p>1.0.19:</p><p>Fixed issue with compiling on Android.</p><p>Fix for async pathfinding.</p><p><br /></p><p>1.0.18:</p><p>UE 5.4 Support.</p><p>Added option to process pathfinding queries across multiple frames.</p><p><br /></p><p>1.0.17:</p><p>UE 5.3 Support.</p><p>Fixed bug with serialization on PS5.</p><p>Made FlyingNavigationData constructor public to allow for subclassing.</p><p>Fixed crash on empty collision data.</p><p>Added NAVIGNORE as a static mesh component tag to selectively ignore meshes.</p><p><br /></p><p>1.0.16:</p><p>UE 5.2 Support</p><p>Fixed endpoint not using target location when traversing between nodes.</p><p><br /></p><p>1.0.15:</p><p>Added option to expand the range of free voxel search on path endpoints.</p><p><br /></p><p>1.0.14:</p><p>Fixed issue with hang on invalid path query, and sync issue with overridden node locations.</p><p><br /></p><p>1.0.13:</p><p>UE 5.1 Support.</p><p>Fixed EndPlay hang bug when aborting async queries.</p><p>Fixed sync issues with FSVOGenerator::Cancel() and FSVOGenerator::CollateRasterData().</p><p>Added option to limit the number of pathfinding iterations.</p><p><br /></p><p>1.0.12:</p><p>Added Smooth Path option to Pathfinding Query Settings. Alternative to Smooth Path node.</p><p>Merged UE5 version features into UE4 compatible plugin version.</p><p><br /></p><p>1.0.11:</p><p>Fixed issue with dedicated Linux Server</p><p>Included more detailed debug messages</p><p><br /></p><p>1.0.10:</p><p>UE5 Support. Uses double precision floats for LWC compatibility.</p><p><br /></p><p>1.0.9 (Requires 4.26&#43;):</p><p>More robust geometry gathering on multiple threads</p><p>Fixed lazy geometry gathering on landscapes</p><p>Exclusive bounds volumes support</p><p><br /></p><p>1.0.8:</p><p>Catmull-Rom Spline Path Smoothing using the Smooth Path node.</p><p>Extra PathfindingResult options for debugging</p><p>Fix crash related to garbage collection</p><p><br /></p><p>1.0.7:</p><p>UE5 support (just change the uplugin version) (NOTE: very experimental, has issues with World Partition)</p><p>Better debug paths drawing (doesn&#39;t clear user debug drawing)</p><p>Fixed crash caused by the Lazy Theta* pathfinding algorithm</p><p><br /></p><p>1.0.6:</p><p>Added SetNavigationPathNodes BP node to allow path post-processing in blueprints</p><p>Async functions now always finish, even if passed invalid data. The result can be checked with the GetPathfindingResult node.</p><p><br /></p><p>1.0.5:</p><p>Extended CPU Multithreading to support &gt;8 threads</p><p><br /></p><p>1.0.4:</p><p>Moved AllowPartialPaths checkbox to QuerySettings</p><p>Added GetPathfindingResult node for more info on fail states</p><p><br /></p><p>1.0.3:</p><p>Added AllowPartialPaths checkbox to blueprint nodes</p><p>Fixed crash caused by empty path</p><p><br /></p><p>1.0.2:</p><p>Fixed crash related to the Environment Query System</p><p><br /></p><p>1.0.1: </p><p>Updated Logo</p><p>Added more debug log warnings</p><p>Added support for World Origin Rebasing</p><p><br /></p><p>1.0: </p><p>Initial Release</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "flying-navigation-system",
+  "creationDate": "2021-03-18T12:32:17.248Z",
+  "lastModifiedDate": "2024-10-11T05:41:10.714Z",
+  "effectiveDate": "2021-03-18T13:07:17.859Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-sn9xlpm2t4h346mey2nj8wkdq3e682",
+    "name": "Ben Sutherland"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Full 3D Pathfinding capability for flying AI using an octree structure</li><li>3 Pathfinding algorithms (A*, Lazy Theta* and Theta*) with various optimisation options</li><li>Multithreaded octree generation (up to 8 threads)</li><li>Compatible with Behaviour Trees and the MoveToLocation blueprint node</li><li>Allows for agents with a large radius</li><li>Compact memory format</li><li>Supports procedural levels</li><li>Accessible Blueprint and C&#43;&#43; API for runtime building and custom querying</li><li>Fast debug drawing</li><li>Fast testing of accessible paths (precomputed connectivity)</li><li>Fast raycasting against octree structure</li></ul><p>Code Modules:</p><ul><li> FlyingNavSystem (Runtime)</li></ul><p>Number of Blueprints: N/A</p><p>Number of C&#43;&#43; Classes: 14</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows, macOS, Linux</p><p>Supported Target Build Platforms: Windows, macOS, Linux</p><p>Documentation: <a href=\"https://blendersleuth.github.io/FlyingNavSystemSite/index.html\" rel=\"nofollow\">Link</a></p><p>Example Project: <a href=\"https://github.com/BlenderSleuth/FlyingNavSystemSupport/tree/main/FlyingQuickstart\" rel=\"nofollow\">GitHub Link</a></p><p>Important/Additional Notes:</p><p>Before buying, please see <a href=\"https://blendersleuth.github.io/FlyingNavSystemSite/troubleshooting.html#limitations\" rel=\"nofollow\">here</a> for the current limitations of this plugin.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1193",
+      "name": "CYBERPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:54.272Z",
+      "updated": "2022-08-24T18:46:51.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "343a9376-61f1-43ec-9bd3-6fe8370df064"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fnslogoscreenshotflame-1920x1080-1ace40aa5f8ce9974492102c2ff5b61b.png",
+      "md5": "1ace40aa5f8ce9974492102c2ff5b61b",
+      "size": 511090,
+      "uploadedDate": "2021-03-19T10:26:26.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/advancedpathfinding-1920x1080-df3faef171f1a1294edd32c49daf2b64.png",
+      "md5": "df3faef171f1a1294edd32c49daf2b64",
+      "size": 453264,
+      "uploadedDate": "2021-02-17T10:11:32.148Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/complex2-1920x1080-e4c45f374fb855b4a603836231952beb.png",
+      "md5": "e4c45f374fb855b4a603836231952beb",
+      "size": 951917,
+      "uploadedDate": "2021-02-17T10:11:31.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Algos-1920x1080-7a8d262fbdbca6b9946a5f24c0746c6e.png",
+      "md5": "7a8d262fbdbca6b9946a5f24c0746c6e",
+      "size": 315623,
+      "uploadedDate": "2021-02-17T10:11:32.308Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/easy-1920x1080-f88ec29d3e884d34fdd8dd0821913ae8.png",
+      "md5": "f88ec29d3e884d34fdd8dd0821913ae8",
+      "size": 321198,
+      "uploadedDate": "2021-02-17T10:11:32.546Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/largescenes-1920x1080-73d974dd745e93c50881f81b7fe2ccc8.png",
+      "md5": "73d974dd745e93c50881f81b7fe2ccc8",
+      "size": 890985,
+      "uploadedDate": "2021-02-17T10:11:32.729Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/complex-1920x1080-718a9367a882e041846f4f69f7f3741e.png",
+      "md5": "718a9367a882e041846f4f69f7f3741e",
+      "size": 931473,
+      "uploadedDate": "2021-02-17T10:11:32.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/octree-1920x1080-0419123c7cf75eac751d179973b247a8.png",
+      "md5": "0419123c7cf75eac751d179973b247a8",
+      "size": 426962,
+      "uploadedDate": "2021-02-17T10:38:05.727Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cool-1920x1080-9545ea790b51510e43318b47d09107a7.png",
+      "md5": "9545ea790b51510e43318b47d09107a7",
+      "size": 918665,
+      "uploadedDate": "2021-02-17T10:38:05.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FlyingNavigationSystem_thumb-284x284-adf9abf0eecb14e998821403c3f1250b.png",
+      "md5": "adf9abf0eecb14e998821403c3f1250b",
+      "size": 56541,
+      "uploadedDate": "2021-03-18T12:30:29.239Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FlyingNavigationSystem_featured-894x488-c46eb318d2e96ef12bd3b3d7343147ba.png",
+      "md5": "c46eb318d2e96ef12bd3b3d7343147ba",
+      "size": 203935,
+      "uploadedDate": "2021-03-18T12:30:29.321Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fnslogoscreenshotflame-1920x1080-1ace40aa5f8ce9974492102c2ff5b61b_Snapshot.png",
+      "md5": "0c0a2e65df89c747db497197f6b3aacd",
+      "size": 6006,
+      "uploadedDate": "2021-03-19T10:26:26.543Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/octree-1920x1080-0419123c7cf75eac751d179973b247a8_Snapshot.png",
+      "md5": "034a6a14d6765506b30028a1d48bcc6c",
+      "size": 5695,
+      "uploadedDate": "2021-02-17T10:38:05.834Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cool-1920x1080-9545ea790b51510e43318b47d09107a7_Snapshot.png",
+      "md5": "93acbe6fdb581311a4fd4ab5639a8183",
+      "size": 7795,
+      "uploadedDate": "2021-02-17T10:38:06.085Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/complex2-1920x1080-e4c45f374fb855b4a603836231952beb_Snapshot.png",
+      "md5": "8005faacce377cfb68f4ce37126b0fc5",
+      "size": 9633,
+      "uploadedDate": "2021-02-17T10:11:32.063Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/advancedpathfinding-1920x1080-df3faef171f1a1294edd32c49daf2b64_Snapshot.png",
+      "md5": "ee939d9f00dfaa9aac96f233e9c03ce3",
+      "size": 4504,
+      "uploadedDate": "2021-02-17T10:11:32.226Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Algos-1920x1080-7a8d262fbdbca6b9946a5f24c0746c6e_Snapshot.png",
+      "md5": "eb3c27256002ef83c03db773d4d5a24f",
+      "size": 5579,
+      "uploadedDate": "2021-02-17T10:11:32.398Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/easy-1920x1080-f88ec29d3e884d34fdd8dd0821913ae8_Snapshot.png",
+      "md5": "9d717f002bd8d13004de1a0ba5ed1815",
+      "size": 5378,
+      "uploadedDate": "2021-02-17T10:11:32.616Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/largescenes-1920x1080-73d974dd745e93c50881f81b7fe2ccc8_Snapshot.png",
+      "md5": "e970c3b8113b143ee4fdf9ab6c6ac4ce",
+      "size": 6913,
+      "uploadedDate": "2021-02-17T10:11:32.823Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/complex-1920x1080-718a9367a882e041846f4f69f7f3741e_Snapshot.png",
+      "md5": "6d51e06c1466a83dd03c9087a8765fc5",
+      "size": 8880,
+      "uploadedDate": "2021-02-17T10:11:32.997Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d6aba3a6f420443ea9be31ae9d587f43"
+    }
+  ],
+  "catalogNs": null
+}

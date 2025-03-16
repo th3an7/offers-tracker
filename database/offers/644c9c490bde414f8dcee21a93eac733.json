@@ -1,0 +1,176 @@
+{
+  "id": "644c9c490bde414f8dcee21a93eac733",
+  "namespace": "ue",
+  "title": "Basic Ballistics",
+  "description": "A ballistics system with the ability to penetrate, ricochet, and stop if the actor is too big",
+  "longDescription": "<p><a href=\"https://youtu.be/6KsMelCaOmw\" rel=\"nofollow\">Demo and implementation</a> are Old but on YouTube</p><p><a href=\"https://discord.gg/KQWwtQyQFP\" rel=\"nofollow\">Discord</a></p><p><a href=\"https://drive.google.com/drive/folders/1uUzoORHy1pP-vFQ5mOxj9zTEIfekfqrX?usp&#61;sharing\" rel=\"nofollow\">Demo and Implementation New</a> (On Google Drive, because YouTube gave me an error)</p><p><br /></p><p>A ballistics system with the ability to penetrate, ricochet, and stop if the actor is too big. Can be used for shooters. You can set your own decals, and the damage depends on how many actors it has gone through and if it has made a ricochet.</p><p><br /></p><p>If you have questions, feel free to ask me on the Discord server</p><p><br /></p><p>The texture from the bullet hole was taken from <a href=\"https://pixabay.com/photos/space-junk-space-debris-a-shot-11648/\" rel=\"nofollow\">Here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "basic-ballistics",
+  "creationDate": "2023-11-25T14:19:01.646Z",
+  "lastModifiedDate": "2024-10-23T10:13:57.306Z",
+  "effectiveDate": "2023-11-25T14:19:01.599Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-j89s97qv8bugaqxlpvawg9vwt3alda",
+    "name": "EasyC0de"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Penetration</li><li>Easy to setup</li><li>Ricochet</li><li>Ability to add decals</li><li>Highly customizable</li></ul><p>Includes 3 Blueprints</p><p>Supported Development Platforms:</p><p>Windows: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1199",
+      "name": "STEAMPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:57.224Z",
+      "updated": "2019-06-20T11:59:57.224Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1ef74677-d6fc-4c8e-9c32-1c92a8d36e45"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11152023 110516 PM-1920x1080-10b87ed0553bfc5cf4829292d5478a07.png",
+      "md5": "10b87ed0553bfc5cf4829292d5478a07",
+      "size": 2193315,
+      "uploadedDate": "2023-11-15T21:13:24.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11252023 12304 PM-1920x1080-1678b8e662ea05bc059b5b8e6ec7028d.png",
+      "md5": "1678b8e662ea05bc059b5b8e6ec7028d",
+      "size": 2461531,
+      "uploadedDate": "2023-11-25T14:35:21.732Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11252023 12316 PM-1920x1080-93707046188c40d3710f1979b8cb6131.png",
+      "md5": "93707046188c40d3710f1979b8cb6131",
+      "size": 2452357,
+      "uploadedDate": "2023-11-25T14:35:22.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11252023 12329 PM-1920x1080-12a7de28a90c4c3bd7c2d9d356a96ed7.png",
+      "md5": "12a7de28a90c4c3bd7c2d9d356a96ed7",
+      "size": 2216175,
+      "uploadedDate": "2023-11-25T14:35:22.798Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BasicBallistics_thumb-284x284-0fa38c1a9b02ca7df9270aead074ad21.png",
+      "md5": "0fa38c1a9b02ca7df9270aead074ad21",
+      "size": 75927,
+      "uploadedDate": "2023-11-25T14:36:05.790Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BasicBallistics_featured-894x488-72e7499c7642340c6834c040582dd68a.png",
+      "md5": "72e7499c7642340c6834c040582dd68a",
+      "size": 380580,
+      "uploadedDate": "2023-11-25T14:36:05.921Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11252023 12304 PM-1920x1080-1678b8e662ea05bc059b5b8e6ec7028d_Snapshot.png",
+      "md5": "76f5f8394fec1e8553ecfb56219c8c4b",
+      "size": 5860,
+      "uploadedDate": "2023-11-25T14:35:22.083Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11252023 12316 PM-1920x1080-93707046188c40d3710f1979b8cb6131_Snapshot.png",
+      "md5": "f675c37fcfbca57b066900dcd73085cb",
+      "size": 5311,
+      "uploadedDate": "2023-11-25T14:35:22.648Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11252023 12329 PM-1920x1080-12a7de28a90c4c3bd7c2d9d356a96ed7_Snapshot.png",
+      "md5": "dadf808169d969711dfdbdd1457d3bd8",
+      "size": 4065,
+      "uploadedDate": "2023-11-25T14:35:23.144Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BasicBalistics Preview NetMode Standalone 0  64-bitD3D Shader Model 6 11152023 110516 PM-1920x1080-10b87ed0553bfc5cf4829292d5478a07_Snapshot.png",
+      "md5": "f3a7366750e66993b976e96682ace537",
+      "size": 4421,
+      "uploadedDate": "2023-11-15T21:13:24.933Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "33311d3ce6d740358355c7f6258ff939"
+    }
+  ],
+  "catalogNs": null
+}

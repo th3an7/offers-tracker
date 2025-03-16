@@ -1,0 +1,314 @@
+{
+  "id": "bdc7921fa4d94ddbbf1deb04ddb88eef",
+  "namespace": "ue",
+  "title": "OMEGALIGN",
+  "description": "Helpful functions and hotkeys to place and align objects in your levels.",
+  "longDescription": "<p>Watch the <a href=\"https://youtu.be/t_LEJllJDzA\" rel=\"nofollow\">overview video here</a>.</p><p><br /></p><p><em>OMEGALIGN </em>is a helpful set of functions and hotkeys that will improve your level design and world building workflow. The exposed settings allow you to tightly tailor the <em>OMEGALIGN</em> functions to your personal needs.</p><p><br /></p><p>I decided to make OMEGALIGN free and <a href=\"https://github.com/SaschaWagentrotz/OMEGALIGN\" rel=\"nofollow\">open source</a>.</p><p><br /></p><ul><li> Set rotation values of all selected objects to the rotation value of the first/last object</li><li> Set location values of all selected objects to the location value of the first/last object</li><li> Set scale values of all selected objects to the rotation value of the first/last object</li><li> Set transform values of all selected objects to the transform value of the first/last object</li><li>Determine which axes should be affected by these functions</li><li>Randomly rotate selected objects</li><li>Adjust random rotation rules (affected axes, min-max values, individual random rotation per actor or per group)</li><li>Rotate all selected objects in a way that they look towards the first/last selected object (add offsets if needed)</li><li>Increment the transform values of all selected objects</li><li>Randomly distribute all selected objects</li><li>Duplicate selected actors to view or below the mouse cursor, with various settings (for example the possibility to align the duplicated actors to the surface)</li><li>Duplicate selected actors in an array with various settings to adjust offsets and increment rotations</li><li>Select similar actors (of the same class / with the same mesh) within a specified distance</li><li>Select, Multi-select or deselect all actors in a specified distance around the mouse cursor.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "omegalign",
+  "creationDate": "2023-02-26T19:24:11.092Z",
+  "lastModifiedDate": "2024-10-15T09:51:44.303Z",
+  "effectiveDate": "2023-02-26T19:24:11.030Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3zxdafbpvudk9cdsmce95vlrh49965",
+    "name": "Sascha Wagentrotz"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features: </strong></p><ul><li> 20 Hotkeys for new functions that will improve your level design / world building workflow</li><li>Additional Widget to trigger almost all functions with the click of a button</li><li>49 Settings to alter these functions to your needs</li></ul><p><br /></p><p><strong>Code Modules: </strong></p><ul><li> OMEGALIGN [Editor]</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 5</p><p>Supported Development Platforms: Tested on Windows, should work on all others as well</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1BukJtvR86e1oSRvzC2ZVKuNKR8-PBIqWr09VeH7Z1UQ/edit?usp&#61;sharing\" rel=\"nofollow\">Link </a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7c41e3dc-1d5e-4cf0-aade-01c18dbceb7f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OMEGALIGNHeroImage-1920x1080-a7fad2d368d007f562ff3d065a4fd1e5.jpg",
+      "md5": "a7fad2d368d007f562ff3d065a4fd1e5",
+      "size": 2957664,
+      "uploadedDate": "2023-02-26T19:41:33.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OMEGALIGNWidget01-1920x1080-d4770eb92ac612def2c552f75a3af3e9.jpg",
+      "md5": "d4770eb92ac612def2c552f75a3af3e9",
+      "size": 596406,
+      "uploadedDate": "2023-03-01T23:15:41.410Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OMEGALIGNWidget02-1920x1080-4ab1375aea394e7a44486bbab12d336a.jpg",
+      "md5": "4ab1375aea394e7a44486bbab12d336a",
+      "size": 645118,
+      "uploadedDate": "2023-03-01T23:15:41.782Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OMEGALIGNWidget03-1920x1080-d8d7668a4798968b535d6feddc503206.jpg",
+      "md5": "d8d7668a4798968b535d6feddc503206",
+      "size": 630473,
+      "uploadedDate": "2023-03-01T23:15:42.301Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OMEGALIGNHotkeys-1920x1080-67b97199576f35cbad4e0e7f60ccd00c.jpg",
+      "md5": "67b97199576f35cbad4e0e7f60ccd00c",
+      "size": 538967,
+      "uploadedDate": "2023-03-01T23:15:42.774Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OMEGALIGNSettings01-1920x1080-18a74b90fc4f74c12911569c60b59103.jpg",
+      "md5": "18a74b90fc4f74c12911569c60b59103",
+      "size": 433485,
+      "uploadedDate": "2023-03-01T23:15:43.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OMEGALIGNSettings02-1920x1080-82c10cecf4f7560820ab28f885966ea4.jpg",
+      "md5": "82c10cecf4f7560820ab28f885966ea4",
+      "size": 418486,
+      "uploadedDate": "2023-03-01T23:15:43.574Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OMEGALIGN_thumb-284x284-688e3d4dcd175c6c1a82671469d62948.png",
+      "md5": "688e3d4dcd175c6c1a82671469d62948",
+      "size": 191790,
+      "uploadedDate": "2023-02-26T15:52:42.019Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OMEGALIGN_featured-894x488-1d04c9be33bc08ceec10309c73a2c96f.png",
+      "md5": "1d04c9be33bc08ceec10309c73a2c96f",
+      "size": 992600,
+      "uploadedDate": "2023-02-26T15:52:42.155Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNWidget01-1920x1080-d4770eb92ac612def2c552f75a3af3e9_Snapshot.jpg",
+      "md5": "e8990364c963ba23d9a6ebc9c5d2b6b0",
+      "size": 5228,
+      "uploadedDate": "2023-03-01T23:15:41.657Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNWidget02-1920x1080-4ab1375aea394e7a44486bbab12d336a_Snapshot.jpg",
+      "md5": "f308e7160b8ab4797a94cba8c7a996cc",
+      "size": 4981,
+      "uploadedDate": "2023-03-01T23:15:42.079Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNWidget03-1920x1080-d8d7668a4798968b535d6feddc503206_Snapshot.jpg",
+      "md5": "1565fd6aaeb6d95d12ecd2d7be2ff17d",
+      "size": 5209,
+      "uploadedDate": "2023-03-01T23:15:42.631Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNHotkeys-1920x1080-67b97199576f35cbad4e0e7f60ccd00c_Snapshot.jpg",
+      "md5": "310404b5adf82be0b1bec3132bb2ec6c",
+      "size": 3776,
+      "uploadedDate": "2023-03-01T23:15:42.994Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNSettings01-1920x1080-18a74b90fc4f74c12911569c60b59103_Snapshot.jpg",
+      "md5": "395c10d98db6709f6c2924a61f239c98",
+      "size": 3326,
+      "uploadedDate": "2023-03-01T23:15:43.443Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNSettings02-1920x1080-82c10cecf4f7560820ab28f885966ea4_Snapshot.jpg",
+      "md5": "2b52378c4da8cf0e98bfe56557cfd992",
+      "size": 3236,
+      "uploadedDate": "2023-03-01T23:15:43.789Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNHotkeys-1920x1080-8ba0036f6e04d8a4682e419e183ad394_Snapshot.jpg",
+      "md5": "0e82748cc3d44baf087f02f6b6016f81",
+      "size": 5012,
+      "uploadedDate": "2023-02-27T22:00:12.247Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNSettings-1920x1080-50263ca7bd550dd7a9aebcf52dcc8a15_Snapshot.jpg",
+      "md5": "1eeac026fee27adf459e9ce3abe78ba4",
+      "size": 3922,
+      "uploadedDate": "2023-02-27T22:00:12.639Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNHeroImage-1920x1080-a7fad2d368d007f562ff3d065a4fd1e5_Snapshot.jpg",
+      "md5": "d49b79ed56049c905b8c7e7f259dc719",
+      "size": 5837,
+      "uploadedDate": "2023-02-26T19:41:34.309Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNHotkeys-1920x1080-987ba471a12124e867f0daf5871f7af9_Snapshot.jpg",
+      "md5": "05ffda8144d68d856a697df6cf3a7a02",
+      "size": 3836,
+      "uploadedDate": "2023-02-26T16:51:00.424Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OMEGALIGNSettings-1920x1080-fe6ffb7236c7046f315934ae6a995bf3_Snapshot.jpg",
+      "md5": "2b8b042dae4e94fc6be8e8541a8e89cf",
+      "size": 3771,
+      "uploadedDate": "2023-02-26T15:52:41.912Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b4e2a9cc64614d66a51f28131df697ad"
+    }
+  ],
+  "catalogNs": null
+}

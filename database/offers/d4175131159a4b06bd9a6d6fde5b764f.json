@@ -1,0 +1,326 @@
+{
+  "id": "d4175131159a4b06bd9a6d6fde5b764f",
+  "namespace": "ue",
+  "title": "Decal Constructor",
+  "description": "Editor tool for creating decals with text, images, shapes and effects directly in the engine.",
+  "longDescription": "<p>Video Overview: <a href=\"https://youtu.be/n6wvCvJZiKQ\" rel=\"nofollow\">https://youtu.be/n6wvCvJZiKQ</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "decal-constructor",
+  "creationDate": "2022-12-02T09:43:42.269Z",
+  "lastModifiedDate": "2024-10-01T17:24:48.254Z",
+  "effectiveDate": "2022-12-02T09:48:23.307Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7e450a245a4eb3b21812df3415625e",
+    "name": "AZETON games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Combining an unlimited number of text blocks using the Font asset. (You can use any TTF or OTF font imported into your project. ATTENTION: After importing the font, you need to increase the Legacy Font Size value in the Font asset. For better quality, it is recommended to set the Legacy Font Size value to 250 or higher.)</li><li>Stroke text</li><li>Rounding text characters</li><li>Combining an unlimited number of images with alpha channel</li><li>2 shapes (rectangle, triangle or ellipse) with stroke, rounded corners and fill</li><li>Striped fill</li><li>Leaks</li><li>Damage based on the selected color of the underlying objects</li><li>Embossing</li><li>Blending and blurring the base color of the underlying objects</li><li>Blending and blurring the normals of the underlying objects</li><li>Additional PBR material (base color, roughness, metallic, normal, opacity)</li></ul><p>and much more. In total, this product has more than 100 customizable parameters.</p><p>Number of Blueprints: 1</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Yes</li></ul><p>Documentation: <a href=\"http://azetongames.com/products/decal_constructor/\" rel=\"nofollow\">http://azetongames.com/products/decal_constructor/</a></p><p>Important/Additional Notes:</p><ul><li>Requires the Editor Scripting Utilities plugin (built-in, enabled by default in Unreal Engine 5.0 and later).</li><li>The DecalConstructor is only for use in the editor, in a packaged game there will be no DecalConstructor actors.</li><li>DecalConstructor actors may not display properly after loading a level. To fix this, please select any DecalConstructor actor and click the <strong>Refresh All</strong> button in the Details panel.</li><li>This product does not include fonts.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cec18804-bf6c-42bb-8443-eee0623b4e32"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00048-1920x1080-a6413660c7d3b3d703248f2996386ca4.jpg",
+      "md5": "a6413660c7d3b3d703248f2996386ca4",
+      "size": 1770781,
+      "uploadedDate": "2022-11-26T13:58:00.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00040-1920x1080-2ec1e9bcf9f388df0edbd97dffa8648c.jpg",
+      "md5": "2ec1e9bcf9f388df0edbd97dffa8648c",
+      "size": 2001767,
+      "uploadedDate": "2022-11-26T13:58:00.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00039-1920x1080-bec5fb798a5e7235891de40afbcef825.jpg",
+      "md5": "bec5fb798a5e7235891de40afbcef825",
+      "size": 2080737,
+      "uploadedDate": "2022-11-26T13:58:01.309Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00042-1920x1080-2584db1b358c3436463cc5c7eae4e981.jpg",
+      "md5": "2584db1b358c3436463cc5c7eae4e981",
+      "size": 2153924,
+      "uploadedDate": "2022-11-26T13:58:01.752Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00041-1920x1080-6d84aa43160250d20f06bb11bffc4637.jpg",
+      "md5": "6d84aa43160250d20f06bb11bffc4637",
+      "size": 2051659,
+      "uploadedDate": "2022-11-26T13:58:02.237Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshotC-1920x1080-059d48e4bc7c84f1042359cd81ead02b.jpg",
+      "md5": "059d48e4bc7c84f1042359cd81ead02b",
+      "size": 793135,
+      "uploadedDate": "2022-12-02T09:40:29.530Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 33-1920x1080-eeea6818219e7fc7ab1bf956e0ab5947.png",
+      "md5": "eeea6818219e7fc7ab1bf956e0ab5947",
+      "size": 288766,
+      "uploadedDate": "2022-11-26T13:58:02.691Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DecalConstructor_thumb-284x284-caa1851fe9c5d1494ad3d49eaec90243.png",
+      "md5": "caa1851fe9c5d1494ad3d49eaec90243",
+      "size": 194087,
+      "uploadedDate": "2022-12-07T18:09:11.490Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DecalConstructor_featured-894x488-87deb93c0af490dbabacf227f876929f.png",
+      "md5": "87deb93c0af490dbabacf227f876929f",
+      "size": 978565,
+      "uploadedDate": "2022-12-07T18:09:11.663Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshotC-1920x1080-059d48e4bc7c84f1042359cd81ead02b_Snapshot.jpg",
+      "md5": "04c2274a0da70126f805ce133d5876df",
+      "size": 7135,
+      "uploadedDate": "2022-12-02T09:40:29.789Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00048-1920x1080-a6413660c7d3b3d703248f2996386ca4_Snapshot.jpg",
+      "md5": "e77463755def314c274e068e4bcd608e",
+      "size": 7862,
+      "uploadedDate": "2022-11-26T13:58:00.480Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00040-1920x1080-2ec1e9bcf9f388df0edbd97dffa8648c_Snapshot.jpg",
+      "md5": "9e5ae69299fb5f91e3f96e4e569a0f94",
+      "size": 8818,
+      "uploadedDate": "2022-11-26T13:58:01.090Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00039-1920x1080-bec5fb798a5e7235891de40afbcef825_Snapshot.jpg",
+      "md5": "8258066baedb99aeda5f7d35bfad666c",
+      "size": 8571,
+      "uploadedDate": "2022-11-26T13:58:01.612Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00042-1920x1080-2584db1b358c3436463cc5c7eae4e981_Snapshot.jpg",
+      "md5": "f6fc6fdb619fcacac0acd46dbb52fea6",
+      "size": 8896,
+      "uploadedDate": "2022-11-26T13:58:02.069Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00041-1920x1080-6d84aa43160250d20f06bb11bffc4637_Snapshot.jpg",
+      "md5": "aa9ab072c2b73f288d8693d00b506b40",
+      "size": 7873,
+      "uploadedDate": "2022-11-26T13:58:02.542Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 33-1920x1080-eeea6818219e7fc7ab1bf956e0ab5947_Snapshot.png",
+      "md5": "dff1f15999dd6c575c9fa887506e1cd5",
+      "size": 6145,
+      "uploadedDate": "2022-11-26T13:58:02.954Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "374600f5901646a583507242cb41e1ea"
+    }
+  ],
+  "catalogNs": null
+}

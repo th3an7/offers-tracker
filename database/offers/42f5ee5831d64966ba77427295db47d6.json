@@ -1,0 +1,338 @@
+{
+  "id": "42f5ee5831d64966ba77427295db47d6",
+  "namespace": "ue",
+  "title": "Slice Plane",
+  "description": "This asset allows you to hide specific parts of any mesh, and has 3 types of shape-based mesh concealment: planar, box and spherical. Works both in the editor and during runtime.",
+  "longDescription": "<p><a href=\"https://youtu.be/-Mok8w5qz1U\" rel=\"nofollow\">Video</a> | <a href=\"https://docs.google.com/document/d/e/2PACX-1vTMSA2TLOJY7CtfNZGLYChXLu_Eo5D2ivs7fZQLxrnH3WKGu1JK5gdVz8MYb1UM-lH9_tSSeIc38try/pub\" rel=\"nofollow\">Documentation</a> | <a href=\"https://drive.google.com/file/d/1-cw3UXJPBvQhEAGZpDQ9s6o21GsGx00W/view?usp&#61;sharing\" rel=\"nofollow\">Playable Demo</a></p><p>Support <a href=\"mailto:andrewesenin27&#64;gmail.com\" rel=\"nofollow\">andrewesenin27&#64;gmail.com</a></p><p><br /></p><p>You can also take a look at other similar assets made by me here:</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/a1cc9af48d40444ca13982e9c2564866\" rel=\"nofollow\">Asset for hiding of walls, foliage and other objects</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/50f339fc6b234717a16bb9f7d66000f1\" rel=\"nofollow\">Asset that is specifically designed for hiding parts of multi-story buildings</a></p><p><br /></p><p>For this asset to work, you will need to add one of the 3 functions included in this asset to your materials, then any mesh, to which those materials are applied, will be hidden by the Slicer.</p><p>Each type of Slicer requires its own Material Function.</p><p>(See <a href=\"https://docs.google.com/document/d/e/2PACX-1vTMSA2TLOJY7CtfNZGLYChXLu_Eo5D2ivs7fZQLxrnH3WKGu1JK5gdVz8MYb1UM-lH9_tSSeIc38try/pub\" rel=\"nofollow\">Documentation</a> for additional information).</p><p><br /></p><p>Slicer does not cut the geometry or collision of the mesh, only hides a part of it.</p><p>Only one slicer can be used on a level at the same time.</p><p><br /></p><p><strong>Features</strong>:</p><p>3 types of mesh concealment:</p><p>Planar - hides everything that’s located on one of its sides</p><p>Box - hides everything inside, can be rotated and scaled, can also be inverted to hide everything outside of it. </p><p>Spherical - hides everything inside, can be scaled and inverted </p><ul><li>Works both in the editor and during runtime</li><li>Hidden meshes can cast shadows</li><li>Hidden meshes can be rotated</li><li>Hidden area can be inverted</li><li>Works with decals</li><li>Bonus: a simple top-down camera and border blueprints are also included</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "slice-plane",
+  "creationDate": "2024-06-30T11:13:09.760Z",
+  "lastModifiedDate": "2024-10-01T12:53:32.628Z",
+  "effectiveDate": "2024-06-30T11:13:09.723Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5u4n4ypadg95wcf54mxnf8cgss4apb",
+    "name": "Andrew Esenin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Completely made in blueprints</p><p><br /></p><p><strong>Contains</strong>:</p><ul><li>1 Main Slicer Blueprint</li><li>3 Material Functions</li><li>6 Demo Blueprints and Widgets</li><li>7 Demo Materials and Material instances</li><li>2 Textures</li><li>1 Mesh</li><li>Overview level</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1094",
+      "name": "TANKS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:05.308Z",
+      "updated": "2019-06-20T11:59:05.308Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1095",
+      "name": "PINBALL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:05.792Z",
+      "updated": "2019-06-20T11:59:05.792Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "59f58490-557f-4655-98f7-2bf9d001c782"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot01-1920x1080-f0ade1d21c0103f4336905b1efd578eb.jpg",
+      "md5": "f0ade1d21c0103f4336905b1efd578eb",
+      "size": 790531,
+      "uploadedDate": "2024-06-29T16:36:31.097Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot02-1920x1080-b8e1b747db6f07c078cc233d087a623f.jpg",
+      "md5": "b8e1b747db6f07c078cc233d087a623f",
+      "size": 799338,
+      "uploadedDate": "2024-06-29T16:36:31.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot03-1920x1080-7bcbdd5b80586bfaefa43433b5e01a3b.jpg",
+      "md5": "7bcbdd5b80586bfaefa43433b5e01a3b",
+      "size": 822672,
+      "uploadedDate": "2024-06-29T16:36:32.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot04-1920x1080-3d1ee363aedb7799b714744401d42c52.jpg",
+      "md5": "3d1ee363aedb7799b714744401d42c52",
+      "size": 756990,
+      "uploadedDate": "2024-06-29T16:36:32.804Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot05-1920x1080-dd1aa1cbe015bf3d6e8302ef3c38db01.jpg",
+      "md5": "dd1aa1cbe015bf3d6e8302ef3c38db01",
+      "size": 737168,
+      "uploadedDate": "2024-06-29T16:36:33.308Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SlicePlane_thumb-284x284-18b8238bb4d4b81b6674fb74633f7193.png",
+      "md5": "18b8238bb4d4b81b6674fb74633f7193",
+      "size": 156974,
+      "uploadedDate": "2024-06-29T16:36:33.825Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SlicePlane_featured-894x488-1ec2f662254405dadc6518523b76ffaa.png",
+      "md5": "1ec2f662254405dadc6518523b76ffaa",
+      "size": 747661,
+      "uploadedDate": "2024-06-29T16:36:33.941Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot01-1920x1080-f0ade1d21c0103f4336905b1efd578eb_Snapshot.jpg",
+      "md5": "6bd4d29a9fb17b867fc8adbb13e21773",
+      "size": 6584,
+      "uploadedDate": "2024-06-29T16:36:31.457Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot02-1920x1080-b8e1b747db6f07c078cc233d087a623f_Snapshot.jpg",
+      "md5": "07dd99a596a9d6c062b9b604acf58484",
+      "size": 6587,
+      "uploadedDate": "2024-06-29T16:36:31.989Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot03-1920x1080-7bcbdd5b80586bfaefa43433b5e01a3b_Snapshot.jpg",
+      "md5": "11da51b99c974d77d6e48e4f14aca976",
+      "size": 6592,
+      "uploadedDate": "2024-06-29T16:36:32.576Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot04-1920x1080-3d1ee363aedb7799b714744401d42c52_Snapshot.jpg",
+      "md5": "1e546773f225fce1ad8303b25da81877",
+      "size": 6369,
+      "uploadedDate": "2024-06-29T16:36:33.145Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot05-1920x1080-dd1aa1cbe015bf3d6e8302ef3c38db01_Snapshot.jpg",
+      "md5": "43760a6b0a46457dbbfd8a2d10cda770",
+      "size": 6270,
+      "uploadedDate": "2024-06-29T16:36:33.647Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "21ded447ec004dc1b0e1169f20d2eb1e"
+    }
+  ],
+  "catalogNs": null
+}

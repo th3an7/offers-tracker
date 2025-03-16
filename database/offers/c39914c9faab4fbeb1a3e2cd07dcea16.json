@@ -1,0 +1,221 @@
+{
+  "id": "c39914c9faab4fbeb1a3e2cd07dcea16",
+  "namespace": "ue",
+  "title": "NodePrefabs",
+  "description": "NodePrefabs help you eliminate repetetive node configuration and gives fast access to heavily used nodes.",
+  "longDescription": "<p><strong>NOTE: This plugin will not support UnrealEngine 5</strong></p><p><br /></p><p>Tired of configuring your placed nodes over and over again? NodePrefabs to the rescue!</p><p>Stop changing the color of comments, stop clicking that checkbox that zooms the comment bubble, stop attaching an append node to your PrintString and configuring the node. Do it once, save it and reuse it all over the place.</p><p>NodePrefabs are Assets that hold the clipboard information of graph nodes and provides you with a neat SHIFT&#43;RIGHTCLICK menu to access your prefabs. Only NodePrefabs that can be pasted into the current graph will be shown in the menu. It can be used in any GraphEditor (Blueprint, Material, Sound, Animation, BehaviorTree, ...).</p><p><strong>Special:</strong> A NodePrefab that contains a single comment will behave as if placing a comment the usual way. That means it will also wrap around selected nodes.</p><p><a href=\"https://www.youtube.com/watch?v&#61;W43FDyTdrFk\" rel=\"nofollow\">Video</a> (thanks to <a href=\"https://www.youtube.com/channel/UCWfkqFjkMqQp6i-HwpWJ09A\" rel=\"nofollow\">Luos - Yoeri Vleer</a>)</p><p>Please see the <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1703151-nodeprefabs-fast-access-to-common-node-configuration-and-heavily-used-nodes\" rel=\"nofollow\">Forum</a> for questions/suggestions/help.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nodeprefabs",
+  "creationDate": "2020-01-25T23:19:17.528Z",
+  "lastModifiedDate": "2024-10-15T10:09:11.196Z",
+  "effectiveDate": "2020-01-25T23:19:17.489Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nda96rurl5xal8vb7dy897486rntzx",
+    "name": "Rumbleball"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Adds the NodePrefab Asset</li><li>Provides you with a <strong>SHIFT&#43;RIGHTCLICK</strong> menu in Graph Editors to access the NodePrefabs </li><li>Settings provide include/exclude of pathes where to look for NodePrefabs</li><li>Works with any GraphEditor (Blueprint, Material, Sound, Animation, BehaviorTree, ...)</li><li>(v1.1) NodePrefab assets can be Drag&amp;Dropped into graphs (ignore the &#34;does not work&#34; text)</li><li>(v1.1) The Graph Menu does now have a search bar and spawning an asset works with &#39;Enter&#39; key</li></ul><p>NodePrefab Asset Properties:</p><ul><li>Displayname (overwrite of AssetName to display in the menu)</li><li>Color for a color indicator in the menu</li><li>Category</li><li>Clipboard information of Nodes</li></ul><p><br /></p><p>Code Modules:</p><ul><li> NodePrefabs (Editor)</li></ul><p>Number Classes:</p><ul><li>Blueprint: 0</li><li>C&#43;&#43;: 7&#43;</li></ul><p>Supported Development Platforms: Win32/64 (Though it should work without issue on Linux/Mac, but I can&#39;t test)</p><p>Supported Target Build Platforms: Win32/64 (Though it should work without issue on Linux/Mac, but can&#39;t test)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "60753e7d-88ab-4b5d-9f2f-2171d783aeb4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NodePrefabExplanationText-1920x1080-3e4b1c516f39ac6a5a8bc0f9aee1a226.png",
+      "md5": "3e4b1c516f39ac6a5a8bc0f9aee1a226",
+      "size": 586195,
+      "uploadedDate": "2020-02-09T13:00:52.888Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Examples-1920x1080-b1fc875b2e4f1c0c0ac7acacb261384c.png",
+      "md5": "b1fc875b2e4f1c0c0ac7acacb261384c",
+      "size": 249779,
+      "uploadedDate": "2020-01-25T23:16:33.395Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MenuExplanation-1920x1080-8df86c5b9a0f607bd4bb562d36e2746d.png",
+      "md5": "8df86c5b9a0f607bd4bb562d36e2746d",
+      "size": 323161,
+      "uploadedDate": "2020-01-25T23:16:33.963Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NodePrefabs_thumb-284x284-cb000414a8557ac06238457bf7429257.png",
+      "md5": "cb000414a8557ac06238457bf7429257",
+      "size": 26662,
+      "uploadedDate": "2019-12-29T11:56:41.200Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NodePrefabs_featured-894x488-9c04bb10c0a415e6b40a5feb1ecd8dbe.png",
+      "md5": "9c04bb10c0a415e6b40a5feb1ecd8dbe",
+      "size": 59050,
+      "uploadedDate": "2019-12-29T11:56:41.279Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NodePrefabExplanationText-1920x1080-3e4b1c516f39ac6a5a8bc0f9aee1a226_Snapshot.png",
+      "md5": "41b6dcca089bed60d3f0b167038c2fc5",
+      "size": 6813,
+      "uploadedDate": "2020-02-09T13:00:53.209Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Examples-1920x1080-b1fc875b2e4f1c0c0ac7acacb261384c_Snapshot.png",
+      "md5": "730e2899687746a5a378bf36cd44e683",
+      "size": 5214,
+      "uploadedDate": "2020-01-25T23:16:33.719Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MenuExplanation-1920x1080-8df86c5b9a0f607bd4bb562d36e2746d_Snapshot.png",
+      "md5": "7de5067293a56f937f1aad9fa33b6de5",
+      "size": 5134,
+      "uploadedDate": "2020-01-25T23:16:34.235Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NodePrefabExplanationText-1920x1080-6196deb2ca6d2d5075e1350f995e1aff_Snapshot.png",
+      "md5": "0bfcb1917c464bec8e4a5d399e4c4709",
+      "size": 7000,
+      "uploadedDate": "2019-12-29T13:09:35.917Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NodePrefabExplanation-1920x1080-5aa71cd23811ae6b8abb5a7eb63e3dce_Snapshot.png",
+      "md5": "7ec5ec37fc783ccfc2026749443be0ae",
+      "size": 6559,
+      "uploadedDate": "2019-12-29T13:08:26.752Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BlueprintBackground-1920x1080-4921ca92e7e11f2d42a038cc2a7c6202_Snapshot.PNG",
+      "md5": "d191715ce24c9392f18dc81af772f4a5",
+      "size": 2016,
+      "uploadedDate": "2019-12-29T11:56:41.156Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fffe7c5c2dfa4bf8938bba8361ee7c41"
+    }
+  ],
+  "catalogNs": null
+}

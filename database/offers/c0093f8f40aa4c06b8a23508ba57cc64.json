@@ -1,0 +1,290 @@
+{
+  "id": "c0093f8f40aa4c06b8a23508ba57cc64",
+  "namespace": "ue",
+  "title": "Multiplayer Climbing System Plugin",
+  "description": "Network replicated climbing system with animations included.",
+  "longDescription": "<p>v.1.15 Contains a demo map with a setup example plus it comes with an Epic&#39;s UE5 skeleton to fix import.</p><p><br /></p><p>v1.1 Now Live, <a href=\"https://www.youtube.com/watch?v&#61;NiqxqNwhEck\" rel=\"nofollow\">Trailer</a></p><p><br /></p><p>*New*</p><p><br /></p><ul><li>Backward transitions (from the with legs position only)</li><li>Inner corner transitions</li><li>More animations, improved some old corner transitions</li><li>More control over the jumps</li></ul><p><br /></p><p><a href=\"https://youtu.be/VEgHU_Ibww8\" rel=\"nofollow\">Trailer</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;-xDyB5PdyxE\" rel=\"nofollow\">Setup Tutorial</a></p><p><a href=\"https://trello.com/b/FM0GRklw/multiplayer-climbing-system-plugin\" rel=\"nofollow\">Roadmap</a></p><p><a href=\"https://discord.gg/MQf2JxRwvA\" rel=\"nofollow\">Discord</a> - support forum</p><p><br /></p><p>*2 minutes 30 seconds setup time.</p><p><br /></p><p>100% Blueprint with detailed comments</p><p><br /></p><p>All animations included</p><p><br /></p><p>*Verified on a third person template.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "multiplayer-climbing-system-plugin",
+  "creationDate": "2024-04-03T03:25:54.336Z",
+  "lastModifiedDate": "2024-10-22T15:42:59.037Z",
+  "effectiveDate": "2024-04-03T03:25:54.287Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dxkhat8zaw7cw9n9yejesm7hhxm6rk",
+    "name": "Labrintine Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Fully network replicated climbing system</li><li>Free hang &amp; with legs versions</li><li>8 Directional transitions</li><li>Edge movement</li><li>Over cover transitions</li><li>Automatic top climb edge detection &amp; climb</li><li>Automatic down climb point detection from standing on top &amp; transition to climb</li><li>53 transition root motion montages (71 animation sequences in total) included</li><li> *2 minutes 30 seconds setup time.</li><li>100% Blueprint</li><li>Well commented</li></ul><p><br /></p><p>Code Modules:</p><ul><li> MultiplayerClimbingSystem</li></ul><p><br /></p><p>Number of Blueprints: 9</p><p>Number of C&#43;&#43; Classes: 0</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: All</p><p>Supported Target Build Platforms: All</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1LWYdvrgvZJktpeGowfgYVC-Rjc5yA_i21B1Qe2t2x3Q/edit?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/15rThMZTveEDDdGSBuuef6qIot3NUq1lW/view?usp&#61;sharing\" rel=\"nofollow\">Demo Download</a> (Already at the v1.1 that is coming soon)</p><p>Important/Additional Notes: MotionWarping plugin should be enabled</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "defd6beb-4427-44aa-a70f-df3b19827992"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot0-1920x1080-79401f685ba0f65ad158ae4296d5c60f.jpg",
+      "md5": "79401f685ba0f65ad158ae4296d5c60f",
+      "size": 916562,
+      "uploadedDate": "2024-03-31T04:45:31.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot4-1920x1080-157835be76ec84eef5c47c570d8af086.jpg",
+      "md5": "157835be76ec84eef5c47c570d8af086",
+      "size": 854741,
+      "uploadedDate": "2024-03-31T04:45:31.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenshoEngine0-1920x1080-308b2c2c8eadaf41dbd9888b8e37d14c.jpg",
+      "md5": "308b2c2c8eadaf41dbd9888b8e37d14c",
+      "size": 121239,
+      "uploadedDate": "2024-03-31T04:45:29.445Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenshoEngine1-1920x1080-46f6717576713d674e390bec545e5115.jpg",
+      "md5": "46f6717576713d674e390bec545e5115",
+      "size": 110668,
+      "uploadedDate": "2024-03-31T04:45:29.828Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenshoEngine3-1920x1080-a2252133dc9934cbbd690142efb1007f.jpg",
+      "md5": "a2252133dc9934cbbd690142efb1007f",
+      "size": 119140,
+      "uploadedDate": "2024-03-31T04:45:30.129Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenshoEngine4-1920x1080-2b04a8317e6722354936e1448f50877e.jpg",
+      "md5": "2b04a8317e6722354936e1448f50877e",
+      "size": 140623,
+      "uploadedDate": "2024-03-31T04:45:30.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenshoEngine12-1920x1080-c0deb0a1c9797d5cb1ec4cd688da777f.jpg",
+      "md5": "c0deb0a1c9797d5cb1ec4cd688da777f",
+      "size": 153151,
+      "uploadedDate": "2024-03-31T04:45:30.850Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MultiplayerClimbingSystemPlugin_thumb-284x284-81ceacb224b72e78fee78ddfed44435b.png",
+      "md5": "81ceacb224b72e78fee78ddfed44435b",
+      "size": 79129,
+      "uploadedDate": "2024-03-31T04:45:32.046Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MultiplayerClimbingSystemPlugin_featured-894x488-5874d5e207f0342a4da73febaa26489d.png",
+      "md5": "5874d5e207f0342a4da73febaa26489d",
+      "size": 294906,
+      "uploadedDate": "2024-03-31T04:45:32.112Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenshoEngine0-1920x1080-308b2c2c8eadaf41dbd9888b8e37d14c_Snapshot.jpg",
+      "md5": "29c4b6c2788b3cc1f7aed3fb3c5ad874",
+      "size": 4227,
+      "uploadedDate": "2024-03-31T04:45:29.768Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenshoEngine1-1920x1080-46f6717576713d674e390bec545e5115_Snapshot.jpg",
+      "md5": "678b7b56a19b9626b786d1eb2b10d08f",
+      "size": 4285,
+      "uploadedDate": "2024-03-31T04:45:30.069Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenshoEngine3-1920x1080-a2252133dc9934cbbd690142efb1007f_Snapshot.jpg",
+      "md5": "fdd8bfd9f490c5560bd764f065d1bc24",
+      "size": 4163,
+      "uploadedDate": "2024-03-31T04:45:30.358Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenshoEngine4-1920x1080-2b04a8317e6722354936e1448f50877e_Snapshot.jpg",
+      "md5": "4dfc7304d7b7f80b6169a32ba84ef7d5",
+      "size": 4584,
+      "uploadedDate": "2024-03-31T04:45:30.706Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenshoEngine12-1920x1080-c0deb0a1c9797d5cb1ec4cd688da777f_Snapshot.jpg",
+      "md5": "20eeb01b258d1fcdc8ada5850f53921e",
+      "size": 5261,
+      "uploadedDate": "2024-03-31T04:45:31.087Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot0-1920x1080-79401f685ba0f65ad158ae4296d5c60f_Snapshot.jpg",
+      "md5": "9bb1a77f488f2fe481d43af80a2a2c07",
+      "size": 8921,
+      "uploadedDate": "2024-03-31T04:45:31.539Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot4-1920x1080-157835be76ec84eef5c47c570d8af086_Snapshot.jpg",
+      "md5": "6fb50fcb4ef2e2924e398af590e60948",
+      "size": 8835,
+      "uploadedDate": "2024-03-31T04:45:32.009Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5f9f46ebea454bcabd0d55cc5ea0c286"
+    }
+  ],
+  "catalogNs": null
+}

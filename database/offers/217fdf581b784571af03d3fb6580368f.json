@@ -1,0 +1,146 @@
+{
+  "id": "217fdf581b784571af03d3fb6580368f",
+  "namespace": "ue",
+  "title": "PlayFab SDK",
+  "description": "PlayFab's UE SDK provides everything you need to interact with Microsoft PlayFab services.",
+  "longDescription": "<p>Microsoft PlayFab is a complete backend platform for live games and features real-time analytics, leaderboards, push notifications, commerce and more. PlayFab&#39;s Unreal Engine SDK provides everything you need to access the PlayFab API.</p><p><br /></p><p>Please post any questions or issues regarding this plugin in the PlayFab Forums <a href=\"https://community.playfab.com/index.html\" rel=\"nofollow\">https://community.playfab.com/index.html</a> for the quickest response from our team members.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "playfab-sdk",
+  "creationDate": "2018-07-10T15:29:30.314Z",
+  "lastModifiedDate": "2024-10-15T09:25:34.792Z",
+  "effectiveDate": "2018-07-10T15:29:30.275Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q422h4dnjykmtqh9thkkbdmejwxxwz",
+    "name": "Microsoft Corp"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><a href=\"https://playfab.com/features/\" rel=\"nofollow\">https://playfab.com/features/</a></li></ul><p>Release notes:</p><ul><li><a href=\"https://docs.microsoft.com/en-us/gaming/playfab/release-notes/\" rel=\"nofollow\">https://docs.microsoft.com/en-us/gaming/playfab/release-notes/</a></li></ul><p>Code Modules:</p><ul><li>PlayFab (Blueprint interface), PlayFabCpp (C&#43;&#43; interface), PlayFabCommon (Required for both)</li></ul><p><br /></p><p>Supported Development Platforms: Windows, Mac</p><p>Supported Target Build Platforms: Win64, Win32, Mac, iOS, Android, Xbox One, GDK (Xbox Series X), PS4, PS5, Nintendo Switch</p><p>Supported Unreal Versions: Generally the latest 3 versions, see our <a href=\"https://docs.microsoft.com/en-us/gaming/playfab/release-notes/\" rel=\"nofollow\">Patch Notes</a> for more details</p><p>Getting started guide: <a href=\"https://docs.microsoft.com/en-us/gaming/playfab/sdks/unreal/quickstart\" rel=\"nofollow\">https://docs.microsoft.com/en-us/gaming/playfab/sdks/unreal/quickstart</a></p><p>PlayFab Forums: <a href=\"https://community.playfab.com/index.html\" rel=\"nofollow\">https://community.playfab.com/index.html</a></p><p><br /></p><p>Please post any questions or issues regarding the plugin in the PlayFab Forums for the quickest response from our team members.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2023-08-21T13:03:30.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 90,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2ad52a62-14f5-429f-b154-007ad966b813"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pftemplate-1920x1080-d055f6f02f58918c36c363120d0e60a4.png",
+      "md5": "d055f6f02f58918c36c363120d0e60a4",
+      "size": 365922,
+      "uploadedDate": "2018-07-09T15:29:52.247Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PlayFabSDK_thumb-284x284-6dd513ea04e98a23d65482a20cfe7785.png",
+      "md5": "6dd513ea04e98a23d65482a20cfe7785",
+      "size": 14653,
+      "uploadedDate": "2018-07-09T15:29:52.579Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PlayFabSDK_featured-894x488-841300b670d60d68d8aaa990fcc240fd.png",
+      "md5": "841300b670d60d68d8aaa990fcc240fd",
+      "size": 50901,
+      "uploadedDate": "2018-07-09T15:29:52.613Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pftemplate-1920x1080-d055f6f02f58918c36c363120d0e60a4_Snapshot.png",
+      "md5": "bb46f90e7bfb02e4ffb5b986b4575037",
+      "size": 6876,
+      "uploadedDate": "2018-07-09T15:29:52.495Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ec88eb6ffbce494daa5c4d26d1da794e"
+    }
+  ],
+  "catalogNs": null
+}

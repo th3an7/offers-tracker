@@ -1,0 +1,140 @@
+{
+  "id": "33d72da99a194ed3925b0b553981e39b",
+  "namespace": "ue",
+  "title": "Steam Inventory Service Plugin",
+  "description": "Steam Inventory Service Plugin",
+  "longDescription": "<p>Fully integrated Steam Inventory Service except for trading, promotion. It comes with SteamItem Converter which generates item definitions in json.</p><p>Demo : https://www.youtube.com/watch?v&#61;nwqNZ6ro6Zo</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "steam-inventory-service-plugin",
+  "creationDate": "2018-02-25T20:17:14.010Z",
+  "lastModifiedDate": "2024-10-23T10:59:45.271Z",
+  "effectiveDate": "2018-02-25T20:17:13.976Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cff4179be64857b4ca1d049b246b16",
+    "name": "Woods Shin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (https://partner.steamgames.com/doc/api/ISteamInventory)</p><ul><li>All these functions are exposed on blueprint.</li><li>ConsumeItem : Consumes items from a user&#39;s inventory. If the quantity of the given item goes to zero, it is permanently removed.</li><li>ExchangeItem : Grant one item in exchange for a set of other items.</li><li>GenerateItem : Grants specific items to the current user.</li><li>GetAllItems : Start retrieving all items in the current users inventory.</li><li>GetItemDefinitionIDs : Returns the set of all item definition IDs which are defined in the App Admin panel of the Steamworks website.</li><li>GetItemDefinitionProperty : Gets a string property from the specified item definition.</li><li>GrantPromoItems : Grant all potential one-time promotional items to the current user.</li><li>LoadItemDefinitions : Triggers an asynchronous load and refresh of item definitions.</li><li>TransferItemQuantity : Transfer items between stacks within a user&#39;s inventory.</li><li>TriggerItemDrop : Trigger an item drop if the user has played a long enough period of time.</li></ul><p>Code Modules:</p><ul><li>OnlineSubsystem</li><li>OnlineSubsystemSteam</li><li>OnlineSubsystemUtils</li></ul><p>Number of C&#43;&#43; Classes: 11</p><p>Supported Development Platforms: Window, Mac</p><p>Supported Target Build Platforms: Window, Mac</p><p>Documentation: SteamInventoryPlugin_Manual.pdf was included in plugin folder.</p><p>Example Project: https://github.com/woodsshin/SteamInvevntorySample/</p><p>Important/Additional Notes:</p><p>In order to use steam inventory service with your own items, you have to own steam app id. You may test it in Spacewar(480) with limited features.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "35f7395b-92aa-4be1-8bba-00d965b8ac98"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SteamInventoryPlugin_screenshot_03-1920x1080-73a49ba11b86e7641843b3f250c0b8e8.png",
+      "md5": "73a49ba11b86e7641843b3f250c0b8e8",
+      "size": 232326,
+      "uploadedDate": "2017-09-07T03:15:36.070Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SteamInventoryPlugin_screenshot_02-1920x1080-47fe42158dd34effe84be2db92bac28c.png",
+      "md5": "47fe42158dd34effe84be2db92bac28c",
+      "size": 192250,
+      "uploadedDate": "2017-09-07T03:15:36.234Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SteamInventoryPlugin_screenshot_01-1920x1080-083e231b297ab90427ab400e1e50de8d.png",
+      "md5": "083e231b297ab90427ab400e1e50de8d",
+      "size": 189946,
+      "uploadedDate": "2017-09-07T03:15:36.315Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SteamInventoryPlugin_screenshot_04-1920x1080-962a661a0cdcdba4152f33b36e5fe228.png",
+      "md5": "962a661a0cdcdba4152f33b36e5fe228",
+      "size": 264918,
+      "uploadedDate": "2017-09-07T03:21:22.261Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SteamInventoryServicePlugin_thumb-284x284-15fdf0cdd59d9399e87f26e425eb820e.png",
+      "md5": "15fdf0cdd59d9399e87f26e425eb820e",
+      "size": 26054,
+      "uploadedDate": "2017-09-07T04:39:58.950Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SteamInventoryServicePlugin_featured-894x488-778475b4bd40a33227d289022b8f7e34.png",
+      "md5": "778475b4bd40a33227d289022b8f7e34",
+      "size": 147032,
+      "uploadedDate": "2017-09-07T04:39:59.300Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "aec866ec4454473e9aef4ac59f2b8d7b"
+    }
+  ],
+  "catalogNs": null
+}

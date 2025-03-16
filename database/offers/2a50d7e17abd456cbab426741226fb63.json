@@ -1,0 +1,296 @@
+{
+  "id": "2a50d7e17abd456cbab426741226fb63",
+  "namespace": "ue",
+  "title": "Modulated Dynamic Lights & Blob Shadows",
+  "description": "Add unlimited dynamic lights to your scene using modulated materials. Includes glow & flickering effects at virtually no CPU cost. Also includes colored blob shadows that automatically adapt to any surface. Good performance for mobile devices.",
+  "longDescription": "<p><em>Feb-24 update: now supports </em><strong><em>directionality</em></strong><em> (optional) at a marginal shader cost.</em></p><p><br /></p><ul><li>Efficient &amp; cheap dynamic point lights at a very low frame cost, using modulated materials with less than 80 instructions.</li><li>Glow &amp; flickering can be added instantly at virtually no CPU cost.</li><li>Blob Shadows can be added to your characters. They adapt to any floor surface, so there are no hard edges when intersecting with geometry (see screenshots). They can be of any color.</li><li>Plug and play: Just add a BP_LightActor to your scene as with any other light</li><li>Unlike default point lights, these can also be used on unlit materials!</li></ul><p><a href=\"https://www.youtube.com/watch?v&#61;NQf-CkyBEqk\" rel=\"nofollow\">Showcase Video</a></p><p>You can find legacy reviews and questions in the <a href=\"https://orbital-market.com/product/modulated-dynamic-lights-blob-shadows\" rel=\"nofollow\">orbital marketplace</a></p><p>Please note that these modulated lights <strong>are not</strong> capable of casting shadows.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modulated-dynamic-lights-blob-shadows",
+  "creationDate": "2021-01-20T23:30:38.809Z",
+  "lastModifiedDate": "2024-10-05T07:58:17.854Z",
+  "effectiveDate": "2021-01-20T23:30:36.038Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hb4me8c3s8aab25njvhdnqjv7zyk2s",
+    "name": "FS Creations"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 1</p><p>Network Replicated: Yes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: Detailed showcase scene</p><p>Important/Additional Notes: Please note that these modulated lights <strong>are not</strong> capable of casting shadows.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1082",
+      "name": "CLICKER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.218Z",
+      "updated": "2019-06-20T11:58:59.218Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f0c0b9a6-9ac2-445f-9588-9d79b4878ae7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Promo Screen A-1920x1080-519efd146e4a8093e6ecaa7443850593.png",
+      "md5": "519efd146e4a8093e6ecaa7443850593",
+      "size": 1167514,
+      "uploadedDate": "2021-01-20T13:44:00.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Promo Screen D-1920x1080-e35348b5a23ed433ce0f4c50642bda1e.png",
+      "md5": "e35348b5a23ed433ce0f4c50642bda1e",
+      "size": 503031,
+      "uploadedDate": "2021-01-20T13:43:59.539Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Promo Screen C-1920x1080-e9810622949ac3097bd3df3109bedeea.png",
+      "md5": "e9810622949ac3097bd3df3109bedeea",
+      "size": 1584031,
+      "uploadedDate": "2021-01-20T13:43:59.967Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Promo Screen B-1920x1080-42454b5c1ca7f66db56189cb4a017e4e.png",
+      "md5": "42454b5c1ca7f66db56189cb4a017e4e",
+      "size": 1432631,
+      "uploadedDate": "2021-01-20T13:44:00.421Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ModulatedLightsBlobShadows_thumb-284x284-1c44b2de613ee0a73f8aef4b15cf09c5.png",
+      "md5": "1c44b2de613ee0a73f8aef4b15cf09c5",
+      "size": 61732,
+      "uploadedDate": "2021-01-20T13:44:01.201Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ModulatedLightsBlobShadows_featured-894x488-5a30f097ba3520f7dd7eb286dc5bb8d0.png",
+      "md5": "5a30f097ba3520f7dd7eb286dc5bb8d0",
+      "size": 380301,
+      "uploadedDate": "2021-01-20T13:44:01.312Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Promo Screen D-1920x1080-e35348b5a23ed433ce0f4c50642bda1e_Snapshot.png",
+      "md5": "8d488bcb7e6706403193f75994fad28c",
+      "size": 5578,
+      "uploadedDate": "2021-01-20T13:43:59.790Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Promo Screen C-1920x1080-e9810622949ac3097bd3df3109bedeea_Snapshot.png",
+      "md5": "f91a1c9f4b821cfdf9823e3a2ab644fc",
+      "size": 6095,
+      "uploadedDate": "2021-01-20T13:44:00.242Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Promo Screen B-1920x1080-42454b5c1ca7f66db56189cb4a017e4e_Snapshot.png",
+      "md5": "0e25f90bc93c3cb1767b3ee3a4207d17",
+      "size": 6301,
+      "uploadedDate": "2021-01-20T13:44:00.702Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Promo Screen A-1920x1080-519efd146e4a8093e6ecaa7443850593_Snapshot.png",
+      "md5": "5888cce297fed5e224011a31ea7fdd7e",
+      "size": 6595,
+      "uploadedDate": "2021-01-20T13:44:01.121Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5ad06ce0d53d403e89167bc3d646fc19"
+    }
+  ],
+  "catalogNs": null
+}

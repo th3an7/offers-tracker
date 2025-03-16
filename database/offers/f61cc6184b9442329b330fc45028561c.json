@@ -1,0 +1,212 @@
+{
+  "id": "f61cc6184b9442329b330fc45028561c",
+  "namespace": "ue",
+  "title": "Advanced Input System",
+  "description": "This project provides you with an Input Data Manager, Input Buffer, and Input Injection system based on the UE5 Enhanced Input system.",
+  "longDescription": "<p>This plugin is based on the <strong>UE5 Enhanced Input</strong> system and provides you with a powerful <strong>Advanced Input Component</strong> that allows you to use <strong>Extended Input Mapping Context</strong> to manage Input Actions.</p><p>In addition, it can help you easily add <strong>Input Buffer</strong> function, which is widely used in various action games. And there are very complete input buffer policy to use(Last Input/First Input/Highest Priority/Disable Buffer/Disable Input).</p><p>It also provides flexible, easy-to-use, and scalable <strong>input debugging</strong> functions.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "advanced-input-system",
+  "creationDate": "2024-04-11T14:01:08.409Z",
+  "lastModifiedDate": "2024-10-15T03:59:31.793Z",
+  "effectiveDate": "2024-04-11T14:01:08.356Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jbrvrrrz3ex4ggr466vmg69h47vn23",
+    "name": "ZhongShan Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Version 1.1:</p><ul><li>Extend InputMappingContext DataAsset to config input gameplay tag and input buffer.</li><li>Simplify input configuration.</li></ul><p><br /></p><p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Fully supports enhanced input systems and simplifies code creation for processing input.</li><li>Extend InputMappingContext DataAsset to config input gameplay tag and input buffer.</li><li>Provide custom input components responsible for configuring input functionality.</li><li>Support full integration with Gameplay Ability system.</li><li>Provide an animation based Input Buffer system to ensure that player input is not lost, making the game&#39;s response more responsive.</li><li>Provide very complete Input Buffer policy set: Last Input, First Input, Highest Priority, Disable Buffer, Disable Input.</li><li> Support injection, debugging, and visual input.</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 11</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Win64</p><p>Documentation: <a href=\"https://docs.qq.com/doc/DRkVpcnZmbHJzelNn\" rel=\"nofollow\">English</a> <a href=\"https://docs.qq.com/doc/DRkhaUVp4UkVjV2xs\" rel=\"nofollow\">Chinese</a></p><p>Example Project: AdvancedInputSystem_Sample</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7131dd6f-c5ef-436d-8ae9-5975029cc099"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery4-1920x1080-747c27aae3790dab7e3dec23310f1ac1.jpg",
+      "md5": "747c27aae3790dab7e3dec23310f1ac1",
+      "size": 631311,
+      "uploadedDate": "2024-04-08T05:44:59.349Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery3-1920x1080-5ffc2fc80a1d22fcb7f7d5d7ba03627e.jpg",
+      "md5": "5ffc2fc80a1d22fcb7f7d5d7ba03627e",
+      "size": 669882,
+      "uploadedDate": "2024-04-08T05:44:59.738Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery2-1920x1080-1f719628e630de3b747f2e69f0027b9e.jpg",
+      "md5": "1f719628e630de3b747f2e69f0027b9e",
+      "size": 505730,
+      "uploadedDate": "2024-04-08T05:45:00.186Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery1-1920x1080-aabd787dbd73a1dd6d0b9765141d2120.jpg",
+      "md5": "aabd787dbd73a1dd6d0b9765141d2120",
+      "size": 258244,
+      "uploadedDate": "2024-04-08T05:45:00.572Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AdvancedInputSystem_thumb-284x284-579a46db164f23bc2478161bb3ed0140.png",
+      "md5": "579a46db164f23bc2478161bb3ed0140",
+      "size": 86088,
+      "uploadedDate": "2024-04-08T05:45:00.847Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AdvancedInputSystem_featured-894x488-eeebf2e58a49651b5db79778693e35dd.png",
+      "md5": "eeebf2e58a49651b5db79778693e35dd",
+      "size": 429904,
+      "uploadedDate": "2024-04-08T05:45:00.978Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery4-1920x1080-747c27aae3790dab7e3dec23310f1ac1_Snapshot.jpg",
+      "md5": "89325510272c81b93b4422d863e5111a",
+      "size": 4886,
+      "uploadedDate": "2024-04-08T05:44:59.601Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery3-1920x1080-5ffc2fc80a1d22fcb7f7d5d7ba03627e_Snapshot.jpg",
+      "md5": "ccd7bb44e75d93f792eb8d6e6cbaf15a",
+      "size": 6271,
+      "uploadedDate": "2024-04-08T05:44:59.998Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery2-1920x1080-1f719628e630de3b747f2e69f0027b9e_Snapshot.jpg",
+      "md5": "90453128e9498f022e1c50c0dc015f8c",
+      "size": 4717,
+      "uploadedDate": "2024-04-08T05:45:00.428Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery1-1920x1080-aabd787dbd73a1dd6d0b9765141d2120_Snapshot.jpg",
+      "md5": "9adba7ffcb746f88370928704afc083f",
+      "size": 4027,
+      "uploadedDate": "2024-04-08T05:45:00.805Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cca30dd039634e2e90082eef22bef003"
+    }
+  ],
+  "catalogNs": null
+}

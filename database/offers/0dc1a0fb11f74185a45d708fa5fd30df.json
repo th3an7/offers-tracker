@@ -1,0 +1,260 @@
+{
+  "id": "0dc1a0fb11f74185a45d708fa5fd30df",
+  "namespace": "ue",
+  "title": "iOS QR Code Reader",
+  "description": "This plugin enables QR Code and Camer functionality in iOS Devices using the native iOS AVFoundation library.",
+  "longDescription": "<p>This plugin uses the native iOS Objective-C AVFoundation to enabled QR Code and Camera functionality on iOS devices. Provides a simple Blueprint exposed C&#43;&#43; interface to easily integrate the plugin&#39;s functionality into Unreal Engine.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ios-qr-code-reader",
+  "creationDate": "2023-02-13T05:32:58.192Z",
+  "lastModifiedDate": "2024-10-15T18:43:47.063Z",
+  "effectiveDate": "2023-02-13T05:33:38.987Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yu6fyscaevgqn2rqyb5yt9wt86mg7k",
+    "name": "MZ Software"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Able to read QR Codes and expose the scanned string value to Unreal Engine as an FString.</li><li>Able to process the camera feed and expose the texture data to Unreal Engine as a UTexture2D.</li><li>Supports landscape-right, landscape left, portrait, and portrait upside down orientations</li><li>Allows users to explicitly enable/disable: camera feed, qr code reading, landscape right orientation, landscape left orientation, portrait orientation, portrait upside down orientation, and auto camera rotation orientation.</li></ul><p>Code Modules:</p><ul><li>IOSQRCodeReader (Runtime)</li></ul><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 2</p><p>Number of Objective-C Classes: 1 </p><p>Network Replicated: No</p><p>Supported Development Platforms: MacOS</p><p>Supported Target Build Platforms: iOS</p><p>Documentation: Included in Plugin (README.md)</p><p>Example Project: https://github.com/MatthewDZane/UnrealEngineIOSQRCodeReaderExampleProject</p><p>Important/Additional Notes:</p><p>Contact me at matthewzane.unrealengine&#64;gmail.com for access to the source repo after purchasing the plugin.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e3a7bef5-b12c-484f-bd2a-eee874593862"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IOSQRCodeReaderExample-1920x1080-866baa1986e6c8e066a48e744bea5981.png",
+      "md5": "866baa1986e6c8e066a48e744bea5981",
+      "size": 221895,
+      "uploadedDate": "2023-02-05T14:23:14.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Example-1920x1080-598560f7ef73c2155a0503d4a09b26f8.png",
+      "md5": "598560f7ef73c2155a0503d4a09b26f8",
+      "size": 1788230,
+      "uploadedDate": "2023-02-05T14:23:16.615Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WidgetVerticle-1920x1080-f77ff03ce99740b13833259320063395.png",
+      "md5": "f77ff03ce99740b13833259320063395",
+      "size": 318300,
+      "uploadedDate": "2023-02-05T14:23:16.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WidgetEventConstruct-1920x1080-d93507b74b4f959ec29e67ca705a4aaf.png",
+      "md5": "d93507b74b4f959ec29e67ca705a4aaf",
+      "size": 451784,
+      "uploadedDate": "2023-02-05T14:23:15.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WidgetEventTick1-1920x1080-1f9bfcd41511dd5990a3df51b238c458.png",
+      "md5": "1f9bfcd41511dd5990a3df51b238c458",
+      "size": 575476,
+      "uploadedDate": "2023-02-05T14:23:15.406Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WidgetEventTick2-1920x1080-a9e5bbe61c9cd0b26a7680c7a733accf.png",
+      "md5": "a9e5bbe61c9cd0b26a7680c7a733accf",
+      "size": 557654,
+      "uploadedDate": "2023-02-05T14:23:15.817Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/iOSQRCodeReader_thumb-284x284-75709d7119e3e733006236cdc9b55efe.png",
+      "md5": "75709d7119e3e733006236cdc9b55efe",
+      "size": 188082,
+      "uploadedDate": "2023-02-05T14:23:17.025Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/iOSQRCodeReader_featured-894x488-1adf93ddb22c2309b2249d55b15aa089.png",
+      "md5": "1adf93ddb22c2309b2249d55b15aa089",
+      "size": 500627,
+      "uploadedDate": "2023-02-05T14:23:17.116Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IOSQRCodeReaderExample-1920x1080-866baa1986e6c8e066a48e744bea5981_Snapshot.png",
+      "md5": "ebe44865942ba00cd370e2757b516a92",
+      "size": 3187,
+      "uploadedDate": "2023-02-05T14:23:14.924Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WidgetEventConstruct-1920x1080-d93507b74b4f959ec29e67ca705a4aaf_Snapshot.png",
+      "md5": "0a0a398b7efb4cd810ec4fdce290f346",
+      "size": 5281,
+      "uploadedDate": "2023-02-05T14:23:15.287Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WidgetEventTick1-1920x1080-1f9bfcd41511dd5990a3df51b238c458_Snapshot.png",
+      "md5": "7c277406b30cb624abf06db9fe109546",
+      "size": 5582,
+      "uploadedDate": "2023-02-05T14:23:15.652Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WidgetEventTick2-1920x1080-a9e5bbe61c9cd0b26a7680c7a733accf_Snapshot.png",
+      "md5": "4455120ab41ea601f5a3c7d0d431a85e",
+      "size": 5587,
+      "uploadedDate": "2023-02-05T14:23:16.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WidgetVerticle-1920x1080-f77ff03ce99740b13833259320063395_Snapshot.png",
+      "md5": "5d7d1de3a2de8c04a94498fdbc5e9c7b",
+      "size": 3776,
+      "uploadedDate": "2023-02-05T14:23:16.425Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Example-1920x1080-598560f7ef73c2155a0503d4a09b26f8_Snapshot.png",
+      "md5": "fe70cd632e6289a9760589b62de25b2d",
+      "size": 5157,
+      "uploadedDate": "2023-02-05T14:23:16.926Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9e8d0cd13cc545b2aaf66eef5393c371"
+    }
+  ],
+  "catalogNs": null
+}

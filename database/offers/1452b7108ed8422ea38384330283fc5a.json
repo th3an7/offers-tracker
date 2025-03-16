@@ -1,0 +1,332 @@
+{
+  "id": "1452b7108ed8422ea38384330283fc5a",
+  "namespace": "ue",
+  "title": "Console Manager",
+  "description": "Enables you to add custom console commands and handle their execution with blueprints!",
+  "longDescription": "<p><strong>Version: 2020.1.2</strong></p><p>&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;</p><p><strong>Contact: </strong><a href=\"mailto:w2.wizzard&#64;gmail.com\" rel=\"nofollow\">w2.wizzard&#64;gmail.com</a></p><p><br /></p><p><strong>How do I use it?</strong></p><p><a href=\"https://imgur.com/a/urD3B3p\" rel=\"nofollow\"><strong><em><u>Click me!</u></em></strong></a></p><p><br /></p><p>&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;</p><p>This plugin provides a solution to create custom console commands from scratch using only blueprints, no C&#43;&#43; is required, no components on actors or anything weird of that sorts, simply create a class, assign it to the player controller, create the functions and it just works!</p><p>For each command you can define a identifier and help text, just like any other command, additionally the plugin allows for processing of arguments very easily.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "console-manager",
+  "creationDate": "2020-12-21T00:04:35.942Z",
+  "lastModifiedDate": "2024-10-15T10:34:17.177Z",
+  "effectiveDate": "2020-12-21T00:04:33.293Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-atbhj5wumegn57bhjuqms5wp5xg8n7",
+    "name": "W2Wizard"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li> Custom console commands which can be handled via Blueprints.</li><li>Helper node to extract arguments and formats them into an array.</li><li>Console Variable utils</li></ul><p><strong>Code Modules:</strong></p><ul><li> CommandPlugin | Runtime</li></ul><p><br /></p><p><strong>Number of Blueprints:</strong> 0</p><p><strong>Number of C&#43;&#43; Classes:</strong> 2</p><p><strong>Network Replicated: No (Commands are all executed on client, can process replication however if using custom events.</strong></p><p><strong>Supported Development Platforms:</strong> All Platforms</p><p><strong>Supported Target Build Platforms:</strong> All Platforms (Development Configuration Only)</p><p><strong>Important/Additional Notes: </strong>If you have any requests or ideas please let me know! Note that removed console commands do not disappear visually from the console until a engine restart took place, commands however will not work once removed as intended, I&#39;m unsure whether this is a engine bug or not.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1376",
+      "name": "DESTRUCTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:25.382Z",
+      "updated": "2019-06-20T12:01:25.382Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "12cfda5f-fdeb-4fc1-be80-634c74b35c82"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Thumbnail1-1920x1080-078140775b4f81ce36616cac1a8f30d3.png",
+      "md5": "078140775b4f81ce36616cac1a8f30d3",
+      "size": 259663,
+      "uploadedDate": "2020-12-12T23:23:56.308Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cover2-1920x1080-a12a714a7cac7c01ce0293def4190b5b.png",
+      "md5": "a12a714a7cac7c01ce0293def4190b5b",
+      "size": 193409,
+      "uploadedDate": "2020-12-13T17:39:42.348Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Img1-1920x1080-09ca1e610e07a5eef2f1705a1ae15267.png",
+      "md5": "09ca1e610e07a5eef2f1705a1ae15267",
+      "size": 208908,
+      "uploadedDate": "2020-12-13T17:43:18.157Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Img2-1920x1080-99dd0fb0cc45f245ccbc4735ddfb3aeb.png",
+      "md5": "99dd0fb0cc45f245ccbc4735ddfb3aeb",
+      "size": 275092,
+      "uploadedDate": "2020-12-13T17:43:18.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/unknown-1920x1080-208d3808e336be5888a4fb54144f383d.png",
+      "md5": "208d3808e336be5888a4fb54144f383d",
+      "size": 368801,
+      "uploadedDate": "2020-12-28T16:07:09.050Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Img4-1920x1080-3f1fd98fbffb6242b645e51d30d3883d.png",
+      "md5": "3f1fd98fbffb6242b645e51d30d3883d",
+      "size": 971837,
+      "uploadedDate": "2020-12-28T16:11:45.467Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Img3-1920x1080-12931529d5d090d13e6186fb735c06c4.png",
+      "md5": "12931529d5d090d13e6186fb735c06c4",
+      "size": 974341,
+      "uploadedDate": "2020-12-28T16:11:45.878Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ConsoleManager_thumb-284x284-5523a20cc6c94dbc0da70347a9797a48.png",
+      "md5": "5523a20cc6c94dbc0da70347a9797a48",
+      "size": 42209,
+      "uploadedDate": "2020-12-12T23:04:25.848Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ConsoleManager_featured-894x488-1733d6047c95dcca73cc36e15cd8c38d.png",
+      "md5": "1733d6047c95dcca73cc36e15cd8c38d",
+      "size": 155797,
+      "uploadedDate": "2020-12-12T23:23:19.299Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img4-1920x1080-3f1fd98fbffb6242b645e51d30d3883d_Snapshot.png",
+      "md5": "e6a05fe1e2054ebbb4d7f3529182f4d3",
+      "size": 3192,
+      "uploadedDate": "2020-12-28T16:11:45.723Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img3-1920x1080-12931529d5d090d13e6186fb735c06c4_Snapshot.png",
+      "md5": "d80155777f096b225114a95d4cdd8f5f",
+      "size": 3166,
+      "uploadedDate": "2020-12-28T16:11:46.128Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/unknown-1920x1080-208d3808e336be5888a4fb54144f383d_Snapshot.png",
+      "md5": "8ce371c6775f8027653cc2b68974a8b1",
+      "size": 4569,
+      "uploadedDate": "2020-12-28T16:07:09.284Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img1-1920x1080-09ca1e610e07a5eef2f1705a1ae15267_Snapshot.png",
+      "md5": "7a3c64b98077bd52e6e4c2f3919fc33f",
+      "size": 4422,
+      "uploadedDate": "2020-12-13T17:43:18.376Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img2-1920x1080-99dd0fb0cc45f245ccbc4735ddfb3aeb_Snapshot.png",
+      "md5": "ed45ca5ffe0d8d16b7c9da4ea714e97c",
+      "size": 4777,
+      "uploadedDate": "2020-12-13T17:43:18.787Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img3-1920x1080-12931529d5d090d13e6186fb735c06c4_Snapshot.png",
+      "md5": "d80155777f096b225114a95d4cdd8f5f",
+      "size": 3166,
+      "uploadedDate": "2020-12-13T17:43:19.181Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img4-1920x1080-3f1fd98fbffb6242b645e51d30d3883d_Snapshot.png",
+      "md5": "e6a05fe1e2054ebbb4d7f3529182f4d3",
+      "size": 3192,
+      "uploadedDate": "2020-12-13T17:43:19.570Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cover2-1920x1080-a12a714a7cac7c01ce0293def4190b5b_Snapshot.png",
+      "md5": "ff3a7ca6911fc8f14a664a8549bf46cc",
+      "size": 5812,
+      "uploadedDate": "2020-12-13T17:39:42.551Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img1-1920x1080-09ca1e610e07a5eef2f1705a1ae15267_Snapshot.png",
+      "md5": "7a3c64b98077bd52e6e4c2f3919fc33f",
+      "size": 4422,
+      "uploadedDate": "2020-12-13T17:29:45.285Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img2-1920x1080-99dd0fb0cc45f245ccbc4735ddfb3aeb_Snapshot.png",
+      "md5": "ed45ca5ffe0d8d16b7c9da4ea714e97c",
+      "size": 4777,
+      "uploadedDate": "2020-12-13T17:29:45.766Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img3-1920x1080-12931529d5d090d13e6186fb735c06c4_Snapshot.png",
+      "md5": "d80155777f096b225114a95d4cdd8f5f",
+      "size": 3166,
+      "uploadedDate": "2020-12-13T17:29:46.175Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Img4-1920x1080-3f1fd98fbffb6242b645e51d30d3883d_Snapshot.png",
+      "md5": "e6a05fe1e2054ebbb4d7f3529182f4d3",
+      "size": 3192,
+      "uploadedDate": "2020-12-13T17:29:46.567Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/C-1920x1080-45426707119815249a80239d58c7041f_Snapshot.png",
+      "md5": "e38eb19022f844cdf4dd1f7cac57b007",
+      "size": 2906,
+      "uploadedDate": "2020-12-13T00:28:26.973Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/A-1920x1080-508149cca93402406711acba6ae5fdb7_Snapshot.png",
+      "md5": "e38a1adb923fae199148daeb758793ad",
+      "size": 4590,
+      "uploadedDate": "2020-12-13T00:27:05.551Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/B-1920x1080-ea44e768cc815f44473e2da866795641_Snapshot.png",
+      "md5": "5b1bb6f29356e7c511ea777c8c9145a1",
+      "size": 4090,
+      "uploadedDate": "2020-12-13T00:27:05.890Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thumbnail1-1920x1080-078140775b4f81ce36616cac1a8f30d3_Snapshot.png",
+      "md5": "7457fcf59dfacf15c1456912b3b16c76",
+      "size": 5743,
+      "uploadedDate": "2020-12-12T23:23:56.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2020-12-06 111742-1920x1080-e9d9b385d3aaf91605a554babbecb9c7_Snapshot.png",
+      "md5": "24585db0b0fb53c746092e0110842e64",
+      "size": 3792,
+      "uploadedDate": "2020-12-06T13:24:46.823Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "683d5d38d4424218be36122f75165e7e"
+    }
+  ],
+  "catalogNs": null
+}

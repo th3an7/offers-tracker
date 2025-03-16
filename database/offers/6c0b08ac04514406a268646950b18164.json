@@ -1,0 +1,269 @@
+{
+  "id": "6c0b08ac04514406a268646950b18164",
+  "namespace": "ue",
+  "title": "Esports Broadcast Automator",
+  "description": "Create graphics for esports broadcast automatically. Setup team presets and use the batch render created in the project to automatically render everything.",
+  "longDescription": "<p>This project allows you to render up to 5 graphics per match, for games you may broadcast live, with very little setup. There is a data table that you create as many team presets as you want to easily match them up for graphics. You can easily preview these matchups using the controller blueprint placed in the scene.</p><p><br /></p><p>For the matchup you can select different color schemes for the teams as well. It automatically changes the color scheme based on the teams&#39; primary and secondary colors set in the data table.</p><p><br /></p><p>When you are ready to render out matches, you can queue up all of them in the included batch render tool made and select which graphics you want rendered. Once setup you press render once and the tool will automatically render out every graphic for each of the queued matches.</p><p><br /></p><p>Any meshes can be easily be used in place of the default ones allowing it to be very easy to be used for any type of broadcast even more than just esports if that is wanted.</p><p><br /></p><p>When creating the project it is recommended that you don&#39;t keep the default project name since it is longer than 25 characters which may cause issues with the project.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "esports-broadcast-automator",
+  "creationDate": "2023-01-10T20:16:32.095Z",
+  "lastModifiedDate": "2024-10-03T04:04:43.190Z",
+  "effectiveDate": "2023-01-10T20:16:32.056Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-swed2rpy4weqtnsumlsttyn86zwy5k",
+    "name": "aFadedKnight"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Two main blueprints</li><li>Batch Render tool for queuing up many renders</li><li>Controller to preview scenes</li><li>Multiple premade graphic sequences</li><li>Base scene with different mashes and materials</li><li>A few simple teams with presets</li></ul><p>Number of Blueprints: 2</p><p>Input: (If any, please include which methods of input are preconfigured (Gamepad, Keyboard, Mouse... etc.))</p><p>Network Replicated: (Yes/No)</p><p>Supported Development Platforms:</p><p>Windows: (<strong>Yes</strong>/No)</p><p>Mac: (Yes/<strong>No</strong>)</p><p>Documentation: https://docs.google.com/document/d/1XVOYKXOL6i21lUln1ofSxJoJSAuxS0dWlXphiyetSPc/edit?usp&#61;sharing</p><p>Important/Additional Notes: Includes Sports Car from the built in engine preset for driving cars as mesh. PythonScriptPlugin, SequencerScripting,Takes, VirtualProductionUtilities, LiveLink, Composure, MediaFrameworkUtilities, MediaIOFramework, nDisplay, PixelStreaming, AppleProResMedia, MovieRenderPipeline, and Text3D plugins are enabled and turning them off may cause crashes or content to have errors. </p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1343",
+      "name": "MECHS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:08.830Z",
+      "updated": "2019-06-20T12:01:08.830Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "50559a75-c19d-4d3b-9d49-c505495e780d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MatchupPreview-1920x1080-b7fba2a9d5897f76cbb8ed90245c7f73.png",
+      "md5": "b7fba2a9d5897f76cbb8ed90245c7f73",
+      "size": 1400888,
+      "uploadedDate": "2023-01-07T18:39:31.421Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Tunnel-1920x1080-de6f8dc94cecbe1bebfc82658431afd5.png",
+      "md5": "de6f8dc94cecbe1bebfc82658431afd5",
+      "size": 1909779,
+      "uploadedDate": "2023-01-07T18:39:32.038Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WinnerPreview-1920x1080-59e624e386a945f74ded513b9a022c17.png",
+      "md5": "59e624e386a945f74ded513b9a022c17",
+      "size": 2081178,
+      "uploadedDate": "2023-01-07T18:39:32.671Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BatchRenderSettings-1920x1080-b56be15919b11e361a69607da981c3f0.png",
+      "md5": "b56be15919b11e361a69607da981c3f0",
+      "size": 429363,
+      "uploadedDate": "2023-01-07T18:39:30.475Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TeamNamePreview-1920x1080-ff564804fb3c00e9af0d40e0bb2b69ec.png",
+      "md5": "ff564804fb3c00e9af0d40e0bb2b69ec",
+      "size": 1269797,
+      "uploadedDate": "2023-01-07T18:43:27.314Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ControllerSettings-1920x1080-92be578db2547051d5be183119ec2fbe.png",
+      "md5": "92be578db2547051d5be183119ec2fbe",
+      "size": 250826,
+      "uploadedDate": "2023-01-09T18:49:58.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EsportsBroadcastAutomator_thumb-284x284-9b486806f9ecb963e3c7ba5ab670413b.png",
+      "md5": "9b486806f9ecb963e3c7ba5ab670413b",
+      "size": 109526,
+      "uploadedDate": "2023-01-07T18:39:33.203Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EsportsBroadcastAutomator_featured-894x488-32a812ba95fbe565e69de14e389ffd64.png",
+      "md5": "32a812ba95fbe565e69de14e389ffd64",
+      "size": 415695,
+      "uploadedDate": "2023-01-07T18:39:33.375Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ControllerSettings-1920x1080-92be578db2547051d5be183119ec2fbe_Snapshot.png",
+      "md5": "e3a974bfc2f4dd1a7744471fe52383a6",
+      "size": 4046,
+      "uploadedDate": "2023-01-09T18:49:58.563Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TeamNamePreview-1920x1080-ff564804fb3c00e9af0d40e0bb2b69ec_Snapshot.png",
+      "md5": "2eb4930236d8ee1813b4dd6d4c57a899",
+      "size": 6509,
+      "uploadedDate": "2023-01-07T18:43:27.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BatchRenderSettings-1920x1080-b56be15919b11e361a69607da981c3f0_Snapshot.png",
+      "md5": "1fbe1f679d1598efaf45f462ef33bda7",
+      "size": 3604,
+      "uploadedDate": "2023-01-07T18:39:30.761Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ControllerSettings-1920x1080-b2fa3d39c856b70321ce8ae4ccdeaa43_Snapshot.png",
+      "md5": "e0a4acbb7c234d7c4757e315aa4ce6dc",
+      "size": 4458,
+      "uploadedDate": "2023-01-07T18:39:31.193Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MatchupPreview-1920x1080-b7fba2a9d5897f76cbb8ed90245c7f73_Snapshot.png",
+      "md5": "b4cad548968dfbf16344831f2402732c",
+      "size": 7282,
+      "uploadedDate": "2023-01-07T18:39:31.758Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Tunnel-1920x1080-de6f8dc94cecbe1bebfc82658431afd5_Snapshot.png",
+      "md5": "0c75149d96a1ff964ecf3eae9dcf9124",
+      "size": 6711,
+      "uploadedDate": "2023-01-07T18:39:32.396Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WinnerPreview-1920x1080-59e624e386a945f74ded513b9a022c17_Snapshot.png",
+      "md5": "1e452f3e8af106c1eabf227581738f19",
+      "size": 7031,
+      "uploadedDate": "2023-01-07T18:39:33.080Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3f13c0bbce6f46049f10e99fa563435a"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,143 @@
+{
+  "id": "22108e274b5d4e5ab92c0a7b961caf13",
+  "namespace": "ue",
+  "title": "EasyJsonParser",
+  "description": "EasyJsonParser is a library to easily get values from json.",
+  "longDescription": "<p>Values in Json can be obtained by the following types.</p><p>&#43; string</p><p>&#43; int</p><p>&#43; float</p><p>&#43; bool</p><p><br /></p><p><br /></p><p>For example, you can easily refer to values by simply connecting tags with dots as follows:</p><p><br /></p><p>{<!-- --></p><p>&#34;widget&#34;: {<!-- --></p><p>&#34;debug&#34;: true,</p><p>&#34;window&#34;: {<!-- --></p><p>&#34;title&#34;: &#34;Sample Konfabulator Widget&#34;,</p><p>&#34;name&#34;: &#34;main_window&#34;,</p><p>&#34;width&#34;: 500,</p><p>&#34;height&#34;: 500</p><p>}</p><p>}</p><p>}</p><p><br /></p><p>widget.debug &#61;&gt; true(bool)</p><p>widget.window.name&#61;&gt;&#34;main_window&#34;(string)</p><p>widget.window.width &#61;&gt; 500(int or float)</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easyjsonparser",
+  "creationDate": "2019-06-15T12:40:10.512Z",
+  "lastModifiedDate": "2024-10-15T10:27:43.549Z",
+  "effectiveDate": "2019-06-15T12:40:10.429Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zyblkxhevfvhrs86f4fxbea3uhveds",
+    "name": "ayumax"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules: EasyJsonParser</p><p><br /></p><p>Supported Development Platforms: Windows, Mac</p><p>Supported Target Build Platforms: Windows, Mac, iOS, Android</p><p><br /></p><p>Documentation: <a href=\"https://github.com/ayumax/EasyJsonParser/blob/master/README.md\" rel=\"nofollow\">https://github.com/ayumax/EasyJsonParser/blob/master/README.md</a></p><p>Example Project:<a href=\"https://github.com/ayumax/EasyJsonParser\" rel=\"nofollow\">https://github.com/ayumax/EasyJsonParser</a></p><p><br /></p><p>Changelog</p><p>[08/29/2019] Version 1.0.1: (4.20, 4.21, 4.22)</p><ul><li>Compatible with android, ios and mac</li></ul><p><br /></p><p>(05/27/2019) Version 1.00: (4.20, 4.21, 4.22)</p><ul><li>Initial release</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1338",
+      "name": "TOP-DOWN SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:06.404Z",
+      "updated": "2019-06-20T12:01:06.404Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0f13d0ef-a6fe-411c-8c57-9cc0f694b3f0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY0-1920x1080-100537c6ce371ee4b11d59c33b9d7a3b.png",
+      "md5": "100537c6ce371ee4b11d59c33b9d7a3b",
+      "size": 42008,
+      "uploadedDate": "2019-06-16T06:05:11.465Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 4-1920x1080-019596bbebe3d1a95a12926c72df9f64.png",
+      "md5": "019596bbebe3d1a95a12926c72df9f64",
+      "size": 63536,
+      "uploadedDate": "2019-05-27T14:49:38.826Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY 1-1920x1080-1c71e85be6282f413231e0e4e0c14b36.png",
+      "md5": "1c71e85be6282f413231e0e4e0c14b36",
+      "size": 432946,
+      "uploadedDate": "2019-05-27T14:49:38.457Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EasyJsonParser_thumb-284x284-b513487793dcdcdede4d68955f7adba3.png",
+      "md5": "b513487793dcdcdede4d68955f7adba3",
+      "size": 6385,
+      "uploadedDate": "2019-06-16T06:05:11.714Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EasyJsonParser_featured-894x488-71efee65be114d7ecd7242c7f963adf3.png",
+      "md5": "71efee65be114d7ecd7242c7f963adf3",
+      "size": 104077,
+      "uploadedDate": "2019-05-27T14:49:39.276Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0-1920x1080-100537c6ce371ee4b11d59c33b9d7a3b_Snapshot.png",
+      "md5": "8942f100e65d48abebb399eed1af0741",
+      "size": 4292,
+      "uploadedDate": "2019-06-16T06:05:11.681Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY0-1920x1080-e9db56026d4a54ed2479e590c8792bb2_Snapshot.png",
+      "md5": "5710e272f939721a3f7f4daa619fbe13",
+      "size": 4298,
+      "uploadedDate": "2019-06-15T12:40:09.667Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 1-1920x1080-1c71e85be6282f413231e0e4e0c14b36_Snapshot.png",
+      "md5": "d4c0aa8cd3d29ba1fb697198765061a3",
+      "size": 5243,
+      "uploadedDate": "2019-05-27T14:49:38.736Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY 4-1920x1080-019596bbebe3d1a95a12926c72df9f64_Snapshot.png",
+      "md5": "0fdb8a65d5b4e1ec8a24f8bb44f2bb80",
+      "size": 4484,
+      "uploadedDate": "2019-05-27T14:49:39.058Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "26dcd958c3e44f72bbdb2faadc1b90ff"
+    }
+  ],
+  "catalogNs": null
+}

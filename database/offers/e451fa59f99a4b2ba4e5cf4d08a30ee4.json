@@ -1,0 +1,368 @@
+{
+  "id": "e451fa59f99a4b2ba4e5cf4d08a30ee4",
+  "namespace": "ue",
+  "title": "EZRacing - Easy Point-Based Racing AI",
+  "description": "This Smart Vehicle AI will give you the best racing competition! All without complicated spline paths, easy to use!",
+  "longDescription": "<p>What is EZRacing?</p><p>EZRacing is an infinitely useful racing car AI with features such as Dynamic Navigation (navigating around obstacles), Opponent Detection, Overtaking, and so much more! The navigation is point based, so don&#39;t worry about large, complicated spline paths. Bring in the competition with EZRacing!</p><p><br /></p><p>How can I use EZRacing?</p><p>All you have to do is attach the AI Controller to your vehicle, add the waypoints to your level, and get ready to race! Never has it ever been this simple and cost effective to bring smart AI into your racing game!</p><p><br /></p><p>Is EZRacing complicated?</p><p>EZRacing is quite easy to understand and use, the system is plug-n-play handling pretty much everything for you. But for those who want to tweak some of the functionality, there is heavily commented blueprints, but for those newer to blueprints, or more interested in the technical side of things, there is heavy documentation covering the asset, and if you find yourself with more questions outside of that, there is a Discord Support server where you will be helped!</p><p><br /></p><p>How big is EZRacing?</p><p>EZRacing takes up less than 1 MB on disk space (by itself, without the showcase), and an extremely small amount of memory and CPU (its hard to estimate because Unreal Engine takes up quite a large amount itself, but EZRacing is practically unnoticeable in your levels performance, how do we know it doesnt effect performance? It always keeps 120 fps on an empty project).</p><p><br /></p><p>Will EZRacing be receiving updates?</p><p>It is unlikely that I will update EZRacing as of today, aside from engine version updates, unless there is an overwhelming number of requests for it to change. However, I am always working on other assets, and you can find me in the Discord server if you feel that something is missing in your project!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ezracing-easy-point-based-racing-ai",
+  "creationDate": "2022-11-05T19:49:54.300Z",
+  "lastModifiedDate": "2024-10-09T05:55:26.817Z",
+  "effectiveDate": "2022-11-05T19:49:54.231Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pzv6gx6uncl9dxmu9xnd638j9stqlr",
+    "name": "EZSystems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Easy Implementation! It&#39;s as simple as adding the controller and providing waypoints for the AI to travel!</li><li> AI has Dynamic Navigation (navigating around obstacles), Opponent Detection, Overtaking, and so much more!</li><li> The navigation is point based, so don&#39;t worry about large, complicated spline paths.</li><li>Many ways to play! You can use the Wheeled Vehicle Movement Component, or your own custom movement events!</li><li>All 100% Clean, Commented, and Optimized Blueprints, gets 120 FPS in the showcase (with 6 AI)!</li></ul><p>Number of Blueprints: 5 (not including showcase) - AI Controller, 2 Blueprint Interfaces, and Opponent Data structure!</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows, MacOS, Linux, and Android</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1ccHQzchokh2Z-PAcmTkmK_lw9Fv9cjMDtwujiq6E728/edit?usp&#61;sharing\" rel=\"nofollow\">CLICK HERE</a></p><p>Support: <a href=\"https://discord.gg/PsBqg7H4xs\" rel=\"nofollow\">Discord</a></p><p>Showcase Video: <a href=\"https://youtu.be/-9TOSEVUWmI\" rel=\"nofollow\">YouTube</a></p><p>Demo: <a href=\"https://drive.google.com/file/d/1A8daZ1YjOc88g6016IIOjQiRnSXsO7Dy/view?usp&#61;sharing\" rel=\"nofollow\">Windows</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1193",
+      "name": "CYBERPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:54.272Z",
+      "updated": "2022-08-24T18:46:51.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a3701f7b-ba8f-4334-9f5d-9e8bf0b74988"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-dbb2cb2a2fc1b49a4751c3c357e0fabb.png",
+      "md5": "dbb2cb2a2fc1b49a4751c3c357e0fabb",
+      "size": 1680108,
+      "uploadedDate": "2022-11-02T15:59:35.546Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-8c46d055ed51906b9dc4b16abd07027d.png",
+      "md5": "8c46d055ed51906b9dc4b16abd07027d",
+      "size": 1215438,
+      "uploadedDate": "2022-11-02T15:59:36.044Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery05-1920x1080-a3f5c7bbdb7ecb53febd4e39436d36ea.png",
+      "md5": "a3f5c7bbdb7ecb53febd4e39436d36ea",
+      "size": 305768,
+      "uploadedDate": "2022-11-02T15:59:36.605Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-5a98a44fd793506b7768104f9065e4c3.png",
+      "md5": "5a98a44fd793506b7768104f9065e4c3",
+      "size": 1173157,
+      "uploadedDate": "2022-11-02T15:59:36.941Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-9a31e52cd8d80f483b22ffb15efe6417.png",
+      "md5": "9a31e52cd8d80f483b22ffb15efe6417",
+      "size": 276533,
+      "uploadedDate": "2022-11-02T15:59:37.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery06-1920x1080-eaab0c8013e1e6955372dfa95c8c7b36.png",
+      "md5": "eaab0c8013e1e6955372dfa95c8c7b36",
+      "size": 151747,
+      "uploadedDate": "2022-11-02T15:59:37.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EZRacingEasyPointBasedRacingAI_thumb-284x284-602045b2c97fa74afac56918e40ad51a.png",
+      "md5": "602045b2c97fa74afac56918e40ad51a",
+      "size": 97234,
+      "uploadedDate": "2022-11-02T15:59:37.957Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EZRacingEasyPointBasedRacingAI_featured-894x488-b0feee6d86aadb109ffc474b57cf914a.png",
+      "md5": "b0feee6d86aadb109ffc474b57cf914a",
+      "size": 417731,
+      "uploadedDate": "2022-11-02T15:59:38.074Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-dbb2cb2a2fc1b49a4751c3c357e0fabb_Snapshot.png",
+      "md5": "aced12d23f3f74fd1a8bff01051bbde1",
+      "size": 6956,
+      "uploadedDate": "2022-11-02T15:59:35.857Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-8c46d055ed51906b9dc4b16abd07027d_Snapshot.png",
+      "md5": "cfe9e1c1b95332f87ee7042e33ecf15b",
+      "size": 6892,
+      "uploadedDate": "2022-11-02T15:59:36.322Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-a3f5c7bbdb7ecb53febd4e39436d36ea_Snapshot.png",
+      "md5": "fac677d38ea41234d24424b2e8b9574e",
+      "size": 5090,
+      "uploadedDate": "2022-11-02T15:59:36.821Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-5a98a44fd793506b7768104f9065e4c3_Snapshot.png",
+      "md5": "d9dcf3ad8b5c216801785d610da40074",
+      "size": 5864,
+      "uploadedDate": "2022-11-02T15:59:37.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-9a31e52cd8d80f483b22ffb15efe6417_Snapshot.png",
+      "md5": "293bb2835bd6430a79c5e83e5418fa9f",
+      "size": 5216,
+      "uploadedDate": "2022-11-02T15:59:37.560Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery06-1920x1080-eaab0c8013e1e6955372dfa95c8c7b36_Snapshot.png",
+      "md5": "b335d81841b6ff338e18511622c04e89",
+      "size": 6056,
+      "uploadedDate": "2022-11-02T15:59:37.908Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "922cdc25675945269c1ac6547b7c1e54"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,116 @@
+{
+  "id": "571ececbf55d4f77b76525743172a964",
+  "namespace": "ue",
+  "title": "Impromptu Auto Material Instance Maker",
+  "description": "A tool for quickly generating material instances for very many textures at once in UE5.",
+  "longDescription": "<p>This tool for UE5 (5.3 and later) lets you automatically create instanced materials for many textures at once, given a base material with parameters to fill.</p><p><br /></p><p>For example, if you have a folder full of textures called things like &#34;Chair_BaseColor&#34;, &#34;Chair_Normal&#34;, &#34;Chair_Roughness&#34;, &#34;Table_Albedo&#34;, &#34;Table_NRM&#34;, &#34;Table_Rough&#34;, you can, in one click, create the material instances &#34;MI_Chair&#34; and &#34;MI_Table&#34; with all the textures automatically in the right parameter slots. As long as your textures all have some suffix describing the content, this&#39;ll work.</p><p><br /></p><p>You can also set the values for all Scalar, Vector and Static Switch parameters on your material instances.</p><p><a href=\"https://www.youtube.com/watch?v&#61;sXzwHp9EwBQ&amp;t&#61;34s\" rel=\"nofollow\">Video how-to</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "impromptu-auto-material-instance-maker",
+  "creationDate": "2024-02-16T01:49:55.874Z",
+  "lastModifiedDate": "2024-10-10T23:38:35.088Z",
+  "effectiveDate": "2024-02-16T01:49:55.838Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a7e8c03edc445681461a090e4fb196",
+    "name": "Joe Wintergreen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Automatically generate complete material instances for your texture sets, regardless of your naming conventions</li><li> Optionally override default Scalar, Vector and Static Switch Parameters for your Instances</li><li> Save a bunch of manual labour filling out material instance parameters with your textures over and over</li></ul><p>Number of Blueprints: 1</p><p>Input: N/A</p><p>Network Replicated: N/A</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://impromptu-games.itch.io/auto-material-instance-maker-tool\" rel=\"nofollow\">https://impromptu-games.itch.io/auto-material-instance-maker-tool</a></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1a63251a-b4a4-4d54-a731-26d9c1277af8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealEditor0PnvJvoiuJ-1920x1080-0fdb0d174a330c7828949e63c066721f.png",
+      "md5": "0fdb0d174a330c7828949e63c066721f",
+      "size": 248000,
+      "uploadedDate": "2024-02-11T22:40:40.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UnrealEditorjJZMHr7qFl-1920x1080-4a4dbccf27b8d71eeb26590727784bc8.png",
+      "md5": "4a4dbccf27b8d71eeb26590727784bc8",
+      "size": 63747,
+      "uploadedDate": "2024-02-11T22:40:41.149Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ImpromptuAutoMaterialInstanceMaker_thumb-284x284-d07b7c246ddfbf0723bb427ad9602190.png",
+      "md5": "d07b7c246ddfbf0723bb427ad9602190",
+      "size": 67783,
+      "uploadedDate": "2024-02-11T22:40:41.410Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ImpromptuAutoMaterialInstanceMaker_featured-894x488-66f8b87228bdb84b09707e4165312b88.png",
+      "md5": "66f8b87228bdb84b09707e4165312b88",
+      "size": 75125,
+      "uploadedDate": "2024-02-11T22:40:41.451Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealEditor0PnvJvoiuJ-1920x1080-0fdb0d174a330c7828949e63c066721f_Snapshot.png",
+      "md5": "24144de7aaccb3dfb9ea6d606e7c5775",
+      "size": 5377,
+      "uploadedDate": "2024-02-11T22:40:41.077Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UnrealEditorjJZMHr7qFl-1920x1080-4a4dbccf27b8d71eeb26590727784bc8_Snapshot.png",
+      "md5": "4004854c5cfd6c28a1e3212eb2c28d78",
+      "size": 3158,
+      "uploadedDate": "2024-02-11T22:40:41.348Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "44f2c021d5214bdcbf8505b9bc68e2c8"
+    }
+  ],
+  "catalogNs": null
+}

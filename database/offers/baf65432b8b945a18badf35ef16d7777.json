@@ -1,0 +1,269 @@
+{
+  "id": "baf65432b8b945a18badf35ef16d7777",
+  "namespace": "ue",
+  "title": "PostgreSQL Connection Tools",
+  "description": "PostgreSQL is an Unreal Engine plugin that allows you to execute queries to a PostgreSQL database.",
+  "longDescription": "<p>With PostgreSQL, you can integrate SQL in your project very easly. It allows you to connect to your PostgreSQL Database, and to execute any query you want (SELECT, INSERT, DELETE...). Then, if there is a return to your query, you can get the column with the name, or the id, and transorm the result in the type you want.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "postgresql-connection-tools",
+  "creationDate": "2023-09-27T08:18:35.597Z",
+  "lastModifiedDate": "2024-10-15T10:20:00.424Z",
+  "effectiveDate": "2023-09-27T08:21:30.174Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ay3wv5vxmnbkuwpw3s9dadekmhc2bg",
+    "name": "Redex Production"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Connect to a PostgreSQL Database</li><li> Execute Query</li><li> Prepare Query</li><li>Async function for connection or query that take time</li><li>Multiple database connection</li><li>Get the column by name or by id</li><li>Get the result of the query in the type you want</li></ul><p><br /></p><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> Module Name : PostgreSQL , Type : Runtime</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 12</p><p>Supported Development Platforms: (Win64)</p><p>Supported Target Build Platforms: (Win64)</p><p>Documentation: https://docs.google.com/document/d/1qiaaMymry82kFVE4xueAifpIqtpLqlev7dJnPGFX70Q/edit?usp&#61;sharing</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "96a60dec-e72d-45aa-8b4b-225ea5fd84bd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Event Graph 05082023 153227-1920x1080-8748d0ddad88a0f253754390fb2e2171.png",
+      "md5": "8748d0ddad88a0f253754390fb2e2171",
+      "size": 176881,
+      "uploadedDate": "2023-08-05T15:05:50.534Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Event Graph 05082023 153406-1920x1080-76f18b135b076823414c524642e23f7d.png",
+      "md5": "76f18b135b076823414c524642e23f7d",
+      "size": 190076,
+      "uploadedDate": "2023-08-05T15:05:51.032Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Event Graph 05082023 153606-1920x1080-28bb211b86c6f88b10d63796043ff819.png",
+      "md5": "28bb211b86c6f88b10d63796043ff819",
+      "size": 142230,
+      "uploadedDate": "2023-08-05T15:05:51.473Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Event Graph 05082023 153735-1920x1080-cfe0bb6893fea2794f80bd07021d9778.png",
+      "md5": "cfe0bb6893fea2794f80bd07021d9778",
+      "size": 163262,
+      "uploadedDate": "2023-08-05T15:05:51.919Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Event Graph 05082023 153815-1920x1080-d6defc26ec37fe63257ba9c26cc981a9.png",
+      "md5": "d6defc26ec37fe63257ba9c26cc981a9",
+      "size": 131057,
+      "uploadedDate": "2023-08-05T15:05:52.261Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Event Graph 05082023 154017-1920x1080-5460694d7eb15b7b77e2f8cbc6676367.png",
+      "md5": "5460694d7eb15b7b77e2f8cbc6676367",
+      "size": 253608,
+      "uploadedDate": "2023-08-05T15:05:52.682Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PostgreSQLConnectionTools_thumb-284x284-e0ce61a0f4915fd8488f36cbe07c8f7e.png",
+      "md5": "e0ce61a0f4915fd8488f36cbe07c8f7e",
+      "size": 85112,
+      "uploadedDate": "2023-08-16T08:51:52.839Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PostgreSQLConnectionTools_featured-894x488-e655618747e499730377da78f102a7af.png",
+      "md5": "e655618747e499730377da78f102a7af",
+      "size": 361669,
+      "uploadedDate": "2023-08-16T08:51:52.987Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PostgreSQL Connection Tools img-1920x1080-2ba5a561adc8d246bced97561be800b6_Snapshot.jpg",
+      "md5": "ce366aaa17bbb2dff59bb6fbfdf4f7e9",
+      "size": 6266,
+      "uploadedDate": "2023-08-09T15:13:01.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Event Graph 05082023 153227-1920x1080-8748d0ddad88a0f253754390fb2e2171_Snapshot.png",
+      "md5": "a8d0f2c02ee39aec0f5462cd67ade89b",
+      "size": 3983,
+      "uploadedDate": "2023-08-05T15:05:50.868Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Event Graph 05082023 153406-1920x1080-76f18b135b076823414c524642e23f7d_Snapshot.png",
+      "md5": "f4f0f7ca9a514ba47971817b1a3af0ec",
+      "size": 3850,
+      "uploadedDate": "2023-08-05T15:05:51.300Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Event Graph 05082023 153606-1920x1080-28bb211b86c6f88b10d63796043ff819_Snapshot.png",
+      "md5": "bb050b108e0ce77e007011edf9f25dd4",
+      "size": 3692,
+      "uploadedDate": "2023-08-05T15:05:51.735Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Event Graph 05082023 153735-1920x1080-cfe0bb6893fea2794f80bd07021d9778_Snapshot.png",
+      "md5": "8a50a227c126c9bf597729bc617323c0",
+      "size": 3561,
+      "uploadedDate": "2023-08-05T15:05:52.184Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Event Graph 05082023 153815-1920x1080-d6defc26ec37fe63257ba9c26cc981a9_Snapshot.png",
+      "md5": "32b1ba3d14acf97e93ccb5684e2f5f32",
+      "size": 3367,
+      "uploadedDate": "2023-08-05T15:05:52.525Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Event Graph 05082023 154017-1920x1080-5460694d7eb15b7b77e2f8cbc6676367_Snapshot.png",
+      "md5": "107c7cb46d308c8375bde3d2365d930d",
+      "size": 4033,
+      "uploadedDate": "2023-08-05T15:05:52.971Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8ece56eacb3244fca1c58e372bc03126"
+    }
+  ],
+  "catalogNs": null
+}

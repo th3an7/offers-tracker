@@ -1,0 +1,284 @@
+{
+  "id": "33e15f502d7149b7906a9f21ad94d188",
+  "namespace": "ue",
+  "title": "Spline Navigation plug-in",
+  "description": "Follow navigation pathes with smooth trajectories",
+  "longDescription": "<p><strong>Overview video</strong> : <a href=\"https://youtu.be/yKddqb5F8BU\" rel=\"nofollow\">https://youtu.be/yKddqb5F8BU</a></p><p><strong>Tutorial video :</strong> <a href=\"https://youtu.be/9KSDJ6k_W1I\" rel=\"nofollow\">https://youtu.be/9KSDJ6k_W1I</a></p><p><br /></p><p>Have your vehicles use <strong>path-finding</strong>, with nicely curved and <strong>smooth trajectories</strong>.</p><p><br /></p><p>This plug-in adds components that you can add to your assets to make them able to follow navigation pathes from path-finding system by tracing smooth splines as trajectories to follow along the path points. It will also allow you to limit their rotation speed, making them slow down in the turns and accelerate in straight lines. Finally, the SplineMoveTo task will allow you to set the final orientation of the trajectory.</p><p><br /></p><p>Its main component is SplinePathFollowingComponent is a component that will replace the PathFollowingComponent of your AI Controller. It will trace a spline using the path points given by the path-finding system and will give the right input to movevement compoennts to follow it.</p><p><br /></p><p>This may be used either with the included movement components and Move AI task or with your own.</p><p><br /></p><p>The whole plug-in is coded in C&#43;&#43; but is both usable in blueprint-only projects, and delivered with fully documented source code and adjustable / modifiable for C&#43;&#43; project.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "spline-navigation-plug-in",
+  "creationDate": "2021-03-18T16:27:14.222Z",
+  "lastModifiedDate": "2024-10-15T10:34:56.167Z",
+  "effectiveDate": "2021-03-18T17:04:36.183Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-emp5mdm3srxs3d8rh2g5xqbdk945u7",
+    "name": "GB Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li> Spline tracing according to navigation path</li><li> Path-following with limited rotation speed (in degrees per seconds), both position-based and acceleration-based</li><li> MoveTo AI Task with expected final rotation</li></ul><p><strong>Code Modules:</strong></p><ul><li> This plug-in adds a SplinePathFollowingComponent and SplineMovementComponent classes that will trace a spline using the path points given by the path-finding system and that will follow it. And a &#34;SplineMoveTo&#34; behavior tree task that allows to use it.</li><li>There are two possible movement components (one position-based, one acceleration based). Both have three characteristics : max speed (uu per seconds), acceleration (uu per seconds square) and maximum rotation speed (degrees per seconds) and it will follow the spline the fastest it can respecting these constraints. This is a position-based movement component.</li><li>The &#34;SplineMoveTo&#34; BT task is basically a move to task that also allows to define the desired final rotation to achieve. The spline trajectory will be adjusted to maneuver and arrive to destination from the correct direction.</li></ul><p><strong>Number of Blueprints:</strong> 0</p><p><strong>Number of C&#43;&#43; Classes:</strong> 5</p><p><strong>Network Replicated:</strong> No</p><p><strong>Supported Development Platforms:</strong> Windows</p><p><strong>Supported Target Build Platforms:</strong> Any</p><p><strong>Documentation:</strong> <a href=\"https://nuage.liiib.re/s/zXkYXpJNX9NJJq3\" rel=\"nofollow\">https://nuage.liiib.re/s/zXkYXpJNX9NJJq3</a></p><p><strong>Example Project:</strong> <a href=\"https://nuage.liiib.re/s/pZ6RNbbPSaSGNfD\" rel=\"nofollow\">https://nuage.liiib.re/s/pZ6RNbbPSaSGNfD</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1350",
+      "name": "MINIMALIST",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:12.249Z",
+      "updated": "2019-06-20T12:01:12.249Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1193",
+      "name": "CYBERPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:54.272Z",
+      "updated": "2022-08-24T18:46:51.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "45550f79-8321-487c-bb91-9248f2b43e0e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SplineNavigation1-1920x1080-8a516df8671b02c60124f746c075e599.png",
+      "md5": "8a516df8671b02c60124f746c075e599",
+      "size": 888188,
+      "uploadedDate": "2021-03-15T20:43:11.635Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SplineNavigation2-1920x1080-e27f4f948b518a1666f7f894d5e36105.png",
+      "md5": "e27f4f948b518a1666f7f894d5e36105",
+      "size": 905303,
+      "uploadedDate": "2021-03-15T20:43:12.153Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SplineNavigationplugin_thumb-284x284-eacd00819d423f6eeee536232364da61.png",
+      "md5": "eacd00819d423f6eeee536232364da61",
+      "size": 59099,
+      "uploadedDate": "2022-10-19T19:11:34.623Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SplineNavigationplugin_featured-894x488-7fe19e2fc83be7a0ea9024b40f38fd6d.png",
+      "md5": "7fe19e2fc83be7a0ea9024b40f38fd6d",
+      "size": 179142,
+      "uploadedDate": "2022-10-19T19:11:34.785Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SplineNavigation1-1920x1080-8a516df8671b02c60124f746c075e599_Snapshot.png",
+      "md5": "67582f3bc3c87cb51d11eb10df0e67e0",
+      "size": 4441,
+      "uploadedDate": "2021-03-15T20:43:11.959Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SplineNavigation2-1920x1080-e27f4f948b518a1666f7f894d5e36105_Snapshot.png",
+      "md5": "5f1fbcca1ead89cfb9c1fa4e63dd6b41",
+      "size": 4686,
+      "uploadedDate": "2021-03-15T20:43:12.483Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a255ec360e314b958da8436a4498e2df"
+    }
+  ],
+  "catalogNs": null
+}

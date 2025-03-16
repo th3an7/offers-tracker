@@ -1,0 +1,386 @@
+{
+  "id": "5455b90b93f94d7aaa57621f59626bcd",
+  "namespace": "ue",
+  "title": "EZBlockouts - Easy Level Blockout Building Kit",
+  "description": "This tool will help you to easily bring your concepts to life. Visualize your dream's today!",
+  "longDescription": "<p>What is EZBlockouts?</p><p>EZBlockouts is an infinitely useful procedural mesh generation tool for quickly making level concepts/blockouts. The functionality is exposed to blueprints through the parent class, and can be used anywhere in your level, at any time (used in editor and in runtime)!</p><p><br /></p><p>How can I use EZBlockouts?</p><p>Just add an EZBlockout Mesh actor to your level, then you can simply add or remove basic shapes to quickly and easily sculpt your dreams within minutes, and when your ready, you can save your design to a static mesh for prolonged use!</p><p><br /></p><p>Is EZBlockouts complicated?</p><p>EZBlockouts is quite easy to understand, with little focus on programming, all you have to do is use your creativity to sculpt the level you desire! But for those who want to tweak some of the functionality, there is heavily commented blueprints, but for those newer to blueprints, or more interested in the technical side of things, there is heavy documentation covering the asset, and if you find yourself with more questions outside of that, there is a Discord Support server where you will be helped!</p><p><br /></p><p>How big is EZBlockouts?</p><p>EZBlockouts takes up less than 2 MB on disk space (by itself, without the showcase), and an extremely small amount of memory and CPU (its hard to estimate because Unreal Engine takes up quite a large amount itself, but EZBlockouts is practically unnoticeable in your levels performance, how do we know it doesnt effect performance? It always keeps 120 fps on an empty project).</p><p><br /></p><p>Will EZBlockouts be receiving updates?</p><p>It is unlikely that I will update EZBlockouts as of today, aside from engine version updates, unless there is an overwhelming number of requests for it to change. However, I am always working on other assets, and you can find me in the Discord server if you feel that something is missing in your project!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ezblockouts-easy-level-blockout-building-kit",
+  "creationDate": "2022-10-27T21:14:20.211Z",
+  "lastModifiedDate": "2024-10-15T19:30:51.356Z",
+  "effectiveDate": "2022-10-27T21:14:20.164Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pzv6gx6uncl9dxmu9xnd638j9stqlr",
+    "name": "EZSystems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Simple and easy to use procedural mesh actor, just add and subtract basic shapes to model your dreams!</li><li> 100% Clean, Optimized, and Commented blueprints for your easy use (though no programming is required to use!]</li><li> Expansive and stunning showcase level that shows you how easy it is to bring your concept&#39;s to life.</li><li>Update v1.1: Each mesh now has accurate collision generation, and you can add your custom meshes!</li><li>Ability to assign a different material to each mesh!</li></ul><p>Number of Blueprints: 2 - EZBlockout Mesh actor and the parent with functions.</p><p>Supported Platforms: Windows, Mac, Linux, Android</p><p>Showcase Video: <a href=\"https://youtu.be/a8p7iQ_zK_w\" rel=\"nofollow\">YouTube</a></p><p>Documentation: <a href=\"https://docs.google.com/document/d/1E-exAF9d9uCXzLt5FSSW02fWF5hEknujMXQBB33mqHw/edit?usp&#61;sharing\" rel=\"nofollow\">CLICK HERE</a></p><p>Support: <a href=\"https://discord.gg/PsBqg7H4xs\" rel=\"nofollow\">Discord</a></p><p>Update v1.2 <a href=\"https://docs.google.com/document/d/137XR_kSjgzw8UdzUIUt5JTIJrTFnc9ek1P0-4_57ea0/edit?usp&#61;sharing\" rel=\"nofollow\">Changelog</a></p><p>Important/Additional Notes:</p><p>- Must enable the engine&#39;s Geometry Script Plugin to use!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1274",
+      "name": "NONLINEAR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:34.757Z",
+      "updated": "2019-06-20T12:00:34.757Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "865c59ce-2e6c-438d-9bfa-2cf5a38ca4d2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery01-1920x1080-ce66e51defab791449a85cea84b00e44.png",
+      "md5": "ce66e51defab791449a85cea84b00e44",
+      "size": 1491367,
+      "uploadedDate": "2022-10-26T16:39:53.254Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery02-1920x1080-5e8dbd0915213ef507ce901ad1786363.png",
+      "md5": "5e8dbd0915213ef507ce901ad1786363",
+      "size": 2058806,
+      "uploadedDate": "2022-10-26T16:39:53.778Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery05-1920x1080-fef2e1fc1d06b44c3d2c0f8271103e11.png",
+      "md5": "fef2e1fc1d06b44c3d2c0f8271103e11",
+      "size": 1977376,
+      "uploadedDate": "2022-10-26T16:39:54.295Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery03-1920x1080-771e2ae88c2f3f27d22aeadfcd272242.png",
+      "md5": "771e2ae88c2f3f27d22aeadfcd272242",
+      "size": 299526,
+      "uploadedDate": "2022-10-26T16:39:54.656Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery04-1920x1080-01f029846e4287cb8aa287dfaee7ee8c.png",
+      "md5": "01f029846e4287cb8aa287dfaee7ee8c",
+      "size": 2395281,
+      "uploadedDate": "2022-10-26T16:39:55.093Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery06-1920x1080-8a100b7ac9684ef5254f7f5b7b080932.png",
+      "md5": "8a100b7ac9684ef5254f7f5b7b080932",
+      "size": 147763,
+      "uploadedDate": "2022-10-26T16:39:55.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GalleryUpdate01-1920x1080-547d9ba6aa176d82ccfc49013b48cc4f.png",
+      "md5": "547d9ba6aa176d82ccfc49013b48cc4f",
+      "size": 2031264,
+      "uploadedDate": "2022-11-04T15:57:15.654Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EZBlockoutsEasyLevelBlockoutBuildingKit_thumb-284x284-8efc5dedf0b20eb8589d3a44b07f896c.png",
+      "md5": "8efc5dedf0b20eb8589d3a44b07f896c",
+      "size": 106339,
+      "uploadedDate": "2022-10-26T16:39:55.895Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EZBlockoutsEasyLevelBlockoutBuildingKit_featured-894x488-c448be9c7794da5e532736c90685e639.png",
+      "md5": "c448be9c7794da5e532736c90685e639",
+      "size": 541422,
+      "uploadedDate": "2022-10-26T16:39:56.027Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GalleryUpdate01-1920x1080-547d9ba6aa176d82ccfc49013b48cc4f_Snapshot.png",
+      "md5": "249fb9f034eb90272a42e134c11a1a79",
+      "size": 9222,
+      "uploadedDate": "2022-11-04T15:57:15.948Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery01-1920x1080-ce66e51defab791449a85cea84b00e44_Snapshot.png",
+      "md5": "a4028e4107d9a6f844d738d938a3f21c",
+      "size": 7922,
+      "uploadedDate": "2022-10-26T16:39:53.521Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery02-1920x1080-5e8dbd0915213ef507ce901ad1786363_Snapshot.png",
+      "md5": "4c81e0a8e64a75dc301af54974e8b15a",
+      "size": 9412,
+      "uploadedDate": "2022-10-26T16:39:54.084Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery05-1920x1080-fef2e1fc1d06b44c3d2c0f8271103e11_Snapshot.png",
+      "md5": "2d8108744ddee8716229dbdb2443af20",
+      "size": 6287,
+      "uploadedDate": "2022-10-26T16:39:54.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery03-1920x1080-771e2ae88c2f3f27d22aeadfcd272242_Snapshot.png",
+      "md5": "5d2ccbd4df8a7821995278b3a4cb79ec",
+      "size": 5284,
+      "uploadedDate": "2022-10-26T16:39:54.889Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery04-1920x1080-01f029846e4287cb8aa287dfaee7ee8c_Snapshot.png",
+      "md5": "2174db391960ccfbb9db344808c427ff",
+      "size": 7940,
+      "uploadedDate": "2022-10-26T16:39:55.442Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery06-1920x1080-8a100b7ac9684ef5254f7f5b7b080932_Snapshot.png",
+      "md5": "11881e7aab5ebc71a52f609c2994201e",
+      "size": 5790,
+      "uploadedDate": "2022-10-26T16:39:55.846Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9ff3a8eb446842baa98818d6502e2eec"
+    }
+  ],
+  "catalogNs": null
+}
