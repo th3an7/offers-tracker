@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "d73a88e7df7248b88434b0fdc41db66f",
   "creationDate": "2023-04-23T18:56:43.713Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.331Z",
+  "lastModifiedDate": "2025-03-17T12:52:18.224Z",
   "effectiveDate": "2023-05-06T00:00:00.000Z",
   "viewableDate": "2023-04-24T03:30:00.000Z",
   "developer": null,
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
       "id": "1318",
       "name": "Trivia",
       "namespace": "epic",
@@ -92,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18280,
+      "referenceCount": 18287,
       "comment": null
     },
     {
@@ -104,7 +92,19 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3554,
+      "referenceCount": 3558,
+      "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
       "comment": null
     }
   ],
@@ -116,6 +116,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
