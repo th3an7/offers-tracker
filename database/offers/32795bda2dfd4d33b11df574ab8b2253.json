@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "test-iap",
-  "creationDate": "2024-11-14T02:31:46.394Z",
-  "lastModifiedDate": "2024-11-14T02:31:46.394Z",
+  "creationDate": "2023-12-27T10:30:53.950Z",
+  "lastModifiedDate": "2025-03-19T04:45:58.091Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-11-14T02:31:27.000Z",
   "developer": null,
@@ -45,6 +45,18 @@
       "comment": ""
     },
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 267,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -53,7 +65,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18306,
+      "referenceCount": 18321,
       "comment": null
     },
     {
@@ -83,7 +95,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -146,5 +158,7 @@
       "id": "439d30f381504edb9c973368f48842ca"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "64ece5ee89d84cb99ddd8929fa957a30"
+  }
 }
