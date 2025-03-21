@@ -2,13 +2,13 @@
   "id": "a5d2cbcc6daa4bdda3b872ee529fa7df",
   "namespace": "e551d0f379ad42629494c89540c1c853",
   "title": "AEVITAS",
-  "description": "is a digital world where you hold the key to its creation and ownership",
-  "longDescription": null,
+  "description": "Mine Benny and break free.",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# MISSION PROTOCOL\n<!--text-->\n1. Dive in. Identify high-yield zones.\n2. Extract Benny. Locate and mine deposits.\n3. Complete mission when energy depletes.\n\nMissions reset daily.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "f25cbca27cf3410cb6c6c6ea50ad164e",
   "creationDate": "2023-07-03T12:50:05.018Z",
-  "lastModifiedDate": "2025-01-30T17:13:25.917Z",
+  "lastModifiedDate": "2025-03-21T00:13:54.220Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-08-11T12:30:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1924,
+      "referenceCount": 1930,
       "comment": ""
     },
     {
@@ -72,6 +72,18 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18340,
+      "comment": null
+    },
+    {
       "id": "21739",
       "name": "NFT BLOCKCHAIN",
       "namespace": null,
@@ -82,18 +94,6 @@
       "status": "ACTIVE",
       "referenceCount": 264,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18321,
-      "comment": null
     },
     {
       "id": "1310",
@@ -118,6 +118,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -129,28 +133,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/51e08c7d69944531835e4fb92227ebf2/aevitas-1bknr.png",
-      "md5": "8859b6a5a29d2c6178087dd157fb6b2b",
-      "size": 3872629,
-      "uploadedDate": "2023-08-16T14:07:20.968Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/51e08c7d69944531835e4fb92227ebf2/aevitas-1yq7x.jpg",
+      "md5": "6a85ae85bcd85b6fa646986b5dfd2fa8",
+      "size": 3092079,
+      "uploadedDate": "2025-03-13T03:43:31.134Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/51e08c7d69944531835e4fb92227ebf2/aevitas-d5crk.png",
-      "md5": "3918c92906606095eb0f5a4097fe2509",
-      "size": 1062822,
-      "uploadedDate": "2023-08-16T14:02:19.777Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/51e08c7d69944531835e4fb92227ebf2/aevitas-ipk4b.jpg",
+      "md5": "d4aeafd91ed85c784463397637c1ee1f",
+      "size": 1449168,
+      "uploadedDate": "2025-03-13T03:43:32.919Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/51e08c7d69944531835e4fb92227ebf2/aevitas-d5crk.png",
-      "md5": "3918c92906606095eb0f5a4097fe2509",
-      "size": 1062822,
-      "uploadedDate": "2023-08-16T14:02:19.777Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/51e08c7d69944531835e4fb92227ebf2/aevitas-ipk4b.jpg",
+      "md5": "d4aeafd91ed85c784463397637c1ee1f",
+      "size": 1449168,
+      "uploadedDate": "2025-03-13T03:43:32.919Z",
       "width": 1200,
       "height": 1600
     }

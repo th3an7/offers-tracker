@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "9884ada79e3248e299205d1ae9cfafa7",
   "creationDate": "2024-03-07T11:15:00.469Z",
-  "lastModifiedDate": "2025-03-17T11:41:20.204Z",
+  "lastModifiedDate": "2025-03-20T16:59:33.828Z",
   "effectiveDate": "2025-03-20T17:00:00.000Z",
   "viewableDate": "2025-02-20T14:00:01.000Z",
   "developer": null,
@@ -56,7 +56,19 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2276,
+      "referenceCount": 2274,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4977,
       "comment": ""
     },
     {
@@ -84,18 +96,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18321,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -105,6 +105,18 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18340,
       "comment": null
     }
   ],
@@ -157,6 +169,15 @@
       "uploadedDate": "2025-03-05T12:10:18.811Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://de4e52d3-c01a-458e-8430-f80383db3e35?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa730a8b1b09148619db00c18bc998f09%2Fcataclismo-video-1jusd.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 239105007,
+      "uploadedDate": "2025-03-18T13:03:33.183Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "heroCarouselVideo",
@@ -272,15 +293,6 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 2306093,
       "uploadedDate": "2025-02-13T12:28:27.949Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/a730a8b1b09148619db00c18bc998f09/cataclismo-1ne2b.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2456038,
-      "uploadedDate": "2025-03-10T19:20:26.266Z",
       "width": 1920,
       "height": 1080
     },
