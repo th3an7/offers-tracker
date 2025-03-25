@@ -8,7 +8,7 @@
   "productSlug": "dungeon-fighter-online",
   "urlSlug": "dungeon-fighter-online",
   "creationDate": "2024-04-02T17:37:47.490Z",
-  "lastModifiedDate": "2024-11-11T16:55:47.870Z",
+  "lastModifiedDate": "2025-03-25T00:26:00.109Z",
   "effectiveDate": "2023-07-25T09:00:00.000Z",
   "viewableDate": "2023-07-25T09:00:00.000Z",
   "developer": null,
@@ -83,7 +83,7 @@
       "created": "2022-05-17T18:56:51.047Z",
       "updated": "2023-08-03T18:31:17.357Z",
       "status": "ACTIVE",
-      "referenceCount": 263,
+      "referenceCount": 265,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -107,8 +107,20 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 957,
+      "referenceCount": 959,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18348,
+      "comment": null
     },
     {
       "id": "21147",
@@ -121,18 +133,6 @@
       "status": "ACTIVE",
       "referenceCount": 176,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18346,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -146,7 +146,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.blacklist",
@@ -170,15 +170,6 @@
     }
   ],
   "keyImages": [
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/offer/b567cb36ae39435792fe40d2e913cd92/EGS_DungeonFighterOnline_NEOPLEInc_S1_2560x1440-2c7394fde0cf6d46650d44d2a0f141e3",
-      "md5": "2c7394fde0cf6d46650d44d2a0f141e3",
-      "size": 931709,
-      "uploadedDate": "2023-07-17T13:11:29.318Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/offer/b567cb36ae39435792fe40d2e913cd92/EGS_DungeonFighterOnline_NEOPLEInc_S2_1200x1600-8b98fb53e47766c8fc2997a89e5cbeb5",
@@ -205,6 +196,78 @@
       "uploadedDate": "2023-07-17T13:11:31.765Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://4ce2ed94-8655-4200-b3f6-c9f42ddab45f?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F067946213f62411790508b34838c9881%2Fdungeon-fighter-online-video-19lpp.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 152760352,
+      "uploadedDate": "2025-03-24T06:33:02.615Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/067946213f62411790508b34838c9881/dungeon-fighter-online-1ws43.PNG",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3673816,
+      "uploadedDate": "2025-03-18T07:39:24.935Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/067946213f62411790508b34838c9881/dungeon-fighter-online-1lde3.PNG",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 929136,
+      "uploadedDate": "2025-03-18T07:38:32.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/067946213f62411790508b34838c9881/dungeon-fighter-online-i2d0z.PNG",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3786957,
+      "uploadedDate": "2025-03-18T07:38:53.107Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/067946213f62411790508b34838c9881/dungeon-fighter-online-yifby.PNG",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1412991,
+      "uploadedDate": "2025-03-18T07:38:56.872Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/067946213f62411790508b34838c9881/dungeon-fighter-online-pjlm4.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2600435,
+      "uploadedDate": "2025-03-18T07:39:08.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/067946213f62411790508b34838c9881/dungeon-fighter-online-1kw16.PNG",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3272798,
+      "uploadedDate": "2025-03-18T07:39:57.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn2.unrealengine.com/egs-dungeonfighteronline-neopleinc-g1a-09-1920x1080-984a533ffd48.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-02T17:37:48.240Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -212,5 +275,7 @@
       "id": "0d4ce85e64ce4c91ac96a5f5ed4ac1a1"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "b567cb36ae39435792fe40d2e913cd92"
+  }
 }
