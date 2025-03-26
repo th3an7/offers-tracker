@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "76663e4f073d48639e13d4ab0a0fadc9",
   "creationDate": "2025-02-25T04:00:40.772Z",
-  "lastModifiedDate": "2025-02-25T04:00:40.772Z",
-  "effectiveDate": "2025-02-25T04:00:22.000Z",
-  "viewableDate": "2025-02-25T04:00:22.000Z",
+  "lastModifiedDate": "2025-03-25T15:24:51.492Z",
+  "effectiveDate": "2025-02-25T04:00:00.000Z",
+  "viewableDate": "2025-02-25T04:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-sgnf67rv4q6bb6r2kp7w9bn8brq83f",
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "1386",
+      "name": "Turn-Based",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 188,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18348,
+      "referenceCount": 18381,
       "comment": null
     }
   ],
