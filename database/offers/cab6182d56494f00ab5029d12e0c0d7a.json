@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": "colt-canyon",
   "urlSlug": "colt-canyon",
-  "creationDate": "2024-11-18T08:39:01.586Z",
-  "lastModifiedDate": "2025-02-24T16:01:18.077Z",
+  "creationDate": "2024-04-01T20:44:34.092Z",
+  "lastModifiedDate": "2025-03-26T16:02:08.072Z",
   "effectiveDate": "2021-09-02T15:00:00.000Z",
   "viewableDate": "2021-09-02T15:00:00.000Z",
   "developer": null,
@@ -71,7 +71,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2275,
+      "referenceCount": 2276,
       "comment": ""
     },
     {
@@ -107,8 +107,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18381,
+      "referenceCount": 18397,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2025-03-26T16:00:30.109Z",
+      "status": "ACTIVE",
+      "referenceCount": 3454,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -119,6 +131,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.blacklist",
@@ -133,12 +149,12 @@
       "value": "Retrific"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "colt-canyon"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "colt-canyon"
     }
   ],
   "keyImages": [
