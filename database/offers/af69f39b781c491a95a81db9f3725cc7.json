@@ -1,16 +1,16 @@
 {
   "id": "af69f39b781c491a95a81db9f3725cc7",
   "namespace": "8cd5e5952bb24df7813017d11d3ac03b",
-  "title": "DLC_DELUXE Production",
-  "description": "DLC_DELUXE Production",
-  "longDescription": null,
+  "title": "Atomfall Deluxe Upgrade",
+  "description": "This content requires the base game in order to play. “Story Expansion Pack” – (*not available Day 1), “Basic Supply Bundle” Pack, \" Enhanced Supply Bundle” Pack.",
+  "longDescription": "This content requires the base game in order to play.\n•\t“Story Expansion Pack” – (*not available Day 1):\n•\t“Basic Supply Bundle” Pack\n•\t“Enhanced Supply Bundle” Pack",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "dlc-deluxeproduction",
+  "urlSlug": "atomfall--deluxe-upgrade-pack",
   "creationDate": "2024-07-23T21:29:54.930Z",
-  "lastModifiedDate": "2025-03-14T21:49:27.038Z",
-  "effectiveDate": "2099-07-24T08:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2025-03-27T13:58:36.764Z",
+  "effectiveDate": "2025-03-27T14:00:00.000Z",
+  "viewableDate": "2025-03-27T14:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,12 +25,104 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18404,
+      "comment": null
+    }
+  ],
   "customAttributes": [],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_S2_1200x1600-82ac35b25474cd70deb727512c268c16",
+      "md5": "82ac35b25474cd70deb727512c268c16",
+      "size": 556868,
+      "uploadedDate": "2025-03-20T18:45:22.375Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_S1_2560x1440-d2a080040630c8ffd79c41564dfdf700",
+      "md5": "d2a080040630c8ffd79c41564dfdf700",
+      "size": 972149,
+      "uploadedDate": "2025-03-20T18:45:26.397Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "ProductLogo",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_IC1_200x200-65e64a258f6fbf45289b437f365b3f00",
+      "md5": "65e64a258f6fbf45289b437f365b3f00",
+      "size": 70247,
+      "uploadedDate": "2025-03-20T18:45:59.170Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_S2_1200x1600-82ac35b25474cd70deb727512c268c16",
+      "md5": "82ac35b25474cd70deb727512c268c16",
+      "size": 556868,
+      "uploadedDate": "2025-03-20T18:45:29.571Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_G1A_00_1920x1080-7d895451a23710132527294b3da4b638",
+      "md5": "7d895451a23710132527294b3da4b638",
+      "size": 438853,
+      "uploadedDate": "2025-03-20T18:45:54.654Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_G1A_01_1920x1080-12115949a6b3c428d3d23cb29cf4bdc3",
+      "md5": "12115949a6b3c428d3d23cb29cf4bdc3",
+      "size": 611055,
+      "uploadedDate": "2025-03-20T18:46:02.197Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_G1A_02_1920x1080-b4227aeed6dd323fd946ff64b96ebc39",
+      "md5": "b4227aeed6dd323fd946ff64b96ebc39",
+      "size": 1005076,
+      "uploadedDate": "2025-03-20T18:46:05.369Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/offer/8cd5e5952bb24df7813017d11d3ac03b/EGS_AtomfallDeluxeUpgrade_Rebellion_Expansion_G1A_03_1920x1080-9a47922180fa21edc3dc77f91008d3c6",
+      "md5": "9a47922180fa21edc3dc77f91008d3c6",
+      "size": 735994,
+      "uploadedDate": "2025-03-20T18:46:09.048Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "9c7f452b577e4c90bbeb1157dff21359"

@@ -1,14 +1,14 @@
 {
   "id": "e494e053818b4790b5388836b3937e18",
   "namespace": "d5241c76f178492ea1540fce45616757",
-  "title": "Mystery Game 2",
-  "description": "Mystery Game 2",
+  "title": "Neko Ghost, Jump!",
+  "description": "Neko Ghost, Jump! is a puzzle-platformer where you not only switch between 2D & 3D camera perspectives but also between your physical & ghost forms to solve puzzles, combat enemies, and clear levels faster.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "neko-ghost-jump",
   "urlSlug": "mystery-game-03172",
   "creationDate": "2025-03-18T16:18:49.389Z",
-  "lastModifiedDate": "2025-03-20T15:03:31.642Z",
+  "lastModifiedDate": "2025-03-27T14:33:19.029Z",
   "effectiveDate": "2025-03-27T15:00:00.000Z",
   "viewableDate": "2025-03-20T14:25:00.000Z",
   "developer": null,
@@ -54,24 +54,28 @@
     {
       "key": "com.epicgames.app.freegames.vault.open",
       "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "neko-ghost-jump"
     }
   ],
   "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-b_1920x1080-d6e0c4f1fa0962bbb9b30317081c5b6d",
+      "md5": "d6e0c4f1fa0962bbb9b30317081c5b6d",
+      "size": 1364943,
+      "uploadedDate": "2025-03-18T16:28:30.008Z",
+      "width": 1920,
+      "height": 1080
+    },
     {
       "type": "VaultClosed",
       "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-a1_1920x1080-7644d526b2a7dcdc7ca5787446ce0c0d",
       "md5": "7644d526b2a7dcdc7ca5787446ce0c0d",
       "size": 1537040,
       "uploadedDate": "2025-03-18T16:18:38.504Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Gift_1920x1080_wrap-a1_1920x1080-7644d526b2a7dcdc7ca5787446ce0c0d",
-      "md5": "7644d526b2a7dcdc7ca5787446ce0c0d",
-      "size": 1537040,
-      "uploadedDate": "2025-03-18T16:18:45.271Z",
       "width": 1920,
       "height": 1080
     }
