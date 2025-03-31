@@ -2,13 +2,13 @@
   "id": "ffe0667128e84deea9b809b475cac5fb",
   "namespace": "e77f3dc66a514c68bd525d8f418c1be2",
   "title": "Vectoroids",
-  "description": "Shoot your way through waves of Asteroids and UFOs in this Remake of an Arcade Classic. Play as a Team with up to 4 Players in Co-Op Mode. Battle your Friends in Deathmatch and Last Man Standing on 5 different Battle Maps!",
-  "longDescription": null,
+  "description": "Blast your way through waves of asteroids and UFOs in Classic Mode. Or play as a team with up to 4 Players in Co-Op Mode. Battle your Friends in Deathmatch and Last Man Standing on 5 different Battle Maps!",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# Vectoroids\n<!--text-->\nBlast your way through waves of asteroids and UFOs in Classic Mode. Or play as a team with up to 4 Players in Co-Op Mode. Battle your Friends in Deathmatch and Last Man Standing on 5 different Battle Maps!\n\n**FEATURES**\n\n- Arcade Classic Mode.\n- Team Co-Op Mode (Up to 4 Players).\n- Battle Mode Deathmatch (Up to 4 Players).\n- Battle Mode Last Man Standing (Up to 4 Players).\n- 5 Battle Maps.\n- Robotic Voice Effects.\n- Arcade Highscores.\n- Gamepad Support.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "4cb607f357d2455ab3e31faba433d5c5",
   "creationDate": "2023-05-20T17:58:08.986Z",
-  "lastModifiedDate": "2025-01-13T13:55:15.307Z",
+  "lastModifiedDate": "2025-03-30T16:48:13.581Z",
   "effectiveDate": "2023-06-23T23:00:00.000Z",
   "viewableDate": "2023-06-06T19:00:00.000Z",
   "developer": null,
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
-    {
       "id": "1210",
       "name": "Shooter",
       "namespace": "epic",
@@ -92,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18439,
+      "referenceCount": 18440,
       "comment": null
     },
     {
@@ -130,6 +118,33 @@
       "status": "ACTIVE",
       "referenceCount": 1176,
       "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1490,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -140,6 +155,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
