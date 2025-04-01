@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "a172d9caafb94028ad7f3c2aace43a18",
-  "creationDate": "2024-03-12T00:33:26.265Z",
-  "lastModifiedDate": "2024-03-16T04:59:29.184Z",
+  "creationDate": "2023-12-10T08:26:49.496Z",
+  "lastModifiedDate": "2025-03-31T23:18:28.210Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-03-16T05:00:00.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18440,
+      "referenceCount": 18443,
       "comment": null
     },
     {
@@ -81,6 +81,18 @@
       "updated": "2023-08-22T16:03:44.093Z",
       "status": "ACTIVE",
       "referenceCount": 148,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     },
     {
@@ -107,7 +119,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -145,6 +157,78 @@
       "uploadedDate": "2024-03-01T03:53:44.260Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://7bc685d5-0762-459f-b218-f6da9cf88b8e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7fcf8f0af7a3440cbd6730f92e6741f0%2Fthe-crimson-lyre-video-1v5ul.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 205447162,
+      "uploadedDate": "2025-03-27T04:12:50.763Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://143050b5-0b1a-471b-b333-6ce6c64a7e68?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7fcf8f0af7a3440cbd6730f92e6741f0%2Fthe-crimson-lyre-video-52foc.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 205127738,
+      "uploadedDate": "2024-03-11T16:18:49.143Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fcf8f0af7a3440cbd6730f92e6741f0/the-crimson-lyre-1sh2t.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2566246,
+      "uploadedDate": "2024-01-27T03:31:38.017Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fcf8f0af7a3440cbd6730f92e6741f0/the-crimson-lyre-wfeld.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3151757,
+      "uploadedDate": "2024-01-27T03:31:41.850Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fcf8f0af7a3440cbd6730f92e6741f0/the-crimson-lyre-1ycje.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 968834,
+      "uploadedDate": "2024-01-27T03:31:42.862Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fcf8f0af7a3440cbd6730f92e6741f0/the-crimson-lyre-1mvru.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1924765,
+      "uploadedDate": "2024-01-27T03:31:42.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fcf8f0af7a3440cbd6730f92e6741f0/the-crimson-lyre-10dxy.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1908125,
+      "uploadedDate": "2024-01-27T03:31:41.793Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7fcf8f0af7a3440cbd6730f92e6741f0/the-crimson-lyre-upr63.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2193909,
+      "uploadedDate": "2024-01-27T03:31:40.348Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

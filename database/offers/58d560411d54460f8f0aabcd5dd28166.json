@@ -3,12 +3,12 @@
   "namespace": "be886d9db65047a89b24cd4317695f18",
   "title": "Frostpunk: The Last Autumn",
   "description": "The Last Autumn vastly expands Frostpunk's universe by introducing brand new scenario along with game-changing mechanics and unique architecture, while broadening the game’s lore and narrative.",
-  "longDescription": "\n# THIS EXPANSION IS A PART OF THE OFFICIAL FROSTPUNK SEASON PASS\n\nThe Official **Season Pass for Frostpunk** is out and complete! It grants you access to all additional content released for the game since the premiere, including three expansions (**The Last Autumn, On The Edge and The Rifts**), that widely broaden the main story and fill a lot of gaps in the game’s universe. What’s more, when you’re done with the game itself, you’ll be able to unwind while listening to the **Digital Soundtrack** featuring orchestrated music or learn more about the world with the exclusive **Digital Artbook**.\n\n# The Last Autumn\n\nis a turning point in the Frostpunk universe. Revealing the restless events of Site 113 and its struggle to construct the generator before the freezing veil shrouds the Earth, this prequel expansion broadens the Frostpunk universe by introducing a new environment, new Books of Laws and unique technologies, and presents a range of new buildings — all of which let you shape society and the city in unconventional ways. Leading a group of engineers working on one of the world’s greatest technological marvels - a Generator - will require adapting your strategy to extraordinary situations.\n\n# The Last Autumn features:\n\n- A prequel story set in a new environment not yet covered by snow that allows players to construct the Generator from the ground up to prepare their society for the upcoming winter.\n- A new Endless Mode variant - Builders\n- Two new Books of Laws\n- New threats and issues to deal with such as toxic gases and workers going on strike.\n- Influence society in creative new ways from establishing labor unions to outright manipulation.\n- New technology tree, inventions to discover, and resources to obtain.\n- 25 new buildings to construct.\n- New social classes including Convicts\n",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# THIS EXPANSION IS A PART OF THE OFFICIAL FROSTPUNK SEASON PASS\n<!--text-->\n\nThe Official **Season Pass for Frostpunk** is out and complete! It grants you access to all additional content released for the game since the premiere, including three expansions (**The Last Autumn, On The Edge and The Rifts**), that widely broaden the main story and fill a lot of gaps in the game’s universe. What’s more, when you’re done with the game itself, you’ll be able to unwind while listening to the **Digital Soundtrack** featuring orchestrated music or learn more about the world with the exclusive **Digital Artbook**.\n\n<!--textBlock-->\n<!--title-->\n# The Last Autumn\n<!--text-->\n\nis a turning point in the Frostpunk universe. Revealing the restless events of Site 113 and its struggle to construct the generator before the freezing veil shrouds the Earth, this prequel expansion broadens the Frostpunk universe by introducing a new environment, new Books of Laws and unique technologies, and presents a range of new buildings — all of which let you shape society and the city in unconventional ways. Leading a group of engineers working on one of the world’s greatest technological marvels - a Generator - will require adapting your strategy to extraordinary situations.\n\n<!--textBlock-->\n<!--title-->\n# The Last Autumn features:\n<!--text-->\n\n- A prequel story set in a new environment not yet covered by snow that allows players to construct the Generator from the ground up to prepare their society for the upcoming winter.\n- A new Endless Mode variant - Builders\n- Two new Books of Laws\n- New threats and issues to deal with such as toxic gases and workers going on strike.\n- Influence society in creative new ways from establishing labor unions to outright manipulation.\n- New technology tree, inventions to discover, and resources to obtain.\n- 25 new buildings to construct.\n- New social classes including Convicts\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "frostpunk--the-last-autumn",
-  "creationDate": "2021-05-13T17:20:44.249Z",
-  "lastModifiedDate": "2025-03-26T16:01:12.554Z",
+  "creationDate": "2025-03-28T12:08:37.734Z",
+  "lastModifiedDate": "2025-03-31T11:13:20.944Z",
   "effectiveDate": "2021-06-03T15:00:00.000Z",
   "viewableDate": "2021-06-03T15:00:00.000Z",
   "developer": null,
@@ -72,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18443,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -82,44 +94,40 @@
       "status": "ACTIVE",
       "referenceCount": 1068,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18440,
-      "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2025-03-26T16:00:30.109Z",
-      "status": "ACTIVE",
-      "referenceCount": 3464,
-      "comment": ""
     }
   ],
   "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "11 bit studios   "
+      "value": "11 bit studios"
     },
     {
       "key": "developerName",
-      "value": "11 bit studios   "
+      "value": "11 bit studios"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
@@ -146,79 +154,52 @@
       "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_S2_1200x1600-506f61afa4c86e06735f44eede65db99",
       "md5": "506f61afa4c86e06735f44eede65db99",
       "size": 482158,
-      "uploadedDate": "2021-05-27T23:19:00.604Z",
+      "uploadedDate": "2021-05-27T23:18:55.803Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_S2_1200x1600-506f61afa4c86e06735f44eede65db99",
-      "md5": "506f61afa4c86e06735f44eede65db99",
-      "size": 482158,
-      "uploadedDate": "2021-05-27T23:19:04.557Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_S1_2560x1440-b5363b5081372b0fb2804137915a8858",
-      "md5": "b5363b5081372b0fb2804137915a8858",
-      "size": 764467,
-      "uploadedDate": "2021-05-27T23:19:09.232Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_S2_1200x1600-506f61afa4c86e06735f44eede65db99",
-      "md5": "506f61afa4c86e06735f44eede65db99",
-      "size": 482158,
-      "uploadedDate": "2021-05-27T23:19:13.476Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_IC1_200x200-c9461acd6a23d362029664e04fca93b3",
-      "md5": "c9461acd6a23d362029664e04fca93b3",
-      "size": 30138,
-      "uploadedDate": "2021-05-27T23:19:23.670Z",
-      "width": 200,
-      "height": 200
-    },
-    {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_G1A_01_1920x1080-d912b7fe00f89c2efa910ec5673c7866",
-      "md5": "d912b7fe00f89c2efa910ec5673c7866",
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ea7183aaa8c481190d86e22c08ca767/frostpunk-1vb9y.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 1008973,
-      "uploadedDate": "2021-05-27T23:19:46.832Z",
+      "uploadedDate": "2025-03-28T11:49:55.663Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_G1A_02_1920x1080-7e68bd207024dd680e9fdb071f0ebbc1",
-      "md5": "7e68bd207024dd680e9fdb071f0ebbc1",
-      "size": 414402,
-      "uploadedDate": "2021-05-27T23:19:50.990Z",
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ea7183aaa8c481190d86e22c08ca767/frostpunk-1yye6.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 418423,
+      "uploadedDate": "2025-03-28T11:49:58.804Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_G1A_03_1920x1080-c8de6469c6d1ce335093b8d62fe4a4ed",
-      "md5": "c8de6469c6d1ce335093b8d62fe4a4ed",
-      "size": 954195,
-      "uploadedDate": "2021-05-27T23:19:55.594Z",
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ea7183aaa8c481190d86e22c08ca767/frostpunk-1fulm.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 842537,
+      "uploadedDate": "2025-03-28T11:50:02.763Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "GalleryImage",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FrostpunkTheLastAutumn_11bitstudios_DLC_G1A_04_1920x1080-c4c7a5cc87ab11b21c75a2dbf805714d",
-      "md5": "c4c7a5cc87ab11b21c75a2dbf805714d",
-      "size": 953983,
-      "uploadedDate": "2021-05-27T23:20:00.079Z",
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ea7183aaa8c481190d86e22c08ca767/frostpunk-aai3e.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 519897,
+      "uploadedDate": "2025-03-28T11:50:05.607Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2ea7183aaa8c481190d86e22c08ca767/frostpunk-1n5u0.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 799479,
+      "uploadedDate": "2025-03-28T11:50:09.606Z",
       "width": 1920,
       "height": 1080
     }

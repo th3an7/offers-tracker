@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "showgunners-weapon-reskin-raging-inferno",
-  "creationDate": "2023-05-15T15:58:34.064Z",
-  "lastModifiedDate": "2025-03-26T16:02:21.112Z",
+  "creationDate": "2023-05-08T07:21:05.927Z",
+  "lastModifiedDate": "2025-03-31T21:02:21.944Z",
   "effectiveDate": "2023-05-09T16:00:00.000Z",
   "viewableDate": "2023-05-09T16:00:00.000Z",
   "developer": null,
@@ -41,7 +41,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2278,
+      "referenceCount": 2280,
       "comment": ""
     },
     {
@@ -53,7 +53,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5005,
+      "referenceCount": 5006,
       "comment": ""
     },
     {
@@ -69,6 +69,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18443,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -79,30 +91,6 @@
       "status": "ACTIVE",
       "referenceCount": 1068,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18440,
-      "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2025-03-26T16:00:30.109Z",
-      "status": "ACTIVE",
-      "referenceCount": 3464,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -116,6 +104,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "false"
     },
     {

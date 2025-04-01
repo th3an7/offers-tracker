@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "showgunners-scarlett-costume-goth-gf",
-  "creationDate": "2023-05-15T15:58:34.063Z",
-  "lastModifiedDate": "2025-03-26T16:02:43.724Z",
+  "creationDate": "2023-05-08T07:23:05.463Z",
+  "lastModifiedDate": "2025-03-31T21:02:21.942Z",
   "effectiveDate": "2023-05-09T16:00:00.000Z",
   "viewableDate": "2023-05-09T16:00:00.000Z",
   "developer": null,
@@ -41,7 +41,19 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2278,
+      "referenceCount": 2280,
+      "comment": ""
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 284,
       "comment": ""
     },
     {
@@ -53,7 +65,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5005,
+      "referenceCount": 5006,
       "comment": ""
     },
     {
@@ -69,6 +81,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18443,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -79,30 +103,6 @@
       "status": "ACTIVE",
       "referenceCount": 1068,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18440,
-      "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2025-03-26T16:00:30.109Z",
-      "status": "ACTIVE",
-      "referenceCount": 3464,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -117,6 +117,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -170,5 +174,7 @@
       "id": "5ac2eae5a59c4438b7788b57ea0a98c5"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "e804a0aa57fa40738d486f70dd6d7079"
+  }
 }

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "b4535ab0811f46ceb2bdd787a2511748",
   "creationDate": "2022-12-06T20:42:04.952Z",
-  "lastModifiedDate": "2025-03-26T16:02:37.518Z",
+  "lastModifiedDate": "2025-03-31T12:41:10.690Z",
   "effectiveDate": "2023-04-12T13:00:00.000Z",
   "viewableDate": "2022-12-14T07:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5005,
+      "referenceCount": 5006,
       "comment": ""
     },
     {
@@ -80,20 +80,8 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18440,
+      "referenceCount": 18443,
       "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2025-03-26T16:00:30.109Z",
-      "status": "ACTIVE",
-      "referenceCount": 3464,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -103,6 +91,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "false"
     },
     {
@@ -148,5 +140,7 @@
       "id": "bd9e7427616949c9ace48ff358f09286"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "8f412f068bf3470699726398816663a1"
+  }
 }
