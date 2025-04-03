@@ -5,10 +5,10 @@
   "description": "Mundaun is a lovingly hand-penciled horror tale set in a dark, secluded valley of the alps. Explore various areas full of secrets to discover, survive hostile encounters, drive vehicles, fill your inventory and solve a variety of hand-crafted puzzles.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "mundaun",
-  "urlSlug": "mundaungeneralaudience",
+  "productSlug": null,
+  "urlSlug": "mundaun",
   "creationDate": "2021-02-24T22:44:57.505Z",
-  "lastModifiedDate": "2025-03-26T16:01:07.882Z",
+  "lastModifiedDate": "2025-04-02T21:19:21.591Z",
   "effectiveDate": "2021-03-16T13:00:00.000Z",
   "viewableDate": "2021-03-02T14:00:00.000Z",
   "developer": null,
@@ -71,7 +71,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18490,
+      "referenceCount": 18503,
       "comment": null
     },
     {
@@ -107,38 +107,12 @@
       "created": "2021-03-10T09:37:21.403Z",
       "updated": "2025-03-26T16:00:30.109Z",
       "status": "ACTIVE",
-      "referenceCount": 3418,
+      "referenceCount": 3395,
       "comment": ""
     }
   ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
-      "key": "publisherName",
-      "value": "Annapurna Interactive"
-    },
-    {
-      "key": "developerName",
-      "value": "Hidden Fields"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "mundaun"
-    }
-  ],
+  "customAttributes": [],
   "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S1-2560x1440-7b6555d4ab16483beda9d9efe347998f.jpg",
-      "md5": "7b6555d4ab16483beda9d9efe347998f",
-      "size": 1004258,
-      "uploadedDate": "2021-02-25T21:20:43.778Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
@@ -149,38 +123,20 @@
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S1-2560x1440-7b6555d4ab16483beda9d9efe347998f.jpg",
+      "md5": "7b6555d4ab16483beda9d9efe347998f",
+      "size": 1004258,
+      "uploadedDate": "2021-02-25T21:20:43.778Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
       "md5": "0e209f071069b203df62c2f80a3f624f",
       "size": 966692,
       "uploadedDate": "2021-02-25T21:21:15.487Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
-      "md5": "0e209f071069b203df62c2f80a3f624f",
-      "size": 966692,
-      "uploadedDate": "2021-02-25T21:21:24.385Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S1-2560x1440-7b6555d4ab16483beda9d9efe347998f.jpg",
-      "md5": "7b6555d4ab16483beda9d9efe347998f",
-      "size": 1004258,
-      "uploadedDate": "2021-02-25T21:21:38.242Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/8f08ba8f76c940f89fa9d84658535a02/offer/EGS_Mundaun_HiddenFields_S2-1200x1600-0e209f071069b203df62c2f80a3f624f.jpg",
-      "md5": "0e209f071069b203df62c2f80a3f624f",
-      "size": 966692,
-      "uploadedDate": "2021-02-25T21:21:49.626Z",
       "width": 1200,
       "height": 1600
     }

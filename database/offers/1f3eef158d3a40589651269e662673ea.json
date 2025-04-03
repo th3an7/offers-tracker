@@ -8,7 +8,7 @@
   "productSlug": "arcadegeddon",
   "urlSlug": "arcadegeddon",
   "creationDate": "2024-03-30T17:39:13.045Z",
-  "lastModifiedDate": "2025-04-01T16:57:48.513Z",
+  "lastModifiedDate": "2025-04-02T23:35:40.031Z",
   "effectiveDate": "2021-07-08T21:30:00.000Z",
   "viewableDate": "2021-07-08T21:30:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1948,
+      "referenceCount": 1956,
       "comment": ""
     },
     {
@@ -56,7 +56,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 495,
+      "referenceCount": 497,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2280,
+      "referenceCount": 2285,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5016,
+      "referenceCount": 5029,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18490,
+      "referenceCount": 18503,
       "comment": null
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3648,
+      "referenceCount": 3652,
       "comment": null
     },
     {
@@ -128,7 +128,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 639,
+      "referenceCount": 640,
       "comment": ""
     },
     {
@@ -140,7 +140,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 590,
+      "referenceCount": 592,
       "comment": ""
     },
     {
@@ -152,7 +152,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 578,
+      "referenceCount": 579,
       "comment": ""
     },
     {
@@ -176,7 +176,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 966,
+      "referenceCount": 968,
       "comment": ""
     },
     {
@@ -224,7 +224,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 467,
+      "referenceCount": 466,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -238,31 +238,62 @@
       "value": "true"
     },
     {
-      "key": "isPromotionalContentUsed",
-      "value": "false"
-    },
-    {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "publisherName",
       "value": "IllFonic Publishing"
     },
     {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "true"
+    },
+    {
       "key": "developerName",
       "value": "IllFonic"
     },
     {
-      "key": "isBlockchainUsed",
-      "value": "false"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "arcadegeddon"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
     }
   ],
   "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-75cz0.jpg",
+      "md5": "7b46dcd8c056ba8340b126b0423e4a2f",
+      "size": 995152,
+      "uploadedDate": "2025-04-02T23:25:11.757Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-1s6r4.jpg",
+      "md5": "eb8ee0f2ccf8ac8540c0034831562975",
+      "size": 680027,
+      "uploadedDate": "2025-04-01T17:29:43.719Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-1s6r4.jpg",
+      "md5": "eb8ee0f2ccf8ac8540c0034831562975",
+      "size": 680027,
+      "uploadedDate": "2025-04-01T17:29:43.719Z",
+      "width": 1200,
+      "height": 1600
+    },
     {
       "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/offer/043ffc92cbd64a9fbc350ea68f415937/EGS_Arcadegeddon_IllFonic_S1_2560x1440-d4cce03abb7e2b712c510595888da78e",
@@ -271,33 +302,6 @@
       "uploadedDate": "2023-07-19T13:12:33.793Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/043ffc92cbd64a9fbc350ea68f415937/EGS_Arcadegeddon_IllFonic_S2_1200x1600-e95c6e74e0ba9b9c609778bbee71ca14",
-      "md5": "e95c6e74e0ba9b9c609778bbee71ca14",
-      "size": 831527,
-      "uploadedDate": "2023-07-19T13:12:29.398Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/043ffc92cbd64a9fbc350ea68f415937/EGS_Arcadegeddon_IllFonic_S1_2560x1440-d4cce03abb7e2b712c510595888da78e",
-      "md5": "d4cce03abb7e2b712c510595888da78e",
-      "size": 747615,
-      "uploadedDate": "2023-07-19T13:12:33.793Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/043ffc92cbd64a9fbc350ea68f415937/EGS_Arcadegeddon_IllFonic_S2_1200x1600-e95c6e74e0ba9b9c609778bbee71ca14",
-      "md5": "e95c6e74e0ba9b9c609778bbee71ca14",
-      "size": 831527,
-      "uploadedDate": "2023-07-19T13:12:36.764Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [
