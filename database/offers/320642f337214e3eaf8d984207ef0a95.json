@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "701826d4848544bdab4a1797e33622fe",
   "creationDate": "2024-03-11T11:09:39.755Z",
-  "lastModifiedDate": "2025-04-01T13:09:25.116Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-04-03T17:22:20.023Z",
+  "effectiveDate": "2025-04-10T15:00:00.000Z",
   "viewableDate": "2024-04-29T17:36:10.000Z",
   "developer": null,
   "seller": {
@@ -56,7 +56,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5029,
+      "referenceCount": 5030,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18503,
+      "referenceCount": 18517,
       "comment": null
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3652,
+      "referenceCount": 3655,
       "comment": null
     }
   ],
@@ -140,6 +140,10 @@
     {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
+    },
+    {
+      "key": "extraLaunchOption_001_Name",
+      "value": "DirectX 11"
     },
     {
       "key": "isBlockchainUsed",
@@ -180,6 +184,15 @@
       "md5": "comepicgamesvideomd5hashconstant",
       "size": 65782318,
       "uploadedDate": "2024-09-23T12:23:28.998Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://07466b58-ce1f-4eba-ac85-ca8d7c3460e1?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fbb3fd13dbad4463a9021124b7811c54c%2Fpromise-mascot-agency-video-a2x1l.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 210660661,
+      "uploadedDate": "2025-03-01T13:09:12.530Z",
       "width": 1920,
       "height": 1080
     },
