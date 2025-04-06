@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "fdfe27d8af494f9b82d76817bb5ca48e",
   "creationDate": "2023-06-21T12:59:48.364Z",
-  "lastModifiedDate": "2025-04-04T10:37:35.153Z",
+  "lastModifiedDate": "2025-04-05T15:31:39.718Z",
   "effectiveDate": "2023-12-28T16:00:00.000Z",
   "viewableDate": "2023-12-28T16:00:00.000Z",
   "developer": null,
@@ -36,18 +36,6 @@
   ],
   "tags": [
     {
-      "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 423,
-      "comment": null
-    },
-    {
       "id": "1188",
       "name": "RELAXING",
       "namespace": "epic",
@@ -60,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-08-22T14:02:04.254Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
-    {
       "id": "21894",
       "name": "Cloud Saves",
       "namespace": null,
@@ -80,7 +56,79 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2287,
+      "referenceCount": 2288,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 5050,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18526,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3658,
+      "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2025-03-26T16:00:30.109Z",
+      "status": "ACTIVE",
+      "referenceCount": 3389,
+      "comment": ""
+    },
+    {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2023-08-23T04:55:54.798Z",
+      "status": "ACTIVE",
+      "referenceCount": 423,
+      "comment": null
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-08-22T14:02:04.254Z",
+      "status": "ACTIVE",
+      "referenceCount": 588,
       "comment": ""
     },
     {
@@ -94,18 +142,6 @@
       "status": "ACTIVE",
       "referenceCount": 1144,
       "comment": null
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 5048,
-      "comment": ""
     },
     {
       "id": "1336",
@@ -132,18 +168,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18522,
-      "comment": null
-    },
-    {
       "id": "21147",
       "name": "Inclusive Character Customization",
       "namespace": null,
@@ -156,28 +180,16 @@
       "comment": ""
     },
     {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 3656,
-      "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
+      "id": "21119",
+      "name": "Great for Beginners",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2025-03-26T16:00:30.109Z",
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 3389,
-      "comment": ""
+      "referenceCount": 472,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [

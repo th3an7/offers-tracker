@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "16d83385cd05467394786d35c2ba5dc1",
   "creationDate": "2023-04-12T08:30:42.585Z",
-  "lastModifiedDate": "2024-08-13T15:56:09.917Z",
+  "lastModifiedDate": "2025-04-05T19:05:40.248Z",
   "effectiveDate": "2024-07-31T18:00:00.000Z",
   "viewableDate": "2023-06-28T09:00:00.000Z",
   "developer": null,
@@ -80,7 +80,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1957,
+      "referenceCount": 1959,
       "comment": ""
     },
     {
@@ -116,8 +116,20 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 969,
+      "referenceCount": 970,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18526,
+      "comment": null
     },
     {
       "id": "21739",
@@ -130,18 +142,6 @@
       "status": "ACTIVE",
       "referenceCount": 262,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18522,
-      "comment": null
     },
     {
       "id": "1310",
@@ -167,7 +167,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1503,
+      "referenceCount": 1504,
       "comment": null
     }
   ],
@@ -179,6 +179,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
