@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a4f80688124c4f338335b006dfbb6f9d",
   "creationDate": "2023-03-10T10:07:02.028Z",
-  "lastModifiedDate": "2023-09-05T15:00:45.170Z",
+  "lastModifiedDate": "2025-04-06T14:36:19.418Z",
   "effectiveDate": "2023-05-11T05:00:00.000Z",
   "viewableDate": "2023-05-04T20:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5050,
+      "referenceCount": 5051,
       "comment": ""
     },
     {
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18533,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -72,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18526,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3658,
+      "referenceCount": 3659,
       "comment": null
     },
     {
@@ -128,6 +128,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
