@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "adfd569c009d4151b753041d748e8dd5",
   "creationDate": "2023-07-21T02:51:25.699Z",
-  "lastModifiedDate": "2023-11-20T02:54:52.123Z",
+  "lastModifiedDate": "2025-04-07T02:36:30.945Z",
   "effectiveDate": "2023-11-20T16:00:00.000Z",
   "viewableDate": "2023-11-15T01:00:00.000Z",
   "developer": null,
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-23T02:20:12.228Z",
-      "status": "ACTIVE",
-      "referenceCount": 2288,
-      "comment": ""
-    },
-    {
       "id": "1080",
       "name": "Survival",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18541,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -93,18 +93,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18533,
       "comment": null
     }
   ],
@@ -116,6 +104,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
