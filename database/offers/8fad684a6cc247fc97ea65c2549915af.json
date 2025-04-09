@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "jawbreaker-demo",
   "creationDate": "2023-03-22T03:26:34.845Z",
-  "lastModifiedDate": "2025-04-05T09:35:24.554Z",
+  "lastModifiedDate": "2025-04-08T22:39:31.868Z",
   "effectiveDate": "2023-04-11T04:00:00.000Z",
   "viewableDate": "2023-03-22T03:30:00.000Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "spthidden"
     },
     {
-      "path": "games/demo"
+      "path": "spthidden/notvisible/demo"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -65,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5054,
+      "referenceCount": 5055,
       "comment": ""
     },
     {
@@ -89,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18541,
+      "referenceCount": 18620,
       "comment": null
     },
     {
@@ -112,6 +115,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "false"
     },
     {

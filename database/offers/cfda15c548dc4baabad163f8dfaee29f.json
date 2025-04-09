@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "dbb814a44e70407dacb316522d9e2b3f",
   "creationDate": "2023-03-14T05:33:18.219Z",
-  "lastModifiedDate": "2025-04-05T09:35:24.554Z",
+  "lastModifiedDate": "2025-04-08T22:39:31.869Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-03-14T07:00:00.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5054,
+      "referenceCount": 5055,
       "comment": ""
     },
     {
@@ -81,6 +81,18 @@
       "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
       "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18620,
       "comment": null
     },
     {
@@ -106,8 +118,12 @@
       "value": "false"
     },
     {
-      "key": "isManuallySetPCReleaseDate",
+      "key": "isPromotionalContentUsed",
       "value": "false"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -117,30 +133,129 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1qyog.jpg",
-      "md5": "84bcbdd763c4089ba98851fefa5f8101",
-      "size": 1071083,
-      "uploadedDate": "2023-03-14T08:18:56.891Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-ogfuq.jpg",
+      "md5": "8a9fe73e21eb5ecabf45a2243c384e44",
+      "size": 2249399,
+      "uploadedDate": "2025-04-07T08:52:50.761Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1bu0z.png",
-      "md5": "c591107ff60c1bf3cb36487effa96139",
-      "size": 1656548,
-      "uploadedDate": "2023-03-14T08:17:11.495Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-e903p.png",
+      "md5": "206ffb0591e33741a45d96f396f103d4",
+      "size": 902548,
+      "uploadedDate": "2025-04-07T08:52:17.938Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1bu0z.png",
-      "md5": "c591107ff60c1bf3cb36487effa96139",
-      "size": 1656548,
-      "uploadedDate": "2023-03-14T08:17:11.495Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-e903p.png",
+      "md5": "206ffb0591e33741a45d96f396f103d4",
+      "size": 902548,
+      "uploadedDate": "2025-04-07T08:52:17.938Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1hyro.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 929369,
+      "uploadedDate": "2023-08-24T10:34:41.436Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-4xd1k.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1039847,
+      "uploadedDate": "2024-04-23T02:47:00.197Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-2wno8.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 950908,
+      "uploadedDate": "2024-04-23T02:47:01.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1rjqa.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 440926,
+      "uploadedDate": "2023-08-24T10:35:04.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-s3fct.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 484446,
+      "uploadedDate": "2023-08-24T10:36:58.155Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1yson.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 591302,
+      "uploadedDate": "2023-08-24T10:37:08.806Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-hxmri.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 861631,
+      "uploadedDate": "2023-08-24T10:34:36.287Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-10kem.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 526004,
+      "uploadedDate": "2023-08-24T10:35:55.043Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-1ns93.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 907356,
+      "uploadedDate": "2023-08-24T10:35:35.906Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/352aaac3dd1c4c01a1a0ffea9818eda0/jawbreaker-rly1q.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 661831,
+      "uploadedDate": "2023-08-24T10:36:24.208Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://5c832c9f-2947-4c51-b351-0373638da748?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F352aaac3dd1c4c01a1a0ffea9818eda0%2Fjawbreaker-video-hwmff.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 129558207,
+      "uploadedDate": "2025-04-08T00:46:36.153Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
