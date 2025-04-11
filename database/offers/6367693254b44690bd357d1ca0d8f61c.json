@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "slime-rancher--secret-style-pack",
   "creationDate": "2019-05-21T18:16:21.794Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.053Z",
+  "lastModifiedDate": "2025-04-10T16:44:14.055Z",
   "effectiveDate": "2019-05-03T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "addons"
     },
     {
-      "path": "games"
+      "path": "addons/durable"
     },
     {
-      "path": "addons/durable"
+      "path": "games"
     },
     {
       "path": "applications"
@@ -71,7 +71,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18644,
+      "referenceCount": 18647,
       "comment": null
     },
     {
@@ -99,6 +99,15 @@
   ],
   "keyImages": [
     {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/offer/corydalis/SecretStylePack-SR_1200x1600_1200x1600-348a0fb9243effa41aed91f32038482f",
+      "md5": "348a0fb9243effa41aed91f32038482f",
+      "size": 1703741,
+      "uploadedDate": "2025-04-10T16:44:03.841Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "ESRB",
       "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
       "md5": "fce4fa7233ed80170a8e36079d1e1bde",
@@ -108,22 +117,13 @@
       "height": 404
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/corydalis/offer/SecretStylePack_CodeRedemption-340x440-7de3bfa7ab2205f6165a97b81b428f9e.png",
-      "md5": "7de3bfa7ab2205f6165a97b81b428f9e",
-      "size": 213612,
-      "uploadedDate": "2019-06-17T14:29:08.686Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/corydalis/offer/SecretStylePack_CodeRedemption-340x440-7de3bfa7ab2205f6165a97b81b428f9e.png",
-      "md5": "7de3bfa7ab2205f6165a97b81b428f9e",
-      "size": 213612,
-      "uploadedDate": "2019-06-17T14:29:17.960Z",
-      "width": 340,
-      "height": 440
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/offer/corydalis/SecretStylePack-SR_1200x1600_1200x1600-348a0fb9243effa41aed91f32038482f",
+      "md5": "348a0fb9243effa41aed91f32038482f",
+      "size": 1703741,
+      "uploadedDate": "2025-04-10T16:44:09.241Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
@@ -135,13 +135,13 @@
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/corydalis/offer/SecretStyleDLC-Keyart_Wishlist-Portrait-860x1148-e0f50d46a461c362f103abfc45a30ee5.jpg",
-      "md5": "e0f50d46a461c362f103abfc45a30ee5",
-      "size": 175509,
-      "uploadedDate": "2020-04-09T13:21:43.839Z",
-      "width": 860,
-      "height": 1148
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/offer/corydalis/SecretStylePack-SR_1200x1600_1200x1600-348a0fb9243effa41aed91f32038482f",
+      "md5": "348a0fb9243effa41aed91f32038482f",
+      "size": 1703741,
+      "uploadedDate": "2025-04-10T16:43:59.576Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

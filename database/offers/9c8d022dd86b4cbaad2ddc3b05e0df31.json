@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "vampire-survivors-ode-to-castlevania",
-  "creationDate": "2024-12-19T15:04:15.017Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.085Z",
+  "creationDate": "2024-11-04T11:02:19.518Z",
+  "lastModifiedDate": "2025-04-10T16:42:28.623Z",
   "effectiveDate": "2024-12-19T16:00:00.000Z",
   "viewableDate": "2024-12-19T15:04:12.000Z",
   "developer": null,
@@ -53,7 +53,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2288,
+      "referenceCount": 2290,
       "comment": ""
     },
     {
@@ -65,7 +65,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5061,
+      "referenceCount": 5063,
       "comment": ""
     },
     {
@@ -81,6 +81,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18647,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -93,18 +105,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18644,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -113,19 +113,22 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3671,
+      "referenceCount": 3672,
       "comment": null
     },
     {
-      "id": "1183",
-      "name": "Local Multiplayer",
+      "id": "10719",
+      "name": "Mac OS",
       "namespace": "epic",
-      "aliases": [],
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
       "operator": null,
-      "created": "2019-06-20T11:59:49.408Z",
-      "updated": "2024-03-28T21:48:38.999Z",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 168,
+      "referenceCount": 1531,
       "comment": null
     },
     {
@@ -141,18 +144,15 @@
       "comment": null
     },
     {
-      "id": "10719",
-      "name": "Mac OS",
+      "id": "1183",
+      "name": "Local Multiplayer",
       "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
+      "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
       "status": "ACTIVE",
-      "referenceCount": 1529,
+      "referenceCount": 168,
       "comment": null
     }
   ],
@@ -171,7 +171,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

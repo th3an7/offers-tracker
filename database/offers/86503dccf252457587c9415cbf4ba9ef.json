@@ -3,12 +3,12 @@
   "namespace": "3db17abfd650423f993291624b1b2ac1",
   "title": "Elite Dangerous: Deluxe Edition",
   "description": "Elite Dangerous: Deluxe Edition contains everything you need to begin blazing your own trail in the vast Milky Way, both on-foot and by starship. This edition contains Elite Dangerous and the Elite Dangerous: Odyssey expansion.",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--text-->\nElite Dangerous: Deluxe Edition contains everything you need to begin blazing your own trail in the vast Milky Way, both on-foot and by starship. This edition contains Elite Dangerous and the Elite Dangerous: Odyssey expansion.\n\nElite Dangerous is the definitive massively multiplayer space epic, bringing gaming’s original open world adventure to the modern generation with a connected galaxy, evolving narrative and the entirety of the Milky Way recreated at its full galactic proportions. And, for the first time, in Elite Dangerous: Odyssey you’ll experience what it’s like to disembark your ship, taking on new missions and exploring settlements and planets on foot.\n\nStarting with only a small starship and a few credits, players do whatever it takes to earn the skill, knowledge, wealth and power to survive in a futuristic cutthroat galaxy and to stand among the ranks of the iconic Elite. In an age of galactic superpowers and interstellar war, every player’s story influences the unique connected gaming experience and handcrafted evolving narrative. Governments fall, battles are lost and won, and humanity’s frontier is reshaped, all by players’ actions.\n\n<!--textBlock-->\n<!--title-->\n# Includes Elite Dangerous: Odyssey\n<!--text-->\n\nDisembark, Commander, and leave your mark on the galaxy in Elite Dangerous: Odyssey. Explore distant worlds on foot and expand the frontier of known space. Be the first to step out onto countless unique planets as you discover land untouched since time began. Elite Dangerous: Odyssey invites you to become a true pioneer.\n\n<!--textBlock-->\n<!--title-->\n# A Galaxy Of Wonders\n<!--text-->\n\nThe 400 billion star systems of the Milky Way are the stage for Elite Dangerous' open-ended gameplay. The real stars, planets, moons, asteroid fields and black holes of our own galaxy are built to their true epic proportions in the largest designed playspace in videogame history.\n\n<!--textBlock-->\n<!--title-->\n# A Unique Connected Game Experience\n<!--text-->\n\nGovernments fall, battles are lost and won, and humanity’s frontier is reshaped, all by players’ actions. In an age of galactic superpowers and interstellar war, every player’s personal story influences the connected galaxy and handcrafted, evolving narrative.\n\n<!--textBlock-->\n<!--title-->\n# Blaze Your Own Trail\n<!--text-->\n\nUpgrade your ship and customize every component as you hunt, explore, fight, mine, smuggle, trade and survive in the cutthroat galaxy of the year 3301. Do whatever it takes to earn the skill, knowledge, wealth and power to stand among the ranks of the Elite.\n\n<!--textBlock-->\n<!--title-->\n# Massively Multiplayer\n<!--text-->\n\nExperience unpredictable encounters with players from around the world in Elite Dangerous’ vast, massively multiplayer space. Experience the connected galaxy alone in Solo mode or with players across the world in Open Play, where every pilot you face could become a trusted ally or your deadliest enemy. You will need to register a free Elite Dangerous account with Frontier to play the game.\n\n<!--textBlock-->\n<!--title-->\n# Forge Your Own Path\n<!--text-->\n\nTake on a wide variety of contracts and play your way, from diplomacy and commerce to lethal stealth and all-out combat. Diverse settings, objectives, and NPCs offer endless mission variety and a near infinite amount of content to enjoy.\n\n<!--textBlock-->\n<!--title-->\n# The Sphere of Combat\n<!--text-->\n\nExperience intense first-person combat, kit out your character with an array of weapons and gear, and coordinate with teammates to master a multi-layered, deep, tactical environment where Commanders, SRVs and Starships converge.\n",
   "status": "ACTIVE",
   "productSlug": "elite-dangerous/deluxe-edition",
   "urlSlug": "callistodxedition",
   "creationDate": "2024-02-21T14:39:34.572Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.029Z",
+  "lastModifiedDate": "2025-04-10T08:26:29.746Z",
   "effectiveDate": "2024-02-28T17:00:00.000Z",
   "viewableDate": "2024-02-28T17:00:00.000Z",
   "developer": null,
@@ -48,15 +48,27 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1987,
+      "comment": ""
+    },
+    {
+      "id": "1121",
+      "name": "Space",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
+      "created": "2019-06-20T11:59:18.640Z",
+      "updated": "2023-08-22T13:37:48.750Z",
       "status": "ACTIVE",
-      "referenceCount": 1846,
+      "referenceCount": 67,
       "comment": null
     },
     {
@@ -92,11 +104,35 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18644,
+      "referenceCount": 18647,
       "comment": null
     }
   ],
   "customAttributes": [
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frontier Developments"
+    },
+    {
+      "key": "developerName",
+      "value": "Frontier Developments"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    },
     {
       "key": "com.epicgames.app.productSlug",
       "value": "elite-dangerous/deluxe-edition"
@@ -105,30 +141,201 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/offer/3db17abfd650423f993291624b1b2ac1/EGS_EliteDangerousDeluxeEdition_FrontierDevelopments_Bundles_S2_1200x1600-512eae9d6b0a45325ec5a11010d3e596",
-      "md5": "512eae9d6b0a45325ec5a11010d3e596",
-      "size": 617484,
-      "uploadedDate": "2024-02-21T15:19:38.942Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/offer/3db17abfd650423f993291624b1b2ac1/EGS_EliteDangerousDeluxeEdition_FrontierDevelopments_Bundles_S2_1200x1600-512eae9d6b0a45325ec5a11010d3e596",
-      "md5": "512eae9d6b0a45325ec5a11010d3e596",
-      "size": 617484,
-      "uploadedDate": "2024-02-21T15:19:45.903Z",
+      "url": "https://cdn2.unrealengine.com/egs-elitedangerousdeluxeedition-frontierdevelopments-bundles-s2-1200x1600-de444b763851.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-05T14:41:57.008Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/offer/3db17abfd650423f993291624b1b2ac1/EGS_EliteDangerousDeluxeEdition_FrontierDevelopments_Bundles_S1_2560x1440-32ad633f2ed0b9364d994e8ba9fcb6b3",
-      "md5": "32ad633f2ed0b9364d994e8ba9fcb6b3",
-      "size": 565007,
-      "uploadedDate": "2024-02-21T15:19:50.559Z",
+      "url": "https://cdn2.unrealengine.com/egs-elitedangerousdeluxeedition-frontierdevelopments-bundles-s1-2560x1440-dc024bae5a4e.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-05T14:41:57.008Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn2.unrealengine.com/egs-elitedangerousdeluxeedition-frontierdevelopments-bundles-s2-1200x1600-de444b763851.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-05T14:41:57.008Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://0ff69cb0-35ab-4eac-b628-b6a9ae19d160?cover=https%3A%2F%2Fcdn2.unrealengine.com%2Fegs-elitedangerousdeluxeedition-frontierdevelopments-bundles-g1c-00-1920x1080-eb5e62583732.jpg",
+      "md5": "7810e895485e11f704d4fee66e07af9c",
+      "size": 1,
+      "uploadedDate": "2024-04-05T14:41:57.008Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-1wu3d.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 183217,
+      "uploadedDate": "2024-10-31T11:38:26.742Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-52ih3.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 949039,
+      "uploadedDate": "2024-10-31T11:38:34.754Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-bizhi.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 414569,
+      "uploadedDate": "2024-10-31T11:38:28.001Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-q0paw.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 565976,
+      "uploadedDate": "2024-10-31T11:38:28.364Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-1mvp2.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 371295,
+      "uploadedDate": "2024-10-31T11:38:27.277Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-1dpqe.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 440169,
+      "uploadedDate": "2024-10-31T11:38:28.535Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-h2eos.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 452405,
+      "uploadedDate": "2024-10-31T11:38:28.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-1h9mp.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 780787,
+      "uploadedDate": "2024-10-31T11:38:29.627Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-113ne.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 199352,
+      "uploadedDate": "2024-10-31T11:38:27.438Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-v3hdc.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 378173,
+      "uploadedDate": "2024-10-31T11:38:28.192Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-8wnfv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 703780,
+      "uploadedDate": "2024-10-31T11:38:30.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-1wx8t.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 464809,
+      "uploadedDate": "2024-10-31T11:38:29.172Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-8nokv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 216580,
+      "uploadedDate": "2024-10-31T11:38:27.039Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-1ncoe.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 525827,
+      "uploadedDate": "2024-10-31T11:38:28.715Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-br9yz.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 608661,
+      "uploadedDate": "2024-10-31T11:38:29.387Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-dps38.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 432968,
+      "uploadedDate": "2024-10-31T11:38:28.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-2ulun.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 282169,
+      "uploadedDate": "2024-10-31T11:38:27.837Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f92ad09c5eb84033825d8ee1741172b8/elite-dangerous-17pvj.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 617136,
+      "uploadedDate": "2024-10-31T11:38:30.295Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

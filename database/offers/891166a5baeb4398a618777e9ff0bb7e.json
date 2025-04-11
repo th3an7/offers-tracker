@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "isonzo--third-wave",
   "creationDate": "2024-02-28T22:05:54.297Z",
-  "lastModifiedDate": "2024-09-11T19:40:15.629Z",
+  "lastModifiedDate": "2025-04-10T20:28:21.485Z",
   "effectiveDate": "2024-04-10T13:00:00.000Z",
   "viewableDate": "2024-04-10T13:00:00.000Z",
   "developer": null,
@@ -26,6 +26,9 @@
   "categories": [
     {
       "path": "addons"
+    },
+    {
+      "path": "addons/durable/seasonpass"
     },
     {
       "path": "addons/durable"
@@ -60,16 +63,16 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "referenceCount": 1987,
+      "comment": ""
     },
     {
       "id": "1210",
@@ -104,7 +107,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18644,
+      "referenceCount": 18647,
       "comment": null
     },
     {
@@ -116,7 +119,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3671,
+      "referenceCount": 3672,
       "comment": null
     }
   ],

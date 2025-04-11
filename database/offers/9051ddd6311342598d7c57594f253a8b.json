@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "cc3a6c8134314b2496fedb45dd208209",
   "creationDate": "2024-08-22T10:18:06.917Z",
-  "lastModifiedDate": "2025-04-09T19:16:59.431Z",
+  "lastModifiedDate": "2025-04-10T22:45:46.867Z",
   "effectiveDate": "2025-04-10T13:00:00.000Z",
   "viewableDate": "2025-03-04T13:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,19 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1977,
-      "comment": ""
-    },
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 253,
+      "referenceCount": 1987,
       "comment": ""
     },
     {
@@ -92,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5061,
+      "referenceCount": 5063,
       "comment": ""
     },
     {
@@ -116,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18644,
+      "referenceCount": 18647,
       "comment": null
     },
     {
@@ -193,6 +181,15 @@
       "uploadedDate": "2025-02-13T10:44:26.420Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://a0345e51-5bbe-4399-8e7e-7faadbfb6f16?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Feb7eff84d8ba4b3e8d512589c5048187%2Fescape-from-tarkov-arena-video-12cjo.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 312786798,
+      "uploadedDate": "2025-04-10T07:12:52.536Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "heroCarouselVideo",
