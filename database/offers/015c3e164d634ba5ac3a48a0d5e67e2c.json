@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "ad038019f1b944669a423f224a914bc7",
   "creationDate": "2023-08-09T18:23:21.966Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.768Z",
+  "lastModifiedDate": "2025-04-11T20:22:42.999Z",
   "effectiveDate": "2023-08-17T16:00:00.000Z",
   "viewableDate": "2023-08-17T16:00:00.000Z",
   "developer": null,
@@ -72,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18653,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -82,30 +94,6 @@
       "status": "ACTIVE",
       "referenceCount": 416,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18647,
-      "comment": null
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-07-26T14:41:48.253Z",
-      "updated": "2025-04-08T15:00:28.708Z",
-      "status": "ACTIVE",
-      "referenceCount": 82,
-      "comment": ""
     }
   ],
   "customAttributes": [
@@ -116,6 +104,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -129,30 +121,84 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-3tzuz.png",
-      "md5": "6ea19c1f17e38354e9e0938d3d559a19",
-      "size": 1465529,
-      "uploadedDate": "2023-08-09T18:32:39.078Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-1fmaz.png",
+      "md5": "ffb816f675ca7a49d63ed82e3a382033",
+      "size": 3518128,
+      "uploadedDate": "2025-04-11T13:45:36.135Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-p25db.png",
-      "md5": "2ccd0291aaf996d10efcf7e0c6af318c",
-      "size": 2292697,
-      "uploadedDate": "2023-08-09T18:31:48.804Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-17xzi.png",
+      "md5": "908b4e5556e1ec93abf33bc0b52342e9",
+      "size": 1996592,
+      "uploadedDate": "2025-04-11T13:45:31.322Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-p25db.png",
-      "md5": "2ccd0291aaf996d10efcf7e0c6af318c",
-      "size": 2292697,
-      "uploadedDate": "2023-08-09T18:31:48.804Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-17xzi.png",
+      "md5": "908b4e5556e1ec93abf33bc0b52342e9",
+      "size": 1996592,
+      "uploadedDate": "2025-04-11T13:45:31.322Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-ojdmi.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1725559,
+      "uploadedDate": "2025-04-11T14:02:24.870Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-16dfk.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1708150,
+      "uploadedDate": "2025-04-11T14:02:22.111Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-1nkrf.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1653916,
+      "uploadedDate": "2025-04-11T14:02:28.639Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-1w0pm.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1693703,
+      "uploadedDate": "2025-04-11T14:02:22.644Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-d7j76.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1586961,
+      "uploadedDate": "2025-04-11T14:02:24.964Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/148bfe5eb56b408181bd33bb08b48a11/police-car-simulator-1lsk9.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1440328,
+      "uploadedDate": "2025-04-11T14:02:27.385Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
