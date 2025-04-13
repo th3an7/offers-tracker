@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "15d5a07c6d5f4d73a8561cd6ac2ea079",
   "creationDate": "2022-01-03T21:52:36.632Z",
-  "lastModifiedDate": "2025-04-11T15:29:07.549Z",
+  "lastModifiedDate": "2025-04-12T10:23:57.700Z",
   "effectiveDate": "2025-04-01T10:00:00.000Z",
   "viewableDate": "2025-04-01T10:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": "From Ratings & Polls results."
     },
     {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-08-22T10:58:47.687Z",
+      "status": "ACTIVE",
+      "referenceCount": 655,
+      "comment": ""
+    },
+    {
       "id": "1299",
       "name": "Competitive",
       "namespace": "epic",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18653,
+      "referenceCount": 18652,
       "comment": null
     },
     {
@@ -94,6 +106,18 @@
       "status": "ACTIVE",
       "referenceCount": 244,
       "comment": null
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2023-08-22T21:49:10.904Z",
+      "status": "ACTIVE",
+      "referenceCount": 480,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
@@ -161,7 +185,5 @@
       "id": "4851f7a90c2c4a319113cd273dd90f98"
     }
   ],
-  "catalogNs": {
-    "name": "9159cceaae3e48bc9a5ec237d7a4f388"
-  }
+  "catalogNs": null
 }

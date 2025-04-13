@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "17c196bb2302467d9c930289a0b70562",
   "creationDate": "2023-06-21T13:00:33.379Z",
-  "lastModifiedDate": "2025-04-10T16:28:47.296Z",
+  "lastModifiedDate": "2025-04-12T13:46:49.078Z",
   "effectiveDate": "2024-05-02T15:00:00.000Z",
   "viewableDate": "2024-04-30T13:00:00.000Z",
   "developer": null,
@@ -35,6 +35,42 @@
     }
   ],
   "tags": [
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2290,
+      "comment": ""
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 5063,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18652,
+      "comment": null
+    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -68,7 +104,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 652,
+      "referenceCount": 655,
       "comment": ""
     },
     {
@@ -84,15 +120,15 @@
       "comment": ""
     },
     {
-      "id": "21894",
-      "name": "Cloud Saves",
+      "id": "21140",
+      "name": "Amazing Storytelling",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-23T02:20:12.228Z",
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 2290,
+      "referenceCount": 595,
       "comment": ""
     },
     {
@@ -106,18 +142,6 @@
       "status": "ACTIVE",
       "referenceCount": 1144,
       "comment": null
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 5063,
-      "comment": ""
     },
     {
       "id": "1336",
@@ -144,18 +168,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18653,
-      "comment": null
-    },
-    {
       "id": "21147",
       "name": "Inclusive Character Customization",
       "namespace": null,
@@ -164,8 +176,20 @@
       "created": "2022-05-17T21:36:07.333Z",
       "updated": "2023-08-22T16:40:57.276Z",
       "status": "ACTIVE",
-      "referenceCount": 180,
+      "referenceCount": 179,
       "comment": ""
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2023-08-22T21:49:10.904Z",
+      "status": "ACTIVE",
+      "referenceCount": 480,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [
@@ -220,7 +244,5 @@
       "id": "9f330ec636a342feadd15e2f1142bb29"
     }
   ],
-  "catalogNs": {
-    "name": "58004246d72f474a957ff5f57b9684ca"
-  }
+  "catalogNs": null
 }
