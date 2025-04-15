@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "cc3a6c8134314b2496fedb45dd208209",
   "creationDate": "2024-08-22T10:18:06.917Z",
-  "lastModifiedDate": "2025-04-11T18:23:15.185Z",
+  "lastModifiedDate": "2025-04-14T09:03:49.593Z",
   "effectiveDate": "2025-04-10T13:00:00.000Z",
   "viewableDate": "2025-03-04T13:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1995,
+      "referenceCount": 1997,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 255,
+      "referenceCount": 256,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5063,
+      "referenceCount": 5069,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18655,
+      "referenceCount": 18672,
       "comment": null
     },
     {
@@ -169,34 +169,34 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-1jkds.jpg",
-      "md5": "aff7033959be5bc6cf42e01b7377e6d8",
-      "size": 982137,
-      "uploadedDate": "2025-02-13T10:44:30.708Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-174t2.jpg",
+      "md5": "51c31a7730918173210b5f7087bc5a38",
+      "size": 1094762,
+      "uploadedDate": "2025-04-11T16:13:49.110Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-r5kqf.jpg",
-      "md5": "2b4814efee645ad1b48d6eff3f26d860",
-      "size": 502600,
-      "uploadedDate": "2025-02-13T10:44:26.420Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-ziu5u.jpg",
+      "md5": "3a66d833633f8ca48654c627e88a36b1",
+      "size": 1439101,
+      "uploadedDate": "2025-04-11T16:20:53.850Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-r5kqf.jpg",
-      "md5": "2b4814efee645ad1b48d6eff3f26d860",
-      "size": 502600,
-      "uploadedDate": "2025-02-13T10:44:26.420Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-ziu5u.jpg",
+      "md5": "3a66d833633f8ca48654c627e88a36b1",
+      "size": 1439101,
+      "uploadedDate": "2025-04-11T16:20:53.850Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://a0345e51-5bbe-4399-8e7e-7faadbfb6f16?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Feb7eff84d8ba4b3e8d512589c5048187%2Fescape-from-tarkov-arena-video-12cjo.png",
+      "url": "com.epicgames.video://a0345e51-5bbe-4399-8e7e-7faadbfb6f16?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Feb7eff84d8ba4b3e8d512589c5048187%2Fescape-from-tarkov-arena-video-133wq.jpg",
       "md5": "comepicgamesvideomd5hashconstant",
       "size": 312786798,
       "uploadedDate": "2025-04-10T07:12:52.536Z",
@@ -292,6 +292,15 @@
       "uploadedDate": "2025-02-19T15:38:26.972Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OgImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb7eff84d8ba4b3e8d512589c5048187/escape-from-tarkov-arena-1xyry.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1011443,
+      "uploadedDate": "2025-04-11T16:23:11.064Z",
+      "width": 1200,
+      "height": 1200
     }
   ],
   "items": [
