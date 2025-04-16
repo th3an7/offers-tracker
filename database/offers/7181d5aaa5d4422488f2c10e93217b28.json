@@ -3,13 +3,13 @@
   "namespace": "2d1432c62a8c49ab80feaefa176a9671",
   "title": "The Precinct",
   "description": "Averno City, 1983. Gangs rule the streets and your father lies restless in his grave. Clean up the city, uncover the truth, and embark on thrilling vehicle chases through destructible environments in this neon-noir action sandbox police game.",
-  "longDescription": null,
+  "longDescription": "<!--textBlock-->\n<!--text-->\nYou are Officer Nick Cordell Jr. As a rookie beat cop fresh out of the Academy, you’re on the front line of defence for Averno’s citizens. Dive into a world of thrilling car chases, sandbox crimes, and a healthy dose of 1980s noir as you protect the populace and solve the mystery of your father’s murder in the line of duty.\n\n<!--textBlock-->\n<!--title-->\n# Take to the Streets\n<!--text-->\nA love letter to classic cop movies, The Precinct combines police sim with action sandbox spectacle. Patrol the streets and respond to callouts to fight criminals petty and powerful. Choose your own tactics in thrilling chases and shootouts. Feel the shifting power struggles of Averno's gangs in a living city full of sandbox crimes, from parking infractions to bank heists, street racing to drug deals.\n\n<!--textBlock-->\n<!--title-->\n# Hot Pursuit\n<!--text-->\nSpeed through the city in intense car and helicopter chases and pursue your mark through twisting alleyways before bringing them to justice. There's no need to be a lone wolf: You've got Averno's Finest backing you up, with an in-depth support system that allows you to call in squad cars, roadblocks, spike strips, and more.\n\n<!--textBlock-->\n<!--title-->\n# A Sleepless City\n<!--text-->\nExplore the ever-shifting criminal underbelly of Averno City. Deal with yuppies, bums, street vendors and furious taxi drivers from the Projects to the Financial District. Chase perps through neon-lit alleys, rain-soaked streets, and grand, decaying parklands, all subject to a day/night cycle and dynamic weather. This is the 1980s East Coast in all its neon-noir glory.\n\n<!--textBlock-->\n<!--title-->\n# Key Features\n<!--text-->\n- Explore a vibrant, living city by foot, squad car and helicopter \n- Respond to sandbox crimes ranging from parking violations to gang shootouts \n- Engage in intense vehicle chases through destructible environments \n- Go it alone or call in backup with an in-depth support system \n- Investigate the gangs who rule the city and the dark conspiracies keeping them in control\n- Day/night cycle with dynamic weather\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "d614d9aa75884518a061cc2874b31777",
   "creationDate": "2023-04-25T12:15:42.128Z",
-  "lastModifiedDate": "2024-12-30T23:55:43.798Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-04-15T13:23:54.221Z",
+  "effectiveDate": "2025-05-13T16:00:00.000Z",
   "viewableDate": "2023-06-10T19:00:00.000Z",
   "developer": null,
   "seller": {
@@ -36,6 +36,18 @@
   ],
   "tags": [
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2293,
+      "comment": ""
+    },
+    {
       "id": "1336",
       "name": "Action-Adventure",
       "namespace": "epic",
@@ -46,18 +58,6 @@
       "status": "ACTIVE",
       "referenceCount": 519,
       "comment": null
-    },
-    {
-      "id": "36825",
-      "name": "Future Games Show",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-06-04T17:14:51.489Z",
-      "updated": "2024-07-15T19:02:13.912Z",
-      "status": "ACTIVE",
-      "referenceCount": 10,
-      "comment": ""
     },
     {
       "id": "1370",
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18672,
+      "referenceCount": 18722,
       "comment": null
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3682,
+      "referenceCount": 3686,
       "comment": null
     }
   ],
@@ -103,11 +103,15 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isBlockchainUsed",
@@ -117,30 +121,165 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-dxnzu.png",
-      "md5": "5afad23b27b07791e5613dd2c4eebcb1",
-      "size": 4180549,
-      "uploadedDate": "2024-05-21T11:36:17.799Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1503t.png",
+      "md5": "3a53b432d8864a699484ff60cdd25dcc",
+      "size": 4187647,
+      "uploadedDate": "2025-03-25T15:22:08.533Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-iok1m.png",
-      "md5": "07af719c4cd7136a287c90a24b08862a",
-      "size": 2463300,
-      "uploadedDate": "2024-05-21T11:36:22.624Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1msv0.png",
+      "md5": "550f94fa2dfd739bab3d76cacf219818",
+      "size": 2473977,
+      "uploadedDate": "2025-03-25T15:22:13.946Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-iok1m.png",
-      "md5": "07af719c4cd7136a287c90a24b08862a",
-      "size": 2463300,
-      "uploadedDate": "2024-05-21T11:36:22.624Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1msv0.png",
+      "md5": "550f94fa2dfd739bab3d76cacf219818",
+      "size": 2473977,
+      "uploadedDate": "2025-03-25T15:22:13.946Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://b579f1bf-d6c8-4bc7-a648-49f44a0b50de?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd19ab74a4ff141a2b32cdb2e557ec71d%2Fthe-precinct-video-6qptn.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 171313687,
+      "uploadedDate": "2025-03-25T13:38:45.498Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://f590342c-d459-4313-af8f-b4199a73e631?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd19ab74a4ff141a2b32cdb2e557ec71d%2Fthe-precinct-video-saowp.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 117843634,
+      "uploadedDate": "2024-05-23T14:32:54.611Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-fvbat.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3500331,
+      "uploadedDate": "2025-04-07T10:33:14.845Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-152so.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2248139,
+      "uploadedDate": "2025-04-07T10:33:02.178Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1pb2r.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2620701,
+      "uploadedDate": "2025-04-07T10:33:05.541Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-4nrqr.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1593402,
+      "uploadedDate": "2025-04-07T10:33:02.829Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1hkg1.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1906278,
+      "uploadedDate": "2025-04-07T10:33:03.816Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-ciasp.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2973768,
+      "uploadedDate": "2025-04-07T10:33:08.993Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1fuch.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2356133,
+      "uploadedDate": "2025-04-07T10:33:05.854Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-p7loa.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2642841,
+      "uploadedDate": "2025-04-07T10:33:11.712Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-b7dnx.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2916412,
+      "uploadedDate": "2025-04-07T10:33:11.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-10wrh.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2876697,
+      "uploadedDate": "2025-04-07T10:33:08.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-mjovl.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3008442,
+      "uploadedDate": "2025-04-07T10:33:10.880Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1d63m.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2859604,
+      "uploadedDate": "2025-04-07T10:33:05.468Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/d19ab74a4ff141a2b32cdb2e557ec71d/the-precinct-1v21d.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 971829,
+      "uploadedDate": "2025-04-07T10:35:03.930Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

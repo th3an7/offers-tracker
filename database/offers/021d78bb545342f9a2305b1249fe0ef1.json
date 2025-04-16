@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "32d3bdb8e88e42638c67781b32c6a340",
   "creationDate": "2023-08-11T21:16:06.503Z",
-  "lastModifiedDate": "2025-04-08T15:00:33.466Z",
+  "lastModifiedDate": "2025-04-15T14:15:54.764Z",
   "effectiveDate": "2023-08-19T08:30:00.000Z",
   "viewableDate": "2023-08-19T08:30:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18722,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -70,30 +82,6 @@
       "status": "ACTIVE",
       "referenceCount": 416,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18672,
-      "comment": null
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-07-26T14:41:48.253Z",
-      "updated": "2025-04-08T15:00:28.708Z",
-      "status": "ACTIVE",
-      "referenceCount": 80,
-      "comment": ""
     },
     {
       "id": "1212",
@@ -118,6 +106,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -129,28 +121,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/e6a24fc11ef54af3adecf88ae2546fc5/dirt-bike-racer-simulator-1k0mh.png",
-      "md5": "8f486ec231aa270e38b8b405e01729ab",
-      "size": 1396433,
-      "uploadedDate": "2023-08-11T21:41:54.254Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6a24fc11ef54af3adecf88ae2546fc5/dirt-bike-racer-simulator-z1bxx.png",
+      "md5": "fab92165c21c6d2070d67b026a2e6756",
+      "size": 4114256,
+      "uploadedDate": "2025-04-15T12:11:49.661Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/e6a24fc11ef54af3adecf88ae2546fc5/dirt-bike-racer-simulator-1f43v.png",
-      "md5": "3676b7ff6f93fc2e8eac375105e05898",
-      "size": 2045541,
-      "uploadedDate": "2023-08-11T21:42:02.382Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6a24fc11ef54af3adecf88ae2546fc5/dirt-bike-racer-simulator-1bdad.png",
+      "md5": "9bc2a58710132739d7a5a49a0764f922",
+      "size": 2330068,
+      "uploadedDate": "2025-04-15T12:11:51.405Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/e6a24fc11ef54af3adecf88ae2546fc5/dirt-bike-racer-simulator-1f43v.png",
-      "md5": "3676b7ff6f93fc2e8eac375105e05898",
-      "size": 2045541,
-      "uploadedDate": "2023-08-11T21:42:02.382Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/e6a24fc11ef54af3adecf88ae2546fc5/dirt-bike-racer-simulator-1bdad.png",
+      "md5": "9bc2a58710132739d7a5a49a0764f922",
+      "size": 2330068,
+      "uploadedDate": "2025-04-15T12:11:51.405Z",
       "width": 1200,
       "height": 1600
     }
