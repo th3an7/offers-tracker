@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "e187e4b14205489bb4b8db68061b18df",
   "creationDate": "2024-12-19T11:51:15.587Z",
-  "lastModifiedDate": "2025-02-26T20:21:23.188Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-04-16T20:41:16.599Z",
+  "effectiveDate": "2025-04-30T13:00:00.000Z",
   "viewableDate": "2025-02-10T04:47:46.000Z",
   "developer": null,
   "seller": {
@@ -36,30 +36,6 @@
   ],
   "tags": [
     {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
-      "comment": null
-    },
-    {
-      "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-08-23T03:24:56.304Z",
-      "status": "ACTIVE",
-      "referenceCount": 519,
-      "comment": null
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -80,7 +56,31 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18722,
+      "referenceCount": 18733,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 1473,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-08-22T22:50:29.701Z",
+      "status": "ACTIVE",
+      "referenceCount": 250,
       "comment": null
     },
     {
@@ -96,18 +96,15 @@
       "comment": null
     },
     {
-      "id": "10719",
-      "name": "Mac OS",
+      "id": "1263",
+      "name": "Indie",
       "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
+      "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
       "status": "ACTIVE",
-      "referenceCount": 1536,
+      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -118,7 +115,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -136,28 +133,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-1m57s.png",
-      "md5": "555751974a3b00258d8468caccd91834",
-      "size": 1449504,
-      "uploadedDate": "2025-02-04T17:40:43.947Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-fhx2n.png",
+      "md5": "67dcf91d399df0a24d8ed73122574bd4",
+      "size": 1591551,
+      "uploadedDate": "2025-04-16T20:12:21.647Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-7b4dt.jpg",
-      "md5": "2d1f39feffbaec3449e228da6ad404e1",
-      "size": 321429,
-      "uploadedDate": "2025-02-04T17:42:50.612Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-3uaee.png",
+      "md5": "c08e0d815f10b01682e192aa94db5831",
+      "size": 2352595,
+      "uploadedDate": "2025-04-15T15:06:15.430Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-7b4dt.jpg",
-      "md5": "2d1f39feffbaec3449e228da6ad404e1",
-      "size": 321429,
-      "uploadedDate": "2025-02-04T17:42:50.612Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/7592d69f9adf4b558a298812ed173c42/goblintown-really-hard-driving-game-3uaee.png",
+      "md5": "c08e0d815f10b01682e192aa94db5831",
+      "size": 2352595,
+      "uploadedDate": "2025-04-15T15:06:15.430Z",
       "width": 1200,
       "height": 1600
     },

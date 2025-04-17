@@ -1,14 +1,14 @@
 {
   "id": "f0a79e2c10d14902944b314b9ea371de",
   "namespace": "d49999c8fe5f4c6da446b3665e178a75",
-  "title": "Mandragora - Prepurchase Quest",
-  "description": "Explore an exciting new quest.",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# Prepurchase Quest\n<!--text-->\nExplore an exciting new quest.\n",
+  "title": "Mandragora: Whispers of the Witch Tree - Dark Ale Quest",
+  "description": "Embark on an exciting new quest within the world of Faelduum.",
+  "longDescription": "<!--image-->\n![Mandragora-1n18c](https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-1n18c.jpg)\n\n<!--textBlock-->\n<!--text-->\nEmbark on an exciting new quest within the world of Faelduum: Dark Ale!\n\nSolve the mystery of what exactly is in a strange ale keg in the basement of Rosalie’s inn. Put not only your combat abilities to the test... but also your taste in ale! \n\nGrab a flagon, Inquisitor, because it’s going to be a long night...\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "mandragora-prepurchase-quest",
   "creationDate": "2024-11-15T13:25:57.444Z",
-  "lastModifiedDate": "2025-03-04T16:03:28.359Z",
+  "lastModifiedDate": "2025-04-16T22:10:09.098Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-11-20T17:00:02.000Z",
   "developer": null,
@@ -57,6 +57,18 @@
       "comment": null
     },
     {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 5084,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -77,7 +89,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18722,
+      "referenceCount": 18733,
       "comment": null
     },
     {
@@ -122,39 +134,48 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-tkv2t.jpg",
-      "md5": "9607f2f7e0d461666c2f558e37b2859b",
-      "size": 2161063,
-      "uploadedDate": "2024-11-15T13:32:52.486Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-70v18.jpg",
+      "md5": "8f79f946d6eb6a6cd9d5560d9ec22b9b",
+      "size": 2765426,
+      "uploadedDate": "2025-04-11T18:05:15.248Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-1mhwa.jpg",
-      "md5": "b8f939a76d408c94f8704dc64889903c",
-      "size": 1491075,
-      "uploadedDate": "2024-11-15T13:33:01.249Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-6ces1.jpg",
+      "md5": "f89cb34ce68650b00cdd7c5b83d9295a",
+      "size": 1876700,
+      "uploadedDate": "2025-04-11T18:05:17.969Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-1mhwa.jpg",
-      "md5": "b8f939a76d408c94f8704dc64889903c",
-      "size": 1491075,
-      "uploadedDate": "2024-11-15T13:33:01.249Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-6ces1.jpg",
+      "md5": "f89cb34ce68650b00cdd7c5b83d9295a",
+      "size": 1876700,
+      "uploadedDate": "2025-04-11T18:05:17.969Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-ti8f4.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-iw7dq.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 3641215,
-      "uploadedDate": "2024-11-15T14:38:40.113Z",
+      "size": 1629135,
+      "uploadedDate": "2025-04-11T18:09:06.030Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OgImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/372d76781c3e41e4a99d6303ccbc9eb5/mandragora-1lf58.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1451632,
+      "uploadedDate": "2025-04-11T18:09:43.139Z",
+      "width": 1200,
+      "height": 1200
     }
   ],
   "items": [

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "0f1508a2724a4a53b2ad80802ab32016",
   "creationDate": "2023-09-22T05:35:21.408Z",
-  "lastModifiedDate": "2025-04-10T12:09:47.326Z",
+  "lastModifiedDate": "2025-04-16T14:14:58.965Z",
   "effectiveDate": "2024-09-25T15:00:00.000Z",
   "viewableDate": "2023-11-08T11:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5070,
+      "referenceCount": 5084,
       "comment": ""
     },
     {
@@ -56,7 +56,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 979,
+      "referenceCount": 981,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18722,
+      "referenceCount": 18733,
       "comment": null
     },
     {
@@ -104,19 +104,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3686,
-      "comment": null
-    },
-    {
-      "id": "1310",
-      "name": "EARLY ACCESS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
-      "status": "ACTIVE",
-      "referenceCount": 250,
+      "referenceCount": 3693,
       "comment": null
     }
   ],
@@ -128,6 +116,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -165,6 +157,141 @@
       "uploadedDate": "2023-10-04T22:26:22.375Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://9fd6a0e7-0227-462a-9f95-d29b05144db4?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F3986c872aa1c4bc2b9fbf01892ec951c%2Fdrive-rally-video-kqw1f.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 245883756,
+      "uploadedDate": "2025-04-10T15:32:15.253Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-qbk3q.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 843823,
+      "uploadedDate": "2024-09-19T22:17:10.016Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-1t6r0.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1030042,
+      "uploadedDate": "2024-09-19T22:17:10.003Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-1uimh.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 957298,
+      "uploadedDate": "2024-09-19T22:17:09.895Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-1loic.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1077167,
+      "uploadedDate": "2024-09-19T22:17:10.010Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-isgkl.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 621677,
+      "uploadedDate": "2024-09-19T22:17:25.609Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-1c8af.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 877643,
+      "uploadedDate": "2024-09-19T22:17:25.735Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-q6m9k.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 774514,
+      "uploadedDate": "2024-09-19T22:17:25.826Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-1bqkq.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 736680,
+      "uploadedDate": "2024-09-19T22:17:25.583Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-yn6eo.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 752648,
+      "uploadedDate": "2024-09-19T22:17:48.950Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-1o774.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 805598,
+      "uploadedDate": "2024-09-19T22:17:48.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-14z9p.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1055055,
+      "uploadedDate": "2024-09-19T22:17:49.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-m3wca.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 785228,
+      "uploadedDate": "2024-09-19T22:17:49.117Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-2el5m.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 796472,
+      "uploadedDate": "2024-09-19T22:50:51.076Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3986c872aa1c4bc2b9fbf01892ec951c/drive-rally-1pk56.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1082783,
+      "uploadedDate": "2024-09-19T22:50:55.254Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
