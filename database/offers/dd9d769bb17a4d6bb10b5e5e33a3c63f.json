@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "0c1f8ee1a6e745b4a201b3cd8474714a",
   "creationDate": "2023-10-02T02:51:58.907Z",
-  "lastModifiedDate": "2025-01-20T18:56:48.643Z",
+  "lastModifiedDate": "2025-04-17T19:12:25.348Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-10-10T06:30:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2002,
+      "referenceCount": 2003,
       "comment": ""
     },
     {
@@ -70,6 +70,18 @@
       "status": "ACTIVE",
       "referenceCount": 148,
       "comment": null
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 316,
+      "comment": ""
     },
     {
       "id": "1370",
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18733,
+      "referenceCount": 18754,
       "comment": null
     },
     {
@@ -116,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3693,
+      "referenceCount": 3697,
       "comment": null
     }
   ],
@@ -131,7 +143,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
