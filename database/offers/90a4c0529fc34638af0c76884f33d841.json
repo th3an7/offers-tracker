@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "941196ae9aa845b099a14e3e097d00f6",
   "creationDate": "2024-05-31T10:30:27.058Z",
-  "lastModifiedDate": "2024-06-07T18:24:58.885Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-04-18T15:17:06.851Z",
+  "effectiveDate": "2025-04-22T14:00:00.000Z",
   "viewableDate": "2024-06-05T07:23:10.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -60,6 +60,18 @@
       "comment": ""
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2300,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18755,
+      "referenceCount": 18769,
       "comment": null
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3697,
+      "referenceCount": 3701,
       "comment": null
     }
   ],
@@ -119,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -133,30 +145,120 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-vo1xh.png",
-      "md5": "c85fd744d7be252ad478eb2e3f60d012",
-      "size": 2395422,
-      "uploadedDate": "2024-05-31T11:09:55.408Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-zppnm.jpg",
+      "md5": "646edf47dca487a8033800fc585ccd3c",
+      "size": 2552672,
+      "uploadedDate": "2025-03-11T12:56:43.332Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-10jb1.png",
-      "md5": "f046d487b0f67c8d04fddd4726fd4024",
-      "size": 2748814,
-      "uploadedDate": "2024-05-31T11:12:21.819Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-17x31.png",
+      "md5": "8e8866803e7f16c2fabb496093b00b0a",
+      "size": 3736601,
+      "uploadedDate": "2025-03-11T12:56:51.795Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-10jb1.png",
-      "md5": "f046d487b0f67c8d04fddd4726fd4024",
-      "size": 2748814,
-      "uploadedDate": "2024-05-31T11:12:21.819Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-17x31.png",
+      "md5": "8e8866803e7f16c2fabb496093b00b0a",
+      "size": 3736601,
+      "uploadedDate": "2025-03-11T12:56:51.795Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://dd773cb9-b54d-4dd5-b222-1b11fd218eb5?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd6a532c348824c8dba5174436a44fdf6%2Fsteel-seed-video-kdxxe.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 196565837,
+      "uploadedDate": "2025-04-04T09:33:00.349Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://5fd5b110-7cf0-4049-ae2d-e1cf92612d9b?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fd6a532c348824c8dba5174436a44fdf6%2Fsteel-seed-video-xsdr5.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 214056942,
+      "uploadedDate": "2024-05-31T11:28:21.893Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-2jdv0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 879780,
+      "uploadedDate": "2024-05-31T11:15:33.826Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-jethv.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 952984,
+      "uploadedDate": "2024-05-31T11:15:35.297Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-g4602.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1076450,
+      "uploadedDate": "2024-05-31T11:15:34.828Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-1h51a.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1183317,
+      "uploadedDate": "2024-05-31T11:15:34.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-15wpy.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1225289,
+      "uploadedDate": "2024-05-31T11:15:35.042Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-xpf8u.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1057456,
+      "uploadedDate": "2024-05-31T11:15:34.029Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-yvxik.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 933507,
+      "uploadedDate": "2024-05-31T11:15:34.207Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/d6a532c348824c8dba5174436a44fdf6/steel-seed-1a0g7.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 974996,
+      "uploadedDate": "2024-05-31T11:15:34.390Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
