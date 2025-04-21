@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "ecd7482784624431807b270a510480a8",
   "creationDate": "2023-08-04T18:21:53.063Z",
-  "lastModifiedDate": "2025-04-08T15:00:30.373Z",
+  "lastModifiedDate": "2025-04-20T16:56:44.437Z",
   "effectiveDate": "2023-09-18T17:00:00.000Z",
   "viewableDate": "2023-09-18T17:00:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18776,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -69,18 +81,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18774,
       "comment": null
     },
     {
@@ -106,6 +106,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -117,30 +121,75 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-1mqdm.png",
-      "md5": "42b8beef693c97c615fdedf344072cd4",
-      "size": 1163310,
-      "uploadedDate": "2023-08-04T18:33:00.787Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-1n1eq.png",
+      "md5": "8fd860d7eb82b4b97a707b70a34b4bfd",
+      "size": 3626875,
+      "uploadedDate": "2025-04-20T11:04:27.109Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-17r2e.png",
-      "md5": "0348edeb04f0fd821da913eb5c3905d2",
-      "size": 1760044,
-      "uploadedDate": "2023-08-04T18:33:05.800Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-y6ikj.png",
+      "md5": "2faf2d5e6c41bec7a93d98f79296c076",
+      "size": 2055477,
+      "uploadedDate": "2025-04-20T11:04:26.794Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-17r2e.png",
-      "md5": "0348edeb04f0fd821da913eb5c3905d2",
-      "size": 1760044,
-      "uploadedDate": "2023-08-04T18:33:05.800Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-y6ikj.png",
+      "md5": "2faf2d5e6c41bec7a93d98f79296c076",
+      "size": 2055477,
+      "uploadedDate": "2025-04-20T11:04:26.794Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-1kfh0.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1606350,
+      "uploadedDate": "2025-04-20T11:07:08.384Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-1xl3b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1162620,
+      "uploadedDate": "2025-04-20T11:07:06.764Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-1jma5.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1495971,
+      "uploadedDate": "2025-04-20T11:07:09.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-1tvpt.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1086889,
+      "uploadedDate": "2025-04-20T11:07:07.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/36255a8a759844cfb11df5abcc34627f/extreme-car-drift-simulator-1lnrl.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1288878,
+      "uploadedDate": "2025-04-20T11:07:06.683Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
