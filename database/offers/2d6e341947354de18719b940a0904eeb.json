@@ -2,14 +2,14 @@
   "id": "2d6e341947354de18719b940a0904eeb",
   "namespace": "d960a934016343e2ab062626d7d27a7c",
   "title": "Imagine Island",
-  "description": "Welcome to Imagine Island, the ultimate online playground for kids – and it’s free! Explore areas of the world, discover  secrets, play exciting mini games, customize your avatar, and join the safe community in this ever-evolving virtual world full of endless fun and adventure!",
-  "longDescription": null,
+  "description": "Thanks for playing the Early Access for Imagine Island, the ultimate online playground for kids! A new adventure is just around the corner, so stay tuned and we'll see you soon!",
+  "longDescription": "<!--textBlock-->\n<!--text-->\n***Imagine Island***  is a safe and **FREE** virtual world made especially for kids!\n\n<!--textBlock-->\n<!--title-->\n# Explore!\n<!--text-->\nExplore every corner of the island to uncover mini games, hidden secrets, mysterious objects, and… rubber duckies?\n\n<!--textBlock-->\n<!--title-->\n# Play Mini Games!\n<!--text-->\nPlay all kinds of fun mini games with friends (or new friends) discovered throughout the world! From obstacle courses, to tag and prop hunts, to haunted house coin races (watch out for ghosts!), there is something for everyone and more to come!\n\n<!--textBlock-->\n<!--title-->\n# Customize your Avatar!\n<!--text-->\nDress to impress! Customize your avatar to express your true self, or any version of yourself you want to be today! Whether you're a sporty kid, a fashionista, or wearing a full-body shark costume with a pair of shades, everyone can express themselves and show off their creativity in Imagine Island.\n\n<!--textBlock-->\n<!--title-->\n# Join the Party!\n<!--text-->\nThere is always a new and exciting party on the horizon, with new themed world art, quests, items, and more! You don't want to miss out on the limited-time fun and this chapter of the island’s story.\n\n<!--textBlock-->\n<!--title-->\n# Make New Friends!\n<!--text-->\nImagine Island is a safe and welcoming community for all young gamers. Bring your friends or meet new friends in this fun-filled world!\n\n<!--textBlock-->\n<!--title-->\n# Roleplay Jobs and Activities!\n<!--text-->\nRoleplay as a barista in the coffee shop or a customer ordering a delicious drink! More fun jobs and roles will be added as the world grows and evolves!\n\n<!--textBlock-->\n<!--title-->\n# Earn Virtual Coins and Items!\n<!--text-->\nEarn virtual coins by doing all the things you love in the game: exploring, discovering, playing mini games, roleplaying, building, and more! Use your coins to buy awesome virtual items in the game.\n\n\nThis is just the beginning! Many more games, experiences, and surprises will be added to the world. We want to hear your ideas, suggestions, and feedback, so join the community and the discussion!\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "9dda038e5aaf476ba5be4383fb16e211",
   "creationDate": "2024-10-03T17:03:01.052Z",
-  "lastModifiedDate": "2025-01-23T16:23:38.912Z",
-  "effectiveDate": "2024-11-21T17:04:35.000Z",
+  "lastModifiedDate": "2025-04-22T19:59:05.369Z",
+  "effectiveDate": "2099-11-21T17:04:00.000Z",
   "viewableDate": "2024-11-15T00:49:35.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2005,
+      "referenceCount": 2008,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18782,
+      "referenceCount": 18806,
       "comment": null
     },
     {
@@ -183,11 +183,20 @@
       "height": 1600
     },
     {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2adeb5942a1b4fa1ba86b0e84809e83a/imagine-island-1htq6.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1432737,
+      "uploadedDate": "2025-04-18T15:22:08.976Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://a7e756c2-0c05-4972-ae7a-5ad215a09b27?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2adeb5942a1b4fa1ba86b0e84809e83a%2Fimagine-island-video-1qkxy.png",
+      "url": "com.epicgames.video://2fbf60b8-7dcc-4813-971b-cb256bc34ed2?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2adeb5942a1b4fa1ba86b0e84809e83a%2Fimagine-island-video-w34e6.png",
       "md5": "comepicgamesvideomd5hashconstant",
-      "size": 258219281,
-      "uploadedDate": "2025-01-22T00:53:02.869Z",
+      "size": 262468037,
+      "uploadedDate": "2025-04-22T15:16:15.422Z",
       "width": 1920,
       "height": 1080
     },

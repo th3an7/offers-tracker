@@ -3,12 +3,12 @@
   "namespace": "fcdeb2f211034519a142536d2a0866b3",
   "title": "SAIKO BOT",
   "description": "SAIKO BOT is a multiplayer & single-player game with various arcade games & worlds to explore. Enjoy friendly, non-violent challenges with friends or solo adventures in a welcoming environment. Fun for all ages.",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# SAIKO BOT: Explore Worlds, Play Arcade, Enjoy Non-Violent Multiplayer Fun for All Ages!\n<!--text-->\nSAIKO BOT is a versatile game that offers both multiplayer and single-player experiences, catering to a wide range of players. Within the app, users can dive into various games, from arcade-style solo adventures exploring unique worlds to engaging in cooperative or competitive multiplayer sessions. The game promotes a non-violent, friendly environment where players can challenge friends in survival scenarios or simply enjoy casual play. It's designed to be accessible and enjoyable for everyone, fostering a community where fun and friendship thrive.\n\n<!--image-->\n![SAIKO BOT-hh1p8](https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-hh1p8.png)\n\n<!--image-->\n![SAIKO BOT-e1jyb](https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-e1jyb.png)\n\n<!--image-->\n![SAIKO BOT-108mb](https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-108mb.png)\n",
+  "longDescription": "<!--textBlock-->\n<!--title-->\n# SAIKO BOT: The Cyber Multiplayer Shooter game.\n<!--text-->\nSAIKO BOT is a multiplayer competitive shooter game providing players unique experience in the world of shooting games and versatile game modes. This game is built using Unreal Engine 5 by a single developer and the help of Unreal Engine Lyra Template.\n\nGamemodes Available for this Version 1:\n- Team Deathmatch\n- Conquest\n- Free For All (Beta)\n\nMaps Available:\n- Sci-Fi world\n- Cyber Metrostation\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "374870811a964a82ace19a2eafee4a43",
-  "creationDate": "2024-12-24T17:03:26.124Z",
-  "lastModifiedDate": "2024-12-24T17:03:26.124Z",
+  "creationDate": "2024-12-09T18:11:01.504Z",
+  "lastModifiedDate": "2025-04-22T18:10:52.298Z",
   "effectiveDate": "2025-01-02T05:00:00.000Z",
   "viewableDate": "2024-12-24T17:03:13.000Z",
   "developer": null,
@@ -36,15 +36,15 @@
   ],
   "tags": [
     {
-      "id": "1296",
-      "name": "Casual",
+      "id": "1216",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
       "status": "ACTIVE",
-      "referenceCount": 423,
+      "referenceCount": 2167,
       "comment": null
     },
     {
@@ -68,19 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2005,
-      "comment": ""
-    },
-    {
-      "id": "33639",
-      "name": "Promotional Content",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-01-30T16:42:20.388Z",
-      "updated": "2024-02-05T20:14:29.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 319,
+      "referenceCount": 2008,
       "comment": ""
     },
     {
@@ -93,6 +81,18 @@
       "updated": "2023-08-22T19:55:04.175Z",
       "status": "ACTIVE",
       "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "Shooter",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2023-08-23T00:14:55.836Z",
+      "status": "ACTIVE",
+      "referenceCount": 799,
       "comment": null
     },
     {
@@ -116,31 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18782,
-      "comment": null
-    },
-    {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2024-10-25T20:00:26.146Z",
-      "status": "ACTIVE",
-      "referenceCount": 265,
-      "comment": ""
-    },
-    {
-      "id": "1151",
-      "name": "Platformer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-08-23T04:44:32.409Z",
-      "status": "ACTIVE",
-      "referenceCount": 392,
+      "referenceCount": 18806,
       "comment": null
     }
   ],
@@ -155,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -163,133 +139,97 @@
     },
     {
       "key": "isBlockchainUsed",
-      "value": "true"
+      "value": "false"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-14qwg.png",
-      "md5": "a3d039ac0ec02df4b6b99ba16b0bdcd7",
-      "size": 1666036,
-      "uploadedDate": "2024-12-22T19:17:01.689Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-kwvfg.png",
+      "md5": "7179ee425c7b1d100cfe1d5e98526032",
+      "size": 1278382,
+      "uploadedDate": "2025-04-21T22:52:09.519Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-fwjw9.png",
-      "md5": "d8edb3a154feef98175f2d682e80a7a0",
-      "size": 408766,
-      "uploadedDate": "2024-12-22T19:28:51.424Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-zl6cj.png",
+      "md5": "b96ac475c2f8c351d01350db64cdeeb5",
+      "size": 1072683,
+      "uploadedDate": "2025-04-21T22:52:13.881Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-fwjw9.png",
-      "md5": "d8edb3a154feef98175f2d682e80a7a0",
-      "size": 408766,
-      "uploadedDate": "2024-12-22T19:28:51.424Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-zl6cj.png",
+      "md5": "b96ac475c2f8c351d01350db64cdeeb5",
+      "size": 1072683,
+      "uploadedDate": "2025-04-21T22:52:13.881Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://5f90f77a-2945-4781-8ef7-2b1f0eddbe01?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F40a2d1fd35c74b7088576fcd12344c63%2Fsaiko-bot-video-1jj2v.png",
+      "url": "com.epicgames.video://5781abac-19aa-4776-be82-8e465cd42e68?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F40a2d1fd35c74b7088576fcd12344c63%2Fsaiko-bot-video-1toan.png",
       "md5": "comepicgamesvideomd5hashconstant",
-      "size": 151954263,
-      "uploadedDate": "2024-12-22T19:55:14.210Z",
+      "size": 103959871,
+      "uploadedDate": "2025-04-21T23:07:40.356Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1vi55.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1yuzj.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 450506,
-      "uploadedDate": "2024-12-22T20:09:14.735Z",
+      "size": 853937,
+      "uploadedDate": "2025-04-21T23:26:13.759Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-iur7y.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-11wku.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 317624,
-      "uploadedDate": "2024-12-22T20:09:20.458Z",
+      "size": 1114088,
+      "uploadedDate": "2025-04-21T23:26:14.137Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-124xt.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1mk7w.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 489743,
-      "uploadedDate": "2024-12-22T20:09:25.233Z",
+      "size": 707452,
+      "uploadedDate": "2025-04-21T23:26:13.687Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1fsto.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1us6q.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 296880,
-      "uploadedDate": "2024-12-22T20:09:30.496Z",
+      "size": 494175,
+      "uploadedDate": "2025-04-21T23:26:14.999Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1o20f.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1l8ji.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 16102,
-      "uploadedDate": "2024-12-22T20:09:34.018Z",
+      "size": 922758,
+      "uploadedDate": "2025-04-21T23:26:13.926Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-17844.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-1vtnr.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 438995,
-      "uploadedDate": "2024-12-22T20:09:38.723Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-6twn1.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 424775,
-      "uploadedDate": "2024-12-22T20:09:41.624Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-17gtq.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 226187,
-      "uploadedDate": "2024-12-22T20:09:45.472Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-c3i2s.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 347971,
-      "uploadedDate": "2024-12-22T20:09:50.507Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/40a2d1fd35c74b7088576fcd12344c63/saiko-bot-khifi.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 307703,
-      "uploadedDate": "2024-12-22T20:09:55.172Z",
+      "size": 916147,
+      "uploadedDate": "2025-04-21T23:26:14.062Z",
       "width": 1920,
       "height": 1080
     }
