@@ -3,12 +3,12 @@
   "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
   "title": "Welcome Pack",
   "description": "Start your engines and hit the track with the Welcome Pack!\n\nDisney Speedstorm is the ultimate hero-based combat racing game, set on high-speed circuits inspired by Disney and Pixar worlds.",
-  "longDescription": "The Welcome Pack contains:\n- 3,550 Tokens\\*\n- 1 Golden Pass Credit\\*\\*\n- Lilo (Shards to unlock)\\*\\*\\*\n- Mike Wazowski (Shards to unlock)\\*\\*\\*\n- 1 Racing Suit for Lilo\n- 1 Racing Suit for Mike Wazowski\n- 1 Kart Livery for Lilo\n- 1 Kart Livery for Mike Wazowski\n\n\\*Tokens are an in-game currency in Disney Speedstorm that can be earned for free by achieving goals in the game, or purchased using real-world money. They are not season-based and can be accumulated. They can also be used to obtain items in the shop.\n\n\\*\\*Golden Pass Credits grant access to a premium tier of seasonal rewards, like liveries, Suits, currencies, Racers, and much more.\n\n\\*\\*\\*Players will immediately be able to unlock the following Racers: Lilo, Mike Wazowski.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe Welcome Pack contains:\n- 3,550 Tokens\\*\n- 1 Golden Pass Credit\\*\\*\n- Lilo (Shards to unlock)\\*\\*\\*\n- Mike Wazowski (Shards to unlock)\\*\\*\\*\n- 1 Racing Suit for Lilo\n- 1 Racing Suit for Mike Wazowski\n- 1 Kart Livery for Lilo\n- 1 Kart Livery for Mike Wazowski\n\n\\*Tokens are an in-game currency in Disney Speedstorm that can be earned for free by achieving goals in the game, or purchased using real-world money. They are not season-based and can be accumulated. They can also be used to obtain items in the shop.\n\n\\*\\*Golden Pass Credits grant access to a premium tier of seasonal rewards, like liveries, Suits, currencies, Racers, and much more.\n\n\\*\\*\\*Players will immediately be able to unlock the following Racers: Lilo, Mike Wazowski.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "disney-speedstorm--welcome-pack",
-  "creationDate": "2023-11-09T17:20:02.650Z",
-  "lastModifiedDate": "2024-05-22T15:38:39.998Z",
+  "creationDate": "2025-04-11T13:21:29.253Z",
+  "lastModifiedDate": "2025-04-23T09:08:32.720Z",
   "effectiveDate": "2023-12-21T19:50:00.000Z",
   "viewableDate": "2023-12-21T19:50:00.000Z",
   "developer": null,
@@ -36,6 +36,30 @@
   ],
   "tags": [
     {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 2041,
+      "comment": ""
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -44,8 +68,32 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5123,
+      "referenceCount": 5130,
       "comment": ""
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 1068,
+      "comment": ""
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
     },
     {
       "id": "9547",
@@ -56,11 +104,64 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18806,
+      "referenceCount": 18817,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "Racing",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2023-08-23T04:55:54.861Z",
+      "status": "ACTIVE",
+      "referenceCount": 244,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 3796,
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "Gameloft"
+    },
+    {
+      "key": "developerName",
+      "value": "Gameloft"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -79,15 +180,6 @@
       "uploadedDate": "2023-12-21T18:41:00.393Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/47bf168a2214456fb7bd4c217e2a4fd6/EGS_WelcomePack_Gameloft_Bundles_IC1_200x200-3a29df1e1c08343ac9932adc3a785412",
-      "md5": "3a29df1e1c08343ac9932adc3a785412",
-      "size": 10439,
-      "uploadedDate": "2023-12-21T18:41:06.129Z",
-      "width": 200,
-      "height": 200
     },
     {
       "type": "Thumbnail",
