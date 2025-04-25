@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a40a117218a9404bbb183d364ebfdfca",
   "creationDate": "2024-07-18T08:33:42.802Z",
-  "lastModifiedDate": "2025-04-23T14:23:27.603Z",
+  "lastModifiedDate": "2025-04-24T17:20:27.941Z",
   "effectiveDate": "2024-10-22T17:00:00.000Z",
   "viewableDate": "2024-07-24T14:01:10.746Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5130,
+      "referenceCount": 5131,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18817,
+      "referenceCount": 18836,
       "comment": null
     },
     {
@@ -84,15 +84,18 @@
       "comment": null
     },
     {
-      "id": "1310",
-      "name": "EARLY ACCESS",
+      "id": "10719",
+      "name": "Mac OS",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
       "operator": null,
-      "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-08-22T22:50:29.701Z",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 250,
+      "referenceCount": 1543,
       "comment": null
     }
   ],
@@ -145,6 +148,168 @@
       "uploadedDate": "2024-07-24T11:46:28.147Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://a8006cb0-352b-4e55-a519-4fa710010977?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F3bfb8e30c63943a7864f98347d5cff2f%2Frealpolitiks-3-earth-and-beyond-video-1i5o1.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 133961538,
+      "uploadedDate": "2025-04-24T15:59:19.719Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://9311ad0e-3eaf-4edd-b6d4-fe1726c4d802?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F3bfb8e30c63943a7864f98347d5cff2f%2Frealpolitiks-3-earth-and-beyond-video-1i956.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 277697165,
+      "uploadedDate": "2024-10-22T17:02:20.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-17tos.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1312596,
+      "uploadedDate": "2025-04-24T15:58:30.197Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-1h3oj.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1168864,
+      "uploadedDate": "2025-04-24T15:58:29.229Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-53h2g.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1253562,
+      "uploadedDate": "2025-04-24T15:58:29.582Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-1ored.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 846886,
+      "uploadedDate": "2025-04-24T15:58:28.844Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-uyn9n.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 995088,
+      "uploadedDate": "2025-04-24T15:58:28.648Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-t1gyx.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1138335,
+      "uploadedDate": "2025-04-24T15:58:29.021Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-14192.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1165303,
+      "uploadedDate": "2025-04-24T15:58:29.500Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-hkzee.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 619961,
+      "uploadedDate": "2025-04-24T15:58:28.475Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-1gku8.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 449764,
+      "uploadedDate": "2025-04-24T15:58:29.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-1qpik.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 676504,
+      "uploadedDate": "2025-04-24T15:58:30.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-f4snu.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 480631,
+      "uploadedDate": "2025-04-24T15:58:28.794Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-1qmff.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 937757,
+      "uploadedDate": "2025-04-24T15:58:28.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-i2sd2.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 548654,
+      "uploadedDate": "2025-04-24T15:58:28.593Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-xi4wh.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 623492,
+      "uploadedDate": "2025-04-24T15:58:28.461Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-jxybv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1879190,
+      "uploadedDate": "2025-04-24T15:58:30.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3bfb8e30c63943a7864f98347d5cff2f/realpolitiks-3-earth-and-beyond-1y3zd.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 395251,
+      "uploadedDate": "2025-04-24T15:58:28.339Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
