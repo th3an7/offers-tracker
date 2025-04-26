@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "f823868b1b3a4b94b03c0a782fcbf547",
   "creationDate": "2024-04-16T07:26:21.921Z",
-  "lastModifiedDate": "2025-03-25T15:05:50.896Z",
+  "lastModifiedDate": "2025-04-25T11:48:08.783Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-09-04T07:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2309,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18836,
+      "referenceCount": 18840,
       "comment": null
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3801,
+      "referenceCount": 3803,
       "comment": null
     }
   ],
@@ -157,6 +169,159 @@
       "uploadedDate": "2024-08-21T14:58:10.715Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://7cb146e8-c3b7-446e-9c60-4279a4c06148?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7f4fad59713248f981e112c626c9d0da%2Fdeliver-at-all-costs-video-1blgg.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 283746188,
+      "uploadedDate": "2025-04-11T08:21:13.713Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://09711e68-be95-41da-802e-9d0616dfde6a?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F7f4fad59713248f981e112c626c9d0da%2Fdeliver-at-all-costs-video-lj9xl.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 123263634,
+      "uploadedDate": "2024-09-25T15:44:45.412Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1u6s4.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2980022,
+      "uploadedDate": "2025-03-19T15:19:28.144Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1e885.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3091116,
+      "uploadedDate": "2025-03-19T15:19:31.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1qox3.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1813238,
+      "uploadedDate": "2025-03-19T15:19:34.541Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-18new.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2186815,
+      "uploadedDate": "2025-03-19T15:19:37.696Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-12tbh.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2970023,
+      "uploadedDate": "2025-03-19T15:19:41.775Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1qzmt.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3027486,
+      "uploadedDate": "2025-03-19T15:19:49.305Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-flmm0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3058424,
+      "uploadedDate": "2025-03-19T15:19:58.216Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-ags95.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2807090,
+      "uploadedDate": "2025-03-19T15:20:02.574Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1epzn.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2360858,
+      "uploadedDate": "2025-03-19T15:20:07.828Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-i73tc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3281837,
+      "uploadedDate": "2025-03-19T15:20:12.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-9hxq5.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3209408,
+      "uploadedDate": "2025-03-19T15:20:17.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1vqd6.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2516163,
+      "uploadedDate": "2025-03-19T15:20:21.502Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-18sui.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2611164,
+      "uploadedDate": "2025-03-19T15:20:24.643Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1vvzm.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3342457,
+      "uploadedDate": "2025-03-19T15:20:28.107Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/7f4fad59713248f981e112c626c9d0da/deliver-at-all-costs-1ns39.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3096789,
+      "uploadedDate": "2025-03-19T15:20:31.818Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
@@ -164,7 +329,5 @@
       "id": "ca5f0a21a59f426587ea6c9d4cef8b5b"
     }
   ],
-  "catalogNs": {
-    "name": "2ef976af17b74478a4b2938d54bb3db4"
-  }
+  "catalogNs": null
 }

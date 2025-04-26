@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "d86b590009184907967888718ac0aa28",
   "creationDate": "2023-10-02T15:48:19.555Z",
-  "lastModifiedDate": "2024-09-24T14:59:26.312Z",
+  "lastModifiedDate": "2025-04-25T02:38:32.138Z",
   "effectiveDate": "2024-02-14T13:00:00.000Z",
   "viewableDate": "2023-10-24T16:00:00.000Z",
   "developer": null,
@@ -68,7 +68,22 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18836,
+      "referenceCount": 18840,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1544,
       "comment": null
     },
     {
@@ -94,21 +109,6 @@
       "status": "ACTIVE",
       "referenceCount": 392,
       "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1543,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -119,6 +119,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -163,7 +167,5 @@
       "id": "1749d246cb1942789935f52cc1125f7a"
     }
   ],
-  "catalogNs": {
-    "name": "e0ee1d8777e441d3ae01f796ed427261"
-  }
+  "catalogNs": null
 }

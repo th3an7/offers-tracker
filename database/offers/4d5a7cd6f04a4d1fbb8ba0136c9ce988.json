@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "remnant-from-the-ashes--swamps-of-corsus",
-  "creationDate": "2025-02-26T22:37:16.413Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.126Z",
+  "creationDate": "2020-07-31T17:57:29.448Z",
+  "lastModifiedDate": "2025-04-25T21:38:23.175Z",
   "effectiveDate": "2020-08-13T15:00:00.000Z",
   "viewableDate": "2025-03-05T21:27:03.000Z",
   "developer": null,
@@ -83,8 +83,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18836,
+      "referenceCount": 18840,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2025-04-09T15:12:29.485Z",
+      "status": "ACTIVE",
+      "referenceCount": 15,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -107,6 +119,10 @@
     {
       "key": "publisherName",
       "value": "Arc Games"
+    },
+    {
+      "key": "isManuallySetPCReleaseDate",
+      "value": "true"
     },
     {
       "key": "developerName",
@@ -187,7 +203,5 @@
       "id": "14d1517dbd7242bcb5cb94881ca1c28f"
     }
   ],
-  "catalogNs": {
-    "name": "663e521f2a444199be58152fd93fa66e"
-  }
+  "catalogNs": null
 }
