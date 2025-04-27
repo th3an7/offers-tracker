@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "a209374c29a449f197ce7cc82f1150f2",
   "creationDate": "2024-09-23T21:09:19.483Z",
-  "lastModifiedDate": "2025-03-07T21:54:28.763Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-04-26T02:30:56.472Z",
+  "effectiveDate": "2025-04-29T20:00:00.000Z",
   "viewableDate": "2024-11-25T21:53:54.000Z",
   "developer": null,
   "seller": {
@@ -96,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 18842,
+      "comment": null
+    },
+    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -105,18 +117,6 @@
       "updated": "2023-08-23T05:17:12.960Z",
       "status": "ACTIVE",
       "referenceCount": 204,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18840,
       "comment": null
     }
   ],
@@ -154,19 +154,19 @@
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-19qik.jpg",
-      "md5": "8c6508a19f37e20e511eb91871c3924b",
-      "size": 588253,
-      "uploadedDate": "2024-09-23T21:40:34.429Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1nkqx.jpg",
+      "md5": "d5a14e55a8a5f9a65ae1e005fc47e279",
+      "size": 1000755,
+      "uploadedDate": "2025-04-21T21:22:39.357Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-19qik.jpg",
-      "md5": "8c6508a19f37e20e511eb91871c3924b",
-      "size": 588253,
-      "uploadedDate": "2024-09-23T21:40:34.429Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-1nkqx.jpg",
+      "md5": "d5a14e55a8a5f9a65ae1e005fc47e279",
+      "size": 1000755,
+      "uploadedDate": "2025-04-21T21:22:39.357Z",
       "width": 1200,
       "height": 1600
     },
@@ -313,6 +313,24 @@
       "uploadedDate": "2025-03-04T22:55:58.585Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://8b68bde9-2436-44f9-9a90-ce0c0f326a93?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff0ac8939c29044bd9c188cb3146d122d%2Fdeadzone-rogue-video-jjqzp.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 289572220,
+      "uploadedDate": "2025-04-21T21:30:34.886Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OgImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/f0ac8939c29044bd9c188cb3146d122d/deadzone-rogue-2qdod.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 418097,
+      "uploadedDate": "2025-04-21T21:19:20.540Z",
+      "width": 1200,
+      "height": 1200
     }
   ],
   "items": [
