@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "48e33c27d5ba4e6c8004d6a1213414cf",
   "creationDate": "2023-10-27T16:22:45.023Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.162Z",
+  "lastModifiedDate": "2025-04-27T23:54:35.004Z",
   "effectiveDate": "2024-09-27T20:30:00.000Z",
   "viewableDate": "2024-09-02T03:00:00.000Z",
   "developer": null,
@@ -36,18 +36,6 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
-    },
-    {
       "id": "1218",
       "name": "Horror",
       "namespace": "epic",
@@ -68,8 +56,20 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5138,
+      "referenceCount": 5148,
       "comment": ""
+    },
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-08-23T03:24:56.304Z",
+      "status": "ACTIVE",
+      "referenceCount": 519,
+      "comment": null
     },
     {
       "id": "1370",
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18842,
+      "referenceCount": 18849,
       "comment": null
     },
     {
@@ -133,28 +133,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/bda436a6b11d42fea1d6774afe2c48c2/deadly-contagion-kem92.jpg",
-      "md5": "e9f5ea2b21de3194c9a1b98bfe934704",
-      "size": 673150,
-      "uploadedDate": "2024-08-25T17:45:56.993Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/bda436a6b11d42fea1d6774afe2c48c2/deadly-contagion-adym1.png",
+      "md5": "3ad60f3230e234db839154fb69a71c7d",
+      "size": 2762550,
+      "uploadedDate": "2025-04-26T19:08:15.025Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/bda436a6b11d42fea1d6774afe2c48c2/deadly-contagion-9ft1i.png",
-      "md5": "0dd1b45849abe6831995ebc36ff3749d",
-      "size": 1775170,
-      "uploadedDate": "2024-08-19T01:19:36.201Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/bda436a6b11d42fea1d6774afe2c48c2/deadly-contagion-154pf.png",
+      "md5": "64e89f30c69b6fd81835f638ed1f61a5",
+      "size": 1942004,
+      "uploadedDate": "2025-04-26T19:11:38.646Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/bda436a6b11d42fea1d6774afe2c48c2/deadly-contagion-9ft1i.png",
-      "md5": "0dd1b45849abe6831995ebc36ff3749d",
-      "size": 1775170,
-      "uploadedDate": "2024-08-19T01:19:36.201Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/bda436a6b11d42fea1d6774afe2c48c2/deadly-contagion-154pf.png",
+      "md5": "64e89f30c69b6fd81835f638ed1f61a5",
+      "size": 1942004,
+      "uploadedDate": "2025-04-26T19:11:38.646Z",
       "width": 1200,
       "height": 1600
     }
