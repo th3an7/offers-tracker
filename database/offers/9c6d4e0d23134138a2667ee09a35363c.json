@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "7d356c8cf1df4c5d873b83e2e9020508",
   "creationDate": "2023-11-02T08:34:28.028Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.089Z",
+  "lastModifiedDate": "2025-04-28T20:37:57.766Z",
   "effectiveDate": "2023-11-13T18:00:00.000Z",
   "viewableDate": "2023-11-13T18:00:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19003,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -69,18 +81,6 @@
       "updated": "2023-08-21T17:22:53.154Z",
       "status": "ACTIVE",
       "referenceCount": 416,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 18849,
       "comment": null
     },
     {
@@ -106,6 +106,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -117,30 +121,75 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-k14h1.png",
-      "md5": "5a2fa54a42bcd5ee4dda4dac62d550d4",
-      "size": 1046111,
-      "uploadedDate": "2023-11-02T15:12:32.561Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-15333.png",
+      "md5": "6bd69270c4acdcf28a173bc0b91e3c94",
+      "size": 3728100,
+      "uploadedDate": "2025-04-28T12:36:50.869Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-1to1f.png",
-      "md5": "9a65e166b47b1bd2fbb73b1943aa0643",
-      "size": 1557582,
-      "uploadedDate": "2023-11-02T15:12:32.763Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-wizer.png",
+      "md5": "b273b10f65719d13fce095bf622fb843",
+      "size": 2106841,
+      "uploadedDate": "2025-04-28T12:38:18.176Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-1to1f.png",
-      "md5": "9a65e166b47b1bd2fbb73b1943aa0643",
-      "size": 1557582,
-      "uploadedDate": "2023-11-02T15:12:32.763Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-wizer.png",
+      "md5": "b273b10f65719d13fce095bf622fb843",
+      "size": 2106841,
+      "uploadedDate": "2025-04-28T12:38:18.176Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-1orh8.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1441954,
+      "uploadedDate": "2025-04-28T12:39:42.015Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-1orss.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1203802,
+      "uploadedDate": "2025-04-28T12:39:39.997Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-d1qls.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1296059,
+      "uploadedDate": "2025-04-28T12:39:39.132Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-1315s.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1059983,
+      "uploadedDate": "2025-04-28T12:39:41.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a7e19ef4c6174dd09776e7d9e44459fc/classic-car-simulator-car-driving-lwwqu.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1505121,
+      "uploadedDate": "2025-04-28T12:39:41.388Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

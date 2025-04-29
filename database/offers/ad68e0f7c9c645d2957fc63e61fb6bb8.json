@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "f8bbbda7b8e246ba8eb4c00363e31a71",
   "creationDate": "2025-03-07T07:08:18.642Z",
-  "lastModifiedDate": "2025-04-21T06:05:26.304Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-04-29T00:39:31.209Z",
+  "effectiveDate": "2025-05-04T07:00:00.000Z",
   "viewableDate": "2025-03-12T03:00:00.000Z",
   "developer": null,
   "seller": {
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "33639",
-      "name": "Promotional Content",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-01-30T16:42:20.388Z",
-      "updated": "2024-02-05T20:14:29.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 323,
-      "comment": ""
-    },
-    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -68,7 +56,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5148,
+      "referenceCount": 5154,
       "comment": ""
     },
     {
@@ -92,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18849,
+      "referenceCount": 19003,
       "comment": null
     },
     {
@@ -118,6 +106,18 @@
       "status": "ACTIVE",
       "referenceCount": 250,
       "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "Local Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2024-03-28T21:48:38.999Z",
+      "status": "ACTIVE",
+      "referenceCount": 168,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -131,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
