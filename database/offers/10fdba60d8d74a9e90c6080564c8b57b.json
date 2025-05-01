@@ -3,12 +3,12 @@
   "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
   "title": "Expedition Units Pack",
   "description": "The ‘Expedition Units’ pack expands the German faction with a set of winter themed uniforms and accessories, plus a set of battle hardened elite troops. It contains two sets of uniforms for all classes, plus a wealth of headgear options.",
-  "longDescription": "The ‘Expedition Units’ pack contains a mix of elite troops and thick winter uniforms. For when the temperature drops you have Gebirgsjäger and Alpenkorps alongside regular troops geared up for cold weather, or strike fear into your enemies with elite units like the Royal Bavarian Lifeguards and extra heavily kitted out, grenade laden stormtroopers. There are seven mustaches and beards, two facial items, plus three faces. \n\n# The ‘Expedition Units’ pack contains 48 items:\n- 12 German Uniforms\n- 24 German Headgear Items\n- 2 Facial Items\n- 7 Mustaches\n- 3 Faces\n\nThere is a wide variety of German uniforms included in this pack, from the high ranking Generalmajor and specialist Alpenkorps uniform with skis, to the Royal Bavarian Lifeguards rifleman. For cold weather you’ll find wind jackets, great coats and balaclavas to make sure every class can dress for battle in freezing conditions! \n\nHeadgear includes the unusual “Stirnpanzer” helmets with extra armor plate, a stahlhelm hastily camouflaged with clay, and the distinctive (and antiquated) “Pickelhaube”! Many helmets include options with balaclavas, goggles, or other details appropriate for winter warfare. For those with a passion for fashion - but not necessarily practicality - the German staff officer Picklehaube offers a masterclass in military splendor.\n\nA variety of facial hair is included, with two mustaches depicting the famous Generals August Von Mackensen and Paul Von Hindenburg, and a third portraying the infamous fictional Corporal Himmelstoss from the silver screen. Four beards are inspired by notable German scientists, including your favorite mathematician Bernhard Riemann, and Heinrich Hertz who had the unit of frequency named after him!\n\nFrom a well-kempt straight beard, to thick stubble, to a magnificent neckbeard, show your love for science. There are also two facial items with broken glasses, if you’ve been in serious combat between pondering theorems.\n\n_NOTE: THIS DLC (LIKE ALL OUR DLCS) CONTAINS COSMETIC CONTENT ONLY._",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe ‘Expedition Units’ pack contains a mix of elite troops and thick winter uniforms. For when the temperature drops you have Gebirgsjäger and Alpenkorps alongside regular troops geared up for cold weather, or strike fear into your enemies with elite units like the Royal Bavarian Lifeguards and extra heavily kitted out, grenade laden stormtroopers. There are seven mustaches and beards, two facial items, plus three faces.\n\n<!--textBlock-->\n<!--title-->\n# The ‘Expedition Units’ pack contains 48 items:\n<!--text-->\n- 12 German Uniforms\n- 24 German Headgear Items\n- 2 Facial Items\n- 7 Mustaches\n- 3 Faces\n\nThere is a wide variety of German uniforms included in this pack, from the high ranking Generalmajor and specialist Alpenkorps uniform with skis, to the Royal Bavarian Lifeguards rifleman. For cold weather you’ll find wind jackets, great coats and balaclavas to make sure every class can dress for battle in freezing conditions! \n\nHeadgear includes the unusual “Stirnpanzer” helmets with extra armor plate, a stahlhelm hastily camouflaged with clay, and the distinctive (and antiquated) “Pickelhaube”! Many helmets include options with balaclavas, goggles, or other details appropriate for winter warfare. For those with a passion for fashion - but not necessarily practicality - the German staff officer Picklehaube offers a masterclass in military splendor.\n\nA variety of facial hair is included, with two mustaches depicting the famous Generals August Von Mackensen and Paul Von Hindenburg, and a third portraying the infamous fictional Corporal Himmelstoss from the silver screen. Four beards are inspired by notable German scientists, including your favorite mathematician Bernhard Riemann, and Heinrich Hertz who had the unit of frequency named after him!\n\nFrom a well-kempt straight beard, to thick stubble, to a magnificent neckbeard, show your love for science. There are also two facial items with broken glasses, if you’ve been in serious combat between pondering theorems.\n\n_NOTE: THIS DLC (LIKE ALL OUR DLCS) CONTAINS COSMETIC CONTENT ONLY._\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "isonzo--expedition-units-pack",
   "creationDate": "2022-11-09T23:10:31.324Z",
-  "lastModifiedDate": "2024-09-27T19:23:35.356Z",
+  "lastModifiedDate": "2025-04-30T19:03:35.307Z",
   "effectiveDate": "2023-05-17T13:00:00.000Z",
   "viewableDate": "2023-05-11T13:00:00.000Z",
   "developer": null,
@@ -60,16 +60,16 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "referenceCount": 2070,
+      "comment": ""
     },
     {
       "id": "19847",
@@ -80,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5167,
+      "referenceCount": 5179,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19030,
+      "referenceCount": 19059,
       "comment": null
     },
     {
@@ -128,39 +128,56 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3809,
+      "referenceCount": 3819,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1561,
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "BlackMill Games"
+    },
+    {
+      "key": "developerName",
+      "value": "BlackMill Games"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_ExpeditionUnitsPack_BlackMillGames_DLC_S2_1200x1600-12742e2cf271b78de3da690606856cad",
-      "md5": "12742e2cf271b78de3da690606856cad",
-      "size": 2688559,
-      "uploadedDate": "2023-05-10T22:31:17.887Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_ExpeditionUnitsPack_BlackMillGames_DLC_S2_1200x1600-12742e2cf271b78de3da690606856cad",
-      "md5": "12742e2cf271b78de3da690606856cad",
-      "size": 2688559,
-      "uploadedDate": "2023-05-10T22:31:21.630Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_ExpeditionUnitsPack_BlackMillGames_DLC_S1_2560x1440-806cd6113491fd6e2392d98f5ca0041f",
-      "md5": "806cd6113491fd6e2392d98f5ca0041f",
-      "size": 691816,
-      "uploadedDate": "2023-05-10T22:31:25.152Z",
-      "width": 2560,
-      "height": 1440
-    },
     {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_ExpeditionUnitsPack_BlackMillGames_DLC_S2_1200x1600-12742e2cf271b78de3da690606856cad",
@@ -180,15 +197,6 @@
       "height": 1440
     },
     {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_ExpeditionUnitsPack_BlackMillGames_DLC_IC1_200x200-92eafab8a5a9484ba5625690477890f0",
-      "md5": "92eafab8a5a9484ba5625690477890f0",
-      "size": 80564,
-      "uploadedDate": "2023-05-10T22:31:40.634Z",
-      "width": 200,
-      "height": 200
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_ExpeditionUnitsPack_BlackMillGames_DLC_S2_1200x1600-12742e2cf271b78de3da690606856cad",
       "md5": "12742e2cf271b78de3da690606856cad",
@@ -203,6 +211,24 @@
       "md5": "792f2a19840353c9e54c716813a96f9c",
       "size": 345692,
       "uploadedDate": "2024-09-27T19:23:19.895Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a1bb2de4e4fe45e4b98cc1c2ffc64614/isonzo-dc76i.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 455933,
+      "uploadedDate": "2025-04-18T11:17:05.848Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a1bb2de4e4fe45e4b98cc1c2ffc64614/isonzo-x28ie.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 464009,
+      "uploadedDate": "2025-04-18T11:17:08.967Z",
       "width": 1920,
       "height": 1080
     },

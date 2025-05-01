@@ -3,12 +3,12 @@
   "namespace": "30de69013f3b41b0ba594a8ef3b693ba",
   "title": "Glacial Units Pack",
   "description": "The ‘Glacial Units’ pack contains a set of improvised winter uniforms for Italy and Austria-Hungary. It contains a set of uniforms for all classes, plus headgear and facial items.",
-  "longDescription": "The ‘Glacial Units’ pack contains a series of uniforms for unprepared troops struggling to keep warm or stay concealed in the freezing conditions of the wintery Alps. Finding themselves fighting on Europe's highest peaks in frigid conditions the troops often had to scrape together whatever they could to prepare for the extreme cold. This pack has two sets of mostly improvised uniforms for all classes, plus moustaches and beards, facial items, and faces.\n\nIn the winter of 1915, both Italy and Austria-Hungary found themselves unprepared to properly equip their troops with cold-weather gear. As the snow settled, soldiers had to make do with what they could, and the range of uniforms included in this pack reflects that. In the glacial cold this apparel, paired with scarves, gloves and mittens, should help in trying to keep you warm (and alive) until the Spring.\n\nAs an Italian soldier you can wear a selection of greatcoats, a fashionable open army cape or a warm sheep’s wool vest. The Italian Alpini enjoy a uniform kitted out with ice climbing cleats and a stylish cape, while their officers can luxuriate with a fur collared greatcoat.  \n\nHeadgear includes the practical snow covers of the Austro-Hungarian Feldkappe, canvas Adrian helmets with goggles, and a wide array of improvised wraps to help keep your face out of the biting cold. Many of these variants are equipable with balaclavas, goggles, or other items appropriate for winter warfare. For those wishing to choose both warmth and style, the Italian officer gets a fur lined greatcoat which should be just the ticket!\n\nIncluded in this pack also are several facial hair styles. Choices range from the impractical whiskers of the KuK’s 79 year old soldier Gaspar Wallnöfer to the extravagant Victor Emmanuel II of Italy or the fancy Hulihee bearded sported by a young Franz-Joseph I. Facial customisation items include an array of glasses designed for snowy conditions, alongside a series of smoking pipes. For the soldier with a more expensive taste, there’s a fine cigar.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe ‘Glacial Units’ pack contains a series of uniforms for unprepared troops struggling to keep warm or stay concealed in the freezing conditions of the wintery Alps. Finding themselves fighting on Europe's highest peaks in frigid conditions the troops often had to scrape together whatever they could to prepare for the extreme cold. This pack has two sets of mostly improvised uniforms for all classes, plus moustaches and beards, facial items, and faces.\n\nIn the winter of 1915, both Italy and Austria-Hungary found themselves unprepared to properly equip their troops with cold-weather gear. As the snow settled, soldiers had to make do with what they could, and the range of uniforms included in this pack reflects that. In the glacial cold this apparel, paired with scarves, gloves and mittens, should help in trying to keep you warm (and alive) until the Spring.\n\nAs an Italian soldier you can wear a selection of greatcoats, a fashionable open army cape or a warm sheep’s wool vest. The Italian Alpini enjoy a uniform kitted out with ice climbing cleats and a stylish cape, while their officers can luxuriate with a fur collared greatcoat.  \n\nHeadgear includes the practical snow covers of the Austro-Hungarian Feldkappe, canvas Adrian helmets with goggles, and a wide array of improvised wraps to help keep your face out of the biting cold. Many of these variants are equipable with balaclavas, goggles, or other items appropriate for winter warfare. For those wishing to choose both warmth and style, the Italian officer gets a fur lined greatcoat which should be just the ticket!\n\nIncluded in this pack also are several facial hair styles. Choices range from the impractical whiskers of the KuK’s 79 year old soldier Gaspar Wallnöfer to the extravagant Victor Emmanuel II of Italy or the fancy Hulihee bearded sported by a young Franz-Joseph I. Facial customisation items include an array of glasses designed for snowy conditions, alongside a series of smoking pipes. For the soldier with a more expensive taste, there’s a fine cigar.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "isonzo--glacial-units-pack",
   "creationDate": "2023-08-16T17:58:01.043Z",
-  "lastModifiedDate": "2024-09-16T15:02:03.187Z",
+  "lastModifiedDate": "2025-04-30T19:03:35.307Z",
   "effectiveDate": "2023-11-09T11:30:00.000Z",
   "viewableDate": "2023-09-07T10:30:00.000Z",
   "developer": null,
@@ -60,16 +60,16 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
+      "referenceCount": 2070,
+      "comment": ""
     },
     {
       "id": "19847",
@@ -80,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5167,
+      "referenceCount": 5179,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19030,
+      "referenceCount": 19059,
       "comment": null
     },
     {
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3809,
+      "referenceCount": 3819,
       "comment": null
     },
     {
@@ -143,11 +143,40 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1544,
+      "referenceCount": 1561,
       "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "isManuallySetRefundableType",
+      "value": "true"
+    },
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "BlackMill Games"
+    },
+    {
+      "key": "developerName",
+      "value": "BlackMill Games"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -168,15 +197,6 @@
       "height": 1440
     },
     {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_GlacialUnitsPack_BlackMillGames_DLC_IC1_200x200-d3f18706bb6a8dd5a5fc2f0720926dec",
-      "md5": "d3f18706bb6a8dd5a5fc2f0720926dec",
-      "size": 86671,
-      "uploadedDate": "2023-09-06T01:21:20.183Z",
-      "width": 200,
-      "height": 200
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/offer/30de69013f3b41b0ba594a8ef3b693ba/EGS_GlacialUnitsPack_BlackMillGames_DLC_S2_1200x1600-a22d82174a95c8ba426f78de0d16fbce",
       "md5": "a22d82174a95c8ba426f78de0d16fbce",
@@ -184,6 +204,33 @@
       "uploadedDate": "2023-09-06T01:21:10.189Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a1bb2de4e4fe45e4b98cc1c2ffc64614/isonzo-1whwg.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 603832,
+      "uploadedDate": "2025-04-18T11:13:37.132Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a1bb2de4e4fe45e4b98cc1c2ffc64614/isonzo-1te7b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 521122,
+      "uploadedDate": "2025-04-18T11:13:43.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a1bb2de4e4fe45e4b98cc1c2ffc64614/isonzo-40gpv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 573743,
+      "uploadedDate": "2025-04-18T11:13:47.568Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "featuredMedia",
