@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "bridge-constructor-studio",
   "creationDate": "2025-04-02T12:54:43.944Z",
-  "lastModifiedDate": "2025-04-28T12:37:12.444Z",
+  "lastModifiedDate": "2025-05-02T11:10:37.154Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-04-28T15:00:00.000Z",
   "developer": null,
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19066,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19123,
+      "comment": null
+    },
+    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": "epic",
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3821,
+      "referenceCount": 3869,
       "comment": null
     },
     {
@@ -105,6 +105,21 @@
       "updated": "2023-08-23T05:17:12.988Z",
       "status": "ACTIVE",
       "referenceCount": 1176,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1564,
       "comment": null
     }
   ],
@@ -157,6 +172,15 @@
       "uploadedDate": "2025-04-17T07:04:20.185Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://92bda116-2d5e-409b-83ec-c92c71551831?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff1d15131f52f4ef7bc917ac348e2fe9d%2Fbridge-constructor-studio-video-702ip.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 229936718,
+      "uploadedDate": "2025-05-02T07:18:47.913Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "featuredMedia",

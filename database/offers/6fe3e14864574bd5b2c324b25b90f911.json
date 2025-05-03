@@ -1,15 +1,15 @@
 {
   "id": "6fe3e14864574bd5b2c324b25b90f911",
   "namespace": "8f36fddab8d940b5b39db100b695c819",
-  "title": "The Tales of Elysium Imperium: A Dream from Memory Shards",
+  "title": "The Tales of Elysian Imperium: A Dream from Memory Shards",
   "description": "A Tamil-made low poly rage-style game where you’ll face intense challenges across desert, mines, grassland, and snow. This is just the beginning—more exciting levels and environments are on the way. Built with passion by a solo developer for the Tamil gaming community.",
   "longDescription": "<!--textBlock-->\n<!--title-->\n# The Tales of Elysian Imperium: A Dream From Memory Shards\n<!--text-->\n**The Tales of Elysian Imperium: A Dream From Memory Shards** is a challenging, rage-style Game designed to push your skills, patience, and perseverance to the limit. Navigate through unforgiving terrain, master precise jumps, and overcome unpredictable traps in a surreal and mysterious world. Every mistake costs progress, but every success feels earned.\n\nThis is not just a test of skill—it’s a test of will.\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "7851e22b3fea48039527eb4cd222fa18",
-  "creationDate": "2025-04-22T14:11:39.277Z",
-  "lastModifiedDate": "2025-04-30T13:38:27.432Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2025-04-11T19:24:45.132Z",
+  "lastModifiedDate": "2025-05-02T08:53:53.840Z",
+  "effectiveDate": "2099-04-30T18:30:00.000Z",
   "viewableDate": "2025-04-22T18:30:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -48,6 +48,18 @@
       "comment": ""
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2319,
+      "comment": ""
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -56,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5179,
+      "referenceCount": 5185,
       "comment": ""
     },
     {
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19066,
+      "referenceCount": 19123,
       "comment": null
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3821,
+      "referenceCount": 3869,
       "comment": null
     },
     {
@@ -127,7 +139,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -169,6 +181,15 @@
       "uploadedDate": "2025-04-20T09:54:21.825Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://81357667-5d25-4c2f-ac66-2f4b913a36d9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2fc266e211b94c4d934e3cba244eff37%2Fthe-tales-of-elysian-imperium-a-dream-from-memory-shards-video-175zb.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 51416511,
+      "uploadedDate": "2025-04-22T17:08:05.553Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "featuredMedia",
