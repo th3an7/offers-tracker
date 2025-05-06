@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "4f1d58b1f9424a579b72a63069b23bee",
   "creationDate": "2024-10-12T16:34:04.127Z",
-  "lastModifiedDate": "2025-01-03T04:52:20.290Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-05-05T16:46:08.841Z",
+  "effectiveDate": "2025-05-05T05:00:00.000Z",
   "viewableDate": "2024-11-07T04:16:41.000Z",
   "developer": null,
   "seller": {
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2119,
+      "referenceCount": 2127,
       "comment": ""
     },
     {
@@ -72,18 +72,6 @@
       "comment": ""
     },
     {
-      "id": "33639",
-      "name": "Promotional Content",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-01-30T16:42:20.388Z",
-      "updated": "2024-02-05T20:14:29.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 327,
-      "comment": ""
-    },
-    {
       "id": "1336",
       "name": "Action-Adventure",
       "namespace": "epic",
@@ -93,6 +81,18 @@
       "updated": "2023-08-23T03:24:56.304Z",
       "status": "ACTIVE",
       "referenceCount": 519,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19144,
       "comment": null
     },
     {
@@ -120,18 +120,6 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19130,
-      "comment": null
-    },
-    {
       "id": "1310",
       "name": "EARLY ACCESS",
       "namespace": "epic",
@@ -141,18 +129,6 @@
       "updated": "2023-08-22T22:50:29.701Z",
       "status": "ACTIVE",
       "referenceCount": 250,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
       "comment": null
     },
     {
@@ -169,6 +145,18 @@
       "status": "ACTIVE",
       "referenceCount": 1564,
       "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -182,7 +170,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
