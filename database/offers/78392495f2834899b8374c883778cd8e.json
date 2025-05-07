@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "b8d86e9fc6734819acdec082096a413b",
-  "creationDate": "2025-04-23T18:38:34.053Z",
-  "lastModifiedDate": "2025-04-23T18:38:34.053Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-07-04T13:29:55.268Z",
+  "lastModifiedDate": "2025-05-06T09:57:53.616Z",
+  "effectiveDate": "2025-05-07T08:00:00.000Z",
   "viewableDate": "2025-04-23T18:38:32.000Z",
   "developer": null,
   "seller": {
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
-    },
     {
       "id": "29088",
       "name": "Online Multiplayer",
@@ -56,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2127,
+      "referenceCount": 2129,
       "comment": ""
     },
     {
@@ -84,6 +72,30 @@
       "comment": null
     },
     {
+      "id": "22775",
+      "name": "MMO",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T16:48:03.250Z",
+      "updated": "2023-08-22T10:15:49.955Z",
+      "status": "ACTIVE",
+      "referenceCount": 408,
+      "comment": ""
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 1140,
+      "comment": ""
+    },
+    {
       "id": "1210",
       "name": "Shooter",
       "namespace": "epic",
@@ -96,6 +108,18 @@
       "comment": null
     },
     {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2023-08-21T17:22:53.154Z",
+      "status": "ACTIVE",
+      "referenceCount": 416,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -104,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19144,
+      "referenceCount": 19156,
       "comment": null
     },
     {
@@ -116,7 +140,7 @@
       "created": "2022-06-24T20:06:43.344Z",
       "updated": "2024-10-25T20:00:26.146Z",
       "status": "ACTIVE",
-      "referenceCount": 270,
+      "referenceCount": 271,
       "comment": ""
     },
     {
@@ -139,7 +163,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
@@ -238,10 +262,10 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/3a4bb7c631764b6cb8f4078e62b59f06/drkvrs-pr1lb.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/3a4bb7c631764b6cb8f4078e62b59f06/drkvrs-1j1lc.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 868072,
-      "uploadedDate": "2025-04-07T08:08:30.307Z",
+      "size": 1921492,
+      "uploadedDate": "2025-04-29T11:39:10.182Z",
       "width": 1920,
       "height": 1080
     },
@@ -251,6 +275,15 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 652885,
       "uploadedDate": "2025-04-07T08:08:32.183Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/3a4bb7c631764b6cb8f4078e62b59f06/drkvrs-pr1lb.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 868072,
+      "uploadedDate": "2025-04-07T08:08:30.307Z",
       "width": 1920,
       "height": 1080
     }

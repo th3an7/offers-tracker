@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "6cc6502a4cad437aa2eaba7dd82dc127",
   "creationDate": "2023-03-10T14:29:57.747Z",
-  "lastModifiedDate": "2025-04-15T15:00:32.094Z",
+  "lastModifiedDate": "2025-05-06T17:27:16.055Z",
   "effectiveDate": "2023-04-27T05:00:00.000Z",
   "viewableDate": "2023-04-17T09:00:00.000Z",
   "developer": null,
@@ -68,7 +68,19 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2321,
+      "referenceCount": 2323,
+      "comment": ""
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 330,
       "comment": ""
     },
     {
@@ -80,7 +92,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5187,
+      "referenceCount": 5201,
       "comment": ""
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19144,
+      "referenceCount": 19156,
       "comment": null
     },
     {
@@ -116,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3880,
+      "referenceCount": 3888,
       "comment": null
     },
     {
@@ -139,6 +151,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "true"
     },
     {

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "738d6fc48ba34e78b7fd47184e9163c6",
   "creationDate": "2023-08-23T11:42:10.964Z",
-  "lastModifiedDate": "2025-04-29T15:00:29.318Z",
+  "lastModifiedDate": "2025-05-06T17:25:51.017Z",
   "effectiveDate": "2023-10-24T15:00:00.000Z",
   "viewableDate": "2023-09-15T20:00:00.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2321,
+      "referenceCount": 2323,
       "comment": ""
     },
     {
@@ -84,6 +84,18 @@
       "comment": null
     },
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 330,
+      "comment": ""
+    },
+    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -92,7 +104,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5187,
+      "referenceCount": 5201,
       "comment": ""
     },
     {
@@ -116,7 +128,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19144,
+      "referenceCount": 19156,
       "comment": null
     }
   ],
@@ -127,6 +139,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "true"
     },
     {
