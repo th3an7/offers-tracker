@@ -8,7 +8,7 @@
   "productSlug": "spellforce-conquest-of-eo",
   "urlSlug": "spellforce-conquest-of-eo",
   "creationDate": "2022-06-09T19:43:17.037Z",
-  "lastModifiedDate": "2025-04-09T15:12:20.170Z",
+  "lastModifiedDate": "2025-05-07T13:19:18.441Z",
   "effectiveDate": "2023-02-03T14:00:00.000Z",
   "viewableDate": "2022-07-05T15:00:00.000Z",
   "developer": null,
@@ -59,7 +59,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5201,
+      "referenceCount": 5204,
       "comment": ""
     },
     {
@@ -75,6 +75,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19168,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -84,18 +96,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19156,
       "comment": null
     }
   ],
@@ -107,6 +107,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "com.epicgames.app.blacklist",
@@ -121,12 +125,12 @@
       "value": "Owned by Gravity"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "spellforce-conquest-of-eo"
-    },
-    {
       "key": "isBlockchainUsed",
       "value": "false"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "spellforce-conquest-of-eo"
     }
   ],
   "keyImages": [

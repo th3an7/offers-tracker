@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "b342d5c50b5240e59a3002565cb0dc2a",
   "creationDate": "2025-02-17T10:28:14.378Z",
-  "lastModifiedDate": "2025-05-06T19:14:27.300Z",
+  "lastModifiedDate": "2025-05-07T15:49:20.688Z",
   "effectiveDate": "2025-05-07T15:00:00.000Z",
   "viewableDate": "2025-04-30T10:56:52.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -44,7 +44,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2323,
+      "referenceCount": 2327,
       "comment": ""
     },
     {
@@ -56,20 +56,8 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5201,
+      "referenceCount": 5204,
       "comment": ""
-    },
-    {
-      "id": "1386",
-      "name": "Turn-Based",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-08-23T02:13:23.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 188,
-      "comment": null
     },
     {
       "id": "1370",
@@ -84,15 +72,15 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
+      "id": "1386",
+      "name": "Turn-Based",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2023-08-23T02:13:23.565Z",
       "status": "ACTIVE",
-      "referenceCount": 19156,
+      "referenceCount": 188,
       "comment": null
     },
     {
@@ -105,6 +93,18 @@
       "updated": "2023-08-23T05:17:12.960Z",
       "status": "ACTIVE",
       "referenceCount": 204,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19168,
       "comment": null
     },
     {
