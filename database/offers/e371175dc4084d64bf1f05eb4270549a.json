@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "d48142fde4b44b7f94d432044ad91540",
   "creationDate": "2023-09-07T20:22:25.294Z",
-  "lastModifiedDate": "2024-01-29T23:59:40.799Z",
+  "lastModifiedDate": "2025-05-08T14:21:31.696Z",
   "effectiveDate": "2024-01-26T15:00:00.000Z",
   "viewableDate": "2024-01-24T05:00:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 334,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19168,
+      "referenceCount": 19177,
       "comment": null
     },
     {
@@ -115,6 +127,10 @@
     },
     {
       "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
       "value": "true"
     },
     {
@@ -153,6 +169,96 @@
       "uploadedDate": "2023-11-20T21:53:39.368Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://5ba20dd7-d211-44b8-8892-8578a90611a4?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa79f60733b8d46e7b3e9568a13d9ef56%2Freplikant-video-1k6vq.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 85117171,
+      "uploadedDate": "2024-11-19T19:13:40.718Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-14flb.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1657628,
+      "uploadedDate": "2024-11-19T19:24:37.594Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-usue0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1779362,
+      "uploadedDate": "2024-11-19T19:24:16.370Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-mx6ib.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2220556,
+      "uploadedDate": "2024-11-19T19:24:51.867Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-e39ki.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1941991,
+      "uploadedDate": "2024-11-19T19:24:26.040Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-f4x3q.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1881581,
+      "uploadedDate": "2024-11-22T10:45:46.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-1vsaq.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2393948,
+      "uploadedDate": "2024-11-22T10:45:46.996Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-12gsu.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2203929,
+      "uploadedDate": "2024-11-22T10:45:46.844Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-i2txb.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2165079,
+      "uploadedDate": "2024-11-22T10:54:42.327Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-1ft6s.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1920710,
+      "uploadedDate": "2024-11-22T11:00:17.780Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

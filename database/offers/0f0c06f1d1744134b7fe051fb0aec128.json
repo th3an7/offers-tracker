@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dawn-of-ages-beginner-s-bounty",
-  "creationDate": "2025-04-28T10:57:47.865Z",
-  "lastModifiedDate": "2025-04-28T10:57:47.865Z",
+  "creationDate": "2025-04-03T12:54:00.228Z",
+  "lastModifiedDate": "2025-05-08T07:36:37.310Z",
   "effectiveDate": "2025-04-28T13:00:00.000Z",
   "viewableDate": "2025-04-28T10:57:42.000Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "spthidden"
     },
     {
-      "path": "addons/durable"
+      "path": "spthidden/notvisible/durable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -65,7 +68,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 1140,
+      "referenceCount": 1141,
       "comment": ""
     },
     {
@@ -101,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19168,
+      "referenceCount": 19177,
       "comment": null
     }
   ],
