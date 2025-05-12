@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a561238ec6d0455a9719e57a8e47c15c",
   "creationDate": "2024-08-01T12:52:36.559Z",
-  "lastModifiedDate": "2025-05-06T17:30:59.795Z",
+  "lastModifiedDate": "2025-05-11T02:31:07.368Z",
   "effectiveDate": "2025-05-10T07:00:00.000Z",
   "viewableDate": "2025-04-14T16:04:02.000Z",
   "developer": null,
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "31313",
-      "name": "First Run",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-10-03T19:30:05.570Z",
-      "updated": "2023-12-04T19:06:05.172Z",
-      "status": "ACTIVE",
-      "referenceCount": 268,
-      "comment": ""
-    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -60,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19191,
-      "comment": null
-    },
-    {
       "id": "1083",
       "name": "Rogue-Lite",
       "namespace": "epic",
@@ -81,6 +57,18 @@
       "updated": "2023-08-23T05:17:12.960Z",
       "status": "ACTIVE",
       "referenceCount": 204,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19193,
       "comment": null
     },
     {
