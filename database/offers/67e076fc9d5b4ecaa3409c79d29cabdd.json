@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "274e408496824ae9a1a5c98fd1153629",
   "creationDate": "2024-08-21T03:52:28.557Z",
-  "lastModifiedDate": "2024-12-23T05:08:22.697Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-05-13T15:06:21.721Z",
+  "effectiveDate": "2025-05-15T15:00:00.000Z",
   "viewableDate": "2024-11-07T07:26:06.000Z",
   "developer": null,
   "seller": {
@@ -36,28 +36,40 @@
   ],
   "tags": [
     {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
-    },
-    {
-      "id": "22775",
-      "name": "MMO",
+      "id": "29088",
+      "name": "Online Multiplayer",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-09-13T16:48:03.250Z",
-      "updated": "2023-08-22T10:15:49.955Z",
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 410,
+      "referenceCount": 2439,
       "comment": ""
+    },
+    {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2335,
+      "comment": ""
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
     },
     {
       "id": "1370",
@@ -80,7 +92,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19193,
+      "referenceCount": 19241,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "Open World",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2023-08-21T17:22:53.154Z",
+      "status": "ACTIVE",
+      "referenceCount": 416,
       "comment": null
     },
     {
@@ -105,18 +129,6 @@
       "updated": "2023-08-22T22:50:29.701Z",
       "status": "ACTIVE",
       "referenceCount": 250,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -171,20 +183,29 @@
       "height": 1600
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-yw76q.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 3561993,
-      "uploadedDate": "2024-11-12T02:04:11.678Z",
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://22c863c4-fcf3-45fd-9fd9-f85ccf1d3283?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2543894b59ca408b9da109239139779f%2Fsoulmask-video-s13hi.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 305137979,
+      "uploadedDate": "2025-04-29T06:44:16.404Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1btno.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1904173,
-      "uploadedDate": "2024-11-12T02:04:13.943Z",
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://8d3b2ef9-7550-4826-9ac2-c75ef49add50?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2543894b59ca408b9da109239139779f%2Fsoulmask-video-1cszy.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 243848823,
+      "uploadedDate": "2025-04-18T02:23:47.365Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://8ef12243-fd1f-4f79-b4f4-ca1cc558ad17?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2543894b59ca408b9da109239139779f%2Fsoulmask-video-10ia2.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 283176091,
+      "uploadedDate": "2025-04-29T06:29:59.921Z",
       "width": 1920,
       "height": 1080
     },
@@ -199,6 +220,15 @@
     },
     {
       "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-yw76q.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3561993,
+      "uploadedDate": "2024-11-12T02:04:11.678Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-h4qpr.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 1438928,
@@ -208,37 +238,28 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1veny.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1gvo6.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2532745,
-      "uploadedDate": "2024-10-25T10:18:00.334Z",
+      "size": 1528504,
+      "uploadedDate": "2025-04-29T07:11:21.652Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1djf4.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1btno.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2051338,
-      "uploadedDate": "2024-10-25T10:18:02.322Z",
+      "size": 1904173,
+      "uploadedDate": "2024-11-12T02:04:13.943Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1ysru.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1q3l1.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1217727,
-      "uploadedDate": "2024-10-25T10:18:01.175Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-mj8zz.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1851542,
-      "uploadedDate": "2024-10-25T10:17:59.758Z",
+      "size": 998214,
+      "uploadedDate": "2025-04-29T07:11:24.128Z",
       "width": 1920,
       "height": 1080
     },
@@ -253,37 +274,64 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-6wg5i.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-mj8zz.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1851591,
-      "uploadedDate": "2024-10-25T10:18:00.895Z",
+      "size": 1851542,
+      "uploadedDate": "2024-10-25T10:17:59.758Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-sh89t.jpg",
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-mis9k.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1164539,
-      "uploadedDate": "2024-10-25T10:17:59.179Z",
+      "size": 867761,
+      "uploadedDate": "2025-04-29T07:33:18.240Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-13kbl.jpg",
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-19di4.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1028387,
-      "uploadedDate": "2024-10-25T10:17:59.463Z",
+      "size": 243977,
+      "uploadedDate": "2025-04-29T07:33:17.741Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1eg4h.jpg",
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1bmz4.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1093562,
-      "uploadedDate": "2024-10-25T10:18:01.756Z",
+      "size": 803945,
+      "uploadedDate": "2025-04-29T07:33:18.311Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-15hyd.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 361040,
+      "uploadedDate": "2025-04-29T07:33:22.517Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-dxdni.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 314160,
+      "uploadedDate": "2025-04-29T07:33:18.345Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-xubzt.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 299572,
+      "uploadedDate": "2025-04-29T07:33:17.704Z",
       "width": 1920,
       "height": 1080
     }
