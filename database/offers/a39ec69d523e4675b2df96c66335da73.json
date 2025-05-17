@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "c9f414d54bf54794b27618ecdb2fffb1",
   "creationDate": "2023-07-24T11:33:23.958Z",
-  "lastModifiedDate": "2023-10-29T21:04:30.121Z",
+  "lastModifiedDate": "2025-05-16T13:04:01.873Z",
   "effectiveDate": "2023-10-30T16:00:00.000Z",
   "viewableDate": "2023-10-20T09:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2446,
+      "referenceCount": 2453,
       "comment": ""
     },
     {
@@ -80,8 +80,20 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 1155,
+      "referenceCount": 1156,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19286,
+      "comment": null
     },
     {
       "id": "21739",
@@ -96,18 +108,6 @@
       "comment": ""
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19278,
-      "comment": null
-    },
-    {
       "id": "1310",
       "name": "EARLY ACCESS",
       "namespace": "epic",
@@ -117,18 +117,6 @@
       "updated": "2023-08-22T22:50:29.701Z",
       "status": "ACTIVE",
       "referenceCount": 250,
-      "comment": null
-    },
-    {
-      "id": "1151",
-      "name": "Platformer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-08-23T04:44:32.409Z",
-      "status": "ACTIVE",
-      "referenceCount": 392,
       "comment": null
     },
     {
@@ -145,6 +133,18 @@
       "status": "ACTIVE",
       "referenceCount": 1575,
       "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "Platformer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2023-08-23T04:44:32.409Z",
+      "status": "ACTIVE",
+      "referenceCount": 392,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -155,6 +155,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
