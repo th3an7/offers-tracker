@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "thor-offer",
-  "creationDate": "2025-05-19T08:05:28.627Z",
-  "lastModifiedDate": "2025-05-19T08:05:28.627Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2025-05-05T10:19:31.297Z",
+  "lastModifiedDate": "2025-05-21T07:04:53.350Z",
+  "effectiveDate": "2025-05-22T22:00:00.000Z",
   "viewableDate": "2025-05-19T08:05:10.000Z",
   "developer": null,
   "seller": {
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "spthidden"
     },
     {
-      "path": "addons/consumable"
+      "path": "spthidden/notvisible/consumable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -41,7 +44,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19345,
+      "referenceCount": 19348,
       "comment": null
     }
   ],
@@ -52,7 +55,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
