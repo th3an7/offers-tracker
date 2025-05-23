@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "fab5057858fc4ae5bb337895dbb430d2",
-  "creationDate": "2024-05-23T16:36:26.553Z",
-  "lastModifiedDate": "2024-05-23T16:36:26.553Z",
+  "creationDate": "2022-03-21T10:47:47.307Z",
+  "lastModifiedDate": "2025-05-22T16:16:28.935Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-05-23T17:00:00.000Z",
   "developer": null,
@@ -46,6 +46,18 @@
       "status": "ACTIVE",
       "referenceCount": 2167,
       "comment": null
+    },
+    {
+      "id": "21380",
+      "name": "Warhammer Skulls Festival",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-06-01T01:03:29.688Z",
+      "updated": "2025-05-22T13:00:28.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 109,
+      "comment": ""
     },
     {
       "id": "1367",
@@ -92,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19348,
+      "referenceCount": 19401,
       "comment": null
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4238,
+      "referenceCount": 4252,
       "comment": null
     }
   ],
@@ -119,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -157,6 +169,186 @@
       "uploadedDate": "2024-05-10T14:52:55.182Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://1d7fee9d-7ee0-4eea-9560-d094497e718a?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F005efd0d94ac4e139c6fa86b716f8b62%2Fwarhammer-40k-mechanicus-2-video-1k8jf.png&vtt=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F005efd0d94ac4e139c6fa86b716f8b62%2Fwarhammer-40k-mechanicus-2-video-captions-qvaws.vtt",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 255260529,
+      "uploadedDate": "2025-05-14T14:54:45.819Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://562c98ec-e9df-42fe-bb1d-8ca3a05875d8?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F005efd0d94ac4e139c6fa86b716f8b62%2Fwarhammer-40k-mechanicus-2-video-352gm.png&vtt=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F005efd0d94ac4e139c6fa86b716f8b62%2Fwarhammer-40k-mechanicus-2-video-captions-176kp.vtt",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 148202587,
+      "uploadedDate": "2024-05-14T13:49:34.117Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-1stdn.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2177183,
+      "uploadedDate": "2025-05-14T15:01:33.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-1clmq.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2369768,
+      "uploadedDate": "2025-05-14T15:01:34.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-1h14x.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1846248,
+      "uploadedDate": "2025-05-14T15:01:33.860Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-1bdst.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1966114,
+      "uploadedDate": "2025-05-14T15:01:33.962Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-eww8n.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1711730,
+      "uploadedDate": "2025-05-14T15:01:34.560Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-3yiho.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2028399,
+      "uploadedDate": "2025-05-14T15:01:33.589Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-3lde9.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2372557,
+      "uploadedDate": "2025-05-14T15:01:33.910Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-6np3m.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1066053,
+      "uploadedDate": "2025-05-14T15:01:34.798Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-17xer.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1965375,
+      "uploadedDate": "2025-05-14T15:01:34.109Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-1djvi.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2218526,
+      "uploadedDate": "2025-05-14T15:01:33.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-nvxul.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1746458,
+      "uploadedDate": "2025-05-14T15:01:34.158Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-1xz7l.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2345879,
+      "uploadedDate": "2025-05-14T15:01:34.676Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-hji09.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2237987,
+      "uploadedDate": "2025-05-14T15:01:34.208Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-c9rpc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2250227,
+      "uploadedDate": "2025-05-14T15:01:33.634Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-15yy9.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1606106,
+      "uploadedDate": "2025-05-14T15:01:33.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-9lzpf.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2143030,
+      "uploadedDate": "2025-05-14T15:01:34.262Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-2sqyg.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1878056,
+      "uploadedDate": "2025-05-14T15:01:34.010Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/005efd0d94ac4e139c6fa86b716f8b62/warhammer-40k-mechanicus-2-r9z90.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 960650,
+      "uploadedDate": "2025-05-14T15:01:33.421Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
