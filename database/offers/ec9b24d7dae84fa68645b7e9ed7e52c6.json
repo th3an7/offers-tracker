@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "cd4304b032534cf89a166241c23b32d5-06",
+  "urlSlug": "cd4304b032534cf89a166241c23b32d5-09",
   "creationDate": "2023-09-08T22:14:48.865Z",
-  "lastModifiedDate": "2025-05-18T12:15:27.687Z",
+  "lastModifiedDate": "2025-05-26T06:50:39.839Z",
   "effectiveDate": "2023-11-09T18:00:00.000Z",
   "viewableDate": "2023-11-09T18:00:00.000Z",
   "developer": null,
@@ -92,7 +92,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5283,
+      "referenceCount": 5284,
       "comment": ""
     },
     {
@@ -108,6 +108,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19449,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -120,30 +132,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19438,
-      "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2025-05-15T15:00:30.118Z",
-      "status": "ACTIVE",
-      "referenceCount": 3357,
-      "comment": ""
-    },
-    {
       "id": "21119",
       "name": "Great for Beginners",
       "namespace": null,
@@ -152,7 +140,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 506,
+      "referenceCount": 510,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -164,6 +152,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

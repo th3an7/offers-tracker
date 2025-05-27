@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "roadcraft",
   "creationDate": "2025-01-21T10:44:28.139Z",
-  "lastModifiedDate": "2025-05-23T12:05:07.663Z",
+  "lastModifiedDate": "2025-05-26T23:02:48.627Z",
   "effectiveDate": "2025-05-20T15:00:00.000Z",
   "viewableDate": "2025-05-20T15:00:00.000Z",
   "developer": null,
@@ -36,18 +36,6 @@
   ],
   "tags": [
     {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
-      "comment": null
-    },
-    {
       "id": "29088",
       "name": "Online Multiplayer",
       "namespace": null,
@@ -60,15 +48,15 @@
       "comment": ""
     },
     {
-      "id": "1393",
-      "name": "Simulation",
+      "id": "1188",
+      "name": "RELAXING",
       "namespace": "epic",
-      "aliases": [],
+      "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
+      "created": "2019-06-20T11:59:51.840Z",
+      "updated": "2023-08-22T13:54:28.456Z",
       "status": "ACTIVE",
-      "referenceCount": 943,
+      "referenceCount": 344,
       "comment": null
     },
     {
@@ -104,7 +92,91 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5283,
+      "referenceCount": 5284,
+      "comment": ""
+    },
+    {
+      "id": "21127",
+      "name": "Creative Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:58.023Z",
+      "updated": "2023-08-22T10:58:47.680Z",
+      "status": "ACTIVE",
+      "referenceCount": 309,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19449,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
+      "id": "21138",
+      "name": "Recommend this Game",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:29:17.831Z",
+      "updated": "2023-08-22T10:58:47.687Z",
+      "status": "ACTIVE",
+      "referenceCount": 692,
+      "comment": ""
+    },
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2023-08-22T10:58:47.673Z",
+      "status": "ACTIVE",
+      "referenceCount": 638,
+      "comment": ""
+    },
+    {
+      "id": "21141",
+      "name": "Extremely Fun",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2023-08-22T20:28:22.857Z",
+      "status": "ACTIVE",
+      "referenceCount": 655,
       "comment": ""
     },
     {
@@ -120,16 +192,16 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
+      "id": "21146",
+      "name": "Educational",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "created": "2022-05-17T21:35:29.234Z",
+      "updated": "2023-08-22T10:58:47.726Z",
       "status": "ACTIVE",
-      "referenceCount": 19438,
-      "comment": null
+      "referenceCount": 128,
+      "comment": ""
     },
     {
       "id": "1117",
@@ -142,6 +214,30 @@
       "status": "ACTIVE",
       "referenceCount": 1473,
       "comment": null
+    },
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2023-08-22T10:58:47.694Z",
+      "status": "ACTIVE",
+      "referenceCount": 658,
+      "comment": ""
+    },
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2023-08-22T21:49:10.904Z",
+      "status": "ACTIVE",
+      "referenceCount": 510,
+      "comment": "From Ratings & Polls results."
     }
   ],
   "customAttributes": [

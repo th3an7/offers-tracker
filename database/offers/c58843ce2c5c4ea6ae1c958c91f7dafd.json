@@ -3,12 +3,12 @@
   "namespace": "middlemist",
   "title": "The Sinking City Artbook & OST",
   "description": "The Sinking City Artbook: Includes artworks from The Sinking City and its DLCs.\nThe Sinking City Soundtrack: The collection includes all the instrumental compositions that accompany the gameplay and the story.",
-  "longDescription": "The Sinking City Artbook presents the ultimate collection of key production art, sketches, concept designs, and breathtaking paintings. The Sinking City Soundtrack gets you absorbed in the beautiful and cryptic harmonies of Oakmont.\n\n# The Sinking City Artbook\n\nWith over 160 pages of designs and visuals of characters, locations, landscapes, hair-raising monsters, and the artist team's comments, you'll plunge into the Lovecraftian world of primordial dark and elusive madness. \nEvery piece of the artwork perfectly conveys the atmosphere of the game and unravels its universe even wider. Get yourself behind the scenes of this action-adventure detective classic and dive into the flooded secrets of Oakmont.\n\n# The Sinking City Soundtrack\n\nGet absorbed in the beautiful and cryptic harmonies of Oakmont through the original soundtrack for The Sinking City, brought to life by Serhii Sedliar and Viacheslav Pakalin.\nImmerse yourself into the dark harmonic passages that transfer you to the flooded, gloomy streets of Oakmont and make you feel the presence of the unknown.\nThe mysterious and atmospheric vision of Lovecraftian sound and melody permeates through all thirty tracks, surrounding you with supernatural sonic vibes. Each note and timbre convey the aural image of the Cthulhu Mythos.\n\n# Credits\n\nOriginal score composed by Viacheslav Pakalin and Sergey Sedliar\n\nVocals on track #2: Anastasiia Byzova\nGuitars on track #29: Konstantin Maiuk",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nThe Sinking City Artbook presents the ultimate collection of key production art, sketches, concept designs, and breathtaking paintings. The Sinking City Soundtrack gets you absorbed in the beautiful and cryptic harmonies of Oakmont.\n\n<!--textBlock-->\n<!--title-->\n# The Sinking City Artbook\n<!--text-->\n\nWith over 160 pages of designs and visuals of characters, locations, landscapes, hair-raising monsters, and the artist team's comments, you'll plunge into the Lovecraftian world of primordial dark and elusive madness. \nEvery piece of the artwork perfectly conveys the atmosphere of the game and unravels its universe even wider. Get yourself behind the scenes of this action-adventure detective classic and dive into the flooded secrets of Oakmont.\n\n<!--textBlock-->\n<!--title-->\n# The Sinking City Soundtrack\n<!--text-->\n\nGet absorbed in the beautiful and cryptic harmonies of Oakmont through the original soundtrack for The Sinking City, brought to life by Serhii Sedliar and Viacheslav Pakalin.\nImmerse yourself into the dark harmonic passages that transfer you to the flooded, gloomy streets of Oakmont and make you feel the presence of the unknown.\nThe mysterious and atmospheric vision of Lovecraftian sound and melody permeates through all thirty tracks, surrounding you with supernatural sonic vibes. Each note and timbre convey the aural image of the Cthulhu Mythos.\n\n<!--textBlock-->\n<!--title-->\n# Credits\n<!--text-->\n\nOriginal score composed by Viacheslav Pakalin and Sergey Sedliar\n\nVocals on track #2: Anastasiia Byzova\nGuitars on track #29: Konstantin Maiuk\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "the-sinking-city--artbook-and-ost",
-  "creationDate": "2024-02-29T19:59:17.796Z",
-  "lastModifiedDate": "2025-05-15T15:01:21.309Z",
+  "creationDate": "2025-05-08T11:24:48.583Z",
+  "lastModifiedDate": "2025-05-26T08:46:07.303Z",
   "effectiveDate": "2024-03-20T09:00:00.000Z",
   "viewableDate": "2024-03-20T09:00:00.000Z",
   "developer": null,
@@ -28,10 +28,10 @@
       "path": "digitalextras/book"
     },
     {
-      "path": "addons"
+      "path": "digitalextras"
     },
     {
-      "path": "digitalextras"
+      "path": "addons"
     },
     {
       "path": "digitalextras/soundtrack"
@@ -45,6 +45,42 @@
   ],
   "tags": [
     {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2023-08-22T19:55:04.197Z",
+      "status": "ACTIVE",
+      "referenceCount": 414,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -53,23 +89,60 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19438,
+      "referenceCount": 19449,
       "comment": null
     },
     {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2025-05-15T15:00:30.118Z",
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
       "status": "ACTIVE",
-      "referenceCount": 3357,
-      "comment": ""
+      "referenceCount": 1473,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-08-23T03:24:56.337Z",
+      "status": "ACTIVE",
+      "referenceCount": 4262,
+      "comment": null
     }
   ],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "autoGeneratedPrice",
+      "value": "false"
+    },
+    {
+      "key": "isManuallySetViewableDate",
+      "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frogwares"
+    },
+    {
+      "key": "developerName",
+      "value": "Frogwares"
+    },
+    {
+      "key": "isBlockchainUsed",
+      "value": "false"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageTall",
@@ -88,15 +161,6 @@
       "uploadedDate": "2024-03-07T18:53:09.446Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/offer/middlemist/EGS_TheSinkingCityArtbookOST_Frogwares_DigitalExtras_IC1_200x200-ae364a282b446d7dc2b20aa6a4f99449",
-      "md5": "ae364a282b446d7dc2b20aa6a4f99449",
-      "size": 117226,
-      "uploadedDate": "2024-03-07T18:53:14.934Z",
-      "width": 200,
-      "height": 200
     },
     {
       "type": "Thumbnail",
