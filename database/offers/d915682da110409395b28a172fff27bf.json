@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "eae8ccc3f0a44ebebd8c84c9f22aa255",
   "creationDate": "2024-09-12T11:30:02.207Z",
-  "lastModifiedDate": "2025-05-26T15:03:08.274Z",
+  "lastModifiedDate": "2025-05-27T20:46:36.218Z",
   "effectiveDate": "2025-06-08T14:00:00.000Z",
   "viewableDate": "2024-11-24T00:02:07.000Z",
   "developer": null,
@@ -25,28 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "1344",
-      "name": "Fighting",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2023-08-22T18:49:21.482Z",
-      "status": "ACTIVE",
-      "referenceCount": 129,
-      "comment": null
-    },
     {
       "id": "1216",
       "name": "Action",
@@ -60,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "1344",
+      "name": "Fighting",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2023-08-22T18:49:21.482Z",
+      "status": "ACTIVE",
+      "referenceCount": 129,
+      "comment": null
+    },
+    {
       "id": "29088",
       "name": "Online Multiplayer",
       "namespace": null,
@@ -68,7 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2524,
+      "referenceCount": 2528,
       "comment": ""
     },
     {
@@ -80,7 +80,7 @@
       "created": "2023-10-03T19:30:05.570Z",
       "updated": "2023-12-04T19:06:05.172Z",
       "status": "ACTIVE",
-      "referenceCount": 271,
+      "referenceCount": 273,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19449,
+      "referenceCount": 19486,
       "comment": null
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4262,
+      "referenceCount": 4265,
       "comment": null
     },
     {
@@ -132,18 +132,6 @@
       "comment": null
     },
     {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
-    },
-    {
       "id": "1183",
       "name": "Local Multiplayer",
       "namespace": "epic",
@@ -153,6 +141,18 @@
       "updated": "2024-03-28T21:48:38.999Z",
       "status": "ACTIVE",
       "referenceCount": 168,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
       "comment": null
     }
   ],
