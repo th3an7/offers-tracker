@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "b8903832e836496589183c459b846e8c",
-  "creationDate": "2025-05-22T18:28:18.079Z",
-  "lastModifiedDate": "2025-05-22T18:28:18.079Z",
+  "creationDate": "2025-05-12T12:23:59.039Z",
+  "lastModifiedDate": "2025-05-28T14:22:43.897Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-05-22T18:28:01.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19486,
+      "referenceCount": 19498,
       "comment": null
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4265,
+      "referenceCount": 4270,
       "comment": null
     },
     {
@@ -108,18 +108,6 @@
       "comment": null
     },
     {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
-    },
-    {
       "id": "1183",
       "name": "Local Multiplayer",
       "namespace": "epic",
@@ -129,6 +117,18 @@
       "updated": "2024-03-28T21:48:38.999Z",
       "status": "ACTIVE",
       "referenceCount": 168,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
       "comment": null
     },
     {
@@ -143,7 +143,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1603,
+      "referenceCount": 1606,
       "comment": null
     }
   ],
@@ -154,7 +154,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isPromotionalContentUsed",

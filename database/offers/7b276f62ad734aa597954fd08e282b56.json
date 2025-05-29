@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "warhammer-40-000-rogue-trader-appearance-pack",
   "creationDate": "2025-04-07T11:59:29.572Z",
-  "lastModifiedDate": "2025-05-22T15:50:20.264Z",
+  "lastModifiedDate": "2025-05-28T16:48:32.350Z",
   "effectiveDate": "2025-05-22T16:00:00.000Z",
   "viewableDate": "2025-05-22T16:00:00.000Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "spthidden"
     },
     {
-      "path": "addons/durable"
+      "path": "spthidden/notvisible/durable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -77,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19486,
+      "referenceCount": 19498,
       "comment": null
     },
     {
@@ -89,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4265,
+      "referenceCount": 4270,
       "comment": null
     },
     {
@@ -104,7 +107,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1603,
+      "referenceCount": 1606,
       "comment": null
     }
   ],
