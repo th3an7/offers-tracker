@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "096f561dcb4d4ba4b93075b3f20b60a8",
-  "creationDate": "2025-05-26T13:58:16.659Z",
-  "lastModifiedDate": "2025-05-26T13:58:16.659Z",
+  "creationDate": "2025-02-14T16:39:41.159Z",
+  "lastModifiedDate": "2025-05-31T16:38:51.287Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-05-26T13:58:15.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "1381",
+      "name": "Exploration",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2023-08-22T23:07:49.559Z",
+      "status": "ACTIVE",
+      "referenceCount": 200,
+      "comment": null
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -68,19 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19520,
-      "comment": null
-    },
-    {
-      "id": "1307",
-      "name": "Open World",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-08-21T17:22:53.154Z",
-      "status": "ACTIVE",
-      "referenceCount": 416,
+      "referenceCount": 19525,
       "comment": null
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4246,
+      "referenceCount": 4249,
       "comment": null
     }
   ],
@@ -133,30 +133,39 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-qhghu.jpg",
-      "md5": "90539cb7c374866e01bd1f12024c1e87",
-      "size": 310510,
-      "uploadedDate": "2025-05-26T07:12:08.933Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-a8fsi.jpg",
+      "md5": "71b741eadbc9f81fe1ec0f671729f3ea",
+      "size": 58711,
+      "uploadedDate": "2025-05-31T10:13:51.206Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-dfur2.jpg",
-      "md5": "89e5bc3431c9ce4d3ba639d66ca03313",
-      "size": 151333,
-      "uploadedDate": "2025-05-26T07:12:18.745Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-lo3n6.jpg",
+      "md5": "9dd1135d5977eb5bf415cb344e2f6864",
+      "size": 49191,
+      "uploadedDate": "2025-05-31T10:03:05.551Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-dfur2.jpg",
-      "md5": "89e5bc3431c9ce4d3ba639d66ca03313",
-      "size": 151333,
-      "uploadedDate": "2025-05-26T07:12:18.745Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-lo3n6.jpg",
+      "md5": "9dd1135d5977eb5bf415cb344e2f6864",
+      "size": 49191,
+      "uploadedDate": "2025-05-31T10:03:05.551Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-1op5j.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 27098,
+      "uploadedDate": "2025-05-31T08:00:36.170Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "featuredMedia",
@@ -164,6 +173,15 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 209488,
       "uploadedDate": "2025-05-23T17:00:51.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/ee49b95027e44abe868f3aaf95ef0522/open-robot-essj9.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 26619,
+      "uploadedDate": "2025-05-31T09:45:56.689Z",
       "width": 1920,
       "height": 1080
     }
