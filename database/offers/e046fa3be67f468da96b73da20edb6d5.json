@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "gt-manager-deluxe-upgrade",
   "creationDate": "2024-08-14T16:09:27.020Z",
-  "lastModifiedDate": "2025-04-15T15:40:53.258Z",
+  "lastModifiedDate": "2025-06-03T06:51:20.734Z",
   "effectiveDate": "2024-10-11T12:00:00.000Z",
   "viewableDate": "2024-10-07T12:33:57.699Z",
   "developer": null,
@@ -28,7 +28,10 @@
       "path": "spthidden"
     },
     {
-      "path": "spthidden/durable"
+      "path": "spthidden/notvisible/durable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -65,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19538,
+      "referenceCount": 19547,
       "comment": null
     },
     {
@@ -104,7 +107,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1611,
+      "referenceCount": 1612,
       "comment": null
     }
   ],
