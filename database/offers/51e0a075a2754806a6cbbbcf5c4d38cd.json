@@ -2,13 +2,13 @@
   "id": "51e0a075a2754806a6cbbbcf5c4d38cd",
   "namespace": "04758c0780e24a16b433fa56456790d9",
   "title": "Skyformer",
-  "description": "A first-person survival and automation game about building factories run by drones to power a machine that atmospherically terraforms a tiny planet.",
-  "longDescription": null,
+  "description": "A first-person survival and casual automation game where you build factories run by drones to power a machine that terraforms a planet. Build bases and strategize to survive storms with different geographic impacts along the way.",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nYou are a robot sent to a planet to set up a system to make it habitable for your creators. However, the makeup of its atmosphere leads to a challenging process along the way.\n\n<!--textBlock-->\n<!--title-->\n# Build factories automated by drones\n<!--text-->\nCreate systems to mine and process materials in automated pipelines. Configure drones to easily handle the logistics.\n\n<!--image-->\n![Xenion-1ouw2](https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/xenion-1ouw2.gif)\n\n<!--textBlock-->\n<!--title-->\n# Terraform and track the weather\n<!--text-->\nThe processed materials allow you to create and run a system that controls the climate, tracks the weather, and terraforms the planet. As you terraform, the planet becomes more capable of producing weather systems, some of which being quite destructive. This game has a dynamic weather system that interacts with the geography, producing microclimates in each region based on the current global climate.\n\n<!--image-->\n![Xenion-ff7m1](https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/xenion-ff7m1.gif)\n\n<!--textBlock-->\n<!--title-->\n# Survive the process and achieve habitability!\n<!--text-->\nChanging the climate of the planet can allow access to previously inhospitable regions, but can also do the opposite. Observing the weather and how the geography locally influences it is important to surviving the terraforming process. A few different strategies can be employed towards surviving storms, such as building up automated drone defense systems, strategically positioning buildings, or simply maximizing the power of your tools and taking storms head-on. The energy produced by the storms can also be harnessed!\n\nThe goal of the game is to achieve a climate that maximizes biomass across each region, and stabilize the atmosphere to the point at which storms are no longer destructive.\n\n<!--image-->\n![Xenion-1ts3q](https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/xenion-1ts3q.gif)\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "5747b0ed7abc42c0a9d5729b73977f14",
   "creationDate": "2023-04-15T10:02:44.183Z",
-  "lastModifiedDate": "2024-07-12T02:54:20.967Z",
+  "lastModifiedDate": "2025-06-04T19:23:19.533Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-07-05T20:30:00.000Z",
   "developer": null,
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19547,
+      "referenceCount": 19568,
       "comment": null
     },
     {
@@ -105,21 +105,6 @@
       "updated": "2023-08-23T00:14:55.884Z",
       "status": "ACTIVE",
       "referenceCount": 481,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 1612,
       "comment": null
     }
   ],
@@ -134,7 +119,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -148,30 +133,102 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-13khp.png",
-      "md5": "bf4360caa3ecee62571ebfd2901acf23",
-      "size": 2323477,
-      "uploadedDate": "2024-07-12T00:41:33.757Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-nx14n.png",
+      "md5": "fa9480846c24d0a2ba5d3f6e4179914d",
+      "size": 2561005,
+      "uploadedDate": "2025-06-03T04:38:10.384Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-6jvo3.png",
-      "md5": "d88d1db7e38b303f0fdfc040b4557937",
-      "size": 709246,
-      "uploadedDate": "2024-07-12T00:41:38.420Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-16h7q.png",
+      "md5": "5c40a569fa8301513ecb5a5e1cd5b808",
+      "size": 1353666,
+      "uploadedDate": "2025-06-03T04:38:19.301Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-6jvo3.png",
-      "md5": "d88d1db7e38b303f0fdfc040b4557937",
-      "size": 709246,
-      "uploadedDate": "2024-07-12T00:41:38.420Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-16h7q.png",
+      "md5": "5c40a569fa8301513ecb5a5e1cd5b808",
+      "size": 1353666,
+      "uploadedDate": "2025-06-03T04:38:19.301Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://531932da-0f64-4de0-ac91-8e7f6c02bc75?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ffcc8e4ea5227462fba31a2a76e770440%2Fskyformer-video-vo59v.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 104251575,
+      "uploadedDate": "2025-06-03T04:30:33.136Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-170jg.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1696290,
+      "uploadedDate": "2025-06-03T04:33:41.908Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-vxmfa.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1531466,
+      "uploadedDate": "2025-06-03T04:33:57.334Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-56x1x.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1815418,
+      "uploadedDate": "2025-06-03T04:33:48.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-15ppe.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1896043,
+      "uploadedDate": "2025-06-03T04:34:07.971Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-1gdwj.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2212923,
+      "uploadedDate": "2025-06-03T04:34:10.473Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-er9vp.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1376176,
+      "uploadedDate": "2025-06-03T04:34:21.624Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/fcc8e4ea5227462fba31a2a76e770440/skyformer-5e5zw.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1061397,
+      "uploadedDate": "2025-06-03T04:34:36.310Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
