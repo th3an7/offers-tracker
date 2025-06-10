@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "e12b1d0609a541c9a897a939a489e609",
   "creationDate": "2025-04-09T15:29:20.914Z",
-  "lastModifiedDate": "2025-06-03T19:00:02.751Z",
+  "lastModifiedDate": "2025-06-09T13:00:13.426Z",
   "effectiveDate": "2025-06-03T19:00:00.000Z",
   "viewableDate": "2025-06-02T20:00:03.000Z",
   "developer": null,
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19631,
+      "referenceCount": 19639,
       "comment": null
     },
     {
@@ -96,18 +96,6 @@
       "comment": null
     },
     {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
-    },
-    {
       "id": "10719",
       "name": "Mac OS",
       "namespace": "epic",
@@ -119,7 +107,19 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1614,
+      "referenceCount": 1616,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -175,6 +175,33 @@
     },
     {
       "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-aoy5a.jpeg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 619016,
+      "uploadedDate": "2025-05-23T02:14:23.055Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-1vleq.jpeg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 586915,
+      "uploadedDate": "2025-05-23T02:20:02.773Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://e0951535-8b34-465a-bb7a-6f71b7c532b0?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc17b1fd6fa9e463ca8fcb09d702a704a%2Fbob-bobbed-bob-video-1q61o.jpeg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 233817468,
+      "uploadedDate": "2025-05-28T18:04:07.485Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-lfkob.jpeg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 367834,
@@ -197,15 +224,6 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 506529,
       "uploadedDate": "2025-05-23T01:38:54.624Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-1dfxl.jpeg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 459028,
-      "uploadedDate": "2025-05-23T01:50:27.584Z",
       "width": 1920,
       "height": 1080
     },
@@ -256,24 +274,6 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-aoy5a.jpeg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 619016,
-      "uploadedDate": "2025-05-23T02:14:23.055Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-1vleq.jpeg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 586915,
-      "uploadedDate": "2025-05-23T02:20:02.773Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
       "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-1x6sd.jpeg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 526749,
@@ -282,11 +282,11 @@
       "height": 1080
     },
     {
-      "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://e0951535-8b34-465a-bb7a-6f71b7c532b0?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc17b1fd6fa9e463ca8fcb09d702a704a%2Fbob-bobbed-bob-video-1q61o.jpeg",
-      "md5": "comepicgamesvideomd5hashconstant",
-      "size": 233817468,
-      "uploadedDate": "2025-05-28T18:04:07.485Z",
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c17b1fd6fa9e463ca8fcb09d702a704a/bob-bobbed-bob-1dfxl.jpeg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 459028,
+      "uploadedDate": "2025-05-23T01:50:27.584Z",
       "width": 1920,
       "height": 1080
     },
