@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "3126cdca4766407489b1f1ef12dc5243",
-  "creationDate": "2025-06-06T22:30:18.850Z",
-  "lastModifiedDate": "2025-06-06T22:30:18.850Z",
+  "creationDate": "2025-05-23T20:12:59.445Z",
+  "lastModifiedDate": "2025-06-10T18:59:44.255Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-06-06T23:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -45,18 +45,6 @@
       "updated": "2023-08-23T05:17:12.937Z",
       "status": "ACTIVE",
       "referenceCount": 2167,
-      "comment": null
-    },
-    {
-      "id": "1344",
-      "name": "Fighting",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2023-08-22T18:49:21.482Z",
-      "status": "ACTIVE",
-      "referenceCount": 129,
       "comment": null
     },
     {
@@ -80,7 +68,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2545,
+      "referenceCount": 2555,
       "comment": ""
     },
     {
@@ -108,6 +96,18 @@
       "comment": null
     },
     {
+      "id": "1083",
+      "name": "Rogue-Lite",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2023-08-23T05:17:12.960Z",
+      "status": "ACTIVE",
+      "referenceCount": 204,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19639,
+      "referenceCount": 19671,
       "comment": null
     }
   ],
