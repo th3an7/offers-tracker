@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "baa81deb93634a37bc531c178bc091aa",
   "creationDate": "2024-09-12T15:24:29.242Z",
-  "lastModifiedDate": "2025-06-10T08:00:19.678Z",
+  "lastModifiedDate": "2025-06-13T08:17:15.183Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-12-16T14:22:47.000Z",
   "developer": null,
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19640,
+      "referenceCount": 19650,
       "comment": null
     },
     {
@@ -156,20 +156,29 @@
       "height": 1080
     },
     {
-      "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://e0570ee5-60b7-4192-bf00-bd463e5d145b?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F0edf25c1d56f4b1aae21297f81bc3200%2Fagatha-christie--death-on-the-nile-video-1meqp.jpg",
-      "md5": "comepicgamesvideomd5hashconstant",
-      "size": 77225607,
-      "uploadedDate": "2024-12-04T10:24:53.179Z",
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/0edf25c1d56f4b1aae21297f81bc3200/agatha-christie--death-on-the-nile-1po8a.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2935820,
+      "uploadedDate": "2025-06-12T15:54:28.088Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/0edf25c1d56f4b1aae21297f81bc3200/agatha-christie--death-on-the-nile-rt2dj.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/0edf25c1d56f4b1aae21297f81bc3200/agatha-christie--death-on-the-nile-fbxbg.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2492241,
-      "uploadedDate": "2024-12-04T10:23:36.732Z",
+      "size": 1071642,
+      "uploadedDate": "2025-06-12T15:54:27.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/0edf25c1d56f4b1aae21297f81bc3200/agatha-christie--death-on-the-nile-1ve0r.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2095212,
+      "uploadedDate": "2025-06-12T15:54:28.891Z",
       "width": 1920,
       "height": 1080
     },
@@ -206,6 +215,15 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 3534843,
       "uploadedDate": "2024-12-04T10:24:06.890Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://e0570ee5-60b7-4192-bf00-bd463e5d145b?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F0edf25c1d56f4b1aae21297f81bc3200%2Fagatha-christie--death-on-the-nile-video-1meqp.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 77225607,
+      "uploadedDate": "2024-12-04T10:24:53.179Z",
       "width": 1920,
       "height": 1080
     }

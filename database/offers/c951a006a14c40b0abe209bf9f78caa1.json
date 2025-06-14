@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "polaris-tribe",
   "creationDate": "2025-03-10T17:17:01.755Z",
-  "lastModifiedDate": "2025-05-28T21:15:41.912Z",
+  "lastModifiedDate": "2025-06-13T11:19:08.573Z",
   "effectiveDate": "2024-06-01T15:00:00.000Z",
   "viewableDate": "2025-06-12T15:00:00.000Z",
   "developer": null,
@@ -53,7 +53,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2556,
+      "referenceCount": 2561,
       "comment": ""
     },
     {
@@ -77,7 +77,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 1220,
+      "referenceCount": 1223,
       "comment": ""
     },
     {
@@ -125,7 +125,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19640,
+      "referenceCount": 19650,
       "comment": null
     },
     {
@@ -235,20 +235,11 @@
       "height": 1600
     },
     {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-7hham.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 486620,
-      "uploadedDate": "2025-05-07T12:40:58.435Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1710u.jpg",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 192140,
-      "uploadedDate": "2025-05-07T12:40:58.305Z",
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://371a2e27-927b-4ae2-baed-249612d117b9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fb312dfc1b33d459daa55a67d53a56223%2Fthe-battle-of-polytopia-video-1t8lm.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 33068338,
+      "uploadedDate": "2025-05-07T12:49:35.449Z",
       "width": 1920,
       "height": 1080
     },
@@ -263,10 +254,10 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-yfy82.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-7hham.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 308893,
-      "uploadedDate": "2025-05-07T12:40:58.455Z",
+      "size": 486620,
+      "uploadedDate": "2025-05-07T12:40:58.435Z",
       "width": 1920,
       "height": 1080
     },
@@ -281,19 +272,28 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-aaknn.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-1710u.jpg",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2502350,
-      "uploadedDate": "2025-05-07T12:47:42.689Z",
+      "size": 192140,
+      "uploadedDate": "2025-05-07T12:40:58.305Z",
       "width": 1920,
       "height": 1080
     },
     {
-      "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://371a2e27-927b-4ae2-baed-249612d117b9?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fb312dfc1b33d459daa55a67d53a56223%2Fthe-battle-of-polytopia-video-1t8lm.png",
-      "md5": "comepicgamesvideomd5hashconstant",
-      "size": 33068338,
-      "uploadedDate": "2025-05-07T12:49:35.449Z",
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-yfy82.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 308893,
+      "uploadedDate": "2025-05-07T12:40:58.455Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b312dfc1b33d459daa55a67d53a56223/the-battle-of-polytopia-aaknn.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2502350,
+      "uploadedDate": "2025-05-07T12:47:42.689Z",
       "width": 1920,
       "height": 1080
     }
