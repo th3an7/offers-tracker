@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "5a81c753751a476f98bfd8ab58bda218",
   "creationDate": "2023-03-28T13:12:39.345Z",
-  "lastModifiedDate": "2024-04-22T14:06:08.880Z",
+  "lastModifiedDate": "2025-06-16T11:03:08.446Z",
   "effectiveDate": "2023-09-01T08:00:00.000Z",
   "viewableDate": "2023-08-23T14:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2376,
+      "referenceCount": 2377,
       "comment": ""
     },
     {
@@ -84,6 +84,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19677,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -93,30 +105,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19658,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
       "comment": null
     },
     {
@@ -131,7 +119,19 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1621,
+      "referenceCount": 1622,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
       "comment": null
     }
   ],
@@ -143,6 +143,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
