@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "5673b2ef23344eccaafa750c14c1caa4",
   "creationDate": "2023-08-15T16:49:57.221Z",
-  "lastModifiedDate": "2025-05-15T15:02:52.849Z",
+  "lastModifiedDate": "2025-06-19T16:00:29.279Z",
   "effectiveDate": "2023-08-30T19:00:00.000Z",
   "viewableDate": "2023-08-30T19:00:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 19806,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -72,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 19789,
-      "comment": null
-    },
-    {
       "id": "16011",
       "name": "Epic MEGA Sale",
       "namespace": null,
@@ -92,7 +92,7 @@
       "created": "2021-04-27T08:10:34.554Z",
       "updated": "2025-06-12T15:22:32.413Z",
       "status": "ACTIVE",
-      "referenceCount": 3394,
+      "referenceCount": 3392,
       "comment": ""
     },
     {
@@ -118,6 +118,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -129,30 +133,75 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-od2cs.png",
-      "md5": "a1cea6a2b7a5da1ed501254fcf07274c",
-      "size": 1201237,
-      "uploadedDate": "2023-08-15T17:04:15.334Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-15vyo.png",
+      "md5": "54d33a86ac33a55013e32352f8137004",
+      "size": 3427677,
+      "uploadedDate": "2025-06-18T13:56:32.458Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-wm6pd.png",
-      "md5": "2c32f41f8d0bf9d3d428fe99005f7e3b",
-      "size": 1361312,
-      "uploadedDate": "2023-08-15T17:04:17.384Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-coxzm.png",
+      "md5": "cde612960da3754477e3986816b3d7c1",
+      "size": 1932714,
+      "uploadedDate": "2025-06-18T13:56:35.199Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-wm6pd.png",
-      "md5": "2c32f41f8d0bf9d3d428fe99005f7e3b",
-      "size": 1361312,
-      "uploadedDate": "2023-08-15T17:04:17.384Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-coxzm.png",
+      "md5": "cde612960da3754477e3986816b3d7c1",
+      "size": 1932714,
+      "uploadedDate": "2025-06-18T13:56:35.199Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-1lw63.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1233113,
+      "uploadedDate": "2025-06-19T09:56:01.486Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-13f4d.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1058640,
+      "uploadedDate": "2025-06-19T09:56:00.161Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-1l6zx.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1243081,
+      "uploadedDate": "2025-06-19T09:56:05.546Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-1rgas.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1003573,
+      "uploadedDate": "2025-06-19T09:56:07.040Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/5689a2b76ba3411784e5029243ecb6d0/taxi-driver-simulator-car-parking-153gm.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 980671,
+      "uploadedDate": "2025-06-19T09:56:08.080Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
