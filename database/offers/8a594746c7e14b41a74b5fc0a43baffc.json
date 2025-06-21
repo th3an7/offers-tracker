@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "14217c7ab32942638b437a2a55964820",
-  "creationDate": "2025-04-23T16:00:10.608Z",
-  "lastModifiedDate": "2025-06-16T19:48:28.842Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-10-01T07:12:47.690Z",
+  "lastModifiedDate": "2025-06-20T21:12:28.709Z",
+  "effectiveDate": "2025-06-22T17:00:00.000Z",
   "viewableDate": "2025-04-23T16:00:01.000Z",
   "developer": null,
   "seller": {
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "21894",
+      "name": "Cloud Saves",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-07T16:11:08.589Z",
+      "updated": "2023-08-23T02:20:12.228Z",
+      "status": "ACTIVE",
+      "referenceCount": 2379,
+      "comment": ""
+    },
+    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -68,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5392,
+      "referenceCount": 5408,
       "comment": ""
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19806,
+      "referenceCount": 19812,
       "comment": null
     },
     {
@@ -116,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4354,
+      "referenceCount": 4358,
       "comment": null
     },
     {
@@ -131,7 +143,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1626,
+      "referenceCount": 1631,
       "comment": null
     }
   ],
@@ -187,6 +199,15 @@
     },
     {
       "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://54deb462-50af-40c4-851a-2024a207594d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F89900f9914e44c2794b6a85f14361989%2Fsoulstone-survivors-video-j8ph5.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 257666119,
+      "uploadedDate": "2025-06-16T20:09:27.715Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
       "url": "com.epicgames.video://8bf8d348-495b-4985-bf7e-e7a49d24dd04?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F89900f9914e44c2794b6a85f14361989%2Fsoulstone-survivors-video-ybbpz.png",
       "md5": "comepicgamesvideomd5hashconstant",
       "size": 282884201,
@@ -196,19 +217,19 @@
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/89900f9914e44c2794b6a85f14361989/soulstone-survivors-1qqjb.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/89900f9914e44c2794b6a85f14361989/soulstone-survivors-16w3d.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2846080,
-      "uploadedDate": "2025-03-25T11:44:21.017Z",
+      "size": 2861545,
+      "uploadedDate": "2025-03-25T11:44:22.538Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/89900f9914e44c2794b6a85f14361989/soulstone-survivors-16w3d.png",
+      "url": "https://cdn1.epicgames.com/spt-assets/89900f9914e44c2794b6a85f14361989/soulstone-survivors-1qqjb.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2861545,
-      "uploadedDate": "2025-03-25T11:44:22.538Z",
+      "size": 2846080,
+      "uploadedDate": "2025-03-25T11:44:21.017Z",
       "width": 1920,
       "height": 1080
     },
