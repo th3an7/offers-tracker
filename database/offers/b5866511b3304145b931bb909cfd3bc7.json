@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "b637938b54d04b45a9e86c1cb74f0192",
   "creationDate": "2024-01-15T07:47:21.892Z",
-  "lastModifiedDate": "2025-06-15T03:59:23.788Z",
+  "lastModifiedDate": "2025-06-23T08:58:08.211Z",
   "effectiveDate": "2024-12-03T19:42:29.000Z",
   "viewableDate": "2024-12-02T15:03:01.000Z",
   "developer": null,
@@ -36,18 +36,6 @@
   ],
   "tags": [
     {
-      "id": "29088",
-      "name": "Online Multiplayer",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-06-19T16:23:12.748Z",
-      "updated": "2024-03-28T21:49:30.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 2601,
-      "comment": ""
-    },
-    {
       "id": "21121",
       "name": "Great for Quick Sessions",
       "namespace": null,
@@ -56,8 +44,20 @@
       "created": "2022-05-17T21:06:21.330Z",
       "updated": "2023-08-16T00:30:02.340Z",
       "status": "ACTIVE",
-      "referenceCount": 174,
+      "referenceCount": 175,
       "comment": "From Ratings & Polls results."
+    },
+    {
+      "id": "21122",
+      "name": "Diverse Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:12:59.057Z",
+      "updated": "2023-08-18T16:27:44.549Z",
+      "status": "ACTIVE",
+      "referenceCount": 552,
+      "comment": ""
     },
     {
       "id": "1283",
@@ -72,18 +72,6 @@
       "comment": null
     },
     {
-      "id": "1188",
-      "name": "RELAXING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-08-22T13:54:28.456Z",
-      "status": "ACTIVE",
-      "referenceCount": 344,
-      "comment": null
-    },
-    {
       "id": "21125",
       "name": "Competitive Community",
       "namespace": null,
@@ -92,7 +80,7 @@
       "created": "2022-05-17T21:16:32.830Z",
       "updated": "2023-09-26T16:06:19.633Z",
       "status": "ACTIVE",
-      "referenceCount": 209,
+      "referenceCount": 214,
       "comment": ""
     },
     {
@@ -108,18 +96,6 @@
       "comment": ""
     },
     {
-      "id": "33639",
-      "name": "Promotional Content",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-01-30T16:42:20.388Z",
-      "updated": "2024-02-05T20:14:29.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 371,
-      "comment": ""
-    },
-    {
       "id": "19847",
       "name": "Achievements",
       "namespace": null,
@@ -128,7 +104,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5409,
+      "referenceCount": 5411,
       "comment": ""
     },
     {
@@ -140,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19814,
+      "referenceCount": 19831,
       "comment": null
     },
     {
@@ -152,31 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4358,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
-      "comment": null
-    },
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-23T03:55:35.422Z",
-      "status": "ACTIVE",
-      "referenceCount": 943,
+      "referenceCount": 4363,
       "comment": null
     },
     {
@@ -188,7 +140,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 713,
+      "referenceCount": 714,
       "comment": ""
     },
     {
@@ -200,7 +152,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 661,
+      "referenceCount": 664,
       "comment": ""
     },
     {
@@ -224,31 +176,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 684,
-      "comment": ""
-    },
-    {
-      "id": "22775",
-      "name": "MMO",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T16:48:03.250Z",
-      "updated": "2023-08-22T10:15:49.955Z",
-      "status": "ACTIVE",
-      "referenceCount": 444,
-      "comment": ""
-    },
-    {
-      "id": "22776",
-      "name": "Cross Platform",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-08-23T04:55:54.839Z",
-      "status": "ACTIVE",
-      "referenceCount": 1245,
+      "referenceCount": 686,
       "comment": ""
     },
     {
@@ -288,6 +216,102 @@
       "comment": null
     },
     {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2023-08-22T10:58:47.694Z",
+      "status": "ACTIVE",
+      "referenceCount": 678,
+      "comment": ""
+    },
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 2601,
+      "comment": ""
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.840Z",
+      "updated": "2023-08-22T13:54:28.456Z",
+      "status": "ACTIVE",
+      "referenceCount": 344,
+      "comment": null
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 371,
+      "comment": ""
+    },
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-08-23T03:55:35.380Z",
+      "status": "ACTIVE",
+      "referenceCount": 1166,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
+      "status": "ACTIVE",
+      "referenceCount": 943,
+      "comment": null
+    },
+    {
+      "id": "22775",
+      "name": "MMO",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T16:48:03.250Z",
+      "updated": "2023-08-22T10:15:49.955Z",
+      "status": "ACTIVE",
+      "referenceCount": 446,
+      "comment": ""
+    },
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 1245,
+      "comment": ""
+    },
+    {
       "id": "1212",
       "name": "Racing",
       "namespace": "epic",
@@ -300,18 +324,6 @@
       "comment": null
     },
     {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-08-22T10:58:47.694Z",
-      "status": "ACTIVE",
-      "referenceCount": 676,
-      "comment": ""
-    },
-    {
       "id": "21119",
       "name": "Great for Beginners",
       "namespace": null,
@@ -320,7 +332,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 519,
+      "referenceCount": 520,
       "comment": "From Ratings & Polls results."
     }
   ],
