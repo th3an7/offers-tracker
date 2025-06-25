@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "67df9d98c93542f383ba22e14a7fd2e4",
   "creationDate": "2023-09-28T11:17:34.151Z",
-  "lastModifiedDate": "2025-03-31T14:35:34.645Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-06-24T13:49:41.238Z",
+  "effectiveDate": "2025-06-24T13:49:38.000Z",
   "viewableDate": "2025-03-11T12:00:00.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 2601,
+      "referenceCount": 2612,
       "comment": ""
     },
     {
@@ -80,7 +80,19 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 2379,
+      "referenceCount": 2382,
+      "comment": ""
+    },
+    {
+      "id": "33639",
+      "name": "Promotional Content",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-01-30T16:42:20.388Z",
+      "updated": "2024-02-05T20:14:29.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 377,
       "comment": ""
     },
     {
@@ -104,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19831,
+      "referenceCount": 19858,
       "comment": null
     }
   ],
@@ -119,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
@@ -157,6 +169,15 @@
       "uploadedDate": "2025-02-13T09:01:59.608Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://2bca12e3-84d5-4b99-b7d3-0381c9fb12f5?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc25a4cb67acf40168c51488ff8d14889%2Ffirefighting-simulator-ignite-video-jajcd.jpg",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 103303593,
+      "uploadedDate": "2025-06-24T06:27:12.483Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "heroCarouselVideo",
@@ -233,7 +254,7 @@
   ],
   "items": [
     {
-      "id": "e859cd7b0ba14585a419b488a999a30f"
+      "id": "eca4a442680541689bb0c74ab63cbc90"
     }
   ],
   "catalogNs": {

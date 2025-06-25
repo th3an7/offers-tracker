@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "ec9ff615f20e414896e1e772254b873a",
   "creationDate": "2023-11-06T12:00:31.671Z",
-  "lastModifiedDate": "2024-09-27T09:09:30.440Z",
+  "lastModifiedDate": "2025-06-24T21:47:57.388Z",
   "effectiveDate": "2023-11-30T00:00:00.000Z",
   "viewableDate": "2023-11-10T08:00:00.000Z",
   "developer": null,
@@ -68,8 +68,20 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 19831,
+      "referenceCount": 19858,
       "comment": null
+    },
+    {
+      "id": "29899",
+      "name": "Deals of the Week",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-07-26T14:41:48.253Z",
+      "updated": "2025-06-24T15:00:42.464Z",
+      "status": "ACTIVE",
+      "referenceCount": 86,
+      "comment": ""
     },
     {
       "id": "9549",
@@ -80,7 +92,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 4363,
+      "referenceCount": 4380,
       "comment": null
     },
     {
@@ -118,6 +130,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -153,6 +169,114 @@
       "uploadedDate": "2023-11-10T09:39:21.935Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://0ae2af93-d59f-4131-a6ff-0d8324254f40?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F6ab5e394304c4916a4cc49ad8d1a4f39%2Fperfect-plan-video-3lxy5.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 288326163,
+      "uploadedDate": "2023-11-06T17:59:56.038Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-15361.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2526686,
+      "uploadedDate": "2025-06-21T12:17:52.446Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-l78ng.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2443815,
+      "uploadedDate": "2023-11-06T13:36:31.280Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-1t2kb.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2228918,
+      "uploadedDate": "2023-11-06T13:36:32.218Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-1p9el.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2929384,
+      "uploadedDate": "2023-11-06T13:36:30.914Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-1u3q4.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 3146536,
+      "uploadedDate": "2023-11-06T13:36:31.447Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-guk3o.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2604605,
+      "uploadedDate": "2023-11-06T13:36:32.671Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-17sf2.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2222764,
+      "uploadedDate": "2023-11-06T13:36:30.731Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-3f8av.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2280766,
+      "uploadedDate": "2023-11-06T13:36:32.564Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-mewf2.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2837752,
+      "uploadedDate": "2023-11-06T13:36:31.559Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-1pphn.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2923720,
+      "uploadedDate": "2023-11-06T13:36:30.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "GalleryImage",
+      "url": "https://cdn1.epicgames.com/spt-assets/6ab5e394304c4916a4cc49ad8d1a4f39/perfect-plan-19jqa.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 304856,
+      "uploadedDate": "2025-06-21T12:20:59.371Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
