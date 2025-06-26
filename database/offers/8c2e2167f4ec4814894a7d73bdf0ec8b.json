@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "faf9430304e84b9286719c05b7c45331",
   "creationDate": "2025-06-23T04:02:44.111Z",
-  "lastModifiedDate": "2025-06-23T04:02:44.111Z",
-  "effectiveDate": "2025-06-23T04:02:25.000Z",
-  "viewableDate": "2025-06-23T04:02:25.000Z",
+  "lastModifiedDate": "2025-06-25T14:46:17.455Z",
+  "effectiveDate": "2025-06-23T04:00:00.000Z",
+  "viewableDate": "2025-06-23T04:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-sgnf67rv4q6bb6r2kp7w9bn8brq83f",
@@ -25,26 +25,26 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
     {
       "id": "1296",
       "name": "Casual",
-      "namespace": "epic",
+      "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-08-23T04:55:54.798Z",
+      "updated": "2025-06-25T02:49:33.997Z",
       "status": "ACTIVE",
-      "referenceCount": 423,
+      "referenceCount": 1098,
       "comment": null
     },
     {
@@ -54,21 +54,21 @@
       "aliases": [],
       "operator": null,
       "created": "2022-09-13T16:48:03.250Z",
-      "updated": "2023-08-22T10:15:49.955Z",
+      "updated": "2025-06-25T08:25:49.680Z",
       "status": "ACTIVE",
-      "referenceCount": 447,
+      "referenceCount": 450,
       "comment": ""
     },
     {
       "id": "9547",
       "name": "Windows",
-      "namespace": "epic",
+      "namespace": null,
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
+      "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19858,
+      "referenceCount": 19872,
       "comment": null
     }
   ],
