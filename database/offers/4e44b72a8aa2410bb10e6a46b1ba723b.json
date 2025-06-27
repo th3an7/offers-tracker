@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "dungeons-4-tales-from-the-campfire",
   "creationDate": "2025-05-06T08:34:54.723Z",
-  "lastModifiedDate": "2025-06-25T12:23:57.677Z",
+  "lastModifiedDate": "2025-06-26T13:26:32.853Z",
   "effectiveDate": "2025-06-26T13:00:00.000Z",
   "viewableDate": "2025-06-03T13:00:00.000Z",
   "developer": null,
@@ -65,7 +65,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2025-06-25T08:10:53.756Z",
       "status": "ACTIVE",
-      "referenceCount": 5434,
+      "referenceCount": 5439,
       "comment": ""
     },
     {
@@ -81,6 +81,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 19907,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": null,
@@ -90,18 +102,6 @@
       "updated": "2025-06-25T02:49:28.322Z",
       "status": "ACTIVE",
       "referenceCount": 2189,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 19872,
       "comment": null
     }
   ],
@@ -158,6 +158,15 @@
       "uploadedDate": "2025-05-16T08:21:14.678Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://2c7c119d-bc72-4c35-aa0f-5ca3815f8ab5?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F03e531531e934f959b6d0e9763f9a0cc%2Fdungeons-4-video-18jka.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 129321871,
+      "uploadedDate": "2025-06-25T14:17:28.061Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "featuredMedia",
