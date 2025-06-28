@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "8ceaa0a78d164b3d9e180682072460e5",
-  "creationDate": "2025-04-19T17:14:32.202Z",
-  "lastModifiedDate": "2025-06-24T14:00:17.619Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-11-28T07:56:09.474Z",
+  "lastModifiedDate": "2025-06-27T02:00:11.827Z",
+  "effectiveDate": "2025-06-27T02:00:00.000Z",
   "viewableDate": "2025-04-19T17:14:15.000Z",
   "developer": null,
   "seller": {
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2025-06-25T08:10:53.756Z",
       "status": "ACTIVE",
-      "referenceCount": 5439,
+      "referenceCount": 5444,
       "comment": ""
     },
     {
@@ -84,18 +84,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 19907,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": null,
@@ -105,6 +93,18 @@
       "updated": "2025-06-25T02:49:28.322Z",
       "status": "ACTIVE",
       "referenceCount": 2189,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 19925,
       "comment": null
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
