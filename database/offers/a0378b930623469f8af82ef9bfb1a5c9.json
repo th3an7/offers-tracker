@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "6423c7be61af48a79c8a822a5294e19c",
   "creationDate": "2024-02-15T15:10:49.108Z",
-  "lastModifiedDate": "2025-01-23T18:50:22.774Z",
+  "lastModifiedDate": "2025-07-02T18:58:13.928Z",
   "effectiveDate": "2024-08-23T03:00:00.000Z",
   "viewableDate": "2024-05-22T15:46:12.918Z",
   "developer": null,
@@ -36,16 +36,28 @@
   ],
   "tags": [
     {
-      "id": "21894",
-      "name": "Cloud Saves",
+      "id": "1296",
+      "name": "Casual",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2025-06-25T08:10:54.765Z",
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2025-06-25T02:49:33.997Z",
       "status": "ACTIVE",
-      "referenceCount": 2386,
-      "comment": ""
+      "referenceCount": 1098,
+      "comment": null
+    },
+    {
+      "id": "1158",
+      "name": "Rhythm",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:37.130Z",
+      "updated": "2025-06-25T02:49:29.682Z",
+      "status": "ACTIVE",
+      "referenceCount": 29,
+      "comment": null
     },
     {
       "id": "19847",
@@ -56,22 +68,8 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2025-06-25T08:10:53.756Z",
       "status": "ACTIVE",
-      "referenceCount": 5458,
+      "referenceCount": 5468,
       "comment": ""
-    },
-    {
-      "id": "1129",
-      "name": "Music",
-      "namespace": null,
-      "aliases": [
-        "MUSIC"
-      ],
-      "operator": null,
-      "created": "2019-06-20T11:59:22.582Z",
-      "updated": "2025-06-25T02:49:29.376Z",
-      "status": "ACTIVE",
-      "referenceCount": 111,
-      "comment": null
     },
     {
       "id": "1370",
@@ -94,7 +92,19 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19964,
+      "referenceCount": 19972,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2025-06-25T08:25:49.469Z",
+      "status": "ACTIVE",
+      "referenceCount": 4416,
       "comment": null
     },
     {
@@ -121,7 +131,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

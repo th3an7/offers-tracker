@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "f0b545c8f22a40678aa8ffe195d8fd72",
   "creationDate": "2021-06-28T15:36:37.574Z",
-  "lastModifiedDate": "2022-02-21T14:43:13.893Z",
+  "lastModifiedDate": "2025-07-02T12:43:01.696Z",
   "effectiveDate": "2021-09-21T03:00:00.000Z",
   "viewableDate": "2021-09-06T03:00:00.000Z",
   "developer": null,
@@ -25,28 +25,19 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/edition/base"
+      "path": "freegames"
+    },
+    {
+      "path": "games"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games"
+      "path": "games/edition/base"
     }
   ],
   "tags": [
-    {
-      "id": "1296",
-      "name": "Casual",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2025-06-25T02:49:33.997Z",
-      "status": "ACTIVE",
-      "referenceCount": 1098,
-      "comment": null
-    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -57,6 +48,18 @@
       "updated": "2025-06-25T08:25:43.983Z",
       "status": "ACTIVE",
       "referenceCount": 2751,
+      "comment": null
+    },
+    {
+      "id": "1296",
+      "name": "Casual",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2025-06-25T02:49:33.997Z",
+      "status": "ACTIVE",
+      "referenceCount": 1098,
       "comment": null
     },
     {
@@ -80,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19964,
+      "referenceCount": 19972,
       "comment": null
     },
     {
@@ -92,7 +95,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2025-06-25T08:25:49.469Z",
       "status": "ACTIVE",
-      "referenceCount": 4411,
+      "referenceCount": 4416,
       "comment": null
     },
     {
