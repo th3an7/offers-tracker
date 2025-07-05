@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "1980",
   "creationDate": "2025-02-27T09:19:01.697Z",
-  "lastModifiedDate": "2025-07-02T00:47:59.265Z",
+  "lastModifiedDate": "2025-07-04T10:39:46.227Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2025-03-12T01:27:23.000Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/notvisible/consumable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -41,7 +44,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19979,
+      "referenceCount": 19991,
       "comment": null
     }
   ],
