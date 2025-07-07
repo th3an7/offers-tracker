@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "405ccf234f1544f19a63c5bab27ae361",
   "creationDate": "2023-04-04T11:10:14.056Z",
-  "lastModifiedDate": "2024-07-23T15:00:18.827Z",
+  "lastModifiedDate": "2025-07-06T08:48:33.293Z",
   "effectiveDate": "2023-10-16T23:00:00.000Z",
   "viewableDate": "2023-05-07T06:30:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
     },
     {
-      "path": "games/edition/base"
+      "path": "games"
     }
   ],
   "tags": [
@@ -108,6 +108,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 19993,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": null,
@@ -132,18 +144,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 19992,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "Controller Support",
       "namespace": null,
@@ -152,7 +152,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2025-06-25T08:25:49.469Z",
       "status": "ACTIVE",
-      "referenceCount": 4418,
+      "referenceCount": 4419,
       "comment": null
     },
     {
@@ -176,6 +176,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",

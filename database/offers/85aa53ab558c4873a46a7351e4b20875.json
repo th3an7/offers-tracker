@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "fca0792b467d4a218a50a36d4197d971",
   "creationDate": "2023-08-06T18:07:28.842Z",
-  "lastModifiedDate": "2025-06-26T10:44:36.226Z",
+  "lastModifiedDate": "2025-07-06T14:52:06.425Z",
   "effectiveDate": "2023-09-05T19:30:00.000Z",
   "viewableDate": "2023-09-05T17:00:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 19993,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": null,
@@ -69,18 +81,6 @@
       "updated": "2025-06-25T02:49:34.453Z",
       "status": "ACTIVE",
       "referenceCount": 825,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 19992,
       "comment": null
     },
     {
@@ -106,6 +106,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -117,30 +121,84 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-1clak.png",
-      "md5": "aadc410cd6acccd7ac9bbe341943b685",
-      "size": 3301293,
-      "uploadedDate": "2023-08-06T18:16:14.694Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-1risv.png",
+      "md5": "06804e7f137145ff63af80f3a00d0b89",
+      "size": 3071309,
+      "uploadedDate": "2025-07-06T12:13:10.012Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-16mas.png",
-      "md5": "253dc1ff5042ae639a8dbbadef73ea0f",
-      "size": 1389748,
-      "uploadedDate": "2023-08-06T18:16:13.549Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-1z0a5.png",
+      "md5": "2d8fc3312c262917ea131ef303e97887",
+      "size": 1609095,
+      "uploadedDate": "2025-07-06T12:13:12.501Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-16mas.png",
-      "md5": "253dc1ff5042ae639a8dbbadef73ea0f",
-      "size": 1389748,
-      "uploadedDate": "2023-08-06T18:16:13.549Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-1z0a5.png",
+      "md5": "2d8fc3312c262917ea131ef303e97887",
+      "size": 1609095,
+      "uploadedDate": "2025-07-06T12:13:12.501Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-y435a.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1402952,
+      "uploadedDate": "2025-07-06T12:15:24.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-y3nx5.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1443232,
+      "uploadedDate": "2025-07-06T12:15:32.727Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-d2ysv.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1405160,
+      "uploadedDate": "2025-07-06T12:15:28.169Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-16j2g.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 2076252,
+      "uploadedDate": "2025-07-06T12:15:26.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-1kyab.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1418959,
+      "uploadedDate": "2025-07-06T12:15:26.086Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/b3fcc3be521141e9af8264809fd28131/city-ambulance-car-driving-1gejn.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1436661,
+      "uploadedDate": "2025-07-06T12:15:29.965Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
