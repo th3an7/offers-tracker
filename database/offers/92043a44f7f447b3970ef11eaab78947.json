@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "1000plat",
-  "creationDate": "2025-05-05T20:24:36.111Z",
-  "lastModifiedDate": "2025-05-13T17:16:41.450Z",
+  "creationDate": "2020-11-20T19:55:32.208Z",
+  "lastModifiedDate": "2025-07-07T19:29:22.658Z",
   "effectiveDate": "2020-12-16T19:00:00.000Z",
   "viewableDate": "2020-12-16T19:00:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/consumable"
-    },
-    {
       "path": "spthidden"
     },
     {
-      "path": "applications"
+      "path": "spthidden/notvisible/consumable"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19993,
+      "referenceCount": 20004,
       "comment": null
     },
     {
