@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "8179a671c2a249e992e05d5a2549b49e",
   "creationDate": "2023-08-23T18:50:54.399Z",
-  "lastModifiedDate": "2025-06-26T10:44:38.389Z",
+  "lastModifiedDate": "2025-07-09T13:54:31.620Z",
   "effectiveDate": "2023-09-30T05:30:00.000Z",
   "viewableDate": "2023-09-30T05:30:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 20023,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": null,
@@ -69,18 +81,6 @@
       "updated": "2025-06-25T02:49:34.453Z",
       "status": "ACTIVE",
       "referenceCount": 825,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 20009,
       "comment": null
     },
     {
@@ -106,6 +106,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -117,30 +121,75 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-105za.png",
-      "md5": "867d8cc744e8bb026f2c4664854b2f50",
-      "size": 1264396,
-      "uploadedDate": "2023-08-23T19:01:30.936Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-hj05w.png",
+      "md5": "d7fdf53a2e66014e5678c29f963f8fa0",
+      "size": 3848628,
+      "uploadedDate": "2025-07-09T12:07:42.029Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-13ykl.png",
-      "md5": "0252f99d4f4c011b4d76e891969a0463",
-      "size": 1535618,
-      "uploadedDate": "2023-08-23T19:01:36.834Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-1997e.png",
+      "md5": "8bab73e0dce14676bd40e36a9bf8a99a",
+      "size": 1505917,
+      "uploadedDate": "2025-07-09T12:07:43.783Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-13ykl.png",
-      "md5": "0252f99d4f4c011b4d76e891969a0463",
-      "size": 1535618,
-      "uploadedDate": "2023-08-23T19:01:36.834Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-1997e.png",
+      "md5": "8bab73e0dce14676bd40e36a9bf8a99a",
+      "size": 1505917,
+      "uploadedDate": "2025-07-09T12:07:43.783Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-lpuci.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1323817,
+      "uploadedDate": "2025-07-09T12:08:49.750Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-m3hhn.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1164296,
+      "uploadedDate": "2025-07-09T12:08:49.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-1g355.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1467931,
+      "uploadedDate": "2025-07-09T12:08:50.120Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-3miop.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1209866,
+      "uploadedDate": "2025-07-09T12:08:49.791Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/f254a5914be247b89649a8e1d4b61cd2/cargo-truck-simulator-2023-tjeuw.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1165277,
+      "uploadedDate": "2025-07-09T12:08:50.415Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
