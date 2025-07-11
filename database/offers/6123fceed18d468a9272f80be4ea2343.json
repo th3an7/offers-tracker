@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "expeditions-a-mudrunner-game-public-beta",
-  "creationDate": "2024-09-05T12:14:27.205Z",
-  "lastModifiedDate": "2024-09-05T12:14:27.205Z",
+  "creationDate": "2024-06-05T12:28:28.433Z",
+  "lastModifiedDate": "2025-07-10T08:54:27.770Z",
   "effectiveDate": "2024-09-05T12:14:08.392Z",
   "viewableDate": "2024-09-05T12:14:08.392Z",
   "developer": null,
@@ -25,10 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "spthidden/digitalextras"
+      "path": "spthidden"
     },
     {
-      "path": "spthidden"
+      "path": "spthidden/notvisible/digitalextras"
+    },
+    {
+      "path": "spthidden/notvisible"
     }
   ],
   "tags": [
@@ -41,7 +44,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2025-06-25T08:10:53.756Z",
       "status": "ACTIVE",
-      "referenceCount": 5506,
+      "referenceCount": 5508,
       "comment": ""
     },
     {
@@ -53,7 +56,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20023,
+      "referenceCount": 20030,
       "comment": null
     }
   ],
@@ -68,7 +71,7 @@
     },
     {
       "key": "isPromotionalContentUsed",
-      "value": "null"
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
