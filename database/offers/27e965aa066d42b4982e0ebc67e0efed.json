@@ -3,12 +3,12 @@
   "namespace": "3edf9b22834b4b2aa3ba369dea2d415b",
   "title": "Battleships Combat: Evolved",
   "description": "A remake of the classical sea battle-type game, where players take turns to guess enemy ship position. In our game players fight on a customizable battlefield and enjoy a great roster of ships from the 20th century with interesting damage patterns.",
-  "longDescription": "<!--textBlock-->\n<!--title-->\n# A classical game, but with a twist!\n<!--text-->\nSelect from a catalogue of 20 unique ships (and structures), from the 20th century, to place on the battlefield. Each has a special damage pattern or a unique ability.\n\nDistribute them over the battlefield as unpredictable, as possible and try to hit the hostile ships on his battlefield by guessing.\n\nThe game offers a singleplayer mode, versus a computer of several difficulties and a local (LAN) multiplayer mode against another player.\n\nPlayers can choose different ships (up to the common limits). When playing against computer, he can have either the same ships, or choose possibly different as well.\n\n<!--image-->\n![Battleships Combat: Evolved-11h6y](https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-11h6y.jpg)\n\n<!--textBlock-->\n<!--title-->\n# Local multiplayer\n<!--text-->\nExperienced users may know ways (hinted in the game) how to connect using LAN with a player from far away (on different router).\n\nThis version of the game has no EAS integration, as it's our first commercial project.\nIf enough players would be interested, it is possible to set up easier (global) \"peer to peer\" connection and random matchmaking lobby, with leaderboards and achievements using the awesome Epic Games tools.\nFor several reasons, it would be a new, separate game (requiring EAS). Owners of this version will get key for the other version for free.\n\n<!--clickableImage-->\n[![Battleships Combat: Evolved-1j6w7](https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1j6w7.png)](https://mantegralstudio.com/games/BCE/index.html)\n\n<!--textBlock-->\n<!--title-->\n# Used visual assets:\n<!--text-->\nThe Battle for Wesnoth water animation created by Zabin and zookeeper,\nExplosion created by Cuzco,\nSimple Explosion - Bleed's Game Art created by Bleed,\nExplosion created by BenHickling,\nMore info about their licensing avaible on our page, link:\nhttps://mantegralstudio.com/games/BCE/index.html\n",
+  "longDescription": "<!--textBlock-->\n<!--text-->\nA spiritual successor of the classical pen & paper sea battle-type games, where player take turns to guess enemy ship position.\n\n<!--image-->\n![Battleships Combat: Evolved-11h6y](https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-11h6y.jpg)\n\n<!--textBlock-->\n<!--title-->\n# Interesting ships\n<!--text-->\nSelect from a catalogue of 20 unique ships (and structures), inspired by vessels from the 20th century, to place on the battlefield. Each (except few) has unique shape and a special damage pattern or a unique ability.\n\nDistribute them over the battlefield as unpredictable, as possible and try to hit the hostile ships on his battlefield by guessing.\n\n<!--image-->\n![Battleships Combat: Evolved-1kax7](https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1kax7.png)\n\n<!--textBlock-->\n<!--title-->\n# Custom battlefield\n<!--text-->\nThe hosting player can customize the map size and the number of island tiles. Additionally, they can set a limit on the total number of ships, which both sides must adhere to. These options together provide a high level of replayability.\n\n<!--image-->\n![Battleships Combat: Evolved-wsls5](https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-wsls5.png)\n\n<!--textBlock-->\n<!--title-->\n# Singleplayer versus AI\n<!--text-->\nThe game features a single-player mode where you face off against an AI with multiple difficulty levels. Each difficulty alters how the AI decides where to shoot from and what to shoot with. The challenge can be further increased by allowing the AI to fire more frequently.The computer could place the same ships, or choose other ships up to the budged. Or his budged could be boosted as well.\n\n<!--textBlock-->\n<!--title-->\n# Local multiplayer\n<!--text-->\nAnd naturally, as a multiplayer game, it also allows you to play against other players. The multiplayer is unfortunately limited to LAN.\n\nBut experienced users may know ways (hinted in the game) how to connect using LAN to a player from far away (on different router).\n\nThis version of the game has no steamworks integration, as it's our first commercial project.If enough players would be interested, it is possible to set up easier (global) \"peer to peer\" connection and random matchmaking lobby, with leaderboards and achievements using the awesome Steam tools.\n\n<!--image-->\n![Battleships Combat: Evolved-ujaem](https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-ujaem.jpg)\n\n<!--textBlock-->\n<!--title-->\n# Used visual assets:\n<!--text-->\nThe Battle for Wesnoth water animation created by Zabin and zookeeper,\nExplosion created by Cuzco,\nSimple Explosion - Bleed's Game Art created by Bleed,\nExplosion created by BenHickling,\nMore info about their licensing avaible on our page, link:\nhttps://mantegralstudio.com/games/BCE/index.html\n",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "a5bbb45d9df746dcb5066e516aaf78e2",
   "creationDate": "2025-01-01T17:47:42.470Z",
-  "lastModifiedDate": "2025-06-03T15:34:07.961Z",
+  "lastModifiedDate": "2025-07-11T10:00:18.311Z",
   "effectiveDate": "2025-01-29T09:06:35.000Z",
   "viewableDate": "2025-01-20T11:15:11.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20030,
+      "referenceCount": 20040,
       "comment": null
     },
     {
@@ -148,46 +148,100 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1kb7u.png",
-      "md5": "f9e6e0abcc6fb3c278659ce3863da1cc",
-      "size": 1930527,
-      "uploadedDate": "2025-05-04T10:31:05.987Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1i8pq.png",
+      "md5": "1e34a6cc443bf3d288338804af635c62",
+      "size": 3986024,
+      "uploadedDate": "2025-07-04T16:24:26.639Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1pn8u.png",
-      "md5": "7ede833cdbf89f40e143a751d8afaa09",
-      "size": 2125858,
-      "uploadedDate": "2025-05-04T10:31:16.958Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-3jj2i.png",
+      "md5": "e5dd3f2eb4fd042a8fcd0e15684102dd",
+      "size": 3109837,
+      "uploadedDate": "2025-07-04T16:24:31.676Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1pn8u.png",
-      "md5": "7ede833cdbf89f40e143a751d8afaa09",
-      "size": 2125858,
-      "uploadedDate": "2025-05-04T10:31:16.958Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-3jj2i.png",
+      "md5": "e5dd3f2eb4fd042a8fcd0e15684102dd",
+      "size": 3109837,
+      "uploadedDate": "2025-07-04T16:24:31.676Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://518dd428-0cb6-45cd-8827-5892409c2012?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc20bfbbbf1ec4be3ae9148b5b3766fab%2Fbattleships-combat-evolved-video-kw487.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 192248828,
+      "uploadedDate": "2025-07-09T11:11:26.722Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "type": "featuredMedia",
-      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-5l8oh.jpg",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-u2a4o.png",
       "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 882755,
-      "uploadedDate": "2025-05-04T10:38:02.183Z",
+      "size": 1349326,
+      "uploadedDate": "2025-07-04T15:05:24.223Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1cxd5.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 533788,
+      "uploadedDate": "2025-07-04T15:05:24.055Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-4exr0.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 585266,
+      "uploadedDate": "2025-07-04T15:05:23.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1xiam.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 614881,
+      "uploadedDate": "2025-07-04T15:05:24.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-1vicc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 609221,
+      "uploadedDate": "2025-07-04T15:05:23.992Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/c20bfbbbf1ec4be3ae9148b5b3766fab/battleships-combat-evolved-19ctc.png",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 614514,
+      "uploadedDate": "2025-07-04T15:05:23.961Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "heroCarouselVideo",
-      "url": "com.epicgames.video://1c7bbe71-0884-4767-b569-90f83c52ba82?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc20bfbbbf1ec4be3ae9148b5b3766fab%2Fbattleships-combat-evolved-video-euu6s.png",
+      "url": "com.epicgames.video://63488fea-333c-4ca3-969f-bee8fa3191cc?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fc20bfbbbf1ec4be3ae9148b5b3766fab%2Fbattleships-combat-evolved-video-1uidy.png",
       "md5": "comepicgamesvideomd5hashconstant",
-      "size": 238637896,
-      "uploadedDate": "2025-02-15T21:44:31.703Z",
+      "size": 155423455,
+      "uploadedDate": "2025-07-09T11:15:13.796Z",
       "width": 1920,
       "height": 1080
     },

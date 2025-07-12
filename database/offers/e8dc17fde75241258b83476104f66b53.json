@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "rimworld-odyssey",
   "creationDate": "2025-06-04T23:34:49.393Z",
-  "lastModifiedDate": "2025-06-25T16:09:01.421Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2025-07-11T20:00:18.783Z",
+  "effectiveDate": "2025-07-11T22:00:00.000Z",
   "viewableDate": "2025-06-11T17:41:34.000Z",
   "developer": null,
   "seller": {
@@ -69,18 +69,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 20030,
-      "comment": null
-    },
-    {
       "id": "1115",
       "name": "Strategy",
       "namespace": null,
@@ -90,6 +78,18 @@
       "updated": "2025-06-25T02:49:28.322Z",
       "status": "ACTIVE",
       "referenceCount": 2189,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 20040,
       "comment": null
     },
     {
@@ -240,6 +240,15 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 768895,
       "uploadedDate": "2025-06-20T21:47:54.869Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://bf23a0c9-e647-4d42-8a81-134b903a9b88?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff39371235a0f429d9d33b76a9bfa8916%2Frimworld-video-ski83.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 266373305,
+      "uploadedDate": "2025-07-10T22:42:25.898Z",
       "width": 1920,
       "height": 1080
     }
