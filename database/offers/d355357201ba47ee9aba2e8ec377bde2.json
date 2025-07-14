@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "8728ea7fa3844bd58e8417e1d67adc50",
   "creationDate": "2023-03-13T10:11:20.127Z",
-  "lastModifiedDate": "2023-05-10T19:16:52.436Z",
+  "lastModifiedDate": "2025-07-13T09:04:54.537Z",
   "effectiveDate": "2023-05-10T08:00:00.000Z",
   "viewableDate": "2023-05-05T08:30:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2025-06-25T08:25:50.995Z",
+      "status": "ACTIVE",
+      "referenceCount": 2665,
+      "comment": ""
+    },
+    {
       "id": "1393",
       "name": "Simulation",
       "namespace": null,
@@ -57,18 +69,6 @@
       "updated": "2025-06-25T02:49:36.519Z",
       "status": "ACTIVE",
       "referenceCount": 2138,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2025-06-25T08:25:42.905Z",
-      "status": "ACTIVE",
-      "referenceCount": 1743,
       "comment": null
     },
     {
@@ -92,19 +92,7 @@
       "created": "2022-09-13T16:48:03.250Z",
       "updated": "2025-06-25T08:25:49.680Z",
       "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": ""
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2025-06-25T08:10:53.756Z",
-      "status": "ACTIVE",
-      "referenceCount": 5514,
+      "referenceCount": 453,
       "comment": ""
     },
     {
@@ -120,6 +108,18 @@
       "comment": ""
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 20050,
+      "comment": null
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": null,
@@ -129,18 +129,6 @@
       "updated": "2025-06-25T02:49:28.322Z",
       "status": "ACTIVE",
       "referenceCount": 2189,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 20047,
       "comment": null
     },
     {
@@ -179,6 +167,10 @@
     {
       "key": "isManuallySetViewableDate",
       "value": "true"
+    },
+    {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
     },
     {
       "key": "isManuallySetPCReleaseDate",
