@@ -2,13 +2,13 @@
   "id": "0681b1ac469c455890dcbcdb34246b21",
   "namespace": "aaa64a6e060d46ba8de15f19a0d6269e",
   "title": "The Bornless",
-  "description": "Dive into The Bornless, a thrilling free-to-play horror FPS. Face off against rivals and demons in a mysterious world. Use black magic, acquire powerful weapons, and strategize to survive. Unravel the secrets of the Bornless Ritual with every victory.",
+  "description": "Welcome to The Bornless, an action horror FPS. Face off against other players, summon demons, and build factions in a Lovecraftian world. Use Black Magick, acquire powerful weapons, upgrade your Safehouse, and strategize to survive.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "6260e09a33aa4dbea907380bd025fa08",
   "creationDate": "2023-02-02T16:41:09.249Z",
-  "lastModifiedDate": "2025-01-07T15:54:47.612Z",
+  "lastModifiedDate": "2025-07-14T13:36:57.332Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-08-08T03:00:00.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2025-06-25T08:25:50.995Z",
       "status": "ACTIVE",
-      "referenceCount": 2665,
+      "referenceCount": 2676,
       "comment": ""
     },
     {
@@ -116,7 +116,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20050,
+      "referenceCount": 20067,
       "comment": null
     },
     {
@@ -128,7 +128,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2025-06-25T08:25:49.469Z",
       "status": "ACTIVE",
-      "referenceCount": 4429,
+      "referenceCount": 4433,
       "comment": null
     },
     {
@@ -166,6 +166,10 @@
       "value": "false"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "false"
     },
@@ -177,30 +181,138 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-his99.png",
-      "md5": "314a9cf3116500391fcd3814821bca66",
-      "size": 3401825,
-      "uploadedDate": "2023-08-30T08:58:19.795Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1xqhf.png",
+      "md5": "31257aa99c31f20827190201c4af95ae",
+      "size": 3862019,
+      "uploadedDate": "2025-07-03T12:13:22.163Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-mbivp.png",
-      "md5": "e0abde9b51f07eb757739381d56e2d4b",
-      "size": 2154516,
-      "uploadedDate": "2023-08-30T08:58:27.096Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-j8etf.png",
+      "md5": "faf6548cf5642e992225cd42d01fa635",
+      "size": 2780774,
+      "uploadedDate": "2025-07-03T12:13:24.106Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-mbivp.png",
-      "md5": "e0abde9b51f07eb757739381d56e2d4b",
-      "size": 2154516,
-      "uploadedDate": "2023-08-30T08:58:27.096Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-j8etf.png",
+      "md5": "faf6548cf5642e992225cd42d01fa635",
+      "size": 2780774,
+      "uploadedDate": "2025-07-03T12:13:24.106Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://855d4b84-e38d-4a69-917f-4fb199b38e6e?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F2108caf3a9514ab0b1a4d2383197d452%2Fthe-bornless-video-1x613.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 195071548,
+      "uploadedDate": "2025-07-03T12:11:02.285Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-zjix4.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1994519,
+      "uploadedDate": "2025-07-02T14:32:26.599Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1fjf9.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 810968,
+      "uploadedDate": "2025-07-02T14:32:29.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1qi5b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1984574,
+      "uploadedDate": "2025-07-02T14:33:32.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-87gb4.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 582129,
+      "uploadedDate": "2025-07-02T14:33:34.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1q8fw.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 812006,
+      "uploadedDate": "2025-07-02T14:34:40.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1qe57.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 990982,
+      "uploadedDate": "2025-07-02T14:34:43.391Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-fkjfe.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 880080,
+      "uploadedDate": "2025-07-02T14:36:26.420Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-a8wb8.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 630416,
+      "uploadedDate": "2025-07-02T14:36:29.544Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1k2lj.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1017729,
+      "uploadedDate": "2025-07-02T14:37:46.707Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1lqk7.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1777369,
+      "uploadedDate": "2025-07-02T14:37:47.060Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/2108caf3a9514ab0b1a4d2383197d452/the-bornless-1gahn.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1012725,
+      "uploadedDate": "2025-07-02T14:38:56.208Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
