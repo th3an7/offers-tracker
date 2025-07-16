@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "d27f6d4ea2be4ca98b1b7fb95c7a5acf",
   "creationDate": "2023-08-19T18:13:59.040Z",
-  "lastModifiedDate": "2025-06-26T10:44:36.799Z",
+  "lastModifiedDate": "2025-07-15T20:18:38.235Z",
   "effectiveDate": "2023-09-03T17:00:00.000Z",
   "viewableDate": "2023-08-31T17:00:00.000Z",
   "developer": null,
@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2025-06-25T08:35:20.218Z",
+      "status": "ACTIVE",
+      "referenceCount": 20083,
+      "comment": null
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": null,
@@ -69,18 +81,6 @@
       "updated": "2025-06-25T02:49:34.453Z",
       "status": "ACTIVE",
       "referenceCount": 825,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2025-06-25T08:35:20.218Z",
-      "status": "ACTIVE",
-      "referenceCount": 20067,
       "comment": null
     },
     {
@@ -106,6 +106,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "false"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -117,30 +121,75 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-123n1.png",
-      "md5": "70494355b7b0c0572e7f450b4bdf9fce",
-      "size": 1162610,
-      "uploadedDate": "2023-08-19T18:22:15.254Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-6cwbw.png",
+      "md5": "db26dae30085170446edc642423f7a0e",
+      "size": 3476765,
+      "uploadedDate": "2025-07-15T12:25:48.830Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-1mh9s.png",
-      "md5": "b1ee9ff815546d8c6c4b8968deefd6d5",
-      "size": 1450388,
-      "uploadedDate": "2023-08-19T18:22:16.728Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-15zww.png",
+      "md5": "e69db7872786bec390a1ba0c25318237",
+      "size": 1700537,
+      "uploadedDate": "2025-07-15T12:25:50.597Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-1mh9s.png",
-      "md5": "b1ee9ff815546d8c6c4b8968deefd6d5",
-      "size": 1450388,
-      "uploadedDate": "2023-08-19T18:22:16.728Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-15zww.png",
+      "md5": "e69db7872786bec390a1ba0c25318237",
+      "size": 1700537,
+      "uploadedDate": "2025-07-15T12:25:50.597Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-1uvnd.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1636941,
+      "uploadedDate": "2025-07-15T12:27:01.887Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-1f8si.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1474619,
+      "uploadedDate": "2025-07-15T12:27:04.826Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-10j4l.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1584198,
+      "uploadedDate": "2025-07-15T12:26:59.555Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-6dwqf.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1502967,
+      "uploadedDate": "2025-07-15T12:26:59.803Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "featuredMedia",
+      "url": "https://cdn1.epicgames.com/spt-assets/eb3427231eb64cf4a313281aca3856bc/e30-drift-car-simulator-quw9b.jpg",
+      "md5": "098f6bcd4621d373cade4e832627b4f6",
+      "size": 1542292,
+      "uploadedDate": "2025-07-15T12:27:00.234Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

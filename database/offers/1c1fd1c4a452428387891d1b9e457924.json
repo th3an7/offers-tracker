@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "bd0563c84fe3474fa0fd4488af19cc19",
   "creationDate": "2024-04-22T09:54:32.830Z",
-  "lastModifiedDate": "2025-05-30T08:53:49.649Z",
+  "lastModifiedDate": "2025-07-15T12:15:01.650Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2024-12-04T18:48:30.000Z",
   "developer": null,
@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2025-06-25T08:25:50.995Z",
       "status": "ACTIVE",
-      "referenceCount": 2676,
+      "referenceCount": 2682,
       "comment": ""
     },
     {
@@ -68,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20067,
+      "referenceCount": 20083,
       "comment": null
     },
     {
@@ -80,23 +80,8 @@
       "created": "2022-06-24T20:06:43.344Z",
       "updated": "2024-10-25T20:00:26.146Z",
       "status": "ACTIVE",
-      "referenceCount": 292,
+      "referenceCount": 291,
       "comment": ""
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": null,
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2025-06-25T08:35:20.603Z",
-      "status": "ACTIVE",
-      "referenceCount": 1732,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -227,6 +212,24 @@
       "md5": "098f6bcd4621d373cade4e832627b4f6",
       "size": 2520433,
       "uploadedDate": "2024-11-13T13:40:23.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://ecc383e3-a6d2-45b9-be8d-d6d7dcb3aeea?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F1a96d98cffd94ea985592f627b114301%2Fhaunted-space-video-5a0hb.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 149263730,
+      "uploadedDate": "2025-06-30T10:26:19.228Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "heroCarouselVideo",
+      "url": "com.epicgames.video://a87e1c2d-6efd-4819-9643-754574cf46fc?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F1a96d98cffd94ea985592f627b114301%2Fhaunted-space-video-19km4.png",
+      "md5": "comepicgamesvideomd5hashconstant",
+      "size": 267061043,
+      "uploadedDate": "2025-06-30T12:47:41.538Z",
       "width": 1920,
       "height": 1080
     }
